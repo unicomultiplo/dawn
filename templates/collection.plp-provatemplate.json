@@ -31,6 +31,7 @@
         "heading_tFWD3V",
         "text_tmfUAb"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -99,9 +100,9 @@
         "show_description": false,
         "description_style": "body",
         "collection": "brandani-le-bacche",
-        "products_to_show": 6,
+        "products_to_show": 20,
         "columns_desktop": 6,
-        "full_width": true,
+        "full_width": false,
         "show_view_all": true,
         "view_all_style": "outline",
         "enable_desktop_slider": true,
@@ -120,7 +121,6 @@
     },
     "banner": {
       "type": "main-collection-banner",
-      "disabled": true,
       "custom_css": [
         "a {color: #598db2;}"
       ],
@@ -200,28 +200,10 @@
             "color_scheme": "",
             "text_alignment_mobile": "center"
           }
-        },
-        "slide_GjmcBB": {
-          "type": "slide",
-          "settings": {
-            "heading": "Slide immagine",
-            "heading_size": "h1",
-            "subheading": "Racconta la storia del tuo brand con video e immagini",
-            "button_label": "Etichetta pulsante",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
-        "slide_MPBjwy",
-        "slide_GjmcBB"
+        "slide_MPBjwy"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -323,114 +305,17 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "multirow_FhegKa": {
-      "type": "multirow",
-      "blocks": {
-        "row_fAqFwa": {
-          "type": "row",
-          "settings": {
-            "caption": "Didascalia",
-            "heading": "Riga",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
-          }
-        },
-        "row_9KPnM4": {
-          "type": "row",
-          "settings": {
-            "caption": "Didascalia",
-            "heading": "Riga",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
-          }
-        },
-        "row_WigGEc": {
-          "type": "row",
-          "settings": {
-            "caption": "Didascalia",
-            "heading": "Riga",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "row_fAqFwa",
-        "row_9KPnM4",
-        "row_WigGEc"
-      ],
-      "disabled": true,
-      "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
-        "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "",
-        "row_color_scheme": "",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "collage_jqhq3P": {
-      "type": "collage",
-      "blocks": {
-        "image_7RCGxi": {
-          "type": "image",
-          "settings": {
-          }
-        },
-        "product_9HtwcH": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "collection_3784w3": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_7RCGxi",
-        "product_9HtwcH",
-        "collection_3784w3"
-      ],
-      "disabled": true,
-      "settings": {
-        "heading": "Collage multimediale",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "column",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
+    "banner",
     "image_with_text_FbA7ML",
     "image_banner_dc8VCJ",
     "featured_collection_WwqqBk",
-    "banner",
     "product-grid",
     "featured_collection_GPyi8e",
     "slideshow_LGzjp6",
     "collection_list_pekHrY",
-    "featured_collection_VNkdjC",
-    "multirow_FhegKa",
-    "collage_jqhq3P"
+    "featured_collection_VNkdjC"
   ]
 }
