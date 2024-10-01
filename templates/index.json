@@ -86,7 +86,7 @@
         "heading_Fiibrj": {
           "type": "heading",
           "settings": {
-            "heading": "Scopri l'arte del vetro che unisce tradizione e innovazione 🎄",
+            "heading": "Scopri l'arte del vetro per la Festa più Magica dell’Anno",
             "heading_size": "h2"
           }
         },
@@ -122,7 +122,7 @@
         "collection": "ichendorf-catalogo-natale",
         "products_to_show": 6,
         "columns_desktop": 6,
-        "full_width": false,
+        "full_width": true,
         "show_view_all": true,
         "view_all_style": "outline",
         "enable_desktop_slider": false,
