@@ -9,30 +9,64 @@
 */
 {
   "sections": {
+    "image_with_text_FbA7ML": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_tFWD3V": {
+          "type": "heading",
+          "settings": {
+            "heading": "Le linee più belle del catalogo Brandani online",
+            "heading_size": "h1"
+          }
+        },
+        "text_tmfUAb": {
+          "type": "text",
+          "settings": {
+            "text": "<h1></h1><p>Brandani Gift Group è sempre stata un’azienda che propone un catalogo di prodotti in linea con le nuove tendenze. Il gruppo è camaleontico, attento e in grado di adattarsi alle esigenze di funzionalità, design e novità.</p><h2>Collezioni per la tua casa, linee dedicate al living, alla cucina, alla tavola</h2><p>Sul nostro shop online puoi trovare i prodotti Brandani a prezzi sempre vantaggiosi, con un assortimento vasto che ti sorprenderà.</p><p> Scopri le nostre proposte per la tavola e la cucina...oppure per la casa, il living e le occasioni più importanti.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_tFWD3V",
+        "text_tmfUAb"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "image": "shopify://shop_images/brandani-logo-500x500.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
     "image_banner_dc8VCJ": {
       "type": "image-banner",
       "blocks": {
         "heading_FwPtTe": {
           "type": "heading",
           "settings": {
-            "heading": "Immagine banner",
+            "heading": "Natale con Brandani",
             "heading_size": "h1"
           }
         },
-        "text_w7JCr9": {
-          "type": "text",
-          "settings": {
-            "text": "Fornisci ai clienti dettagli sulle immagini del banner o sul contenuto del modello.",
-            "text_style": "body"
-          }
-        },
-        "buttons_ig7Y9x": {
+        "buttons_MYGkJc": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Etichetta pulsante",
+            "button_label_1": "Tavola di Natale",
             "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Etichetta pulsante",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -40,15 +74,15 @@
       },
       "block_order": [
         "heading_FwPtTe",
-        "text_w7JCr9",
-        "buttons_ig7Y9x"
+        "buttons_MYGkJc"
       ],
       "settings": {
+        "image": "shopify://shop_images/brandani-natale.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
+        "image_height": "small",
+        "desktop_content_position": "middle-left",
         "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
@@ -303,53 +337,6 @@
         "padding_bottom": 52
       }
     },
-    "image_with_text_FbA7ML": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_tFWD3V": {
-          "type": "heading",
-          "settings": {
-            "heading": "Immagine con testo",
-            "heading_size": "h1"
-          }
-        },
-        "text_tmfUAb": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_Y36QcG": {
-          "type": "button",
-          "settings": {
-            "button_label": "Etichetta pulsante",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_tFWD3V",
-        "text_tmfUAb",
-        "button_Y36QcG"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Sdrai_da_Esterno_Lettini_Prendisole_Seletti_1134793d-039a-4b27-89cc-412bd793a4ba.jpg",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "slideshow_LGzjp6": {
       "type": "slideshow",
       "blocks": {
@@ -513,6 +500,7 @@
     }
   },
   "order": [
+    "image_with_text_FbA7ML",
     "image_banner_dc8VCJ",
     "featured_collection_VNkdjC",
     "banner",
@@ -520,7 +508,6 @@
     "featured_collection_GPyi8e",
     "collection_list_pekHrY",
     "rich_text_8f9M6i",
-    "image_with_text_FbA7ML",
     "slideshow_LGzjp6",
     "multirow_FhegKa",
     "collage_jqhq3P",

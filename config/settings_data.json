@@ -9,9 +9,9 @@
 */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/logo_2048_x_1152_1_6c488fbe-6cdb-4948-8e1e-d10805c6738b.png",
+    "logo": "shopify://shop_images/logo_2048_x_1152_1_6c488fbe-6cdb-4948-8e1e-d10805c6738b.png",
     "logo_width": 230,
-    "favicon": "shopify:\/\/shop_images\/Ideogramma___Ufficiale.png",
+    "favicon": "shopify://shop_images/Ideogramma___Ufficiale.png",
     "type_header_font": "roboto_n4",
     "heading_scale": 100,
     "type_body_font": "roboto_n4",
@@ -20,7 +20,7 @@
     "spacing_sections": 16,
     "spacing_grid_horizontal": 20,
     "spacing_grid_vertical": 8,
-    "animations_reveal_on_scroll": false,
+    "animations_reveal_on_scroll": true,
     "animations_hover_elements": "default",
     "buttons_border_thickness": 1,
     "buttons_border_opacity": 100,
@@ -76,7 +76,7 @@
     "blog_card_shadow_horizontal_offset": 0,
     "blog_card_shadow_vertical_offset": 4,
     "blog_card_shadow_blur": 5,
-    "text_boxes_border_thickness": 0,
+    "text_boxes_border_thickness": 4,
     "text_boxes_border_opacity": 10,
     "text_boxes_radius": 0,
     "text_boxes_shadow_opacity": 0,
@@ -109,15 +109,15 @@
     "sold_out_badge_color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
     "brand_headline": "Lo stile che dà forma alle tue idee",
     "brand_description": "",
-    "brand_image": "shopify:\/\/shop_images\/logo_2048_x_1152_1_6c488fbe-6cdb-4948-8e1e-d10805c6738b.png",
+    "brand_image": "shopify://shop_images/logo_2048_x_1152_1_6c488fbe-6cdb-4948-8e1e-d10805c6738b.png",
     "brand_image_width": 190,
-    "social_facebook_link": "https:\/\/www.facebook.com\/unicoemultiplo\/",
-    "social_instagram_link": "https:\/\/www.instagram.com\/unicoemultiplo\/",
-    "social_youtube_link": "https:\/\/www.youtube.com\/@Unicoemultiplo",
+    "social_facebook_link": "https://www.facebook.com/unicoemultiplo/",
+    "social_instagram_link": "https://www.instagram.com/unicoemultiplo/",
+    "social_youtube_link": "https://www.youtube.com/@Unicoemultiplo",
     "social_tiktok_link": "",
     "social_twitter_link": "",
     "social_snapchat_link": "",
-    "social_pinterest_link": "https:\/\/mx.pinterest.com\/unicoemultiplo\/",
+    "social_pinterest_link": "https://mx.pinterest.com/unicoemultiplo/",
     "social_tumblr_link": "",
     "social_vimeo_link": "",
     "predictive_search_enabled": true,
@@ -148,7 +148,7 @@
     ],
     "blocks": {
       "16963237191767492405": {
-        "type": "shopify:\/\/apps\/whatsapp-button\/blocks\/app-embed-block\/96d80a63-e860-4262-a001-8b82ac4d00e6",
+        "type": "shopify://apps/whatsapp-button/blocks/app-embed-block/96d80a63-e860-4262-a001-8b82ac4d00e6",
         "disabled": false,
         "settings": {
         }
@@ -412,7 +412,7 @@
       "sale_badge_color_scheme": "scheme-4",
       "sold_out_badge_color_scheme": "scheme-3",
       "brand_headline": "",
-      "brand_description": "<p><\/p>",
+      "brand_description": "<p></p>",
       "brand_image_width": 100,
       "social_twitter_link": "",
       "social_facebook_link": "",
