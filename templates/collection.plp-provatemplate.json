@@ -9,6 +9,53 @@
 */
 {
   "sections": {
+    "image_banner_dc8VCJ": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_FwPtTe": {
+          "type": "heading",
+          "settings": {
+            "heading": "Immagine banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_w7JCr9": {
+          "type": "text",
+          "settings": {
+            "text": "Fornisci ai clienti dettagli sulle immagini del banner o sul contenuto del modello.",
+            "text_style": "body"
+          }
+        },
+        "buttons_ig7Y9x": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Etichetta pulsante",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Etichetta pulsante",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_FwPtTe",
+        "text_w7JCr9",
+        "buttons_ig7Y9x"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "disabled": true,
@@ -228,12 +275,24 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "button_P6d3wA": {
+          "type": "button",
+          "settings": {
+            "button_label": "Etichetta pulsante",
+            "button_link": "",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
         "heading_mw6JcA",
         "text_hDrV6n",
-        "button_gh4iBD"
+        "button_gh4iBD",
+        "button_P6d3wA"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -243,14 +302,199 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "image_with_text_FbA7ML": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_tFWD3V": {
+          "type": "heading",
+          "settings": {
+            "heading": "Immagine con testo",
+            "heading_size": "h1"
+          }
+        },
+        "text_tmfUAb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_Y36QcG": {
+          "type": "button",
+          "settings": {
+            "button_label": "Etichetta pulsante",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_tFWD3V",
+        "text_tmfUAb",
+        "button_Y36QcG"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Sdrai_da_Esterno_Lettini_Prendisole_Seletti_1134793d-039a-4b27-89cc-412bd793a4ba.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "slideshow_LGzjp6": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_MPBjwy": {
+          "type": "slide",
+          "settings": {
+            "heading": "Slide immagine",
+            "heading_size": "h1",
+            "subheading": "Racconta la storia del tuo brand con video e immagini",
+            "button_label": "Etichetta pulsante",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_GjmcBB": {
+          "type": "slide",
+          "settings": {
+            "heading": "Slide immagine",
+            "heading_size": "h1",
+            "subheading": "Racconta la storia del tuo brand con video e immagini",
+            "button_label": "Etichetta pulsante",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_MPBjwy",
+        "slide_GjmcBB"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Presentazione sul nostro brand"
+      }
+    },
+    "collapsible_content_maGJeK": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_EwqnDc": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_NimHbx": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_KTD3pD": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_jkgjmH": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_NFYyyr": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_VUkJjX": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_EwqnDc",
+        "collapsible_row_NimHbx",
+        "collapsible_row_KTD3pD",
+        "collapsible_row_jkgjmH",
+        "collapsible_row_NFYyyr",
+        "collapsible_row_VUkJjX"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Contenuto comprimibile",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
+    "image_banner_dc8VCJ",
     "banner",
     "product-grid",
     "featured_collection_GPyi8e",
     "featured_collection_VNkdjC",
     "collection_list_pekHrY",
-    "rich_text_8f9M6i"
+    "rich_text_8f9M6i",
+    "image_with_text_FbA7ML",
+    "slideshow_LGzjp6",
+    "collapsible_content_maGJeK"
   ]
 }
