@@ -201,6 +201,48 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_8f9M6i": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_mw6JcA": {
+          "type": "heading",
+          "settings": {
+            "heading": "Parla del tuo brand",
+            "heading_size": "h1"
+          }
+        },
+        "text_hDrV6n": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Condividi informazioni sul tuo brand con i clienti. Descrivi un prodotto, condividi gli annunci o dai il benvenuto ai clienti nel tuo negozio.</p>"
+          }
+        },
+        "button_gh4iBD": {
+          "type": "button",
+          "settings": {
+            "button_label": "Etichetta pulsante",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_mw6JcA",
+        "text_hDrV6n",
+        "button_gh4iBD"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -208,6 +250,7 @@
     "product-grid",
     "featured_collection_GPyi8e",
     "featured_collection_VNkdjC",
-    "collection_list_pekHrY"
+    "collection_list_pekHrY",
+    "rich_text_8f9M6i"
   ]
 }
