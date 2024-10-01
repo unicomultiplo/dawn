@@ -56,6 +56,34 @@
         "show_text_below": true
       }
     },
+    "featured_collection_VNkdjC": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "NEW! Magna Graecia",
+        "heading_size": "h1",
+        "description": "<p>Dal 1964, Seletti ha rivoluzionato il complemento d'arredo grazie alla qualità e all'eccellenza del Made in Italy. Innovazione e originalità sono nel DNA del brand: il geniale design quotidiano e fantasioso inizia con Romano e prosegue con Stefano Seletti. Esplora nuovi mondi celebrando la vita e la sua bellezza, dai servizi per la tavola ai curiosi oggetti per arredare con personalità.</p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "seletti-seletti-magna-graecia",
+        "products_to_show": 25,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "disabled": true,
@@ -105,34 +133,6 @@
         "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "featured_collection_VNkdjC": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "NEW! Magna Graecia",
-        "heading_size": "h1",
-        "description": "<p>Dal 1964, Seletti ha rivoluzionato il complemento d'arredo grazie alla qualità e all'eccellenza del Made in Italy. Innovazione e originalità sono nel DNA del brand: il geniale design quotidiano e fantasioso inizia con Romano e prosegue con Stefano Seletti. Esplora nuovi mondi celebrando la vita e la sua bellezza, dai servizi per la tavola ai curiosi oggetti per arredare con personalità.</p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "seletti-seletti-magna-graecia",
-        "products_to_show": 25,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
         "color_scheme": "",
         "image_ratio": "adapt",
         "image_shape": "default",
@@ -403,83 +403,110 @@
         "accessibility_info": "Presentazione sul nostro brand"
       }
     },
-    "collapsible_content_maGJeK": {
-      "type": "collapsible-content",
+    "multirow_FhegKa": {
+      "type": "multirow",
       "blocks": {
-        "collapsible_row_EwqnDc": {
-          "type": "collapsible_row",
+        "row_fAqFwa": {
+          "type": "row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
+            "caption": "Didascalia",
+            "heading": "Riga",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
           }
         },
-        "collapsible_row_NimHbx": {
-          "type": "collapsible_row",
+        "row_9KPnM4": {
+          "type": "row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
+            "caption": "Didascalia",
+            "heading": "Riga",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
           }
         },
-        "collapsible_row_KTD3pD": {
-          "type": "collapsible_row",
+        "row_WigGEc": {
+          "type": "row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "collapsible_row_jkgjmH": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "collapsible_row_NFYyyr": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "collapsible_row_VUkJjX": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
+            "caption": "Didascalia",
+            "heading": "Riga",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "collapsible_row_EwqnDc",
-        "collapsible_row_NimHbx",
-        "collapsible_row_KTD3pD",
-        "collapsible_row_jkgjmH",
-        "collapsible_row_NFYyyr",
-        "collapsible_row_VUkJjX"
+        "row_fAqFwa",
+        "row_9KPnM4",
+        "row_WigGEc"
       ],
       "settings": {
-        "caption": "",
-        "heading": "Contenuto comprimibile",
+        "image_height": "medium",
+        "desktop_image_width": "medium",
         "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "none",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collage_jqhq3P": {
+      "type": "collage",
+      "blocks": {
+        "image_7RCGxi": {
+          "type": "image",
+          "settings": {
+          }
+        },
+        "product_9HtwcH": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
+        },
+        "collection_3784w3": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_7RCGxi",
+        "product_9HtwcH",
+        "collection_3784w3"
+      ],
+      "settings": {
+        "heading": "Collage multimediale",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
         "color_scheme": "",
-        "container_color_scheme": "",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "video_j9t9aw": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "heading_size": "h2",
+        "enable_video_looping": true,
+        "video_url": "https://www.youtube.com/watch?v=jAI6yDMISiA",
+        "cover_image": "shopify://shop_images/Seletti.webp",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -487,14 +514,16 @@
   },
   "order": [
     "image_banner_dc8VCJ",
+    "featured_collection_VNkdjC",
     "banner",
     "product-grid",
     "featured_collection_GPyi8e",
-    "featured_collection_VNkdjC",
     "collection_list_pekHrY",
     "rich_text_8f9M6i",
     "image_with_text_FbA7ML",
     "slideshow_LGzjp6",
-    "collapsible_content_maGJeK"
+    "multirow_FhegKa",
+    "collage_jqhq3P",
+    "video_j9t9aw"
   ]
 }
