@@ -39,7 +39,7 @@
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
-        "desktop_content_position": "middle",
+        "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "section_color_scheme": "",
@@ -90,20 +90,20 @@
         "show_text_below": true
       }
     },
-    "featured_collection_VNkdjC": {
+    "featured_collection_WwqqBk": {
       "type": "featured-collection",
       "settings": {
-        "title": "NEW! Magna Graecia",
+        "title": "",
         "heading_size": "h1",
-        "description": "<p>Dal 1964, Seletti ha rivoluzionato il complemento d'arredo grazie alla qualità e all'eccellenza del Made in Italy. Innovazione e originalità sono nel DNA del brand: il geniale design quotidiano e fantasioso inizia con Romano e prosegue con Stefano Seletti. Esplora nuovi mondi celebrando la vita e la sua bellezza, dai servizi per la tavola ai curiosi oggetti per arredare con personalità.</p>",
+        "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "seletti-seletti-magna-graecia",
-        "products_to_show": 25,
+        "collection": "brandani-le-bacche",
+        "products_to_show": 6,
         "columns_desktop": 6,
         "full_width": true,
         "show_view_all": true,
-        "view_all_style": "solid",
+        "view_all_style": "outline",
         "enable_desktop_slider": true,
         "color_scheme": "",
         "image_ratio": "adapt",
@@ -180,178 +180,22 @@
         "padding_bottom": 36
       }
     },
-    "collection_list_pekHrY": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_GqirQN": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-seletti-hybrid-bicchieri"
-          }
-        },
-        "featured_collection_nUrtyn": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-marcantonio"
-          }
-        },
-        "featured_collection_r6iB68": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-seletti-kintsugi-tazze"
-          }
-        },
-        "featured_collection_ThyLH7": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-seletti-marcantonio-memorabilia"
-          }
-        },
-        "featured_collection_p4gNGr": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_rLfyDp": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_tYAXKN": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_dCUbVY": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_dYmkV3": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_LEjntL": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_pbLdRA": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_d9YCrV": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_GqirQN",
-        "featured_collection_nUrtyn",
-        "featured_collection_r6iB68",
-        "featured_collection_ThyLH7",
-        "featured_collection_p4gNGr",
-        "featured_collection_rLfyDp",
-        "featured_collection_tYAXKN",
-        "featured_collection_dCUbVY",
-        "featured_collection_dYmkV3",
-        "featured_collection_LEjntL",
-        "featured_collection_pbLdRA",
-        "featured_collection_d9YCrV"
-      ],
-      "settings": {
-        "title": "Collezioni",
-        "heading_size": "h1",
-        "image_ratio": "adapt",
-        "columns_desktop": 6,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "rich_text_8f9M6i": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_mw6JcA": {
-          "type": "heading",
-          "settings": {
-            "heading": "Parla del tuo brand",
-            "heading_size": "h1"
-          }
-        },
-        "text_hDrV6n": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Condividi informazioni sul tuo brand con i clienti. Descrivi un prodotto, condividi gli annunci o dai il benvenuto ai clienti nel tuo negozio.</p>"
-          }
-        },
-        "button_gh4iBD": {
-          "type": "button",
-          "settings": {
-            "button_label": "Etichetta pulsante",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "button_P6d3wA": {
-          "type": "button",
-          "settings": {
-            "button_label": "Etichetta pulsante",
-            "button_link": "",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_mw6JcA",
-        "text_hDrV6n",
-        "button_gh4iBD",
-        "button_P6d3wA"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "slideshow_LGzjp6": {
       "type": "slideshow",
       "blocks": {
         "slide_MPBjwy": {
           "type": "slide",
           "settings": {
-            "heading": "Slide immagine",
+            "image": "shopify://shop_images/WhatsApp_Image_2024-10-01_at_12.04.51.jpg",
+            "heading": "Brandani Ghisa",
             "heading_size": "h1",
-            "subheading": "Racconta la storia del tuo brand con video e immagini",
-            "button_label": "Etichetta pulsante",
+            "subheading": "",
+            "button_label": "Pentole e Tegami",
             "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
+            "button_style_secondary": true,
+            "box_align": "middle-right",
             "show_text_box": true,
-            "text_alignment": "center",
+            "text_alignment": "right",
             "image_overlay_opacity": 0,
             "color_scheme": "",
             "text_alignment_mobile": "center"
@@ -388,6 +232,95 @@
         "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": "Presentazione sul nostro brand"
+      }
+    },
+    "collection_list_pekHrY": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_ThyLH7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-piatti"
+          }
+        },
+        "featured_collection_nUrtyn": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-bicchieri-e-calici"
+          }
+        },
+        "featured_collection_r6iB68": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-posate"
+          }
+        },
+        "featured_collection_GqirQN": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-tazze-tazzine-mug"
+          }
+        },
+        "featured_collection_p4gNGr": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-limoni-brandani"
+          }
+        },
+        "featured_collection_r4cjLb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-medicea"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_ThyLH7",
+        "featured_collection_nUrtyn",
+        "featured_collection_r6iB68",
+        "featured_collection_GqirQN",
+        "featured_collection_p4gNGr",
+        "featured_collection_r4cjLb"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "portrait",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_VNkdjC": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "NEW! Magna Graecia",
+        "heading_size": "h1",
+        "description": "<p>Dal 1964, Seletti ha rivoluzionato il complemento d'arredo grazie alla qualità e all'eccellenza del Made in Italy. Innovazione e originalità sono nel DNA del brand: il geniale design quotidiano e fantasioso inizia con Romano e prosegue con Stefano Seletti. Esplora nuovi mondi celebrando la vita e la sua bellezza, dai servizi per la tavola ai curiosi oggetti per arredare con personalità.</p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "seletti-seletti-magna-graecia",
+        "products_to_show": 25,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multirow_FhegKa": {
@@ -502,13 +435,13 @@
   "order": [
     "image_with_text_FbA7ML",
     "image_banner_dc8VCJ",
-    "featured_collection_VNkdjC",
+    "featured_collection_WwqqBk",
     "banner",
     "product-grid",
     "featured_collection_GPyi8e",
-    "collection_list_pekHrY",
-    "rich_text_8f9M6i",
     "slideshow_LGzjp6",
+    "collection_list_pekHrY",
+    "featured_collection_VNkdjC",
     "multirow_FhegKa",
     "collage_jqhq3P",
     "video_j9t9aw"
