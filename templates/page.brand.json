@@ -22,22 +22,12 @@
     "multicolumn_bQcFQg": {
       "type": "multicolumn",
       "blocks": {
-        "column_n8gNLa": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Ab.webp",
-            "title": "",
-            "text": "<h4><a href=\"\/collections\/ab-abert\" title=\"AB+ Abert\">Ab+Abert<\/a><\/h4>",
-            "link_label": "",
-            "link": "shopify:\/\/collections\/ab-abert"
-          }
-        },
         "column_i6hFa3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Atmosphere.webp",
+            "image": "shopify://shop_images/Atmosphere.webp",
             "title": "",
-            "text": "<h4>Atmosphere<\/h4>",
+            "text": "<h4>Atmosphere</h4>",
             "link_label": "",
             "link": ""
           }
@@ -45,9 +35,9 @@
         "column_jAmHTG": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Bitossi.webp",
+            "image": "shopify://shop_images/Bitossi.webp",
             "title": "",
-            "text": "<h4><a href=\"\/collections\/bitossi-home\" title=\"Bitossi Home\">Bitossi Home<\/a><\/h4>",
+            "text": "<h4><a href=\"/collections/bitossi-home\" title=\"Bitossi Home\">Bitossi Home</a></h4>",
             "link_label": "",
             "link": ""
           }
@@ -55,9 +45,9 @@
         "column_pBQePY": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Brabantia.webp",
+            "image": "shopify://shop_images/Brabantia.webp",
             "title": "",
-            "text": "<h4><a href=\"\/collections\/brabantia\" title=\"Brabantia\">Brabantia<\/a><\/h4>",
+            "text": "<h4><a href=\"/collections/brabantia\" title=\"Brabantia\">Brabantia</a></h4>",
             "link_label": "",
             "link": ""
           }
@@ -65,9 +55,9 @@
         "column_mDAKCe": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Brandani.webp",
+            "image": "shopify://shop_images/Brandani.webp",
             "title": "",
-            "text": "<h4><a href=\"\/collections\/brandani\" title=\"Brandani\">Brandani<\/a><\/h4>",
+            "text": "<h4><a href=\"/collections/brandani\" title=\"Brandani\">Brandani</a></h4>",
             "link_label": "",
             "link": ""
           }
@@ -75,9 +65,9 @@
         "column_bPjjtb": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CrashBag.webp",
+            "image": "shopify://shop_images/CrashBag.webp",
             "title": "",
-            "text": "<h4><a href=\"\/collections\/crash-baggage\" title=\"Crash Baggage\">Crash Baggage<\/a><\/h4>",
+            "text": "<h4><a href=\"/collections/crash-baggage\" title=\"Crash Baggage\">Crash Baggage</a></h4>",
             "link_label": "",
             "link": ""
           }
@@ -85,29 +75,9 @@
         "column_fYAzhe": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Fioriraungiaridino.webp",
+            "image": "shopify://shop_images/Fioriraungiaridino.webp",
             "title": "",
-            "text": "<h4><a href=\"\/collections\/fiorira-un-giardino\" title=\"Fiorirà un Giardino\">Fiorirà un giardino<\/a><\/h4>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_ActrqL": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/fisura.webp",
-            "title": "",
-            "text": "<h4>Fisura<\/h4>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_8DWGcQ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Flaminugueo.webp",
-            "title": "",
-            "text": "<h4>Flamingueo<\/h4>",
+            "text": "<h4><a href=\"/collections/fiorira-un-giardino\" title=\"Fiorirà un Giardino\">Fiorirà un giardino</a></h4>",
             "link_label": "",
             "link": ""
           }
@@ -115,9 +85,9 @@
         "column_kaEgcV": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Ghisanativa.webp",
+            "image": "shopify://shop_images/Ghisanativa.webp",
             "title": "",
-            "text": "<h4><a href=\"\/collections\/ghisanativa\" title=\"Ghisanativa\">Ghisanativa<\/a><\/h4>",
+            "text": "<h4><a href=\"/collections/ghisanativa\" title=\"Ghisanativa\">Ghisanativa</a></h4>",
             "link_label": "",
             "link": ""
           }
@@ -125,9 +95,9 @@
         "column_7kaFhY": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Guzzerie.webp",
+            "image": "shopify://shop_images/Guzzerie.webp",
             "title": "",
-            "text": "<h4><a href=\"\/collections\/guzzerie\" title=\"Guzzerie\">Guzzerie<\/a><\/h4>",
+            "text": "<h4><a href=\"/collections/guzzerie\" title=\"Guzzerie\">Guzzerie</a></h4>",
             "link_label": "",
             "link": ""
           }
@@ -135,9 +105,9 @@
         "column_ABjgwE": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/hoff.webp",
+            "image": "shopify://shop_images/hoff.webp",
             "title": "",
-            "text": "<h4><a href=\"\/collections\/hoff-interieur\" title=\"Hoff Interieur\">Hoff Interieur<\/a><\/h4>",
+            "text": "<h4><a href=\"/collections/hoff-interieur\" title=\"Hoff Interieur\">Hoff Interieur</a></h4>",
             "link_label": "",
             "link": ""
           }
@@ -145,9 +115,9 @@
         "column_tLCiBW": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Ichendorf.webp",
+            "image": "shopify://shop_images/Ichendorf.webp",
             "title": "",
-            "text": "<h4><a href=\"\/collections\/ichendorf-catalogo\" title=\"Ichendorf\">Ichendorf<\/a><\/h4>",
+            "text": "<h4><a href=\"/collections/ichendorf-catalogo\" title=\"Ichendorf\">Ichendorf</a></h4>",
             "link_label": "",
             "link": ""
           }
@@ -155,9 +125,9 @@
         "column_Hhh9KY": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Josephjoseph.webp",
+            "image": "shopify://shop_images/Josephjoseph.webp",
             "title": "",
-            "text": "<p><a href=\"\/collections\/joseph-joseph\" title=\"Joseph Joseph\">Joseph Joseph<\/a><\/p>",
+            "text": "<p><a href=\"/collections/joseph-joseph\" title=\"Joseph Joseph\">Joseph Joseph</a></p>",
             "link_label": "",
             "link": ""
           }
@@ -165,9 +135,9 @@
         "column_XQ9JEN": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Knidustrie.webp",
+            "image": "shopify://shop_images/Knidustrie.webp",
             "title": "",
-            "text": "<p><a href=\"\/collections\/knindustrie\" title=\"KnIndustrie\">KnIndustrie<\/a><\/p>",
+            "text": "<p><a href=\"/collections/knindustrie\" title=\"KnIndustrie\">KnIndustrie</a></p>",
             "link_label": "",
             "link": ""
           }
@@ -175,9 +145,9 @@
         "column_qxeMLV": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Kriptonite.webp",
+            "image": "shopify://shop_images/Kriptonite.webp",
             "title": "",
-            "text": "<p><a href=\"\/collections\/ufficio-kriptonite-sistema-modulare\" title=\"Kriptonite Librerie Modulari\">Kriptonite<\/a><\/p>",
+            "text": "<p><a href=\"/collections/ufficio-kriptonite-sistema-modulare\" title=\"Kriptonite Librerie Modulari\">Kriptonite</a></p>",
             "link_label": "",
             "link": ""
           }
@@ -185,9 +155,9 @@
         "column_Rb8Pd9": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/lapiacentina.webp",
+            "image": "shopify://shop_images/lapiacentina.webp",
             "title": "",
-            "text": "<p><a href=\"\/collections\/la-piacentina\" title=\"La Piacentina\">La Piacentina<\/a><\/p>",
+            "text": "<p><a href=\"/collections/la-piacentina\" title=\"La Piacentina\">La Piacentina</a></p>",
             "link_label": "",
             "link": ""
           }
@@ -195,9 +165,9 @@
         "column_wyhtnL": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Lexon.webp",
+            "image": "shopify://shop_images/Lexon.webp",
             "title": "",
-            "text": "<p>Lexon<\/p>",
+            "text": "<p>Lexon</p>",
             "link_label": "",
             "link": ""
           }
@@ -205,19 +175,19 @@
         "column_7GbWNR": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Marinette.webp",
+            "image": "shopify://shop_images/Marinette.webp",
             "title": "",
-            "text": "<h4><a href=\"\/collections\/marinette-saint-tropez\" title=\"Marinette Saint Tropez\">Marinette<\/a><\/h4>",
+            "text": "<h4><a href=\"/collections/marinette-saint-tropez\" title=\"Marinette Saint Tropez\">Marinette</a></h4>",
             "link_label": "",
-            "link": "shopify:\/\/collections\/marinette-saint-tropez"
+            "link": "shopify://collections/marinette-saint-tropez"
           }
         },
         "column_JQe8X6": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Miho.webp",
+            "image": "shopify://shop_images/Miho.webp",
             "title": "",
-            "text": "<p><a href=\"\/collections\/miho\" title=\"MIHO\">Miho<\/a><\/p>",
+            "text": "<p><a href=\"/collections/miho\" title=\"MIHO\">Miho</a></p>",
             "link_label": "",
             "link": ""
           }
@@ -225,9 +195,18 @@
         "column_n6Wc68": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/millefiori.webp",
+            "image": "shopify://shop_images/millefiori.webp",
             "title": "",
-            "text": "<p><a href=\"\/collections\/millefiori\" title=\"Millefiori\">MiIllefiori<\/a><\/p>",
+            "text": "<p><a href=\"/collections/millefiori\" title=\"Millefiori\">MiIllefiori</a></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pzrriC": {
+          "type": "column",
+          "settings": {
+            "title": "Colonna",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
             "link_label": "",
             "link": ""
           }
@@ -235,19 +214,9 @@
         "column_EK7y9M": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Nio.webp",
+            "image": "shopify://shop_images/Nio.webp",
             "title": "",
-            "text": "<p><a href=\"\/collections\/nio-cocktails\" title=\"NIO Cocktails\">NIO<\/a><\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_6pVG3M": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Qualy.webp",
-            "title": "",
-            "text": "<p>Qualy<\/p>",
+            "text": "<p><a href=\"/collections/nio-cocktails\" title=\"NIO Cocktails\">NIO</a></p>",
             "link_label": "",
             "link": ""
           }
@@ -255,9 +224,9 @@
         "column_p6Tgz4": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Reisenthel.webp",
+            "image": "shopify://shop_images/Reisenthel.webp",
             "title": "",
-            "text": "<p><a href=\"\/collections\/reisenthel\" title=\"Reisenthel\">Reisenthel<\/a><\/p>",
+            "text": "<p><a href=\"/collections/reisenthel\" title=\"Reisenthel\">Reisenthel</a></p>",
             "link_label": "",
             "link": ""
           }
@@ -265,9 +234,9 @@
         "column_fVEeYC": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Rivsalt.webp",
+            "image": "shopify://shop_images/Rivsalt.webp",
             "title": "",
-            "text": "<p>Rivsalt<\/p>",
+            "text": "<p>Rivsalt</p>",
             "link_label": "",
             "link": ""
           }
@@ -275,9 +244,9 @@
         "column_zrLjgy": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Rollink-valigie.webp",
+            "image": "shopify://shop_images/Rollink-valigie.webp",
             "title": "",
-            "text": "<p><a href=\"\/collections\/rollink\" title=\"Rollink\">Rollink<\/a><\/p>",
+            "text": "<p><a href=\"/collections/rollink\" title=\"Rollink\">Rollink</a></p>",
             "link_label": "",
             "link": ""
           }
@@ -285,9 +254,9 @@
         "column_jj7XrB": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Salvadoriarte.webp",
+            "image": "shopify://shop_images/Salvadoriarte.webp",
             "title": "",
-            "text": "<p>Salvadori Arte<\/p>",
+            "text": "<p>Salvadori Arte</p>",
             "link_label": "",
             "link": ""
           }
@@ -295,9 +264,9 @@
         "column_HdgBkB": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Seletti.webp",
+            "image": "shopify://shop_images/Seletti.webp",
             "title": "",
-            "text": "<p><a href=\"\/collections\/seletti\" title=\"Seletti\">Seletti<\/a><\/p>",
+            "text": "<p><a href=\"/collections/seletti\" title=\"Seletti\">Seletti</a></p>",
             "link_label": "",
             "link": ""
           }
@@ -305,9 +274,9 @@
         "column_HjME7k": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Snippers.webp",
+            "image": "shopify://shop_images/Snippers.webp",
             "title": "",
-            "text": "<p><a href=\"\/collections\/snippers\" title=\"Snippers\">Snippers<\/a><\/p>",
+            "text": "<p><a href=\"/collections/snippers\" title=\"Snippers\">Snippers</a></p>",
             "link_label": "",
             "link": ""
           }
@@ -315,9 +284,9 @@
         "column_yh4FbF": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Superstuff.webp",
+            "image": "shopify://shop_images/Superstuff.webp",
             "title": "",
-            "text": "<p>Superstuff<\/p>",
+            "text": "<p>Superstuff</p>",
             "link_label": "",
             "link": ""
           }
@@ -325,24 +294,21 @@
         "column_CPXaV4": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Vanillafly.webp",
+            "image": "shopify://shop_images/Vanillafly.webp",
             "title": "",
-            "text": "<p><a href=\"\/collections\/vanilla-fly\" title=\"Vanilla Fly\">Vanilla Fly<\/a><\/p>",
+            "text": "<p><a href=\"/collections/vanilla-fly\" title=\"Vanilla Fly\">Vanilla Fly</a></p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "column_n8gNLa",
         "column_i6hFa3",
         "column_jAmHTG",
         "column_pBQePY",
         "column_mDAKCe",
         "column_bPjjtb",
         "column_fYAzhe",
-        "column_ActrqL",
-        "column_8DWGcQ",
         "column_kaEgcV",
         "column_7kaFhY",
         "column_ABjgwE",
@@ -355,8 +321,8 @@
         "column_7GbWNR",
         "column_JQe8X6",
         "column_n6Wc68",
+        "column_pzrriC",
         "column_EK7y9M",
-        "column_6pVG3M",
         "column_p6Tgz4",
         "column_fVEeYC",
         "column_zrLjgy",
