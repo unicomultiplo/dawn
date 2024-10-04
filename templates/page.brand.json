@@ -27,7 +27,7 @@
           "settings": {
             "image": "shopify://shop_images/Atmosphere.webp",
             "title": "",
-            "text": "<h4>Atmosphere</h4>",
+            "text": "<h4><a href=\"/collections/atmosphere\" title=\"Atmosphere\">Atmosphere</a></h4>",
             "link_label": "",
             "link": ""
           }
@@ -167,7 +167,7 @@
           "settings": {
             "image": "shopify://shop_images/Lexon.webp",
             "title": "",
-            "text": "<p>Lexon</p>",
+            "text": "<p><a href=\"/collections/lexon\" title=\"Lexon\">Lexon</a></p>",
             "link_label": "",
             "link": ""
           }
@@ -228,7 +228,7 @@
           "settings": {
             "image": "shopify://shop_images/Rivsalt.webp",
             "title": "",
-            "text": "<p>Rivsalt</p>",
+            "text": "<p><a href=\"/collections/rivsalt\" title=\"Rivsalt\">Rivsalt</a></p>",
             "link_label": "",
             "link": ""
           }
@@ -248,7 +248,7 @@
           "settings": {
             "image": "shopify://shop_images/Salvadoriarte.webp",
             "title": "",
-            "text": "<p>Salvadori Arte</p>",
+            "text": "<p><a href=\"/collections/salvadoriarte\" title=\"SalvadoriArte\">Salvadori Arte</a></p>",
             "link_label": "",
             "link": ""
           }
@@ -278,7 +278,7 @@
           "settings": {
             "image": "shopify://shop_images/Superstuff.webp",
             "title": "",
-            "text": "<p>Superstuff</p>",
+            "text": "<p><a href=\"/collections/superstuff\" title=\"Superstuff\">Superstuff</a></p>",
             "link_label": "",
             "link": ""
           }
