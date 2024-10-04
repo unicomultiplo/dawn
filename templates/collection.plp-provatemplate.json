@@ -11,32 +11,8 @@
   "sections": {
     "image_banner_dc8VCJ": {
       "type": "image-banner",
-      "blocks": {
-        "heading_FwPtTe": {
-          "type": "heading",
-          "settings": {
-            "heading": "Natale con Brandani",
-            "heading_size": "h1"
-          }
-        },
-        "buttons_MYGkJc": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Tavola di Natale",
-            "button_link_1": "",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_FwPtTe",
-        "buttons_MYGkJc"
-      ],
       "settings": {
-        "image": "shopify://shop_images/brandani-natale.jpg",
+        "image": "shopify://shop_images/Brandani_Sfondo_Newsletter_Corbezzoli.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-left",
@@ -49,135 +25,34 @@
         "show_text_below": true
       }
     },
-    "banner": {
-      "type": "main-collection-banner",
-      "custom_css": [
-        "a {color: #598db2;}"
-      ],
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": false,
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
-      }
-    },
-    "image_with_text_FbA7ML": {
-      "type": "image-with-text",
+    "rich_text_MzaYDT": {
+      "type": "rich-text",
       "blocks": {
-        "heading_tFWD3V": {
+        "heading_Ca64ft": {
           "type": "heading",
           "settings": {
-            "heading": "Le linee più belle del catalogo Brandani online",
+            "heading": "Natale Brandani 2024",
             "heading_size": "h1"
           }
         },
-        "text_tmfUAb": {
+        "text_aYG9cw": {
           "type": "text",
           "settings": {
-            "text": "<h1></h1><p>Brandani Gift Group è sempre stata un’azienda che propone un catalogo di prodotti in linea con le nuove tendenze. Il gruppo è camaleontico, attento e in grado di adattarsi alle esigenze di funzionalità, design e novità.</p><h2>Collezioni per la tua casa, linee dedicate al living, alla cucina, alla tavola</h2><p>Sul nostro shop online puoi trovare i prodotti Brandani a prezzi sempre vantaggiosi, con un assortimento vasto che ti sorprenderà.</p><p> Scopri le nostre proposte per la tavola e la cucina...oppure per la casa, il living e le occasioni più importanti.</p>",
-            "text_style": "body"
+            "text": "<p>Celebra l’amore e la convivialità, rendendo ogni istante insieme ai tuoi cari davvero speciale.</p>"
           }
         }
       },
       "block_order": [
-        "heading_tFWD3V",
-        "text_tmfUAb"
-      ],
-      "disabled": true,
-      "custom_css": [
-
+        "heading_Ca64ft",
+        "text_aYG9cw"
       ],
       "settings": {
-        "image": "shopify://shop_images/brandani-logo-500x500.webp",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "featured_collection_WwqqBk": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "brandani-le-bacche",
-        "products_to_show": 20,
-        "columns_desktop": 6,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "product-grid": {
-      "type": "main-collection-product-grid",
-      "disabled": true,
-      "settings": {
-        "products_per_page": 36,
-        "columns_desktop": 4,
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": true,
-        "quick_add": "standard",
-        "enable_filtering": true,
-        "filter_type": "drawer",
-        "enable_sorting": true,
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "featured_collection_GPyi8e": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "NEW! Magna Graecia",
-        "heading_size": "h1",
-        "description": "<p>Dal 1964, Seletti ha rivoluzionato il complemento d'arredo grazie alla qualità e all'eccellenza del Made in Italy. Innovazione e originalità sono nel DNA del brand: il geniale design quotidiano e fantasioso inizia con Romano e prosegue con Stefano Seletti. Esplora nuovi mondi celebrando la vita e la sua bellezza, dai servizi per la tavola ai curiosi oggetti per arredare con personalità.</p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "",
-        "products_to_show": 25,
-        "columns_desktop": 6,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "slideshow_LGzjp6": {
@@ -186,11 +61,11 @@
         "slide_MPBjwy": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2024-10-01_at_12.04.51.jpg",
-            "heading": "Brandani Ghisa",
-            "heading_size": "h1",
+            "image": "shopify://shop_images/Brandani_banner_natale_2024-1-1536x558.webp",
+            "heading": "Brandani Natale 2024",
+            "heading_size": "h2",
             "subheading": "",
-            "button_label": "Pentole e Tegami",
+            "button_label": "Scopri tutto",
             "link": "",
             "button_style_secondary": true,
             "box_align": "middle-right",
@@ -214,6 +89,106 @@
         "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": "Presentazione sul nostro brand"
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        "a {color: #598db2;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
+      }
+    },
+    "multicolumn_Mj6L3N": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_7GAfaP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Primizie.webp",
+            "title": "",
+            "text": "<p><a href=\"/collections/brandani-le-primizie\" title=\"Le Primizie\">Brandani Primizie</a></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_dqWy6R": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brandani-queen-zuccheriera-1.jpg",
+            "title": "",
+            "text": "<p><a href=\"/collections/brandani-total-white-brandani\" title=\"Total White Brandani\">Brandani TotalWhite</a></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pGpLG9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-argo.webp",
+            "title": "",
+            "text": "<p><a href=\"/collections/brandani-cornici-e-portaritratti\" title=\"Cornici e Portaritratti\">Brandani Candy</a></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_mddrEP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brandani-medicea-vassoio-rettangolare.jpg",
+            "title": "",
+            "text": "<p><a href=\"/collections/brandani-medicea\" title=\"Medicea Brandani\">Brandani Medicea</a></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6WgUAg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brandani-limoni-tazza-colazione-verde-1.jpg",
+            "title": "",
+            "text": "<p><a href=\"/collections/brandani-total-white-brandani\" title=\"Total White Brandani\">Brandani Limoni-&gt;</a></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_gjtfzz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-bomboniere.jpg",
+            "title": "",
+            "text": "<p><a href=\"/collections/brandani-total-white-brandani\" title=\"Total White Brandani\">Brandani Bomboniere</a></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_7GAfaP",
+        "column_dqWy6R",
+        "column_pGpLG9",
+        "column_mddrEP",
+        "column_6WgUAg",
+        "column_gjtfzz"
+      ],
+      "settings": {
+        "title": "Scopri tutte le Collezione del catalogo Brandani",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "collection_list_pekHrY": {
@@ -277,31 +252,22 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_VNkdjC": {
-      "type": "featured-collection",
-      "disabled": true,
+    "product-grid": {
+      "type": "main-collection-product-grid",
       "settings": {
-        "title": "NEW! Magna Graecia",
-        "heading_size": "h1",
-        "description": "<p>Dal 1964, Seletti ha rivoluzionato il complemento d'arredo grazie alla qualità e all'eccellenza del Made in Italy. Innovazione e originalità sono nel DNA del brand: il geniale design quotidiano e fantasioso inizia con Romano e prosegue con Stefano Seletti. Esplora nuovi mondi celebrando la vita e la sua bellezza, dai servizi per la tavola ai curiosi oggetti per arredare con personalità.</p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "seletti-seletti-magna-graecia",
-        "products_to_show": 25,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "",
-        "image_ratio": "adapt",
+        "products_per_page": 36,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": false,
         "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
+        "show_rating": true,
+        "quick_add": "standard",
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -309,13 +275,11 @@
   },
   "order": [
     "image_banner_dc8VCJ",
-    "banner",
-    "image_with_text_FbA7ML",
-    "featured_collection_WwqqBk",
-    "product-grid",
-    "featured_collection_GPyi8e",
+    "rich_text_MzaYDT",
     "slideshow_LGzjp6",
+    "banner",
+    "multicolumn_Mj6L3N",
     "collection_list_pekHrY",
-    "featured_collection_VNkdjC"
+    "product-grid"
   ]
 }
