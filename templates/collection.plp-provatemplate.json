@@ -150,7 +150,7 @@
           "settings": {
             "image": "shopify://shop_images/brandani-limoni-tazza-colazione-verde-1.jpg",
             "title": "",
-            "text": "<p><a href=\"/collections/brandani-total-white-brandani\" title=\"Total White Brandani\">Brandani Limoni-&gt;</a></p>",
+            "text": "<p><a href=\"/collections/brandani-total-white-brandani\" title=\"Total White Brandani\">Brandani Limoni</a></p>",
             "link_label": "",
             "link": ""
           }
@@ -240,7 +240,7 @@
         "featured_collection_r4cjLb"
       ],
       "settings": {
-        "title": "",
+        "title": "Scopri le proposte Brandani per la tavola e la cucina...",
         "heading_size": "h1",
         "image_ratio": "portrait",
         "columns_desktop": 6,
@@ -254,6 +254,7 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "disabled": true,
       "settings": {
         "products_per_page": 36,
         "columns_desktop": 4,
