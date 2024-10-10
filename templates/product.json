@@ -147,6 +147,7 @@
     },
     "products_from_brand_T878wX": {
       "type": "products-from-brand",
+      "disabled": true,
       "settings": {
         "heading_size": "h2",
         "collection": "{{ product.metafields.custom[\"brand-produttore\"].value }}",
