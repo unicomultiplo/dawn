@@ -127,8 +127,8 @@
         "padding_bottom": 40
       }
     },
-    "featured_collection_dynamic_APabfr": {
-      "type": "featured-collection-dynamic",
+    "products_from_brand_T878wX": {
+      "type": "products-from-brand",
       "settings": {
         "heading_size": "h2",
         "collection": "{{ product.metafields.custom[\"brand-produttore\"].value }}",
@@ -173,7 +173,7 @@
   "order": [
     "main",
     "custom_liquid_q83gja",
-    "featured_collection_dynamic_APabfr",
+    "products_from_brand_T878wX",
     "related-products"
   ]
 }
