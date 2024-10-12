@@ -23,7 +23,7 @@
         "custom_liquid_xJQknK": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "{% assign brand = product.metafields.custom['brand-produttore'] %}\n\n{% if brand != blank %}\n  <p class=\"product__text inline-richtext subtitle\">\n    {% assign collection_handle = brand | handleize %}\n    {% assign collection = collections[collection_handle] %}\n    \n    {% if collection != blank %}\n        <a href=\"{{ collection.url }}\">{{ brand }}</a>\n    {% else %}\n        {{ brand }}\n    {% endif %}\n  </p>\n{% endif %}"
+            "custom_liquid": "{% assign brand = product.metafields.custom['brand-produttore'] %}\n{% assign raw_collection_handle = brand | handleize %}\n\n{% if raw_collection_handle contains \"ichendorf\" %}\n    {% assign collection_handle = \"ichendorf-catalogo\" %}\n{% else %}\n    {% assign collection_handle = raw_collection_handle %}\n{% endif %}\n\n{% assign collection = collections[collection_handle] %}\n\n{% if brand != blank %}\n  <p class=\"product__text inline-richtext subtitle\">\n    {% if collection != blank %}\n        <a href=\"{{ collection.url }}\">{{ brand }}</a>\n    {% else %}\n        {{ brand }}\n    {% endif %}\n  </p>\n{% endif %}"
           }
         },
         "title": {
