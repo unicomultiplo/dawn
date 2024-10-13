@@ -67,42 +67,48 @@
         "padding_bottom": 52
       }
     },
-    "collage_Vqdnhf": {
-      "type": "collage",
+    "rich_text_eUGJPw": {
+      "type": "rich-text",
       "blocks": {
-        "collection_UHQBPw": {
-          "type": "collection",
+        "heading_xNbjrH": {
+          "type": "heading",
           "settings": {
-            "collection": "seletti-natale"
-          }
-        },
-        "collection_VAA7jG": {
-          "type": "collection",
-          "settings": {
-            "collection": "bitossi-home-natale"
-          }
-        },
-        "collection_R4AXKJ": {
-          "type": "collection",
-          "settings": {
-            "collection": "ichendorf-catalogo-natale"
+            "heading": "Articoli per la Tavola di Natale",
+            "heading_size": "h1"
           }
         }
       },
       "block_order": [
-        "collection_UHQBPw",
-        "collection_VAA7jG",
-        "collection_R4AXKJ"
+        "heading_xNbjrH"
       ],
       "settings": {
-        "heading": "Articoli per la Tavola di Natale",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "none",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "",
-        "padding_top": 16,
-        "padding_bottom": 36
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
+    "dual_images_33cK8X": {
+      "type": "dual-images",
+      "custom_css": [
+        ".image-text {background: red;}",
+        ".full-size-image-section{margin-bottom:48px}"
+      ],
+      "settings": {
+        "section_height": 600,
+        "image_padding": 20,
+        "left_image": "shopify://shop_images/seletti-7.jpg",
+        "left_link": "shopify://collections/seletti-natale",
+        "left_text": "Natale con Seletti",
+        "right_top_image": "shopify://shop_images/natale-bitossi.jpg",
+        "right_top_link": "shopify://collections/bitossi-home-natale",
+        "right_top_text": "Bitossi Home per il tuo Natale",
+        "right_bottom_image": "shopify://shop_images/natale-ichendorf.jpg",
+        "right_bottom_link": "shopify://collections/ichendorf-catalogo-natale",
+        "right_bottom_text": "Natale con Ichendorf",
+        "margin_top": 16
       }
     },
     "slideshow_9rUzXC": {
@@ -218,35 +224,15 @@
         "padding_top": 16,
         "padding_bottom": 32
       }
-    },
-    "dual_images_33cK8X": {
-      "type": "dual-images",
-      "custom_css": [
-
-      ],
-      "settings": {
-        "section_height": 600,
-        "image_padding": 20,
-        "left_image": "shopify://shop_images/seletti-7.jpg",
-        "left_link": "shopify://collections/seletti-natale",
-        "left_text": "Natale con Seletti",
-        "right_top_image": "shopify://shop_images/natale-bitossi.jpg",
-        "right_top_link": "shopify://collections/bitossi-home-natale",
-        "right_top_text": "Bitossi Home per il tuo Natale",
-        "right_bottom_image": "shopify://shop_images/natale-ichendorf.jpg",
-        "right_bottom_link": "shopify://collections/ichendorf-catalogo-natale",
-        "right_bottom_text": "Natale con Ichendorf",
-        "margin_top": 16
-      }
     }
   },
   "order": [
     "main",
     "image_banner_wgHUAX",
     "rich_text_zwemCt",
-    "collage_Vqdnhf",
+    "rich_text_eUGJPw",
+    "dual_images_33cK8X",
     "slideshow_9rUzXC",
-    "collection_list_6B6rPA",
-    "dual_images_33cK8X"
+    "collection_list_6B6rPA"
   ]
 }
