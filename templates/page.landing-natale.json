@@ -178,41 +178,77 @@
         "slide_aTUHhj": {
           "type": "slide",
           "settings": {
-            "heading": "Slide immagine",
+            "heading": "Prodotto in evidenza 1",
             "heading_size": "h2",
-            "subheading": "Racconta la storia del tuo brand con video e immagini",
+            "subheading": "",
             "button_label": "Etichetta pulsante",
             "link": "",
-            "button_style_secondary": false,
+            "button_style_secondary": true,
             "box_align": "middle-center",
             "show_text_box": true,
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
+            "image_overlay_opacity": 10,
+            "color_scheme": "scheme-4",
             "text_alignment_mobile": "center"
           }
         },
         "slide_VLNeGd": {
           "type": "slide",
           "settings": {
-            "heading": "Slide immagine",
-            "heading_size": "h1",
-            "subheading": "Racconta la storia del tuo brand con video e immagini",
+            "heading": "Prodotto in evidenza 2",
+            "heading_size": "h2",
+            "subheading": "",
             "button_label": "Etichetta pulsante",
             "link": "",
-            "button_style_secondary": false,
+            "button_style_secondary": true,
             "box_align": "middle-center",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "",
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_HX3yWz": {
+          "type": "slide",
+          "settings": {
+            "heading": "Prodotto in evidenza 3",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Etichetta pulsante",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_zLt6xd": {
+          "type": "slide",
+          "settings": {
+            "heading": "Prodotto in evidenza 4",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Etichetta pulsante",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4",
             "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
         "slide_aTUHhj",
-        "slide_VLNeGd"
+        "slide_VLNeGd",
+        "slide_HX3yWz",
+        "slide_zLt6xd"
       ],
       "settings": {
         "layout": "full_bleed",
