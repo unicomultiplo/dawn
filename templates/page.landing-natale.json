@@ -251,8 +251,8 @@
         "slide_zLt6xd"
       ],
       "custom_css": [
-        ".slideshow__controls{border:none}",
-        ".slideshow__autoplay{display: none;}"
+        ".slideshow__controls {border: none;}",
+        ".slideshow__autoplay {display: none;}"
       ],
       "settings": {
         "layout": "grid",
@@ -264,6 +264,45 @@
         "show_text_below": true,
         "accessibility_info": ""
       }
+    },
+    "image_with_text_wh8JQj": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_KKKjr9": {
+          "type": "heading",
+          "settings": {
+            "heading": "Idee Regalo di Natale per tutti i gusti.",
+            "heading_size": "h1"
+          }
+        },
+        "button_XBgX6P": {
+          "type": "button",
+          "settings": {
+            "button_label": "SCOPRILE",
+            "button_link": "shopify://collections/idee-regalo",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_KKKjr9",
+        "button_XBgX6P"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/wrapping-christmas-presents.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -273,6 +312,7 @@
     "rich_text_eUGJPw",
     "dual_images_33cK8X",
     "collection_list_6B6rPA",
-    "slideshow_9rUzXC"
+    "slideshow_9rUzXC",
+    "image_with_text_wh8JQj"
   ]
 }
