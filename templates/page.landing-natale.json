@@ -265,12 +265,15 @@
         "accessibility_info": ""
       }
     },
-    "separator_TW4zic": {
-      "type": "separator",
+    "rich_text_yAEfhk": {
+      "type": "rich-text",
       "settings": {
-        "top_spacing": 0,
-        "bottom_spacing": 0,
-        "line_thickness": 1
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "multirow_YiBENi": {
@@ -406,7 +409,7 @@
     "dual_images_33cK8X",
     "collection_list_6B6rPA",
     "slideshow_9rUzXC",
-    "separator_TW4zic",
+    "rich_text_yAEfhk",
     "multirow_YiBENi",
     "featured_collection_7TyarM",
     "multirow_TKm8B9",
