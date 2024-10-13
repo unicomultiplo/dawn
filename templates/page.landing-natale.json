@@ -314,6 +314,60 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "separator_bBF673": {
+      "type": "separator",
+      "settings": {
+        "top_spacing": 0,
+        "bottom_spacing": 0,
+        "line_thickness": 1
+      }
+    },
+    "multirow_YiBENi": {
+      "type": "multirow",
+      "blocks": {
+        "row_34zyVi": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/wrapping-christmas-presents.jpg",
+            "caption": "",
+            "heading": "Incredibili idee regalo di Natale per tutti i gusti.",
+            "text": "",
+            "button_label": "SCOPRILE",
+            "button_link": "shopify://collections/idee-regalo"
+          }
+        },
+        "row_iMJjXz": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/christmas-lights.jpg",
+            "caption": "",
+            "heading": "Splendidi addobbi e decorazioni natalizie.",
+            "text": "",
+            "button_label": "SCOPRILI",
+            "button_link": "shopify://collections/illuminazione-luci-addobbi-alberi-natale"
+          }
+        }
+      },
+      "block_order": [
+        "row_34zyVi",
+        "row_iMJjXz"
+      ],
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-right",
+        "section_color_scheme": "scheme-4",
+        "row_color_scheme": "scheme-4",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -325,6 +379,8 @@
     "collection_list_6B6rPA",
     "slideshow_9rUzXC",
     "separator_TW4zic",
-    "image_with_text_wh8JQj"
+    "image_with_text_wh8JQj",
+    "separator_bBF673",
+    "multirow_YiBENi"
   ]
 }
