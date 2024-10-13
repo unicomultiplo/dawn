@@ -250,6 +250,10 @@
         "slide_HX3yWz",
         "slide_zLt6xd"
       ],
+      "custom_css": [
+        ".slideshow__controls{border:none}",
+        ".slideshow__autoplay{display: none;}"
+      ],
       "settings": {
         "layout": "grid",
         "slide_height": "small",
