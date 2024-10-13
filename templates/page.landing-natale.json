@@ -93,7 +93,7 @@
     "dual_images_33cK8X": {
       "type": "dual-images",
       "custom_css": [
-        ".image-text {background: red;}",
+        ".image-text {background: #000;}",
         ".full-size-image-section {margin-bottom: 48px;}"
       ],
       "settings": {
