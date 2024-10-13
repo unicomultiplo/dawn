@@ -265,6 +265,14 @@
         "accessibility_info": ""
       }
     },
+    "separator_TW4zic": {
+      "type": "separator",
+      "settings": {
+        "top_spacing": 0,
+        "bottom_spacing": 0,
+        "line_thickness": 1
+      }
+    },
     "image_with_text_wh8JQj": {
       "type": "image-with-text",
       "blocks": {
@@ -287,6 +295,9 @@
       "block_order": [
         "heading_KKKjr9",
         "button_XBgX6P"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
         "image": "shopify://shop_images/wrapping-christmas-presents.jpg",
@@ -313,6 +324,7 @@
     "dual_images_33cK8X",
     "collection_list_6B6rPA",
     "slideshow_9rUzXC",
+    "separator_TW4zic",
     "image_with_text_wh8JQj"
   ]
 }
