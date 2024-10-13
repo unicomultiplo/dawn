@@ -11,13 +11,167 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "image_banner_wgHUAX": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_z8HBxJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "NATALE 2024",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "heading_z8HBxJ"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/christmas.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_zwemCt": {
+      "type": "rich-text",
+      "blocks": {
+        "text_grE4wW": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Proposte, consigli e idee per il tuo Natale</strong>: dalle collezioni per la tavola alle decorazioni per la casa, dalle meravigliose idee regalo per i tuoi cari fino agli addobbi.</h3>"
+          }
+        }
+      },
+      "block_order": [
+        "text_grE4wW"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "collage_Vqdnhf": {
+      "type": "collage",
+      "blocks": {
+        "collection_UHQBPw": {
+          "type": "collection",
+          "settings": {
+            "collection": "seletti-natale"
+          }
+        },
+        "collection_VAA7jG": {
+          "type": "collection",
+          "settings": {
+            "collection": "bitossi-home-natale"
+          }
+        },
+        "collection_R4AXKJ": {
+          "type": "collection",
+          "settings": {
+            "collection": "ichendorf-catalogo-natale"
+          }
+        }
+      },
+      "block_order": [
+        "collection_UHQBPw",
+        "collection_VAA7jG",
+        "collection_R4AXKJ"
+      ],
+      "settings": {
+        "heading": "Articoli per la Tavola di Natale",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "none",
+        "color_scheme": "",
+        "padding_top": 16,
+        "padding_bottom": 36
+      }
+    },
+    "collection_list_6B6rPA": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_7AnfGr": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-piatti"
+          }
+        },
+        "featured_collection_jYKqyn": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-bicchieri-e-calici"
+          }
+        },
+        "featured_collection_q4DNny": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-posate"
+          }
+        },
+        "featured_collection_bEGxY3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-vassoi"
+          }
+        },
+        "featured_collection_3E9t9j": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-antipastiere"
+          }
+        },
+        "featured_collection_9mWAAC": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-tazze-tazzine-mug"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_7AnfGr",
+        "featured_collection_jYKqyn",
+        "featured_collection_q4DNny",
+        "featured_collection_bEGxY3",
+        "featured_collection_3E9t9j",
+        "featured_collection_9mWAAC"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 32
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "image_banner_wgHUAX",
+    "rich_text_zwemCt",
+    "collage_Vqdnhf",
+    "collection_list_6B6rPA"
   ]
 }
