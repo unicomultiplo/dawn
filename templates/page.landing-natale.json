@@ -273,56 +273,6 @@
         "line_thickness": 1
       }
     },
-    "image_with_text_wh8JQj": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_KKKjr9": {
-          "type": "heading",
-          "settings": {
-            "heading": "Idee Regalo di Natale per tutti i gusti.",
-            "heading_size": "h1"
-          }
-        },
-        "button_XBgX6P": {
-          "type": "button",
-          "settings": {
-            "button_label": "SCOPRILE",
-            "button_link": "shopify://collections/idee-regalo",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_KKKjr9",
-        "button_XBgX6P"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "image": "shopify://shop_images/wrapping-christmas-presents.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
-        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "separator_bBF673": {
-      "type": "separator",
-      "settings": {
-        "top_spacing": 0,
-        "bottom_spacing": 0,
-        "line_thickness": 1
-      }
-    },
     "multirow_YiBENi": {
       "type": "multirow",
       "blocks": {
@@ -368,6 +318,14 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "separator_bBF673": {
+      "type": "separator",
+      "settings": {
+        "top_spacing": 0,
+        "bottom_spacing": 0,
+        "line_thickness": 1
+      }
     }
   },
   "order": [
@@ -379,8 +337,7 @@
     "collection_list_6B6rPA",
     "slideshow_9rUzXC",
     "separator_TW4zic",
-    "image_with_text_wh8JQj",
-    "separator_bBF673",
-    "multirow_YiBENi"
+    "multirow_YiBENi",
+    "separator_bBF673"
   ]
 }
