@@ -17,7 +17,7 @@
           "settings": {
             "image": "shopify://shop_images/Scatole-armadio-Reisenthel.webp",
             "title": " REISENTHEL",
-            "text": "<p><strong>Scatole Armadio</strong></p>",
+            "text": "<p><strong>Scatole per Armadio</strong></p>",
             "link_label": "",
             "link": "shopify://collections/complementi-arredo-scatole-armadio"
           }
@@ -25,11 +25,11 @@
         "column_pkHkxr": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/KnIndustrie-bicchieri.webp",
-            "title": "<strong>KNIDUSTRIE</strong>",
-            "text": "<p><strong>I Bicchieri</strong></p>",
+            "image": "shopify://shop_images/Brabantia-accessori-bagno.webp",
+            "title": "<strong>BRABANTIA</strong>",
+            "text": "<p><strong>Accessori Bagno</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
+            "link": "shopify://collections/complementi-arredo-bagno"
           }
         }
       },
