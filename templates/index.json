@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "multicolumn_rGUHzh": {
@@ -15,11 +15,11 @@
         "column_4PjnNt": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi-home-piatti-petalo-2.webp",
-            "title": "<strong>BITOSSI HOME</strong>",
-            "text": "<p><strong>Piatti Petalo</strong></p>",
+            "image": "shopify://shop_images/Scatole-armadio-Reisenthel.webp",
+            "title": " REISENTHEL",
+            "text": "<p><strong>Scatole Armadio</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/bitossi-home-petalo-bitossi-home"
+            "link": "shopify://collections/complementi-arredo-scatole-armadio"
           }
         },
         "column_pkHkxr": {
