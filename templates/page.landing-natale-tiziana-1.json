@@ -73,8 +73,8 @@
         "heading_xNbjrH": {
           "type": "heading",
           "settings": {
-            "heading": "Scegli la collezione Seletti e trasforma il tuo Natale in un'opera d'arte!",
-            "heading_size": "h1"
+            "heading": "<strong>Scegli la collezione Seletti e trasforma il tuo Natale in un'opera d'arte!</strong>",
+            "heading_size": "h2"
           }
         }
       },
