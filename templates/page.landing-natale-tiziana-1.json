@@ -23,7 +23,7 @@
         "heading_z8HBxJ": {
           "type": "heading",
           "settings": {
-            "heading": "NATALE 2024",
+            "heading": "LA TAVOLA DI NATALE",
             "heading_size": "h0"
           }
         }
@@ -32,7 +32,7 @@
         "heading_z8HBxJ"
       ],
       "settings": {
-        "image": "shopify://shop_images/christmas.jpg",
+        "image": "shopify://shop_images/La-tavola-di-Natale-Seletti.webp",
         "image_overlay_opacity": 30,
         "image_height": "small",
         "desktop_content_position": "middle-center",
