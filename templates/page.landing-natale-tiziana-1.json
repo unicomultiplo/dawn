@@ -102,13 +102,13 @@
         "left_image": "shopify://shop_images/Natale-con-i-piatti-Seletti-Hybrid.webp",
         "left_link": "shopify://collections/seletti-natale",
         "left_text": "Piatti Hybrid",
-        "right_top_image": "shopify://shop_images/natale-bitossi.jpg",
+        "right_top_image": "shopify://shop_images/Natale-con-Seletti.webp",
         "right_top_link": "shopify://collections/bitossi-home-natale",
-        "right_top_text": "Bitossi Home per il tuo Natale",
-        "right_bottom_image": "shopify://shop_images/natale-ichendorf.jpg",
+        "right_top_text": "Piatti Kintsugi",
+        "right_bottom_image": "shopify://shop_images/Piatti_Classics_on_Acid-Seletti.jpg",
         "right_bottom_link": "shopify://collections/ichendorf-catalogo-natale",
-        "right_bottom_text": "Natale con Ichendorf",
-        "margin_top": 16
+        "right_bottom_text": "Piatti Classics on Acid",
+        "margin_top": 92
       }
     },
     "slideshow_9rUzXC": {
@@ -117,11 +117,12 @@
         "slide_aTUHhj": {
           "type": "slide",
           "settings": {
-            "heading": "Prodotto in evidenza 1",
+            "image": "shopify://shop_images/La_Tavola_di_Natale_2_1.webp",
+            "heading": "Seletti Diesel Classics on Acid",
             "heading_size": "h2",
             "subheading": "",
-            "button_label": "Etichetta pulsante",
-            "link": "",
+            "button_label": "Scopri tutta la collezione!",
+            "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid",
             "button_style_secondary": true,
             "box_align": "middle-center",
             "show_text_box": true,
@@ -134,6 +135,7 @@
         "slide_VLNeGd": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/La-tavola-di-Natale-Seletti.webp",
             "heading": "Prodotto in evidenza 2",
             "heading_size": "h2",
             "subheading": "",
@@ -151,11 +153,12 @@
         "slide_HX3yWz": {
           "type": "slide",
           "settings": {
-            "heading": "Prodotto in evidenza 3",
+            "image": "shopify://shop_images/La-tavola-di-Seletti-kintsugi-Natale.webp",
+            "heading": "Seletti Piatti Kntsugi",
             "heading_size": "h2",
             "subheading": "",
-            "button_label": "Etichetta pulsante",
-            "link": "",
+            "button_label": "Scopri tutta la Collezione",
+            "link": "shopify://collections/seletti-catalogo-prodotti-kintsugi",
             "button_style_secondary": true,
             "box_align": "middle-center",
             "show_text_box": true,
@@ -168,7 +171,7 @@
         "slide_zLt6xd": {
           "type": "slide",
           "settings": {
-            "heading": "Prodotto in evidenza 4",
+            "heading": "Prodotto in evidenza 1",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "Etichetta pulsante",
@@ -321,7 +324,7 @@
         "row_34zyVi": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Kintsugi-seletti.webp",
+            "image": "shopify://shop_images/Selstti-Kintsugi.webp",
             "caption": "",
             "heading": "Le tavole di Natale di Seletti sono incredibili! Crea anche tu la tua e stupisci tutti con stile e originalità!!",
             "text": "",
