@@ -136,11 +136,11 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/La-tavola-di-Natale-Seletti.webp",
-            "heading": "Prodotto in evidenza 2",
+            "heading": "La Tavola di Natale Distorta",
             "heading_size": "h2",
             "subheading": "",
-            "button_label": "Etichetta pulsante",
-            "link": "",
+            "button_label": "Scoprila ora!",
+            "link": "shopify://products/seletti-diesel-living-classic-on-acid-piatti-frutta",
             "button_style_secondary": true,
             "box_align": "middle-center",
             "show_text_box": true,
@@ -386,7 +386,7 @@
         "row_7JQegY": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/christmas-lights.jpg",
+            "image": "shopify://shop_images/La-tavola-Seletti-Posate-Kintsugi.webp",
             "caption": "",
             "heading": "Splendidi addobbi e decorazioni natalizie.",
             "text": "",
