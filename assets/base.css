@@ -3629,3 +3629,8 @@ details-disclosure > details {
     transform: translateX(100%) scaleX(0);
   }
 }
+
+/* WhatsApp Button */
+.gty-wacb-wrapper {
+  z-index: 999 !important;
+}
