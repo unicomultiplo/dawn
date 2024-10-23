@@ -135,6 +135,7 @@
         "slide_VLNeGd": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/La_Tavola_di_Natale_7_1.webp",
             "heading": "Prodotto in evidenza 2",
             "heading_size": "h2",
             "subheading": "",
