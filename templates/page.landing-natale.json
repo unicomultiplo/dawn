@@ -117,10 +117,11 @@
         "slide_aTUHhj": {
           "type": "slide",
           "settings": {
-            "heading": "Prodotto in evidenza 1",
+            "image": "shopify://shop_images/La_Tavola_di_Natale_6_1.webp",
+            "heading": "La tavola di KnIndustrie",
             "heading_size": "h2",
             "subheading": "",
-            "button_label": "Etichetta pulsante",
+            "button_label": "Scoprila Subito!",
             "link": "",
             "button_style_secondary": true,
             "box_align": "middle-center",
