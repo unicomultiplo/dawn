@@ -117,12 +117,12 @@
         "slide_aTUHhj": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/La_Tavola_di_Natale_6_1.webp",
-            "heading": "La tavola di KnIndustrie",
+            "image": "shopify://shop_images/La-tavola-di-Natale-KnIndustrire.webp",
+            "heading": "KnIndustrie Piatti FJord",
             "heading_size": "h2",
             "subheading": "",
-            "button_label": "Scoprila Subito!",
-            "link": "",
+            "button_label": "Scoprili Subito!",
+            "link": "shopify://products/knindustrie-fjord-fusion-piatti",
             "button_style_secondary": true,
             "box_align": "middle-center",
             "show_text_box": true,
