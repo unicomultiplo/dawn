@@ -118,7 +118,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/La-tavola-di-Natale-KnIndustrire.webp",
-            "heading": "KnIndustrie Piatti FJord",
+            "heading": "KnIndustrie Piatti FJord, forma che Incanta!",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "Scoprili Subito!",
@@ -136,10 +136,10 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/La-tavola-di-Natale-Bitossi.webp",
-            "heading": "La Tavola di Natale Bitossi Home",
+            "heading": "La Tavola di Natale Bitossi Home, l'oro che illumina!",
             "heading_size": "h2",
             "subheading": "",
-            "button_label": "Scoprila Subito!",
+            "button_label": "Scoprila Subito",
             "link": "shopify://collections/bitossi-home-natale",
             "button_style_secondary": true,
             "box_align": "middle-center",
