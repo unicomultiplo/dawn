@@ -153,6 +153,7 @@
         "slide_HX3yWz": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/La_Tavola_di_Natale_1500_x_600_px.jpg",
             "heading": "Prodotto in evidenza 3",
             "heading_size": "h2",
             "subheading": "",
@@ -170,6 +171,7 @@
         "slide_zLt6xd": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/La_Tavola_di_Natale_1500_x_600_px_1500_x_600_px_1.webp",
             "heading": "Prodotto in evidenza 4",
             "heading_size": "h2",
             "subheading": "",
