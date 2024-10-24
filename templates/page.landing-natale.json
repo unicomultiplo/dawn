@@ -135,12 +135,12 @@
         "slide_VLNeGd": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/La_Tavola_di_Natale_7_1.webp",
-            "heading": "Prodotto in evidenza 2",
+            "image": "shopify://shop_images/La-tavola-di-Natale-Bitossi.webp",
+            "heading": "La Tavola di Natale Bitossi Home",
             "heading_size": "h2",
             "subheading": "",
-            "button_label": "Etichetta pulsante",
-            "link": "",
+            "button_label": "Scoprila Subito!",
+            "link": "shopify://collections/bitossi-home-natale",
             "button_style_secondary": true,
             "box_align": "middle-center",
             "show_text_box": true,
