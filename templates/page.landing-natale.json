@@ -215,7 +215,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Tavola-di-Natale-Seletti_a4bb44c6-3fe6-4464-a981-b247bafcb7ec.webp",
-            "title": "Natale Con Seletti",
+            "title": "<strong>Natale Con Seletti</strong>",
             "text": "<p>Questo Natale, <strong>Seletti rivoluziona ancora</strong> la tua tavola. Con il loro mix di design figurativo e Pop Art, i prodotti Seletti portano movimento e provocazione, trasformando i concetti tradizionali in creazioni fresche e originali. <strong>Un brand che reinventa l’eleganza con un tocco unico e divertente.</strong></p>",
             "link_label": "",
             "link": ""
@@ -255,7 +255,7 @@
         "background_style": "primary",
         "button_label": "Etichetta pulsante",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
