@@ -389,7 +389,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "idee-regalo",
+        "collection": "idee-regalo-natale",
         "products_to_show": 10,
         "columns_desktop": 6,
         "full_width": false,
