@@ -223,8 +223,10 @@
         },
         "column_irLrFX": {
           "type": "column",
+          "disabled": true,
           "settings": {
-            "title": "Colonna",
+            "image": "shopify://shop_images/Natale-Con-Bitossi-Home_265c08a0-823d-44ec-94c9-f100d6267c38.webp",
+            "title": "<strong>Natale Con Bitossi Home</strong>",
             "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
             "link_label": "",
             "link": "shopify://collections/seletti-natale"
@@ -245,6 +247,7 @@
         "column_irLrFX",
         "column_x7nTA3"
       ],
+      "disabled": true,
       "settings": {
         "title": "Multicolonna",
         "heading_size": "h1",
@@ -262,31 +265,59 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_w3HRXP": {
-      "type": "featured-collection",
+    "multicolumn_6PRmG7": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_rkUxqg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Tavola-di-Natale-Seletti_a4bb44c6-3fe6-4464-a981-b247bafcb7ec.webp",
+            "title": "<strong>Natale con Seletti</strong>",
+            "text": "<p><strong>Questo Natale, Seletti rivoluziona anche la tua tavola</strong>. Con il loro mix di design figurativo e Pop Art, i prodotti Seletti portano movimento e provocazione, trasformando i concetti tradizionali in creazioni fresche e originali. Un brand che reinventa l’eleganza con un tocco unico e divertente.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_c7tqng": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Natale-Con-Bitossi-Home_265c08a0-823d-44ec-94c9-f100d6267c38.webp",
+            "title": "<strong>Natale Con Bitossi Home</strong>",
+            "text": "<p><strong>Per una mise en place dal gusto contemporaneo</strong>, abbiamo scelto per la tua tavola di Natale le collezioni di Bitossi Home, l’editore toscano noto per il suo design originale: Abracadabra, Tavola scomposta, Il Frutto della Passione, tutto ciò che serve per un Natale colorato e decisamente non convenzionale.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ADcwhE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/KnIndustrie-piatti_1_1.jpg",
+            "title": "<strong>Natale con KnIndustrie</strong>",
+            "text": "<p><strong>Design e Qualità per la Tua Tavola di Natale</strong><br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_rkUxqg",
+        "column_c7tqng",
+        "column_ADcwhE"
+      ],
       "settings": {
-        "title": "Collezione in evidenza",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "seletti-catalogo-prodotti-seletti-kintsugi-piatti",
-        "products_to_show": 10,
-        "columns_desktop": 6,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
+        "title": "Tutte le nostre proposte per la Tavola di Natale 2024",
+        "heading_size": "h1",
+        "image_width": "full",
         "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Etichetta pulsante",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 16,
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -534,7 +565,7 @@
     "dual_images_33cK8X",
     "slideshow_9rUzXC",
     "multicolumn_etdETJ",
-    "featured_collection_w3HRXP",
+    "multicolumn_6PRmG7",
     "rich_text_wq4j94",
     "collection_list_6B6rPA",
     "rich_text_Uztja7",
