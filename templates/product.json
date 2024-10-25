@@ -152,11 +152,52 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "image_banner_qdPH7r": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_rCaw4n": {
+          "type": "heading",
+          "settings": {
+            "heading": "NATALE 2024",
+            "heading_size": "h1"
+          }
+        },
+        "buttons_8qh3Hd": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "IDEE REGALO",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "TAVOLADI NATALE",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_rCaw4n",
+        "buttons_8qh3Hd"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/christmas.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
     "main",
     "custom_liquid_q83gja",
-    "related-products"
+    "related-products",
+    "image_banner_qdPH7r"
   ]
 }
