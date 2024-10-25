@@ -141,67 +141,6 @@
         "padding_bottom": 36
       }
     },
-    "collection_list_GLNkjY": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_iAeXAy": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-natale"
-          }
-        },
-        "featured_collection_c3wa76": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-seletti-kintsugi-piatti"
-          }
-        },
-        "featured_collection_XX9GXw": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-hybrid-piatti"
-          }
-        },
-        "featured_collection_mckdPp": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-diesel-living-seletti-classics-on-acid"
-          }
-        },
-        "featured_collection_TxTgBy": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-marcantonio"
-          }
-        },
-        "featured_collection_DkqprJ": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-natale"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_iAeXAy",
-        "featured_collection_c3wa76",
-        "featured_collection_XX9GXw",
-        "featured_collection_mckdPp",
-        "featured_collection_TxTgBy",
-        "featured_collection_DkqprJ"
-      ],
-      "settings": {
-        "title": "Natale con Seletti",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "color_scheme": "scheme-4",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn_38PWQd": {
       "type": "multicolumn",
       "blocks": {
@@ -274,6 +213,46 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_banner_EpByd8": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_KJNBNV": {
+          "type": "heading",
+          "settings": {
+            "heading": "NATALE 2024",
+            "heading_size": "h1"
+          }
+        },
+        "buttons_cY6VU3": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "IDEE REGALO",
+            "button_link_1": "shopify://collections/idee-regalo-natale",
+            "button_style_secondary_1": true,
+            "button_label_2": "TAVOLA DI NATALE",
+            "button_link_2": "shopify://pages/natale",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_KJNBNV",
+        "buttons_cY6VU3"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/christmas.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -282,6 +261,6 @@
     "collection_list_ALGRGL",
     "multicolumn_38PWQd",
     "product-grid",
-    "collection_list_GLNkjY"
+    "image_banner_EpByd8"
   ]
 }
