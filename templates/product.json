@@ -167,17 +167,20 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "IDEE REGALO",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
+            "button_link_1": "shopify://collections/idee-regalo-natale",
+            "button_style_secondary_1": true,
             "button_label_2": "TAVOLADI NATALE",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_link_2": "shopify://pages/natale",
+            "button_style_secondary_2": true
           }
         }
       },
       "block_order": [
         "heading_rCaw4n",
         "buttons_8qh3Hd"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
         "image": "shopify://shop_images/christmas.jpg",
