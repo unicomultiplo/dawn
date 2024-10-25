@@ -272,9 +272,9 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Tavola-di-Natale-Seletti_a4bb44c6-3fe6-4464-a981-b247bafcb7ec.webp",
-            "title": "<a href=\"/collections/seletti-natale\" title=\"Natale Con Seletti\"><strong>La Tavola di Seletti</strong></a>",
+            "title": "<strong>La Tavola di Seletti</strong>",
             "text": "<p><strong>Questo Natale, Seletti rivoluziona anche la tua tavola</strong>. Con il loro mix di design figurativo e Pop Art, i prodotti Seletti portano movimento e provocazione, trasformando i concetti tradizionali in creazioni fresche e originali. Un brand che reinventa l’<strong>eleganza con un tocco unico e divertente.</strong></p>",
-            "link_label": "Natale con Seletti",
+            "link_label": "",
             "link": "shopify://collections/seletti-natale"
           }
         },
@@ -304,6 +304,9 @@
         "column_c7tqng",
         "column_ADcwhE"
       ],
+      "custom_css": [
+        "a {color: white; text-decoration: none;"
+      ],
       "settings": {
         "title": "Tutte le nostre proposte per apparecchiare la Tavola di Natale 2024",
         "heading_size": "h1",
@@ -314,7 +317,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-4",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
