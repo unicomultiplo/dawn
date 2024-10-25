@@ -94,7 +94,8 @@
       "type": "dual-images",
       "custom_css": [
         ".image-text {background: #000;}",
-        ".full-size-image-section {margin-bottom: 48px;}"
+        ".full-size-image-section {margin-bottom: 48px;}",
+        "a {font-size: 12px;}"
       ],
       "settings": {
         "section_height": 600,
@@ -104,7 +105,7 @@
         "left_text": "Natale con Seletti",
         "right_top_image": "shopify://shop_images/natale-bitossi.jpg",
         "right_top_link": "shopify://collections/bitossi-home-natale",
-        "right_top_text": "Bitossi Home per il tuo Natale",
+        "right_top_text": "Natale Bitossi home",
         "right_bottom_image": "shopify://shop_images/natale-ichendorf.jpg",
         "right_bottom_link": "shopify://collections/ichendorf-catalogo-natale",
         "right_bottom_text": "Natale con Ichendorf",
@@ -273,7 +274,7 @@
           "settings": {
             "image": "shopify://shop_images/Tavola-di-Natale-Seletti_a4bb44c6-3fe6-4464-a981-b247bafcb7ec.webp",
             "title": "<strong>La Tavola di Seletti</strong>",
-            "text": "<p><strong>Questo Natale, Seletti rivoluziona anche la tua tavola</strong>. Con il loro mix di design figurativo e Pop Art, i prodotti Seletti portano movimento e provocazione, trasformando i concetti tradizionali in creazioni fresche e originali. Un brand che reinventa l’<strong>eleganza con un tocco unico e divertente.</strong></p>",
+            "text": "<p><strong>Questo Natale, Seletti rivoluziona anche la tua tavola</strong>. Con il loro mix di design figurativo e Pop Art, i prodotti Seletti portano movimento e provocazione, trasformando i concetti tradizionali in creazioni fresche e originali.</p><h5><strong>SCOPRILA SUBITO -&gt;</strong></h5>",
             "link_label": "",
             "link": "shopify://collections/seletti-natale"
           }
@@ -283,9 +284,9 @@
           "settings": {
             "image": "shopify://shop_images/Natale-Con-Bitossi-Home_265c08a0-823d-44ec-94c9-f100d6267c38.webp",
             "title": "<strong>La tavola di Bitossi Home</strong>",
-            "text": "<p><strong>Per una mise en place dal gusto contemporaneo</strong>, abbiamo scelto per la tua tavola di Natale le collezioni di Bitossi Home, l’editore toscano noto per il suo design originale. Tutto ciò che serve <strong>per un Natale colorato e decisamente non convenzionale.</strong></p>",
+            "text": "<p><strong>Per una mise en place dal gusto contemporaneo</strong>, abbiamo scelto per la tua tavola di Natale le collezioni di Bitossi Home.Tutto ciò che serve <strong>per un Natale colorato e decisamente non convenzionale.</strong></p><h5><strong>SCOPRILA SUBITO -&gt;</strong></h5>",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/bitossi-home-natale"
           }
         },
         "column_ADcwhE": {
@@ -293,9 +294,9 @@
           "settings": {
             "image": "shopify://shop_images/KnIndustrie-piatti_1_1.jpg",
             "title": "<strong>La Tavola di KnIndustrie</strong>",
-            "text": "<p><strong>Passione per il design, attenzione alla qualità</strong>. KnIndustrie incarna il Made in Italy, seguendo la grande tradizione italiana che valorizza eleganza, innovazione e qualità.<strong> Perfetti per impreziosire la tua tavola di Natale.</strong></p>",
+            "text": "<p><strong>Passione per il design, attenzione alla qualità</strong>. KnIndustrie incarna il Made in Italy, seguendo la grande tradizione italiana che valorizza eleganza, innovazione e qualità.<strong> Perfetti per impreziosire la tua tavola di Natale.</strong></p><h5><strong>SCOPRILA SUBITO -&gt;</strong></h5>",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-piatti"
           }
         }
       },
