@@ -272,7 +272,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Tavola-di-Natale-Seletti_a4bb44c6-3fe6-4464-a981-b247bafcb7ec.webp",
-            "title": "<strong>Natale con Seletti</strong>",
+            "title": "<strong>La Tavola di Seletti</strong>",
             "text": "<p><strong>Questo Natale, Seletti rivoluziona anche la tua tavola</strong>. Con il loro mix di design figurativo e Pop Art, i prodotti Seletti portano movimento e provocazione, trasformando i concetti tradizionali in creazioni fresche e originali. Un brand che reinventa l’<strong>eleganza con un tocco unico e divertente.</strong></p>",
             "link_label": "",
             "link": ""
@@ -282,7 +282,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Natale-Con-Bitossi-Home_265c08a0-823d-44ec-94c9-f100d6267c38.webp",
-            "title": "<strong>Natale Con Bitossi Home</strong>",
+            "title": "<strong>La tavola di Bitossi Home</strong>",
             "text": "<p><strong>Per una mise en place dal gusto contemporaneo</strong>, abbiamo scelto per la tua tavola di Natale le collezioni di Bitossi Home, l’editore toscano noto per il suo design originale. Tutto ciò che serve <strong>per un Natale colorato e decisamente non convenzionale.</strong></p>",
             "link_label": "",
             "link": ""
@@ -292,7 +292,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/KnIndustrie-piatti_1_1.jpg",
-            "title": "<strong>Natale con KnIndustrie</strong>",
+            "title": "<strong>La Tavola di KnIndustrie</strong>",
             "text": "<p><strong>Passione per il design, attenzione alla qualità</strong>. KnIndustrie incarna il Made in Italy, seguendo la grande tradizione italiana che valorizza eleganza, innovazione e qualità.<strong> Perfetti per impreziosire la tua tavola di Natale.</strong></p>",
             "link_label": "",
             "link": ""
@@ -305,7 +305,7 @@
         "column_ADcwhE"
       ],
       "settings": {
-        "title": "Tutte le nostre proposte per la Tavola di Natale 2024",
+        "title": "Tutte le nostre proposte per apparecchiare la Tavola di Natale 2024",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -327,7 +327,7 @@
         "heading_CKm8qn": {
           "type": "heading",
           "settings": {
-            "heading": "Scopri la tavola di Natale firmata Brandani:",
+            "heading": "Scopri anche la Tavola di Natale firmata Brandani:",
             "heading_size": "h2"
           }
         }
