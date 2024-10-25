@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -27,7 +27,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h4><a href=\"\/collections\/seletti-diesel-living-seletti-classics-on-acid\" title=\"Seletti Classics on Acid\">NEW! Classics on Acid<\/a><\/h4><h4><a href=\"\/collections\/seletti-seletti-magna-graecia\" title=\"Seletti Magna Graecia\">NEW! Magna Graecia<\/a><\/h4><h4><a href=\"\/collections\/seletti-catalogo-prodotti-hybrid\" title=\"Seletti Hybrid\">Collezione Hybrid<\/a><\/h4><h4><a href=\"\/collections\/seletti-hybrid-piatti\" title=\"Seletti Piatti Hybrid\">Piatti Hybrid<\/a><\/h4><h4><a href=\"\/collections\/seletti-catalogo-prodotti-marcantonio\" title=\"Seletti Marcantonio\">Seletti + Marcantonio<\/a><\/h4>",
+            "text": "<h4><a href=\"/collections/seletti-diesel-living-seletti-classics-on-acid\" title=\"Seletti Classics on Acid\">NEW! Classics on Acid</a></h4><h4><a href=\"/collections/seletti-seletti-magna-graecia\" title=\"Seletti Magna Graecia\">NEW! Magna Graecia</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-hybrid\" title=\"Seletti Hybrid\">Collezione Hybrid</a></h4><h4><a href=\"/collections/seletti-hybrid-piatti\" title=\"Seletti Piatti Hybrid\">Piatti Hybrid</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-marcantonio\" title=\"Seletti Marcantonio\">Seletti + Marcantonio</a></h4>",
             "link_label": "",
             "link": ""
           }
@@ -36,7 +36,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h4><a href=\"\/collections\/seletti-catalogo-prodotti-estetico-quotidiano\" title=\"Seletti estetico quotidiano\">Estetico Quotidiano<\/a><\/h4><h4><a href=\"\/collections\/seletti-catalogo-prodotti-i-wares\" title=\"Seletti I-Wares\">I-Wares<\/a><\/h4><h4><a href=\"\/collections\/seletti-catalogo-prodotti-diesel-living\" title=\"Seletti Diesel Living\">Diesel Living<\/a><\/h4><h4><a href=\"\/collections\/seletti-catalogo-prodotti-toiletpaper\" title=\"Toiletpaper Seletti\">Seletti wears Toiletpaper<\/a><\/h4>",
+            "text": "<h4><a href=\"/collections/seletti-catalogo-prodotti-estetico-quotidiano\" title=\"Seletti estetico quotidiano\">Estetico Quotidiano</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-i-wares\" title=\"Seletti I-Wares\">I-Wares</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-diesel-living\" title=\"Seletti Diesel Living\">Diesel Living</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-toiletpaper\" title=\"Toiletpaper Seletti\">Seletti wears Toiletpaper</a></h4>",
             "link_label": "",
             "link": ""
           }
@@ -45,7 +45,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h4><a href=\"\/collections\/seletti-catalogo-prodotti-kintsugi\" title=\"Seletti Kintsugi\">Kintsugi<\/a><\/h4><h4><a href=\"\/collections\/seletti-catalogo-prodotti-seletti-marcantonio-memorabilia\" title=\"Memorabilia Mvsevm Seletti\">Memorabilia<\/a><\/h4><h4><a href=\"\/collections\/seletti-catalogo-prodotti-seletti-marcantonio-sending-animals\" title=\"Sending Animals by Seletti\">Sanding Animals<\/a><\/h4><h4><a href=\"\/collections\/seletti-catalogo-prodotti-blow-by-job\" title=\"Seletti Blow by Job\">Blow by Job<\/a><\/h4><h4><a href=\"\/collections\/seletti-natale\" title=\"Natale Con Seletti\">Natale Con Seletti<\/a><\/h4>",
+            "text": "<h4><a href=\"/collections/seletti-catalogo-prodotti-kintsugi\" title=\"Seletti Kintsugi\">Kintsugi</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-seletti-marcantonio-memorabilia\" title=\"Memorabilia Mvsevm Seletti\">Memorabilia</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-seletti-marcantonio-sending-animals\" title=\"Sending Animals by Seletti\">Sanding Animals</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-blow-by-job\" title=\"Seletti Blow by Job\">Blow by Job</a></h4><h4><a href=\"/collections/seletti-natale\" title=\"Natale Con Seletti\">Natale Con Seletti</a></h4>",
             "link_label": "",
             "link": ""
           }
@@ -56,6 +56,7 @@
         "column_pqxUGY",
         "column_gPeEtt"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -74,6 +75,123 @@
         "swipe_on_mobile": true,
         "padding_top": 20,
         "padding_bottom": 20
+      }
+    },
+    "multicolumn_38PWQd": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_UprEta": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4><a href=\"/collections/seletti-seletti-magna-graecia\" title=\"Seletti Magna Graecia\">NEW! Magna Graecia</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-marcantonio\" title=\"Seletti Marcantonio\">Seletti + Marcantonio</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-toiletpaper\" title=\"Toiletpaper Seletti\">Seletti wears Toiletpaper</a></h4>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yfQL9J": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4><a href=\"/collections/seletti-catalogo-prodotti-estetico-quotidiano\" title=\"Seletti estetico quotidiano\">Estetico Quotidiano</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-i-wares\" title=\"Seletti I-Wares\">I-Wares</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-diesel-living\" title=\"Seletti Diesel Living\">Diesel Living</a></h4><h4></h4>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yqLKq7": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-seletti-marcantonio-memorabilia\" title=\"Memorabilia Mvsevm Seletti\">Memorabilia</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-seletti-marcantonio-sending-animals\" title=\"Sending Animals by Seletti\">Sanding Animals</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-blow-by-job\" title=\"Seletti Blow by Job\">Blow by Job</a></h4>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_UprEta",
+        "column_yfQL9J",
+        "column_yqLKq7"
+      ],
+      "settings": {
+        "title": "Scopri tutte le Collezioni Seletti",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "collection_list_ALGRGL": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_CXfcct": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-natale"
+          }
+        },
+        "featured_collection_ELUYUy": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-catalogo-prodotti-kintsugi"
+          }
+        },
+        "featured_collection_Ewq8hD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-catalogo-prodotti-hybrid"
+          }
+        },
+        "featured_collection_4BmcXy": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-diesel-living-seletti-classics-on-acid"
+          }
+        },
+        "featured_collection_Y4eJTU": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-catalogo-prodotti-marcantonio"
+          }
+        },
+        "featured_collection_zXiLkX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-natale"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_CXfcct",
+        "featured_collection_ELUYUy",
+        "featured_collection_Ewq8hD",
+        "featured_collection_4BmcXy",
+        "featured_collection_Y4eJTU",
+        "featured_collection_zXiLkX"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "title": "Natale con Seletti",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "scheme-4",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "product-grid": {
@@ -100,6 +218,8 @@
   "order": [
     "banner",
     "multicolumn_MxLddP",
+    "collection_list_ALGRGL",
+    "multicolumn_38PWQd",
     "product-grid"
   ]
 }
