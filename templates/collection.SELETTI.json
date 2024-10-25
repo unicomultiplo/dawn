@@ -56,62 +56,8 @@
         "column_pqxUGY",
         "column_gPeEtt"
       ],
-      "disabled": true,
       "custom_css": [
 
-      ],
-      "settings": {
-        "title": "Scopri tutte le Collezioni Seletti",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
-    "multicolumn_38PWQd": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_UprEta": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h4><a href=\"/collections/seletti-seletti-magna-graecia\" title=\"Seletti Magna Graecia\">NEW! Magna Graecia</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-marcantonio\" title=\"Seletti Marcantonio\">Seletti + Marcantonio</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-toiletpaper\" title=\"Toiletpaper Seletti\">Seletti wears Toiletpaper</a></h4>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_yfQL9J": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h4><a href=\"/collections/seletti-catalogo-prodotti-estetico-quotidiano\" title=\"Seletti estetico quotidiano\">Estetico Quotidiano</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-i-wares\" title=\"Seletti I-Wares\">I-Wares</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-diesel-living\" title=\"Seletti Diesel Living\">Diesel Living</a></h4><h4></h4>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_yqLKq7": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h4></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-seletti-marcantonio-memorabilia\" title=\"Memorabilia Mvsevm Seletti\">Memorabilia</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-seletti-marcantonio-sending-animals\" title=\"Sending Animals by Seletti\">Sanding Animals</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-blow-by-job\" title=\"Seletti Blow by Job\">Blow by Job</a></h4>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_UprEta",
-        "column_yfQL9J",
-        "column_yqLKq7"
       ],
       "settings": {
         "title": "Scopri tutte le Collezioni Seletti",
@@ -178,6 +124,7 @@
         "featured_collection_Y4eJTU",
         "featured_collection_zXiLkX"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -192,6 +139,60 @@
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "multicolumn_38PWQd": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_UprEta": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4><a href=\"/collections/seletti-seletti-magna-graecia\" title=\"Seletti Magna Graecia\">NEW! Magna Graecia</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-marcantonio\" title=\"Seletti Marcantonio\">Seletti + Marcantonio</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-toiletpaper\" title=\"Toiletpaper Seletti\">Seletti wears Toiletpaper</a></h4>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yfQL9J": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4><a href=\"/collections/seletti-catalogo-prodotti-estetico-quotidiano\" title=\"Seletti estetico quotidiano\">Estetico Quotidiano</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-i-wares\" title=\"Seletti I-Wares\">I-Wares</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-diesel-living\" title=\"Seletti Diesel Living\">Diesel Living</a></h4><h4></h4>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yqLKq7": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-seletti-marcantonio-memorabilia\" title=\"Memorabilia Mvsevm Seletti\">Memorabilia</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-seletti-marcantonio-sending-animals\" title=\"Sending Animals by Seletti\">Sanding Animals</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-blow-by-job\" title=\"Seletti Blow by Job\">Blow by Job</a></h4>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_UprEta",
+        "column_yfQL9J",
+        "column_yqLKq7"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Scopri tutte le Collezioni Seletti",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "product-grid": {
