@@ -187,23 +187,6 @@
         "padding_bottom": 52
       }
     },
-    "featured_blog_M4AyUT": {
-      "type": "featured-blog",
-      "settings": {
-        "heading": "Articoli del blog",
-        "heading_size": "h1",
-        "blog": "",
-        "post_limit": 3,
-        "columns_desktop": 3,
-        "color_scheme": "",
-        "show_image": true,
-        "show_date": true,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multirow_YiBENi": {
       "type": "multirow",
       "blocks": {
@@ -321,7 +304,6 @@
     "slideshow_9rUzXC",
     "rich_text_wq4j94",
     "rich_text_Uztja7",
-    "featured_blog_M4AyUT",
     "multirow_YiBENi",
     "multirow_TKm8B9",
     "featured_collection_pxNL4g"
