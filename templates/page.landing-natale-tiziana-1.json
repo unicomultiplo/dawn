@@ -23,7 +23,7 @@
         "heading_z8HBxJ": {
           "type": "heading",
           "settings": {
-            "heading": "NATALE CON SELETTI",
+            "heading": "",
             "heading_size": "h0"
           }
         }
@@ -32,11 +32,11 @@
         "heading_z8HBxJ"
       ],
       "settings": {
-        "image": "shopify://shop_images/La-tavola-di-Natale-Seletti.webp",
-        "image_overlay_opacity": 30,
+        "image": "shopify://shop_images/Knindustrie-piatti-10.webp",
+        "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-4",
         "image_behavior": "none",
