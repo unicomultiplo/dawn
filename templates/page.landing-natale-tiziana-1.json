@@ -73,41 +73,18 @@
         "show_text_below": true
       }
     },
-    "rich_text_zwemCt": {
-      "type": "rich-text",
-      "blocks": {
-        "text_grE4wW": {
-          "type": "text",
-          "settings": {
-            "text": "<h3></h3><h3></h3><h3><strong>Porta l'arte in tavola questo Natale con i piatti di Seletti!</strong> 🎄<br/>Sorprendi i tuoi ospiti con un tocco di originalità e design. I piatti di <strong>Seletti</strong>, con il loro stile unico e inconfondibile, renderanno ogni portata un'esperienza indimenticabile. Perfetti per chi ama il Natale e vuole creare una tavola che racconti creatività, eleganza e modernità.</h3><h1></h1>"
-          }
-        }
-      },
-      "block_order": [
-        "text_grE4wW"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "rich_text_eUGJPw": {
       "type": "rich-text",
       "blocks": {
-        "heading_xNbjrH": {
-          "type": "heading",
+        "text_Extp7J": {
+          "type": "text",
           "settings": {
-            "heading": "<strong>Scegli la collezione Seletti e trasforma il tuo Natale in un'opera d'arte!</strong>",
-            "heading_size": "h2"
+            "text": "<p>Questa composizione incarna l'equilibrio ideale di imperfezione controllata, con il piatto antipasto blu, caratterizzato dalla sua finitura distintiva, che esalta la matericità del gres. I piatti decorati di Piero Lissoni combinano abilmente richiami al passato con uno stile moderno, ispirandosi alla poetica visione di \"Out of Tune\". Il piatto in vetro, dalle linee essenziali e realizzato in borosilicato, dona all'intera composizione una struttura armoniosa.</p>"
           }
         }
       },
       "block_order": [
-        "heading_xNbjrH"
+        "text_Extp7J"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -475,7 +452,6 @@
     "main",
     "image_banner_wgHUAX",
     "image_banner_KGriWC",
-    "rich_text_zwemCt",
     "rich_text_eUGJPw",
     "dual_images_33cK8X",
     "slideshow_9rUzXC",
