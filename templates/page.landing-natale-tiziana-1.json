@@ -45,6 +45,34 @@
         "show_text_below": true
       }
     },
+    "image_banner_KGriWC": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_UM46BB": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UM46BB"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Knindustrie_2.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "rich_text_zwemCt": {
       "type": "rich-text",
       "blocks": {
@@ -446,6 +474,7 @@
   "order": [
     "main",
     "image_banner_wgHUAX",
+    "image_banner_KGriWC",
     "rich_text_zwemCt",
     "rich_text_eUGJPw",
     "dual_images_33cK8X",
