@@ -79,7 +79,7 @@
         "heading_Updj6c": {
           "type": "heading",
           "settings": {
-            "heading": "La nuova tavola di KnIndustrie",
+            "heading": "La nuova  di tavola di KnIndustrie",
             "heading_size": "h1"
           }
         },
@@ -108,7 +108,7 @@
       "settings": {
         "section_height": 620,
         "image_padding": 10,
-        "left_image": "shopify://shop_images/KNindutrie-prposta_-tavola-natale.webp",
+        "left_image": "shopify://shop_images/KNindutrie-prposta_-tavola-natale_6.jpg",
         "left_link": "",
         "left_text": "",
         "right_top_image": "shopify://shop_images/KNindutrie-prposta_-tavola-natale_4.webp",
@@ -187,13 +187,40 @@
         "padding_bottom": 52
       }
     },
+    "featured_blog_M4AyUT": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Articoli del blog",
+        "heading_size": "h1",
+        "blog": "",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multirow_YiBENi": {
       "type": "multirow",
       "blocks": {
+        "row_iEVjxx": {
+          "type": "row",
+          "settings": {
+            "caption": "Didascalia",
+            "heading": "Riga",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
+          }
+        },
         "row_34zyVi": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Selstti-Kintsugi.webp",
+            "image": "shopify://shop_images/KNindutrie-prposta_-tavola-natale_7.webp",
             "caption": "",
             "heading": "Le tavole di Natale di Seletti sono Uniche. Crea la tua e stupisci tutti con stile e originalità!",
             "text": "",
@@ -203,6 +230,7 @@
         }
       },
       "block_order": [
+        "row_iEVjxx",
         "row_34zyVi"
       ],
       "settings": {
@@ -219,34 +247,6 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "featured_collection_7TyarM": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "idee-regalo",
-        "products_to_show": 10,
-        "columns_desktop": 6,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "",
-        "image_ratio": "square",
-        "image_shape": "blob",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 16,
-        "padding_bottom": 60
       }
     },
     "multirow_TKm8B9": {
@@ -321,8 +321,8 @@
     "slideshow_9rUzXC",
     "rich_text_wq4j94",
     "rich_text_Uztja7",
+    "featured_blog_M4AyUT",
     "multirow_YiBENi",
-    "featured_collection_7TyarM",
     "multirow_TKm8B9",
     "featured_collection_pxNL4g"
   ]
