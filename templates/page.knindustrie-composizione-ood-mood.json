@@ -9,28 +9,28 @@
  */
 {
   "sections": {
-    "slideshow_kn7nmw": {
+    "slideshow_iXigW9": {
       "type": "slideshow",
       "blocks": {
-        "slide_FjV8cA": {
+        "slide_8PLx6j": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/La_Tavola_di_Natale_1500_x_600_px.webp",
-            "heading": "COMPOSIZIONE SHABBYCHIC",
+            "image": "shopify://shop_images/La_Tavola_di_Natale_1500_x_600_px_1.webp",
+            "heading": "COMPOSIZIONE SHABBY CHIC",
             "heading_size": "h1",
-            "subheading": "",
+            "subheading": "Racconta la storia del tuo brand con video e immagini",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
-            "text_alignment": "right",
+            "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-2",
+            "color_scheme": "",
             "text_alignment_mobile": "center"
           }
         },
-        "slide_NcA9EF": {
+        "slide_GyHTRz": {
           "type": "slide",
           "settings": {
             "heading": "Slide immagine",
@@ -49,8 +49,8 @@
         }
       },
       "block_order": [
-        "slide_FjV8cA",
-        "slide_NcA9EF"
+        "slide_8PLx6j",
+        "slide_GyHTRz"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -69,34 +69,6 @@
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
-      }
-    },
-    "image_banner_wgHUAX": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_z8HBxJ": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h0"
-          }
-        }
-      },
-      "block_order": [
-        "heading_z8HBxJ"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Knindustrie-piatti-10.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     },
     "image_banner_KGriWC": {
@@ -304,9 +276,8 @@
     }
   },
   "order": [
-    "slideshow_kn7nmw",
+    "slideshow_iXigW9",
     "main",
-    "image_banner_wgHUAX",
     "image_banner_KGriWC",
     "rich_text_eUGJPw",
     "dual_images_w6PcF6",
