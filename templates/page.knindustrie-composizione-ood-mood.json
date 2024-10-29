@@ -9,6 +9,59 @@
  */
 {
   "sections": {
+    "slideshow_kn7nmw": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_FjV8cA": {
+          "type": "slide",
+          "settings": {
+            "heading": "Slide immagine",
+            "heading_size": "h1",
+            "subheading": "Racconta la storia del tuo brand con video e immagini",
+            "button_label": "Etichetta pulsante",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-2",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_NcA9EF": {
+          "type": "slide",
+          "settings": {
+            "heading": "Slide immagine",
+            "heading_size": "h1",
+            "subheading": "Racconta la storia del tuo brand con video e immagini",
+            "button_label": "Etichetta pulsante",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_FjV8cA",
+        "slide_NcA9EF"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Presentazione sul nostro brand"
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -250,6 +303,7 @@
     }
   },
   "order": [
+    "slideshow_kn7nmw",
     "main",
     "image_banner_wgHUAX",
     "image_banner_KGriWC",
