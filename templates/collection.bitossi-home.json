@@ -155,7 +155,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h4><a href=\"/collections/bitossi-home-diseguale\" title=\"Diseguale Bitossi Home\"><em>Bicchieri Diseguale </em></a></h4><h4><a href=\"/collections/bitossi-home-botanica\" title=\"Botanica Bitossi Home\"><em>Piatti Botanica</em></a></h4><h4><a href=\"/collections/bitossi-home-natale\" title=\"Natale Con Bitossi Home\"><em>Natale Con Bitossi Home</em></a></h4><h4><a href=\"/collections/bitossi-home-tovagliette-e-vassoi\" title=\"Tovagliette e Vassoi Bitossi Home\"><em>Tovagliette & Vassoi</em></a></h4>",
+            "text": "<h4><a href=\"/collections/bitossi-home-diseguale\" title=\"Diseguale Bitossi Home\"><em>Bicchieri Diseguale </em></a></h4><h4><a href=\"/collections/bitossi-home-bicchieri-e-calici\" title=\"Bicchieri e Calici Bitossi Home\"><em>Bicchieri & Calici</em></a></h4><h4><a href=\"/collections/bitossi-home-natale\" title=\"Natale Con Bitossi Home\"><em>Natale Con Bitossi Home</em></a></h4><h4><a href=\"/collections/bitossi-home-tovagliette-e-vassoi\" title=\"Tovagliette e Vassoi Bitossi Home\"><em>Tovagliette & Vassoi</em></a></h4>",
             "link_label": "",
             "link": ""
           }
@@ -164,7 +164,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h4><a href=\"/collections/bitossi-home-piatti\" title=\"Piatti Bitossi Home\">Piatti</a></h4><h4><a href=\"/collections/bitossi-home-bicchieri-e-calici\" title=\"Bicchieri e Calici Bitossi Home\">Bicchieri & Calici</a></h4><h4><a href=\"/collections/bitossi-home-tazze-tazzine-e-mug\" title=\"Tazze, Tazzine e Mug Bitossi Home\">Tazze & Tazzine</a></h4><h4><a href=\"/collections/bitossi-home-rose-bitossi-home\" title=\"Rose Bitossi Home\">Piatti Rose Black</a></h4>",
+            "text": "<h4><a href=\"/collections/bitossi-home-piatti\" title=\"Piatti Bitossi Home\">Piatti</a></h4><h4><a href=\"/collections/bitossi-home-botanica\" title=\"Botanica Bitossi Home\">Piatti Botanica</a></h4><h4><a href=\"/collections/bitossi-home-tazze-tazzine-e-mug\" title=\"Tazze, Tazzine e Mug Bitossi Home\">Tazze & Tazzine</a></h4><h4><a href=\"/collections/bitossi-home-rose-bitossi-home\" title=\"Rose Bitossi Home\">Piatti Rose Black</a></h4>",
             "link_label": "",
             "link": ""
           }
