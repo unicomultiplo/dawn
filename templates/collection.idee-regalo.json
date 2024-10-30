@@ -102,7 +102,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3>IDEE </h3><h4></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-seletti-marcantonio-memorabilia\" title=\"Memorabilia Mvsevm Seletti\">Memorabilia</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-seletti-marcantonio-sending-animals\" title=\"Sending Animals by Seletti\">Sanding Animals</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-blow-by-job\" title=\"Seletti Blow by Job\">Blow by Job</a></h4>",
+            "text": "<h2>IDEE REGALO<br/></h2><h4>BAMBINI CURIOSI<br/><br/>AMANTI CANI/GATTO<br/></h4><h4>SECRET SANTA</h4><h4>ORIGINALI<br/></h4><h3></h3>",
             "link_label": "",
             "link": ""
           }
@@ -136,7 +136,7 @@
         "column_KqQBPm": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi_0b488b14-02a4-4329-9977-2f11a8fb7315.jpg",
+            "image": "shopify://shop_images/festive-scene-with-christmas-tree.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -146,7 +146,7 @@
         "column_rTjgmV": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Brandani.webp",
+            "image": "shopify://shop_images/santa-fixes-the-bow-on-a-gift.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -156,7 +156,7 @@
         "column_haG6Nb": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Kikkerland.jpg",
+            "image": "shopify://shop_images/bear-and-gifts-under-christmas-tree.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -166,7 +166,7 @@
         "column_PFXNne": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi_0b488b14-02a4-4329-9977-2f11a8fb7315.jpg",
+            "image": "shopify://shop_images/treats-for-santa.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -186,7 +186,7 @@
         "column_QMRb4R": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi_0b488b14-02a4-4329-9977-2f11a8fb7315.jpg",
+            "image": "shopify://shop_images/child-baking-at-christmas.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -206,7 +206,7 @@
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 6,
         "column_alignment": "left",
         "background_style": "none",
