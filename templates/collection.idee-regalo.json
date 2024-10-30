@@ -136,8 +136,8 @@
         "column_KqQBPm": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/festive-scene-with-christmas-tree.jpg",
-            "title": "",
+            "image": "shopify://shop_images/close-up-of-lucky-cat-cookies.jpg",
+            "title": "CAT LOVER",
             "text": "",
             "link_label": "",
             "link": ""
@@ -147,7 +147,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/santa-fixes-the-bow-on-a-gift.jpg",
-            "title": "",
+            "title": "SECRET SANTA",
             "text": "",
             "link_label": "",
             "link": ""
@@ -157,7 +157,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/bear-and-gifts-under-christmas-tree.jpg",
-            "title": "",
+            "title": "BAR TENDER",
             "text": "",
             "link_label": "",
             "link": ""
@@ -167,7 +167,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/treats-for-santa.jpg",
-            "title": "",
+            "title": "i love PISOLINO",
             "text": "",
             "link_label": "",
             "link": ""
@@ -177,8 +177,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Bitossi_0b488b14-02a4-4329-9977-2f11a8fb7315.jpg",
-            "title": "",
-            "text": "",
+            "title": "Per gli CHEF",
+            "text": "<p>Anche se ci credono solo loro</p>",
             "link_label": "",
             "link": ""
           }
@@ -187,8 +187,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/child-baking-at-christmas.jpg",
-            "title": "",
-            "text": "",
+            "title": "BAMBINI CURIOSI",
+            "text": "<p>per i woooww</p>",
             "link_label": "",
             "link": ""
           }
@@ -203,8 +203,8 @@
         "column_QMRb4R"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
+        "title": "ACQUISTA PER IDEA REGALO",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
         "columns_desktop": 6,
