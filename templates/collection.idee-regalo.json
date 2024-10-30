@@ -138,7 +138,7 @@
           "settings": {
             "image": "shopify://shop_images/close-up-of-lucky-cat-cookies.jpg",
             "title": "CAT LOVER",
-            "text": "",
+            "text": "<p>Per chi vive tra fusa e graffi... con amore!</p>",
             "link_label": "",
             "link": ""
           }
@@ -148,7 +148,7 @@
           "settings": {
             "image": "shopify://shop_images/santa-fixes-the-bow-on-a-gift.jpg",
             "title": "SECRET SANTA",
-            "text": "",
+            "text": "<p>Sorprendi il tuo collega, anche quello che non conosci!</p>",
             "link_label": "",
             "link": ""
           }
@@ -158,7 +158,7 @@
           "settings": {
             "image": "shopify://shop_images/bear-and-gifts-under-christmas-tree.jpg",
             "title": "BAR TENDER",
-            "text": "",
+            "text": "<p>Shaker o chiacchiere?</p>",
             "link_label": "",
             "link": ""
           }
@@ -168,7 +168,7 @@
           "settings": {
             "image": "shopify://shop_images/treats-for-santa.jpg",
             "title": "i love PISOLINO",
-            "text": "",
+            "text": "<p>Per chi vive in modalità riposo</p>",
             "link_label": "",
             "link": ""
           }
@@ -188,7 +188,7 @@
           "settings": {
             "image": "shopify://shop_images/child-baking-at-christmas.jpg",
             "title": "BAMBINI CURIOSI",
-            "text": "<p>per i woooww</p>",
+            "text": "<p>Per chi smonta tutto… e crea nuovi mondi!</p>",
             "link_label": "",
             "link": ""
           }
