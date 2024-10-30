@@ -179,7 +179,7 @@
     "separator_dCNaGD": {
       "type": "separator",
       "custom_css": [
-        "hr,.div-separator {margin: 0px 0; background-color: black;}"
+        "hr,.div-separator {margin: 0px 0; background-color: black; height: 0px;}"
       ],
       "settings": {
         "top_spacing": 0,
