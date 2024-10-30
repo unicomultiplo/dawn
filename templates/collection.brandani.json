@@ -144,8 +144,8 @@
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 24,
+        "padding_bottom": 24
       }
     },
     "multicolumn_9jBEBY": {
@@ -155,10 +155,10 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Brandani-servizio-piatti-natale-Regalomagia-1-1-1024x1024_1.webp",
-            "title": "LA TAVOLA DI NATALE BRANDANI",
-            "text": "<h4></h4><h4></h4><h4></h4>",
+            "title": "<a href=\"https://blog.unicoemultiplo.com/apparecchiare-con-stile/emozioni-dautunno-e-magia-del-natale-con-brandani/\" title=\"https://blog.unicoemultiplo.com/apparecchiare-con-stile/emozioni-dautunno-e-magia-del-natale-con-brandani/\">La tavola Brandani per il tuo Natale</a>",
+            "text": "",
             "link_label": "",
-            "link": ""
+            "link": "https://blog.unicoemultiplo.com/apparecchiare-con-stile/emozioni-dautunno-e-magia-del-natale-con-brandani/"
           }
         },
         "column_HpzByY": {
@@ -208,8 +208,8 @@
         "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "product-grid": {
