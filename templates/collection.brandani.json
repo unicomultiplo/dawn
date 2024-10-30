@@ -87,49 +87,49 @@
     "collection_list_EXXnHK": {
       "type": "collection-list",
       "blocks": {
+        "featured_collection_EM9jfT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-piatti"
+          }
+        },
         "featured_collection_tG4tRx": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_YTEfRz": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
+            "collection": "brandani-posate"
           }
         },
         "featured_collection_eDyrfm": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_EM9jfT": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
+            "collection": "brandani-bicchieri-e-calici"
           }
         },
         "featured_collection_wWzgbG": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "brandani-antipastiere"
+          }
+        },
+        "featured_collection_YTEfRz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-tempo-di-festa"
           }
         },
         "featured_collection_i7rxAy": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "idee-regalo-natale"
           }
         }
       },
       "block_order": [
-        "featured_collection_tG4tRx",
-        "featured_collection_YTEfRz",
-        "featured_collection_eDyrfm",
         "featured_collection_EM9jfT",
+        "featured_collection_tG4tRx",
+        "featured_collection_eDyrfm",
         "featured_collection_wWzgbG",
+        "featured_collection_YTEfRz",
         "featured_collection_i7rxAy"
       ],
       "settings": {
