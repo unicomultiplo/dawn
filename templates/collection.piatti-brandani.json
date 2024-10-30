@@ -163,14 +163,14 @@
         "title": "Natale 2024",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "square",
+        "image_ratio": "portrait",
         "columns_desktop": 6,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-4",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 16,
         "padding_bottom": 16
@@ -200,13 +200,13 @@
         "featured_collection_YTEfRz": {
           "type": "featured_collection",
           "settings": {
-            "collection": "brandani-tempo-di-festa"
+            "collection": "brandani-tazze-tazzine-mug"
           }
         },
         "featured_collection_hM4hLA": {
           "type": "featured_collection",
           "settings": {
-            "collection": "brandani-tempo-di-festa"
+            "collection": "brandani-vassoi"
           }
         },
         "featured_collection_i7rxAy": {
@@ -230,11 +230,11 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "image_ratio": "square",
+        "image_ratio": "portrait",
         "columns_desktop": 6,
         "color_scheme": "scheme-4",
         "show_view_all": false,
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 20,
         "padding_bottom": 20
