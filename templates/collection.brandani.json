@@ -114,7 +114,7 @@
         "featured_collection_YTEfRz": {
           "type": "featured_collection",
           "settings": {
-            "collection": "brandani-tempo-di-festa"
+            "collection": "brandani-total-white-brandani"
           }
         },
         "featured_collection_i7rxAy": {
@@ -148,106 +148,15 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_kPzdYJ": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_bNR7JM": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1024x1024.jpg",
-            "title": "",
-            "text": "<h3>Elfomagia →</h3>",
-            "link_label": "",
-            "link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana"
-          }
-        },
-        "column_8cCxbV": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Le-bacche-Brandani.png",
-            "title": "",
-            "text": "<h3>Le Bacche →</h3>",
-            "link_label": "",
-            "link": "shopify://collections/brandani-le-bacche"
-          }
-        },
-        "column_UqXd6V": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Brandani-Batuffoli.png",
-            "title": "",
-            "text": "<h3>Batuffoli →</h3>",
-            "link_label": "",
-            "link": "shopify://products/5163-brandani-batuffoli-set-tavolo-18-pezzi-in-porcellana"
-          }
-        },
-        "column_MRHHbD": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1024x1024.jpg",
-            "title": "",
-            "text": "<h2>Elfomagia</h2>",
-            "link_label": "",
-            "link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana"
-          }
-        },
-        "column_y3WWYG": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1024x1024.jpg",
-            "title": "",
-            "text": "<h2>Elfomagia</h2>",
-            "link_label": "",
-            "link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana"
-          }
-        },
-        "column_nzHDjB": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1024x1024.jpg",
-            "title": "",
-            "text": "<h2>Elfomagia</h2>",
-            "link_label": "",
-            "link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana"
-          }
-        }
-      },
-      "block_order": [
-        "column_bNR7JM",
-        "column_8cCxbV",
-        "column_UqXd6V",
-        "column_MRHHbD",
-        "column_y3WWYG",
-        "column_nzHDjB"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "title": "Natale 2024",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-4",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 16,
-        "padding_bottom": 16
-      }
-    },
     "multicolumn_9jBEBY": {
       "type": "multicolumn",
       "blocks": {
         "column_MUXkjP": {
           "type": "column",
           "settings": {
-            "title": "",
-            "text": "<h4><a href=\"/collections/brandani-piatti\" title=\"Piatti Brandani\">Piatti</a></h4><h4><a href=\"/collections/brandani-antipastiere\" title=\"Antipasriere Brandani\">Antipastiere</a></h4><h4><a href=\"/collections/brandani-bicchieri-e-calici\" title=\"Bicchieri e Calici Brandani\">Bicchieri e Calici</a></h4><h4><a href=\"/collections/brandani-bilance-cucina\" title=\"Bilance Cucina Brandani\">Bilance da Cucina</a></h4><h4><a href=\"/collections/brandani-coltelli\" title=\"Coltelli Brandani\">Coltelli</a></h4><h4></h4><h4></h4>",
+            "image": "shopify://shop_images/Brandani-servizio-piatti-natale-Regalomagia-1-1-1024x1024_1.webp",
+            "title": "LA TAVOLA DI NATALE BRANDANI",
+            "text": "<h4></h4><h4></h4><h4></h4>",
             "link_label": "",
             "link": ""
           }
@@ -256,7 +165,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h4><a href=\"/collections/brandani-tazze-tazzine-mug\" title=\"Tazze, Tazzine e Mug Brandani\">Tazze, Tazzine e Mug</a></h4><h4><a href=\"/collections/brandani-terracotta-brandani\" title=\"Terracotta Brandani\">Terracotta</a></h4><h4><a href=\"/collections/brandani-vassoi\" title=\"Vassoi Brandani\">Vassoi</a></h4><h4><a href=\"/collections/brandani-posate\" title=\"Posate Brandani\">Posate</a></h4><h4><a href=\"/collections/brandani-total-white-brandani\" title=\"Total White Brandani\">Total White</a></h4>",
+            "text": "<h4></h4><h4><a href=\"/collections/brandani-tazze-tazzine-mug\" title=\"Tazze, Tazzine e Mug Brandani\">Tazze, Tazzine e Mug</a></h4><h4><a href=\"/collections/brandani-terracotta-brandani\" title=\"Terracotta Brandani\">Terracotta</a></h4><h4><a href=\"/collections/brandani-vassoi\" title=\"Vassoi Brandani\">Vassoi</a></h4><h4><a href=\"/collections/brandani-posate\" title=\"Posate Brandani\">Posate</a></h4><h4><a href=\"/collections/brandani-total-white-brandani\" title=\"Total White Brandani\">Total White</a></h4>",
             "link_label": "",
             "link": ""
           }
@@ -265,7 +174,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h4></h4><h4><a href=\"/collections/brandani-sinfonia\" title=\"Sinfonia Brandani\">Sinfonia</a></h4><h4><a href=\"/collections/brandani-medicea\" title=\"Medicea Brandani\">Medicea</a></h4><h4><a href=\"/collections/brandani-pomo-brandani\" title=\"Pòmo Brandani\">Pomo</a></h4><h4><a href=\"/collections/brandani-shanti-brandani\" title=\"Shanti Brandani\">Shanti</a></h4><h4><a href=\"/collections/brandani-limoni-brandani\" title=\"Limoni Brandani\">Limoni</a></h4><h4></h4>",
+            "text": "<h4></h4><h4><a href=\"/collections/brandani-piatti\" title=\"Piatti Brandani\">Piatti</a></h4><h4><a href=\"/collections/brandani-antipastiere\" title=\"Antipasriere Brandani\">Antipastiere</a></h4><h4><a href=\"/collections/brandani-bicchieri-e-calici\" title=\"Bicchieri e Calici Brandani\">Bicchieri e Calici</a></h4><h4><a href=\"/collections/brandani-sinfonia\" title=\"Sinfonia Brandani\">Sinfonia</a></h4><h4><a href=\"/collections/brandani-shanti-brandani\" title=\"Shanti Brandani\">Shanti</a></h4><h4></h4><h4></h4>",
             "link_label": "",
             "link": ""
           }
@@ -274,7 +183,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h4></h4><h4><a href=\"/collections/brandani-fiori-di-campo-brandani\" title=\"Fiori Di Campo Brandani\">Fiori di Campo</a></h4><h4><a href=\"/collections/brandani-flora-brandani\" title=\"Flora Brandani\">Flora</a></h4><h4><a href=\"/collections/brandani-le-cementine-brandani\" title=\"Le Cementine Brandani\">Le Cementine</a></h4><h4></h4><h4></h4><h4><a href=\"/collections/brandani-lampade-e-lanterne\" title=\"Lampade e Lanterne Brandani\">Lampade e Lanterne</a></h4><h4><a href=\"/collections/brandani-orologi\" title=\"Orologi Brandani\">Orologi</a></h4>",
+            "text": "<h4></h4><h4><a href=\"/collections/brandani-lampade-e-lanterne\" title=\"Lampade e Lanterne Brandani\">Lampade e Lanterne</a></h4><h4><a href=\"/collections/brandani-orologi\" title=\"Orologi Brandani\">Orologi</a></h4><h4></h4><h4><a href=\"/collections/brandani-bilance-cucina\" title=\"Bilance Cucina Brandani\">Bilance da Cucina</a></h4><h4><a href=\"/collections/brandani-coltelli\" title=\"Coltelli Brandani\">Coltelli</a></h4><h4></h4>",
             "link_label": "",
             "link": ""
           }
@@ -286,7 +195,6 @@
         "column_PafKjq",
         "column_atiHEw"
       ],
-      "disabled": true,
       "settings": {
         "title": "Scopri tutte le Collezioni Brandani",
         "heading_size": "h2",
@@ -369,7 +277,6 @@
     "banner",
     "multicolumn_MxLddP",
     "collection_list_EXXnHK",
-    "multicolumn_kPzdYJ",
     "multicolumn_9jBEBY",
     "product-grid",
     "image_banner_iAVhVN"
