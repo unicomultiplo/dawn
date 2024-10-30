@@ -203,6 +203,12 @@
             "collection": "brandani-tempo-di-festa"
           }
         },
+        "featured_collection_hM4hLA": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-tempo-di-festa"
+          }
+        },
         "featured_collection_i7rxAy": {
           "type": "featured_collection",
           "settings": {
@@ -215,6 +221,7 @@
         "featured_collection_eDyrfm",
         "featured_collection_wWzgbG",
         "featured_collection_YTEfRz",
+        "featured_collection_hM4hLA",
         "featured_collection_i7rxAy"
       ],
       "custom_css": [
