@@ -176,6 +176,17 @@
         "padding_bottom": 16
       }
     },
+    "separator_dCNaGD": {
+      "type": "separator",
+      "custom_css": [
+        "hr,.div-separator {margin: 0px 0; background-color: black;}"
+      ],
+      "settings": {
+        "top_spacing": 0,
+        "bottom_spacing": 0,
+        "line_thickness": 1
+      }
+    },
     "collection_list_EXXnHK": {
       "type": "collection-list",
       "blocks": {
@@ -369,6 +380,7 @@
     "banner",
     "multicolumn_MxLddP",
     "multicolumn_kPzdYJ",
+    "separator_dCNaGD",
     "collection_list_EXXnHK",
     "multicolumn_9jBEBY",
     "product-grid",
