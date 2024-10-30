@@ -84,7 +84,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h2>BUDGET </h2><h4>REGALI SOTTO I 50€</h4><h4>REGALI SOTTO I 100€</h4><h4>REGALI SOTTO I 150€</h4><h4>SOTTO I 20€</h4>",
+            "text": "<h2><strong>BUDGET </strong></h2><h4>Fino a 20€</h4><h4>Idee sotto ai 50€</h4><h4>Idee sotto i 100€</h4><h4>Idee sotto i 150€</h4>",
             "link_label": "",
             "link": ""
           }
@@ -93,7 +93,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h2>BRAND</h2><h4>BITOSSI HOME</h4><h4>BRANDANI</h4><h4>KNINDUSTRIE</h4><h4>SELETTI</h4><h4></h4>",
+            "text": "<h2><strong>BRAND</strong></h2><h4>Bitossi Home</h4><h4>Brandani</h4><h4>KnIndustrie</h4><h4>Seletti</h4><h4></h4>",
             "link_label": "",
             "link": ""
           }
@@ -102,7 +102,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h2>IDEE REGALO<br/></h2><h4>BAMBINI CURIOSI<br/><br/>AMANTI CANI/GATTO<br/></h4><h4>SECRET SANTA</h4><h4>ORIGINALI<br/></h4><h3></h3>",
+            "text": "<h2><strong>SECRET SANTA</strong></h2><h4><br/>Fino a  10€</h4><h4>Fino a 20€</h4><h4>Fino a 30€</h4><h4></h4><h3></h3>",
             "link_label": "",
             "link": ""
           }
