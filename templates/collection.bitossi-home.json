@@ -142,7 +142,7 @@
         "columns_desktop": 6,
         "color_scheme": "scheme-4",
         "show_view_all": false,
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 12,
         "padding_bottom": 12
