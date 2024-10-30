@@ -84,70 +84,6 @@
         "padding_bottom": 20
       }
     },
-    "collection_list_EXXnHK": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_EM9jfT": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-piatti"
-          }
-        },
-        "featured_collection_tG4tRx": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-posate"
-          }
-        },
-        "featured_collection_eDyrfm": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-bicchieri-e-calici"
-          }
-        },
-        "featured_collection_wWzgbG": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-antipastiere"
-          }
-        },
-        "featured_collection_YTEfRz": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-tempo-di-festa"
-          }
-        },
-        "featured_collection_i7rxAy": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-natale"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_EM9jfT",
-        "featured_collection_tG4tRx",
-        "featured_collection_eDyrfm",
-        "featured_collection_wWzgbG",
-        "featured_collection_YTEfRz",
-        "featured_collection_i7rxAy"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "title": "Natale 2024",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "color_scheme": "scheme-4",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "multicolumn_kPzdYJ": {
       "type": "multicolumn",
       "blocks": {
@@ -234,10 +170,67 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-4",
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 16,
         "padding_bottom": 16
+      }
+    },
+    "collection_list_EXXnHK": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_tG4tRx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-posate"
+          }
+        },
+        "featured_collection_eDyrfm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-bicchieri-e-calici"
+          }
+        },
+        "featured_collection_wWzgbG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-antipastiere"
+          }
+        },
+        "featured_collection_YTEfRz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-tempo-di-festa"
+          }
+        },
+        "featured_collection_i7rxAy": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-natale"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_tG4tRx",
+        "featured_collection_eDyrfm",
+        "featured_collection_wWzgbG",
+        "featured_collection_YTEfRz",
+        "featured_collection_i7rxAy"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "scheme-4",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "multicolumn_9jBEBY": {
@@ -368,8 +361,8 @@
   "order": [
     "banner",
     "multicolumn_MxLddP",
-    "collection_list_EXXnHK",
     "multicolumn_kPzdYJ",
+    "collection_list_EXXnHK",
     "multicolumn_9jBEBY",
     "product-grid",
     "image_banner_iAVhVN"

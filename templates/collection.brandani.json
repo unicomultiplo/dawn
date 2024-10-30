@@ -132,6 +132,9 @@
         "featured_collection_YTEfRz",
         "featured_collection_i7rxAy"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "title": "Natale 2024",
         "heading_size": "h1",
@@ -139,6 +142,98 @@
         "columns_desktop": 6,
         "color_scheme": "scheme-4",
         "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_kPzdYJ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_bNR7JM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1024x1024.jpg",
+            "title": "",
+            "text": "<h3>Elfomagia →</h3>",
+            "link_label": "",
+            "link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana"
+          }
+        },
+        "column_8cCxbV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Le-bacche-Brandani.png",
+            "title": "",
+            "text": "<h3>Le Bacche →</h3>",
+            "link_label": "",
+            "link": "shopify://collections/brandani-le-bacche"
+          }
+        },
+        "column_UqXd6V": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-Batuffoli.png",
+            "title": "",
+            "text": "<h3>Batuffoli →</h3>",
+            "link_label": "",
+            "link": "shopify://products/5163-brandani-batuffoli-set-tavolo-18-pezzi-in-porcellana"
+          }
+        },
+        "column_MRHHbD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1024x1024.jpg",
+            "title": "",
+            "text": "<h2>Elfomagia</h2>",
+            "link_label": "",
+            "link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana"
+          }
+        },
+        "column_y3WWYG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1024x1024.jpg",
+            "title": "",
+            "text": "<h2>Elfomagia</h2>",
+            "link_label": "",
+            "link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana"
+          }
+        },
+        "column_nzHDjB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1024x1024.jpg",
+            "title": "",
+            "text": "<h2>Elfomagia</h2>",
+            "link_label": "",
+            "link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana"
+          }
+        }
+      },
+      "block_order": [
+        "column_bNR7JM",
+        "column_8cCxbV",
+        "column_UqXd6V",
+        "column_MRHHbD",
+        "column_y3WWYG",
+        "column_nzHDjB"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "title": "Natale 2024",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-4",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 16,
@@ -191,6 +286,7 @@
         "column_PafKjq",
         "column_atiHEw"
       ],
+      "disabled": true,
       "settings": {
         "title": "Scopri tutte le Collezioni Brandani",
         "heading_size": "h2",
@@ -204,8 +300,8 @@
         "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 20,
-        "padding_bottom": 20
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "product-grid": {
@@ -273,6 +369,7 @@
     "banner",
     "multicolumn_MxLddP",
     "collection_list_EXXnHK",
+    "multicolumn_kPzdYJ",
     "multicolumn_9jBEBY",
     "product-grid",
     "image_banner_iAVhVN"
