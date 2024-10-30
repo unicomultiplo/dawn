@@ -66,7 +66,6 @@
         "column_gPeEtt",
         "column_rpy7eJ"
       ],
-      "disabled": true,
       "settings": {
         "title": "Scopri tutte le Collezioni Brandani",
         "heading_size": "h2",
@@ -156,6 +155,7 @@
         "column_y3WWYG",
         "column_nzHDjB"
       ],
+      "disabled": true,
       "custom_css": [
         ".multicolumn-card__image-wrapper {margin-left: 0px; margin-right: 0px;}"
       ],
@@ -235,6 +235,7 @@
         "featured_collection_YTEfRz",
         "featured_collection_i7rxAy"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
