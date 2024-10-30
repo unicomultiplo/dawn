@@ -156,7 +156,7 @@
         "column_haG6Nb": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/bear-and-gifts-under-christmas-tree.jpg",
+            "image": "shopify://shop_images/egg-white-cocktail.jpg",
             "title": "BAR TENDER",
             "text": "<p>Shaker o chiacchiere?</p>",
             "link_label": "",
@@ -166,7 +166,7 @@
         "column_PFXNne": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/treats-for-santa.jpg",
+            "image": "shopify://shop_images/woman-in-beauty-rest-mask-in-pillow.jpg",
             "title": "i love PISOLINO",
             "text": "<p>Per chi vive in modalità riposo</p>",
             "link_label": "",
@@ -176,9 +176,9 @@
         "column_XTTeGg": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi_0b488b14-02a4-4329-9977-2f11a8fb7315.jpg",
+            "image": "shopify://shop_images/person-holds-a-glass-bottle-and-carrots-by-their-tops.jpg",
             "title": "Per gli CHEF",
-            "text": "<p>Anche se ci credono solo loro</p>",
+            "text": "<p>Anche se bruciano tutto, meritano il meglio in cucina</p>",
             "link_label": "",
             "link": ""
           }
@@ -186,7 +186,7 @@
         "column_QMRb4R": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/child-baking-at-christmas.jpg",
+            "image": "shopify://shop_images/boy-on-climbing-web.jpg",
             "title": "BAMBINI CURIOSI",
             "text": "<p>Per chi smonta tutto… e crea nuovi mondi!</p>",
             "link_label": "",
