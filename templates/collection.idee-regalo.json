@@ -11,7 +11,6 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
-      "disabled": true,
       "custom_css": [
         "a {color: #598db2;}"
       ],
@@ -78,14 +77,66 @@
         "padding_bottom": 20
       }
     },
+    "collapsible_content_pkhEjg": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_YYXGEf": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Budget",
+            "icon": "apple",
+            "row_content": "<p><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=0&filter.v.price.lte=19&page=2&sort_by=price-ascending\" title=\"Piccoli doni\">Piccolo doni →</a></p><p><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=18&filter.v.price.lte=52&page=1&sort_by=price-ascending\" title=\"Idee sotto i 50€\">Idee sotto ai 50€ →</a></p><p>Idee sotto i 100€ →</p><p>Idee sotto i 150€ →</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_4PHbF3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_TJn6HU": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_YYXGEf",
+        "collapsible_row_4PHbF3",
+        "collapsible_row_TJn6HU"
+      ],
+      "disabled": true,
+      "settings": {
+        "caption": "",
+        "heading": "Acquista per",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "layout": "section",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn_38PWQd": {
       "type": "multicolumn",
       "blocks": {
         "column_UprEta": {
           "type": "column",
           "settings": {
-            "title": "<strong>BUDGET </strong>",
-            "text": "<h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=0&filter.v.price.lte=19&page=2&sort_by=price-ascending\" title=\"Piccoli doni\">Piccolo doni →</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=18&filter.v.price.lte=52&page=1&sort_by=price-ascending\" title=\"Idee sotto i 50€\">Idee sotto ai 50€ →</a></h4><h4>Idee sotto i 100€ →</h4><h4></h4><h4></h4>",
+            "title": "",
+            "text": "<h2><strong>BUDGET </strong></h2><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=0&filter.v.price.lte=19&page=2&sort_by=price-ascending\" title=\"Piccoli doni\">Piccolo doni →</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=18&filter.v.price.lte=52&page=1&sort_by=price-ascending\" title=\"Idee sotto i 50€\">Idee sotto ai 50€ →</a></h4><h4>Idee sotto i 100€ →</h4><h4>Idee sotto i 150€ →</h4><h4></h4>",
             "link_label": "",
             "link": ""
           }
@@ -93,8 +144,8 @@
         "column_yfQL9J": {
           "type": "column",
           "settings": {
-            "title": "<strong>BRAND</strong>",
-            "text": "<h4>Bitossi Home</h4><h4>Brandani</h4><h4>Seletti</h4><h4></h4>",
+            "title": "",
+            "text": "<h2><strong>BRAND</strong></h2><h4>Bitossi Home</h4><h4>Brandani</h4><h4>KnIndustrie</h4><h4>Seletti</h4><h4>Kikkerland</h4>",
             "link_label": "",
             "link": ""
           }
@@ -102,8 +153,8 @@
         "column_yqLKq7": {
           "type": "column",
           "settings": {
-            "title": "<strong>SECRET SANTA</strong>",
-            "text": "<h4>Fino a  10€</h4><h4>Fino a 20€</h4><h4>Fino a 30€</h4><h4></h4><h3></h3>",
+            "title": "",
+            "text": "<h2><strong>SECRET SANTA</strong></h2><h4><br/>Fino a  10€</h4><h4>Fino a 20€</h4><h4>Fino a 30€</h4><h4></h4><h3></h3>",
             "link_label": "",
             "link": ""
           }
@@ -121,7 +172,7 @@
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "left",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-2",
@@ -139,7 +190,7 @@
           "settings": {
             "image": "shopify://shop_images/close-up-of-lucky-cat-cookies.jpg",
             "title": "CAT LOVER",
-            "text": "<h6>Per chi vive tra fusa e graffi... con amore!</h6>",
+            "text": "<p>Per chi vive tra fusa e graffi... con amore!</p>",
             "link_label": "",
             "link": ""
           }
@@ -149,7 +200,7 @@
           "settings": {
             "image": "shopify://shop_images/santa-fixes-the-bow-on-a-gift.jpg",
             "title": "SECRET SANTA",
-            "text": "<h6>Sorprendi il tuo collega, anche quello che non conosci!</h6>",
+            "text": "<p>Sorprendi il tuo collega, anche quello che non conosci!</p>",
             "link_label": "",
             "link": ""
           }
@@ -159,7 +210,7 @@
           "settings": {
             "image": "shopify://shop_images/person-holds-a-glass-bottle-and-carrots-by-their-tops.jpg",
             "title": "Per gli CHEF",
-            "text": "<h6>Anche se bruciano tutto, meritano il meglio in cucina</h6>",
+            "text": "<p>Anche se bruciano tutto, meritano il meglio in cucina</p>",
             "link_label": "",
             "link": ""
           }
@@ -169,7 +220,7 @@
           "settings": {
             "image": "shopify://shop_images/boy-on-climbing-web.jpg",
             "title": "BAMBINI CURIOSI",
-            "text": "<h6>Per chi smonta tutto… e crea nuovi mondi!</h6>",
+            "text": "<p>Per chi smonta tutto… e crea nuovi mondi!</p>",
             "link_label": "",
             "link": ""
           }
@@ -179,7 +230,7 @@
           "settings": {
             "image": "shopify://shop_images/egg-white-cocktail.jpg",
             "title": "BAR TENDER",
-            "text": "<h6>Shaker o chiacchiere?</h6>",
+            "text": "<p>Shaker o chiacchiere?</p>",
             "link_label": "",
             "link": ""
           }
@@ -189,7 +240,7 @@
           "settings": {
             "image": "shopify://shop_images/woman-in-beauty-rest-mask-in-pillow.jpg",
             "title": "i love PISOLINO",
-            "text": "<h6>Per chi vive in modalità riposo</h6>",
+            "text": "<p>Per chi vive in modalità riposo</p>",
             "link_label": "",
             "link": ""
           }
@@ -216,8 +267,8 @@
         "color_scheme": "scheme-4",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 8,
-        "padding_bottom": 8
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "product-grid": {
@@ -284,9 +335,10 @@
   "order": [
     "banner",
     "multicolumn_MxLddP",
-    "multicolumn_38PWQd",
+    "collapsible_content_pkhEjg",
     "multicolumn_87rNGP",
     "product-grid",
+    "multicolumn_38PWQd",
     "image_banner_EpByd8"
   ]
 }
