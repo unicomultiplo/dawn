@@ -144,8 +144,8 @@
         "column_yfQL9J": {
           "type": "column",
           "settings": {
-            "title": "",
-            "text": "<h2><strong>BRAND</strong></h2><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Bitossi+Home&sort_by=manual\" title=\"Idee Bitossi Home\">Bitossi Home</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Brandani&sort_by=manual\" title=\"Idee  Brandani\">Brandani</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Seletti&sort_by=manual\" title=\"Idee Seletti\">Seletti</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Kikkerland&sort_by=manual\" title=\"Idee Kikkerland\">Kikkerland</a></h4>",
+            "title": "<strong>BRAND</strong>",
+            "text": "<h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Bitossi+Home&sort_by=manual\" title=\"Idee Bitossi Home\">Bitossi Home</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Brandani&sort_by=manual\" title=\"Idee  Brandani\">Brandani</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Seletti&sort_by=manual\" title=\"Idee Seletti\">Seletti</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Kikkerland&sort_by=manual\" title=\"Idee Kikkerland\">Kikkerland</a></h4>",
             "link_label": "",
             "link": ""
           }
@@ -153,8 +153,8 @@
         "column_yqLKq7": {
           "type": "column",
           "settings": {
-            "title": "",
-            "text": "<h2><strong>SECRET SANTA</strong></h2><h4><br/><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=&filter.v.price.lte=12&sort_by=manual\" title=\"Idee fino a 10€\">Fino a  10€</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=8&filter.v.price.lte=22&sort_by=manual\" title=\"Idee fino a 20€\">Fino a 20€</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=18&filter.v.price.lte=32&sort_by=manual\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=18&filter.v.price.lte=32&sort_by=manual\">Fino a 30€</a></h4><h4></h4><h3></h3>",
+            "title": "<strong>SECRET SANTA</strong>",
+            "text": "<h2></h2><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=&filter.v.price.lte=12&sort_by=manual\" title=\"Idee fino a 10€\">Fino a  10€</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=8&filter.v.price.lte=22&sort_by=manual\" title=\"Idee fino a 20€\">Fino a 20€</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=18&filter.v.price.lte=32&sort_by=manual\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=18&filter.v.price.lte=32&sort_by=manual\">Fino a 30€</a></h4><h4></h4><h3></h3>",
             "link_label": "",
             "link": ""
           }
