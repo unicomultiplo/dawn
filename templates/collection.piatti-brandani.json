@@ -129,11 +129,11 @@
         "column_y3WWYG": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1024x1024.jpg",
+            "image": "shopify://shop_images/Chicchibalocchi.png",
             "title": "",
-            "text": "<h2>Elfomagia</h2>",
+            "text": "<h3>Chicchi & Balocchi →</h3>",
             "link_label": "",
-            "link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana"
+            "link": "shopify://collections/brandani-chicchi-balocchi"
           }
         },
         "column_nzHDjB": {
@@ -155,7 +155,6 @@
         "column_y3WWYG",
         "column_nzHDjB"
       ],
-      "disabled": true,
       "custom_css": [
         ".multicolumn-card__image-wrapper {margin-left: 0px; margin-right: 0px;}"
       ],
@@ -235,7 +234,6 @@
         "featured_collection_YTEfRz",
         "featured_collection_i7rxAy"
       ],
-      "disabled": true,
       "custom_css": [
 
       ],
@@ -298,7 +296,6 @@
         "column_PafKjq",
         "column_atiHEw"
       ],
-      "disabled": true,
       "settings": {
         "title": "Scopri tutte le Collezioni Brandani",
         "heading_size": "h2",
