@@ -136,6 +136,21 @@
         "padding_bottom": 16
       }
     },
+    "dual_images_mz8FBh": {
+      "type": "dual-images",
+      "settings": {
+        "section_height": 600,
+        "image_padding": 10,
+        "left_image": "shopify://shop_images/KNindutrie-prposta_-tavola-natale_9_a9e4c0fa-6c28-4cd5-b8d4-5718211e9dc2.webp",
+        "left_link": "",
+        "left_text": "",
+        "right_top_link": "",
+        "right_top_text": "",
+        "right_bottom_link": "",
+        "right_bottom_text": "",
+        "margin_top": 36
+      }
+    },
     "dual_images_w6PcF6": {
       "type": "dual-images",
       "settings": {
@@ -288,6 +303,7 @@
     "main",
     "image_banner_KGriWC",
     "rich_text_eUGJPw",
+    "dual_images_mz8FBh",
     "dual_images_w6PcF6",
     "slideshow_9rUzXC",
     "rich_text_wq4j94",
