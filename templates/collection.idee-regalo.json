@@ -77,6 +77,58 @@
         "padding_bottom": 20
       }
     },
+    "collapsible_content_pkhEjg": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_YYXGEf": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Budget",
+            "icon": "apple",
+            "row_content": "<p><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=0&filter.v.price.lte=19&page=2&sort_by=price-ascending\" title=\"Piccoli doni\">Piccolo doni →</a></p><p><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=18&filter.v.price.lte=52&page=1&sort_by=price-ascending\" title=\"Idee sotto i 50€\">Idee sotto ai 50€ →</a></p><p>Idee sotto i 100€ →</p><p>Idee sotto i 150€ →</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_4PHbF3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_TJn6HU": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_YYXGEf",
+        "collapsible_row_4PHbF3",
+        "collapsible_row_TJn6HU"
+      ],
+      "disabled": true,
+      "settings": {
+        "caption": "",
+        "heading": "Acquista per",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "layout": "section",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn_38PWQd": {
       "type": "multicolumn",
       "blocks": {
@@ -113,8 +165,9 @@
         "column_yfQL9J",
         "column_yqLKq7"
       ],
+      "disabled": true,
       "settings": {
-        "title": "<strong>Aquista per</strong>",
+        "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -215,8 +268,8 @@
         "color_scheme": "scheme-4",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "product-grid": {
@@ -283,6 +336,7 @@
   "order": [
     "banner",
     "multicolumn_MxLddP",
+    "collapsible_content_pkhEjg",
     "multicolumn_38PWQd",
     "multicolumn_87rNGP",
     "product-grid",
