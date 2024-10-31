@@ -135,8 +135,8 @@
         "column_UprEta": {
           "type": "column",
           "settings": {
-            "title": "",
-            "text": "<h2><strong>BUDGET </strong></h2><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=0&filter.v.price.lte=19&page=2&sort_by=price-ascending\" title=\"Piccoli doni\">Piccolo doni →</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=18&filter.v.price.lte=52&page=1&sort_by=price-ascending\" title=\"Idee sotto i 50€\">Idee sotto ai 50€ →</a></h4><h4>Idee sotto i 100€ →</h4><h4>Idee sotto i 150€ →</h4><h4></h4>",
+            "title": "<strong>BUDGET </strong>",
+            "text": "<h2></h2><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=0&filter.v.price.lte=19&page=2&sort_by=price-ascending\" title=\"Piccoli doni\">Piccolo doni →</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=18&filter.v.price.lte=52&page=1&sort_by=price-ascending\" title=\"Idee sotto i 50€\">Idee sotto ai 50€ →</a></h4><h4>Idee sotto i 100€ →</h4><h4>Idee sotto i 150€ →</h4><h4></h4>",
             "link_label": "",
             "link": ""
           }
@@ -172,14 +172,34 @@
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "left",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 20,
-        "padding_bottom": 20
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 36,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "standard",
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn_87rNGP": {
@@ -255,7 +275,7 @@
         "column_PFXNne"
       ],
       "settings": {
-        "title": "",
+        "title": "Guida ai regali",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
@@ -269,26 +289,6 @@
         "swipe_on_mobile": true,
         "padding_top": 16,
         "padding_bottom": 16
-      }
-    },
-    "product-grid": {
-      "type": "main-collection-product-grid",
-      "settings": {
-        "products_per_page": 36,
-        "columns_desktop": 4,
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": true,
-        "quick_add": "standard",
-        "enable_filtering": true,
-        "filter_type": "drawer",
-        "enable_sorting": true,
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "image_banner_EpByd8": {
@@ -337,8 +337,8 @@
     "multicolumn_MxLddP",
     "collapsible_content_pkhEjg",
     "multicolumn_38PWQd",
-    "multicolumn_87rNGP",
     "product-grid",
+    "multicolumn_87rNGP",
     "image_banner_EpByd8"
   ]
 }
