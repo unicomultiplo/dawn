@@ -66,6 +66,7 @@
         "column_gPeEtt",
         "column_rpy7eJ"
       ],
+      "disabled": true,
       "settings": {
         "title": "Scopri tutte le Collezioni Brandani",
         "heading_size": "h2",
@@ -253,20 +254,20 @@
     "multicolumn_9jBEBY": {
       "type": "multicolumn",
       "blocks": {
-        "column_MUXkjP": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h4><a href=\"/collections/brandani-piatti\" title=\"Piatti Brandani\">Piatti</a></h4><h4><a href=\"/collections/brandani-antipastiere\" title=\"Antipasriere Brandani\">Antipastiere</a></h4><h4><a href=\"/collections/brandani-bicchieri-e-calici\" title=\"Bicchieri e Calici Brandani\">Bicchieri e Calici</a></h4><h4><a href=\"/collections/brandani-bilance-cucina\" title=\"Bilance Cucina Brandani\">Bilance da Cucina</a></h4><h4><a href=\"/collections/brandani-coltelli\" title=\"Coltelli Brandani\">Coltelli</a></h4><h4></h4><h4></h4>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_HpzByY": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h4><a href=\"/collections/brandani-tazze-tazzine-mug\" title=\"Tazze, Tazzine e Mug Brandani\">Tazze, Tazzine e Mug</a></h4><h4><a href=\"/collections/brandani-terracotta-brandani\" title=\"Terracotta Brandani\">Terracotta</a></h4><h4><a href=\"/collections/brandani-vassoi\" title=\"Vassoi Brandani\">Vassoi</a></h4><h4><a href=\"/collections/brandani-posate\" title=\"Posate Brandani\">Posate</a></h4><h4><a href=\"/collections/brandani-total-white-brandani\" title=\"Total White Brandani\">Total White</a></h4>",
+            "text": "<h4><a href=\"/collections/brandani-total-white-brandani\" title=\"Total White Brandani\">Total White</a></h4><h4><a href=\"/collections/brandani-sinfonia\" title=\"Sinfonia Brandani\">Sinfonia</a></h4><h4><a href=\"/collections/brandani-shanti-brandani\" title=\"Shanti Brandani\">Shanti</a></h4><h4><a href=\"/collections/brandani-le-cementine-brandani\" title=\"Le Cementine Brandani\">Le Cementine</a></h4><h4></h4>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_MUXkjP": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4></h4><h4><a href=\"/collections/brandani-antipastiere\" title=\"Antipasriere Brandani\">Antipastiere</a></h4><h4><a href=\"/collections/brandani-bicchieri-e-calici\" title=\"Bicchieri e Calici Brandani\">Bicchieri e Calici</a></h4><h4><a href=\"/collections/brandani-tazze-tazzine-mug\" title=\"Tazze, Tazzine e Mug Brandani\">Tazze, Tazzine e Mug</a></h4><h4><a href=\"/collections/brandani-posate\" title=\"Posate Brandani\">Posate</a></h4><h4></h4>",
             "link_label": "",
             "link": ""
           }
@@ -275,7 +276,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h4></h4><h4><a href=\"/collections/brandani-sinfonia\" title=\"Sinfonia Brandani\">Sinfonia</a></h4><h4><a href=\"/collections/brandani-medicea\" title=\"Medicea Brandani\">Medicea</a></h4><h4><a href=\"/collections/brandani-pomo-brandani\" title=\"Pòmo Brandani\">Pomo</a></h4><h4><a href=\"/collections/brandani-shanti-brandani\" title=\"Shanti Brandani\">Shanti</a></h4><h4><a href=\"/collections/brandani-limoni-brandani\" title=\"Limoni Brandani\">Limoni</a></h4><h4></h4>",
+            "text": "<h4><a href=\"/collections/brandani-coltelli\" title=\"Coltelli Brandani\">Coltelli</a></h4><h4><a href=\"/collections/brandani-terracotta-brandani\" title=\"Terracotta Brandani\">Terracotta</a></h4><h4><a href=\"/collections/brandani-vassoi\" title=\"Vassoi Brandani\">Vassoi</a></h4><h4><a href=\"/collections/brandani-lampade-e-lanterne\" title=\"Lampade e Lanterne Brandani\">Lampade e Lanterne</a></h4><h4></h4><h4></h4>",
             "link_label": "",
             "link": ""
           }
@@ -284,15 +285,15 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h4></h4><h4><a href=\"/collections/brandani-fiori-di-campo-brandani\" title=\"Fiori Di Campo Brandani\">Fiori di Campo</a></h4><h4><a href=\"/collections/brandani-flora-brandani\" title=\"Flora Brandani\">Flora</a></h4><h4><a href=\"/collections/brandani-le-cementine-brandani\" title=\"Le Cementine Brandani\">Le Cementine</a></h4><h4></h4><h4></h4><h4><a href=\"/collections/brandani-lampade-e-lanterne\" title=\"Lampade e Lanterne Brandani\">Lampade e Lanterne</a></h4><h4><a href=\"/collections/brandani-orologi\" title=\"Orologi Brandani\">Orologi</a></h4>",
+            "text": "<h4></h4><h4><a href=\"/collections/brandani-fiori-di-campo-brandani\" title=\"Fiori Di Campo Brandani\">Fiori di Campo</a></h4><h4><a href=\"/collections/brandani-flora-brandani\" title=\"Flora Brandani\">Flora</a></h4><h4><a href=\"/collections/brandani-medicea\" title=\"Medicea Brandani\">Medicea</a></h4><h4><a href=\"/collections/brandani-orologi\" title=\"Orologi Brandani\">Orologi</a></h4>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "column_MUXkjP",
         "column_HpzByY",
+        "column_MUXkjP",
         "column_PafKjq",
         "column_atiHEw"
       ],
