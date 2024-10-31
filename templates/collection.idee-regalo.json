@@ -166,7 +166,7 @@
         "column_yqLKq7"
       ],
       "settings": {
-        "title": "",
+        "title": "<strong>Acquista per</strong>",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -336,9 +336,9 @@
     "banner",
     "multicolumn_MxLddP",
     "collapsible_content_pkhEjg",
+    "multicolumn_38PWQd",
     "multicolumn_87rNGP",
     "product-grid",
-    "multicolumn_38PWQd",
     "image_banner_EpByd8"
   ]
 }
