@@ -11,6 +11,7 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "custom_css": [
         "a {color: #598db2;}"
       ],
@@ -165,7 +166,6 @@
         "column_yfQL9J",
         "column_yqLKq7"
       ],
-      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h2",
