@@ -114,7 +114,7 @@
         "column_yqLKq7"
       ],
       "settings": {
-        "title": "Aquista per",
+        "title": "<strong>Aquista per</strong>",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -153,26 +153,6 @@
             "link": ""
           }
         },
-        "column_haG6Nb": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/egg-white-cocktail.jpg",
-            "title": "BAR TENDER",
-            "text": "<p>Shaker o chiacchiere?</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_PFXNne": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/woman-in-beauty-rest-mask-in-pillow.jpg",
-            "title": "i love PISOLINO",
-            "text": "<p>Per chi vive in modalità riposo</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_XTTeGg": {
           "type": "column",
           "settings": {
@@ -192,15 +172,35 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_haG6Nb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/egg-white-cocktail.jpg",
+            "title": "BAR TENDER",
+            "text": "<p>Shaker o chiacchiere?</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PFXNne": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/woman-in-beauty-rest-mask-in-pillow.jpg",
+            "title": "i love PISOLINO",
+            "text": "<p>Per chi vive in modalità riposo</p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_KqQBPm",
         "column_rTjgmV",
-        "column_haG6Nb",
-        "column_PFXNne",
         "column_XTTeGg",
-        "column_QMRb4R"
+        "column_QMRb4R",
+        "column_haG6Nb",
+        "column_PFXNne"
       ],
       "settings": {
         "title": "",
@@ -278,42 +278,6 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
-    },
-    "image_banner_wXmLWn": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_8gNNfn": {
-          "type": "heading",
-          "settings": {
-            "heading": "Immagine banner",
-            "heading_size": "h1"
-          }
-        },
-        "text_FadyPh": {
-          "type": "text",
-          "settings": {
-            "text": "Fornisci ai clienti dettagli sulle immagini del banner o sul contenuto del modello.",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_8gNNfn",
-        "text_FadyPh"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/christmas-countdown-sign-at-night.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
@@ -322,7 +286,6 @@
     "multicolumn_38PWQd",
     "multicolumn_87rNGP",
     "product-grid",
-    "image_banner_EpByd8",
-    "image_banner_wXmLWn"
+    "image_banner_EpByd8"
   ]
 }
