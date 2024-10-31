@@ -84,7 +84,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h2><strong>BUDGET </strong></h2><h4>Fino a 20€</h4><h4>Idee sotto ai 50€</h4><h4>Idee sotto i 100€</h4><h4>Idee sotto i 150€</h4>",
+            "text": "<h2><strong>BUDGET </strong></h2><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=0&filter.v.price.lte=19&page=2&sort_by=price-ascending\" title=\"Piccoli doni\">Piccolo doni →</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=18&filter.v.price.lte=52&page=1&sort_by=price-ascending\" title=\"Idee sotto i 50€\">Idee sotto ai 50€ →</a></h4><h4>Idee sotto i 100€ →</h4><h4>Idee sotto i 150€ →</h4><h4></h4>",
             "link_label": "",
             "link": ""
           }
@@ -93,7 +93,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h2><strong>BRAND</strong></h2><h4>Bitossi Home</h4><h4>Brandani</h4><h4>KnIndustrie</h4><h4>Seletti</h4><h4></h4>",
+            "text": "<h2><strong>BRAND</strong></h2><h4>Bitossi Home</h4><h4>Brandani</h4><h4>KnIndustrie</h4><h4>Seletti</h4><h4>Kikkerland</h4>",
             "link_label": "",
             "link": ""
           }
