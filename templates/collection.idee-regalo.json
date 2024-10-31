@@ -274,6 +274,9 @@
         "column_haG6Nb",
         "column_PFXNne"
       ],
+      "custom_css": [
+        "a {color: white; text-decoration: none;"
+      ],
       "settings": {
         "title": "Guida ai regali",
         "heading_size": "h2",
