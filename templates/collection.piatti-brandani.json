@@ -139,11 +139,11 @@
         "column_nzHDjB": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1024x1024.jpg",
+            "image": "shopify://shop_images/Brandani-servizio-piatti-natale-Regalomagia-1-1-1024x1024_1.webp",
             "title": "",
-            "text": "<h2>Elfomagia</h2>",
+            "text": "<h3>Regalomagia →</h3>",
             "link_label": "",
-            "link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana"
+            "link": "shopify://products/brandani-tavola-18-pz-regalomagia-porcellana"
           }
         }
       },
