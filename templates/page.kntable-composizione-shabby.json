@@ -59,47 +59,6 @@
     },
     "slideshow_iXigW9": {
       "type": "slideshow",
-      "blocks": {
-        "slide_8PLx6j": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/La_Tavola_di_Natale_1500_x_600_px_1.webp",
-            "heading": "COMPOSIZIONE FOOD MOOD",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_GyHTRz": {
-          "type": "slide",
-          "settings": {
-            "heading": "Slide immagine",
-            "heading_size": "h1",
-            "subheading": "Racconta la storia del tuo brand con video e immagini",
-            "button_label": "Etichetta pulsante",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_8PLx6j",
-        "slide_GyHTRz"
-      ],
       "settings": {
         "layout": "full_bleed",
         "slide_height": "medium",
