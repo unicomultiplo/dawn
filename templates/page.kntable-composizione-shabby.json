@@ -161,6 +161,9 @@
     },
     "dual_images_mz8FBh": {
       "type": "dual-images",
+      "custom_css": [
+        ".image-text {color: #333;}"
+      ],
       "settings": {
         "section_height": 600,
         "image_padding": 10,
