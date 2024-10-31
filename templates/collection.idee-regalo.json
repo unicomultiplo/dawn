@@ -154,7 +154,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h2><strong>SECRET SANTA</strong></h2><h4><br/>Fino a  10€</h4><h4>Fino a 20€</h4><h4>Fino a 30€</h4><h4></h4><h3></h3>",
+            "text": "<h2><strong>SECRET SANTA</strong></h2><h4><br/><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=&filter.v.price.lte=12&sort_by=manual\" title=\"Idee fino a 10€\">Fino a  10€</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=8&filter.v.price.lte=22&sort_by=manual\" title=\"Idee fino a 20€\">Fino a 20€</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=18&filter.v.price.lte=32&sort_by=manual\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=18&filter.v.price.lte=32&sort_by=manual\">Fino a 30€</a></h4><h4></h4><h3></h3>",
             "link_label": "",
             "link": ""
           }
