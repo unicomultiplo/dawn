@@ -144,11 +144,13 @@
         "left_image": "shopify://shop_images/KNindutrie-prposta_-tavola-natale_9_a9e4c0fa-6c28-4cd5-b8d4-5718211e9dc2.webp",
         "left_link": "",
         "left_text": "",
+        "right_top_image": "shopify://shop_images/KNindutrie-prposta_-tavola-natale_3.webp",
         "right_top_link": "",
-        "right_top_text": "",
+        "right_top_text": "PIATTO PIANOShabbychic - Fagiano by Lisson{{ page.title }}i",
+        "right_bottom_image": "shopify://shop_images/KNindutrie-prposta_-tavola-natale_5_1.webp",
         "right_bottom_link": "",
-        "right_bottom_text": "",
-        "margin_top": 36
+        "right_bottom_text": "PIATTO FONDO Glass plate",
+        "margin_top": 28
       }
     },
     "dual_images_w6PcF6": {
