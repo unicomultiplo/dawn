@@ -135,7 +135,7 @@
         "heading_Updj6c": {
           "type": "heading",
           "settings": {
-            "heading": "La nuova  di tavola di KnIndustrie",
+            "heading": "La Tavola secondo KnIndustrie: un’idea innovativa che cambierà il tuo modo di apparecchiare.",
             "heading_size": "h1"
           }
         },
@@ -177,23 +177,6 @@
         "right_bottom_link": "",
         "right_bottom_text": "PIATTO FONDO Glass plate",
         "margin_top": 28
-      }
-    },
-    "dual_images_w6PcF6": {
-      "type": "dual-images",
-      "settings": {
-        "section_height": 620,
-        "image_padding": 10,
-        "left_image": "shopify://shop_images/KNindutrie-prposta_-tavola-natale_6.jpg",
-        "left_link": "",
-        "left_text": "",
-        "right_top_image": "shopify://shop_images/KNindutrie-prposta_-tavola-natale_4.webp",
-        "right_top_link": "",
-        "right_top_text": "",
-        "right_bottom_image": "shopify://shop_images/KNindutrie-prposta_-tavola-natale_5_1.webp",
-        "right_bottom_link": "",
-        "right_bottom_text": "",
-        "margin_top": 36
       }
     },
     "slideshow_9rUzXC": {
@@ -333,7 +316,6 @@
     "image_banner_KGriWC",
     "rich_text_eUGJPw",
     "dual_images_mz8FBh",
-    "dual_images_w6PcF6",
     "slideshow_9rUzXC",
     "rich_text_wq4j94",
     "rich_text_Uztja7",
