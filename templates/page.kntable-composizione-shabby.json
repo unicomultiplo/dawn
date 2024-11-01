@@ -238,6 +238,33 @@
         "padding_bottom": 52
       }
     },
+    "rich_text_7DJcTQ": {
+      "type": "rich-text",
+      "blocks": {
+        "button_xFPyYi": {
+          "type": "button",
+          "settings": {
+            "button_label": "ACQUISTA ORA LA COMPOSIZIONE!",
+            "button_link": "shopify://products/knindustrie-composizione-shabbychic-posto-tavola-set-4-pezzi",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_xFPyYi"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "rich_text_wq4j94": {
       "type": "rich-text",
       "blocks": {
@@ -291,12 +318,6 @@
     "rich_text_i7kUMj": {
       "type": "rich-text",
       "blocks": {
-        "text_RMRQj4": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Questa composizione incarna l'equilibrio ideale di imperfezione controllata, con il <strong>piatto antipasto blu</strong>, caratterizzato dalla sua finitura distintiva, che esalta la matericità del gres. I <strong>piatti decorati di Piero Lissoni</strong> combinano abilmente richiami al passato con uno stile moderno, ispirandosi alla poetica visione di \"Out of Tune\". Il <strong>piatto in vetro</strong>, dalle linee essenziali e realizzato in  borosilicato.</p>"
-          }
-        },
         "button_bHgQXK": {
           "type": "button",
           "settings": {
@@ -310,7 +331,6 @@
         }
       },
       "block_order": [
-        "text_RMRQj4",
         "button_bHgQXK"
       ],
       "settings": {
@@ -395,6 +415,7 @@
     "dual_images_BLkLjB",
     "slideshow_9rUzXC",
     "rich_text_ie34bn",
+    "rich_text_7DJcTQ",
     "rich_text_wq4j94",
     "rich_text_Uztja7",
     "rich_text_i7kUMj",
