@@ -162,7 +162,7 @@
     "dual_images_mz8FBh": {
       "type": "dual-images",
       "custom_css": [
-        ".image-text {color: #333;}"
+        ".image-text {color: #a6a6a6;}"
       ],
       "settings": {
         "section_height": 600,
@@ -182,7 +182,7 @@
     "dual_images_BLkLjB": {
       "type": "dual-images",
       "custom_css": [
-        ".image-text {color: #333;}"
+        ".image-text {color: #a6a6a6;}"
       ],
       "settings": {
         "section_height": 600,
@@ -192,10 +192,10 @@
         "left_text": "",
         "right_top_image": "shopify://shop_images/KnIndustrie-composizione-shabbychic_1.webp",
         "right_top_link": "",
-        "right_top_text": "Piatto Piano  - Shabbychic Fagiano",
+        "right_top_text": "PIiatto Antipasti - Solaria gres blu",
         "right_bottom_image": "shopify://shop_images/KnIndustrie-composizione-shabbychic_1_1.webp",
         "right_bottom_link": "",
-        "right_bottom_text": "Piatto Fondo -  Glass Plate",
+        "right_bottom_text": "Piatto Dessert Shabbychic - Pavone",
         "margin_top": 28
       }
     },
@@ -214,6 +214,28 @@
         "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": ""
+      }
+    },
+    "rich_text_ie34bn": {
+      "type": "rich-text",
+      "blocks": {
+        "text_3bBLdV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Questa composizione incarna l'equilibrio ideale di imperfezione controllata, con il <strong>piatto antipasto blu</strong>, caratterizzato dalla sua finitura distintiva, che esalta la matericità del gres. </p><p>I <strong>piatti decorati di Piero Lissoni</strong> combinano abilmente richiami al passato con uno stile moderno, ispirandosi alla poetica visione di \"Out of Tune\". Il <strong>piatto in vetro</strong>, dalle linee essenziali e realizzato in  borosilicato.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_3bBLdV"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "rich_text_wq4j94": {
@@ -372,6 +394,7 @@
     "dual_images_mz8FBh",
     "dual_images_BLkLjB",
     "slideshow_9rUzXC",
+    "rich_text_ie34bn",
     "rich_text_wq4j94",
     "rich_text_Uztja7",
     "rich_text_i7kUMj",
