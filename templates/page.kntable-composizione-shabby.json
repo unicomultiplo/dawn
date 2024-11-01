@@ -18,10 +18,18 @@
             "heading": "KN FOOD & MOOD",
             "heading_size": "h1"
           }
+        },
+        "heading_wHntWy": {
+          "type": "heading",
+          "settings": {
+            "heading": "Composizione Shabbychic",
+            "heading_size": "h1"
+          }
         }
       },
       "block_order": [
-        "heading_wdgbHK"
+        "heading_wdgbHK",
+        "heading_wHntWy"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -35,13 +43,6 @@
     "image_banner_LTTTYm": {
       "type": "image-banner",
       "blocks": {
-        "heading_QjLkrN": {
-          "type": "heading",
-          "settings": {
-            "heading": "COMPOSIZIONE SHABBYCHIC",
-            "heading_size": "h1"
-          }
-        },
         "text_G6b87Y": {
           "type": "text",
           "settings": {
@@ -62,7 +63,6 @@
         }
       },
       "block_order": [
-        "heading_QjLkrN",
         "text_G6b87Y",
         "buttons_heERg6"
       ],
