@@ -135,14 +135,14 @@
         "heading_Updj6c": {
           "type": "heading",
           "settings": {
-            "heading": "La Tavola secondo KnIndustrie: un’idea innovativa che cambierà il tuo modo di apparecchiare.",
+            "heading": "La Tavola secondo KnIndustrie",
             "heading_size": "h1"
           }
         },
         "text_Extp7J": {
           "type": "text",
           "settings": {
-            "text": "<p>Questa composizione incarna l'equilibrio ideale di imperfezione controllata, con il <strong>piatto antipasto blu</strong>, caratterizzato dalla sua finitura distintiva, che esalta la matericità del gres. I <strong>piatti decorati di Piero Lissoni</strong> combinano abilmente richiami al passato con uno stile moderno, ispirandosi alla poetica visione di \"Out of Tune\". Il <strong>piatto in vetro</strong>, dalle linee essenziali e realizzato in  borosilicato.</p>"
+            "text": "<p>Un’idea innovativa che cambierà il tuo modo di apparecchiare.</p><p></p>"
           }
         }
       },
@@ -173,9 +173,9 @@
         "right_top_image": "shopify://shop_images/KNindutrie-prposta_-tavola-natale_3.webp",
         "right_top_link": "",
         "right_top_text": "PIATTO PIANO Shabbychic - Fagiano",
-        "right_bottom_image": "shopify://shop_images/KNindutrie-prposta_-tavola-natale_5_1.webp",
+        "right_bottom_image": "shopify://shop_images/KnIndustrie-Composizi-ne-Shabbychic-posto-tavola-set-pezzi-1.webp",
         "right_bottom_link": "",
-        "right_bottom_text": "PIATTO FONDO Glass plate",
+        "right_bottom_text": "PIATTO FONDO Glass Plate",
         "margin_top": 28
       }
     },
@@ -243,6 +243,40 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_i7kUMj": {
+      "type": "rich-text",
+      "blocks": {
+        "text_RMRQj4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Questa composizione incarna l'equilibrio ideale di imperfezione controllata, con il <strong>piatto antipasto blu</strong>, caratterizzato dalla sua finitura distintiva, che esalta la matericità del gres. I <strong>piatti decorati di Piero Lissoni</strong> combinano abilmente richiami al passato con uno stile moderno, ispirandosi alla poetica visione di \"Out of Tune\". Il <strong>piatto in vetro</strong>, dalle linee essenziali e realizzato in  borosilicato.</p>"
+          }
+        },
+        "button_bHgQXK": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_RMRQj4",
+        "button_bHgQXK"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
         "padding_bottom": 52
       }
     },
@@ -319,6 +353,7 @@
     "slideshow_9rUzXC",
     "rich_text_wq4j94",
     "rich_text_Uztja7",
+    "rich_text_i7kUMj",
     "multirow_TKm8B9",
     "rich_text_VTqYDa"
   ]
