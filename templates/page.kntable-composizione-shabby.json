@@ -238,6 +238,28 @@
         "accessibility_info": ""
       }
     },
+    "rich_text_GUYcRV": {
+      "type": "rich-text",
+      "blocks": {
+        "text_ncyFVj": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Il piatto in vetro</strong> dalle linee pulite, realizzato in borosilicato, <strong>conferisce all'intera composizione una struttura armoniosa.</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_ncyFVj"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "rich_text_7DJcTQ": {
       "type": "rich-text",
       "blocks": {
@@ -372,6 +394,7 @@
     "rich_text_wCCEUx",
     "dual_images_BLkLjB",
     "slideshow_9rUzXC",
+    "rich_text_GUYcRV",
     "rich_text_7DJcTQ",
     "rich_text_wq4j94",
     "rich_text_Uztja7",
