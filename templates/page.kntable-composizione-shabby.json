@@ -339,22 +339,6 @@
     },
     "multirow_TKm8B9": {
       "type": "multirow",
-      "blocks": {
-        "row_7JQegY": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/Untitled_design_10.jpg",
-            "caption": "",
-            "heading": "Il piatto in vetro dalle linee pulite, realizzato in borosilicato, conferisce all'intera composizione una struttura armoniosa.",
-            "text": "",
-            "button_label": "",
-            "button_link": "shopify://collections/illuminazione-luci-addobbi-alberi-natale"
-          }
-        }
-      },
-      "block_order": [
-        "row_7JQegY"
-      ],
       "settings": {
         "image_height": "adapt",
         "desktop_image_width": "medium",
