@@ -239,6 +239,9 @@
     },
     "dual_images_8tipKY": {
       "type": "dual-images",
+      "custom_css": [
+        ".image-text {color: #a6a6a6;}"
+      ],
       "settings": {
         "section_height": 620,
         "image_padding": 10,
