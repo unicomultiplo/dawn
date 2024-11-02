@@ -9,6 +9,52 @@
  */
 {
   "sections": {
+    "rich_text_TGBkGy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YawNbp": {
+          "type": "heading",
+          "settings": {
+            "heading": "KN FOOD & MOOD",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YawNbp"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_a66xtk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ed83qK": {
+          "type": "heading",
+          "settings": {
+            "heading": "Composizione Circles",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ed83qK"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "slideshow_iXigW9": {
       "type": "slideshow",
       "blocks": {
@@ -16,7 +62,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/La_Tavola_di_Natale_1500_x_600_px_1.webp",
-            "heading": "COMPOSIZIONE FOOD MOOD",
+            "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
@@ -276,6 +322,8 @@
     }
   },
   "order": [
+    "rich_text_TGBkGy",
+    "rich_text_a66xtk",
     "slideshow_iXigW9",
     "main",
     "image_banner_KGriWC",
