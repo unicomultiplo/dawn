@@ -276,18 +276,6 @@
     },
     "rich_text_wq4j94": {
       "type": "rich-text",
-      "blocks": {
-        "heading_CKm8qn": {
-          "type": "heading",
-          "settings": {
-            "heading": "Scopri la tavola di Natale firmata KnIndustrie",
-            "heading_size": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "heading_CKm8qn"
-      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -303,7 +291,7 @@
         "button_yNgpjr": {
           "type": "button",
           "settings": {
-            "button_label": "RICERCATEZZA - EQUILIBIO -RAFFINATEZZA",
+            "button_label": "ACQUISTA ORA LA COMPOSIZIONE!",
             "button_link": "shopify://collections/knindustrie-catalogo-prodotti-piatti",
             "button_style_secondary": true,
             "button_label_2": "",
