@@ -51,7 +51,7 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 0,
         "padding_bottom": 52
       }
     },
@@ -61,7 +61,7 @@
         "slide_8PLx6j": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/La_Tavola_di_Natale_1500_x_600_px_1.webp",
+            "image": "shopify://shop_images/composizione-circles-scaled_2_1.webp",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -109,40 +109,60 @@
         "accessibility_info": "Presentazione sul nostro brand"
       }
     },
+    "image_banner_TPzihQ": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_enQdLp": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_FWi7KR": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_3fy6BR": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_enQdLp",
+        "text_FWi7KR",
+        "buttons_3fy6BR"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/KnIndustrie-composizione-circles.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
-      }
-    },
-    "image_banner_KGriWC": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_UM46BB": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h0"
-          }
-        }
-      },
-      "block_order": [
-        "heading_UM46BB"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Knindustrie_2.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     },
     "rich_text_eUGJPw": {
@@ -325,8 +345,8 @@
     "rich_text_TGBkGy",
     "rich_text_a66xtk",
     "slideshow_iXigW9",
+    "image_banner_TPzihQ",
     "main",
-    "image_banner_KGriWC",
     "rich_text_eUGJPw",
     "dual_images_w6PcF6",
     "slideshow_9rUzXC",
