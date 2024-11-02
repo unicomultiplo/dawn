@@ -178,7 +178,7 @@
         "text_Extp7J": {
           "type": "text",
           "settings": {
-            "text": "<p>Una composizione di knIndustrie, firmata da Davide Oldani, porta in tavola un’eleganza che fonde design e sperimentazione. </p><p>Con tre piatti asimmetrici, Oldani trasforma i materiali in una composizione espressiva e contemporanea, dando vita a una tavola dal fascino internazionale.</p><p>Il gioco di forme e finiture esalta il gres e la bone china, rendendo questa collezione perfetta per chi ama uno stile distintivo e ricercato.</p>"
+            "text": "<p>Una composizione di knIndustrie, firmata da Davide Oldani, porta in tavola un’eleganza che fonde design e sperimentazione. </p><p>Con tre piatti asimmetrici, Oldani trasforma i materiali in una composizione espressiva e contemporanea, dando vita a una tavola dal fascino internazionale.</p>"
           }
         }
       },
@@ -213,6 +213,28 @@
         "right_bottom_link": "",
         "right_bottom_text": "PIATTO PIANO Asimmetrico di Davide Oldani",
         "margin_top": 36
+      }
+    },
+    "rich_text_XykiMX": {
+      "type": "rich-text",
+      "blocks": {
+        "text_e9hc89": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Il gioco di forme e finiture esalta il gres e la bone china, rendendo questa collezione perfetta per chi ama uno stile distintivo e ricercato.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_e9hc89"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "dual_images_8tipKY": {
@@ -369,6 +391,7 @@
     "main",
     "rich_text_eUGJPw",
     "dual_images_w6PcF6",
+    "rich_text_XykiMX",
     "dual_images_8tipKY",
     "slideshow_9rUzXC",
     "rich_text_wq4j94",
