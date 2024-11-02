@@ -330,7 +330,7 @@
         "color_scheme": "",
         "image_ratio": "portrait",
         "image_shape": "default",
-        "show_secondary_image": false,
+        "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
         "quick_add": "none",
@@ -342,22 +342,6 @@
     },
     "multirow_TKm8B9": {
       "type": "multirow",
-      "blocks": {
-        "row_7JQegY": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/Untitled_design_10.jpg",
-            "caption": "",
-            "heading": "Il piatto in vetro dalle linee pulite, realizzato in borosilicato, conferisce all'intera composizione una struttura armoniosa.",
-            "text": "",
-            "button_label": "",
-            "button_link": "shopify://collections/illuminazione-luci-addobbi-alberi-natale"
-          }
-        }
-      },
-      "block_order": [
-        "row_7JQegY"
-      ],
       "settings": {
         "image_height": "adapt",
         "desktop_image_width": "medium",
@@ -376,22 +360,6 @@
     },
     "rich_text_VTqYDa": {
       "type": "rich-text",
-      "blocks": {
-        "button_Fj6Rtj": {
-          "type": "button",
-          "settings": {
-            "button_label": "ACQUISTA ORA LA COMPOSIZIONE!",
-            "button_link": "shopify://products/knindustrie-composizione-shabbychic-posto-tavola-set-4-pezzi",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": true
-          }
-        }
-      },
-      "block_order": [
-        "button_Fj6Rtj"
-      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
