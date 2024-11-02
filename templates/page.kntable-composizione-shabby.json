@@ -179,6 +179,28 @@
         "margin_top": 28
       }
     },
+    "rich_text_wCCEUx": {
+      "type": "rich-text",
+      "blocks": {
+        "text_9epJz7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Questa composizione incarna l'equilibrio ideale di imperfezione controllata, con il <strong>piatto antipasto blu</strong>, caratterizzato dalla sua finitura distintiva, che esalta la matericità del gres.</p><p>I <strong>piatti decorati di Piero Lissoni</strong> combinano abilmente richiami al passato con uno stile moderno, ispirandosi alla poetica visione di \"Out of Tune\". Il <strong>piatto in vetro</strong>, dalle linee essenziali e realizzato in borosilicato.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_9epJz7"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "dual_images_BLkLjB": {
       "type": "dual-images",
       "custom_css": [
@@ -214,28 +236,6 @@
         "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": ""
-      }
-    },
-    "rich_text_ie34bn": {
-      "type": "rich-text",
-      "blocks": {
-        "text_3bBLdV": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Questa composizione incarna l'equilibrio ideale di imperfezione controllata, con il <strong>piatto antipasto blu</strong>, caratterizzato dalla sua finitura distintiva, che esalta la matericità del gres. </p><p>I <strong>piatti decorati di Piero Lissoni</strong> combinano abilmente richiami al passato con uno stile moderno, ispirandosi alla poetica visione di \"Out of Tune\". Il <strong>piatto in vetro</strong>, dalle linee essenziali e realizzato in  borosilicato.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_3bBLdV"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "rich_text_7DJcTQ": {
@@ -315,33 +315,6 @@
         "padding_bottom": 52
       }
     },
-    "rich_text_i7kUMj": {
-      "type": "rich-text",
-      "blocks": {
-        "button_bHgQXK": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "button_bHgQXK"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "multirow_TKm8B9": {
       "type": "multirow",
       "blocks": {
@@ -412,13 +385,12 @@
     "image_banner_KGriWC",
     "rich_text_eUGJPw",
     "dual_images_mz8FBh",
+    "rich_text_wCCEUx",
     "dual_images_BLkLjB",
     "slideshow_9rUzXC",
-    "rich_text_ie34bn",
     "rich_text_7DJcTQ",
     "rich_text_wq4j94",
     "rich_text_Uztja7",
-    "rich_text_i7kUMj",
     "multirow_TKm8B9",
     "rich_text_VTqYDa"
   ]
