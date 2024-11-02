@@ -315,12 +315,12 @@
     "featured_collection_nAzdjj": {
       "type": "featured-collection",
       "settings": {
-        "title": "Collezione in evidenza",
+        "title": "KnIndustrie Piatti",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "",
+        "collection": "knindustrie-catalogo-prodotti-davide-oldani",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
