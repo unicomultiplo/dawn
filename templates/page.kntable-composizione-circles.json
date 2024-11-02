@@ -18,10 +18,18 @@
             "heading": "KN FOOD & MOOD",
             "heading_size": "h1"
           }
+        },
+        "heading_cqKxAb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Composizione Circles",
+            "heading_size": "h1"
+          }
         }
       },
       "block_order": [
-        "heading_YawNbp"
+        "heading_YawNbp",
+        "heading_cqKxAb"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -32,32 +40,43 @@
         "padding_bottom": 0
       }
     },
-    "rich_text_a66xtk": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_ed83qK": {
-          "type": "heading",
-          "settings": {
-            "heading": "Composizione Circles",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_ed83qK"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 52
-      }
-    },
     "slideshow_iXigW9": {
       "type": "slideshow",
       "blocks": {
+        "slide_9KkdtX": {
+          "type": "slide",
+          "settings": {
+            "heading": "Slide immagine",
+            "heading_size": "h1",
+            "subheading": "Racconta la storia del tuo brand con video e immagini",
+            "button_label": "Etichetta pulsante",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_dNHUTH": {
+          "type": "slide",
+          "settings": {
+            "heading": "Slide immagine",
+            "heading_size": "h1",
+            "subheading": "Racconta la storia del tuo brand con video e immagini",
+            "button_label": "Etichetta pulsante",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_8PLx6j": {
           "type": "slide",
           "settings": {
@@ -95,6 +114,8 @@
         }
       },
       "block_order": [
+        "slide_9KkdtX",
+        "slide_dNHUTH",
         "slide_8PLx6j",
         "slide_GyHTRz"
       ],
@@ -372,7 +393,6 @@
   },
   "order": [
     "rich_text_TGBkGy",
-    "rich_text_a66xtk",
     "slideshow_iXigW9",
     "image_banner_TPzihQ",
     "main",
