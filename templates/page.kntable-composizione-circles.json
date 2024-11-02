@@ -171,14 +171,14 @@
         "heading_Updj6c": {
           "type": "heading",
           "settings": {
-            "heading": "La nuova  di tavola di KnIndustrie",
+            "heading": "Una nuova  idea di tavola",
             "heading_size": "h1"
           }
         },
         "text_Extp7J": {
           "type": "text",
           "settings": {
-            "text": "<p>Questa composizione incarna l'equilibrio ideale di imperfezione controllata, con il <strong>piatto antipasto blu</strong>, caratterizzato dalla sua finitura distintiva, che esalta la matericità del gres. I <strong>piatti decorati di Piero Lissoni</strong> combinano abilmente richiami al passato con uno stile moderno, ispirandosi alla poetica visione di \"Out of Tune\". Il <strong>piatto in vetro</strong>, dalle linee essenziali e realizzato in  borosilicato.</p>"
+            "text": "<p>Una composizione di knIndustrie, firmata da Davide Oldani, porta in tavola un’eleganza che fonde design e sperimentazione. </p><p>Con tre piatti asimmetrici, Oldani trasforma i materiali in una composizione espressiva e contemporanea, dando vita a una tavola dal fascino internazionale.</p><p>Il gioco di forme e finiture esalta il gres e la bone china, rendendo questa collezione perfetta per chi ama uno stile distintivo e ricercato.</p>"
           }
         }
       },
@@ -197,15 +197,18 @@
     },
     "dual_images_w6PcF6": {
       "type": "dual-images",
+      "custom_css": [
+        ".image-text {color: #a6a6a6;}"
+      ],
       "settings": {
         "section_height": 620,
         "image_padding": 10,
-        "left_image": "shopify://shop_images/KNindutrie-prposta_-tavola-natale_6.jpg",
+        "left_image": "shopify://shop_images/composizione-circles-knindustrie.webp",
         "left_link": "",
         "left_text": "",
-        "right_top_image": "shopify://shop_images/KNindutrie-prposta_-tavola-natale_4.webp",
+        "right_top_image": "shopify://shop_images/knIndustrie-aida-gres-blu-2-scaled_1.jpg",
         "right_top_link": "",
-        "right_top_text": "",
+        "right_top_text": "PIATTO ANTIPASTI Aida Gres Blu",
         "right_bottom_image": "shopify://shop_images/KNindutrie-prposta_-tavola-natale_5_1.webp",
         "right_bottom_link": "",
         "right_bottom_text": "",
