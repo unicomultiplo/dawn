@@ -44,7 +44,6 @@
         "paragraph_tMmnDn",
         "email_form_JM9rKb"
       ],
-      "disabled": true,
       "custom_css": [
         ".newsletter__wrapper {border: 1px solid rgba(var(--color-foreground), 0.08); border-radius: 0.5em; margin-top: 80px;}"
       ],
@@ -57,6 +56,7 @@
     },
     "image_banner_3HVxVd": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/black-friday-unicoemultiplo.webp",
         "image_overlay_opacity": 0,
@@ -98,6 +98,7 @@
         "paragraph_aTDUGk",
         "email_form_8G4xGL"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -110,6 +111,7 @@
     },
     "image_banner_4LyLAT": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/black-friday-unicoemultiplo.webp",
         "image_overlay_opacity": 0,
