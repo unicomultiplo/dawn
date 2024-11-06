@@ -88,7 +88,7 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 40
       }
     },
     "rich_text_eUGJPw": {
@@ -506,8 +506,8 @@
         "products_to_show": 10,
         "columns_desktop": 6,
         "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
+        "show_view_all": true,
+        "view_all_style": "outline",
         "enable_desktop_slider": true,
         "color_scheme": "",
         "image_ratio": "square",
@@ -568,8 +568,8 @@
         "products_to_show": 10,
         "columns_desktop": 6,
         "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
+        "show_view_all": true,
+        "view_all_style": "outline",
         "enable_desktop_slider": true,
         "color_scheme": "",
         "image_ratio": "square",
