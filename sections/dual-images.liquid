@@ -133,6 +133,21 @@
     padding: 5px 10px;
     font-size: 2em;
   }
+
+  /* Mobile responsiveness */
+  @media (max-width: 768px) {
+    .full-size-image-section {
+      flex-direction: column;
+      height: auto;
+    }
+    .left-image,
+    .right-images,
+    .right-top-image,
+    .right-bottom-image {
+      width: 100%;
+      height: auto;
+    }
+  }
 </style>
 
 <div class="full-size-image-section page-width section-{{ section.id }}-space">
