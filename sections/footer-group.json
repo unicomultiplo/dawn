@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.footer.name",
   "type": "footer",
@@ -24,7 +24,7 @@
         "paragraph_FUptkU": {
           "type": "paragraph",
           "settings": {
-            "text": "<h2>Per iscritti UNICI...<\/h2><p><strong>... Vantaggi multipli!<\/strong> Entra nella COMMUNITY: <strong>subito il 10%<\/strong> di sconto sul primo acquisto.<\/p><p><\/p>"
+            "text": "<h2>Per iscritti UNICI...</h2><p><strong>... Vantaggi multipli!</strong> Entra nella COMMUNITY: <strong>subito il 10%</strong> di sconto sul primo acquisto.</p><p></p>"
           }
         },
         "email_form_pXCaXA": {
@@ -61,19 +61,19 @@
         "link_list_bqHJzH": {
           "type": "link_list",
           "settings": {
-            "heading": "<strong>Customer Service<\/strong>",
+            "heading": "<strong>Customer Service</strong>",
             "menu": "footer"
           }
         },
         "link_list_AArWxN": {
           "type": "link_list",
           "settings": {
-            "heading": "<strong>Design e Concept Store<\/strong>",
+            "heading": "<strong>Design e Concept Store</strong>",
             "menu": "design-e-concept-store"
           }
         },
         "feedaty_official_merchant_widget_NUgJYx": {
-          "type": "shopify:\/\/apps\/feedaty-official\/blocks\/merchant-widget\/1597c10b-7e15-4dee-9287-4aa2114f0e9c",
+          "type": "shopify://apps/feedaty-official/blocks/merchant-widget/1597c10b-7e15-4dee-9287-4aa2114f0e9c",
           "settings": {
             "merchant_code": "10215169",
             "data_variant": "200x150-3",
@@ -100,7 +100,7 @@
         "enable_language_selector": true,
         "payment_enable": true,
         "show_policy": true,
-        "margin_top": 80,
+        "margin_top": 0,
         "padding_top": 52,
         "padding_bottom": 52
       }
