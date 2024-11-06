@@ -9,49 +9,79 @@
  */
 {
   "sections": {
-    "slideshow_iXigW9": {
-      "type": "slideshow",
+    "rich_text_kjNRGT": {
+      "type": "rich-text",
       "blocks": {
-        "slide_8PLx6j": {
-          "type": "slide",
+        "heading_wdgbHK": {
+          "type": "heading",
           "settings": {
-            "image": "shopify://shop_images/La_Tavola_di_Natale_1500_x_600_px_1.webp",
-            "heading": "COMPOSIZIONE FOOD MOOD",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
+            "heading": "KN FOOD & MOOD",
+            "heading_size": "h1"
           }
         },
-        "slide_GyHTRz": {
-          "type": "slide",
+        "heading_wHntWy": {
+          "type": "heading",
           "settings": {
-            "heading": "Slide immagine",
-            "heading_size": "h1",
-            "subheading": "Racconta la storia del tuo brand con video e immagini",
-            "button_label": "Etichetta pulsante",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
+            "heading": "Composizione Shabbychic",
+            "heading_size": "h1"
           }
         }
       },
       "block_order": [
-        "slide_8PLx6j",
-        "slide_GyHTRz"
+        "heading_wdgbHK",
+        "heading_wHntWy"
       ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_LTTTYm": {
+      "type": "image-banner",
+      "blocks": {
+        "text_G6b87Y": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_heERg6": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_G6b87Y",
+        "buttons_heERg6"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Seletti-tavola_1500_x_600_px_1000_x_600_px_1.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "slideshow_iXigW9": {
+      "type": "slideshow",
       "settings": {
         "layout": "full_bleed",
         "slide_height": "medium",
@@ -105,14 +135,14 @@
         "heading_Updj6c": {
           "type": "heading",
           "settings": {
-            "heading": "La nuova  di tavola di KnIndustrie",
+            "heading": "La Tavola secondo KnIndustrie",
             "heading_size": "h1"
           }
         },
         "text_Extp7J": {
           "type": "text",
           "settings": {
-            "text": "<p>Questa composizione incarna l'equilibrio ideale di imperfezione controllata, con il <strong>piatto antipasto blu</strong>, caratterizzato dalla sua finitura distintiva, che esalta la matericità del gres. I <strong>piatti decorati di Piero Lissoni</strong> combinano abilmente richiami al passato con uno stile moderno, ispirandosi alla poetica visione di \"Out of Tune\". Il <strong>piatto in vetro</strong>, dalle linee essenziali e realizzato in  borosilicato.</p>"
+            "text": "<p>Un’idea innovativa che cambierà il tuo modo di apparecchiare.</p><p></p>"
           }
         }
       },
@@ -129,21 +159,66 @@
         "padding_bottom": 16
       }
     },
-    "dual_images_w6PcF6": {
+    "dual_images_mz8FBh": {
       "type": "dual-images",
+      "custom_css": [
+        ".image-text {color: #a6a6a6;}"
+      ],
       "settings": {
-        "section_height": 620,
+        "section_height": 600,
         "image_padding": 10,
-        "left_image": "shopify://shop_images/KNindutrie-prposta_-tavola-natale_6.jpg",
+        "left_image": "shopify://shop_images/KNindutrie-prposta_-tavola-natale_9_a9e4c0fa-6c28-4cd5-b8d4-5718211e9dc2.webp",
         "left_link": "",
         "left_text": "",
-        "right_top_image": "shopify://shop_images/KNindutrie-prposta_-tavola-natale_4.webp",
+        "right_top_image": "shopify://shop_images/KNindutrie-prposta_-tavola-natale_3.webp",
         "right_top_link": "",
-        "right_top_text": "",
-        "right_bottom_image": "shopify://shop_images/KNindutrie-prposta_-tavola-natale_5_1.webp",
+        "right_top_text": "Piatto Piano  - Shabbychic Fagiano",
+        "right_bottom_image": "shopify://shop_images/KnIndustrie-Composizi-ne-Shabbychic-posto-tavola-set-pezzi-1.webp",
         "right_bottom_link": "",
-        "right_bottom_text": "",
-        "margin_top": 36
+        "right_bottom_text": "Piatto Fondo -  Glass Plate",
+        "margin_top": 28
+      }
+    },
+    "rich_text_wCCEUx": {
+      "type": "rich-text",
+      "blocks": {
+        "text_9epJz7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Questa composizione<strong> </strong>rappresenta un equilibrio ideale di \"imperfezione controllata\":<strong> il piatto da antipasto blu</strong>, con la sua finitura distintiva, esalta la matericità del gres.</p><p>I<strong> piatti decorati da Piero Lissoni </strong>fondono abilmente richiami al passato e stile moderno, ispirandosi alla visione poetica di Out of Tune.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_9epJz7"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 24
+      }
+    },
+    "dual_images_BLkLjB": {
+      "type": "dual-images",
+      "custom_css": [
+        ".image-text {color: #a6a6a6;}"
+      ],
+      "settings": {
+        "section_height": 600,
+        "image_padding": 10,
+        "left_image": "shopify://shop_images/KnIndustrie-Composizi-ne-Shabbychic-posto-tavola-set-pezzi-4.webp",
+        "left_link": "",
+        "left_text": "",
+        "right_top_image": "shopify://shop_images/KnIndustrie-composizione-shabbychic_1.webp",
+        "right_top_link": "",
+        "right_top_text": "PIiatto Antipasti - Solaria gres blu",
+        "right_bottom_image": "shopify://shop_images/KnIndustrie-composizione-shabbychic_1_1.webp",
+        "right_bottom_link": "",
+        "right_bottom_text": "Piatto Dessert Shabbychic - Pavone",
+        "margin_top": 28
       }
     },
     "slideshow_9rUzXC": {
@@ -163,20 +238,112 @@
         "accessibility_info": ""
       }
     },
-    "rich_text_wq4j94": {
+    "rich_text_GUYcRV": {
       "type": "rich-text",
       "blocks": {
-        "heading_CKm8qn": {
-          "type": "heading",
+        "text_ncyFVj": {
+          "type": "text",
           "settings": {
-            "heading": "Scopri la tavola di Natale firmata KnIndustrie",
-            "heading_size": "h2"
+            "text": "<p><strong>Il piatto in vetro</strong> dalle linee pulite, realizzato in borosilicato, <strong>conferisce all'intera composizione una struttura armoniosa.</strong></p>"
           }
         }
       },
       "block_order": [
-        "heading_CKm8qn"
+        "text_ncyFVj"
       ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "rich_text_7DJcTQ": {
+      "type": "rich-text",
+      "blocks": {
+        "button_xFPyYi": {
+          "type": "button",
+          "settings": {
+            "button_label": "ACQUISTA ORA LA COMPOSIZIONE!",
+            "button_link": "shopify://products/knindustrie-composizione-shabbychic-posto-tavola-set-4-pezzi",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_xFPyYi"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 20
+      }
+    },
+    "slideshow_UBbAHF": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_MPNhUc": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/KnIndustrie-piatti_1_2.jpg",
+            "heading": "Scopri anche tutta la Tavola di Natale KnIndustrie",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "RICERCATEZZA - EQUILIBIO -RAFFINATEZZA",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-piatti",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_whTxCV": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/KnIndustrie-composizione-circles_2.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_MPNhUc",
+        "slide_whTxCV"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Presentazione sul nostro brand"
+      }
+    },
+    "rich_text_wq4j94": {
+      "type": "rich-text",
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -188,49 +355,17 @@
     },
     "rich_text_Uztja7": {
       "type": "rich-text",
-      "blocks": {
-        "button_yNgpjr": {
-          "type": "button",
-          "settings": {
-            "button_label": "RICERCATEZZA - EQUILIBIO -RAFFINATEZZA",
-            "button_link": "shopify://collections/knindustrie-catalogo-prodotti-piatti",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "button_yNgpjr"
-      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
         "padding_top": 0,
-        "padding_bottom": 52
+        "padding_bottom": 0
       }
     },
     "multirow_TKm8B9": {
       "type": "multirow",
-      "blocks": {
-        "row_7JQegY": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/Untitled_design_10.jpg",
-            "caption": "",
-            "heading": "Il piatto in vetro dalle linee pulite, realizzato in borosilicato, conferisce all'intera composizione una struttura armoniosa.",
-            "text": "",
-            "button_label": "",
-            "button_link": "shopify://collections/illuminazione-luci-addobbi-alberi-natale"
-          }
-        }
-      },
-      "block_order": [
-        "row_7JQegY"
-      ],
       "settings": {
         "image_height": "adapt",
         "desktop_image_width": "medium",
@@ -249,22 +384,6 @@
     },
     "rich_text_VTqYDa": {
       "type": "rich-text",
-      "blocks": {
-        "button_Fj6Rtj": {
-          "type": "button",
-          "settings": {
-            "button_label": "ACQUISTA ORA LA COMPOSIZIONE!",
-            "button_link": "shopify://products/knindustrie-composizione-shabbychic-posto-tavola-set-4-pezzi",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": true
-          }
-        }
-      },
-      "block_order": [
-        "button_Fj6Rtj"
-      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -276,12 +395,19 @@
     }
   },
   "order": [
+    "rich_text_kjNRGT",
+    "image_banner_LTTTYm",
     "slideshow_iXigW9",
     "main",
     "image_banner_KGriWC",
     "rich_text_eUGJPw",
-    "dual_images_w6PcF6",
+    "dual_images_mz8FBh",
+    "rich_text_wCCEUx",
+    "dual_images_BLkLjB",
     "slideshow_9rUzXC",
+    "rich_text_GUYcRV",
+    "rich_text_7DJcTQ",
+    "slideshow_UBbAHF",
     "rich_text_wq4j94",
     "rich_text_Uztja7",
     "multirow_TKm8B9",
