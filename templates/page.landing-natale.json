@@ -53,10 +53,34 @@
           "settings": {
             "text": "<h3><strong>Proposte, consigli e idee per il tuo Natale</strong>: dalle collezioni per la tavola alle decorazioni per la casa, dalle meravigliose idee regalo per i tuoi cari fino agli addobbi.</h3>"
           }
+        },
+        "button_JUU7iU": {
+          "type": "button",
+          "settings": {
+            "button_label": "IDEE REGALO",
+            "button_link": "https://www.unicoemultiplo.com/pages/natale#shopify-section-template--22570381443337__multirow_YiBENi",
+            "button_style_secondary": true,
+            "button_label_2": "ADDOBBI",
+            "button_link_2": "https://www.unicoemultiplo.com/pages/natale#shopify-section-template--22570381443337__multirow_TKm8B9",
+            "button_style_secondary_2": true
+          }
+        },
+        "button_wQQEwm": {
+          "type": "button",
+          "settings": {
+            "button_label": "TAVOLA DI NATALE",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
-        "text_grE4wW"
+        "text_grE4wW",
+        "button_JUU7iU",
+        "button_wQQEwm"
       ],
       "settings": {
         "desktop_content_position": "center",
