@@ -15,9 +15,9 @@
         "column_4PjnNt": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Scatole-armadio-Reisenthel-_1_-_1.webp",
-            "title": "<strong>REISENTHEL</strong>",
-            "text": "<p><strong>Scatole per Armadio</strong></p>",
+            "image": "shopify://shop_images/Seletti-unico-e-multiplo.webp",
+            "title": "<strong>SELETTI</strong>",
+            "text": "<p><strong>Peacock Led Lamp</strong></p>",
             "link_label": "",
             "link": "shopify://collections/complementi-arredo-scatole-armadio"
           }
@@ -446,9 +446,7 @@
         "column_BntmaF",
         "column_dNExGV"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -571,8 +569,7 @@
         },
         "email_form_EtXRTJ": {
           "type": "email_form",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
