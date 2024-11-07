@@ -42,17 +42,51 @@
         "column_VxFkJe": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti.webp",
+            "title": "Seletti →",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DTzdKa": {
+          "type": "column",
+          "settings": {
+            "title": "Bitossi Home →",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Reykrn": {
+          "type": "column",
+          "settings": {
             "title": "Seletti",
             "text": "",
             "link_label": "",
             "link": ""
           }
         },
-        "column_fUzhTK": {
+        "column_QdpNAm": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti.webp",
+            "title": "Seletti",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_H4Rxdm": {
+          "type": "column",
+          "settings": {
+            "title": "Seletti",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_dT39Rc": {
+          "type": "column",
+          "settings": {
             "title": "Seletti",
             "text": "",
             "link_label": "",
@@ -62,7 +96,11 @@
       },
       "block_order": [
         "column_VxFkJe",
-        "column_fUzhTK"
+        "column_DTzdKa",
+        "column_Reykrn",
+        "column_QdpNAm",
+        "column_H4Rxdm",
+        "column_dT39Rc"
       ],
       "settings": {
         "title": "Scegli il tuo Brand",
