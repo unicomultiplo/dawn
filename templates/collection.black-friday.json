@@ -45,7 +45,7 @@
             "title": "Seletti →",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Seletti&sort_by=title-ascending"
           }
         },
         "column_DTzdKa": {
@@ -54,43 +54,34 @@
             "title": "Bitossi Home →",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Bitossi+Home&sort_by=title-ascending"
           }
         },
         "column_Reykrn": {
           "type": "column",
           "settings": {
-            "title": "Seletti",
+            "title": "Brandani →",
             "text": "",
             "link_label": "",
-            "link": ""
-          }
-        },
-        "column_QdpNAm": {
-          "type": "column",
-          "settings": {
-            "title": "Seletti",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "link": "https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Brandani&sort_by=title-ascending"
           }
         },
         "column_H4Rxdm": {
           "type": "column",
           "settings": {
-            "title": "Seletti",
+            "title": "KnIndustrie →",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=KnIndustrie&sort_by=title-ascending"
           }
         },
-        "column_dT39Rc": {
+        "column_3TjcKy": {
           "type": "column",
           "settings": {
-            "title": "Seletti",
+            "title": "Brabantia →",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Brabantia&sort_by=title-ascending"
           }
         }
       },
@@ -98,21 +89,20 @@
         "column_VxFkJe",
         "column_DTzdKa",
         "column_Reykrn",
-        "column_QdpNAm",
         "column_H4Rxdm",
-        "column_dT39Rc"
+        "column_3TjcKy"
       ],
       "settings": {
-        "title": "Scegli il tuo Brand",
-        "heading_size": "h1",
+        "title": "",
+        "heading_size": "h2",
         "image_width": "half",
         "image_ratio": "adapt",
         "columns_desktop": 6,
         "column_alignment": "center",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-4",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
