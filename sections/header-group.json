@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.header.name",
   "type": "header",
@@ -25,21 +25,21 @@
           "type": "announcement",
           "settings": {
             "text": "NEWSLETTER U&M: sconto 10% per Te!",
-            "link": "shopify:\/\/pages\/iscrizione"
+            "link": "shopify://pages/iscrizione"
           }
         },
         "announcement_HJUy4B": {
           "type": "announcement",
           "settings": {
             "text": "Spedizione gratuita da €59",
-            "link": "shopify:\/\/policies\/shipping-policy"
+            "link": "shopify://policies/shipping-policy"
           }
         },
         "announcement_ktEgez": {
           "type": "announcement",
           "settings": {
             "text": "Leggi il blog U&M",
-            "link": "https:\/\/blog.unicoemultiplo.com\/"
+            "link": "https://blog.unicoemultiplo.com/"
           }
         }
       },
@@ -65,7 +65,8 @@
         ".mega-menu__list {display: flex; flex-wrap: wrap;}",
         ".mega-menu__list > li {width: 10em;}",
         ".list-menu__item {font-size: 1.3rem;}",
-        ".list-menu__item .icon-caret {top: calc(50% - 0.4rem);}"
+        ".list-menu__item .icon-caret {top: calc(50% - 0.4rem);}",
+        "#HeaderMenu-natale {background-color: #dd3e45; color: #fff; border-radius: 1rem;}"
       ],
       "settings": {
         "logo_position": "top-left",
