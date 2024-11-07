@@ -25,10 +25,10 @@
         "column_pkHkxr": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Brabantia-accessori-bagno-_1_-_1_-2.webp",
-            "title": "<strong>BRABANTIA</strong>",
-            "text": "<p><strong>Accessori Bagno</strong></p>",
-            "link_label": "",
+            "image": "shopify://shop_images/bitossi-unicoemultiplo.webp",
+            "title": "<strong>BITOSSI HOME</strong>",
+            "text": "<p><strong>Tavola Scomposta</strong></p>",
+            "link_label": "Tavola Scomposta Bitossi",
             "link": "shopify://collections/complementi-arredo-bagno"
           }
         }
