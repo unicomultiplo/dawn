@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -78,16 +78,6 @@
             "image": "shopify://shop_images/Fioriraungiaridino.webp",
             "title": "",
             "text": "<h4><a href=\"/collections/fiorira-un-giardino\" title=\"Fiorirà un Giardino\">Fiorirà un giardino</a></h4>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_kaEgcV": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Ghisanativa.webp",
-            "title": "",
-            "text": "<h4><a href=\"/collections/ghisanativa\" title=\"Ghisanativa\">Ghisanativa</a></h4>",
             "link_label": "",
             "link": ""
           }
@@ -301,7 +291,6 @@
         "column_mDAKCe",
         "column_bPjjtb",
         "column_fYAzhe",
-        "column_kaEgcV",
         "column_7kaFhY",
         "column_ABjgwE",
         "column_tLCiBW",
