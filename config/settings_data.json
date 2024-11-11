@@ -9,9 +9,9 @@
  */
 {
   "current": {
-    "logo": "shopify://shop_images/logo_2048_x_1152_1_6c488fbe-6cdb-4948-8e1e-d10805c6738b.png",
+    "logo": "shopify://shop_images/g12.png",
     "logo_width": 230,
-    "favicon": "shopify://shop_images/Ideogramma___Ufficiale.png",
+    "favicon": "shopify://shop_images/g12_1.png",
     "type_header_font": "roboto_n4",
     "heading_scale": 100,
     "type_body_font": "roboto_n4",
@@ -143,15 +143,12 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "16963237191767492405": {
         "type": "shopify://apps/whatsapp-button/blocks/app-embed-block/96d80a63-e860-4262-a001-8b82ac4d00e6",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       }
     },
     "color_schemes": {
