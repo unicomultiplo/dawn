@@ -87,8 +87,8 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 40
+        "padding_top": 60,
+        "padding_bottom": 60
       }
     },
     "rich_text_eUGJPw": {
@@ -111,14 +111,14 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 0,
-        "padding_bottom": 16
+        "padding_bottom": 36
       }
     },
     "dual_images_33cK8X": {
       "type": "dual-images",
       "custom_css": [
         ".image-text {background: #000;}",
-        ".full-size-image-section {margin-bottom: 48px;}",
+        ".full-size-image-section {margin-bottom: 60px;}",
         "a {font-size: 12px;}"
       ],
       "settings": {
@@ -220,7 +220,8 @@
       ],
       "custom_css": [
         ".slideshow__controls {border: none;}",
-        ".slideshow__autoplay {display: none;}"
+        ".slideshow__autoplay {display: none;}",
+        "slideshow-component {margin-bottom: 60px;}"
       ],
       "settings": {
         "layout": "grid",
@@ -330,7 +331,7 @@
         "column_ADcwhE"
       ],
       "custom_css": [
-        "a {color: white; text-decoration: none;"
+        "a {color: #fff; text-decoration: none;}"
       ],
       "settings": {
         "title": "Tutte le nostre proposte per apparecchiare la Tavola di Natale 2024",
@@ -368,7 +369,7 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 16,
+        "padding_top": 60,
         "padding_bottom": 4
       }
     },
@@ -518,7 +519,7 @@
         "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 16,
+        "padding_top": 60,
         "padding_bottom": 60
       }
     },
@@ -580,7 +581,7 @@
         "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 16,
+        "padding_top": 60,
         "padding_bottom": 60
       }
     }
