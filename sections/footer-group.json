@@ -29,8 +29,7 @@
         },
         "email_form_pXCaXA": {
           "type": "email_form",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -39,9 +38,7 @@
         "email_form_pXCaXA"
       ],
       "disabled": true,
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "color_scheme": "scheme-2",
         "full_width": true,
@@ -87,9 +84,7 @@
         "link_list_AArWxN",
         "feedaty_official_merchant_widget_NUgJYx"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "color_scheme": "scheme-2",
         "newsletter_enable": false,
@@ -100,7 +95,7 @@
         "enable_language_selector": true,
         "payment_enable": true,
         "show_policy": true,
-        "margin_top": 0,
+        "margin_top": 52,
         "padding_top": 52,
         "padding_bottom": 52
       }

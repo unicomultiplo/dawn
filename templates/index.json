@@ -62,17 +62,6 @@
         "padding_bottom": 20
       }
     },
-    "separator_afe6ke": {
-      "type": "separator",
-      "custom_css": [
-        "hr,.div-separator {margin: 30px 0;}"
-      ],
-      "settings": {
-        "top_spacing": 10,
-        "bottom_spacing": 10,
-        "line_thickness": 1
-      }
-    },
     "rich_text_cn9HQ7": {
       "type": "rich-text",
       "blocks": {
@@ -107,7 +96,7 @@
         "content_alignment": "center",
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
         "full_width": true,
-        "padding_top": 0,
+        "padding_top": 52,
         "padding_bottom": 20
       }
     },
@@ -141,9 +130,7 @@
     },
     "separator_yyJkQg": {
       "type": "separator",
-      "custom_css": [
-        "hr,.div-separator {margin: 30px 0;}"
-      ],
+      "custom_css": [],
       "settings": {
         "top_spacing": 5,
         "bottom_spacing": 5,
@@ -269,18 +256,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 52,
-        "padding_bottom": 0
-      }
-    },
-    "separator_3hxJJU": {
-      "type": "separator",
-      "custom_css": [
-        "hr,.div-separator {margin: 30px 0;}"
-      ],
-      "settings": {
-        "top_spacing": 15,
-        "bottom_spacing": 20,
-        "line_thickness": 1
+        "padding_bottom": 52
       }
     },
     "image_banner_CRRzaE": {
@@ -323,17 +299,6 @@
         "show_text_below": true
       }
     },
-    "separator_AGRRRG": {
-      "type": "separator",
-      "custom_css": [
-        "hr,.div-separator {margin: 30px 0;}"
-      ],
-      "settings": {
-        "top_spacing": 15,
-        "bottom_spacing": 20,
-        "line_thickness": 1
-      }
-    },
     "rich_text_3WWRXG": {
       "type": "rich-text",
       "blocks": {
@@ -360,7 +325,7 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 0,
+        "padding_top": 52,
         "padding_bottom": 0
       }
     },
@@ -578,27 +543,24 @@
         "email_form_EtXRTJ"
       ],
       "custom_css": [
-        ".newsletter__wrapper {border: 1px solid rgba(var(--color-foreground), 0.08); border-radius: 0.5em; margin-top: 80px;}"
+        ".newsletter__wrapper {border: 1px solid rgba(var(--color-foreground), 0.08); border-radius: 0.5em; margin-top: 52px;}"
       ],
       "settings": {
         "color_scheme": "",
         "full_width": false,
-        "padding_top": 40,
+        "padding_top": 52,
         "padding_bottom": 52
       }
     }
   },
   "order": [
     "multicolumn_rGUHzh",
-    "separator_afe6ke",
     "rich_text_cn9HQ7",
     "featured_collection_zEJpm8",
     "separator_yyJkQg",
     "rich_text_7MwH7c",
     "multicolumn_pyNBEg",
-    "separator_3hxJJU",
     "image_banner_CRRzaE",
-    "separator_AGRRRG",
     "rich_text_3WWRXG",
     "multicolumn_w64iw4",
     "rich_text_fjc6N9",
