@@ -9,6 +9,14 @@
  */
 {
   "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
     "rich_text_kjNRGT": {
       "type": "rich-text",
       "blocks": {
@@ -23,7 +31,7 @@
           "type": "heading",
           "settings": {
             "heading": "Composizione Shabbychic",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         }
       },
@@ -36,7 +44,7 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 52,
         "padding_bottom": 52
       }
     },
@@ -45,6 +53,7 @@
       "blocks": {
         "text_G6b87Y": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "",
             "text_style": "body"
@@ -77,28 +86,7 @@
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "slideshow_iXigW9": {
-      "type": "slideshow",
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": true,
-        "accessibility_info": "Presentazione sul nostro brand"
-      }
-    },
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-        "padding_top": 28,
-        "padding_bottom": 28
+        "show_text_below": false
       }
     },
     "image_banner_KGriWC": {
@@ -115,6 +103,9 @@
       "block_order": [
         "heading_UM46BB"
       ],
+      "custom_css": [
+        ".banner {margin-top: -20px;}"
+      ],
       "settings": {
         "image": "shopify://shop_images/Knindustrie_2.webp",
         "image_overlay_opacity": 0,
@@ -126,7 +117,7 @@
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "rich_text_eUGJPw": {
@@ -155,8 +146,8 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 16
+        "padding_top": 52,
+        "padding_bottom": 0
       }
     },
     "dual_images_mz8FBh": {
@@ -197,8 +188,8 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 24
+        "padding_top": 52,
+        "padding_bottom": 52
       }
     },
     "dual_images_BLkLjB": {
@@ -256,7 +247,7 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 12,
+        "padding_top": 52,
         "padding_bottom": 12
       }
     },
@@ -283,8 +274,8 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 20
+        "padding_top": 20,
+        "padding_bottom": 52
       }
     },
     "slideshow_UBbAHF": {
@@ -307,29 +298,10 @@
             "color_scheme": "",
             "text_alignment_mobile": "center"
           }
-        },
-        "slide_whTxCV": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/KnIndustrie-composizione-circles_2.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
-        "slide_MPNhUc",
-        "slide_whTxCV"
+        "slide_MPNhUc"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -341,64 +313,12 @@
         "show_text_below": true,
         "accessibility_info": "Presentazione sul nostro brand"
       }
-    },
-    "rich_text_wq4j94": {
-      "type": "rich-text",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 16,
-        "padding_bottom": 4
-      }
-    },
-    "rich_text_Uztja7": {
-      "type": "rich-text",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "multirow_TKm8B9": {
-      "type": "multirow",
-      "settings": {
-        "image_height": "adapt",
-        "desktop_image_width": "medium",
-        "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "primary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
-        "row_color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "rich_text_VTqYDa": {
-      "type": "rich-text",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
+    "main",
     "rich_text_kjNRGT",
     "image_banner_LTTTYm",
-    "slideshow_iXigW9",
-    "main",
     "image_banner_KGriWC",
     "rich_text_eUGJPw",
     "dual_images_mz8FBh",
@@ -407,10 +327,6 @@
     "slideshow_9rUzXC",
     "rich_text_GUYcRV",
     "rich_text_7DJcTQ",
-    "slideshow_UBbAHF",
-    "rich_text_wq4j94",
-    "rich_text_Uztja7",
-    "multirow_TKm8B9",
-    "rich_text_VTqYDa"
+    "slideshow_UBbAHF"
   ]
 }
