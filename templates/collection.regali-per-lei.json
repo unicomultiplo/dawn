@@ -134,16 +134,7 @@
           "type": "column",
           "settings": {
             "title": "<strong>LEI CHE AMA..</strong>",
-            "text": "<h4>Dormire</h4><h4>Mangiare</h4><h4>Cucinare</h4><h4>Viaggiare</h4><h4>Sport</h4><h3></h3>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_UprEta": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>BUDGET </strong>",
-            "text": "<h2></h2><h4>Piccolo doni →</h4><h4>Idee sotto ai 50€ →</h4><h4>Idee sotto i 100€ →</h4><h4>Idee sotto i 150€ →</h4><h4></h4>",
+            "text": "<h4>Dormire</h4><h4>Mangiare</h4><h4>Cucinare</h4><h4>Viaggiare</h4><h4>Fai da te </h4><h3></h3>",
             "link_label": "",
             "link": ""
           }
@@ -156,12 +147,21 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_UprEta": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>BUDGET </strong>",
+            "text": "<h2></h2><h4>Piccolo doni →</h4><h4>Idee sotto ai 50€ →</h4><h4>Idee sotto i 100€ →</h4><h4>Idee sotto i 150€ →</h4><h4></h4>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_yqLKq7",
-        "column_UprEta",
-        "column_yfQL9J"
+        "column_yfQL9J",
+        "column_UprEta"
       ],
       "settings": {
         "title": "<strong>Acquista per</strong>",
