@@ -139,15 +139,6 @@
             "link": ""
           }
         },
-        "column_yfQL9J": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>BRAND</strong>",
-            "text": "<h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Bitossi+Home&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Bitossi+Home&sort_by=created-ascending\">Bitossi Home</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Brandani&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Brandani&sort_by=created-ascending\">Brandani</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Seletti&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Seletti&sort_by=created-ascending\">Seletti</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=KnIndustrie&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=KnIndustrie&sort_by=created-ascending\">KnIndustrie</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Kikkerland&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Kikkerland&sort_by=created-ascending\">Kikkerland</a></h4>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_UprEta": {
           "type": "column",
           "settings": {
@@ -156,12 +147,21 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_yfQL9J": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>BRAND</strong>",
+            "text": "<h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Bitossi+Home&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Bitossi+Home&sort_by=created-ascending\">Bitossi Home</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Brandani&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Brandani&sort_by=created-ascending\">Brandani</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Seletti&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Seletti&sort_by=created-ascending\">Seletti</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=KnIndustrie&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=KnIndustrie&sort_by=created-ascending\">KnIndustrie</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Kikkerland&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Kikkerland&sort_by=created-ascending\">Kikkerland</a></h4>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_yqLKq7",
-        "column_yfQL9J",
-        "column_UprEta"
+        "column_UprEta",
+        "column_yfQL9J"
       ],
       "settings": {
         "title": "<strong>Acquista per</strong>",
