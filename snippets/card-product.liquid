@@ -142,7 +142,7 @@
                 id="NoMediaStandardBadge-{{ section_id }}-{{ card_product.id }}"
                 class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}"
               >
-                -{{ discount_percentage }}%
+                {{- 'products.product.on_sale' | t -}} -{{ discount_percentage }}%
               </span>
             {%- endif -%}
           </div>
