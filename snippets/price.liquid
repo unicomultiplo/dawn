@@ -127,9 +127,9 @@
       <span class="badge price__badge-sale color-{{ settings.sale_badge_color_scheme }}">
         {% assign price_difference = product.compare_at_price | minus: product.price %}
         {% assign discount_percentage = price_difference | divided_by: product.compare_at_price | times: 100 %}
-        {% assign discount_percentage = discount_percentage | round %}
+        {% assign format_discount_percentage = discount_percentage | round %}
         
-        {{ 'products.product.on_sale' | t }} {{ discount_percentage }}%
+        {{ 'products.product.on_sale' | t }} {{ format_discount_percentage }}%
       </span>
 
       <span class="badge price__badge-sold-out color-{{ settings.sold_out_badge_color_scheme }}">
