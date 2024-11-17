@@ -133,11 +133,16 @@
                 {{- 'products.product.sold_out' | t -}}
               </span>
             {%- elsif card_product.compare_at_price > card_product.price and card_product.available -%}
+              {% assign price_difference = product.compare_at_price | minus: product.price %}
+              {% assign discount_percentage = price_difference | times: 100 %}
+              {% assign discount_percentage = discount_percentage | divided_by: product.compare_at_price %}
+              {% assign discount_percentage = discount_percentage | round %}
+              
               <span
                 id="NoMediaStandardBadge-{{ section_id }}-{{ card_product.id }}"
                 class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}"
               >
-                {{- 'products.product.on_sale' | t -}}
+                -{{ discount_percentage }}%
               </span>
             {%- endif -%}
           </div>
