@@ -125,7 +125,8 @@
     </div>
     {%- if show_badges -%}
       <span class="badge price__badge-sale color-{{ settings.sale_badge_color_scheme }}">
-        {{ 'products.product.on_sale' | t }}
+        {% assign discount_percentage = ((product.compare_at_price | minus: product.price) | divided_by: product.compare_at_price | times: 100) | round %}
+        {{ 'products.product.on_sale' | t }} {{ discount_percentage }}
       </span>
 
       <span class="badge price__badge-sold-out color-{{ settings.sold_out_badge_color_scheme }}">
