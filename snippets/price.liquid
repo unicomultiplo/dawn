@@ -130,7 +130,7 @@
         {% assign discount_percentage = discount_percentage | divided_by: product.compare_at_price %}
         {% assign discount_percentage = discount_percentage | round %}
         
-        {{ 'products.product.on_sale' | t }} {{ discount_percentage }}
+        -{{ discount_percentage }}%
       </span>
 
       <span class="badge price__badge-sold-out color-{{ settings.sold_out_badge_color_scheme }}">
