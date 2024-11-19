@@ -12,7 +12,7 @@
     "image_banner_UkVpA4": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/black-friday-unicoemultiplo.webp",
+        "image": "shopify://shop_images/black-friday-stripes-2_1.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -112,7 +112,7 @@
     "image_banner_xJGRBf": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/black-friday-unicoemultiplo.webp",
+        "image": "shopify://shop_images/black-friday-stripes-2_1.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
