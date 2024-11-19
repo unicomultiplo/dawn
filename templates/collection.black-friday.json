@@ -127,6 +127,9 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "custom_css": [
+        ".badge {background: #000; color: #fff; border-color: #000;}"
+      ],
       "settings": {
         "products_per_page": 36,
         "columns_desktop": 4,
