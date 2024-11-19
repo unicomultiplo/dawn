@@ -11,9 +11,7 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
-      "custom_css": [
-        "a {color: #598db2;}"
-      ],
+      "custom_css": ["a {color: #598db2;}"],
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false,
@@ -51,11 +49,7 @@
           }
         }
       },
-      "block_order": [
-        "column_PgEVHi",
-        "column_pqxUGY",
-        "column_gPeEtt"
-      ],
+      "block_order": ["column_PgEVHi", "column_pqxUGY", "column_gPeEtt"],
       "disabled": true,
       "custom_css": [],
       "settings": {
@@ -106,11 +100,7 @@
           }
         }
       },
-      "block_order": [
-        "collapsible_row_YYXGEf",
-        "collapsible_row_4PHbF3",
-        "collapsible_row_TJn6HU"
-      ],
+      "block_order": ["collapsible_row_YYXGEf", "collapsible_row_4PHbF3", "collapsible_row_TJn6HU"],
       "disabled": true,
       "settings": {
         "caption": "",
@@ -134,7 +124,7 @@
           "type": "column",
           "settings": {
             "title": "<strong>LEI CHE AMA..</strong>",
-            "text": "<h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Kikkerland&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Kikkerland&sort_by=created-ascending\">Fai da te </a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Kikkerland&filter.p.m.custom.brand-produttore=Reisenthel&filter.p.m.custom.brand-produttore=Rollink&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Kikkerland&filter.p.m.custom.brand-produttore=Reisenthel&filter.p.m.custom.brand-produttore=Rollink&sort_by=created-ascending\">Viaggiare</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Tessili+per+la+Casa&sort_by=title-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Tessili+per+la+Casa&sort_by=title-ascending\">Dormire</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=CUCINA+%26+TAVOLA&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=CUCINA+%26+TAVOLA&sort_by=created-ascending\">Mangiare</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Joseph+Joseph&filter.p.m.custom.brand-produttore=joseph+joseph&filter.p.m.custom.brand-produttore=KnIndustrie&filter.p.m.custom.brand-produttore=Rivsalt&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Joseph+Joseph&filter.p.m.custom.brand-produttore=joseph+joseph&filter.p.m.custom.brand-produttore=KnIndustrie&filter.p.m.custom.brand-produttore=Rivsalt&sort_by=created-ascending\">Cucinare</a></h4><h4></h4>",
+            "text": "<h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Kikkerland&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Kikkerland&sort_by=created-ascending\">Fai da te </a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Kikkerland&filter.p.vendor=Reisenthel&filter.p.vendor=Rollink&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Kikkerland&filter.p.vendor=Reisenthel&filter.p.vendor=Rollink&sort_by=created-ascending\">Viaggiare</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Tessili+per+la+Casa&sort_by=title-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Tessili+per+la+Casa&sort_by=title-ascending\">Dormire</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=CUCINA+%26+TAVOLA&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=CUCINA+%26+TAVOLA&sort_by=created-ascending\">Mangiare</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Joseph+Joseph&filter.p.vendor=joseph+joseph&filter.p.vendor=KnIndustrie&filter.p.vendor=Rivsalt&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Joseph+Joseph&filter.p.vendor=joseph+joseph&filter.p.vendor=KnIndustrie&filter.p.vendor=Rivsalt&sort_by=created-ascending\">Cucinare</a></h4><h4></h4>",
             "link_label": "",
             "link": ""
           }
@@ -152,17 +142,13 @@
           "type": "column",
           "settings": {
             "title": "<strong>BRAND</strong>",
-            "text": "<h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Bitossi+Home&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Bitossi+Home&sort_by=created-ascending\">Bitossi Home</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Brandani&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Brandani&sort_by=created-ascending\">Brandani</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Seletti&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Seletti&sort_by=created-ascending\">Seletti</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=KnIndustrie&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=KnIndustrie&sort_by=created-ascending\">KnIndustrie</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Kikkerland&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Kikkerland&sort_by=created-ascending\">Kikkerland</a></h4>",
+            "text": "<h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Bitossi+Home&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Bitossi+Home&sort_by=created-ascending\">Bitossi Home</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=created-ascending\">Brandani</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=created-ascending\">Seletti</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=KnIndustrie&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=KnIndustrie&sort_by=created-ascending\">KnIndustrie</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Kikkerland&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Kikkerland&sort_by=created-ascending\">Kikkerland</a></h4>",
             "link_label": "",
             "link": ""
           }
         }
       },
-      "block_order": [
-        "column_yqLKq7",
-        "column_UprEta",
-        "column_yfQL9J"
-      ],
+      "block_order": ["column_yqLKq7", "column_UprEta", "column_yfQL9J"],
       "settings": {
         "title": "<strong>Acquista per</strong>",
         "heading_size": "h2",
@@ -272,9 +258,7 @@
         "column_haG6Nb",
         "column_PFXNne"
       ],
-      "custom_css": [
-        "a {color: white; text-decoration: none;"
-      ],
+      "custom_css": ["a {color: white; text-decoration: none;"],
       "settings": {
         "title": "Guida ai regali",
         "heading_size": "h2",
@@ -314,10 +298,7 @@
           }
         }
       },
-      "block_order": [
-        "heading_KJNBNV",
-        "buttons_cY6VU3"
-      ],
+      "block_order": ["heading_KJNBNV", "buttons_cY6VU3"],
       "settings": {
         "image": "shopify://shop_images/christmas.jpg",
         "image_overlay_opacity": 0,

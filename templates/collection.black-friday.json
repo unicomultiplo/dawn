@@ -27,9 +27,7 @@
     },
     "banner": {
       "type": "main-collection-banner",
-      "custom_css": [
-        "a {color: #598db2;}"
-      ],
+      "custom_css": ["a {color: #598db2;}"],
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false,
@@ -42,7 +40,7 @@
         "column_VxFkJe": {
           "type": "column",
           "settings": {
-            "title": "<a href=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Seletti&sort_by=title-ascending\" title=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Seletti&sort_by=title-ascending\">Seletti →</a>",
+            "title": "<a href=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending\" title=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending\">Seletti →</a>",
             "text": "",
             "link_label": "",
             "link": ""
@@ -51,7 +49,7 @@
         "column_DTzdKa": {
           "type": "column",
           "settings": {
-            "title": "<a href=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Bitossi+Home&sort_by=title-ascending\" title=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Bitossi+Home&sort_by=title-ascending\">Bitossi Home →</a>",
+            "title": "<a href=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Bitossi+Home&sort_by=title-ascending\" title=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Bitossi+Home&sort_by=title-ascending\">Bitossi Home →</a>",
             "text": "",
             "link_label": "",
             "link": ""
@@ -60,7 +58,7 @@
         "column_Reykrn": {
           "type": "column",
           "settings": {
-            "title": "<a href=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Brandani&sort_by=title-ascending\" title=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Brandani&sort_by=title-ascending\">Brandani → </a>",
+            "title": "<a href=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=title-ascending\" title=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=title-ascending\">Brandani → </a>",
             "text": "",
             "link_label": "",
             "link": ""
@@ -69,7 +67,7 @@
         "column_H4Rxdm": {
           "type": "column",
           "settings": {
-            "title": "<a href=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=KnIndustrie&sort_by=title-ascending\" title=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=KnIndustrie&sort_by=title-ascending\">KnIndustrie →</a>",
+            "title": "<a href=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=KnIndustrie&sort_by=title-ascending\" title=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=KnIndustrie&sort_by=title-ascending\">KnIndustrie →</a>",
             "text": "",
             "link_label": "",
             "link": ""
@@ -78,20 +76,14 @@
         "column_3TjcKy": {
           "type": "column",
           "settings": {
-            "title": "<a href=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Brabantia&sort_by=title-ascending\" title=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.brand-produttore=Brabantia&sort_by=title-ascending\">Brabantia →</a>",
+            "title": "<a href=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brabantia&sort_by=title-ascending\" title=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brabantia&sort_by=title-ascending\">Brabantia →</a>",
             "text": "",
             "link_label": "",
             "link": ""
           }
         }
       },
-      "block_order": [
-        "column_VxFkJe",
-        "column_DTzdKa",
-        "column_Reykrn",
-        "column_H4Rxdm",
-        "column_3TjcKy"
-      ],
+      "block_order": ["column_VxFkJe", "column_DTzdKa", "column_Reykrn", "column_H4Rxdm", "column_3TjcKy"],
       "custom_css": [],
       "settings": {
         "title": "Fai shopping, fai festa!",
@@ -112,9 +104,7 @@
     },
     "image_banner_xJGRBf": {
       "type": "image-banner",
-      "custom_css": [
-        ".banner {margin-top: -16px;}"
-      ],
+      "custom_css": [".banner {margin-top: -16px;}"],
       "settings": {
         "image": "shopify://shop_images/black-friday-stripes-2_1.png",
         "image_overlay_opacity": 0,
@@ -131,9 +121,7 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
-      "custom_css": [
-        ".badge {background: #000; color: #fff; border-color: #000;}"
-      ],
+      "custom_css": [".badge {background: #000; color: #fff; border-color: #000;}"],
       "settings": {
         "products_per_page": 36,
         "columns_desktop": 4,
@@ -224,9 +212,7 @@
         "column_haG6Nb",
         "column_PFXNne"
       ],
-      "custom_css": [
-        "a {color: white; text-decoration: none;"
-      ],
+      "custom_css": ["a {color: white; text-decoration: none;"],
       "settings": {
         "title": "Guida ai regali",
         "heading_size": "h2",
@@ -266,10 +252,7 @@
           }
         }
       },
-      "block_order": [
-        "heading_KJNBNV",
-        "buttons_cY6VU3"
-      ],
+      "block_order": ["heading_KJNBNV", "buttons_cY6VU3"],
       "settings": {
         "image": "shopify://shop_images/christmas.jpg",
         "image_overlay_opacity": 0,
