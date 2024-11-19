@@ -43,7 +43,6 @@
         "paragraph_tMmnDn",
         "email_form_JM9rKb"
       ],
-      "disabled": true,
       "custom_css": [
         ".newsletter__wrapper {border: 1px solid rgba(var(--color-foreground), 0.08); border-radius: 0.5em; margin-top: 80px;}"
       ],
@@ -53,79 +52,10 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "image_banner_3HVxVd": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify://shop_images/black-friday-unicoemultiplo.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "newsletter_gTTRkM": {
-      "type": "newsletter",
-      "blocks": {
-        "heading_zYByTN": {
-          "type": "heading",
-          "settings": {
-            "heading": "Iscriviti per Vantaggi Esclusivi! <strong>Black Friday</strong>",
-            "heading_size": "h1"
-          }
-        },
-        "paragraph_aTDUGk": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<h4>Non perdere questa opportunità!Per iscritti UNICI... Vantaggi MULTIPLI! Entra nella COMMUNITY e avrai <span style=\"text-decoration:underline\">subito il 10% di sconto</span> sul primo acquisto.</h4><h4>Inoltre... avrai l'<strong>accesso anticipato</strong> ai nostri sconti <strong>BLACK FRIDAY</strong><em><strong>. </strong></em><br/>Solo gli iscritti riceveranno in anteprima il <strong>coupon </strong>per accedere alla nostra selezione di offerte. Non lasciare che le migliori occasioni ti sfuggano!</h4><p></p>"
-          }
-        },
-        "email_form_8G4xGL": {
-          "type": "email_form",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "heading_zYByTN",
-        "paragraph_aTDUGk",
-        "email_form_8G4xGL"
-      ],
-      "custom_css": [],
-      "settings": {
-        "color_scheme": "scheme-2",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "image_banner_4LyLAT": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify://shop_images/black-friday-unicoemultiplo.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
     "main",
-    "newsletter_EBrPfd",
-    "image_banner_3HVxVd",
-    "newsletter_gTTRkM",
-    "image_banner_4LyLAT"
+    "newsletter_EBrPfd"
   ]
 }
