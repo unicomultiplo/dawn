@@ -12,14 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "text_Fn8rie": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "{{ product.metafields.custom[\"brand-produttore\"].value }}",
-            "text_style": "subtitle"
-          }
-        },
         "custom_liquid_xJQknK": {
           "type": "custom_liquid",
           "settings": {
@@ -93,7 +85,6 @@
         }
       },
       "block_order": [
-        "text_Fn8rie",
         "custom_liquid_xJQknK",
         "title",
         "variant_sku_BLBrqe",
