@@ -92,6 +92,7 @@
         "column_H4Rxdm",
         "column_3TjcKy"
       ],
+      "custom_css": [],
       "settings": {
         "title": "Fai shopping, fai festa!",
         "heading_size": "h2",
@@ -111,6 +112,9 @@
     },
     "image_banner_xJGRBf": {
       "type": "image-banner",
+      "custom_css": [
+        ".banner {margin-top: -16px;}"
+      ],
       "settings": {
         "image": "shopify://shop_images/black-friday-stripes-2_1.png",
         "image_overlay_opacity": 0,
