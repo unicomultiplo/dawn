@@ -16,8 +16,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/BFRIDAY_U_M.webp",
-            "title": "<strong>OFFERTE TOP</strong>",
-            "text": "<p>...tutte per Te!</p>",
+            "title": "",
+            "text": "<p><strong>OFFERTE TOP</strong>...tutte per Te!</p>",
             "link_label": "",
             "link": "shopify://collections/black-friday"
           }
