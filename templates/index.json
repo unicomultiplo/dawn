@@ -68,21 +68,21 @@
         "heading_nXqN4c": {
           "type": "heading",
           "settings": {
-            "heading": "La Magia delle Novità Ichendorf",
+            "heading": "BLACK FRIDAY",
             "heading_size": "h1"
           }
         },
         "heading_Fiibrj": {
           "type": "heading",
           "settings": {
-            "heading": "Scopri l'arte del vetro per la Festa più Magica dell’Anno",
+            "heading": "È il momento di risparmiare!🚀",
             "heading_size": "h2"
           }
         },
         "text_kY63iq": {
           "type": "text",
           "settings": {
-            "text": "<p>Dai bicchieri alle decorazioni, ogni pezzo Ichendorf è pensato per incantare e stupire chiunque lo guardi. Scopri l'eleganza del design esclusivo di Alessandra Baldereschi.</p>"
+            "text": "<p>Clicca qui per trovare sconti esclusivi su prodotti che ami.       <br/>Non lasciarti sfuggire queste occasioni<strong>! </strong>⏳</p>"
           }
         }
       },
@@ -108,13 +108,13 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "ichendorf-catalogo-natale",
-        "products_to_show": 6,
+        "collection": "black-friday",
+        "products_to_show": 15,
         "columns_desktop": 6,
         "full_width": true,
         "show_view_all": true,
         "view_all_style": "outline",
-        "enable_desktop_slider": false,
+        "enable_desktop_slider": true,
         "color_scheme": "",
         "image_ratio": "square",
         "image_shape": "default",
