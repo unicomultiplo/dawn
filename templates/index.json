@@ -42,7 +42,7 @@
         ".multicolumn-list__item {position: relative;}",
         ".multicolumn-card__info {position: absolute; top: 0em; left: 2em; padding-top: 2.5rem;}",
         ".multicolumn-card__info h3 {color: rgb(var(--color-background)); font-size: 4em; text-shadow: 0px 0px 2em rgba(0, 0, 0, 0.2);}",
-        ".multicolumn-card__info p {font-size: 1.5em; color: rgb(var(--color-background)); text-shadow: 0px 0px 2em rgba(0, 0, 0, 0.2);}",
+        ".multicolumn-card__info p {font-size: 1.3em; color: rgb(var(--color-background)); text-shadow: 0px 0px 2em rgba(0, 0, 0, 0.2);}",
         ".multicolumn-card__info > :nth-child(2) {margin-top: 0em;}"
       ],
       "settings": {
