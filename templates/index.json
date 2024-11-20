@@ -16,8 +16,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/BFRIDAY_U_M.webp",
-            "title": "<strong>VAI ALLA CATEGORIA</strong>",
-            "text": "<p>Offerte top tutte per Te!</p>",
+            "title": "<strong>OFFERTE TOP</strong>",
+            "text": "<p>...tutte per Te!</p>",
             "link_label": "",
             "link": "shopify://collections/black-friday"
           }
@@ -26,8 +26,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/WhatsApp_Image_2024-11-20_at_10.58.11_1.webp",
-            "title": "<strong>DIVENTA IL RE DEL SECRET SANTA!</strong>",
-            "text": "<p>Clicca e troverai il regalo giusto!</p>",
+            "title": "<strong>CLICCA E TROVA IL REGALO GIUSTO</strong>",
+            "text": "",
             "link_label": "",
             "link": "shopify://collections/bitossi-home-i-piattini-bitossi-home"
           }
