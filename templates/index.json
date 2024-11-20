@@ -26,8 +26,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/WhatsApp_Image_2024-11-20_at_10.58.11_1.webp",
-            "title": "<strong>CLICCA E TROVA IL REGALO GIUSTO</strong>",
-            "text": "",
+            "title": "",
+            "text": "<p><strong>CLICCA e TROVA <br/>il regalo giusto!</strong></p>",
             "link_label": "",
             "link": "shopify://collections/bitossi-home-i-piattini-bitossi-home"
           }
