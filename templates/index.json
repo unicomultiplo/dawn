@@ -17,7 +17,7 @@
           "settings": {
             "image": "shopify://shop_images/BFRIDAY_U_M.webp",
             "title": "",
-            "text": "<p><strong>OFFERTE TOP...</strong></p><p><strong>tutte per Te!</strong></p>",
+            "text": "<p><strong>OFFERTE TOP</strong></p><p><strong>Tutte per Te!</strong></p>",
             "link_label": "",
             "link": "shopify://collections/black-friday"
           }
@@ -27,7 +27,7 @@
           "settings": {
             "image": "shopify://shop_images/WhatsApp_Image_2024-11-20_at_10.58.11_1.webp",
             "title": "",
-            "text": "<p><strong>CLICCA e TROVA...</strong></p><p><strong>il regalo giusto!</strong></p>",
+            "text": "<p><strong>CLICCA e TROVA</strong></p><p><strong>Il regalo giusto!</strong></p>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=0&filter.v.price.lte=35&sort_by=manual"
           }
