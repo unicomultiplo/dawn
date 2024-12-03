@@ -15,11 +15,11 @@
         "column_4PjnNt": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/BFRIDAY_U_M.webp",
+            "image": "shopify://shop_images/bitossi-unicoemultiplo.webp",
             "title": "",
-            "text": "<p><strong>OFFERTE TOP</strong></p><p><strong>Tutte per Te!</strong></p>",
+            "text": "<p><strong>TAVOLA DI NATALE </strong></p><p><strong>Tutte per Te!</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/black-friday"
+            "link": "shopify://pages/natale"
           }
         },
         "column_pkHkxr": {
@@ -68,21 +68,21 @@
         "heading_nXqN4c": {
           "type": "heading",
           "settings": {
-            "heading": "BLACK FRIDAY",
+            "heading": "NATALE 2024",
             "heading_size": "h1"
           }
         },
         "heading_Fiibrj": {
           "type": "heading",
           "settings": {
-            "heading": "È IL MOMENTO DI FARE ACQUISTI!🚀",
+            "heading": "È IL MOMENTO DI FARE ACQUISTI!",
             "heading_size": "h2"
           }
         },
         "text_kY63iq": {
           "type": "text",
           "settings": {
-            "text": "<p>Clicca qui per trovare sconti esclusivi su prodotti che ami.       <br/>Non lasciarti sfuggire queste occasioni<strong>! </strong>⏳</p>"
+            "text": "<p>Non lasciarti sfuggire queste occasioni<strong>! </strong></p>"
           }
         }
       },
@@ -108,7 +108,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "black-friday",
+        "collection": "bitossi-home-natale",
         "products_to_show": 15,
         "columns_desktop": 6,
         "full_width": true,
