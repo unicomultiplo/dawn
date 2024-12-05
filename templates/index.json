@@ -193,6 +193,14 @@
         "padding_bottom": 0
       }
     },
+    "separator_yHaRH3": {
+      "type": "separator",
+      "settings": {
+        "top_spacing": 5,
+        "bottom_spacing": 5,
+        "line_thickness": 1
+      }
+    },
     "rich_text_3eGJVG": {
       "type": "rich-text",
       "blocks": {
@@ -213,7 +221,7 @@
           "type": "button",
           "settings": {
             "button_label": "Scoprilo Subito!",
-            "button_link": "",
+            "button_link": "shopify://products/knindustrie-bicchiere-sparky-lara-caffi",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -286,14 +294,6 @@
         "swipe_on_mobile": false,
         "padding_top": 20,
         "padding_bottom": 20
-      }
-    },
-    "separator_yHaRH3": {
-      "type": "separator",
-      "settings": {
-        "top_spacing": 5,
-        "bottom_spacing": 5,
-        "line_thickness": 1
       }
     },
     "separator_b8qrnf": {
