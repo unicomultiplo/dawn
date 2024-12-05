@@ -54,7 +54,7 @@
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "rich_text_cn9HQ7": {
@@ -137,7 +137,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Clicca Qui!",
-            "button_link_1": "shopify://pages/natale",
+            "button_link_1": "shopify://collections/kikkerland",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -156,9 +156,9 @@
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "bottom-center",
-        "show_text_box": false,
+        "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
+        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
@@ -222,7 +222,7 @@
           "settings": {
             "button_label": "Scoprilo Subito!",
             "button_link": "shopify://products/knindustrie-bicchiere-sparky-lara-caffi",
-            "button_style_secondary": false,
+            "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -239,8 +239,8 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multicolumn_rGUHzh": {
@@ -292,7 +292,7 @@
         "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 20,
+        "padding_top": 0,
         "padding_bottom": 20
       }
     },
