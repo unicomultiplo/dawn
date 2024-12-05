@@ -9,57 +9,52 @@
  */
 {
   "sections": {
-    "multicolumn_rGUHzh": {
-      "type": "multicolumn",
+    "image_banner_Afj6hW": {
+      "type": "image-banner",
       "blocks": {
-        "column_4PjnNt": {
-          "type": "column",
+        "heading_jaCi8R": {
+          "type": "heading",
           "settings": {
-            "image": "shopify://shop_images/bitossi-unicoemultiplo.webp",
-            "title": "",
-            "text": "<p><strong>TAVOLA DI NATALE </strong></p><p><strong>Tutte per Te!</strong></p>",
-            "link_label": "",
-            "link": "shopify://pages/natale"
+            "heading": "La Tavola di Natale",
+            "heading_size": "h1"
           }
         },
-        "column_pkHkxr": {
-          "type": "column",
+        "text_gzGNwL": {
+          "type": "text",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2024-11-20_at_10.58.11_1.webp",
-            "title": "",
-            "text": "<p><strong>CLICCA e TROVA</strong></p><p><strong>Il regalo giusto!</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=0&filter.v.price.lte=35&sort_by=manual"
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_Ypy3TK": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Lasciati Ispirare!",
+            "button_link_1": "shopify://pages/natale",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "column_4PjnNt",
-        "column_pkHkxr"
-      ],
-      "custom_css": [
-        ".background-none .multicolumn-card__image-wrapper {margin: unset;}",
-        ".multicolumn-list__item {position: relative;}",
-        ".multicolumn-card__info {position: absolute; top: 0em; left: 2em; padding-top: 2.5rem;}",
-        ".multicolumn-card__info h3 {color: rgb(var(--color-background)); font-size: 4em; text-shadow: 0px 0px 2em rgba(0, 0, 0, 0.2);}",
-        ".multicolumn-card__info p {font-size: 1.3em; color: rgb(var(--color-background)); text-shadow: 0px 0px 2em rgba(0, 0, 0, 0.2);}",
-        ".multicolumn-card__info > :nth-child(2) {margin-top: 0em;}"
+        "heading_jaCi8R",
+        "text_gzGNwL",
+        "buttons_Ypy3TK"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 80,
-        "padding_bottom": 20
+        "image": "shopify://shop_images/KnIndustrie-piatti_1_2-GmyEAbwtq-transformed_1.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "rich_text_cn9HQ7": {
@@ -78,18 +73,11 @@
             "heading": "È IL MOMENTO DI FARE ACQUISTI!",
             "heading_size": "h2"
           }
-        },
-        "text_kY63iq": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Non lasciarti sfuggire queste occasioni<strong>! </strong></p>"
-          }
         }
       },
       "block_order": [
         "heading_nXqN4c",
-        "heading_Fiibrj",
-        "text_kY63iq"
+        "heading_Fiibrj"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -125,7 +113,179 @@
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
+        "padding_bottom": 64
+      }
+    },
+    "image_banner_dHUzbD": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_q7gRMd": {
+          "type": "heading",
+          "settings": {
+            "heading": "KIKKERLAND",
+            "heading_size": "h1"
+          }
+        },
+        "text_dPHyUN": {
+          "type": "text",
+          "settings": {
+            "text": "IL REGALO CHE STAVI CERCANDO",
+            "text_style": "body"
+          }
+        },
+        "buttons_NhU4Ey": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Clicca Qui!",
+            "button_link_1": "shopify://pages/natale",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_q7gRMd",
+        "text_dPHyUN",
+        "buttons_NhU4Ey"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Snapinsta.app_290001798_517497826723478_553366212176945960_n_1080.jpg",
+        "image_2": "shopify://shop_images/Snapinsta.app_367512731_2517556531752942_2228679821810808000_n_1080.jpg",
+        "image_overlay_opacity": 50,
+        "image_height": "medium",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "featured_collection_7bfTMj": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "uppercase",
+        "collection": "kikkerland",
+        "products_to_show": 15,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "rich_text_3eGJVG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_W3Gywr": {
+          "type": "heading",
+          "settings": {
+            "heading": "NEW! KnIndustrie Bicchiere Sparky",
+            "heading_size": "h1"
+          }
+        },
+        "text_yfYBkm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Un bicchiere che fonde eleganza minimalista e creatività vibrante, ideale per ogni occasione</p>"
+          }
+        },
+        "button_nRa76D": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scoprilo Subito!",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_W3Gywr",
+        "text_yfYBkm",
+        "button_nRa76D"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_rGUHzh": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_4PjnNt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-home-sparky.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://pages/natale"
+          }
+        },
+        "column_pkHkxr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/sparky-knindustrie-lara-caffi.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=0&filter.v.price.lte=35&sort_by=manual"
+          }
+        }
+      },
+      "block_order": [
+        "column_4PjnNt",
+        "column_pkHkxr"
+      ],
+      "custom_css": [
+        ".background-none .multicolumn-card__image-wrapper {margin: unset;}",
+        ".multicolumn-list__item {position: relative;}",
+        ".multicolumn-card__info {position: absolute; top: 0em; left: 2em; padding-top: 2.5rem;}",
+        ".multicolumn-card__info h3 {color: rgb(var(--color-background)); font-size: 4em; text-shadow: 0px 0px 2em rgba(0, 0, 0, 0.2);}",
+        ".multicolumn-card__info p {font-size: 1.3em; color: rgb(var(--color-background)); text-shadow: 0px 0px 2em rgba(0, 0, 0, 0.2);}",
+        ".multicolumn-card__info > :nth-child(2) {margin-top: 0em;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "separator_yHaRH3": {
@@ -553,9 +713,13 @@
     }
   },
   "order": [
-    "multicolumn_rGUHzh",
+    "image_banner_Afj6hW",
     "rich_text_cn9HQ7",
     "featured_collection_zEJpm8",
+    "image_banner_dHUzbD",
+    "featured_collection_7bfTMj",
+    "rich_text_3eGJVG",
+    "multicolumn_rGUHzh",
     "separator_yHaRH3",
     "rich_text_7MwH7c",
     "multicolumn_pyNBEg",
