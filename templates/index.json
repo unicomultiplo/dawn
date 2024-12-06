@@ -22,7 +22,7 @@
         "text_gzGNwL": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "Trova il dettaglio perfetto",
             "text_style": "body"
           }
         },
@@ -63,14 +63,14 @@
         "heading_nXqN4c": {
           "type": "heading",
           "settings": {
-            "heading": "NATALE 2024",
+            "heading": "Natale 2024",
             "heading_size": "h1"
           }
         },
         "heading_Fiibrj": {
           "type": "heading",
           "settings": {
-            "heading": "È IL MOMENTO DI FARE ACQUISTI!",
+            "heading": "Regali di Design e Idee per una Tavola Elegante",
             "heading_size": "h2"
           }
         }
@@ -113,7 +113,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
-        "padding_bottom": 64
+        "padding_bottom": 48
       }
     },
     "image_banner_dHUzbD": {
@@ -207,14 +207,14 @@
         "heading_W3Gywr": {
           "type": "heading",
           "settings": {
-            "heading": "NEW! KnIndustrie Bicchiere Sparky",
+            "heading": "<strong>NEW!</strong> KnIndustrie Bicchiere Sparky Design di <strong>Lara Caffi</strong>",
             "heading_size": "h1"
           }
         },
         "text_yfYBkm": {
           "type": "text",
           "settings": {
-            "text": "<p>Un bicchiere che fonde eleganza minimalista e creatività vibrante, ideale per ogni occasione</p>"
+            "text": "<p>Il dettaglio più affascinante è lo <strong>stelo cavo</strong>, che permette al liquido di fluire fino alla base del bicchiere, creando un <strong>effetto visivo unico. </strong></p>"
           }
         },
         "button_nRa76D": {
@@ -283,7 +283,7 @@
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "square",
+        "image_ratio": "adapt",
         "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "none",
