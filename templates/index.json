@@ -189,7 +189,7 @@
         "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 0,
+        "padding_top": 24,
         "padding_bottom": 0
       }
     },
@@ -240,7 +240,7 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 48
       }
     },
     "multicolumn_rGUHzh": {
@@ -423,7 +423,15 @@
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 52,
-        "padding_bottom": 76
+        "padding_bottom": 0
+      }
+    },
+    "separator_HKUMQy": {
+      "type": "separator",
+      "settings": {
+        "top_spacing": 20,
+        "bottom_spacing": 20,
+        "line_thickness": 1
       }
     },
     "rich_text_3WWRXG": {
@@ -732,6 +740,7 @@
     "separator_b8qrnf",
     "rich_text_7MwH7c",
     "multicolumn_pyNBEg",
+    "separator_HKUMQy",
     "rich_text_3WWRXG",
     "multicolumn_w64iw4",
     "rich_text_fjc6N9",
