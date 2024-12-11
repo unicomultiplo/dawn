@@ -1,4 +1,57 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
-  "sections": { "main": { "type": "main-register", "settings": { "padding_top": 36, "padding_bottom": 36 } } },
-  "order": ["main"]
+  "sections": {
+    "main": {
+      "type": "main-register",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "newsletter_aXNzMa": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_RFqQex": {
+          "type": "heading",
+          "settings": {
+            "heading": "Iscriviti alla nostra Newsletter",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_F6bQPe": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<h2>Per iscritti UNICI...</h2><p><strong>... Vantaggi multipli!</strong> Entra nella COMMUNITY: <strong>subito il 10%</strong> di sconto sul primo acquisto.</p><p></p>"
+          }
+        },
+        "email_form_rGeTRp": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_RFqQex",
+        "paragraph_F6bQPe",
+        "email_form_rGeTRp"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "newsletter_aXNzMa"
+  ]
 }
