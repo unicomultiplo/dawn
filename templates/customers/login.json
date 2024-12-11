@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "rich_text_dDKpg7": {
@@ -15,11 +24,13 @@
           }
         }
       },
-      "block_order": ["button_3YKBab"],
+      "block_order": [
+        "button_3YKBab"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "color_scheme": "scheme-2",
         "full_width": true,
         "padding_top": 24,
         "padding_bottom": 16
@@ -27,8 +38,49 @@
     },
     "main": {
       "type": "main-login",
-      "settings": { "enable_shop_login_button": false, "padding_top": 36, "padding_bottom": 36 }
+      "settings": {
+        "enable_shop_login_button": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "newsletter_4peyJT": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_Fd8r3t": {
+          "type": "heading",
+          "settings": {
+            "heading": "Iscriviti alla nostra Newsletter",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_HMbw63": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<h2>Per iscritti UNICI...</h2><p><strong>... Vantaggi multipli!</strong> Entra nella COMMUNITY: <strong>subito il 10%</strong> di sconto sul primo acquisto.</p><p></p>"
+          }
+        },
+        "email_form_9dYWWD": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_Fd8r3t",
+        "paragraph_HMbw63",
+        "email_form_9dYWWD"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
     }
   },
-  "order": ["rich_text_dDKpg7", "main"]
+  "order": [
+    "rich_text_dDKpg7",
+    "main",
+    "newsletter_4peyJT"
+  ]
 }
