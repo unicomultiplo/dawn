@@ -44,15 +44,15 @@
         "buttons_Ypy3TK"
       ],
       "settings": {
-        "image": "shopify://shop_images/KnIndustrie-piatti_1_2-GmyEAbwtq-transformed_1.jpg",
+        "image": "shopify://shop_images/white-dinner.webp",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "bottom-center",
+        "image_height": "large",
+        "desktop_content_position": "top-left",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
+        "mobile_content_alignment": "left",
         "stack_images_on_mobile": true,
         "show_text_below": false
       }
