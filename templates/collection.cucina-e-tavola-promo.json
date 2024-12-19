@@ -33,15 +33,15 @@
         "text_q4KFMg": {
           "type": "text",
           "settings": {
-            "text": "Scegli i nostri prodotti con un vantaggio speciale!",
+            "text": "<strong>Festeggia con stile: approfitta della promo ora!</strong>",
             "text_style": "body"
           }
         },
         "buttons_4gG64c": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Etichetta pulsante",
-            "button_link_1": "",
+            "button_label_1": "Scopri Subito",
+            "button_link_1": "https://www.unicoemultiplo.com/collections/cucina-e-tavola?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Promo+Tavola&sort_by=manual",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
