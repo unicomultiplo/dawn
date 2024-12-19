@@ -20,6 +20,54 @@
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
       }
     },
+    "image_banner_cKRtzN": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_8hEGWx": {
+          "type": "heading",
+          "settings": {
+            "heading": "La Tavola Brilla a Prezzo Speciale",
+            "heading_size": "h1"
+          }
+        },
+        "text_q4KFMg": {
+          "type": "text",
+          "settings": {
+            "text": "Scegli i nostri prodotti con un vantaggio speciale!",
+            "text_style": "body"
+          }
+        },
+        "buttons_4gG64c": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Etichetta pulsante",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_8hEGWx",
+        "text_q4KFMg",
+        "buttons_4gG64c"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/white-dinner.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -83,6 +131,7 @@
   },
   "order": [
     "banner",
+    "image_banner_cKRtzN",
     "product-grid",
     "image_banner_49hAAK"
   ]
