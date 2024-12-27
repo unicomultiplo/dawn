@@ -15,7 +15,7 @@
         "heading_jaCi8R": {
           "type": "heading",
           "settings": {
-            "heading": "La Tavola di Natale",
+            "heading": "La Tua Tavola a Prezzo Speciale",
             "heading_size": "h1"
           }
         },
@@ -30,7 +30,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Lasciati Ispirare!",
-            "button_link_1": "shopify://pages/natale",
+            "button_link_1": "shopify://collections/cucina-e-tavola",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -150,6 +150,7 @@
         "text_dPHyUN",
         "buttons_NhU4Ey"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/kikkerland-maps-idea-regalo-natale-ciRHFm3Kd-transformed_1.jpg",
         "image_2": "shopify://shop_images/kikkerland-memo-idea-regalo-natale-cnydKuYmO-transformed_1.jpg",
@@ -167,6 +168,7 @@
     },
     "featured_collection_7bfTMj": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
