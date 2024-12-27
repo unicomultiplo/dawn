@@ -23,11 +23,11 @@
     "multicolumn_HaGdWa": {
       "type": "multicolumn",
       "blocks": {
-        "column_VxFkJe": {
+        "column_yeRBwe": {
           "type": "column",
           "settings": {
             "title": "<a href=\"https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending\" title=\"Promo Seletti\">Seletti</a> →",
-            "text": "",
+            "text": "<p> </p>",
             "link_label": "",
             "link": ""
           }
@@ -67,14 +67,34 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_MhR9aY": {
+          "type": "column",
+          "settings": {
+            "title": "Idee Regalo →",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_f6n3DM": {
+          "type": "column",
+          "settings": {
+            "title": "Idee Regalo →",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "column_VxFkJe",
+        "column_yeRBwe",
         "column_DTzdKa",
         "column_Reykrn",
         "column_H4Rxdm",
-        "column_3TjcKy"
+        "column_3TjcKy",
+        "column_MhR9aY",
+        "column_f6n3DM"
       ],
       "custom_css": [],
       "settings": {
@@ -82,8 +102,8 @@
         "heading_size": "h2",
         "image_width": "half",
         "image_ratio": "adapt",
-        "columns_desktop": 6,
-        "column_alignment": "center",
+        "columns_desktop": 5,
+        "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
