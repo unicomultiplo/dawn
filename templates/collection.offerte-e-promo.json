@@ -1,0 +1,260 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        "a {color: #598db2;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
+      }
+    },
+    "multicolumn_HaGdWa": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_VxFkJe": {
+          "type": "column",
+          "settings": {
+            "title": "<a href=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending\" title=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending\">Seletti →</a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DTzdKa": {
+          "type": "column",
+          "settings": {
+            "title": "<a href=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Bitossi+Home&sort_by=title-ascending\" title=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Bitossi+Home&sort_by=title-ascending\">Bitossi Home →</a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Reykrn": {
+          "type": "column",
+          "settings": {
+            "title": "<a href=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=title-ascending\" title=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=title-ascending\">Brandani → </a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_H4Rxdm": {
+          "type": "column",
+          "settings": {
+            "title": "<a href=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=KnIndustrie&sort_by=title-ascending\" title=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=KnIndustrie&sort_by=title-ascending\">KnIndustrie →</a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3TjcKy": {
+          "type": "column",
+          "settings": {
+            "title": "<a href=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brabantia&sort_by=title-ascending\" title=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brabantia&sort_by=title-ascending\">Brabantia →</a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_VxFkJe",
+        "column_DTzdKa",
+        "column_Reykrn",
+        "column_H4Rxdm",
+        "column_3TjcKy"
+      ],
+      "custom_css": [],
+      "settings": {
+        "title": "Fai shopping, fai festa!",
+        "heading_size": "h2",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-4",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "custom_css": [
+        ".badge {background: #000; color: #fff; border-color: #000;}"
+      ],
+      "settings": {
+        "products_per_page": 36,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "standard",
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_87rNGP": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_KqQBPm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/close-up-of-lucky-cat-cookies.jpg",
+            "title": "CAT LOVER",
+            "text": "<p>Per chi vive tra fusa e graffi... con amore!</p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/search?q=gatt"
+          }
+        },
+        "column_rTjgmV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/santa-fixes-the-bow-on-a-gift.jpg",
+            "title": "SECRET SANTA",
+            "text": "<p>Sorprendi il tuo collega, anche quello che non conosci!</p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=0&filter.v.price.lte=35&sort_by=manual"
+          }
+        },
+        "column_XTTeGg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/person-holds-a-glass-bottle-and-carrots-by-their-tops.jpg",
+            "title": "Per gli CHEF",
+            "text": "<p>Anche se bruciano tutto, meritano il meglio in cucina</p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie"
+          }
+        },
+        "column_QMRb4R": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/boy-on-climbing-web.jpg",
+            "title": "BAMBINI CURIOSI",
+            "text": "<p>Per chi smonta tutto… e crea nuovi mondi!</p>",
+            "link_label": "",
+            "link": "shopify://collections/kikkerland"
+          }
+        },
+        "column_haG6Nb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/egg-white-cocktail.jpg",
+            "title": "BAR TENDER",
+            "text": "<p>Shaker o chiacchiere?</p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
+          }
+        },
+        "column_PFXNne": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/woman-in-beauty-rest-mask-in-pillow.jpg",
+            "title": "i love PISOLINO",
+            "text": "<p>Per chi vive in modalità riposo</p>",
+            "link_label": "",
+            "link": "shopify://collections/marinette-saint-tropez"
+          }
+        }
+      },
+      "block_order": [
+        "column_KqQBPm",
+        "column_rTjgmV",
+        "column_XTTeGg",
+        "column_QMRb4R",
+        "column_haG6Nb",
+        "column_PFXNne"
+      ],
+      "custom_css": [
+        "a {color: white; text-decoration: none;"
+      ],
+      "settings": {
+        "title": "Guida ai regali",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "VEDI TUTTE →",
+        "button_link": "shopify://collections/idee-regalo-natale",
+        "color_scheme": "scheme-4",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "image_banner_EpByd8": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_KJNBNV": {
+          "type": "heading",
+          "settings": {
+            "heading": "NATALE 2024",
+            "heading_size": "h1"
+          }
+        },
+        "buttons_cY6VU3": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "IDEE REGALO",
+            "button_link_1": "shopify://collections/idee-regalo-natale",
+            "button_style_secondary_1": true,
+            "button_label_2": "TAVOLA DI NATALE",
+            "button_link_2": "shopify://pages/natale",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_KJNBNV",
+        "buttons_cY6VU3"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/christmas.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "multicolumn_HaGdWa",
+    "product-grid",
+    "multicolumn_87rNGP",
+    "image_banner_EpByd8"
+  ]
+}
