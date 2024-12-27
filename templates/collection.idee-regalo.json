@@ -11,7 +11,9 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
-      "custom_css": ["a {color: #598db2;}"],
+      "custom_css": [
+        "a {color: #598db2;}"
+      ],
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false,
@@ -49,7 +51,11 @@
           }
         }
       },
-      "block_order": ["column_PgEVHi", "column_pqxUGY", "column_gPeEtt"],
+      "block_order": [
+        "column_PgEVHi",
+        "column_pqxUGY",
+        "column_gPeEtt"
+      ],
       "disabled": true,
       "custom_css": [],
       "settings": {
@@ -100,7 +106,11 @@
           }
         }
       },
-      "block_order": ["collapsible_row_YYXGEf", "collapsible_row_4PHbF3", "collapsible_row_TJn6HU"],
+      "block_order": [
+        "collapsible_row_YYXGEf",
+        "collapsible_row_4PHbF3",
+        "collapsible_row_TJn6HU"
+      ],
       "disabled": true,
       "settings": {
         "caption": "",
@@ -148,7 +158,12 @@
           }
         }
       },
-      "block_order": ["column_yqLKq7", "column_UprEta", "column_yfQL9J"],
+      "block_order": [
+        "column_yqLKq7",
+        "column_UprEta",
+        "column_yfQL9J"
+      ],
+      "disabled": true,
       "settings": {
         "title": "<strong>Acquista per</strong>",
         "heading_size": "h2",
@@ -258,7 +273,9 @@
         "column_haG6Nb",
         "column_PFXNne"
       ],
-      "custom_css": ["a {color: white; text-decoration: none;"],
+      "custom_css": [
+        "a {color: white; text-decoration: none;"
+      ],
       "settings": {
         "title": "Guida ai regali",
         "heading_size": "h2",
@@ -298,7 +315,10 @@
           }
         }
       },
-      "block_order": ["heading_KJNBNV", "buttons_cY6VU3"],
+      "block_order": [
+        "heading_KJNBNV",
+        "buttons_cY6VU3"
+      ],
       "settings": {
         "image": "shopify://shop_images/christmas.jpg",
         "image_overlay_opacity": 0,
