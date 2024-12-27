@@ -44,6 +44,7 @@
         "column_UmVC7H": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/chalkboard-sale-sign.jpg",
             "title": "<a href=\"https://www.unicoemultiplo.com/products/knindustrie-fjord-fusion-piatti\" title=\"Promo Bone China\">SPECIALE Bone China →</a>",
             "text": "",
             "link_label": "",
