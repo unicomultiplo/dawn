@@ -26,7 +26,7 @@
         "column_VxFkJe": {
           "type": "column",
           "settings": {
-            "title": "<a href=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending\" title=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending\">Seletti →</a>",
+            "title": "<a href=\"https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending\" title=\"Promo Seletti\">Seletti</a> →",
             "text": "",
             "link_label": "",
             "link": ""
@@ -35,7 +35,7 @@
         "column_DTzdKa": {
           "type": "column",
           "settings": {
-            "title": "<a href=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Bitossi+Home&sort_by=title-ascending\" title=\"https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Bitossi+Home&sort_by=title-ascending\">Bitossi Home →</a>",
+            "title": "<a href=\"https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Bitossi+Home&sort_by=title-ascending\" title=\"Promo Bitossi Home\">Bitossi Home →</a>",
             "text": "",
             "link_label": "",
             "link": ""
@@ -78,7 +78,7 @@
       ],
       "custom_css": [],
       "settings": {
-        "title": "Fai shopping, fai festa!",
+        "title": "Saldi 2025! Lo shopping conveniente!",
         "heading_size": "h2",
         "image_width": "half",
         "image_ratio": "adapt",
