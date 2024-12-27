@@ -19,13 +19,6 @@
             "heading_size": "h1"
           }
         },
-        "text_gzGNwL": {
-          "type": "text",
-          "settings": {
-            "text": "Trova il dettaglio perfetto",
-            "text_style": "body"
-          }
-        },
         "buttons_Ypy3TK": {
           "type": "buttons",
           "settings": {
@@ -40,7 +33,6 @@
       },
       "block_order": [
         "heading_jaCi8R",
-        "text_gzGNwL",
         "buttons_Ypy3TK"
       ],
       "settings": {
@@ -49,7 +41,7 @@
         "image_height": "large",
         "desktop_content_position": "top-left",
         "show_text_box": false,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
