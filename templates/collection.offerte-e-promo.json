@@ -23,6 +23,51 @@
     "multicolumn_HaGdWa": {
       "type": "multicolumn",
       "blocks": {
+        "column_f6n3DM": {
+          "type": "column",
+          "settings": {
+            "title": "<a href=\"/collections/illuminazione-luci-addobbi-alberi-natale\" title=\"Luci, Addobbi e Alberi di Natale\">Natale Conveniente →</a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_MhR9aY": {
+          "type": "column",
+          "settings": {
+            "title": "<a href=\"/collections/idee-regalo-natale\" title=\"Idee Regalo di Natale\">Idee Regalo →</a>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_UmVC7H": {
+          "type": "column",
+          "settings": {
+            "title": "SPECIALE Bone China →",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_eK6ciN": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_jybGMj": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_yeRBwe": {
           "type": "column",
           "settings": {
@@ -67,34 +112,19 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_MhR9aY": {
-          "type": "column",
-          "settings": {
-            "title": "Idee Regalo →",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_f6n3DM": {
-          "type": "column",
-          "settings": {
-            "title": "Idee Regalo →",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
+        "column_f6n3DM",
+        "column_MhR9aY",
+        "column_UmVC7H",
+        "column_eK6ciN",
+        "column_jybGMj",
         "column_yeRBwe",
         "column_DTzdKa",
         "column_Reykrn",
         "column_H4Rxdm",
-        "column_3TjcKy",
-        "column_MhR9aY",
-        "column_f6n3DM"
+        "column_3TjcKy"
       ],
       "custom_css": [],
       "settings": {
