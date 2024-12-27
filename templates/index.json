@@ -55,21 +55,20 @@
         "heading_nXqN4c": {
           "type": "heading",
           "settings": {
-            "heading": "Natale 2024",
+            "heading": "La Tavola di Capodanno",
             "heading_size": "h1"
           }
         },
-        "heading_Fiibrj": {
-          "type": "heading",
+        "text_wLhzph": {
+          "type": "text",
           "settings": {
-            "heading": "Regali di Design e Idee per una Tavola Elegante",
-            "heading_size": "h2"
+            "text": "<p>Scopri le nostre idee per una tavola <strong>Unica e Scintillante. </strong><br/>Ogni dettaglio è pensato per rendere speciale la tua festa di <strong>Capodanno</strong>. Brinda al <strong>2025 </strong>con design unico e accessori esclusivi!</p>"
           }
         }
       },
       "block_order": [
         "heading_nXqN4c",
-        "heading_Fiibrj"
+        "text_wLhzph"
       ],
       "settings": {
         "desktop_content_position": "center",
