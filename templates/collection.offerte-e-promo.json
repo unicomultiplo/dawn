@@ -11,6 +11,7 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "custom_css": [
         "a {color: #598db2;}"
       ],
@@ -18,6 +19,36 @@
         "show_collection_description": true,
         "show_collection_image": false,
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
+      }
+    },
+    "rich_text_KajkjP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_XjXJJ7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Saldi Gennaio 2025",
+            "heading_size": "h1"
+          }
+        },
+        "text_fzUbrk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Scopri le imperdibili proposte in promozione e le offerte in occasione dei saldi di inizio anno.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_XjXJJ7",
+        "text_fzUbrk"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "multicolumn_HaGdWa": {
@@ -302,6 +333,7 @@
   },
   "order": [
     "banner",
+    "rich_text_KajkjP",
     "multicolumn_HaGdWa",
     "product-grid",
     "multicolumn_87rNGP",
