@@ -177,7 +177,6 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
-      "disabled": true,
       "custom_css": [
         ".badge {background: #000; color: #fff; border-color: #000;}"
       ],
