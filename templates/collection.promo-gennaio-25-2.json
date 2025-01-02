@@ -59,7 +59,8 @@
         "column_kGrUQx"
       ],
       "custom_css": [
-        ".slider-mobile-gutter {margin-left: -1.5rem;}"
+        ".slider-mobile-gutter {margin-left: -1.5rem;}",
+        "a {text-decoration: none;}"
       ],
       "settings": {
         "title": "",
@@ -76,6 +77,14 @@
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "separator_GmcVx9": {
+      "type": "separator",
+      "settings": {
+        "top_spacing": 0,
+        "bottom_spacing": 0,
+        "line_thickness": 1
       }
     },
     "product-grid": {
@@ -102,6 +111,7 @@
   "order": [
     "banner",
     "multicolumn_xKWDGN",
+    "separator_GmcVx9",
     "product-grid"
   ]
 }
