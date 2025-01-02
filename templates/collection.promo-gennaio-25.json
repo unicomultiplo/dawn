@@ -24,28 +24,21 @@
         "heading_mn4iy4": {
           "type": "heading",
           "settings": {
-            "heading": "Saldi Gennaio 2025",
-            "heading_size": "h1"
-          }
-        },
-        "text_JHfdAA": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Scopri le imperdibili proposte in promozione e le offerte in occasione dei saldi di inizio anno.</p>"
+            "heading": "Natale conveniente",
+            "heading_size": "h2"
           }
         }
       },
       "block_order": [
-        "heading_mn4iy4",
-        "text_JHfdAA"
+        "heading_mn4iy4"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "desktop_content_position": "left",
+        "content_alignment": "left",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 72,
-        "padding_bottom": 52
+        "padding_top": 32,
+        "padding_bottom": 0
       }
     },
     "image_with_text_gAHLKE": {
