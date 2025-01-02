@@ -11,12 +11,9 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
-      "disabled": true,
-      "custom_css": [
-        "a {color: #598db2;}"
-      ],
+      "custom_css": [],
       "settings": {
-        "show_collection_description": true,
+        "show_collection_description": false,
         "show_collection_image": false,
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
       }
@@ -152,7 +149,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "",
+        "collection": "illuminazione-luci-addobbi-alberi-natale",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
