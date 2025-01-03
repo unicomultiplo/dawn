@@ -1,0 +1,151 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        ".rich-text__wrapper {padding: 0px;}",
+        "section:nth-child(2) {display: none;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-1"
+      }
+    },
+    "multicolumn_xKWDGN": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_6neVed": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/321379281_560105318900245_3460031156176061855_n-transformed.jpg",
+            "title": "Natale Conveniente",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/illuminazione-luci-addobbi-alberi-natale"
+          }
+        },
+        "column_gH4afb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/430331090_245431305296786_662067310259487342_n.jpg",
+            "title": "KnIndustrie",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=KnIndustrie&sort_by=title-ascending#shopify-section-template--23121479172361__product-grid"
+          }
+        },
+        "column_EgwtKK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/407845319_741436838013900_643988761810927980_n.jpg",
+            "title": "Brandani",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=title-ascending#shopify-section-template--23121479172361__product-grid"
+          }
+        },
+        "column_kGrUQx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/465962463_18471107104056974_3267756868417570209_n.jpg",
+            "title": "Seletti",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending#shopify-section-template--23121479172361__product-grid"
+          }
+        },
+        "column_JfatKn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/312772710_668428001552894_1590404136003496163_n-transformed.jpg",
+            "title": "Brabantia",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brabantia&sort_by=title-ascending#shopify-section-template--23121479172361__product-grid"
+          }
+        },
+        "column_GKwhLk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/459114120_909293751236943_5995160411739401828_n.jpg",
+            "title": "Bitossi Home",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Bitossi+Home&sort_by=title-ascending#shopify-section-template--23121479172361__product-grid"
+          }
+        }
+      },
+      "block_order": [
+        "column_6neVed",
+        "column_gH4afb",
+        "column_EgwtKK",
+        "column_kGrUQx",
+        "column_JfatKn",
+        "column_GKwhLk"
+      ],
+      "custom_css": [
+        "a {text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 24,
+        "padding_bottom": 0
+      }
+    },
+    "separator_GmcVx9": {
+      "type": "separator",
+      "settings": {
+        "top_spacing": 0,
+        "bottom_spacing": 0,
+        "line_thickness": 1
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 36,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "standard",
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "multicolumn_xKWDGN",
+    "separator_GmcVx9",
+    "product-grid"
+  ]
+}
