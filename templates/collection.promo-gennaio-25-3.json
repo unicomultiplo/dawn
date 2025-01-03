@@ -27,8 +27,8 @@
         "column_6neVed": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/321379281_560105318900245_3460031156176061855_n-transformed.jpg",
-            "title": "Natale Conveniente",
+            "image": "shopify://shop_images/natale-conveniente.png",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": "shopify://collections/illuminazione-luci-addobbi-alberi-natale"
@@ -37,8 +37,8 @@
         "column_gH4afb": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/430331090_245431305296786_662067310259487342_n.jpg",
-            "title": "KnIndustrie",
+            "image": "shopify://shop_images/knindustrie.png",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=KnIndustrie&sort_by=title-ascending#shopify-section-template--23121479172361__product-grid"
@@ -47,8 +47,8 @@
         "column_EgwtKK": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/407845319_741436838013900_643988761810927980_n.jpg",
-            "title": "Brandani",
+            "image": "shopify://shop_images/brandani.png",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=title-ascending#shopify-section-template--23121479172361__product-grid"
@@ -57,8 +57,8 @@
         "column_kGrUQx": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/465962463_18471107104056974_3267756868417570209_n.jpg",
-            "title": "Seletti",
+            "image": "shopify://shop_images/seletti.png",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending#shopify-section-template--23121479172361__product-grid"
@@ -67,8 +67,8 @@
         "column_JfatKn": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/312772710_668428001552894_1590404136003496163_n-transformed.jpg",
-            "title": "Brabantia",
+            "image": "shopify://shop_images/brabantia.png",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brabantia&sort_by=title-ascending#shopify-section-template--23121479172361__product-grid"
@@ -77,8 +77,8 @@
         "column_GKwhLk": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/459114120_909293751236943_5995160411739401828_n.jpg",
-            "title": "Bitossi Home",
+            "image": "shopify://shop_images/bitossi-home.png",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Bitossi+Home&sort_by=title-ascending#shopify-section-template--23121479172361__product-grid"
@@ -100,14 +100,14 @@
         "title": "",
         "heading_size": "h2",
         "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "",
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 24,
         "padding_bottom": 0
