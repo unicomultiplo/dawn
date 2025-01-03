@@ -41,7 +41,7 @@
             "title": "KnIndustrie",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=KnIndustrie&sort_by=title-ascending"
+            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=KnIndustrie&sort_by=title-ascending#shopify-section-template--23121479172361__product-grid"
           }
         },
         "column_EgwtKK": {
@@ -51,7 +51,7 @@
             "title": "Brandani",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=title-ascending"
+            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=title-ascending#shopify-section-template--23121479172361__product-grid"
           }
         },
         "column_kGrUQx": {
@@ -61,7 +61,7 @@
             "title": "Seletti",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending"
+            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending#shopify-section-template--23121479172361__product-grid"
           }
         },
         "column_JfatKn": {
@@ -71,17 +71,17 @@
             "title": "Brabantia",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brabantia&sort_by=title-ascending"
+            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brabantia&sort_by=title-ascending#shopify-section-template--23121479172361__product-grid"
           }
         },
         "column_GKwhLk": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/459114120_909293751236943_5995160411739401828_n.jpg",
-            "title": "Bitossi",
+            "title": "Bitossi Home",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Bitossi+Home&sort_by=title-ascending#shopify-section-template--23121479172361__product-grid"
           }
         }
       },
