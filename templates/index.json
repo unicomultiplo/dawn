@@ -9,6 +9,61 @@
  */
 {
   "sections": {
+    "slideshow_jWzjzL": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_LpqQDV": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/white-dinner.webp",
+            "heading": "La Tua Tavola a Prezzo Speciale",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Lasciati Ispirare!",
+            "link": "shopify://collections/cucina-e-tavola",
+            "button_style_secondary": false,
+            "box_align": "top-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_NWJFHf": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/slide_5.png",
+            "heading": "Saldi di Gennaio",
+            "heading_size": "h1",
+            "subheading": "Sconti fino al -50%",
+            "button_label": "Vai alle promozioni",
+            "link": "shopify://collections/offerte-e-promo",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_LpqQDV",
+        "slide_NWJFHf"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Presentazione sul nostro brand"
+      }
+    },
     "image_banner_Afj6hW": {
       "type": "image-banner",
       "blocks": {
@@ -35,6 +90,7 @@
         "heading_jaCi8R",
         "buttons_Ypy3TK"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/white-dinner.webp",
         "image_overlay_opacity": 0,
@@ -722,6 +778,7 @@
     }
   },
   "order": [
+    "slideshow_jWzjzL",
     "image_banner_Afj6hW",
     "rich_text_cn9HQ7",
     "featured_collection_zEJpm8",
