@@ -149,11 +149,6 @@
         "type": "shopify://apps/whatsapp-button/blocks/app-embed-block/96d80a63-e860-4262-a001-8b82ac4d00e6",
         "disabled": false,
         "settings": {}
-      },
-      "17183793864293902153": {
-        "type": "shopify://apps/rt-christmas-snowfall-effects/blocks/app-embed/0cf10f7c-3937-48ce-9253-6ac6f06bc961",
-        "disabled": false,
-        "settings": {}
       }
     },
     "color_schemes": {

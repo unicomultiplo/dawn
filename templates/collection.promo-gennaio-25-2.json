@@ -73,6 +73,16 @@
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brabantia&sort_by=title-ascending"
           }
+        },
+        "column_GKwhLk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/459114120_909293751236943_5995160411739401828_n.jpg",
+            "title": "Bitossi",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -80,7 +90,8 @@
         "column_gH4afb",
         "column_EgwtKK",
         "column_kGrUQx",
-        "column_JfatKn"
+        "column_JfatKn",
+        "column_GKwhLk"
       ],
       "custom_css": [
         "a {text-decoration: none;}"
