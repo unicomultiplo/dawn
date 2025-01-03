@@ -111,14 +111,14 @@
         "heading_nXqN4c": {
           "type": "heading",
           "settings": {
-            "heading": "La Tavola di Capodanno",
+            "heading": "Le Promozioni di Gennaio",
             "heading_size": "h1"
           }
         },
         "text_wLhzph": {
           "type": "text",
           "settings": {
-            "text": "<p>Scopri le nostre idee per una tavola <strong>Unica e Scintillante. </strong><br/><strong>Brinda al 2025 </strong>con uno stile Unico e accessori esclusivi!</p>"
+            "text": "<p>Divertiti a scoprire tutti i prodotti in promozione per i <strong>Saldi di Gennaio 2025</strong>!</p>"
           }
         }
       },
@@ -143,7 +143,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "cucina-e-tavola",
+        "collection": "offerte-e-promo",
         "products_to_show": 19,
         "columns_desktop": 6,
         "full_width": true,
