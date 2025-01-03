@@ -35,9 +35,9 @@
           "settings": {
             "image": "shopify://shop_images/pattern_circles-4_1_4_0-0_45_1__hsla_45_64_57_1.00__hsla_45_87_66_1.00.png",
             "heading": "Saldi di Gennaio",
-            "heading_size": "h0",
+            "heading_size": "hxl",
             "subheading": "Sconti fino al -50%",
-            "button_label": "Vai alle promozioni",
+            "button_label": "Vai alle promozioni!",
             "link": "shopify://collections/offerte-e-promo",
             "button_style_secondary": true,
             "box_align": "middle-center",
