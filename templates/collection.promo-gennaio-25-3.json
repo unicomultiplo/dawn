@@ -94,7 +94,8 @@
         "column_GKwhLk"
       ],
       "custom_css": [
-        ".multicolumn-list {--grid-desktop-horizontal-spacing: 0rem;}"
+        ".multicolumn-list {--grid-desktop-horizontal-spacing: 2rem;}",
+        ".multicolumn-card__image-wrapper {margin-left: 0px; margin-right: 0px;}"
       ],
       "settings": {
         "title": "",
