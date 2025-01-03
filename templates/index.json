@@ -39,7 +39,7 @@
             "subheading": "Sconti fino al -50%",
             "button_label": "Vai alle promozioni!",
             "link": "shopify://collections/offerte-e-promo",
-            "button_style_secondary": true,
+            "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
             "text_alignment": "center",
