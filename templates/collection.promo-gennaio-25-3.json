@@ -141,12 +141,45 @@
         "padding_top": 0,
         "padding_bottom": 36
       }
+    },
+    "image_banner_ibfFpa": {
+      "type": "image-banner",
+      "blocks": {
+        "buttons_iRwAK4": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Scopri tutti i prodotti in offerta!",
+            "button_link_1": "shopify://collections/offerte-e-promo",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "buttons_iRwAK4"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Frame_1_2.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
     }
   },
   "order": [
     "banner",
     "multicolumn_xKWDGN",
     "separator_GmcVx9",
-    "product-grid"
+    "product-grid",
+    "image_banner_ibfFpa"
   ]
 }
