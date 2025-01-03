@@ -24,6 +24,16 @@
     "multicolumn_xKWDGN": {
       "type": "multicolumn",
       "blocks": {
+        "column_6neVed": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/321379281_560105318900245_3460031156176061855_n-transformed.jpg",
+            "title": "Natale Conveniente",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/illuminazione-luci-addobbi-alberi-natale"
+          }
+        },
         "column_gH4afb": {
           "type": "column",
           "settings": {
@@ -66,6 +76,7 @@
         }
       },
       "block_order": [
+        "column_6neVed",
         "column_gH4afb",
         "column_EgwtKK",
         "column_kGrUQx",
