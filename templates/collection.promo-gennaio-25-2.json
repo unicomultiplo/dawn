@@ -53,12 +53,23 @@
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending"
           }
+        },
+        "column_JfatKn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/312772710_668428001552894_1590404136003496163_n-transformed.jpg",
+            "title": "Brabantia",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brabantia&sort_by=title-ascending"
+          }
         }
       },
       "block_order": [
         "column_gH4afb",
         "column_EgwtKK",
-        "column_kGrUQx"
+        "column_kGrUQx",
+        "column_JfatKn"
       ],
       "custom_css": [
         ".slider-mobile-gutter {margin-left: -1.5rem;}",
