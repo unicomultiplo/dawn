@@ -83,6 +83,26 @@
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Bitossi+Home&sort_by=title-ascending#shopify-section-template--23127397794057__product-grid"
           }
+        },
+        "column_MGYnWr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ichendorf.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Ichendorf&sort_by=created-descending#shopify-section-template--23121479172361__product-grid"
+          }
+        },
+        "column_AB83rg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/joseph-and-joseph.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Joseph+Joseph&sort_by=created-descending#shopify-section-template--23121479172361__product-grid"
+          }
         }
       },
       "block_order": [
@@ -91,7 +111,9 @@
         "column_EgwtKK",
         "column_kGrUQx",
         "column_JfatKn",
-        "column_GKwhLk"
+        "column_GKwhLk",
+        "column_MGYnWr",
+        "column_AB83rg"
       ],
       "custom_css": [
         ".multicolumn-list {--grid-desktop-horizontal-spacing: 2rem;}",
