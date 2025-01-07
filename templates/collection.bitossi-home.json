@@ -229,46 +229,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "image_banner_y3Rqtx": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_BNR6LH": {
-          "type": "heading",
-          "settings": {
-            "heading": "NATALE 2024",
-            "heading_size": "h1"
-          }
-        },
-        "buttons_3W8Cj3": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "IDEE REGALO",
-            "button_link_1": "shopify://collections/idee-regalo-natale",
-            "button_style_secondary_1": true,
-            "button_label_2": "TAVOLA DI NATALE",
-            "button_link_2": "shopify://pages/natale",
-            "button_style_secondary_2": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_BNR6LH",
-        "buttons_3W8Cj3"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/christmas.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-4",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
@@ -276,7 +236,6 @@
     "multicolumn_MxLddP",
     "collection_list_KGcE8i",
     "multicolumn_Dkhgfq",
-    "product-grid",
-    "image_banner_y3Rqtx"
+    "product-grid"
   ]
 }
