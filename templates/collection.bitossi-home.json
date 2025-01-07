@@ -27,7 +27,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h4><a href=\"/collections/bitossi-home-piatti\" title=\"Piatti Bitossi Home\">Piatti</a></h4><h4><a href=\"/collections/bitossi-home-bicchieri-e-calici\" title=\"Bicchieri e Calici Bitossi Home\">Bicchieri & Calici</a></h4><h4><a href=\"/collections/bitossi-home-tazze-tazzine-e-mug\" title=\"Tazze, Tazzine e Mug Bitossi Home\">Tazze & Tazzine</a></h4><h4><a href=\"/collections/bitossi-home-tovagliette-e-vassoi\" title=\"Tovagliette e Vassoi Bitossi Home\">Tovagliette & Vassoi</a></h4><h4><a href=\"/collections/bitossi-home-le-decorazioni-bitossi-home\" title=\"Le Decorazioni Bitossi Home\">Le decorazioni</a></h4><h4></h4>",
+            "text": "<h3><a href=\"https://www.unicoemultiplo.com/collections/bitossi-home?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=PROMO&sort_by=title-ascending=#shopify-section-template--22267420016905__product-grid\" title=\"https://www.unicoemultiplo.com/collections/bitossi-home?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=PROMO&sort_by=title-ascending=#shopify-section-template--22267420016905__product-grid\"><strong>SALDI DI GENNAIO<br/></strong></a></h3><h4><strong><br/></strong><a href=\"/collections/bitossi-home-piatti\" title=\"Piatti Bitossi Home\">Piatti</a></h4><h4><a href=\"/collections/bitossi-home-bicchieri-e-calici\" title=\"Bicchieri e Calici Bitossi Home\">Bicchieri & Calici</a></h4><h4><a href=\"/collections/bitossi-home-tazze-tazzine-e-mug\" title=\"Tazze, Tazzine e Mug Bitossi Home\">Tazze & Tazzine</a></h4><h4><a href=\"/collections/bitossi-home-tovagliette-e-vassoi\" title=\"Tovagliette e Vassoi Bitossi Home\">Tovagliette & Vassoi</a></h4><h4></h4><h4></h4>",
             "link_label": "",
             "link": ""
           }
@@ -54,7 +54,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h4><a href=\"https://www.unicoemultiplo.com/collections/bitossi-home?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Quadri+Bitossi+Home&sort_by=title-ascending\" title=\"https://www.unicoemultiplo.com/collections/bitossi-home?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Quadri+Bitossi+Home&sort_by=title-ascending\"> Piatti Quadri</a></h4><h4> <a href=\"/collections/bitossi-home-petalo-bitossi-home\" title=\"Petalo Bitossi Home\">Piatti Petalo</a></h4><h4><a href=\"/collections/bitossi-home-clessidre\" title=\"Clessidre Bitossi Home\">Clessidre </a></h4><h4><a href=\"/collections/bitossi-home-natale\" title=\"Natale Con Bitossi Home\">Natale Con Bitossi Home</a></h4><h4></h4>",
+            "text": "<h4><a href=\"https://www.unicoemultiplo.com/collections/bitossi-home?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Quadri+Bitossi+Home&sort_by=title-ascending\" title=\"https://www.unicoemultiplo.com/collections/bitossi-home?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Quadri+Bitossi+Home&sort_by=title-ascending\"> Piatti Quadri</a></h4><h4> <a href=\"/collections/bitossi-home-petalo-bitossi-home\" title=\"Petalo Bitossi Home\">Piatti Petalo</a></h4><h4><a href=\"/collections/bitossi-home-clessidre\" title=\"Clessidre Bitossi Home\">Clessidre </a></h4><h4><a href=\"/collections/bitossi-home-le-decorazioni-bitossi-home\" title=\"Le Decorazioni Bitossi Home\">Le decorazioni</a></h4>",
             "link_label": "",
             "link": ""
           }
@@ -66,7 +66,6 @@
         "column_gPeEtt",
         "column_rpy7eJ"
       ],
-      "disabled": true,
       "settings": {
         "title": "Scopri tutte le Collezioni Bitossi Home",
         "heading_size": "h2",
@@ -132,9 +131,8 @@
         "featured_collection_zUhmDC",
         "featured_collection_gbbWPd"
       ],
-      "custom_css": [
-
-      ],
+      "disabled": true,
+      "custom_css": [],
       "settings": {
         "title": "Natale 2024",
         "heading_size": "h2",
@@ -194,6 +192,7 @@
         "column_f6XtNh",
         "column_yB8KXd"
       ],
+      "disabled": true,
       "settings": {
         "title": "Scopri tutte le Collezioni Bitossi Home",
         "heading_size": "h2",
