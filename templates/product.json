@@ -145,32 +145,52 @@
         "padding_bottom": 28
       }
     },
-    "featured_collection_prXAzg": {
-      "type": "featured-collection",
+    "image_banner_Jmidbf": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_Hqi6NA": {
+          "type": "heading",
+          "settings": {
+            "heading": "Saldi di Gennaio",
+            "heading_size": "h0"
+          }
+        },
+        "text_7BDFhW": {
+          "type": "text",
+          "settings": {
+            "text": "Sconti fino al -50%",
+            "text_style": "body"
+          }
+        },
+        "buttons_M6EEJW": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Vai alle promozioni!",
+            "button_link_1": "shopify://collections/offerte-e-promo",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Hqi6NA",
+        "text_7BDFhW",
+        "buttons_M6EEJW"
+      ],
       "settings": {
-        "title": "Collezione in evidenza",
-        "heading_size": "h1",
-        "description": "<p>{{ section.settings.collection.title }}</p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "image": "shopify://shop_images/pattern_circles-4_1_4_0-0_45_1__hsla_45_64_57_1.00__hsla_45_87_66_1.00.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     }
   },
@@ -178,6 +198,6 @@
     "main",
     "custom_liquid_q83gja",
     "related-products",
-    "featured_collection_prXAzg"
+    "image_banner_Jmidbf"
   ]
 }
