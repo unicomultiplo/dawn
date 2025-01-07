@@ -29,29 +29,10 @@
             "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
             "text_alignment_mobile": "center"
           }
-        },
-        "slide_LpqQDV": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/white-dinner.webp",
-            "heading": "La Tua Tavola a Prezzo Speciale",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "Lasciati Ispirare!",
-            "link": "shopify://collections/cucina-e-tavola",
-            "button_style_secondary": false,
-            "box_align": "top-left",
-            "show_text_box": false,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
-        "slide_NWJFHf",
-        "slide_LpqQDV"
+        "slide_NWJFHf"
       ],
       "settings": {
         "layout": "full_bleed",
