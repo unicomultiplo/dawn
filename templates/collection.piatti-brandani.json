@@ -66,7 +66,6 @@
         "column_gPeEtt",
         "column_rpy7eJ"
       ],
-      "disabled": true,
       "settings": {
         "title": "Scopri tutte le Collezioni Brandani",
         "heading_size": "h2",
@@ -79,173 +78,6 @@
         "button_link": "",
         "color_scheme": "scheme-2",
         "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
-    "multicolumn_kPzdYJ": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_bNR7JM": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1024x1024.jpg",
-            "title": "",
-            "text": "<h3>Elfomagia →</h3>",
-            "link_label": "",
-            "link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana"
-          }
-        },
-        "column_8cCxbV": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Le-bacche-Brandani.png",
-            "title": "",
-            "text": "<h3>Le Bacche →</h3>",
-            "link_label": "",
-            "link": "shopify://collections/brandani-le-bacche"
-          }
-        },
-        "column_UqXd6V": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Brandani-Batuffoli.png",
-            "title": "",
-            "text": "<h3>Batuffoli →</h3>",
-            "link_label": "",
-            "link": "shopify://products/5163-brandani-batuffoli-set-tavolo-18-pezzi-in-porcellana"
-          }
-        },
-        "column_MRHHbD": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Connubio-Brandani.png",
-            "title": "",
-            "text": "<h3>Connubio →</h3>",
-            "link_label": "",
-            "link": "shopify://products/5169-brandani-connubio-18pz-porcellana"
-          }
-        },
-        "column_y3WWYG": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Chicchibalocchi.png",
-            "title": "",
-            "text": "<h3>Chicchi & Balocchi →</h3>",
-            "link_label": "",
-            "link": "shopify://collections/brandani-chicchi-balocchi"
-          }
-        },
-        "column_nzHDjB": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Brandani-servizio-piatti-natale-Regalomagia-1-1-1024x1024_1.webp",
-            "title": "",
-            "text": "<h3>Regalomagia →</h3>",
-            "link_label": "",
-            "link": "shopify://products/brandani-tavola-18-pz-regalomagia-porcellana"
-          }
-        }
-      },
-      "block_order": [
-        "column_bNR7JM",
-        "column_8cCxbV",
-        "column_UqXd6V",
-        "column_MRHHbD",
-        "column_y3WWYG",
-        "column_nzHDjB"
-      ],
-      "custom_css": [
-        ".multicolumn-card__image-wrapper {margin-left: 0px; margin-right: 0px;}"
-      ],
-      "settings": {
-        "title": "Natale 2024",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "portrait",
-        "columns_desktop": 6,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-4",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 16,
-        "padding_bottom": 16
-      }
-    },
-    "separator_dCNaGD": {
-      "type": "separator",
-      "custom_css": [
-        "hr,.div-separator {margin: 0px 0; background-color: black; height: 0px;}"
-      ],
-      "settings": {
-        "top_spacing": 0,
-        "bottom_spacing": 0,
-        "line_thickness": 1
-      }
-    },
-    "collection_list_EXXnHK": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_tG4tRx": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-tempo-di-festa"
-          }
-        },
-        "featured_collection_TrpiXr": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-posate"
-          }
-        },
-        "featured_collection_eDyrfm": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-bicchieri-e-calici"
-          }
-        },
-        "featured_collection_wWzgbG": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-antipastiere"
-          }
-        },
-        "featured_collection_YTEfRz": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-tazze-tazzine-mug"
-          }
-        },
-        "featured_collection_i7rxAy": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-natale"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_tG4tRx",
-        "featured_collection_TrpiXr",
-        "featured_collection_eDyrfm",
-        "featured_collection_wWzgbG",
-        "featured_collection_YTEfRz",
-        "featured_collection_i7rxAy"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "portrait",
-        "columns_desktop": 6,
-        "color_scheme": "scheme-4",
-        "show_view_all": false,
-        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 20,
         "padding_bottom": 20
@@ -333,56 +165,12 @@
         "padding_top": 8,
         "padding_bottom": 12
       }
-    },
-    "image_banner_iAVhVN": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_d4x7PV": {
-          "type": "heading",
-          "settings": {
-            "heading": "NATALE 2024",
-            "heading_size": "h1"
-          }
-        },
-        "buttons_qB84UK": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "IDEE REGALO",
-            "button_link_1": "shopify://collections/idee-regalo-natale",
-            "button_style_secondary_1": true,
-            "button_label_2": "TAVOLA DI NATALE",
-            "button_link_2": "shopify://pages/natale",
-            "button_style_secondary_2": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_d4x7PV",
-        "buttons_qB84UK"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/christmas.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-4",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
     "banner",
     "multicolumn_MxLddP",
-    "multicolumn_kPzdYJ",
-    "separator_dCNaGD",
-    "collection_list_EXXnHK",
     "product-grid",
-    "multicolumn_9jBEBY",
-    "image_banner_iAVhVN"
+    "multicolumn_9jBEBY"
   ]
 }
