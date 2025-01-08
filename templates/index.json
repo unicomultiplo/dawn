@@ -182,7 +182,7 @@
         "image": "shopify://shop_images/seletti-promo.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
@@ -194,6 +194,7 @@
     },
     "featured_collection_7bfTMj": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -222,6 +223,7 @@
     },
     "separator_yHaRH3": {
       "type": "separator",
+      "disabled": true,
       "settings": {
         "top_spacing": 5,
         "bottom_spacing": 5,
@@ -266,7 +268,7 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 0,
+        "padding_top": 60,
         "padding_bottom": 48
       }
     },
