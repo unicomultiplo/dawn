@@ -150,14 +150,14 @@
         "heading_q7gRMd": {
           "type": "heading",
           "settings": {
-            "heading": "KIKKERLAND",
+            "heading": "SELETTI",
             "heading_size": "h1"
           }
         },
         "text_dPHyUN": {
           "type": "text",
           "settings": {
-            "text": "IL REGALO CHE STAVI CERCANDO",
+            "text": "TUTTI GLI ARTICOLI IN PROMOZIONE",
             "text_style": "body"
           }
         },
@@ -165,7 +165,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Clicca Qui!",
-            "button_link_1": "shopify://collections/kikkerland",
+            "button_link_1": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending#shopify-section-template--23127397794057__product-grid",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -178,10 +178,8 @@
         "text_dPHyUN",
         "buttons_NhU4Ey"
       ],
-      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/kikkerland-maps-idea-regalo-natale-ciRHFm3Kd-transformed_1.jpg",
-        "image_2": "shopify://shop_images/kikkerland-memo-idea-regalo-natale-cnydKuYmO-transformed_1.jpg",
+        "image": "shopify://shop_images/seletti-promo.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "bottom-center",
@@ -196,14 +194,13 @@
     },
     "featured_collection_7bfTMj": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "uppercase",
-        "collection": "kikkerland",
+        "collection": "offerte-e-promo",
         "products_to_show": 15,
         "columns_desktop": 6,
         "full_width": true,
