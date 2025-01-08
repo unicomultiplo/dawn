@@ -27,7 +27,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><a href=\"https://www.unicoemultiplo.com/collections/brabantia?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=PROMO&sort_by=manual=#shopify-section-template--22267419853065__product-grid\" title=\"PROMO BRABANTIA\"><strong>SALDI DI GENNAIO</strong></a></p>",
+            "text": "<p><a href=\"https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brabantia&sort_by=title-ascending&_gl=#shopify-section-template--23127397794057__product-grid\" title=\"PROMO BRABANTIA\"><strong>SALDI DI GENNAIO</strong></a></p>",
             "link_label": "",
             "link": ""
           }
