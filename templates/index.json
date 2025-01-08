@@ -178,11 +178,12 @@
         "text_dPHyUN",
         "buttons_NhU4Ey"
       ],
+      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/seletti-promo.webp",
+        "image": "shopify://shop_images/WhatsApp_Image_2025-01-08_at_19.55.16.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "bottom-right",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
