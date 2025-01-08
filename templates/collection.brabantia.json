@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -27,7 +27,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h4><a href=\"\/collections\/brabantia-brabantia-make-take\" title=\"Brabantia Make & Take\">Make&Take<\/a><\/h4>",
+            "text": "<p><a href=\"https://www.unicoemultiplo.com/collections/brabantia?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=PROMO&sort_by=manual=#shopify-section-template--22267419853065__product-grid\" title=\"PROMO BRABANTIA\"><strong>SALDI DI GENNAIO</strong></a></p>",
             "link_label": "",
             "link": ""
           }
@@ -36,7 +36,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h4><a href=\"\/collections\/brabantia-pattumiere-e-cestini\" title=\"Pattumiere e Cestini Brabantia\">Pattumiere e Cestini<\/a><\/h4><h4><\/h4>",
+            "text": "<h4><a href=\"/collections/brabantia-pattumiere-e-cestini\" title=\"Pattumiere e Cestini Brabantia\">Pattumiere e Cestini</a></h4><h4></h4>",
             "link_label": "",
             "link": ""
           }
@@ -45,7 +45,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h4><a href=\"\/collections\/stendibiancheria-e-portabiancheria-brabantia\" title=\"Stendibiancheria e Portabiancheria Brabantia\">Stendibiancheria e Portabiancheria<\/a><\/h4>",
+            "text": "<h4><a href=\"/collections/stendibiancheria-e-portabiancheria-brabantia\" title=\"Stendibiancheria e Portabiancheria Brabantia\">Stendibiancheria e Portabiancheria</a></h4>",
             "link_label": "",
             "link": ""
           }
@@ -54,7 +54,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><\/p><h4><\/h4>",
+            "text": "<p></p><h4><a href=\"/collections/brabantia-brabantia-make-take\" title=\"Brabantia Make & Take\">Make&Take</a></h4>",
             "link_label": "",
             "link": ""
           }
