@@ -151,7 +151,7 @@
           "type": "heading",
           "settings": {
             "heading": "SELETTI",
-            "heading_size": "h1"
+            "heading_size": "hxl"
           }
         },
         "text_dPHyUN": {
@@ -178,19 +178,18 @@
         "text_dPHyUN",
         "buttons_NhU4Ey"
       ],
-      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/WhatsApp_Image_2025-01-08_at_19.55.16.jpg",
+        "image": "shopify://shop_images/header-2.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "desktop_content_position": "bottom-right",
+        "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
+        "color_scheme": "scheme-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": true
+        "stack_images_on_mobile": true,
+        "show_text_below": false
       }
     },
     "featured_collection_7bfTMj": {
