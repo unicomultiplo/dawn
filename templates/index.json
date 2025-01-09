@@ -181,7 +181,7 @@
       "settings": {
         "image": "shopify://shop_images/header-2.webp",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -194,14 +194,13 @@
     },
     "featured_collection_7bfTMj": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "uppercase",
-        "collection": "offerte-e-promo",
+        "collection": "seletti",
         "products_to_show": 15,
         "columns_desktop": 6,
         "full_width": true,
