@@ -182,6 +182,7 @@
       "block_order": [
         "buttons_iRwAK4"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Frame_1_2.png",
         "image_overlay_opacity": 0,
