@@ -204,7 +204,7 @@
         "products_to_show": 15,
         "columns_desktop": 6,
         "full_width": true,
-        "show_view_all": false,
+        "show_view_all": true,
         "view_all_style": "outline",
         "enable_desktop_slider": true,
         "color_scheme": "",
