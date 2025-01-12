@@ -369,7 +369,7 @@
           "settings": {
             "image": "shopify://shop_images/estetico-quotidiano.webp",
             "title": "",
-            "text": "<h4>Estetico Quotidiano</h4>",
+            "text": "<h4><strong>Seletti -</strong> <a href=\"/collections/seletti-catalogo-prodotti-estetico-quotidiano\" title=\"Seletti estetico quotidiano\">Estetico</a> Quotidiano</h4>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola"
           }
@@ -377,9 +377,9 @@
         "column_RtQ7KC": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Arredo-complementi.webp",
+            "image": "shopify://shop_images/KnIndustrie-1.webp",
             "title": "",
-            "text": "<h4><a href=\"/collections/complementi-arredo\" title=\"ARREDO & COMPLEMENTI\">Arredo & Complementi</a></h4>",
+            "text": "<h4><strong>KnIndustrie - </strong> Centrotavola <a href=\"/products/knindustrie-centrotavola-gastronomico-girevole-nero\" title=\"knIndustrie Centrotavola Gastronomico Girevole Nero\">Girevole</a></h4>",
             "link_label": "",
             "link": "shopify://collections/complementi-arredo"
           }
@@ -387,9 +387,9 @@
         "column_kUiCKr": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Lifestile-cassa-speaker.webp",
+            "image": "shopify://shop_images/joseph.webp",
             "title": "",
-            "text": "<h4><a href=\"/collections/tempo-libero\" title=\"LIFESTYLE\">Lifestyle</a></h4>",
+            "text": "<h4><strong>Joseph </strong><a href=\"/products/joseph-joseph-dash-pestello-mortaio-in-granito\" title=\"Joseph Joseph Dash Pestello Mortaio In Granito\"><strong>Joseph -</strong> Motaio e Pestello</a></h4>",
             "link_label": "",
             "link": "shopify://collections/tempo-libero"
           }
@@ -397,9 +397,9 @@
         "column_H9PG3A": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_-_2024-08-30T103013.767.webp",
+            "image": "shopify://shop_images/Bitossi-1.webp",
             "title": "",
-            "text": "<h4><a href=\"/collections/illuminazione\" title=\"ILLUMINAZIONE\">Illuminazione</a></h4>",
+            "text": "<h4><a href=\"/products/5026-bitossi-home-tavola-scomposta-vaso-conchiglia-verde\" title=\"Bitossi Home La Tavola Scomposta Vaso Conchiglia Verde\"><strong>Bitossi Home </strong></a>- Vaso Conchiglia</h4>",
             "link_label": "",
             "link": "shopify://collections/illuminazione"
           }
@@ -407,9 +407,9 @@
         "column_mbxQN4": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Ufficio.webp",
+            "image": "shopify://shop_images/Nataleconveniente.webp",
             "title": "",
-            "text": "<h4><a href=\"/collections/ufficio\" title=\"UFFICIO\">Ufficio</a></h4>",
+            "text": "<h4><a href=\"/products/2094-fiorira-un-giardino-pino-stecchi-luminosi-albero-di-natale-luminoso\" title=\"Fiorirà un giardino Pino stecchi luminosi albero di Natale luminoso\"><strong>Fiorirà un Giardino</strong></a> - Albero Stecchi</h4>",
             "link_label": "",
             "link": "shopify://collections/ufficio"
           }
@@ -417,9 +417,9 @@
         "column_7y4mWL": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Idee-regalo.jpg",
+            "image": "shopify://shop_images/brabantia_2b70c928-f5fb-48bb-8888-72a59507d256.webp",
             "title": "",
-            "text": "<h4><a href=\"/collections/idee-regalo\" title=\"IDEE REGALO\">Idee Regalo</a></h4>",
+            "text": "<h4><a href=\"/products/8174-brabantia-mindset-portascopino-da-bagno\" title=\"Brabantia MindSet Porta Scopino da appoggio - Bianco\"><strong>Brabantia</strong></a> - Portascopino</h4>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo"
           }
