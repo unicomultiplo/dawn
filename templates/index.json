@@ -278,7 +278,7 @@
           "settings": {
             "image": "shopify://shop_images/Knindustrie-coltelli-1.webp",
             "title": "",
-            "text": "<h1>   KNINDUSTRE</h1>",
+            "text": "<h1>  <strong> KNINDUSTRIE</strong></h1>",
             "link_label": "Coltelli da Cucina",
             "link": "shopify://collections/knindustrie-catalogo-prodotti-coltelli-be-knife"
           }
