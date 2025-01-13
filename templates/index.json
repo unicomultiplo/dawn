@@ -249,7 +249,7 @@
           "settings": {
             "button_label": "Scoprilo Subito!",
             "button_link": "shopify://collections/knindustrie-catalogo-prodotti-coltelli-be-knife",
-            "button_style_secondary": true,
+            "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
