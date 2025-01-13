@@ -234,14 +234,14 @@
         "heading_W3Gywr": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>NEW!</strong> KnIndustrie Bicchiere Sparky Design di <strong>Lara Caffi</strong>",
+            "heading": "Coltelli BE-KNife | KnIndustrie",
             "heading_size": "h1"
           }
         },
         "text_yfYBkm": {
           "type": "text",
           "settings": {
-            "text": "<p>Il dettaglio più affascinante è lo <strong>stelo cavo</strong>, che permette al liquido di fluire fino alla base del bicchiere, creando un <strong>effetto visivo unico. </strong></p>"
+            "text": "<p>Unione tra alta tecnologia e maestria artigianale. Composta da 14 coltelli da cucina, è il risultato della collaborazione tra KnIndustrie e Coltellerie Berti, che dal 1895 creano utensili di qualità con materiali pregiati e cura nei dettagli.</p>"
           }
         },
         "button_nRa76D": {
@@ -276,11 +276,11 @@
         "column_4PjnNt": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-home-sparky.webp",
+            "image": "shopify://shop_images/Knindustrie-coltelli-1.webp",
             "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://products/knindustrie-bicchiere-sparky-lara-caffi"
+            "text": "<h1>   KNINDUSTRE</h1>",
+            "link_label": "Coltelli da Cucina",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-coltelli-be-knife"
           }
         },
         "column_pkHkxr": {
