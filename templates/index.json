@@ -279,14 +279,14 @@
             "image": "shopify://shop_images/Knindustrie-coltelli-1.webp",
             "title": "",
             "text": "<h1>  <strong> KNINDUSTRIE</strong></h1>",
-            "link_label": "Coltelli da Cucina",
+            "link_label": "",
             "link": "shopify://collections/knindustrie-catalogo-prodotti-coltelli-be-knife"
           }
         },
         "column_pkHkxr": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/sparky-knindustrie-lara-caffi.webp",
+            "image": "shopify://shop_images/Knindustrie-coltelli.webp",
             "title": "",
             "text": "",
             "link_label": "",
