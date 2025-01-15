@@ -39,59 +39,10 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "image_banner_aiGNhX": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_qcBB8M": {
-          "type": "heading",
-          "settings": {
-            "heading": "Saldi di Gennaio",
-            "heading_size": "h0"
-          }
-        },
-        "text_DXix8M": {
-          "type": "text",
-          "settings": {
-            "text": "Sconti fino al -50%",
-            "text_style": "body"
-          }
-        },
-        "buttons_eA8cjd": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Vai alle promozioni!",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_qcBB8M",
-        "text_DXix8M",
-        "buttons_eA8cjd"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/pattern_circles-4_1_4_0-0_45_1__hsla_45_64_57_1.00__hsla_45_87_66_1.00.png",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
     "banner",
-    "product-grid",
-    "image_banner_aiGNhX"
+    "product-grid"
   ]
 }
