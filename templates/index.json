@@ -419,9 +419,9 @@
           "settings": {
             "image": "shopify://shop_images/brabantia_2b70c928-f5fb-48bb-8888-72a59507d256.webp",
             "title": "",
-            "text": "<h4><a href=\"/products/8174-brabantia-mindset-portascopino-da-bagno\" title=\"Brabantia MindSet Porta Scopino da appoggio - Bianco\"><strong>Brabantia</strong></a> - Portascopino</h4>",
+            "text": "<h4><a href=\"/products/8174-brabantia-mindset-portascopino-da-bagno\" title=\"Brabantia MindSet Porta Scopino da appoggio - Bianco\"><strong>Brabantia</strong> - Portascopino</a></h4>",
             "link_label": "",
-            "link": "shopify://collections/idee-regalo"
+            "link": "shopify://products/8174-brabantia-mindset-portascopino-da-bagno"
           }
         }
       },
