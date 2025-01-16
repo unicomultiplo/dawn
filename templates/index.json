@@ -288,7 +288,7 @@
           "settings": {
             "image": "shopify://shop_images/Knindustrie-coltelli.webp",
             "title": "",
-            "text": "<p>Coltelli da Cucina</p>",
+            "text": "",
             "link_label": "",
             "link": "shopify://products/knindustrie-bicchiere-sparky-lara-caffi"
           }
@@ -369,9 +369,9 @@
           "settings": {
             "image": "shopify://shop_images/estetico-quotidiano.webp",
             "title": "",
-            "text": "<h4><strong>Seletti -</strong> <a href=\"/collections/seletti-catalogo-prodotti-estetico-quotidiano\" title=\"Seletti estetico quotidiano\">Estetico</a> Quotidiano</h4>",
+            "text": "<h4><a href=\"/collections/seletti-catalogo-prodotti-estetico-quotidiano\" title=\"Seletti estetico quotidiano\"><strong>Seletti -</strong> Estetico Quotidiano</a></h4>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola"
+            "link": "shopify://collections/seletti-catalogo-prodotti-estetico-quotidiano"
           }
         },
         "column_RtQ7KC": {
