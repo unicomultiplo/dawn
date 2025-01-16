@@ -379,9 +379,9 @@
           "settings": {
             "image": "shopify://shop_images/KnIndustrie-1.webp",
             "title": "",
-            "text": "<h4><strong>KnIndustrie - </strong> Centrotavola <a href=\"/products/knindustrie-centrotavola-gastronomico-girevole-nero\" title=\"knIndustrie Centrotavola Gastronomico Girevole Nero\">Girevole</a></h4>",
+            "text": "<h4><a href=\"/products/knindustrie-centrotavola-gastronomico-girevole-nero\" title=\"knIndustrie Centrotavola Gastronomico Girevole Nero\"><strong>KnIndustrie - </strong> Centrotavola Girevole</a></h4>",
             "link_label": "",
-            "link": "shopify://collections/complementi-arredo"
+            "link": "shopify://products/knindustrie-centrotavola-gastronomico-girevole-nero"
           }
         },
         "column_kUiCKr": {
