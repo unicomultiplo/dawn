@@ -23,19 +23,8 @@
     },
     "rich_text_dYJErE": {
       "type": "rich-text",
-      "blocks": {
-        "text_UKDxp7": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut malesuada sagittis molestie. Donec risus enim, posuere sit amet fermentum at, laoreet ac dui. Phasellus at placerat est. Sed ullamcorper tortor sit amet purus rhoncus tempus.</p><p>Suspendisse placerat nec nunc facilisis imperdiet. Nam urna dui, lobortis at blandit et, tincidunt eu sem. Praesent blandit pulvinar nibh, eu congue felis maximus at. In tristique ligula tortor, malesuada laoreet nulla pellentesque at.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_UKDxp7"
-      ],
       "settings": {
-        "desktop_content_position": "center",
+        "desktop_content_position": "left",
         "content_alignment": "left",
         "color_scheme": "",
         "full_width": true,
@@ -49,8 +38,8 @@
         "collapsible_row_MbjJE4": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
+            "heading": "Chi è {Nome Cognome}",
+            "icon": "star",
             "row_content": "",
             "page": ""
           }
@@ -58,8 +47,8 @@
         "collapsible_row_BVRH8y": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
+            "heading": "Design e concept creativo di {Nome Cognome}",
+            "icon": "apple",
             "row_content": "",
             "page": ""
           }
@@ -67,17 +56,8 @@
         "collapsible_row_7CN3Cm": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "collapsible_row_6KgxVQ": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
+            "heading": "Le collaborazioni e creazioni di {Nome Cognome}",
+            "icon": "plane",
             "row_content": "",
             "page": ""
           }
@@ -86,8 +66,7 @@
       "block_order": [
         "collapsible_row_MbjJE4",
         "collapsible_row_BVRH8y",
-        "collapsible_row_7CN3Cm",
-        "collapsible_row_6KgxVQ"
+        "collapsible_row_7CN3Cm"
       ],
       "settings": {
         "caption": "",
@@ -96,10 +75,192 @@
         "heading_alignment": "left",
         "layout": "none",
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
-        "container_color_scheme": "",
+        "container_color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_RF6TrV": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_nAye3g": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brabantia-Utensili-da-cucina-in-legno-Set-di-3-2.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_q6PVyB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Jpseph-joseph-ceppo-coltelli.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_cm8WFx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/465962463_18471107104056974_3267756868417570209_n.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_nAye3g",
+        "column_q6PVyB",
+        "column_cm8WFx"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Etichetta pulsante",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_kLk7tr": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_K79dKM": {
+          "type": "heading",
+          "settings": {
+            "heading": "Chi è {Nome Cognome}",
+            "heading_size": "h1"
+          }
+        },
+        "text_8nRXke": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_wmQ9dx": {
+          "type": "button",
+          "settings": {
+            "button_label": "Etichetta pulsante",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_K79dKM",
+        "text_8nRXke",
+        "button_wmQ9dx"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_Qyzmw7": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_PGM9id": {
+          "type": "heading",
+          "settings": {
+            "heading": "Immagine con testo",
+            "heading_size": "h1"
+          }
+        },
+        "text_rNqcjC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_en6kXb": {
+          "type": "button",
+          "settings": {
+            "button_label": "Etichetta pulsante",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PGM9id",
+        "text_rNqcjC",
+        "button_en6kXb"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_CwPCKg": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_GDYPKY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-home_897879b6-c4e6-46b8-9539-f4b0c362f370_1.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_GDYPKY"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Etichetta pulsante",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -108,6 +269,10 @@
   "order": [
     "main",
     "rich_text_dYJErE",
-    "collapsible_content_LKk39r"
+    "collapsible_content_LKk39r",
+    "multicolumn_RF6TrV",
+    "image_with_text_kLk7tr",
+    "image_with_text_Qyzmw7",
+    "multicolumn_CwPCKg"
   ]
 }
