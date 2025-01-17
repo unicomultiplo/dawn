@@ -20,9 +20,44 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_dYJErE": {
+      "type": "rich-text",
+      "blocks": {
+        "text_UKDxp7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut malesuada sagittis molestie. Donec risus enim, posuere sit amet fermentum at, laoreet ac dui. Phasellus at placerat est. Sed ullamcorper tortor sit amet purus rhoncus tempus.</p><p>Suspendisse placerat nec nunc facilisis imperdiet. Nam urna dui, lobortis at blandit et, tincidunt eu sem. Praesent blandit pulvinar nibh, eu congue felis maximus at. In tristique ligula tortor, malesuada laoreet nulla pellentesque at.</p>"
+          }
+        },
+        "button_rpf86R": {
+          "type": "button",
+          "settings": {
+            "button_label": "Etichetta pulsante",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_UKDxp7",
+        "button_rpf86R"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "rich_text_dYJErE"
   ]
 }
