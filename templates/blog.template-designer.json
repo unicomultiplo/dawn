@@ -29,22 +29,10 @@
           "settings": {
             "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut malesuada sagittis molestie. Donec risus enim, posuere sit amet fermentum at, laoreet ac dui. Phasellus at placerat est. Sed ullamcorper tortor sit amet purus rhoncus tempus.</p><p>Suspendisse placerat nec nunc facilisis imperdiet. Nam urna dui, lobortis at blandit et, tincidunt eu sem. Praesent blandit pulvinar nibh, eu congue felis maximus at. In tristique ligula tortor, malesuada laoreet nulla pellentesque at.</p>"
           }
-        },
-        "button_rpf86R": {
-          "type": "button",
-          "settings": {
-            "button_label": "Etichetta pulsante",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
-        "text_UKDxp7",
-        "button_rpf86R"
+        "text_UKDxp7"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -54,10 +42,72 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "collapsible_content_LKk39r": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_MbjJE4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_BVRH8y": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_7CN3Cm": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_6KgxVQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_MbjJE4",
+        "collapsible_row_BVRH8y",
+        "collapsible_row_7CN3Cm",
+        "collapsible_row_6KgxVQ"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "rich_text_dYJErE"
+    "rich_text_dYJErE",
+    "collapsible_content_LKk39r"
   ]
 }
