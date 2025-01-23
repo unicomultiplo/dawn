@@ -45,7 +45,7 @@
         "custom_liquid_W3qmEe": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"feedaty_widget\" data-ver=\"2021\" data-id=\"6791fcc64fd07\" data-type=\"product\" data-variant=\"Striscia-full-nologo\" data-lang=\"all\" data-gui=\"all\" data-sku=\"{{ product.id }}\" data-snippets=\"4\"></div>"
+            "custom_liquid": "<div class=\"feedaty_widget\" data-ver=\"2021\" data-id=\"6791fcc64fd07\" data-type=\"product\" data-variant=\"Striscia-full-nologo\" data-lang=\"all\" data-gui=\"all\" data-sku=\"{{ product.id }}\" data-snippets=\"4\" style=\"padding-top: 15px; padding-bottom: 15px;\"></div>"
           }
         },
         "qty_disclaimer_6icb8M": {
