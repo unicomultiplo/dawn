@@ -71,7 +71,6 @@
         },
         "feedaty_official_merchant_widget_NUgJYx": {
           "type": "shopify://apps/feedaty-official/blocks/merchant-widget/1597c10b-7e15-4dee-9287-4aa2114f0e9c",
-          "disabled": true,
           "settings": {
             "merchant_code": "10215169",
             "data_variant": "200x150-3",
