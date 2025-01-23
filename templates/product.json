@@ -42,6 +42,14 @@
             "custom_liquid": "{% assign page_id = product.metafields.custom.scopri_composizione %}\n\n\n{% if page_id and pages[page_id] %}\n<div class=\"product__text inline-richtext\">\n<a href=\"{{ pages[page_id].url }}\">Curioso di conoscere meglio questa composizione? SCOPRI DI PIÚ </a>\n</div>\n{% endif %}"
           }
         },
+        "feedaty_official_product_widget_gfnKNE": {
+          "type": "shopify://apps/feedaty-official/blocks/product-widget/1597c10b-7e15-4dee-9287-4aa2114f0e9c",
+          "settings": {
+            "merchant_code": "10215169",
+            "data_variant": "Striscia-full-nologo",
+            "data_id": "selettore1"
+          }
+        },
         "qty_disclaimer_6icb8M": {
           "type": "qty_disclaimer",
           "settings": {}
@@ -91,6 +99,7 @@
         "price_XLK3Aj",
         "custom_liquid_tm8pXP",
         "custom_liquid_EJXmHi",
+        "feedaty_official_product_widget_gfnKNE",
         "qty_disclaimer_6icb8M",
         "variant_picker",
         "quantity_selector",
@@ -124,7 +133,7 @@
         "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h2>Scopri di più su {{ product.title }}</h2>\n{{ product.content }}\n</div>\n</section>",
         "color_scheme": "",
         "padding_top": 40,
-        "padding_bottom": 40
+        "padding_bottom": 20
       }
     },
     "related-products": {
@@ -141,7 +150,7 @@
         "show_vendor": false,
         "show_rating": false,
         "columns_mobile": "2",
-        "padding_top": 36,
+        "padding_top": 40,
         "padding_bottom": 28
       }
     }
