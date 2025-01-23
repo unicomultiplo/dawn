@@ -53,14 +53,6 @@
             "swatch_shape": "circle"
           }
         },
-        "feedaty_official_product_widget_mdkK4t": {
-          "type": "shopify://apps/feedaty-official/blocks/product-widget/1597c10b-7e15-4dee-9287-4aa2114f0e9c",
-          "settings": {
-            "merchant_code": "10215169",
-            "data_variant": "Striscia-full-alt",
-            "data_id": ""
-          }
-        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
@@ -70,6 +62,14 @@
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
+          }
+        },
+        "feedaty_official_product_widget_mdkK4t": {
+          "type": "shopify://apps/feedaty-official/blocks/product-widget/1597c10b-7e15-4dee-9287-4aa2114f0e9c",
+          "settings": {
+            "merchant_code": "10215169",
+            "data_variant": "Striscia-slim",
+            "data_id": ""
           }
         },
         "sku_C4aTJC": {
@@ -101,9 +101,9 @@
         "custom_liquid_EJXmHi",
         "qty_disclaimer_6icb8M",
         "variant_picker",
-        "feedaty_official_product_widget_mdkK4t",
         "quantity_selector",
         "buy_buttons",
+        "feedaty_official_product_widget_mdkK4t",
         "sku_C4aTJC",
         "description",
         "custom_liquid_zVHD4U"
