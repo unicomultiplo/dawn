@@ -46,14 +46,6 @@
           "type": "qty_disclaimer",
           "settings": {}
         },
-        "feedaty_official_product_widget_mdkK4t": {
-          "type": "shopify://apps/feedaty-official/blocks/product-widget/1597c10b-7e15-4dee-9287-4aa2114f0e9c",
-          "settings": {
-            "merchant_code": "10215169",
-            "data_variant": "Striscia-slim",
-            "data_id": "selettore1"
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -100,7 +92,6 @@
         "custom_liquid_tm8pXP",
         "custom_liquid_EJXmHi",
         "qty_disclaimer_6icb8M",
-        "feedaty_official_product_widget_mdkK4t",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
@@ -136,6 +127,25 @@
         "padding_bottom": 40
       }
     },
+    "1737621780be99d248": {
+      "type": "apps",
+      "blocks": {
+        "feedaty_official_product_tab_widget_afxRCW": {
+          "type": "shopify://apps/feedaty-official/blocks/product-tab-widget/1597c10b-7e15-4dee-9287-4aa2114f0e9c",
+          "settings": {
+            "merchant_code": "10215169",
+            "data_variant": "Recensioni-Verticale-Alternative",
+            "data_id": "selettore1"
+          }
+        }
+      },
+      "block_order": [
+        "feedaty_official_product_tab_widget_afxRCW"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -158,6 +168,7 @@
   "order": [
     "main",
     "custom_liquid_q83gja",
+    "1737621780be99d248",
     "related-products"
   ]
 }
