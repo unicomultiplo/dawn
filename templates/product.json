@@ -152,7 +152,7 @@
           "type": "shopify://apps/feedaty-official/blocks/product-tab-widget/1597c10b-7e15-4dee-9287-4aa2114f0e9c",
           "settings": {
             "merchant_code": "10215169",
-            "data_variant": "Recensioni-Verticale-40-60",
+            "data_variant": "Recensioni-Verticale-Mobile",
             "data_id": "selettore1"
           }
         }
