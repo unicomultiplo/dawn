@@ -53,6 +53,14 @@
             "swatch_shape": "circle"
           }
         },
+        "feedaty_official_product_widget_mdkK4t": {
+          "type": "shopify://apps/feedaty-official/blocks/product-widget/1597c10b-7e15-4dee-9287-4aa2114f0e9c",
+          "settings": {
+            "merchant_code": "10215169",
+            "data_variant": "Striscia-full-alt",
+            "data_id": ""
+          }
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
@@ -93,6 +101,7 @@
         "custom_liquid_EJXmHi",
         "qty_disclaimer_6icb8M",
         "variant_picker",
+        "feedaty_official_product_widget_mdkK4t",
         "quantity_selector",
         "buy_buttons",
         "sku_C4aTJC",
@@ -116,25 +125,6 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 12
-      }
-    },
-    "173762105923309f78": {
-      "type": "apps",
-      "blocks": {
-        "feedaty_official_product_widget_bYfpV4": {
-          "type": "shopify://apps/feedaty-official/blocks/product-widget/1597c10b-7e15-4dee-9287-4aa2114f0e9c",
-          "settings": {
-            "merchant_code": "10215169",
-            "data_variant": "Striscia-full-alt",
-            "data_id": ""
-          }
-        }
-      },
-      "block_order": [
-        "feedaty_official_product_widget_bYfpV4"
-      ],
-      "settings": {
-        "include_margins": true
       }
     },
     "custom_liquid_q83gja": {
@@ -167,7 +157,6 @@
   },
   "order": [
     "main",
-    "173762105923309f78",
     "custom_liquid_q83gja",
     "related-products"
   ]
