@@ -15,9 +15,52 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "rich_text_JKem9D": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_LYcez7": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_KAGh9m": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Eleganza e praticità si incontrano in un prodotto unico come la porcellana Bone China. Scopri tutto quello che c'è da sapere su questo materiale raffinato, dai suoi segreti alla cura, fino alle migliori collezioni disponibili.</p><h2> <strong>Cos'è la Bone China e Perché Tutti Ne Parlano?</strong></h2><p>La porcellana Bone China è considerata una delle più pregiate al mondo. Grazie alle sue caratteristiche distintive, è il materiale preferito per realizzare piatti, tazze e utensili eleganti.</p><h3> <strong>Cosa rende la Bone China così speciale?</strong></h3><p>Ecco i suoi principali punti di forza:</p><ul><li><strong>Traslucenza e brillantezza</strong>: la sua naturale trasparenza e lucentezza <strong>donano un aspetto raffinato.</strong></li><li><strong>Leggerezza e robustezza:</strong> sottile e delicata, ma incredibilmente resistente agli urti e alle alte temperature.</li><li><strong>Sensazione tattile unica</strong>: una superficie liscia e setosa che esalta il piacere di utilizzarla.</li><li><strong>Durata eccezionale</strong>: è progettata per resistere nel tempo, anche con un utilizzo quotidiano.</li></ul><p>Vuoi scoprire le differenze tra Bone China e porcellana tradizionale? Continua a leggere per una guida completa.</p><p><strong>Bone China vs Porcellan</strong>a Tradizionale: Quali Sono le Differenze?</p><ul><li>Le principali differenze tra Bone China e porcellana dura riguardano la composizione e le caratteristiche:</li></ul>"
+          }
+        },
+        "button_4NDVig": {
+          "type": "button",
+          "settings": {
+            "button_label": "Etichetta pulsante",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_LYcez7",
+        "text_KAGh9m",
+        "button_4NDVig"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "rich_text_JKem9D"
   ]
 }
