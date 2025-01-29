@@ -63,10 +63,10 @@
         "collapsible_row_ekFzpL"
       ],
       "settings": {
-        "caption": "Scopri la porcellana più raffinata e resistente, amata per la sua traslucenza e leggerezza. Ti guideremo alla scoperta della Bone China, dalle sue origini alla manutenzione perfetta, con consigli per l'acquisto.",
-        "heading": "Contenuto comprimibile",
-        "heading_size": "h1",
-        "heading_alignment": "center",
+        "caption": "",
+        "heading": "Scopri la porcellana più raffinata e resistente, amata per la sua traslucenza e leggerezza. Ti guideremo alla scoperta della Bone China, dalle sue origini alla manutenzione perfetta, con consigli per l'acquisto.",
+        "heading_size": "h2",
+        "heading_alignment": "left",
         "layout": "none",
         "color_scheme": "",
         "container_color_scheme": "",
@@ -77,9 +77,54 @@
         "padding_bottom": 36
       }
     },
+    "featured_collection_8kCVCG": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Esplora ora la collezione Bone China e aggiungi un tocco di classe alla tua tavola",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "subtitle",
+        "collection": "",
+        "products_to_show": 8,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "slideshow_DVCjVj": {
       "type": "slideshow",
       "blocks": {
+        "slide_XUiWQ8": {
+          "type": "slide",
+          "settings": {
+            "heading": "Slide immagine",
+            "heading_size": "h1",
+            "subheading": "Racconta la storia del tuo brand con video e immagini",
+            "button_label": "Etichetta pulsante",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_89iWfB": {
           "type": "slide",
           "settings": {
@@ -150,6 +195,7 @@
         }
       },
       "block_order": [
+        "slide_XUiWQ8",
         "slide_89iWfB",
         "slide_qqQP9B",
         "slide_9pMzPM",
@@ -196,7 +242,7 @@
         "text_gaAWX4": {
           "type": "text",
           "settings": {
-            "text": "<p>Vuoi conoscere di più sulla manutenzione della Bone China? Scopri come prendersene cura per preservarne la bellezza.</p><h4><strong>Come Riconoscere la Vera Bone China (H3)</strong></h4><ul><li><strong>Colore e trasparenza:</strong> presenta un caldo bagliore avorio visibile in controluce.</li><li><strong>Spessore e leggerezza:</strong> è più sottile e leggera rispetto alla porcellana tradizionale, ma altrettanto resistente.</li><li><strong>Prezzo:</strong> il costo è più elevato, data la complessità del processo produttivo e l'uso di materiali di alta qualità.</li></ul><p>Acquistare Bone China significa scegliere una qualità che dura nel tempo e un'eleganza senza pari. Esplora le collezioni di piatti Bone China disponibili nel nostro store.</p><h4><strong>H2 Un’Antica Tradizione di Eleganza: La Storia della Bone China</strong></h4><p>La Bone China è nata in Inghilterra nel XVIII secolo grazie a Josiah Spode II, che perfezionò la formula mescolando cenere d'ossa con caolino e feldspato. Questo materiale si affermò rapidamente come simbolo di prestigio tra le famiglie aristocratiche e reali. Oggi, la Bone China è ancora sinonimo di lusso e artigianalità.</p><p><strong>Curiosità:</strong> il termine \"China\" non si riferisce al paese d'origine, ma è un omaggio alla porcellana orientale che ispirò gli artigiani inglesi.</p><h4><strong>I Servizi di Piatti Bone China: Le Migliori Collezioni</strong></h4><p>Scopri le collezioni più affascinanti disponibili:</p><ul><li><strong>Seletti \"Hybrid\":</strong> accostamenti audaci di decorazioni orientali e occidentali, ideali per una tavola dal design unico.</li><li><strong>Bitossi \"Minimal\" e \"Bon Ton\":</strong> semplicità raffinata e linee eleganti per un'estetica senza tempo.</li><li><strong>KnIndustrie:</strong> innovazione e creatività con collezioni come \"ShabbyChic,\" ispirata alle stoviglie vintage, e \"Armonia-Oro,\" perfetta per occasioni speciali grazie ai dettagli dorati.</li></ul><p>Scopri le collezioni Bone China di Bitossi nel nostro e-commerce e lasciati ispirare per la tua tavola.</p><h4><strong>Come Usare e Conservare la Bone China (Senza Paura di Rovinarla)</strong></h4><p>Per mantenere la tua Bone China splendida nel tempo:</p><ol><li><strong>Lavaggio a mano:</strong> preferibile per preservare decorazioni delicate o finiture in oro/argento.</li><li><strong>Uso in lavastoviglie:</strong> consentito per molti modelli moderni, ma scegli programmi delicati e detergenti non abrasivi.</li><li><strong>Asciugatura:</strong> usa un panno morbido per evitare macchie e preservare la lucentezza.</li><li><strong>Conservazione:</strong> impila i pezzi separandoli con feltro o carta velina per evitare graffi.</li></ol><p>Consulta la nostra guida completa per la manutenzione della Bone China.</p><h4><strong>Conclusioni: Perché Scegliere la Bone China</strong></h4><p>La Bone China non è solo una scelta di eleganza, ma anche un investimento nella qualità e nella tradizione artigianale. Che tu stia apparecchiando una tavola per un evento speciale o cercando pezzi di design per il tuo quotidiano, questo materiale è sinonimo di raffinatezza e durata.</p><p><strong>CTA:</strong></p><ul><li>Scopri ora le collezioni Bone China disponibili nel nostro store e rendi la tua tavola unica.</li><li>Hai domande o esperienze da condividere? Lascia un commento qui sotto o contattaci!</li></ul><p>Con la giusta cura e attenzione, la Bone China resterà parte della tua casa per anni, portando con sé una storia di bellezza, tradizione e innovazione.</p>"
+            "text": "<p>Vuoi conoscere di più sulla manutenzione della Bone China? Scopri come prendersene cura per preservarne la bellezza.</p><h3><strong>Come Riconoscere la Vera Bone China </strong></h3><ul><li><strong>Colore e trasparenza:</strong> presenta un caldo bagliore avorio visibile in controluce.</li><li><strong>Spessore e leggerezza:</strong> è più sottile e leggera rispetto alla porcellana tradizionale, ma altrettanto resistente.</li><li><strong>Prezzo:</strong> il costo è più elevato, data la complessità del processo produttivo e l'uso di materiali di alta qualità.</li></ul><p>Acquistare Bone China significa scegliere una qualità che dura nel tempo e un'eleganza senza pari. Esplora le collezioni di piatti Bone China disponibili nel nostro store.</p><h2><strong>Un’Antica Tradizione di Eleganza: La Storia della Bone China</strong></h2><p>La Bone China è nata in Inghilterra nel XVIII secolo grazie a Josiah Spode II, che perfezionò la formula mescolando cenere d'ossa con caolino e feldspato. Questo materiale si affermò rapidamente come simbolo di prestigio tra le famiglie aristocratiche e reali. Oggi, la Bone China è ancora sinonimo di lusso e artigianalità.</p><p><strong>Curiosità:</strong> il termine \"China\" non si riferisce al paese d'origine, ma è un omaggio alla porcellana orientale che ispirò gli artigiani inglesi.</p><h2><strong>I Servizi di Piatti Bone China: Le Migliori Collezioni</strong></h2><p>Scopri le collezioni più affascinanti disponibili:</p><ul><li><strong>Seletti \"Hybrid\":</strong> accostamenti audaci di decorazioni orientali e occidentali, ideali per una tavola dal design unico.</li><li><strong>Bitossi \"Minimal\" e \"Bon Ton\":</strong> semplicità raffinata e linee eleganti per un'estetica senza tempo.</li><li><strong>KnIndustrie:</strong> innovazione e creatività con collezioni come \"ShabbyChic,\" ispirata alle stoviglie vintage, e \"Armonia-Oro,\" perfetta per occasioni speciali grazie ai dettagli dorati.</li></ul><p>Scopri le collezioni Bone China di Bitossi nel nostro e-commerce e lasciati ispirare per la tua tavola.</p><h2><strong>Come Usare e Conservare la Bone China (Senza Paura di Rovinarla)</strong></h2><p>Per mantenere la tua Bone China splendida nel tempo:</p><ol><li><strong>Lavaggio a mano:</strong> preferibile per preservare decorazioni delicate o finiture in oro/argento.</li><li><strong>Uso in lavastoviglie:</strong> consentito per molti modelli moderni, ma scegli programmi delicati e detergenti non abrasivi.</li><li><strong>Asciugatura:</strong> usa un panno morbido per evitare macchie e preservare la lucentezza.</li><li><strong>Conservazione:</strong> impila i pezzi separandoli con feltro o carta velina per evitare graffi.</li></ol><p>Consulta la nostra guida completa per la manutenzione della Bone China.</p><h2><strong>Conclusioni: Perché Scegliere la Bone China</strong></h2><p>La Bone China non è solo una scelta di eleganza, ma anche un investimento nella qualità e nella tradizione artigianale. Che tu stia apparecchiando una tavola per un evento speciale o cercando pezzi di design per il tuo quotidiano, questo materiale è sinonimo di raffinatezza e durata.</p><h2><em>Scopri ora le collezioni Bone China disponibili nel nostro store e rendi la tua tavola unica.</em></h2><h2><em>Hai domande o esperienze da condividere? Lascia un commento qui sotto o contattaci!</em></h2><p>Con la giusta cura e attenzione, la Bone China resterà parte della tua casa per anni, portando con sé una storia di bellezza, tradizione e innovazione.</p>"
           }
         }
       },
@@ -219,6 +265,7 @@
   "order": [
     "main",
     "collapsible_content_3mR8qA",
+    "featured_collection_8kCVCG",
     "slideshow_DVCjVj",
     "rich_text_JKem9D"
   ]
