@@ -11,8 +11,28 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_xxGrrA": {
+      "type": "multicolumn",
+      "settings": {
+        "title": "Bone China: Scopri la Porcellana Più Elegante per la Tua Tavola",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
         "padding_bottom": 0
       }
     },
@@ -278,6 +298,7 @@
   },
   "order": [
     "main",
+    "multicolumn_xxGrrA",
     "multicolumn_VR4EHF",
     "multicolumn_6fXjNw",
     "multicolumn_T79FP8",
