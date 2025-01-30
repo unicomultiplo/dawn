@@ -150,22 +150,22 @@
         "heading_q7gRMd": {
           "type": "heading",
           "settings": {
-            "heading": "Seletti",
+            "heading": "Saldi di Gennaio",
             "heading_size": "hxl"
           }
         },
         "text_dPHyUN": {
           "type": "text",
           "settings": {
-            "text": "Tutti gli articoli in promozione",
+            "text": "Sconti fino al 50%",
             "text_style": "body"
           }
         },
         "buttons_NhU4Ey": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Clicca Qui!",
-            "button_link_1": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending#shopify-section-template--23127397794057__product-grid",
+            "button_label_1": "Vai alla promozione",
+            "button_link_1": "https://www.unicoemultiplo.com/collections/offerte-e-promo",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -179,7 +179,7 @@
         "buttons_NhU4Ey"
       ],
       "settings": {
-        "image": "shopify://shop_images/header-2.webp",
+        "image": "shopify://shop_images/saldi-gennaio-u_m-50.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
