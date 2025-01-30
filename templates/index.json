@@ -17,7 +17,7 @@
           "settings": {
             "image": "shopify://shop_images/SanValentino.webp",
             "heading": "San Valentino 2025",
-            "heading_size": "hxl",
+            "heading_size": "hxxl",
             "subheading": "",
             "button_label": "Scegli con Amore",
             "link": "shopify://collections/offerte-e-promo",
@@ -26,7 +26,7 @@
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
+            "color_scheme": "scheme-5152f450-2781-4fd5-8e48-921adbaa0cbc",
             "text_alignment_mobile": "center"
           }
         }
