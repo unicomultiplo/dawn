@@ -229,21 +229,21 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_bEDH9B": {
+    "multicolumn_eQWbbm": {
       "type": "multicolumn",
       "blocks": {
-        "column_qiUGK3": {
+        "column_QUFVJ3": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><em>🔎 </em><em><strong>Perché la Bone China è così Trasparente? Il Segreto della sua Eleganza</strong></em></p><p><em>✔️ </em><em><strong>Cottura ad alte temperature</strong></em><em>: viene sottoposta a una fusione tra </em><em><strong>1200 e 1400°C</strong></em><em>, che vetrifica i materiali, rendendola quasi vetrosa nell’aspetto e nella consistenza. Questo le conferisce </em><em><strong>lucentezza, resistenza e traslucenza</strong></em><em>.</em></p>",
+            "text": "<p><em>📌 </em><em><strong>Cos'è la Bone China? </strong></em><em>La </em><em><strong>Bone China</strong></em><em> è una delle</em><em><strong> porcellane più pregiate al mondo</strong></em><em>, apprezzata per la sua trasparenza, brillantezza e resistenza. Il suo segreto? Un'innovativa composizione che la rendono incredibilmente </em><em><strong>leggera ma resistente</strong></em><em>.</em></p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "column_qiUGK3"
+        "column_QUFVJ3"
       ],
       "settings": {
         "title": "",
@@ -304,7 +304,7 @@
         "section_color_scheme": "",
         "color_scheme": "",
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -325,11 +325,20 @@
             "text": "<h3></h3><p>Le principali differenze tra Bone China e porcellana dura riguardano la composizione e le caratteristiche:<br/><br/><a href=\"https://cdn.shopify.com/s/files/1/0839/3808/3081/files/bone-china-caratteristiche-composizione.pdf?v=1738175118\" title=\"https://cdn.shopify.com/s/files/1/0839/3808/3081/files/bone-china-caratteristiche-composizione.pdf?v=1738175118\">COMPOSIZIONE E CARATTERISTICHE</a></p><h3><strong>Come Riconoscere la Vera Bone China </strong></h3><p></p><ul><li><strong>Colore e trasparenza:</strong> presenta un caldo bagliore avorio visibile in controluce.</li><li><strong>Spessore e leggerezza:</strong> è più sottile e leggera rispetto alla porcellana tradizionale, ma altrettanto resistente.</li><li><strong>Prezzo:</strong> il costo è più elevato, data la complessità del processo produttivo e l'uso di materiali di alta qualità.</li></ul><p>Acquistare Bone China significa scegliere una qualità che dura nel tempo e un'eleganza senza pari. Esplora le collezioni di piatti Bone China disponibili nel nostro store.</p>",
             "text_style": "body"
           }
+        },
+        "button_38tNj6": {
+          "type": "button",
+          "settings": {
+            "button_label": "Etichetta pulsante",
+            "button_link": "",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
         "heading_TfAYbB",
-        "text_JmwQRX"
+        "text_JmwQRX",
+        "button_38tNj6"
       ],
       "settings": {
         "image": "shopify://shop_images/wonton-appetizer.jpg",
@@ -342,26 +351,26 @@
         "section_color_scheme": "",
         "color_scheme": "",
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "multicolumn_eQWbbm": {
+    "multicolumn_bEDH9B": {
       "type": "multicolumn",
       "blocks": {
-        "column_QUFVJ3": {
+        "column_qiUGK3": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><em>📌 </em><em><strong>Cos'è la Bone China? </strong></em><em>La </em><em><strong>Bone China</strong></em><em> è una delle</em><em><strong> porcellane più pregiate al mondo</strong></em><em>, apprezzata per la sua trasparenza, brillantezza e resistenza. Il suo segreto? Un'innovativa composizione che la rendono incredibilmente </em><em><strong>leggera ma resistente</strong></em><em>.</em></p>",
+            "text": "<p><em>🔎</em><em><strong> Il Segreto della Bone China?</strong></em></p><p><em>✔️ </em><em><strong>Cottura ad alte temperature</strong></em><em>: viene sottoposta a una fusione tra </em><em><strong>1200 e 1400°C</strong></em><em>, che vetrifica i materiali, rendendola quasi vetrosa nell’aspetto e nella consistenza. Questo le conferisce </em><em><strong>lucentezza, resistenza e traslucenza</strong></em><em>.</em></p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "column_QUFVJ3"
+        "column_qiUGK3"
       ],
       "settings": {
         "title": "",
@@ -390,17 +399,6 @@
             "heading_size": "h1"
           }
         },
-        "button_LhbQBE": {
-          "type": "button",
-          "settings": {
-            "button_label": "Composizione e caratteristiche Bone china",
-            "button_link": "https://cdn.shopify.com/s/files/1/0839/3808/3081/files/bone-china-caratteristiche-composizione.pdf?v=1738175118",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
         "text_gaAWX4": {
           "type": "text",
           "settings": {
@@ -410,7 +408,6 @@
       },
       "block_order": [
         "heading_LYcez7",
-        "button_LhbQBE",
         "text_gaAWX4"
       ],
       "settings": {
