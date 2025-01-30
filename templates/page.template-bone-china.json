@@ -36,6 +36,22 @@
         "padding_bottom": 0
       }
     },
+    "image_banner_VC4GDe": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Bone-China.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "multicolumn_VR4EHF": {
       "type": "multicolumn",
       "blocks": {
@@ -299,6 +315,7 @@
   "order": [
     "main",
     "multicolumn_xxGrrA",
+    "image_banner_VC4GDe",
     "multicolumn_VR4EHF",
     "multicolumn_6fXjNw",
     "multicolumn_T79FP8",
