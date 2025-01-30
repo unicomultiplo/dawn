@@ -46,12 +46,42 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_bN6gr3": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>I Servizi di Piatti Bone China: Le Migliori Collezioni</strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Ey4w4m": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Come Usare e Conservare la Bone China (Senza Paura di Rovinarla)</strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_bnrgcr": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Conclusioni: Perché Scegliere la Bone China</strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_LnRFgT",
         "column_dMLix7",
-        "column_fkMzE8"
+        "column_fkMzE8",
+        "column_bN6gr3",
+        "column_Ey4w4m",
+        "column_bnrgcr"
       ],
       "settings": {
         "title": "Bone China: Scopri la Porcellana Più Elegante per la Tua Tavola",
