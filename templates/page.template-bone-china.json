@@ -209,8 +209,8 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "knindustrie-catalogo-prodotti-piatti",
-        "products_to_show": 15,
+        "collection": "offerte-e-promo",
+        "products_to_show": 10,
         "columns_desktop": 6,
         "full_width": true,
         "show_view_all": true,
@@ -275,7 +275,7 @@
         "text_yatCWr": {
           "type": "text",
           "settings": {
-            "text": "<p>Eleganza e praticità si incontrano in un prodotto unico come la porcellana Bone China. </p><p>La porcellana Bone China è considerata una delle più pregiate al mondo. Grazie alle sue caratteristiche distintive, è il materiale preferito per realizzare piatti, tazze e utensili eleganti.</p><h3><strong>Cosa rende la Bone China così speciale?</strong></h3><p>Ecco i suoi principali punti di forza:</p><ul><li><strong>Traslucenza e brillantezza</strong>: la sua naturale trasparenza e lucentezza <strong>donano un aspetto raffinato.</strong></li><li><strong>Leggerezza e robustezza:</strong> sottile e delicata, ma incredibilmente resistente agli urti e alle alte temperature.</li><li><strong>Sensazione tattile unica</strong>: una superficie liscia e setosa che esalta il piacere di utilizzarla.</li><li><strong>Durata eccezionale</strong>: è progettata per resistere nel tempo, anche con un utilizzo quotidiano.</li></ul><p>Vuoi scoprire le differenze tra Bone China e porcellana tradizionale? Continua a leggere per una guida completa.</p>",
+            "text": "<p>Eleganza e praticità si incontrano in un prodotto unico come la porcellana Bone China. <br/>La porcellana Bone China è considerata una delle più pregiate al mondo. Grazie alle sue caratteristiche distintive, è il materiale preferito per realizzare piatti, tazze e utensili eleganti.</p><h3><strong>Cosa rende la Bone China così speciale?</strong></h3><p>Ecco i suoi principali punti di forza:</p><ul><li><strong>Traslucenza e brillantezza</strong>: la sua naturale trasparenza e lucentezza <strong>donano un aspetto raffinato.</strong></li><li><strong>Leggerezza e robustezza:</strong> sottile e delicata, ma incredibilmente resistente agli urti e alle alte temperature.</li><li><strong>Sensazione tattile unica</strong>: una superficie liscia e setosa che esalta il piacere di utilizzarla.</li><li><strong>Durata eccezionale</strong>: è progettata per resistere nel tempo, anche con un utilizzo quotidiano.</li></ul><p>Vuoi scoprire le differenze tra Bone China e porcellana tradizionale? Continua a leggere per una guida completa.</p>",
             "text_style": "body"
           }
         },
@@ -309,6 +309,53 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_CBxYKc": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_TfAYbB": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Bone China vs Porcellana Tradizionale: Quali Sono le Differenze?</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_JmwQRX": {
+          "type": "text",
+          "settings": {
+            "text": "<h3></h3><p>Le principali differenze tra Bone China e porcellana dura riguardano la composizione e le caratteristiche:</p>",
+            "text_style": "body"
+          }
+        },
+        "button_cmLWdn": {
+          "type": "button",
+          "settings": {
+            "button_label": "Esplora ora le collezioni Bone China",
+            "button_link": "",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_TfAYbB",
+        "text_JmwQRX",
+        "button_cmLWdn"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/wonton-appetizer.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_JKem9D": {
       "type": "rich-text",
       "blocks": {
@@ -322,7 +369,7 @@
         "text_KAGh9m": {
           "type": "text",
           "settings": {
-            "text": "<p></p><h2><strong>Cos'è la Bone China e Perché Tutti Ne Parlano?</strong></h2><p>La porcellana Bone China è considerata una delle più pregiate al mondo. Grazie alle sue caratteristiche distintive, è il materiale preferito per realizzare piatti, tazze e utensili eleganti.</p><h3><strong>Cosa rende la Bone China così speciale?</strong></h3><p>Ecco i suoi principali punti di forza:</p><ul><li><strong>Traslucenza e brillantezza</strong>: la sua naturale trasparenza e lucentezza <strong>donano un aspetto raffinato.</strong></li><li><strong>Leggerezza e robustezza:</strong> sottile e delicata, ma incredibilmente resistente agli urti e alle alte temperature.</li><li><strong>Sensazione tattile unica</strong>: una superficie liscia e setosa che esalta il piacere di utilizzarla.</li><li><strong>Durata eccezionale</strong>: è progettata per resistere nel tempo, anche con un utilizzo quotidiano.</li></ul><p>Vuoi scoprire le differenze tra Bone China e porcellana tradizionale? Continua a leggere per una guida completa.</p><h3><strong>Bone China vs Porcellana Tradizionale: Quali Sono le Differenze?</strong></h3><p>Le principali differenze tra Bone China e porcellana dura riguardano la composizione e le caratteristiche:</p>"
+            "text": "<p></p><h2><strong>Cos'è la Bone China e Perché Tutti Ne Parlano?</strong></h2><p>La porcellana Bone China è considerata una delle più pregiate al mondo. Grazie alle sue caratteristiche distintive, è il materiale preferito per realizzare piatti, tazze e utensili eleganti.</p><h3><strong>Cosa rende la Bone China così speciale?</strong></h3><p>Ecco i suoi principali punti di forza:</p><ul><li><strong>Traslucenza e brillantezza</strong>: la sua naturale trasparenza e lucentezza <strong>donano un aspetto raffinato.</strong></li><li><strong>Leggerezza e robustezza:</strong> sottile e delicata, ma incredibilmente resistente agli urti e alle alte temperature.</li><li><strong>Sensazione tattile unica</strong>: una superficie liscia e setosa che esalta il piacere di utilizzarla.</li><li><strong>Durata eccezionale</strong>: è progettata per resistere nel tempo, anche con un utilizzo quotidiano.</li></ul><p>Vuoi scoprire le differenze tra Bone China e porcellana tradizionale? Continua a leggere per una guida completa.</p><p></p>"
           }
         },
         "button_LhbQBE": {
@@ -369,6 +416,7 @@
     "featured_collection_8kCVCG",
     "multicolumn_bEDH9B",
     "image_with_text_LCL7jb",
+    "image_with_text_CBxYKc",
     "rich_text_JKem9D"
   ]
 }
