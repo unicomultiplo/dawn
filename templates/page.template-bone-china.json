@@ -236,7 +236,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><em>📌 </em><em><strong>Cos'è la Bone China? </strong></em><em>La </em><em><strong>Bone China</strong></em><em> è una delle</em><em><strong> porcellane più pregiate al mondo</strong></em><em>, apprezzata per la sua trasparenza, brillantezza e resistenza. Il suo segreto? Un'innovativa composizione che la rendono incredibilmente </em><em><strong>leggera ma resistente</strong></em><em>.</em></p>",
+            "text": "<p><em>🔎 </em><em><strong>Perché la Bone China è così Trasparente? Il Segreto della sua Eleganza</strong></em></p><p><em>✔️ </em><em><strong>Cottura ad alte temperature</strong></em><em>: viene sottoposta a una fusione tra </em><em><strong>1200 e 1400°C</strong></em><em>, che vetrifica i materiali, rendendola quasi vetrosa nell’aspetto e nella consistenza. Questo le conferisce </em><em><strong>lucentezza, resistenza e traslucenza</strong></em><em>.</em></p>",
             "link_label": "",
             "link": ""
           }
@@ -347,6 +347,39 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_eQWbbm": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_QUFVJ3": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><em>📌 </em><em><strong>Cos'è la Bone China? </strong></em><em>La </em><em><strong>Bone China</strong></em><em> è una delle</em><em><strong> porcellane più pregiate al mondo</strong></em><em>, apprezzata per la sua trasparenza, brillantezza e resistenza. Il suo segreto? Un'innovativa composizione che la rendono incredibilmente </em><em><strong>leggera ma resistente</strong></em><em>.</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_QUFVJ3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_JKem9D": {
       "type": "rich-text",
       "blocks": {
@@ -398,9 +431,10 @@
     "multicolumn_6fXjNw",
     "multicolumn_T79FP8",
     "featured_collection_8kCVCG",
-    "multicolumn_bEDH9B",
+    "multicolumn_eQWbbm",
     "image_with_text_LCL7jb",
     "image_with_text_CBxYKc",
+    "multicolumn_bEDH9B",
     "rich_text_JKem9D"
   ]
 }
