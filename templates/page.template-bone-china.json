@@ -24,7 +24,7 @@
           "settings": {
             "heading": "Cos'è la Bone China e Perché Tutti Ne Parlano?",
             "icon": "eye",
-            "row_content": "<p><a href=\"https://www.unicoemultiplo.com/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola?#shopify-section-template--23360006586633__rich_text_JKem9D\" title=\"https://www.unicoemultiplo.com/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola?#shopify-section-template--23360006586633__rich_text_JKem9D\">LEGGI DI PIù</a></p>",
+            "row_content": "<p><a href=\"https://www.unicoemultiplo.com/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola?#shopify-section-template--23360006586633__rich_text_JKem9D\" title=\"https://www.unicoemultiplo.com/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola?#shopify-section-template--23360006586633__rich_text_JKem9D\">LEGGI DI PIù<br/><br/></a></p><h2><strong>Cos'è la Bone China e Perché Tutti Ne Parlano?</strong></h2><p>La porcellana Bone China è considerata una delle più pregiate al mondo. Grazie alle sue caratteristiche distintive, è il materiale preferito per realizzare piatti, tazze e utensili eleganti.</p><h3><strong>Cosa rende la Bone China così speciale?</strong></h3><p>Ecco i suoi principali punti di forza:</p><ul><li><strong>Traslucenza e brillantezza</strong>: la sua naturale trasparenza e lucentezza <strong>donano un aspetto raffinato.</strong></li><li><strong>Leggerezza e robustezza:</strong> sottile e delicata, ma incredibilmente resistente agli urti e alle alte temperature.</li><li><strong>Sensazione tattile unica</strong>: una superficie liscia e setosa che esalta il piacere di utilizzarla.</li><li><strong>Durata eccezionale</strong>: è progettata per resistere nel tempo, anche con un utilizzo quotidiano.</li></ul><p>Vuoi scoprire le differenze tra Bone China e porcellana tradizionale? Continua a leggere per una guida completa.</p>",
             "page": ""
           }
         },
@@ -33,7 +33,7 @@
           "settings": {
             "heading": "Bone China vs Porcellana Tradizionale",
             "icon": "eye",
-            "row_content": "",
+            "row_content": "<h3><strong>Bone China vs Porcellana Tradizionale: Quali Sono le Differenze?</strong></h3><p>Le principali differenze tra Bone China e porcellana dura riguardano la composizione e le caratteristiche:</p><p></p>",
             "page": ""
           }
         },
@@ -100,7 +100,7 @@
         "layout": "row",
         "color_scheme": "scheme-1",
         "container_color_scheme": "",
-        "open_first_collapsible_row": true,
+        "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "padding_top": 0,
