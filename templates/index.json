@@ -15,18 +15,18 @@
         "slide_NWJFHf": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/pattern_circles-4_1_4_0-0_45_1__hsla_45_64_57_1.00__hsla_45_87_66_1.00.png",
-            "heading": "Saldi di Gennaio",
+            "image": "shopify://shop_images/SanValentino.webp",
+            "heading": "San Valentino 2025",
             "heading_size": "hxl",
-            "subheading": "Sconti fino al -50%",
-            "button_label": "Vai alle promozioni!",
+            "subheading": "",
+            "button_label": "Scegli con Amore",
             "link": "shopify://collections/offerte-e-promo",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+            "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
         }
