@@ -200,7 +200,7 @@
         "description": "",
         "show_description": false,
         "description_style": "uppercase",
-        "collection": "seletti",
+        "collection": "offerte-e-promo",
         "products_to_show": 15,
         "columns_desktop": 6,
         "full_width": true,
