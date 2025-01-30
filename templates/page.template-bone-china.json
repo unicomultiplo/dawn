@@ -16,6 +16,59 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_6fXjNw": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_LnRFgT": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Cos'è la Bone China e Perché Tutti Ne Parlano?</strong>",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola?#shopify-section-template--23360006586633__rich_text_JKem9D"
+          }
+        },
+        "column_dMLix7": {
+          "type": "column",
+          "settings": {
+            "title": "Colonna",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_fkMzE8": {
+          "type": "column",
+          "settings": {
+            "title": "Colonna",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_LnRFgT",
+        "column_dMLix7",
+        "column_fkMzE8"
+      ],
+      "settings": {
+        "title": "Scopri la porcellana più raffinata e resistente, amata per la sua traslucenza e leggerezza. Ti guideremo alla scoperta della Bone China, dalle sue origini alla manutenzione perfetta, con consigli per l'acquisto.",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Etichetta pulsante",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collapsible_content_3mR8qA": {
       "type": "collapsible-content",
       "blocks": {
@@ -94,7 +147,7 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "Scopri la porcellana più raffinata e resistente, amata per la sua traslucenza e leggerezza. Ti guideremo alla scoperta della Bone China, dalle sue origini alla manutenzione perfetta, con consigli per l'acquisto.",
+        "heading": "",
         "heading_size": "h2",
         "heading_alignment": "left",
         "layout": "row",
@@ -327,6 +380,7 @@
   },
   "order": [
     "main",
+    "multicolumn_6fXjNw",
     "collapsible_content_3mR8qA",
     "multicolumn_VR4EHF",
     "featured_collection_8kCVCG",
