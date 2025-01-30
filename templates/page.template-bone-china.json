@@ -11,10 +11,42 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "padding_top": 20,
         "padding_bottom": 0
+      }
+    },
+    "multicolumn_VR4EHF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_7QAYWz": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>🎯 <em>Acquistare </em><em><strong>Bone China</strong></em><em> significa </em><em><strong>investire </strong></em><em>in un materiale di lusso, elegante e resistente, perfetto per chi ama una tavola raffinata e </em><em><strong>senza tempo</strong></em><em>.</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_7QAYWz"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn_6fXjNw": {
@@ -84,14 +116,14 @@
         "column_bnrgcr"
       ],
       "settings": {
-        "title": "Bone China: Scopri la Porcellana Più Elegante per la Tua Tavola",
-        "heading_size": "h1",
+        "title": "Ti guideremo alla scoperta della Bone China, dalle sue origini alla manutenzione perfetta, con consigli per l'acquisto.",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Etichetta pulsante",
+        "button_label": "Esplora ora le collezioni Bone China",
         "button_link": "",
         "color_scheme": "scheme-2",
         "columns_mobile": "1",
@@ -100,112 +132,21 @@
         "padding_bottom": 36
       }
     },
-    "collapsible_content_3mR8qA": {
-      "type": "collapsible-content",
-      "blocks": {
-        "collapsible_row_W9q7mM": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Cos'è la Bone China e Perché Tutti Ne Parlano?",
-            "icon": "eye",
-            "row_content": "<p><a href=\"https://www.unicoemultiplo.com/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola?#shopify-section-template--23360006586633__rich_text_JKem9D\" title=\"https://www.unicoemultiplo.com/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola?#shopify-section-template--23360006586633__rich_text_JKem9D\">LEGGI DI PIù<br/><br/></a></p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_tJ8NzX": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Bone China vs Porcellana Tradizionale",
-            "icon": "eye",
-            "row_content": "<h3><strong>Bone China vs Porcellana Tradizionale: Quali Sono le Differenze?</strong></h3><p>Le principali differenze tra Bone China e porcellana dura riguardano la composizione e le caratteristiche:</p><p></p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_FUCqRC": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Come Riconoscere la Vera Bone China",
-            "icon": "eye",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "collapsible_row_ekFzpL": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Come Riconoscere la Vera Bone China",
-            "icon": "eye",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "collapsible_row_tQ8trt": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "I Servizi di Piatti Bone China: Le Migliori Collezioni",
-            "icon": "eye",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "collapsible_row_PENRAB": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Come Usare e Conservare la Bone China (Senza Paura di Rovinarla)",
-            "icon": "eye",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "collapsible_row_tbF8aq": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Perché Scegliere la Bone China",
-            "icon": "eye",
-            "row_content": "",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_row_W9q7mM",
-        "collapsible_row_tJ8NzX",
-        "collapsible_row_FUCqRC",
-        "collapsible_row_ekFzpL",
-        "collapsible_row_tQ8trt",
-        "collapsible_row_PENRAB",
-        "collapsible_row_tbF8aq"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "",
-        "heading_size": "h2",
-        "heading_alignment": "left",
-        "layout": "row",
-        "color_scheme": "scheme-1",
-        "container_color_scheme": "",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn_VR4EHF": {
+    "multicolumn_T79FP8": {
       "type": "multicolumn",
       "blocks": {
-        "column_7QAYWz": {
+        "column_K74rHL": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>🎯 <em>Acquistare Bone China significa investire in un materiale di lusso, elegante e resistente, perfetto per chi ama una tavola raffinata e senza tempo.</em></p>",
+            "text": "<p><em>💡 </em><em><strong>Lo sapevi?</strong></em><em> Nonostante la delicatezza del suo aspetto,</em><em><strong> la Bone China è più resistente della porcellana tradizionale,</strong></em><em> il che la rende perfetta per un uso quotidiano sofisticato.</em></p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "column_7QAYWz"
+        "column_K74rHL"
       ],
       "settings": {
         "title": "",
@@ -252,111 +193,37 @@
         "padding_bottom": 36
       }
     },
-    "slideshow_DVCjVj": {
-      "type": "slideshow",
+    "multicolumn_bEDH9B": {
+      "type": "multicolumn",
       "blocks": {
-        "slide_XUiWQ8": {
-          "type": "slide",
+        "column_qiUGK3": {
+          "type": "column",
           "settings": {
-            "heading": "Slide immagine",
-            "heading_size": "h1",
-            "subheading": "Racconta la storia del tuo brand con video e immagini",
-            "button_label": "Etichetta pulsante",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_89iWfB": {
-          "type": "slide",
-          "settings": {
-            "heading": "Slide immagine",
-            "heading_size": "h1",
-            "subheading": "Racconta la storia del tuo brand con video e immagini",
-            "button_label": "Etichetta pulsante",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_qqQP9B": {
-          "type": "slide",
-          "settings": {
-            "heading": "Slide immagine",
-            "heading_size": "h1",
-            "subheading": "Racconta la storia del tuo brand con video e immagini",
-            "button_label": "Etichetta pulsante",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_9pMzPM": {
-          "type": "slide",
-          "settings": {
-            "heading": "<strong>Bone China</strong>",
-            "heading_size": "h0",
-            "subheading": "Esplora ora la collezione Bone China  aggiungi un tocco di classe alla tua tavola.",
-            "button_label": "Vai ai prodotti",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_86DnDw": {
-          "type": "slide",
-          "settings": {
-            "heading": "Slide immagine",
-            "heading_size": "h1",
-            "subheading": "Racconta la storia del tuo brand con video e immagini",
-            "button_label": "Etichetta pulsante",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
+            "title": "",
+            "text": "<p><em>📌 </em><em><strong>Cos'è la Bone China?</strong></em></p><p><em>La </em><em><strong>Bone China</strong></em><em> è una delle</em><em><strong> porcellane più pregiate al mondo</strong></em><em>, apprezzata per la sua trasparenza, brillantezza e resistenza. Il suo segreto? Un'innovativa composizione che la rendono incredibilmente </em><em><strong>leggera ma resistente</strong></em><em>.</em></p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "slide_XUiWQ8",
-        "slide_89iWfB",
-        "slide_qqQP9B",
-        "slide_9pMzPM",
-        "slide_86DnDw"
+        "column_qiUGK3"
       ],
       "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": true,
-        "accessibility_info": "Presentazione sul nostro brand"
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "rich_text_JKem9D": {
@@ -411,11 +278,11 @@
   },
   "order": [
     "main",
-    "multicolumn_6fXjNw",
-    "collapsible_content_3mR8qA",
     "multicolumn_VR4EHF",
+    "multicolumn_6fXjNw",
+    "multicolumn_T79FP8",
     "featured_collection_8kCVCG",
-    "slideshow_DVCjVj",
+    "multicolumn_bEDH9B",
     "rich_text_JKem9D"
   ]
 }
