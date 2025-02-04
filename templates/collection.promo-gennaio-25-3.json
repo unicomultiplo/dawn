@@ -26,6 +26,7 @@
       "blocks": {
         "column_6neVed": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/natale-conveniente_43435971-607c-4eb9-a8b2-0cb359261244.png",
             "title": "",
@@ -56,6 +57,7 @@
         },
         "column_kGrUQx": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/seletti_f2f0f987-be4d-40d8-8f24-aed67382859f.png",
             "title": "",
