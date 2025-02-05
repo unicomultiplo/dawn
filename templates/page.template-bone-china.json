@@ -194,7 +194,7 @@
     "featured_collection_8kCVCG": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>Esplora ora</strong> la collezione Bone China e aggiungi un tocco di classe alla tua tavola",
+        "title": "<strong>Esplora ora</strong> le collezioni in Bone China e aggiungi un tocco di classe alla tua tavola",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -386,7 +386,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>La Bone China è nata in Inghilterra nel XVIII secolo grazie a Josiah Spode II, che perfezionò la formula mescolando cenere d'ossa con caolino e feldspato. Questo materiale si affermò rapidamente come simbolo di prestigio tra le famiglie aristocratiche e reali. Oggi, la Bone China è ancora sinonimo di lusso e artigianalità. Curiosità: il termine \"China\" non si riferisce al paese d'origine, ma è un omaggio alla porcellana orientale che ispirò gli artigiani inglesi.</p>",
+            "text": "<h2><em><strong>La Bone China è nata in Inghilterra nel XVIII secolo grazie a Josiah Spode II, che perfezionò la formula mescolando cenere d'ossa con caolino e feldspato. Questo materiale si affermò rapidamente come simbolo di prestigio tra le famiglie aristocratiche e reali. Oggi, la Bone China è ancora sinonimo di lusso e artigianalità. Curiosità: il termine \"China\" non si riferisce al paese d'origine, ma è un omaggio alla porcellana orientale che ispirò gli artigiani inglesi.</strong></em></h2>",
             "link_label": "",
             "link": ""
           }
