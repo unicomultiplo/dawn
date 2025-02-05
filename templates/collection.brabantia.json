@@ -23,15 +23,6 @@
     "multicolumn_MxLddP": {
       "type": "multicolumn",
       "blocks": {
-        "column_PgEVHi": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p><a href=\"https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brabantia&sort_by=title-ascending&_gl=#shopify-section-template--23127397794057__product-grid\" title=\"PROMO BRABANTIA\"><strong>SALDI DI GENNAIO</strong></a></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_pqxUGY": {
           "type": "column",
           "settings": {
@@ -61,7 +52,6 @@
         }
       },
       "block_order": [
-        "column_PgEVHi",
         "column_pqxUGY",
         "column_gPeEtt",
         "column_rpy7eJ"
