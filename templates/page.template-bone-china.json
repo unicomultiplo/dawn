@@ -97,22 +97,13 @@
             "link": "https://www.unicoemultiplo.com/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola?#shopify-section-template--23360006586633__image_with_text_LCL7jb"
           }
         },
-        "column_dMLix7": {
-          "type": "column",
-          "settings": {
-            "title": "Bone China vs Porcellana Tradizionale: Quali Sono le Differenze?",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_fkMzE8": {
           "type": "column",
           "settings": {
             "title": " Un’Antica Tradizione di Eleganza: La Storia della Bone China",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "https://www.unicoemultiplo.com/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola?#shopify-section-template--23360006586633__rich_text_LczX9r"
           }
         },
         "column_bN6gr3": {
@@ -145,7 +136,6 @@
       },
       "block_order": [
         "column_LnRFgT",
-        "column_dMLix7",
         "column_fkMzE8",
         "column_bN6gr3",
         "column_Ey4w4m",
