@@ -272,7 +272,7 @@
         "button_QkwrGY": {
           "type": "button",
           "settings": {
-            "button_label": "Esplora ora le collezioni Bone China",
+            "button_label": "Esplora ora le Collezioni Bone China",
             "button_link": "shopify://collections/piatti-in-bone-china",
             "button_style_secondary": true
           }
@@ -312,14 +312,23 @@
         "text_JmwQRX": {
           "type": "text",
           "settings": {
-            "text": "<h3></h3><p>Le principali differenze tra Bone China e porcellana dura riguardano la composizione e le caratteristiche:<br/><br/><a href=\"https://cdn.shopify.com/s/files/1/0839/3808/3081/files/bone-china-caratteristiche-composizione.pdf?v=1738175118\" title=\"https://cdn.shopify.com/s/files/1/0839/3808/3081/files/bone-china-caratteristiche-composizione.pdf?v=1738175118\">COMPOSIZIONE E CARATTERISTICHE</a></p><h3><strong>Come Riconoscere la Vera Bone China </strong></h3><p></p><ul><li><strong>Colore e trasparenza:</strong> presenta un caldo bagliore avorio visibile in controluce.</li><li><strong>Spessore e leggerezza:</strong> è più sottile e leggera rispetto alla porcellana tradizionale, ma          altrettanto resistente.</li><li><strong>Prezzo:</strong> il costo è più elevato, data la complessità del processo produttivo e l'uso di materiali di alta qualità.</li></ul><p>Acquistare Bone China significa scegliere una qualità che dura nel tempo e un'eleganza senza pari. Esplora le collezioni di piatti Bone China disponibili nel nostro store.</p>",
+            "text": "<h3></h3><p>Le principali differenze tra Bone China e porcellana dura riguardano la composizione e le caratteristiche:<br/><br/><a href=\"https://cdn.shopify.com/s/files/1/0839/3808/3081/files/bone-china-caratteristiche-composizione.pdf?v=1738175118\" title=\"https://cdn.shopify.com/s/files/1/0839/3808/3081/files/bone-china-caratteristiche-composizione.pdf?v=1738175118\">COMPOSIZIONE E CARATTERISTICHE</a></p><h3><strong>Come Riconoscere la Vera Bone China </strong></h3><p></p><ul><li><strong>Colore e trasparenza:</strong> presenta un caldo bagliore avorio visibile in controluce.</li><li><strong>Spessore e leggerezza:</strong> è più sottile e leggera rispetto alla porcellana tradizionale, ma          altrettanto resistente.</li><li><strong>Prezzo:</strong> il costo è più elevato, data la complessità del processo produttivo e l'uso di materiali di alta qualità.</li></ul><p>Acquistare Bone China significa scegliere una qualità che dura nel tempo e un'eleganza senza pari. </p>",
             "text_style": "body"
+          }
+        },
+        "button_Jbq8xx": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scopri i Piatti in Bone China",
+            "button_link": "shopify://collections/piatti-in-bone-china",
+            "button_style_secondary": true
           }
         }
       },
       "block_order": [
         "heading_TfAYbB",
-        "text_JmwQRX"
+        "text_JmwQRX",
+        "button_Jbq8xx"
       ],
       "settings": {
         "image": "shopify://shop_images/Bone-china-piatti.webp",
@@ -509,8 +518,8 @@
             "image": "shopify://shop_images/KnIndustrie-piatti-in-bone-china.webp",
             "caption": "",
             "heading": "KnIndustrie",
-            "text": "<p><strong>KnIndustrie – Sophie e Reggia</strong>: linee moderne e sofisticate, perfette per chi ama il minimalismo e l’innovazione nel design.</p><p><strong>KnIndustrie – ShabbyChic e Armonia-Oro</strong>: creatività e dettagli vintage con la prima, eleganza e lusso con la seconda, ideale per occasioni speciali grazie ai dettagli dorat</p>",
-            "button_label": "Etichetta pulsante",
+            "text": "<p><strong>KnIndustrie</strong> coniuga <strong>creatività</strong>, dettagli dal sapore <strong>vintage</strong> e un’eleganza senza tempo, dando vita a collezioni in <strong>bone china</strong> perfette per le occasioni speciali.</p><p><strong>KnIndustrie – Sophie e Reggia</strong>: linee moderne e sofisticate, perfette per chi ama il minimalismo e l’innovazione nel design.</p><p><strong>KnIndustrie ShabbyChic </strong>– Design ispirato alle stoviglie d’epoca.</p><p><strong>Armonia-Oro</strong>: Perfetta per una tavola sofisticata con dettagli dorati.</p><p><strong>Asimmetrico </strong>– Innovativa e pensata in collaborazione con lo chef Davide Oldani.</p>",
+            "button_label": "Scegli l'eleganza di KnIndustrie",
             "button_link": "shopify://collections/piatti-in-bone-china"
           }
         },
@@ -520,8 +529,8 @@
             "image": "shopify://shop_images/Bitossi-Home-Bon-Ton-Vassoio-ovale-piccolo-ln-Bone-China_3.webp",
             "caption": "",
             "heading": "Bitossi Home",
-            "text": "<p><strong>Minimal e Bon Ton:</strong> Bitossi rappresenta l’incontro perfetto tra <strong>tradizione e modernità</strong>, offrendo collezioni di <strong>Bone China</strong> dal design esclusivo e senza tempo. Ogni linea è pensata per chi desidera una tavola elegante e raffinata, ideale sia per occasioni speciali che per l’uso quotidiano.</p>",
-            "button_label": "Etichetta pulsante",
+            "text": "<p>Bitossi rappresenta l’incontro perfetto tra <strong>tradizione e modernità</strong>, offrendo collezioni di <strong>Bone China</strong> dal design esclusivo e senza tempo. Ogni linea è pensata per chi desidera una tavola elegante e raffinata, ideale sia per occasioni speciali che per l’uso quotidiano.</p><p><strong>Minimal </strong>– Linee pulite e raffinate.</p><p><strong>Bon Ton</strong> – Equilibrio tra semplicità ed eleganza senza tempo</p>",
+            "button_label": "Scopri i nostri servizi Bitossi Home",
             "button_link": ""
           }
         },
@@ -533,7 +542,7 @@
             "heading": "Seletti",
             "text": "<p><strong>Hybrid:</strong> accostamenti<strong> audaci </strong>tra decorazioni <strong>orientali e occidentali</strong>, ideali per una tavola dal design <strong>unico </strong>e artistico.</p><p></p>",
             "button_label": "Collezione Hybrid",
-            "button_link": ""
+            "button_link": "shopify://collections/seletti-catalogo-prodotti-hybrid"
           }
         },
         "row_FYFDFN": {
@@ -542,8 +551,8 @@
             "image": "shopify://shop_images/Brandani-Queen-piatti-bone-china.webp",
             "caption": "",
             "heading": "Brandani",
-            "text": "<p><strong>Total White e Queen:</strong> una versione più accessibile in <strong>New Bone China</strong>, perfetta per chi desidera <strong>eleganza e qualità a un prezzo competitivo</strong>.</p>",
-            "button_label": "Etichetta pulsante",
+            "text": "<p>La <strong>new bone china</strong> è la versione più accessibile della classica Bone China: pur conservandone eleganza e traslucidità, utilizza meno cenere d’ossa (o ingredienti alternativi), offrendo così un’ottima resa estetica a prezzi più contenuti. <strong>Brandani</strong>, sempre attenta al budget, la consiglia per chi desidera tutto il fascino di una porcellana raffinata con un miglior rapporto qualità-prezzo.</p><p><strong>Total White e Queen:</strong> collezioni in n <strong>New Bone China</strong>, perfette per chi desidera <strong>eleganza e qualità a un prezzo competitivo</strong>.</p>",
+            "button_label": "New Bone China",
             "button_link": ""
           }
         }
