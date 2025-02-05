@@ -518,9 +518,9 @@
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/Bitossi-Home-Bon-Ton-Vassoio-ovale-piccolo-ln-Bone-China_3.webp",
-            "caption": "bitossi home",
-            "heading": "",
-            "text": "<h3><strong>MINIMAL E BON TON</strong></h3><p>Bitossi rappresenta l’incontro perfetto tra <strong>tradizione e modernità</strong>, offrendo collezioni di <strong>Bone China</strong> dal design esclusivo e senza tempo. Ogni linea è pensata per chi desidera una tavola elegante e raffinata, ideale sia per occasioni speciali che per l’uso quotidiano.</p>",
+            "caption": "",
+            "heading": "Bitossi Home",
+            "text": "<p><strong>Minimal e Bon Ton:</strong> Bitossi rappresenta l’incontro perfetto tra <strong>tradizione e modernità</strong>, offrendo collezioni di <strong>Bone China</strong> dal design esclusivo e senza tempo. Ogni linea è pensata per chi desidera una tavola elegante e raffinata, ideale sia per occasioni speciali che per l’uso quotidiano.</p>",
             "button_label": "Etichetta pulsante",
             "button_link": ""
           }
@@ -529,9 +529,9 @@
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/Natale-con-i-piatti-Seletti-Hybrid.webp",
-            "caption": "seletti",
-            "heading": "",
-            "text": "<h3><strong>Seletti Collezione Hybrid</strong></h3><p><br/>Accostamenti<strong> audaci </strong>tra decorazioni <strong>orientali e occidentali</strong>, ideali per una tavola dal design <strong>unico </strong>e artistico.</p><p></p>",
+            "caption": "",
+            "heading": "Seletti",
+            "text": "<p><strong>Hybrid:</strong> accostamenti<strong> audaci </strong>tra decorazioni <strong>orientali e occidentali</strong>, ideali per una tavola dal design <strong>unico </strong>e artistico.</p><p></p>",
             "button_label": "Collezione Hybrid",
             "button_link": ""
           }
@@ -540,9 +540,9 @@
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/Brandani-Queen-piatti-bone-china.webp",
-            "caption": "brandani",
-            "heading": "Brandani – Total White e Queen",
-            "text": "<p>Una versione più accessibile in <strong>New Bone China</strong>, perfetta per chi desidera <strong>eleganza e qualità a un prezzo competitivo</strong>.</p>",
+            "caption": "",
+            "heading": "Brandani",
+            "text": "<p><strong>Total White e Queen:</strong> una versione più accessibile in <strong>New Bone China</strong>, perfetta per chi desidera <strong>eleganza e qualità a un prezzo competitivo</strong>.</p>",
             "button_label": "Etichetta pulsante",
             "button_link": ""
           }
