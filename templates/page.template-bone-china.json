@@ -380,39 +380,6 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_eMpcTG": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_Mq9nXp": {
-          "type": "column",
-          "settings": {
-            "title": "Colonna",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_Mq9nXp"
-      ],
-      "settings": {
-        "title": " Un’Antica Tradizione di Eleganza: La Storia della Bone China",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Etichetta pulsante",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn_bEDH9B": {
       "type": "multicolumn",
       "blocks": {
@@ -459,21 +426,33 @@
         "text_XFa68i": {
           "type": "text",
           "settings": {
-            "text": "<p></p><p>La Bone China è nata in Inghilterra nel XVIII secolo grazie a Josiah Spode II, che perfezionò la formula mescolando cenere d'ossa con caolino e feldspato. Questo materiale si affermò rapidamente come simbolo di prestigio tra le famiglie aristocratiche e reali. Oggi, la Bone China è ancora sinonimo di lusso e artigianalità.</p>"
+            "text": "<p>La Bone China è nata in Inghilterra nel XVIII secolo grazie a Josiah Spode II, che perfezionò la formula mescolando cenere d'ossa con caolino e feldspato. Questo materiale si affermò rapidamente come simbolo di prestigio tra le famiglie aristocratiche e reali. Oggi, la Bone China è ancora sinonimo di lusso e artigianalità.</p><p>La <strong>straordinaria trasparenza</strong> della Bone China non è casuale, ma il risultato di un processo produttivo altamente raffinato.</p><p><strong>Cottura ad alte temperature</strong>: viene sottoposta a una fusione tra <strong>1200 e 1400°C</strong>, che vetrifica i materiali, rendendola quasi vetrosa nell’aspetto e nella consistenza. Questo le conferisce <strong>lucentezza, resistenza e traslucenza</strong>.</p><p><strong>Composizione pregiata</strong>: la presenza di <strong>cenere d’ossa</strong> (circa il 40-50%) contribuisce alla sua tipica luminosità e al candore avorio, distinguendola dalla porcellana tradizionale.</p><p><strong>Argilla ultra-fine</strong>: il <strong>caolino</strong>, un’argilla purissima a basso contenuto di ferro, permette una struttura compatta e liscia, riducendo la porosità. Questo significa che la Bone China non assorbe <strong>macchie e odori</strong>, rimanendo impeccabile nel tempo.</p><p><strong>Il risultato?</strong> Un materiale elegante, resistente e incredibilmente raffinato, perfetto per una tavola di classe e occasioni speciali.</p>"
+          }
+        },
+        "button_zYFgQn": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scopri le migliori collezioni in Bone China",
+            "button_link": "shopify://collections/piatti-in-bone-china",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
         "heading_DRf6ed",
-        "text_XFa68i"
+        "text_XFa68i",
+        "button_zYFgQn"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "left",
         "color_scheme": "",
-        "full_width": false,
+        "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 0
+        "padding_bottom": 40
       }
     },
     "rich_text_JKem9D": {
@@ -519,7 +498,6 @@
     "image_with_text_LCL7jb",
     "multicolumn_wVxtVr",
     "image_with_text_CBxYKc",
-    "multicolumn_eMpcTG",
     "multicolumn_bEDH9B",
     "rich_text_LczX9r",
     "rich_text_JKem9D"
