@@ -714,12 +714,6 @@
             "collection": "seletti-hybrid-piatti"
           }
         },
-        "featured_collection_BDjL6Q": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home-parisienne-bitossi-home"
-          }
-        },
         "featured_collection_Fce7QT": {
           "type": "featured_collection",
           "settings": {
@@ -736,7 +730,6 @@
       "block_order": [
         "featured_collection_cETjLG",
         "featured_collection_egmnGj",
-        "featured_collection_BDjL6Q",
         "featured_collection_Fce7QT",
         "featured_collection_gKtyq6"
       ],
