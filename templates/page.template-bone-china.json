@@ -472,7 +472,8 @@
         "row_DW8biM": {
           "type": "row",
           "settings": {
-            "caption": "Didascalia",
+            "image": "shopify://shop_images/KnIndustrie-Armonia-Oro-Posto-Tavola-9.webp",
+            "caption": "knindustrie",
             "heading": "Riga",
             "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
             "button_label": "Etichetta pulsante",
@@ -482,7 +483,8 @@
         "row_eDMFyr": {
           "type": "row",
           "settings": {
-            "caption": "Didascalia",
+            "image": "shopify://shop_images/Bitossi-Home-Bon-Ton-Vassoio-ovale-piccolo-ln-Bone-China_3.webp",
+            "caption": "bitossi home",
             "heading": "Riga",
             "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
             "button_label": "Etichetta pulsante",
@@ -492,7 +494,19 @@
         "row_TmgWMq": {
           "type": "row",
           "settings": {
-            "caption": "Didascalia",
+            "image": "shopify://shop_images/Natale-con-i-piatti-Seletti-Hybrid.webp",
+            "caption": "seletti",
+            "heading": "Riga",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
+          }
+        },
+        "row_FYFDFN": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/brandani-queen-tavola-18-pz-1.jpg",
+            "caption": "brandani",
             "heading": "Riga",
             "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
             "button_label": "Etichetta pulsante",
@@ -503,7 +517,8 @@
       "block_order": [
         "row_DW8biM",
         "row_eDMFyr",
-        "row_TmgWMq"
+        "row_TmgWMq",
+        "row_FYFDFN"
       ],
       "settings": {
         "image_height": "medium",
