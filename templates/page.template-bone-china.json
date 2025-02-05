@@ -553,36 +553,6 @@
         "padding_top": 36,
         "padding_bottom": 0
       }
-    },
-    "rich_text_JKem9D": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_LYcez7": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_gaAWX4": {
-          "type": "text",
-          "settings": {
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_LYcez7",
-        "text_gaAWX4"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -600,7 +570,6 @@
     "multicolumn_bEDH9B",
     "multicolumn_KKQxqM",
     "multicolumn_Exw9py",
-    "multicolumn_HpnGYB",
-    "rich_text_JKem9D"
+    "multicolumn_HpnGYB"
   ]
 }
