@@ -149,7 +149,7 @@
         "columns_desktop": 1,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Esplora ora le collezioni Bone China",
+        "button_label": "",
         "button_link": "shopify://collections/piatti-in-bone-china",
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
@@ -659,20 +659,27 @@
         "featured_collection_Fce7QT": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "knindustrie-catalogo-prodotti-davide-oldani"
+          }
+        },
+        "featured_collection_gKtyq6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-total-white-brandani"
           }
         }
       },
       "block_order": [
         "featured_collection_cETjLG",
         "featured_collection_egmnGj",
-        "featured_collection_Fce7QT"
+        "featured_collection_Fce7QT",
+        "featured_collection_gKtyq6"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "2",
