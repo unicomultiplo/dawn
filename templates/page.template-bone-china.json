@@ -299,39 +299,6 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_wVxtVr": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_VMLw8R": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p><em>🔎</em><em><strong> Il Segreto della Bone China?</strong></em></p><p><em><strong>Cottura ad alte temperature</strong></em><em>: viene sottoposta a una fusione tra </em><em><strong>1200 e 1400°C</strong></em><em>, che vetrifica i materiali, rendendola quasi vetrosa nell’aspetto e nella consistenza. Questo le conferisce </em><em><strong>lucentezza, resistenza e traslucenza</strong></em><em>.</em></p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_VMLw8R"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_with_text_CBxYKc": {
       "type": "image-with-text",
       "blocks": {
@@ -377,7 +344,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><em>✔️ </em><strong>Curiosità.</strong> il termine <strong>\"China\"</strong> non si riferisce al paese d'origine, ma è un <strong>omaggio alla porcellana orientale </strong>che ispirò gli artigiani inglesi.</p>",
+            "text": "<p><em>✔️ </em><em><strong>Curiosità.</strong></em><em> il termine </em><em><strong>\"China\"</strong></em><em> non si riferisce al paese d'origine, ma è un </em><em><strong>omaggio alla porcellana orientale </strong></em><em>che ispirò gli artigiani inglesi.</em></p>",
             "link_label": "",
             "link": ""
           }
@@ -445,6 +412,39 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 0
+      }
+    },
+    "multicolumn_wVxtVr": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_VMLw8R": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><em>🔎</em><em><strong> Il Segreto della Bone China?</strong></em></p><p><em><strong>Cottura ad alte temperature</strong></em><em>: viene sottoposta a una fusione tra </em><em><strong>1200 e 1400°C</strong></em><em>, che vetrifica i materiali, rendendola quasi vetrosa nell’aspetto e nella consistenza. Questo le conferisce </em><em><strong>lucentezza, resistenza e traslucenza</strong></em><em>.</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_VMLw8R"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn_kiWfNN": {
@@ -521,21 +521,21 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_fzHq7k": {
+    "multicolumn_tim6dE": {
       "type": "multicolumn",
       "blocks": {
-        "column_MrUDaq": {
+        "column_cXMp4H": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><em>✔️ </em><strong>Curiosità.</strong> il termine <strong>\"China\"</strong> non si riferisce al paese d'origine, ma è un <strong>omaggio alla porcellana orientale </strong>che ispirò gli artigiani inglesi.</p>",
+            "text": "<p><em><strong>🔧 Consigli dell’Esperto: Cura della Bone China<br/></strong></em><em>Con la giusta cura, la Bone China può durare per generazioni.<br/></em><em><strong>Lavaggio e asciugatura</strong></em><em>: preferibilmente a mano, asciugando con un </em><em><strong>panno morbido in microfibra</strong></em><em> per preservarne la lucentezza.<br/></em><em><strong>Conservazione</strong></em><em>: impila i pezzi separandoli con </em><em><strong>feltro o carta velina</strong></em><em> per evitare graffi.</em></p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "column_MrUDaq"
+        "column_cXMp4H"
       ],
       "settings": {
         "title": "",
@@ -662,13 +662,13 @@
     "featured_collection_8kCVCG",
     "multicolumn_eQWbbm",
     "image_with_text_LCL7jb",
-    "multicolumn_wVxtVr",
     "image_with_text_CBxYKc",
     "multicolumn_bEDH9B",
     "multicolumn_KKQxqM",
+    "multicolumn_wVxtVr",
     "multicolumn_kiWfNN",
     "multirow_A8NqfX",
-    "multicolumn_fzHq7k",
+    "multicolumn_tim6dE",
     "multicolumn_Exw9py",
     "multicolumn_HpnGYB"
   ]
