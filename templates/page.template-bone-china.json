@@ -447,6 +447,49 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_Exw9py": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_RdaFn9": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Vuoi conoscere di più sulla manutenzione della Bone China? Scopri come prendersene cura per preservarne la bellezza.</p><p>Per mantenere la tua Bone China splendida nel tempo:</p><ol><li><strong>Lavaggio a mano:</strong> preferibile per preservare decorazioni delicate o finiture in oro/argento.</li><li><strong>Uso in lavastoviglie:</strong> consentito per molti modelli moderni, ma scegli programmi delicati e detergenti non abrasivi.</li><li><strong>Asciugatura:</strong> usa un panno morbido per evitare macchie e preservare la lucentezza.</li><li><strong>Conservazione:</strong> impila i pezzi separandoli con feltro o carta velina per evitare graffi.</li></ol><p></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_FrXcB9": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Scopri le migliori collezioni di Bone China e aggiungi un tocco di prestigio alla tua tavola!",
+            "link": "shopify://collections/piatti-in-bone-china"
+          }
+        }
+      },
+      "block_order": [
+        "column_RdaFn9",
+        "column_FrXcB9"
+      ],
+      "settings": {
+        "title": "<strong>Come Usare e Conservare la Bone China (Senza Paura di Rovinarla)</strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "shopify://collections/piatti-in-bone-china",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
     "rich_text_JKem9D": {
       "type": "rich-text",
       "blocks": {
@@ -460,7 +503,7 @@
         "text_gaAWX4": {
           "type": "text",
           "settings": {
-            "text": "<p></p><h2><strong>I Servizi di Piatti Bone China: Le Migliori Collezioni</strong></h2><p>Scopri le collezioni più affascinanti disponibili:</p><ul><li><strong>Seletti \"Hybrid\":</strong> accostamenti audaci di decorazioni orientali e occidentali, ideali per una tavola dal design unico.</li><li><strong>Bitossi \"Minimal\" e \"Bon Ton\":</strong> semplicità raffinata e linee eleganti per un'estetica senza tempo.</li><li><strong>KnIndustrie:</strong> innovazione e creatività con collezioni come \"ShabbyChic,\" ispirata alle stoviglie vintage, e \"Armonia-Oro,\" perfetta per occasioni speciali grazie ai dettagli dorati.</li></ul><p>Scopri le collezioni Bone China di Bitossi nel nostro e-commerce e lasciati ispirare per la tua tavola.</p><h2><strong>Come Usare e Conservare la Bone China (Senza Paura di Rovinarla)</strong></h2><p>Vuoi conoscere di più sulla manutenzione della Bone China? Scopri come prendersene cura per preservarne la bellezza.</p><p>Per mantenere la tua Bone China splendida nel tempo:</p><ol><li><strong>Lavaggio a mano:</strong> preferibile per preservare decorazioni delicate o finiture in oro/argento.</li><li><strong>Uso in lavastoviglie:</strong> consentito per molti modelli moderni, ma scegli programmi delicati e detergenti non abrasivi.</li><li><strong>Asciugatura:</strong> usa un panno morbido per evitare macchie e preservare la lucentezza.</li><li><strong>Conservazione:</strong> impila i pezzi separandoli con feltro o carta velina per evitare graffi.</li></ol><p></p><h2><strong>Conclusioni: Perché Scegliere la Bone China</strong></h2><p>La Bone China non è solo una scelta di eleganza, ma anche un investimento nella qualità e nella tradizione artigianale. Che tu stia apparecchiando una tavola per un evento speciale o cercando pezzi di design per il tuo quotidiano, questo materiale è sinonimo di raffinatezza e durata.</p><h2><em>Scopri ora le collezioni Bone China disponibili nel nostro store e rendi la tua tavola unica.</em></h2><h2><em>Hai domande o esperienze da condividere? Contattaci!</em></h2><p>Con la giusta cura e attenzione, la Bone China resterà parte della tua casa per anni, portando con sé una storia di bellezza, tradizione e innovazione.</p>"
+            "text": "<h2><strong>Conclusioni: Perché Scegliere la Bone China</strong></h2><p>La Bone China non è solo una scelta di eleganza, ma anche un investimento nella qualità e nella tradizione artigianale. Che tu stia apparecchiando una tavola per un evento speciale o cercando pezzi di design per il tuo quotidiano, questo materiale è sinonimo di raffinatezza e durata.</p><p>Con la giusta cura e attenzione, la Bone China resterà parte della tua casa per anni, portando con sé una storia di bellezza, tradizione e innovazione.</p><h2><em>Scopri ora le collezioni Bone China disponibili nel nostro store e rendi la tua tavola unica.</em></h2><h2><em>Hai domande o esperienze da condividere? Contattaci!</em></h2><p></p>"
           }
         }
       },
@@ -492,6 +535,7 @@
     "image_with_text_CBxYKc",
     "multicolumn_bEDH9B",
     "multicolumn_KKQxqM",
+    "multicolumn_Exw9py",
     "rich_text_JKem9D"
   ]
 }
