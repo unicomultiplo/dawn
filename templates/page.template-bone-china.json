@@ -449,6 +449,30 @@
     },
     "multicolumn_kiWfNN": {
       "type": "multicolumn",
+      "blocks": {
+        "column_BP94f7": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "📌 Scopri ora le migliori collezioni di Bone China nel nostro e-commerce",
+            "link": ""
+          }
+        },
+        "column_WaijNy": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_BP94f7",
+        "column_WaijNy"
+      ],
       "settings": {
         "title": "<strong>I Servizi di Piatti Bone China: Le Migliori Collezioni</strong>",
         "heading_size": "h1",
@@ -532,7 +556,7 @@
         "section_color_scheme": "",
         "row_color_scheme": "",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
