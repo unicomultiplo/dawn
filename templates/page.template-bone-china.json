@@ -474,10 +474,10 @@
           "settings": {
             "image": "shopify://shop_images/KnIndustrie-Armonia-Oro-Posto-Tavola-9.webp",
             "caption": "knindustrie",
-            "heading": "Riga",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "heading": "",
+            "text": "<p><strong>KnIndustrie – Sophie e Reggia</strong>: linee moderne e sofisticate, perfette per chi ama il minimalismo e l’innovazione nel design.</p><p><strong>KnIndustrie – ShabbyChic e Armonia-Oro</strong>: creatività e dettagli vintage con la prima, eleganza e lusso con la seconda, ideale per occasioni speciali grazie ai dettagli dorat</p>",
             "button_label": "Etichetta pulsante",
-            "button_link": ""
+            "button_link": "shopify://collections/piatti-in-bone-china"
           }
         },
         "row_eDMFyr": {
@@ -485,8 +485,8 @@
           "settings": {
             "image": "shopify://shop_images/Bitossi-Home-Bon-Ton-Vassoio-ovale-piccolo-ln-Bone-China_3.webp",
             "caption": "bitossi home",
-            "heading": "Riga",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "heading": "",
+            "text": "<h3><strong>MINIMAL E BON TIN</strong></h3><p>Bitossi rappresenta l’incontro perfetto tra <strong>tradizione e modernità</strong>, offrendo collezioni di <strong>Bone China</strong> dal design esclusivo e senza tempo. Ogni linea è pensata per chi desidera una tavola elegante e raffinata, ideale sia per occasioni speciali che per l’uso quotidiano.</p>",
             "button_label": "Etichetta pulsante",
             "button_link": ""
           }
@@ -496,8 +496,8 @@
           "settings": {
             "image": "shopify://shop_images/Natale-con-i-piatti-Seletti-Hybrid.webp",
             "caption": "seletti",
-            "heading": "Riga",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "heading": "",
+            "text": "<h3><strong>Collezione Hybrid</strong></h3><p><br/>Accostamenti audaci tra decorazioni orientali e occidentali, ideali per una tavola dal design unico e artistico.</p><p></p>",
             "button_label": "Etichetta pulsante",
             "button_link": ""
           }
@@ -507,8 +507,8 @@
           "settings": {
             "image": "shopify://shop_images/brandani-queen-tavola-18-pz-1.jpg",
             "caption": "brandani",
-            "heading": "Riga",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "heading": "Brandani – Total White e Queen",
+            "text": "<p>Una versione più accessibile in <strong>New Bone China</strong>, perfetta per chi desidera <strong>eleganza e qualità a un prezzo competitivo</strong>.</p>",
             "button_label": "Etichetta pulsante",
             "button_link": ""
           }
