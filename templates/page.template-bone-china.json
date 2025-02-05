@@ -403,48 +403,6 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_LczX9r": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_DRf6ed": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Un’Antica Tradizione di Eleganza: La Storia della Bone China</strong>",
-            "heading_size": "h1"
-          }
-        },
-        "text_XFa68i": {
-          "type": "text",
-          "settings": {
-            "text": ""
-          }
-        },
-        "button_zYFgQn": {
-          "type": "button",
-          "settings": {
-            "button_label": "Scopri le migliori collezioni in Bone China",
-            "button_link": "shopify://collections/piatti-in-bone-china",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_DRf6ed",
-        "text_XFa68i",
-        "button_zYFgQn"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
-    },
     "multicolumn_KKQxqM": {
       "type": "multicolumn",
       "blocks": {
@@ -532,7 +490,6 @@
     "multicolumn_wVxtVr",
     "image_with_text_CBxYKc",
     "multicolumn_bEDH9B",
-    "rich_text_LczX9r",
     "multicolumn_KKQxqM",
     "rich_text_JKem9D"
   ]
