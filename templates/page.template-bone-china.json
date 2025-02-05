@@ -377,7 +377,16 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>La Bone China è una delle porcellane più pregiate al mondo, nata in Inghilterra nel XVIII secolo grazie a Josiah Spode II, che perfezionò la formula mescolando <strong>cenere d’ossa (40-50%)</strong>, <strong>caolino</strong> e <strong>feldspato</strong>. <br/><br/>Questo materiale divenne rapidamente un simbolo di lusso e prestigio tra le famiglie aristocratiche e reali. La sua unicità è data da un processo produttivo sofisticato: viene <strong>cotta a temperature tra 1200 e 1400°C</strong>, un trattamento che vetrifica i materiali, rendendola <strong>lucente, resistente e straordinariamente traslucida</strong>.</p><p><br/> Il <strong>caolino</strong>, un’argilla purissima a basso contenuto di ferro, garantisce una superficie <strong>compatta e liscia</strong>, riducendo la porosità e impedendo l’assorbimento di <strong>macchie e odori</strong>. </p>",
+            "text": "<p>La Bone China è nata in Inghilterra nel XVIII secolo grazie a Josiah Spode II, che perfezionò la formula mescolando cenere d'ossa con caolino e feldspato. Questo materiale si affermò rapidamente come simbolo di prestigio tra le famiglie aristocratiche e reali. Oggi, la Bone China è ancora sinonimo di lusso e artigianalità. Curiosità: il termine \"China\" non si riferisce al paese d'origine, ma è un omaggio alla porcellana orientale che ispirò gli artigiani inglesi.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GPdbat": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>La Bone China è una delle porcellane più pregiate al mondo, nata in Inghilterra nel XVIII secolo grazie a Josiah Spode II, che perfezionò la formula mescolando <strong>cenere d’ossa (40-50%)</strong>, <strong>caolino</strong> e <strong>feldspato</strong>. <br/>Questo materiale divenne rapidamente un simbolo di lusso e prestigio tra le famiglie aristocratiche e reali.<br/> <br/>La sua unicità è data da un processo produttivo sofisticato: viene <strong>cotta a temperature tra 1200 e 1400°C</strong>, un trattamento che vetrifica i materiali, rendendola <strong>lucente, resistente e straordinariamente traslucida</strong>.<br/> Il <strong>caolino</strong>, un’argilla purissima a basso contenuto di ferro, garantisce una superficie <strong>compatta e liscia</strong>, riducendo la porosità e impedendo l’assorbimento di <strong>macchie e odori</strong>. </p>",
             "link_label": "",
             "link": ""
           }
@@ -395,6 +404,7 @@
       },
       "block_order": [
         "column_ChXLxh",
+        "column_GPdbat",
         "column_kXpwKJ"
       ],
       "settings": {
