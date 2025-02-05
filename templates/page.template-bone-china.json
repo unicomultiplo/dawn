@@ -416,7 +416,7 @@
         "text_XFa68i": {
           "type": "text",
           "settings": {
-            "text": "<p>La Bone China è nata in Inghilterra nel XVIII secolo grazie a Josiah Spode II, che perfezionò la formula mescolando cenere d'ossa con caolino e feldspato. Questo materiale si affermò rapidamente come simbolo di prestigio tra le famiglie aristocratiche e reali. Oggi, la Bone China è ancora sinonimo di lusso e artigianalità.</p><p>La <strong>straordinaria trasparenza</strong> della Bone China non è casuale, ma il risultato di un processo produttivo altamente raffinato.</p><p><strong>Cottura ad alte temperature</strong>: viene sottoposta a una fusione tra <strong>1200 e 1400°C</strong>, che vetrifica i materiali, rendendola quasi vetrosa nell’aspetto e nella consistenza. Questo le conferisce <strong>lucentezza, resistenza e traslucenza</strong>.</p><p><strong>Composizione pregiata</strong>: la presenza di <strong>cenere d’ossa</strong> (circa il 40-50%) contribuisce alla sua tipica luminosità e al candore avorio, distinguendola dalla porcellana tradizionale.</p><p><strong>Argilla ultra-fine</strong>: il <strong>caolino</strong>, un’argilla purissima a basso contenuto di ferro, permette una struttura compatta e liscia, riducendo la porosità. Questo significa che la Bone China non assorbe <strong>macchie e odori</strong>, rimanendo impeccabile nel tempo.</p><p><strong>Il risultato?</strong> Un materiale elegante, resistente e incredibilmente raffinato, perfetto per una tavola di classe e occasioni speciali.</p>"
+            "text": ""
           }
         },
         "button_zYFgQn": {
@@ -443,6 +443,49 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 40
+      }
+    },
+    "multicolumn_KKQxqM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ChXLxh": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>La<strong> Bone China</strong> è nata in<strong> Inghilterra nel XVIII secolo</strong> grazie a Josiah Spode II, che perfezionò la formula mescolando cenere d'ossa con caolino e feldspato.<br/></p><p>Fin da subito si affermò come un simbolo di prestigio tra le famiglie aristocratiche e reali, e ancora oggi rappresenta il <strong>massimo della qualità</strong> artigianale nel mondo della porcellana. </p><p>La sua unicità deriva da un <strong>processo produttivo altamente sofisticato</strong> che le conferisce caratteristiche inimitabili. <br/></p><p>Viene cotta a temperature tra 1200 e 1400°C, un trattamento che vetrifica i materiali, donandole lucentezza, resistenza e una straordinaria traslucenza. La sua composizione pregiata, con un contenuto di cenere d’ossa tra il 40 e il 50 percento, la distingue dalla porcellana tradizionale per il caratteristico candore avorio e la naturale luminosità.</p><p> Il caolino, un’argilla purissima a basso contenuto di ferro, garantisce una struttura compatta e liscia, riducendo la porosità e impedendo l’assorbimento di macchie e odori, preservandone la bellezza nel tempo. </p><p><strong>Il risultato?</strong> Un materiale elegante, resistente e incredibilmente raffinato, perfetto per una tavola di classe e occasioni speciali.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_kXpwKJ": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Scopri le migliori collezioni di Bone China e aggiungi un tocco di prestigio alla tua tavola!",
+            "link": "shopify://collections/piatti-in-bone-china"
+          }
+        }
+      },
+      "block_order": [
+        "column_ChXLxh",
+        "column_kXpwKJ"
+      ],
+      "settings": {
+        "title": "<strong>Un’Antica Tradizione di Eleganza: La Storia della Bone China</strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "shopify://collections/piatti-in-bone-china",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
       }
     },
     "rich_text_JKem9D": {
@@ -490,6 +533,7 @@
     "image_with_text_CBxYKc",
     "multicolumn_bEDH9B",
     "rich_text_LczX9r",
+    "multicolumn_KKQxqM",
     "rich_text_JKem9D"
   ]
 }
