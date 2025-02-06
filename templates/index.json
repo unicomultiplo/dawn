@@ -309,7 +309,7 @@
           "type": "heading",
           "settings": {
             "heading": "Saldi di Gennaio",
-            "heading_size": "hxl"
+            "heading_size": "h0"
           }
         },
         "text_dPHyUN": {
@@ -336,16 +336,15 @@
         "text_dPHyUN",
         "buttons_NhU4Ey"
       ],
-      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/pattern_circles-4_1_4_0-0_45_1__hsla_45_64_57_1.00__hsla_45_87_66_1.00.png",
-        "image_2": "shopify://shop_images/Slide-sotto.3.jpg",
+        "image": "shopify://shop_images/con-me-lampada-mani-seletti.jpg",
+        "image_2": "shopify://shop_images/vaso-holy-love-in-bloom-cuore-seletti.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "scheme-3",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
