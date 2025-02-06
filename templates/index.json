@@ -340,7 +340,7 @@
       "settings": {
         "image": "shopify://shop_images/con-me-lampada-mani-seletti.jpg",
         "image_2": "shopify://shop_images/vaso-holy-love-in-bloom-cuore-seletti.jpg",
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 20,
         "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
@@ -348,7 +348,7 @@
         "color_scheme": "scheme-3",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
+        "stack_images_on_mobile": false,
         "show_text_below": false
       }
     },
