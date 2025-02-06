@@ -312,18 +312,11 @@
             "heading_size": "h0"
           }
         },
-        "text_dPHyUN": {
-          "type": "text",
-          "settings": {
-            "text": "Sconti fino al 50%",
-            "text_style": "body"
-          }
-        },
         "buttons_NhU4Ey": {
           "type": "buttons",
           "settings": {
             "button_label_1": "Vai alla promozione",
-            "button_link_1": "https://www.unicoemultiplo.com/collections/offerte-e-promo",
+            "button_link_1": "shopify://collections/idee-regalo-san-valentino",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -333,7 +326,6 @@
       },
       "block_order": [
         "heading_q7gRMd",
-        "text_dPHyUN",
         "buttons_NhU4Ey"
       ],
       "settings": {
