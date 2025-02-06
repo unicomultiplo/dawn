@@ -17,7 +17,7 @@
           "settings": {
             "image": "shopify://shop_images/Slide-San-Valentino.jpg",
             "heading": "San Valentino 2025",
-            "heading_size": "hxxl",
+            "heading_size": "hxl",
             "subheading": "",
             "button_label": "Scegli con Amore!",
             "link": "shopify://collections/idee-regalo-san-valentino",
@@ -52,7 +52,7 @@
           "type": "heading",
           "settings": {
             "heading": "San Valentino 2025",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "buttons_Ypy3TK": {
@@ -60,7 +60,7 @@
           "settings": {
             "button_label_1": "Scegli con Amore!",
             "button_link_1": "shopify://collections/idee-regalo-san-valentino",
-            "button_style_secondary_1": false,
+            "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -71,6 +71,7 @@
         "heading_jaCi8R",
         "buttons_Ypy3TK"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Slide-San-Valentino.jpg",
         "image_overlay_opacity": 0,
@@ -82,7 +83,7 @@
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
-        "show_text_below": false
+        "show_text_below": true
       }
     },
     "rich_text_cn9HQ7": {
