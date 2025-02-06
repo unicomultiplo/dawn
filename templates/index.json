@@ -236,20 +236,20 @@
         "heading_W3Gywr": {
           "type": "heading",
           "settings": {
-            "heading": "Coltelli BE-KNife | KnIndustrie",
+            "heading": "La Raffinatezza della Bone China",
             "heading_size": "h1"
           }
         },
         "text_yfYBkm": {
           "type": "text",
           "settings": {
-            "text": "<p>Unione tra alta tecnologia e maestria artigianale. Composta da 14 coltelli da cucina, è il risultato della collaborazione tra KnIndustrie e Coltellerie Berti, che dal 1895 creano utensili di qualità con materiali pregiati e cura nei dettagli.</p>"
+            "text": "<p>Alla <strong>scoperta della Bone China</strong>, dalle sue origini alla manutenzione perfetta, con consigli per l'acquisto.</p>"
           }
         },
         "button_nRa76D": {
           "type": "button",
           "settings": {
-            "button_label": "Scoprilo Subito!",
+            "button_label": "Leggi di più!",
             "button_link": "shopify://collections/knindustrie-catalogo-prodotti-coltelli-be-knife",
             "button_style_secondary": false,
             "button_label_2": "",
@@ -278,9 +278,9 @@
         "column_4PjnNt": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Knindustrie-coltelli-1.webp",
+            "image": "shopify://shop_images/Slide-sotto.3.jpg",
             "title": "",
-            "text": "<h1>  <strong> KNINDUSTRIE</strong></h1>",
+            "text": "",
             "link_label": "",
             "link": "shopify://collections/knindustrie-catalogo-prodotti-coltelli-be-knife"
           }
@@ -288,7 +288,7 @@
         "column_pkHkxr": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Knindustrie-coltelli.webp",
+            "image": "shopify://shop_images/Slide-sotto.4.jpg",
             "title": "",
             "text": "",
             "link_label": "",
