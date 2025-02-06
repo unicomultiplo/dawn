@@ -15,7 +15,7 @@
         "slide_NWJFHf": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/SanValentino.webp",
+            "image": "shopify://shop_images/Slide-San-Valentino.jpg",
             "heading": "San Valentino 2025",
             "heading_size": "hxxl",
             "subheading": "",
@@ -51,15 +51,15 @@
         "heading_jaCi8R": {
           "type": "heading",
           "settings": {
-            "heading": "La Tua Tavola a Prezzo Speciale",
+            "heading": "San Valentino 2025",
             "heading_size": "h1"
           }
         },
         "buttons_Ypy3TK": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Lasciati Ispirare!",
-            "button_link_1": "shopify://collections/cucina-e-tavola",
+            "button_label_1": "Scegli con Amore!",
+            "button_link_1": "shopify://collections/idee-regalo-san-valentino",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -71,18 +71,17 @@
         "heading_jaCi8R",
         "buttons_Ypy3TK"
       ],
-      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/white-dinner.webp",
+        "image": "shopify://shop_images/Slide-San-Valentino.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "large",
-        "desktop_content_position": "top-left",
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
-        "desktop_content_alignment": "left",
-        "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-5152f450-2781-4fd5-8e48-921adbaa0cbc",
         "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
         "show_text_below": false
       }
     },
