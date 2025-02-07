@@ -497,9 +497,9 @@
         "button_9TwHya": {
           "type": "button",
           "settings": {
-            "button_label": "Etichetta pulsante",
-            "button_link": "",
-            "button_style_secondary": false,
+            "button_label": "Scopri Ora!",
+            "button_link": "shopify://collections/piatti-in-bone-china",
+            "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
