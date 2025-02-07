@@ -630,7 +630,7 @@
             "image": "shopify://shop_images/Bone-China.webp",
             "title": "",
             "text": "",
-            "link_label": "Scopri le migliori collezioni di Bone China e aggiungi un tocco di prestigio alla tua tavola!",
+            "link_label": "",
             "link": "shopify://collections/piatti-in-bone-china"
           }
         }
@@ -652,8 +652,42 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "rich_text_6qfX7g": {
+      "type": "rich-text",
+      "blocks": {
+        "text_KCBEwa": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Scopri le migliori collezioni di Bone China e aggiungi un tocco di prestigio alla tua tavola!</strong></h3>"
+          }
+        },
+        "button_YFmkH4": {
+          "type": "button",
+          "settings": {
+            "button_label": "Vedi Ora!",
+            "button_link": "shopify://collections/piatti-in-bone-china",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_KCBEwa",
+        "button_YFmkH4"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
       }
     },
     "multicolumn_HpnGYB": {
@@ -765,6 +799,7 @@
     "multirow_A8NqfX",
     "multicolumn_tim6dE",
     "multicolumn_Exw9py",
+    "rich_text_6qfX7g",
     "multicolumn_HpnGYB",
     "collection_list_kjc7qg"
   ]
