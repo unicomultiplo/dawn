@@ -394,16 +394,6 @@
     "multicolumn_pyNBEg": {
       "type": "multicolumn",
       "blocks": {
-        "column_Dc34aY": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Illuminazione.jpg",
-            "title": "",
-            "text": "<h4><strong>Illuminazione</strong></h4>",
-            "link_label": "",
-            "link": "shopify://collections/lampade"
-          }
-        },
         "column_kUiCKr": {
           "type": "column",
           "settings": {
@@ -427,41 +417,51 @@
         "column_H9PG3A": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi-1.webp",
+            "image": "shopify://shop_images/Cucina.jpg",
             "title": "",
-            "text": "<h4><a href=\"/products/5026-bitossi-home-tavola-scomposta-vaso-conchiglia-verde\" title=\"Bitossi Home La Tavola Scomposta Vaso Conchiglia Verde\"><strong>Bitossi Home </strong>- Vaso Conchiglia</a></h4>",
+            "text": "<h4><strong>Cucina</strong></h4>",
             "link_label": "",
-            "link": "shopify://products/5026-bitossi-home-tavola-scomposta-vaso-conchiglia-verde"
+            "link": "shopify://collections/cucina-e-tavola-pentole-padelle-tegami"
           }
         },
-        "column_mbxQN4": {
+        "column_Dc34aY": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Nataleconveniente.webp",
+            "image": "shopify://shop_images/Illuminazione.jpg",
             "title": "",
-            "text": "<h4><a href=\"/products/2094-fiorira-un-giardino-pino-stecchi-luminosi-albero-di-natale-luminoso\" title=\"Fiorirà un giardino Pino stecchi luminosi albero di Natale luminoso\"><strong>Fiorirà un Giardino</strong> - Albero Stecchi</a></h4>",
+            "text": "<h4><strong>Illuminazione</strong></h4>",
             "link_label": "",
-            "link": "shopify://products/2094-fiorira-un-giardino-pino-stecchi-luminosi-albero-di-natale-luminoso"
+            "link": "shopify://collections/lampade"
           }
         },
         "column_7y4mWL": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/brabantia_2b70c928-f5fb-48bb-8888-72a59507d256.webp",
+            "image": "shopify://shop_images/Idee-regalo_6915b911-fabf-419d-9ccd-2ac540e33078.jpg",
             "title": "",
-            "text": "<h4><a href=\"/products/8174-brabantia-mindset-portascopino-da-bagno\" title=\"Brabantia MindSet Porta Scopino da appoggio - Bianco\"><strong>Brabantia</strong> - Portascopino</a></h4>",
+            "text": "<p><strong>Idee Regalo</strong></p>",
             "link_label": "",
-            "link": "shopify://products/8174-brabantia-mindset-portascopino-da-bagno"
+            "link": "shopify://collections/idee-regalo"
+          }
+        },
+        "column_mbxQN4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bagno.jpg",
+            "title": "",
+            "text": "<h4><strong>Bagno</strong></h4>",
+            "link_label": "",
+            "link": "shopify://collections/complementi-arredo-bagno"
           }
         }
       },
       "block_order": [
-        "column_Dc34aY",
         "column_kUiCKr",
         "column_RtQ7KC",
         "column_H9PG3A",
-        "column_mbxQN4",
-        "column_7y4mWL"
+        "column_Dc34aY",
+        "column_7y4mWL",
+        "column_mbxQN4"
       ],
       "custom_css": [
         ".background-none .multicolumn-card__image-wrapper {margin: unset;"
@@ -470,7 +470,7 @@
         "title": "",
         "heading_size": "h2",
         "image_width": "full",
-        "image_ratio": "portrait",
+        "image_ratio": "adapt",
         "columns_desktop": 6,
         "column_alignment": "center",
         "background_style": "none",
