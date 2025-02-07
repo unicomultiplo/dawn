@@ -397,31 +397,31 @@
         "column_Dc34aY": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/estetico-quotidiano.webp",
+            "image": "shopify://shop_images/Illuminazione.jpg",
             "title": "",
-            "text": "<h4><a href=\"/collections/seletti-catalogo-prodotti-estetico-quotidiano\" title=\"Seletti estetico quotidiano\"><strong>Seletti -</strong> Estetico Quotidiano</a></h4>",
+            "text": "<h4><strong>Illuminazione</strong></h4>",
             "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-estetico-quotidiano"
-          }
-        },
-        "column_RtQ7KC": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/KnIndustrie-1.webp",
-            "title": "",
-            "text": "<h4><a href=\"/products/knindustrie-centrotavola-gastronomico-girevole-nero\" title=\"knIndustrie Centrotavola Gastronomico Girevole Nero\"><strong>KnIndustrie - </strong> Centrotavola Girevole</a></h4>",
-            "link_label": "",
-            "link": "shopify://products/knindustrie-centrotavola-gastronomico-girevole-nero"
+            "link": "shopify://collections/lampade"
           }
         },
         "column_kUiCKr": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/joseph.webp",
+            "image": "shopify://shop_images/Tavola.2.jpg",
             "title": "",
-            "text": "<h4><a href=\"https://www.unicoemultiplo.com/products/joseph-joseph-dash-pestello-mortaio-in-granito\" title=\"https://www.unicoemultiplo.com/products/joseph-joseph-dash-pestello-mortaio-in-granito\"><strong>Joseph Joseph -</strong> Motaio e Pestello</a></h4>",
+            "text": "<h4><strong>Tavola</strong></h4>",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/products/joseph-joseph-dash-pestello-mortaio-in-granito"
+            "link": "shopify://collections/cucina-e-tavola"
+          }
+        },
+        "column_RtQ7KC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Vassoi-e-taglieri.2.jpg",
+            "title": "",
+            "text": "<h4><strong>Vassoi e Taglieri</strong></h4>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata"
           }
         },
         "column_H9PG3A": {
@@ -457,8 +457,8 @@
       },
       "block_order": [
         "column_Dc34aY",
-        "column_RtQ7KC",
         "column_kUiCKr",
+        "column_RtQ7KC",
         "column_H9PG3A",
         "column_mbxQN4",
         "column_7y4mWL"
