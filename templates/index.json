@@ -429,7 +429,7 @@
           "settings": {
             "image": "shopify://shop_images/Illuminazione.jpg",
             "title": "",
-            "text": "<h4><strong>Illuminazione</strong></h4>",
+            "text": "<h4><strong>Illuminazione: non la solita!</strong></h4>",
             "link_label": "",
             "link": "shopify://collections/lampade"
           }
@@ -439,7 +439,7 @@
           "settings": {
             "image": "shopify://shop_images/Idee-regalo_6915b911-fabf-419d-9ccd-2ac540e33078.jpg",
             "title": "",
-            "text": "<h4><strong>Idee Regalo</strong></h4>",
+            "text": "<h4><strong>Idee Regalo per sorprendere</strong></h4>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo"
           }
@@ -449,7 +449,7 @@
           "settings": {
             "image": "shopify://shop_images/Bagno.jpg",
             "title": "",
-            "text": "<h4><strong>Bagno</strong></h4>",
+            "text": "<h4><strong>Per un Bagno funzionale</strong></h4>",
             "link_label": "",
             "link": "shopify://collections/complementi-arredo-bagno"
           }
