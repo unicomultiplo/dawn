@@ -312,7 +312,7 @@
         "text_JmwQRX": {
           "type": "text",
           "settings": {
-            "text": "<h3></h3><p>Sembrano simili, ma la differenza si nota subito! La <strong>Bone China</strong> è più <strong>leggera, brillante e resistente</strong>, grazie a una composizione speciale che la rende unica. Ha un tocco raffinato ed è più sottile rispetto alla <strong>porcellana tradizionale</strong>, che invece risulta più pesante e opaca.</p><p>Oltre all’estetica, cambia anche la resistenza: la <strong>Bone China assorbe meglio gli urti</strong>, rendendola perfetta sia per le occasioni speciali che per l’uso quotidiano. </p><p>### inserire qui  la tabella e togliere l'immagine e inserirla sopra###<br/><br/><a href=\"https://cdn.shopify.com/s/files/1/0839/3808/3081/files/bone-china-caratteristiche-composizione.pdf?v=1738175118\" title=\"https://cdn.shopify.com/s/files/1/0839/3808/3081/files/bone-china-caratteristiche-composizione.pdf?v=1738175118\">COMPOSIZIONE E CARATTERISTICHE</a></p><h3><strong>Come Riconoscere la Vera Bone China </strong></h3><p></p><ul><li><strong>Colore e trasparenza:</strong> presenta un caldo bagliore avorio visibile in controluce.</li><li><strong>Spessore e leggerezza:</strong> è più sottile e leggera rispetto alla porcellana tradizionale, ma          altrettanto resistente.</li><li><strong>Prezzo:</strong> il costo è più elevato, data la complessità del processo produttivo e l'uso di materiali di alta qualità.</li></ul><p>Acquistare Bone China significa scegliere una qualità che dura nel tempo e un'eleganza senza pari. </p>",
+            "text": "<h3></h3><p>Sembrano simili, ma la differenza si nota subito! La <strong>Bone China</strong> è più <strong>leggera, brillante e resistente</strong>, grazie a una composizione speciale che la rende unica. Ha un tocco raffinato ed è più sottile rispetto alla <strong>porcellana tradizionale</strong>, che invece risulta più pesante e opaca.</p><p>Oltre all’estetica, cambia anche la resistenza: la <strong>Bone China assorbe meglio gli urti</strong>, rendendola perfetta sia per le occasioni speciali che per l’uso quotidiano. </p><p></p><p><strong>###inserire la spiegazione sotto tutta lunga e la tabella inserire qui  la tabella </strong></p><p></p><h3><strong>Come riconoscere la vera Bone China (e perché ne vale la pena)</strong></h3><p>Se hai mai tenuto in mano un piatto o una tazza e ti sei chiesto: <em>\"Sarà davvero Bone China?\"</em>, c’è un trucco per capirlo subito. La <strong>vera Bone China</strong> è incredibilmente <strong>leggera</strong>, ma sorprendentemente <strong>resistente</strong>. Ha una brillantezza naturale e, se la metti controluce, è leggermente traslucida.</p><p>A differenza della porcellana tradizionale, è più sottile e liscia al tatto, ma senza perdere solidità. È proprio questa combinazione di <strong>eleganza e durevolezza</strong> che la rende così speciale. Usata dai migliori brand di design, è sinonimo di qualità e stile senza tempo.</p><p>Vale la pena sceglierla? Assolutamente sì! Aggiunge un tocco di classe alla tavola e dura nel tempo, perfetta per chi vuole <strong>bellezza e praticità</strong> insieme. Una volta provata, non tornerai più indietro! 😉</p><p><br/><a href=\"https://cdn.shopify.com/s/files/1/0839/3808/3081/files/bone-china-caratteristiche-composizione.pdf?v=1738175118\" title=\"https://cdn.shopify.com/s/files/1/0839/3808/3081/files/bone-china-caratteristiche-composizione.pdf?v=1738175118\">COMPOSIZIONE E CARATTERISTICHE</a></p><p><br/>La sua unicità è data da un processo produttivo sofisticato: viene <strong>cotta a temperature tra 1200 e 1400°C</strong>, un trattamento che vetrifica i materiali, ed è proprio questo che la <strong>lucente, resistente e traslucida</strong>.</p><p></p><p>Il <strong>caolino</strong>, un’argilla purissima a basso contenuto di ferro, garantisce una superficie <strong>compatta e liscia</strong>, riducendo la porosità e impedendo l’assorbimento di <strong>macchie e odori</strong>. </p>",
             "text_style": "body"
           }
         },
@@ -386,7 +386,26 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>La <strong>Bone China</strong> nasce in Inghilterra alla fine del XVIII secolo grazie a <strong>Josiah Spode</strong>, che perfezionò la formula aggiungendo cenere d'osso alla porcellana per aumentarne resistenza e traslucenza. </p><p>Questo materiale divenne rapidamente simbolo di lusso e qualità, conquistando la nobiltà e i migliori artigiani europei. Ancora oggi, la Bone China è apprezzata per la sua leggerezza, brillantezza e resistenza, rendendola la scelta ideale per piatti e servizi da tavola di alta gamma.</p>",
+            "text": "<h3><strong>Dove e come è nata la Bone China</strong></h3><h3></h3><ul><li>La <strong>Bone China</strong> nasce in Inghilterra alla fine del XVIII secolo grazie a <strong>Josiah Spode</strong>, che perfezionò la formula aggiungendo cenere d'osso alla porcellana per aumentarne resistenza e traslucenza. </li></ul><p></p><p></p><p></p><p></p><p>###QUI METTEREI UNA IMMAGINE EMOZIONALE##</p><p></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_zAVLFP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bonechinelatraslucenza.webp",
+            "title": "Colonna",
+            "text": "<h3><strong>Perché la Bone China è considerata un lusso intramontabile</strong></h3><ul><li>Fin dalla sua nascita, la <strong>Bone China</strong> è stata sinonimo di <strong>eleganza e qualità</strong>, conquistando nobiltà e maestri artigiani in tutta Europa. La sua combinazione unica di <strong>leggerezza, brillantezza e resistenza</strong> l'ha resa la scelta perfetta per chi cerca raffinatezza senza compromessi. Ancora oggi, è il materiale preferito per piatti e servizi da tavola di alta gamma, aggiungendo un tocco di lusso senza tempo a ogni mise en place.</li></ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_QjeBJh": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>La Bone China oggi: design e innovazione</strong></h3>",
             "link_label": "",
             "link": ""
           }
@@ -395,7 +414,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><br/> <br/>La sua unicità è data da un processo produttivo sofisticato: viene <strong>cotta a temperature tra 1200 e 1400°C</strong>, un trattamento che vetrifica i materiali, rendendola <strong>lucente, resistente e straordinariamente traslucida</strong>.<br/> Il <strong>caolino</strong>, un’argilla purissima a basso contenuto di ferro, garantisce una superficie <strong>compatta e liscia</strong>, riducendo la porosità e impedendo l’assorbimento di <strong>macchie e odori</strong>. </p>",
+            "text": "<p>Nata nel cuore dell’Inghilterra del XVIII secolo, la <strong>Bone China</strong> ha attraversato secoli di storia senza mai perdere il suo fascino. </p><p>Se un tempo era riservata alle tavole della nobiltà, oggi è diventata un’icona senza tempo, capace di unire tradizione e modernità.</p><p>L’evoluzione del design ha dato nuova vita a questo materiale straordinario: dai motivi classici alle linee minimaliste e contemporanee, la <strong>Bone China</strong> continua a reinventarsi, rimanendo protagonista delle tavole più raffinate. I grandi marchi la scelgono per la sua <strong>qualità ineguagliabile</strong>, trasformandola in un simbolo di lusso discreto e senza tempo.</p><p></p><p>Non è solo una questione di estetica: la sua <strong>durabilità e versatilità</strong> la rendono perfetta per chi ama circondarsi di oggetti belli ma anche funzionali. Oggi, possedere un servizio in <strong>Bone China</strong> significa portare in tavola una storia di eccellenza e innovazione, in cui il passato incontra il presente con eleganza.</p>",
             "link_label": "",
             "link": ""
           }
@@ -413,11 +432,13 @@
       },
       "block_order": [
         "column_ChXLxh",
+        "column_zAVLFP",
+        "column_QjeBJh",
         "column_GPdbat",
         "column_kXpwKJ"
       ],
       "settings": {
-        "title": "<strong>Un’Antica Tradizione di Eleganza: La Storia della Bone China</strong>",
+        "title": "<strong> La storia della Bone China: un’antica tradizione di eleganza</strong>",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
