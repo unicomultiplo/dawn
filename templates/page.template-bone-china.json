@@ -265,7 +265,7 @@
         "text_yatCWr": {
           "type": "text",
           "settings": {
-            "text": "<p>Perché è la <strong>porcellana più elegante e resistente</strong> che esista! Leggera ma molto robusta, brillante e capare di illuminare ogni tavola. È la scelta preferita dai grandi marchi per creare piatti di design ed è amata nei ristoranti di lusso e nelle case più raffinate. </p><p>Perfetta per le occasioni speciali, ma anche per l’uso quotidiano, unisce <strong>stile e qualità</strong> in modo insuperabile. Una volta provata, è impossibile tornare indietro. <strong>Ecco perché tutti ne parlano!</strong></p><p></p><h3><strong>Cosa rende la Bone China così speciale?</strong></h3><p>Ha quel qualcosa in più che la distingue da qualsiasi altra porcellana. È incredibilmente <strong>leggera</strong>, ma sorprendentemente <strong>resistente</strong>. Il suo colore luminoso e la sua finezza la rendono unica, perfetta per una tavola curata nei minimi dettagli. Non è solo bella da vedere, ma anche pratica e durevole, ideale per chi ama unire <strong>eleganza e funzionalità</strong>. È il tocco di classe che trasforma ogni pasto in un’esperienza speciale. <strong>Ecco perché fa la differenza!</strong></p>",
+            "text": "<p>Perché è la <strong>porcellana più elegante e resistente</strong> che esista! Leggera ma molto robusta, brillante e capare di illuminare ogni tavola. È la scelta preferita dai grandi marchi per creare piatti di design ed è amata nei ristoranti di lusso e nelle case più raffinate. </p><p>Perfetta per le occasioni speciali, ma anche per l’uso quotidiano, unisce <strong>stile e qualità</strong> in modo insuperabile. </p><p>Una volta provata, è impossibile tornare indietro. <strong>Ecco perché tutti ne parlano!</strong></p><p></p><h3><strong>Cosa rende la Bone China così speciale?</strong></h3><p>Ha quel qualcosa in più che la distingue da qualsiasi altra porcellana.</p><p> È incredibilmente <strong>leggera</strong>, ma sorprendentemente <strong>resistente</strong>. Il suo colore luminoso e la sua finezza la rendono unica, perfetta per una tavola curata nei minimi dettagli. </p><p>Non è solo bella da vedere, ma anche pratica e durevole, ideale per chi ama unire <strong>eleganza e funzionalità</strong>. È il tocco di classe che trasforma ogni pasto in un’esperienza speciale.</p><p> <strong>Ecco perché fa la differenza!</strong></p>",
             "text_style": "body"
           }
         },
@@ -386,7 +386,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3><strong>Dove e come è nata la Bone China</strong></h3><h3></h3><ul><li>La <strong>Bone China</strong> nasce in Inghilterra alla fine del XVIII secolo grazie a <strong>Josiah Spode</strong>, che perfezionò la formula aggiungendo cenere d'osso alla porcellana per aumentarne resistenza e traslucenza. </li></ul><p></p><p></p><p></p><p></p><p>###QUI METTEREI UNA IMMAGINE EMOZIONALE##</p><p></p>",
+            "text": "<h3><strong>Dove e come è nata la Bone China</strong></h3><h3></h3><ul><li>La <strong>Bone China</strong> nasce in Inghilterra alla fine del XVIII secolo grazie a <strong>Josiah Spode</strong>, che perfezionò la formula aggiungendo cenere d'osso alla porcellana per aumentarne resistenza e traslucenza. </li></ul><p></p><p></p><p></p><p></p><p></p><p></p>",
             "link_label": "",
             "link": ""
           }
@@ -395,8 +395,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Bonechinelatraslucenza.webp",
-            "title": "Colonna",
-            "text": "<h3><strong>Perché la Bone China è considerata un lusso intramontabile</strong></h3><ul><li>Fin dalla sua nascita, la <strong>Bone China</strong> è stata sinonimo di <strong>eleganza e qualità</strong>, conquistando nobiltà e maestri artigiani in tutta Europa. La sua combinazione unica di <strong>leggerezza, brillantezza e resistenza</strong> l'ha resa la scelta perfetta per chi cerca raffinatezza senza compromessi. Ancora oggi, è il materiale preferito per piatti e servizi da tavola di alta gamma, aggiungendo un tocco di lusso senza tempo a ogni mise en place.</li></ul>",
+            "title": "",
+            "text": "<h3><strong>Perché la Bone China è considerata un lusso intramontabile</strong></h3><ul><li>Fin dalla sua nascita, la <strong>Bone China</strong> è stata sinonimo di <strong>eleganza e qualità</strong>, conquistando nobiltà e maestri artigiani in tutta Europa. </li><li>La sua combinazione unica di <strong>leggerezza, brillantezza e resistenza</strong> l'ha resa la scelta perfetta per chi cerca raffinatezza senza compromessi. </li></ul><p></p><p></p><p>Ancora oggi, è il materiale preferito per piatti e servizi da tavola di alta gamma, aggiungendo un tocco di lusso senza tempo a ogni mise en place.</p>",
             "link_label": "",
             "link": ""
           }
@@ -650,7 +650,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Vuoi conoscere di più sulla manutenzione della Bone China? Scopri come prendersene cura per preservarne la bellezza.</p><p>Per mantenere la tua Bone China splendida nel tempo:</p><ol><li><strong>Lavaggio a mano:</strong> preferibile per preservare decorazioni delicate o finiture in oro/argento.</li><li><strong>Uso in lavastoviglie:</strong> consentito per molti modelli moderni, ma scegli programmi delicati e detergenti non abrasivi.</li><li><strong>Asciugatura:</strong> usa un panno morbido per evitare macchie e preservare la lucentezza.</li><li><strong>Conservazione:</strong> impila i pezzi separandoli con feltro o carta velina per evitare graffi.</li></ol><p></p>",
+            "text": "<p>Vuoi conoscere di più sulla manutenzione della Bone China? Scopri come prendersene cura per preservarne la bellezza.</p><p>Per mantenere la tua Bone China splendida nel tempo.</p><h3><strong>Come prendersi cura della Bone China: consigli utili</strong></h3><p>Per mantenere la <strong>Bone China</strong> sempre perfetta nel tempo, bastano poche attenzioni: </p><p>✔️ <strong>Lavaggio a mano consigliato</strong> per piatti con <strong>decorazioni delicate o finiture in oro/argento</strong>, utilizzando acqua tiepida e un detergente delicato.<br/>✔️ <strong>Lavastoviglie? Sì, ma con attenzione!</strong> Se i piatti sono completamente bianchi, possono essere lavati in lavastoviglie a basse temperature e con cicli delicati.<br/>✔️ <strong>Evitare sbalzi termici</strong>: meglio non passare da temperature fredde a calde troppo rapidamente per prevenire eventuali micro-fratture.<br/>✔️ <strong>Impilare con cura</strong>: per evitare graffi, inserire un foglio di carta o un panno sottile tra un piatto e l’altro.<br/>✔️ <strong>No a spugne abrasive</strong>: usa solo materiali morbidi per non rovinare la superficie.</p><p>Seguendo questi piccoli accorgimenti, la tua <strong>Bone China</strong> manterrà la sua bellezza e luminosità per anni! ✨</p>",
             "link_label": "",
             "link": ""
           }
@@ -728,7 +728,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h2></h2><p>La Bone China non è solo una scelta di eleganza, ma anche un investimento nella qualità e nella tradizione artigianale. Che tu stia apparecchiando una tavola per un evento speciale o cercando pezzi di design per il tuo quotidiano, questo materiale è sinonimo di raffinatezza e durata.</p><p>Con la giusta cura e attenzione, la Bone China resterà parte della tua casa per anni, portando con sé una storia di bellezza, tradizione e innovazione.</p><p></p>",
+            "text": "<p></p><h3><strong>Cosa significa davvero “Bone China”?</strong></h3><ul><li>Il nome <strong>Bone China</strong> potrebbe suonare misterioso, ma il suo significato è semplice: si tratta di una <strong>porcellana arricchita con cenere d’osso</strong>, un ingrediente che le conferisce la sua incredibile <strong>lucentezza, leggerezza e resistenza</strong>.</li></ul><h3><strong>Perché la Bone China è considerata così preziosa?</strong></h3><h3></h3><ul><li>La <strong>Bone China</strong> è preziosa perché racchiude il meglio di due mondi: la <strong>raffinatezza della porcellana</strong> e una <strong>resistenza sorprendente</strong>. Ciò che la rende unica è la sua composizione speciale.</li></ul><p>A differenza della porcellana tradizionale, è più <strong>dura ma sottile</strong>, risultando elegante e al tempo stesso pratica. Per questo è sempre stata associata a un’idea di <strong>lusso senza tempo.</strong></p><p>Che sia per un’occasione speciale o per l’uso quotidiano, la <strong>Bone China</strong> è un investimento di stile e qualità, capace di durare nel tempo senza perdere il suo fascino. 💫</p><h3><strong>La Bone China è sicura per gli alimenti caldi?</strong></h3><ul><li>Sì, assolutamente! ✅ La <strong>Bone China</strong> è <strong>perfettamente sicura</strong> per servire cibi e bevande calde. Grazie alla sua composizione speciale, resiste bene alle alte temperature senza assorbire sapori o odori.</li></ul><p>Tuttavia, è sempre meglio evitare sbalzi termici troppo bruschi (ad esempio, non metterla direttamente dal freezer al microonde) per preservarne l’integrità nel tempo.</p><p><strong>Se cerchi eleganza e praticità per la tua tavola, la Bone China è la scelta ideale! 🍵✨</strong></p><p></p>",
             "link_label": "",
             "link": ""
           }
@@ -748,7 +748,7 @@
         "column_6MPrhG"
       ],
       "settings": {
-        "title": "<strong>Conclusioni: Perché Scegliere la Bone China</strong>",
+        "title": "<strong>Domande frequenti sulla Bone China</strong>",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
