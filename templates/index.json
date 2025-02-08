@@ -399,7 +399,7 @@
           "settings": {
             "image": "shopify://shop_images/Tavola.2.jpg",
             "title": "",
-            "text": "<h4><strong>Tavola</strong></h4>",
+            "text": "<h4><strong>Tavola: mai uguale!</strong></h4>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola"
           }
@@ -409,7 +409,7 @@
           "settings": {
             "image": "shopify://shop_images/Vassoi-e-taglieri.2.jpg",
             "title": "",
-            "text": "<h4><strong>Vassoi e Taglieri</strong></h4>",
+            "text": "<h4><strong>Vassoi e Taglieri: dalla cucina alla tavola!</strong></h4>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata"
           }
@@ -419,7 +419,7 @@
           "settings": {
             "image": "shopify://shop_images/Cucina.jpg",
             "title": "",
-            "text": "<h4><strong>Cucina</strong></h4>",
+            "text": "<h4><strong>Cucina: tra utilità e Arte</strong></h4>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-pentole-padelle-tegami"
           }
