@@ -317,14 +317,14 @@
         "heading_q7gRMd": {
           "type": "heading",
           "settings": {
-            "heading": "San Valentino",
+            "heading": "Il giorno speciale per chi Ami",
             "heading_size": "h0"
           }
         },
         "buttons_NhU4Ey": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Scegli con Amore!",
+            "button_label_1": "Trova il regalo giusto ora!",
             "button_link_1": "shopify://collections/idee-regalo-san-valentino",
             "button_style_secondary_1": false,
             "button_label_2": "",
