@@ -484,7 +484,8 @@
       "html,body {margin: 0;}",
       "body {font-family: var(--font-body-family); line-height: 1.5;}",
       "pickup-availability,.product__tax {display: none;}",
-      ".collection-hero__description {max-width: 100% !important;}"
+      ".collection-hero__description {max-width: 100% !important;}",
+      "a,a:link,a:visited,a * {text-decoration-color: rgb(var(--color-link));}"
     ]
   }
 }
