@@ -593,23 +593,23 @@
         "heading_BCb7N7": {
           "type": "heading",
           "settings": {
-            "heading": "Immagine con testo",
+            "heading": "Bitossi Home",
             "heading_size": "h1"
           }
         },
         "text_LeRNt7": {
           "type": "text",
           "settings": {
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "text": "<p>Bitossi rappresenta l’incontro perfetto tra <strong>tradizione e modernità</strong>, offrendo collezioni di <strong>Bone China</strong> dal design esclusivo e senza tempo. Ogni linea è pensata per chi desidera una tavola elegante e raffinata, ideale sia per occasioni speciali che per l’uso quotidiano.</p><p><strong>Minimal </strong>– Linee pulite e raffinate.</p><p><strong>Bon Ton</strong> – Equilibrio tra semplicità ed eleganza senza tempo</p>",
             "text_style": "body"
           }
         },
         "button_dVbhGN": {
           "type": "button",
           "settings": {
-            "button_label": "Etichetta pulsante",
-            "button_link": "",
-            "button_style_secondary": false
+            "button_label": "Scopri i nostri servizi Bitossi Home",
+            "button_link": "https://www.unicoemultiplo.com/collections/piatti-in-bone-china?filter.p.vendor=Bitossi+Home&sort_by=manual&#shopify-section-template--22267419984137__product-grid",
+            "button_style_secondary": true
           }
         }
       },
@@ -643,7 +643,7 @@
             "image": "shopify://shop_images/Bitossi-Home-Bon-Ton-Vassoio-ovale-piccolo-ln-Bone-China_3.webp",
             "caption": "",
             "heading": "Bitossi Home",
-            "text": "<p>Bitossi rappresenta l’incontro perfetto tra <strong>tradizione e modernità</strong>, offrendo collezioni di <strong>Bone China</strong> dal design esclusivo e senza tempo. Ogni linea è pensata per chi desidera una tavola elegante e raffinata, ideale sia per occasioni speciali che per l’uso quotidiano.</p><p><strong>Minimal </strong>– Linee pulite e raffinate.</p><p><strong>Bon Ton</strong> – Equilibrio tra semplicità ed eleganza senza tempo</p>",
+            "text": "",
             "button_label": "Scopri i nostri servizi Bitossi Home",
             "button_link": "https://www.unicoemultiplo.com/collections/piatti-in-bone-china?filter.p.vendor=Bitossi+Home&sort_by=manual&#shopify-section-template--22267419984137__product-grid"
           }
