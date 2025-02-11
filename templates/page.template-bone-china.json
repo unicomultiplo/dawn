@@ -425,7 +425,7 @@
             "image": "shopify://shop_images/Solaria-KnIndustrie-piatti-Bone-China.jpg",
             "title": "",
             "text": "",
-            "link_label": "Scopri le migliori collezioni di Bone China e aggiungi un tocco di prestigio alla tua tavola!",
+            "link_label": "",
             "link": "shopify://collections/piatti-in-bone-china"
           }
         }
@@ -452,6 +452,40 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 0
+      }
+    },
+    "rich_text_73PwUA": {
+      "type": "rich-text",
+      "blocks": {
+        "text_NhynLD": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Scopri le migliori collezioni di Bone China e aggiungi un tocco di prestigio alla tua tavola!</strong></h3>"
+          }
+        },
+        "button_hfaMVP": {
+          "type": "button",
+          "settings": {
+            "button_label": "Vedi Ora!",
+            "button_link": "shopify://collections/piatti-in-bone-china",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_NhynLD",
+        "button_hfaMVP"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 24
       }
     },
     "multicolumn_wVxtVr": {
@@ -943,6 +977,7 @@
     "featured_collection_8kCVCG",
     "multicolumn_bEDH9B",
     "multicolumn_KKQxqM",
+    "rich_text_73PwUA",
     "multicolumn_wVxtVr",
     "multicolumn_kiWfNN",
     "rich_text_aAFBXa",
