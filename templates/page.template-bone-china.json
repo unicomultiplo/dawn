@@ -158,67 +158,6 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_T79FP8": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_K74rHL": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p><em>💡 </em><em><strong>Lo sapevi?</strong></em><em> Nonostante la delicatezza del suo aspetto,</em><em><strong> la Bone China è più resistente della porcellana tradizionale,</strong></em><em> il che la rende perfetta per un uso quotidiano sofisticato.</em></p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_K74rHL"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "featured_collection_8kCVCG": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "<strong>Esplora ora</strong> le collezioni in Bone China e aggiungi un tocco di classe alla tua tavola",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "piatti-in-bone-china",
-        "products_to_show": 10,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn_eQWbbm": {
       "type": "multicolumn",
       "blocks": {
@@ -344,6 +283,67 @@
         "mobile_content_alignment": "left",
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "multicolumn_T79FP8": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_K74rHL": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><em>💡 </em><em><strong>Lo sapevi?</strong></em><em> Nonostante la delicatezza del suo aspetto,</em><em><strong> la Bone China è più resistente della porcellana tradizionale,</strong></em><em> il che la rende perfetta per un uso quotidiano sofisticato.</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_K74rHL"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_8kCVCG": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "<strong>Esplora ora</strong> le collezioni in Bone China e aggiungi un tocco di classe alla tua tavola",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "piatti-in-bone-china",
+        "products_to_show": 10,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn_bEDH9B": {
@@ -540,20 +540,103 @@
         "padding_bottom": 0
       }
     },
+    "image_with_text_QcgJTF": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_aAYjVx": {
+          "type": "heading",
+          "settings": {
+            "heading": "KnIndustrie",
+            "heading_size": "h1"
+          }
+        },
+        "text_brtDXa": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>KnIndustrie</strong> coniuga <strong>creatività</strong>, dettagli dal sapore <strong>vintage</strong> e un’eleganza senza tempo, dando vita a collezioni in <strong>bone china</strong> perfette per le occasioni speciali.</p><p><strong>KnIndustrie – Sophie e Reggia</strong>: linee moderne e sofisticate, perfette per chi ama il minimalismo e l’innovazione nel design.</p><p><strong>KnIndustrie ShabbyChic </strong>– Design ispirato alle stoviglie d’epoca.</p><p><strong>Armonia-Oro</strong>: Perfetta per una tavola sofisticata con dettagli dorati.</p><p><strong>Asimmetrico </strong>– Innovativa e pensata in collaborazione con lo chef Davide Oldani.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_RbUWQH": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scegli l'eleganza di KnIndustrie",
+            "button_link": "https://www.unicoemultiplo.com/collections/piatti-in-bone-china?filter.p.vendor=KnIndustrie&sort_by=manual&#shopify-section-template--22267419984137__product-grid",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_aAYjVx",
+        "text_brtDXa",
+        "button_RbUWQH"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/KnIndustrie-piatti-in-bone-china.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_PgCzUL": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_BCb7N7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Immagine con testo",
+            "heading_size": "h1"
+          }
+        },
+        "text_LeRNt7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_dVbhGN": {
+          "type": "button",
+          "settings": {
+            "button_label": "Etichetta pulsante",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_BCb7N7",
+        "text_LeRNt7",
+        "button_dVbhGN"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Bitossi-Home-Bon-Ton-Vassoio-ovale-piccolo-ln-Bone-China_3.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multirow_A8NqfX": {
       "type": "multirow",
       "blocks": {
-        "row_DW8biM": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/KnIndustrie-piatti-in-bone-china.webp",
-            "caption": "",
-            "heading": "KnIndustrie",
-            "text": "<p><strong>KnIndustrie</strong> coniuga <strong>creatività</strong>, dettagli dal sapore <strong>vintage</strong> e un’eleganza senza tempo, dando vita a collezioni in <strong>bone china</strong> perfette per le occasioni speciali.</p><p><strong>KnIndustrie – Sophie e Reggia</strong>: linee moderne e sofisticate, perfette per chi ama il minimalismo e l’innovazione nel design.</p><p><strong>KnIndustrie ShabbyChic </strong>– Design ispirato alle stoviglie d’epoca.</p><p><strong>Armonia-Oro</strong>: Perfetta per una tavola sofisticata con dettagli dorati.</p><p><strong>Asimmetrico </strong>– Innovativa e pensata in collaborazione con lo chef Davide Oldani.</p>",
-            "button_label": "Scegli l'eleganza di KnIndustrie",
-            "button_link": "https://www.unicoemultiplo.com/collections/piatti-in-bone-china?filter.p.vendor=KnIndustrie&sort_by=manual&#shopify-section-template--22267419984137__product-grid"
-          }
-        },
         "row_eDMFyr": {
           "type": "row",
           "settings": {
@@ -589,7 +672,6 @@
         }
       },
       "block_order": [
-        "row_DW8biM",
         "row_eDMFyr",
         "row_TmgWMq",
         "row_FYFDFN"
@@ -828,6 +910,8 @@
     "multicolumn_wVxtVr",
     "multicolumn_kiWfNN",
     "rich_text_aAFBXa",
+    "image_with_text_QcgJTF",
+    "image_with_text_PgCzUL",
     "multirow_A8NqfX",
     "multicolumn_tim6dE",
     "multicolumn_Exw9py",
