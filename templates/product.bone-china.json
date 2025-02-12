@@ -36,6 +36,13 @@
             "custom_liquid": "<div>{{ product.metafields.custom.short_description | newline_to_br }}\n</div>"
           }
         },
+        "popup_jjVCyJ": {
+          "type": "popup",
+          "settings": {
+            "text": "MATERIALE: BONE china - > Scopri di più",
+            "page": "bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola"
+          }
+        },
         "custom_liquid_EJXmHi": {
           "type": "custom_liquid",
           "settings": {
@@ -96,6 +103,7 @@
         "variant_sku_BLBrqe",
         "price_XLK3Aj",
         "custom_liquid_tm8pXP",
+        "popup_jjVCyJ",
         "custom_liquid_EJXmHi",
         "custom_liquid_W3qmEe",
         "qty_disclaimer_6icb8M",
