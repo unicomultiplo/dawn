@@ -36,10 +36,12 @@
             "custom_liquid": "<div>{{ product.metafields.custom.short_description | newline_to_br }}\n</div>"
           }
         },
-        "popup_jjVCyJ": {
-          "type": "popup",
+        "collapsible_tab_pjWwye": {
+          "type": "collapsible_tab",
           "settings": {
-            "text": "Materiale: Bone China   – Il Top della Porcellana. Leggi di più!",
+            "heading": "Materiale: Bone China",
+            "icon": "clipboard",
+            "content": "<p> Il Top della Porcellana. Leggi di più!</p>",
             "page": "bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola"
           }
         },
@@ -103,7 +105,7 @@
         "variant_sku_BLBrqe",
         "price_XLK3Aj",
         "custom_liquid_tm8pXP",
-        "popup_jjVCyJ",
+        "collapsible_tab_pjWwye",
         "custom_liquid_EJXmHi",
         "custom_liquid_W3qmEe",
         "qty_disclaimer_6icb8M",
