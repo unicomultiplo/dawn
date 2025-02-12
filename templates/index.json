@@ -172,10 +172,10 @@
           "type": "button",
           "settings": {
             "button_label": "Leggi di più!",
-            "button_link": "shopify://collections/piatti-in-bone-china",
+            "button_link": "shopify://pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola",
             "button_style_secondary": true,
             "button_label_2": "",
-            "button_link_2": "shopify://pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola",
+            "button_link_2": "",
             "button_style_secondary_2": false
           }
         }
