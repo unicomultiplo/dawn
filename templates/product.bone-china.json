@@ -39,8 +39,8 @@
         "collapsible_tab_pjWwye": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Materiale:  {{ block.settings.page.title }}",
-            "icon": "eye",
+            "heading": "Materiale:  Bone China",
+            "icon": "serving_dish",
             "content": "<p><a href=\"/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola\" title=\"Bone China: Scopri la Porcellana Più Elegante per la Tua Tavola\"> Il Top della Porcellana. Leggi di più!</a></p>",
             "page": "bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola"
           }
