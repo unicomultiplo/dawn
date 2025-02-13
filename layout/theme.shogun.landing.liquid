@@ -315,7 +315,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         document.documentElement.classList.add('shopify-design-mode');
       }
     </script>
-  </head>
+  
+  {% render 'shogun-head' %}
+</head>
   <body class="gradient{% if settings.animations_hover_elements != 'none' %} animate--hover-{{ settings.animations_hover_elements }}{% endif %}">
     {% include 'shogun-content-handler' %}
 
