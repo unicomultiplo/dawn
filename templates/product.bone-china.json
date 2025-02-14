@@ -161,11 +161,31 @@
         "padding_top": 40,
         "padding_bottom": 28
       }
+    },
+    "shogun-above": {
+      "type": "shogun-above",
+      "settings": {}
+    },
+    "shogun-below": {
+      "type": "shogun-below",
+      "settings": {}
+    },
+    "shogun-helper": {
+      "type": "shogun-helper",
+      "settings": {}
+    },
+    "shogun-optimizer": {
+      "type": "shogun-optimizer",
+      "settings": {}
     }
   },
   "order": [
+    "shogun-helper",
+    "shogun-above",
     "main",
     "custom_liquid_q83gja",
-    "related-products"
+    "related-products",
+    "shogun-below",
+    "shogun-optimizer"
   ]
 }
