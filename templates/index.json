@@ -317,15 +317,15 @@
         "heading_q7gRMd": {
           "type": "heading",
           "settings": {
-            "heading": "Il giorno speciale per chi Ami",
+            "heading": "Seletti Magna Grecia",
             "heading_size": "h0"
           }
         },
         "buttons_NhU4Ey": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Trova il regalo giusto ora!",
-            "button_link_1": "shopify://collections/idee-regalo-san-valentino",
+            "button_label_1": "Terracotta collection: SCOPRILA ORA!",
+            "button_link_1": "shopify://collections/seletti-seletti-magna-graecia",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -338,9 +338,9 @@
         "buttons_NhU4Ey"
       ],
       "settings": {
-        "image": "shopify://shop_images/con-me-lampada-mani-seletti.jpg",
-        "image_2": "shopify://shop_images/vaso-holy-love-in-bloom-cuore-seletti.jpg",
-        "image_overlay_opacity": 20,
+        "image": "shopify://shop_images/Seletti-vaso-Magna-grecia_1.webp",
+        "image_2": "shopify://shop_images/Seletti-vaso-Magna-grecia.webp",
+        "image_overlay_opacity": 30,
         "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
