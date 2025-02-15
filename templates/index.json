@@ -99,7 +99,7 @@
         "text_wLhzph": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Candelabri artigianali dal fascino vintage,</strong> ispirati ai mercatini di antiquariato e reinterpretati con lo stile unico di Miho. Ogni pezzo unisce colori, forme e materiali diversi, creando un elemento decorativo originale e raffinato..</p>"
+            "text": "<p><strong>Candelabri artigianali dal fascino vintage,</strong> ispirati ai mercatini di antiquariato e reinterpretati con lo <strong>stile unico di Miho</strong>. Ogni pezzo unisce colori, forme e materiali diversi, creando un elemento decorativo originale e raffinato..</p>"
           }
         }
       },
