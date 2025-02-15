@@ -92,14 +92,14 @@
         "heading_nXqN4c": {
           "type": "heading",
           "settings": {
-            "heading": "Chi Ama Sorprende!",
+            "heading": "La luce che fa la differenza",
             "heading_size": "h1"
           }
         },
         "text_wLhzph": {
           "type": "text",
           "settings": {
-            "text": "<p>Non lasciare che San Valentino ti colga impreparato, scopri il regalo perfetto per chi ami💖</p>"
+            "text": "<p><strong>Candelabri artigianali dal fascino vintage,</strong> ispirati ai mercatini di antiquariato e reinterpretati con lo stile unico di Miho. Ogni pezzo unisce colori, forme e materiali diversi, creando un elemento decorativo originale e raffinato..</p>"
           }
         }
       },
@@ -124,7 +124,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "idee-regalo-san-valentino",
+        "collection": "miho",
         "products_to_show": 19,
         "columns_desktop": 6,
         "full_width": true,
