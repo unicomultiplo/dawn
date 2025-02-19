@@ -321,10 +321,17 @@
             "heading_size": "h0"
           }
         },
+        "text_F7aC8k": {
+          "type": "text",
+          "settings": {
+            "text": "Terracotta Collection",
+            "text_style": "subtitle"
+          }
+        },
         "buttons_NhU4Ey": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Terracotta collection: SCOPRILA ORA!",
+            "button_label_1": "SCOPRILA ORA!",
             "button_link_1": "shopify://collections/seletti-seletti-magna-graecia",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -335,6 +342,7 @@
       },
       "block_order": [
         "heading_q7gRMd",
+        "text_F7aC8k",
         "buttons_NhU4Ey"
       ],
       "settings": {
