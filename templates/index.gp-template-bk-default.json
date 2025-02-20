@@ -8,6 +8,751 @@
  * ------------------------------------------------------------
  */
 {
+  "sections": {
+    "slideshow_jWzjzL": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_bzftgt": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Miho-candelabro.webp",
+            "heading": "Candelabri Artigianali",
+            "heading_size": "hxl",
+            "subheading": "Luci e Colori di altri tempi",
+            "button_label": "SCEGLI ORA!",
+            "link": "shopify:\/\/collections\/miho",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 10,
+            "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_bzftgt"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Le nostre offerte"
+      }
+    },
+    "image_banner_Afj6hW": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_jaCi8R": {
+          "type": "heading",
+          "settings": {
+            "heading": "San Valentino 2025",
+            "heading_size": "h2"
+          }
+        },
+        "buttons_Ypy3TK": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Scegli con Amore!",
+            "button_link_1": "shopify:\/\/collections\/idee-regalo-san-valentino",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_jaCi8R",
+        "buttons_Ypy3TK"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Slide-San-Valentino.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-5152f450-2781-4fd5-8e48-921adbaa0cbc",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
+    "rich_text_cn9HQ7": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_nXqN4c": {
+          "type": "heading",
+          "settings": {
+            "heading": "La luce che fa la differenza",
+            "heading_size": "h1"
+          }
+        },
+        "text_wLhzph": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Candelabri artigianali dal fascino vintage,<\/strong> ispirati ai mercatini di antiquariato e reinterpretati con lo <strong>stile unico di Miho<\/strong>. Ogni pezzo unisce colori, forme e materiali diversi, creando un elemento decorativo originale e raffinato..<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_nXqN4c",
+        "text_wLhzph"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "full_width": true,
+        "padding_top": 52,
+        "padding_bottom": 20
+      }
+    },
+    "featured_collection_zEJpm8": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "miho",
+        "products_to_show": 19,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "separator_yHaRH3": {
+      "type": "separator",
+      "settings": {
+        "top_spacing": 0,
+        "bottom_spacing": 0,
+        "line_thickness": 1
+      }
+    },
+    "rich_text_3eGJVG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_W3Gywr": {
+          "type": "heading",
+          "settings": {
+            "heading": "La Raffinatezza della Bone China",
+            "heading_size": "h1"
+          }
+        },
+        "text_yfYBkm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Alla <strong>scoperta della Bone China<\/strong>, dalle sue origini alla manutenzione perfetta, con consigli per l'acquisto.<\/p>"
+          }
+        },
+        "button_nRa76D": {
+          "type": "button",
+          "settings": {
+            "button_label": "Leggi di più!",
+            "button_link": "shopify:\/\/pages\/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_W3Gywr",
+        "text_yfYBkm",
+        "button_nRa76D"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 48
+      }
+    },
+    "multicolumn_rGUHzh": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_4PjnNt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Slide-sotto.3.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/pages\/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola"
+          }
+        },
+        "column_pkHkxr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Slide-sotto.4.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/pages\/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola"
+          }
+        }
+      },
+      "block_order": [
+        "column_4PjnNt",
+        "column_pkHkxr"
+      ],
+      "custom_css": [
+        ".background-none .multicolumn-card__image-wrapper {margin: unset;}",
+        ".multicolumn-list__item {position: relative;}",
+        ".multicolumn-card__info {position: absolute; top: 0em; left: 2em; padding-top: 2.5rem;}",
+        ".multicolumn-card__info h3 {color: rgb(var(--color-background)); font-size: 4em; text-shadow: 0px 0px 2em rgba(0, 0, 0, 0.2);}",
+        ".multicolumn-card__info p {font-size: 1.3em; color: rgb(var(--color-background)); text-shadow: 0px 0px 2em rgba(0, 0, 0, 0.2);}",
+        ".multicolumn-card__info > :nth-child(2) {margin-top: 0em;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "slideshow_DEMHDR": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_iYEMXC": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Slide-promo-bone-china.jpg",
+            "heading": "Promo Bone China",
+            "heading_size": "h1",
+            "subheading": "Eleganza senza tempo, sconti fino al 40%",
+            "button_label": "Scopri le offerte",
+            "link": "shopify:\/\/collections\/piatti-in-bone-china",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_iYEMXC"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Presentazione sul nostro brand"
+      }
+    },
+    "featured_collection_7bfTMj": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "uppercase",
+        "collection": "piatti-in-bone-china",
+        "products_to_show": 15,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 24,
+        "padding_bottom": 76
+      }
+    },
+    "image_banner_dHUzbD": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_q7gRMd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Seletti Magna Grecia",
+            "heading_size": "h0"
+          }
+        },
+        "text_F7aC8k": {
+          "type": "text",
+          "settings": {
+            "text": "Terracotta Collection",
+            "text_style": "subtitle"
+          }
+        },
+        "buttons_NhU4Ey": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "SCOPRILA ORA!",
+            "button_link_1": "shopify:\/\/collections\/seletti-seletti-magna-graecia",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_q7gRMd",
+        "text_F7aC8k",
+        "buttons_NhU4Ey"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Seletti-vaso-Magna-grecia_1.webp",
+        "image_2": "shopify:\/\/shop_images\/Seletti-vaso-Magna-grecia.webp",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "separator_b8qrnf": {
+      "type": "separator",
+      "disabled": true,
+      "settings": {
+        "top_spacing": 5,
+        "bottom_spacing": 5,
+        "line_thickness": 1
+      }
+    },
+    "rich_text_7MwH7c": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hwCfYP": {
+          "type": "heading",
+          "settings": {
+            "heading": "Lo stile che dà forma alle tue idee",
+            "heading_size": "h1"
+          }
+        },
+        "text_AUrHzV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unico & Multiplo è idee regalo, oggetti, articoli per esprimere il tuo stile. Dagli accessori per la tavola e la cucina alle proposte per il tempo libero, dalle lampade all'arredo giardino, idee regalo: rendi concrete le tue idee!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hwCfYP",
+        "text_AUrHzV"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 76,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_pyNBEg": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_kUiCKr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tavola.2.jpg",
+            "title": "",
+            "text": "<h4><strong>Tavola: mai uguale!<\/strong><\/h4>",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/cucina-e-tavola"
+          }
+        },
+        "column_RtQ7KC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vassoi-e-taglieri.2.jpg",
+            "title": "",
+            "text": "<h4><strong>Vassoi e Taglieri: dalla cucina alla tavola!<\/strong><\/h4>",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/cucina-e-tavola-vassoi-e-piatti-portata"
+          }
+        },
+        "column_H9PG3A": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Cucina.jpg",
+            "title": "",
+            "text": "<h4><strong>Cucina: tra utilità e Arte<\/strong><\/h4>",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/cucina-e-tavola-pentole-padelle-tegami"
+          }
+        },
+        "column_Dc34aY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Illuminazione.jpg",
+            "title": "",
+            "text": "<h4><strong>Illuminazione: non la solita!<\/strong><\/h4>",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/lampade"
+          }
+        },
+        "column_mbxQN4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Idee-regalo_6915b911-fabf-419d-9ccd-2ac540e33078.jpg",
+            "title": "",
+            "text": "<h4><strong>Idee Regalo per sorprendere<\/strong><\/h4>",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/idee-regalo"
+          }
+        },
+        "column_VbCxwQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bagno.jpg",
+            "title": "",
+            "text": "<h4><strong>Per un Bagno funzionale<\/strong><\/h4>",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/complementi-arredo-bagno"
+          }
+        }
+      },
+      "block_order": [
+        "column_kUiCKr",
+        "column_RtQ7KC",
+        "column_H9PG3A",
+        "column_Dc34aY",
+        "column_mbxQN4",
+        "column_VbCxwQ"
+      ],
+      "custom_css": [
+        ".background-none .multicolumn-card__image-wrapper {margin: unset;"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 52,
+        "padding_bottom": 0
+      }
+    },
+    "separator_HKUMQy": {
+      "type": "separator",
+      "settings": {
+        "top_spacing": 20,
+        "bottom_spacing": 20,
+        "line_thickness": 1
+      }
+    },
+    "rich_text_3WWRXG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8zwk4f": {
+          "type": "heading",
+          "settings": {
+            "heading": "I Nostri Brand",
+            "heading_size": "h1"
+          }
+        },
+        "text_VRF4TV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Le proposte dei migliori designer italiani e internazionali, le ultime proposte e i classici d'autore. <br\/>Lo stile come non lo hai mai visto!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8zwk4f",
+        "text_VRF4TV"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_w64iw4": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_iTHqLj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bitossi.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_4n44GN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Seletti.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_RYybqr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Brandantia.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_UnjJVg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ichendorf.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_iHCTrV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Millefiori.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_BntmaF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Brandani.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_dNExGV": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_iTHqLj",
+        "column_4n44GN",
+        "column_RYybqr",
+        "column_UnjJVg",
+        "column_iHCTrV",
+        "column_BntmaF",
+        "column_dNExGV"
+      ],
+      "custom_css": [],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "shopify:\/\/pages\/i-nostri-brand",
+        "color_scheme": "scheme-a993bf00-7e7e-44f4-ab72-12da0a52eace",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 44,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_fjc6N9": {
+      "type": "rich-text",
+      "blocks": {
+        "button_jicTVi": {
+          "type": "button",
+          "settings": {
+            "button_label": "Vedi tutti i Brand →",
+            "button_link": "shopify:\/\/pages\/i-nostri-brand",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_jicTVi"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 64
+      }
+    },
+    "multicolumn_mrQQRJ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_8HAwtH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/spedizione_1.jpg",
+            "title": "CONSEGNA E RESO GRATIS",
+            "text": "<p>Per tutti gli ordini da 59,00€<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_xaMbin": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pagamenti_sicuri_2.jpg",
+            "title": "PAGAMENTI 100% SICURI",
+            "text": "<p>Carte, PayPal, bonifico, contrassegno<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_8HGPgi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/assistenza_supporto.jpg",
+            "title": "ASSISTENZA E SUPPORTO",
+            "text": "<p>Chat, telefono, email, Whatsapp<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_8HAwtH",
+        "column_xaMbin",
+        "column_8HGPgi"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".elemento {width: 50%; aspect-ratio: 16 \/ 9; height: auto;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "newsletter_6i9tEi": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_7mLhy6": {
+          "type": "heading",
+          "settings": {
+            "heading": "Iscriviti alla nostra Newsletter",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_7FqTVq": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Per iscritti UNICI... Vantaggi MULTIPLI! Entra nella COMMUNITY e avrai <span style=\"text-decoration:underline\">subito il 10% di sconto<\/span> sul primo acquisto.<\/p><p><\/p>"
+          }
+        },
+        "email_form_EtXRTJ": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_7mLhy6",
+        "paragraph_7FqTVq",
+        "email_form_EtXRTJ"
+      ],
+      "custom_css": [
+        ".newsletter__wrapper {border: 1px solid rgba(var(--color-foreground), 0.08); border-radius: 0.5em; margin-top: 52px;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    }
+  },
   "order": [
     "slideshow_jWzjzL",
     "image_banner_Afj6hW",
@@ -28,750 +773,5 @@
     "rich_text_fjc6N9",
     "multicolumn_mrQQRJ",
     "newsletter_6i9tEi"
-  ],
-  "sections": {
-    "featured_collection_7bfTMj": {
-      "settings": {
-        "collection": "piatti-in-bone-china",
-        "color_scheme": "",
-        "columns_desktop": 6,
-        "columns_mobile": "2",
-        "description": "",
-        "description_style": "uppercase",
-        "enable_desktop_slider": true,
-        "full_width": true,
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "padding_bottom": 76,
-        "padding_top": 24,
-        "products_to_show": 15,
-        "quick_add": "none",
-        "show_description": false,
-        "show_rating": false,
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_view_all": true,
-        "swipe_on_mobile": true,
-        "title": "",
-        "view_all_style": "outline"
-      },
-      "type": "featured-collection"
-    },
-    "featured_collection_zEJpm8": {
-      "settings": {
-        "collection": "miho",
-        "color_scheme": "",
-        "columns_desktop": 6,
-        "columns_mobile": "2",
-        "description": "",
-        "description_style": "body",
-        "enable_desktop_slider": true,
-        "full_width": true,
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "padding_bottom": 0,
-        "padding_top": 0,
-        "products_to_show": 19,
-        "quick_add": "none",
-        "show_description": false,
-        "show_rating": false,
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_view_all": true,
-        "swipe_on_mobile": true,
-        "title": "",
-        "view_all_style": "outline"
-      },
-      "type": "featured-collection"
-    },
-    "image_banner_Afj6hW": {
-      "block_order": [
-        "heading_jaCi8R",
-        "buttons_Ypy3TK"
-      ],
-      "blocks": {
-        "buttons_Ypy3TK": {
-          "settings": {
-            "button_label_1": "Scegli con Amore!",
-            "button_label_2": "",
-            "button_link_1": "shopify://collections/idee-regalo-san-valentino",
-            "button_link_2": "",
-            "button_style_secondary_1": true,
-            "button_style_secondary_2": false
-          },
-          "type": "buttons"
-        },
-        "heading_jaCi8R": {
-          "settings": {
-            "heading": "San Valentino 2025",
-            "heading_size": "h2"
-          },
-          "type": "heading"
-        }
-      },
-      "disabled": true,
-      "settings": {
-        "color_scheme": "scheme-5152f450-2781-4fd5-8e48-921adbaa0cbc",
-        "desktop_content_alignment": "center",
-        "desktop_content_position": "middle-center",
-        "image": "shopify://shop_images/Slide-San-Valentino.jpg",
-        "image_behavior": "none",
-        "image_height": "adapt",
-        "image_overlay_opacity": 0,
-        "mobile_content_alignment": "center",
-        "show_text_below": true,
-        "show_text_box": false,
-        "stack_images_on_mobile": false
-      },
-      "type": "image-banner"
-    },
-    "image_banner_dHUzbD": {
-      "block_order": [
-        "heading_q7gRMd",
-        "text_F7aC8k",
-        "buttons_NhU4Ey"
-      ],
-      "blocks": {
-        "buttons_NhU4Ey": {
-          "settings": {
-            "button_label_1": "SCOPRILA ORA!",
-            "button_label_2": "",
-            "button_link_1": "shopify://collections/seletti-seletti-magna-graecia",
-            "button_link_2": "",
-            "button_style_secondary_1": false,
-            "button_style_secondary_2": false
-          },
-          "type": "buttons"
-        },
-        "heading_q7gRMd": {
-          "settings": {
-            "heading": "Seletti Magna Grecia",
-            "heading_size": "h0"
-          },
-          "type": "heading"
-        },
-        "text_F7aC8k": {
-          "settings": {
-            "text": "Terracotta Collection",
-            "text_style": "subtitle"
-          },
-          "type": "text"
-        }
-      },
-      "settings": {
-        "color_scheme": "scheme-3",
-        "desktop_content_alignment": "center",
-        "desktop_content_position": "middle-center",
-        "image": "shopify://shop_images/Seletti-vaso-Magna-grecia_1.webp",
-        "image_2": "shopify://shop_images/Seletti-vaso-Magna-grecia.webp",
-        "image_behavior": "none",
-        "image_height": "small",
-        "image_overlay_opacity": 30,
-        "mobile_content_alignment": "center",
-        "show_text_below": false,
-        "show_text_box": false,
-        "stack_images_on_mobile": false
-      },
-      "type": "image-banner"
-    },
-    "multicolumn_mrQQRJ": {
-      "block_order": [
-        "column_8HAwtH",
-        "column_xaMbin",
-        "column_8HGPgi"
-      ],
-      "blocks": {
-        "column_8HAwtH": {
-          "settings": {
-            "image": "shopify://shop_images/spedizione_1.jpg",
-            "link": "",
-            "link_label": "",
-            "text": "<p>Per tutti gli ordini da 59,00€</p>",
-            "title": "CONSEGNA E RESO GRATIS"
-          },
-          "type": "column"
-        },
-        "column_8HGPgi": {
-          "settings": {
-            "image": "shopify://shop_images/assistenza_supporto.jpg",
-            "link": "",
-            "link_label": "",
-            "text": "<p>Chat, telefono, email, Whatsapp</p>",
-            "title": "ASSISTENZA E SUPPORTO"
-          },
-          "type": "column"
-        },
-        "column_xaMbin": {
-          "settings": {
-            "image": "shopify://shop_images/pagamenti_sicuri_2.jpg",
-            "link": "",
-            "link_label": "",
-            "text": "<p>Carte, PayPal, bonifico, contrassegno</p>",
-            "title": "PAGAMENTI 100% SICURI"
-          },
-          "type": "column"
-        }
-      },
-      "custom_css": [
-        ".elemento {width: 50%; aspect-ratio: 16 / 9; height: auto;}"
-      ],
-      "disabled": true,
-      "settings": {
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "column_alignment": "center",
-        "columns_desktop": 3,
-        "columns_mobile": "1",
-        "heading_size": "h2",
-        "image_ratio": "adapt",
-        "image_width": "third",
-        "padding_bottom": 60,
-        "padding_top": 0,
-        "swipe_on_mobile": false,
-        "title": ""
-      },
-      "type": "multicolumn"
-    },
-    "multicolumn_pyNBEg": {
-      "block_order": [
-        "column_kUiCKr",
-        "column_RtQ7KC",
-        "column_H9PG3A",
-        "column_Dc34aY",
-        "column_mbxQN4",
-        "column_VbCxwQ"
-      ],
-      "blocks": {
-        "column_Dc34aY": {
-          "settings": {
-            "image": "shopify://shop_images/Illuminazione.jpg",
-            "link": "shopify://collections/lampade",
-            "link_label": "",
-            "text": "<h4><strong>Illuminazione: non la solita!</strong></h4>",
-            "title": ""
-          },
-          "type": "column"
-        },
-        "column_H9PG3A": {
-          "settings": {
-            "image": "shopify://shop_images/Cucina.jpg",
-            "link": "shopify://collections/cucina-e-tavola-pentole-padelle-tegami",
-            "link_label": "",
-            "text": "<h4><strong>Cucina: tra utilità e Arte</strong></h4>",
-            "title": ""
-          },
-          "type": "column"
-        },
-        "column_RtQ7KC": {
-          "settings": {
-            "image": "shopify://shop_images/Vassoi-e-taglieri.2.jpg",
-            "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata",
-            "link_label": "",
-            "text": "<h4><strong>Vassoi e Taglieri: dalla cucina alla tavola!</strong></h4>",
-            "title": ""
-          },
-          "type": "column"
-        },
-        "column_VbCxwQ": {
-          "settings": {
-            "image": "shopify://shop_images/Bagno.jpg",
-            "link": "shopify://collections/complementi-arredo-bagno",
-            "link_label": "",
-            "text": "<h4><strong>Per un Bagno funzionale</strong></h4>",
-            "title": ""
-          },
-          "type": "column"
-        },
-        "column_kUiCKr": {
-          "settings": {
-            "image": "shopify://shop_images/Tavola.2.jpg",
-            "link": "shopify://collections/cucina-e-tavola",
-            "link_label": "",
-            "text": "<h4><strong>Tavola: mai uguale!</strong></h4>",
-            "title": ""
-          },
-          "type": "column"
-        },
-        "column_mbxQN4": {
-          "settings": {
-            "image": "shopify://shop_images/Idee-regalo_6915b911-fabf-419d-9ccd-2ac540e33078.jpg",
-            "link": "shopify://collections/idee-regalo",
-            "link_label": "",
-            "text": "<h4><strong>Idee Regalo per sorprendere</strong></h4>",
-            "title": ""
-          },
-          "type": "column"
-        }
-      },
-      "custom_css": [
-        ".background-none .multicolumn-card__image-wrapper {margin: unset;"
-      ],
-      "settings": {
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
-        "column_alignment": "center",
-        "columns_desktop": 6,
-        "columns_mobile": "2",
-        "heading_size": "h2",
-        "image_ratio": "adapt",
-        "image_width": "full",
-        "padding_bottom": 0,
-        "padding_top": 52,
-        "swipe_on_mobile": true,
-        "title": ""
-      },
-      "type": "multicolumn"
-    },
-    "multicolumn_rGUHzh": {
-      "block_order": [
-        "column_4PjnNt",
-        "column_pkHkxr"
-      ],
-      "blocks": {
-        "column_4PjnNt": {
-          "settings": {
-            "image": "shopify://shop_images/Slide-sotto.3.jpg",
-            "link": "shopify://pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola",
-            "link_label": "",
-            "text": "",
-            "title": ""
-          },
-          "type": "column"
-        },
-        "column_pkHkxr": {
-          "settings": {
-            "image": "shopify://shop_images/Slide-sotto.4.jpg",
-            "link": "shopify://pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola",
-            "link_label": "",
-            "text": "",
-            "title": ""
-          },
-          "type": "column"
-        }
-      },
-      "custom_css": [
-        ".background-none .multicolumn-card__image-wrapper {margin: unset;}",
-        ".multicolumn-list__item {position: relative;}",
-        ".multicolumn-card__info {position: absolute; top: 0em; left: 2em; padding-top: 2.5rem;}",
-        ".multicolumn-card__info h3 {color: rgb(var(--color-background)); font-size: 4em; text-shadow: 0px 0px 2em rgba(0, 0, 0, 0.2);}",
-        ".multicolumn-card__info p {font-size: 1.3em; color: rgb(var(--color-background)); text-shadow: 0px 0px 2em rgba(0, 0, 0, 0.2);}",
-        ".multicolumn-card__info > :nth-child(2) {margin-top: 0em;}"
-      ],
-      "settings": {
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
-        "column_alignment": "left",
-        "columns_desktop": 2,
-        "columns_mobile": "1",
-        "heading_size": "h1",
-        "image_ratio": "adapt",
-        "image_width": "full",
-        "padding_bottom": 20,
-        "padding_top": 0,
-        "swipe_on_mobile": false,
-        "title": ""
-      },
-      "type": "multicolumn"
-    },
-    "multicolumn_w64iw4": {
-      "block_order": [
-        "column_iTHqLj",
-        "column_4n44GN",
-        "column_RYybqr",
-        "column_UnjJVg",
-        "column_iHCTrV",
-        "column_BntmaF",
-        "column_dNExGV"
-      ],
-      "blocks": {
-        "column_4n44GN": {
-          "settings": {
-            "image": "shopify://shop_images/Seletti.jpg",
-            "link": "",
-            "link_label": "",
-            "text": "",
-            "title": ""
-          },
-          "type": "column"
-        },
-        "column_BntmaF": {
-          "settings": {
-            "image": "shopify://shop_images/Brandani.jpg",
-            "link": "",
-            "link_label": "",
-            "text": "",
-            "title": ""
-          },
-          "type": "column"
-        },
-        "column_RYybqr": {
-          "settings": {
-            "image": "shopify://shop_images/Brandantia.jpg",
-            "link": "",
-            "link_label": "",
-            "text": "",
-            "title": ""
-          },
-          "type": "column"
-        },
-        "column_UnjJVg": {
-          "settings": {
-            "image": "shopify://shop_images/Ichendorf.jpg",
-            "link": "",
-            "link_label": "",
-            "text": "",
-            "title": ""
-          },
-          "type": "column"
-        },
-        "column_dNExGV": {
-          "settings": {
-            "link": "",
-            "link_label": "",
-            "text": "",
-            "title": ""
-          },
-          "type": "column"
-        },
-        "column_iHCTrV": {
-          "settings": {
-            "image": "shopify://shop_images/Millefiori.jpg",
-            "link": "",
-            "link_label": "",
-            "text": "",
-            "title": ""
-          },
-          "type": "column"
-        },
-        "column_iTHqLj": {
-          "settings": {
-            "image": "shopify://shop_images/Bitossi.jpg",
-            "link": "",
-            "link_label": "",
-            "text": "",
-            "title": ""
-          },
-          "type": "column"
-        }
-      },
-      "custom_css": [],
-      "settings": {
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "shopify://pages/i-nostri-brand",
-        "color_scheme": "scheme-a993bf00-7e7e-44f4-ab72-12da0a52eace",
-        "column_alignment": "center",
-        "columns_desktop": 6,
-        "columns_mobile": "2",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "image_width": "full",
-        "padding_bottom": 0,
-        "padding_top": 44,
-        "swipe_on_mobile": true,
-        "title": ""
-      },
-      "type": "multicolumn"
-    },
-    "newsletter_6i9tEi": {
-      "block_order": [
-        "heading_7mLhy6",
-        "paragraph_7FqTVq",
-        "email_form_EtXRTJ"
-      ],
-      "blocks": {
-        "email_form_EtXRTJ": {
-          "settings": {},
-          "type": "email_form"
-        },
-        "heading_7mLhy6": {
-          "settings": {
-            "heading": "Iscriviti alla nostra Newsletter",
-            "heading_size": "h1"
-          },
-          "type": "heading"
-        },
-        "paragraph_7FqTVq": {
-          "settings": {
-            "text": "<p>Per iscritti UNICI... Vantaggi MULTIPLI! Entra nella COMMUNITY e avrai <span style=\"text-decoration:underline\">subito il 10% di sconto</span> sul primo acquisto.</p><p></p>"
-          },
-          "type": "paragraph"
-        }
-      },
-      "custom_css": [
-        ".newsletter__wrapper {border: 1px solid rgba(var(--color-foreground), 0.08); border-radius: 0.5em; margin-top: 52px;}"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "full_width": false,
-        "padding_bottom": 52,
-        "padding_top": 52
-      },
-      "type": "newsletter"
-    },
-    "rich_text_3WWRXG": {
-      "block_order": [
-        "heading_8zwk4f",
-        "text_VRF4TV"
-      ],
-      "blocks": {
-        "heading_8zwk4f": {
-          "settings": {
-            "heading": "I Nostri Brand",
-            "heading_size": "h1"
-          },
-          "type": "heading"
-        },
-        "text_VRF4TV": {
-          "settings": {
-            "text": "<p>Le proposte dei migliori designer italiani e internazionali, le ultime proposte e i classici d'autore. <br/>Lo stile come non lo hai mai visto!</p>"
-          },
-          "type": "text"
-        }
-      },
-      "settings": {
-        "color_scheme": "",
-        "content_alignment": "center",
-        "desktop_content_position": "center",
-        "full_width": true,
-        "padding_bottom": 0,
-        "padding_top": 20
-      },
-      "type": "rich-text"
-    },
-    "rich_text_3eGJVG": {
-      "block_order": [
-        "heading_W3Gywr",
-        "text_yfYBkm",
-        "button_nRa76D"
-      ],
-      "blocks": {
-        "button_nRa76D": {
-          "settings": {
-            "button_label": "Leggi di più!",
-            "button_label_2": "",
-            "button_link": "shopify://pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola",
-            "button_link_2": "",
-            "button_style_secondary": true,
-            "button_style_secondary_2": false
-          },
-          "type": "button"
-        },
-        "heading_W3Gywr": {
-          "settings": {
-            "heading": "La Raffinatezza della Bone China",
-            "heading_size": "h1"
-          },
-          "type": "heading"
-        },
-        "text_yfYBkm": {
-          "settings": {
-            "text": "<p>Alla <strong>scoperta della Bone China</strong>, dalle sue origini alla manutenzione perfetta, con consigli per l'acquisto.</p>"
-          },
-          "type": "text"
-        }
-      },
-      "settings": {
-        "color_scheme": "",
-        "content_alignment": "center",
-        "desktop_content_position": "center",
-        "full_width": true,
-        "padding_bottom": 48,
-        "padding_top": 0
-      },
-      "type": "rich-text"
-    },
-    "rich_text_7MwH7c": {
-      "block_order": [
-        "heading_hwCfYP",
-        "text_AUrHzV"
-      ],
-      "blocks": {
-        "heading_hwCfYP": {
-          "settings": {
-            "heading": "Lo stile che dà forma alle tue idee",
-            "heading_size": "h1"
-          },
-          "type": "heading"
-        },
-        "text_AUrHzV": {
-          "settings": {
-            "text": "<p>Unico & Multiplo è idee regalo, oggetti, articoli per esprimere il tuo stile. Dagli accessori per la tavola e la cucina alle proposte per il tempo libero, dalle lampade all'arredo giardino, idee regalo: rendi concrete le tue idee!</p>"
-          },
-          "type": "text"
-        }
-      },
-      "settings": {
-        "color_scheme": "",
-        "content_alignment": "center",
-        "desktop_content_position": "center",
-        "full_width": true,
-        "padding_bottom": 0,
-        "padding_top": 76
-      },
-      "type": "rich-text"
-    },
-    "rich_text_cn9HQ7": {
-      "block_order": [
-        "heading_nXqN4c",
-        "text_wLhzph"
-      ],
-      "blocks": {
-        "heading_nXqN4c": {
-          "settings": {
-            "heading": "La luce che fa la differenza",
-            "heading_size": "h1"
-          },
-          "type": "heading"
-        },
-        "text_wLhzph": {
-          "settings": {
-            "text": "<p><strong>Candelabri artigianali dal fascino vintage,</strong> ispirati ai mercatini di antiquariato e reinterpretati con lo <strong>stile unico di Miho</strong>. Ogni pezzo unisce colori, forme e materiali diversi, creando un elemento decorativo originale e raffinato..</p>"
-          },
-          "type": "text"
-        }
-      },
-      "settings": {
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
-        "content_alignment": "center",
-        "desktop_content_position": "center",
-        "full_width": true,
-        "padding_bottom": 20,
-        "padding_top": 52
-      },
-      "type": "rich-text"
-    },
-    "rich_text_fjc6N9": {
-      "block_order": [
-        "button_jicTVi"
-      ],
-      "blocks": {
-        "button_jicTVi": {
-          "settings": {
-            "button_label": "Vedi tutti i Brand →",
-            "button_label_2": "",
-            "button_link": "shopify://pages/i-nostri-brand",
-            "button_link_2": "",
-            "button_style_secondary": false,
-            "button_style_secondary_2": false
-          },
-          "type": "button"
-        }
-      },
-      "settings": {
-        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
-        "content_alignment": "center",
-        "desktop_content_position": "center",
-        "full_width": true,
-        "padding_bottom": 64,
-        "padding_top": 0
-      },
-      "type": "rich-text"
-    },
-    "separator_HKUMQy": {
-      "settings": {
-        "bottom_spacing": 20,
-        "line_thickness": 1,
-        "top_spacing": 20
-      },
-      "type": "separator"
-    },
-    "separator_b8qrnf": {
-      "disabled": true,
-      "settings": {
-        "bottom_spacing": 5,
-        "line_thickness": 1,
-        "top_spacing": 5
-      },
-      "type": "separator"
-    },
-    "separator_yHaRH3": {
-      "settings": {
-        "bottom_spacing": 0,
-        "line_thickness": 1,
-        "top_spacing": 0
-      },
-      "type": "separator"
-    },
-    "slideshow_DEMHDR": {
-      "block_order": [
-        "slide_iYEMXC"
-      ],
-      "blocks": {
-        "slide_iYEMXC": {
-          "settings": {
-            "box_align": "middle-center",
-            "button_label": "Scopri le offerte",
-            "button_style_secondary": false,
-            "color_scheme": "",
-            "heading": "Promo Bone China",
-            "heading_size": "h1",
-            "image": "shopify://shop_images/Slide-promo-bone-china.jpg",
-            "image_overlay_opacity": 0,
-            "link": "shopify://collections/piatti-in-bone-china",
-            "show_text_box": true,
-            "subheading": "Eleganza senza tempo, sconti fino al 40%",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center"
-          },
-          "type": "slide"
-        }
-      },
-      "settings": {
-        "accessibility_info": "Presentazione sul nostro brand",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "layout": "grid",
-        "show_text_below": false,
-        "slide_height": "small",
-        "slider_visual": "counter"
-      },
-      "type": "slideshow"
-    },
-    "slideshow_jWzjzL": {
-      "block_order": [
-        "slide_bzftgt"
-      ],
-      "blocks": {
-        "slide_bzftgt": {
-          "settings": {
-            "box_align": "middle-left",
-            "button_label": "SCEGLI ORA!",
-            "button_style_secondary": false,
-            "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
-            "heading": "Candelabri Artigianali",
-            "heading_size": "hxl",
-            "image": "shopify://shop_images/Miho-candelabro.webp",
-            "image_overlay_opacity": 10,
-            "link": "shopify://collections/miho",
-            "show_text_box": true,
-            "subheading": "Luci e Colori di altri tempi",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center"
-          },
-          "type": "slide"
-        }
-      },
-      "settings": {
-        "accessibility_info": "Le nostre offerte",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "layout": "full_bleed",
-        "show_text_below": false,
-        "slide_height": "medium",
-        "slider_visual": "dots"
-      },
-      "type": "slideshow"
-    }
-  }
+  ]
 }
