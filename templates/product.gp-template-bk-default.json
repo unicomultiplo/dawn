@@ -1,0 +1,161 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "order": [
+    "main",
+    "custom_liquid_q83gja",
+    "related-products"
+  ],
+  "sections": {
+    "custom_liquid_q83gja": {
+      "settings": {
+        "color_scheme": "",
+        "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h2>Scopri di più su {{ product.title }}</h2>\n{{ product.content }}\n</div>\n</section>",
+        "padding_bottom": 20,
+        "padding_top": 40
+      },
+      "type": "custom-liquid"
+    },
+    "main": {
+      "block_order": [
+        "custom_liquid_xJQknK",
+        "title",
+        "variant_sku_BLBrqe",
+        "price_XLK3Aj",
+        "custom_liquid_tm8pXP",
+        "custom_liquid_EJXmHi",
+        "custom_liquid_W3qmEe",
+        "qty_disclaimer_6icb8M",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "sku_C4aTJC",
+        "description",
+        "custom_liquid_zVHD4U"
+      ],
+      "blocks": {
+        "buy_buttons": {
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          },
+          "type": "buy_buttons"
+        },
+        "custom_liquid_EJXmHi": {
+          "settings": {
+            "custom_liquid": "{% assign page_id = product.metafields.custom.scopri_composizione %}\n\n\n{% if page_id and pages[page_id] %}\n<div class=\"product__text inline-richtext\">\n<a href=\"{{ pages[page_id].url }}\">Curioso di conoscere meglio questa composizione? SCOPRI DI PIÚ </a>\n</div>\n{% endif %}"
+          },
+          "type": "custom_liquid"
+        },
+        "custom_liquid_W3qmEe": {
+          "settings": {
+            "custom_liquid": "<div class=\"feedaty_widget\" data-ver=\"2021\" data-id=\"6791fcc64fd07\" data-type=\"product\" data-variant=\"Striscia-full-nologo\" data-lang=\"all\" data-gui=\"all\" data-sku=\"{{ product.id }}\" data-snippets=\"4\" style=\"padding-top: 15px; padding-bottom: 15px; margin-left: -5px;\"></div>"
+          },
+          "type": "custom_liquid"
+        },
+        "custom_liquid_tm8pXP": {
+          "settings": {
+            "custom_liquid": "<div>{{ product.metafields.custom.short_description | newline_to_br }}\n</div>"
+          },
+          "type": "custom_liquid"
+        },
+        "custom_liquid_xJQknK": {
+          "settings": {
+            "custom_liquid": "{% assign brand = product.vendor %}\n{% assign raw_collection_handle = brand | handleize %}\n\n{% if raw_collection_handle contains \"ichendorf\" %}\n    {% assign collection_handle = \"ichendorf-catalogo\" %}\n{% else %}\n    {% assign collection_handle = raw_collection_handle %}\n{% endif %}\n\n{% assign collection = collections[collection_handle] %}\n\n{% if brand != blank %}\n  <p class=\"product__text inline-richtext subtitle\">\n    {% if collection != blank %}\n        <a href=\"{{ collection.url }}\">{{ brand }}</a>\n    {% else %}\n        {{ brand }}\n    {% endif %}\n  </p>\n{% endif %}"
+          },
+          "type": "custom_liquid"
+        },
+        "custom_liquid_zVHD4U": {
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "{% for metafield in product.metafields.custom %}\n  <p>\n    <strong>{{ metafield[0] }}:</strong> \n    {{ metafield[1] | json }}\n  </p>\n{% endfor %}"
+          },
+          "type": "custom_liquid"
+        },
+        "description": {
+          "disabled": true,
+          "settings": {},
+          "type": "description"
+        },
+        "price_XLK3Aj": {
+          "settings": {},
+          "type": "price"
+        },
+        "qty_disclaimer_6icb8M": {
+          "settings": {},
+          "type": "qty_disclaimer"
+        },
+        "quantity_selector": {
+          "settings": {},
+          "type": "quantity_selector"
+        },
+        "sku_C4aTJC": {
+          "disabled": true,
+          "settings": {
+            "text_style": "body"
+          },
+          "type": "sku"
+        },
+        "title": {
+          "settings": {},
+          "type": "title"
+        },
+        "variant_picker": {
+          "settings": {
+            "picker_type": "dropdown",
+            "swatch_shape": "circle"
+          },
+          "type": "variant_picker"
+        },
+        "variant_sku_BLBrqe": {
+          "settings": {},
+          "type": "variant_sku"
+        }
+      },
+      "custom_css": [
+        ".qty-disclaimer {text-decoration: underline;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "constrain_to_viewport": true,
+        "enable_sticky_info": false,
+        "enable_video_looping": false,
+        "gallery_layout": "thumbnail_slider",
+        "hide_variants": true,
+        "image_zoom": "none",
+        "media_fit": "contain",
+        "media_position": "left",
+        "media_size": "medium",
+        "mobile_thumbnails": "show",
+        "padding_bottom": 12,
+        "padding_top": 36
+      },
+      "type": "main-product"
+    },
+    "related-products": {
+      "settings": {
+        "color_scheme": "scheme-1",
+        "columns_desktop": 5,
+        "columns_mobile": "2",
+        "heading": "Altre idee perfette insieme a {{ product.title }}",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "padding_bottom": 28,
+        "padding_top": 40,
+        "products_to_show": 10,
+        "show_rating": false,
+        "show_secondary_image": true,
+        "show_vendor": false
+      },
+      "type": "related-products"
+    }
+  }
+}
