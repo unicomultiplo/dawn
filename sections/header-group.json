@@ -11,6 +11,12 @@
   "name": "t:sections.header.name",
   "type": "header",
   "sections": {
+    "shogun_custom_html_JmUArJ": {
+      "type": "shogun-custom-html",
+      "settings": {
+        "html": ""
+      }
+    },
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
@@ -88,6 +94,7 @@
     }
   },
   "order": [
+    "shogun_custom_html_JmUArJ",
     "announcement-bar",
     "header"
   ]
