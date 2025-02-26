@@ -149,6 +149,11 @@
         "type": "shopify://apps/whatsapp-button/blocks/app-embed-block/96d80a63-e860-4262-a001-8b82ac4d00e6",
         "disabled": false,
         "settings": {}
+      },
+      "9664103760669878543": {
+        "type": "shopify://apps/seoon-blog/blocks/avada-seoon-setting/a45c3e67-be9f-4255-a194-b255a24f37c9",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
