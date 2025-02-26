@@ -11,10 +11,11 @@
   "sections": {
     "main": {
       "type": "main-blog",
+      "custom_css": [],
       "settings": {
-        "layout": "collage",
+        "layout": "grid",
         "show_image": true,
-        "image_height": "medium",
+        "image_height": "small",
         "show_date": true,
         "show_author": false,
         "padding_top": 36,
@@ -48,7 +49,7 @@
       "settings": {
         "heading": "Cucina che Passione",
         "heading_size": "h1",
-        "blog": "{{ blog }}",
+        "blog": "cucina-che-passione",
         "post_limit": 3,
         "columns_desktop": 3,
         "color_scheme": "",
@@ -65,7 +66,7 @@
       "settings": {
         "heading": "Regalare per stupire",
         "heading_size": "h1",
-        "blog": "il-blog-u-m",
+        "blog": "regalare-per-stupire",
         "post_limit": 3,
         "columns_desktop": 3,
         "color_scheme": "",
@@ -82,7 +83,7 @@
       "settings": {
         "heading": "Apparecchiare per stupire",
         "heading_size": "h1",
-        "blog": "il-blog-u-m",
+        "blog": "apparecchiare-con-stile",
         "post_limit": 4,
         "columns_desktop": 4,
         "color_scheme": "",
