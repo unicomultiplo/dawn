@@ -1,0 +1,106 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-blog",
+      "custom_css": [],
+      "settings": {
+        "layout": "grid",
+        "show_image": true,
+        "image_height": "small",
+        "show_date": true,
+        "show_author": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_bdLzpc": {
+      "type": "rich-text",
+      "blocks": {
+        "text_CeYkFh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unico & Multiplo è <strong>molto, molto più di un e-shop</strong>.<br/>In questo blog trovi approfondimenti, storie e curiosità sui prodotti e sui designer più affermati.</p><p>Scopri assieme a noi <strong>nuove idee e ispirazioni</strong>, leggi le ultime novità e tutte le anticipazioni sulle tendenze del momento, coltiva l’amore e la passione per il design in ogni sua forma.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_CeYkFh"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "featured_blog_WP7X8m": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Cucina che Passione",
+        "heading_size": "h1",
+        "blog": "cucina-che-passione",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_blog_pUYENw": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Regalare per stupire",
+        "heading_size": "h1",
+        "blog": "regalare-per-stupire",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_blog_bnjUDn": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Apparecchiare per stupire",
+        "heading_size": "h1",
+        "blog": "apparecchiare-con-stile",
+        "post_limit": 4,
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_bdLzpc",
+    "featured_blog_WP7X8m",
+    "featured_blog_pUYENw",
+    "featured_blog_bnjUDn"
+  ]
+}
