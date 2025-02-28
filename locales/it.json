@@ -549,6 +549,11 @@
   "shopify": {
     "links": {
       "powered_by_shopify": "P.IVA IT00454960436"
+    },
+    "checkout": {
+      "payment_gateway": {
+        "cash_on_delivery_label": "Contrassegno contanti (+ €8,00)"
+      }
     }
   },
   "customer_accounts": {
