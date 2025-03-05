@@ -254,10 +254,10 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/Slide-promo-bone-china.jpg",
-            "heading": "Promo Bone China",
+            "heading": "Porcellana Bone China",
             "heading_size": "h1",
-            "subheading": "Eleganza senza tempo, sconti fino al 40%",
-            "button_label": "Scopri le offerte",
+            "subheading": "Eleganza senza tempo, scopri tutto su questo pregiato materiale",
+            "button_label": "VEDI ORA ➞",
             "link": "shopify://collections/piatti-in-bone-china",
             "button_style_secondary": false,
             "box_align": "middle-center",
