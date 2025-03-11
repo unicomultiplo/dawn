@@ -72,6 +72,16 @@
             "link": ""
           }
         },
+        "column_jf3jDY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/disegnetti-depressetti-logo.webp",
+            "title": "",
+            "text": "<h4><a href=\"/collections/disegnetti-depressetti\" title=\"Disegnetti Depressetti\">Disegnetti Depressetti</a></h4>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_fYAzhe": {
           "type": "column",
           "settings": {
@@ -290,6 +300,7 @@
         "column_pBQePY",
         "column_mDAKCe",
         "column_bPjjtb",
+        "column_jf3jDY",
         "column_fYAzhe",
         "column_7kaFhY",
         "column_ABjgwE",
