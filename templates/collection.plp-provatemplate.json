@@ -171,6 +171,12 @@
             "collection": "bitossi-home-petalo-bitossi-home"
           }
         },
+        "featured_collection_EDFqK3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-i-piattini-bitossi-home"
+          }
+        },
         "featured_collection_DJ4DAH": {
           "type": "featured_collection",
           "settings": {
@@ -181,12 +187,6 @@
           "type": "featured_collection",
           "settings": {
             "collection": "bitossi-home-smerlo-bitossi-home"
-          }
-        },
-        "featured_collection_EDFqK3": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home-i-piattini-bitossi-home"
           }
         },
         "featured_collection_NGGNXX": {
@@ -220,9 +220,9 @@
         "featured_collection_JLFHbU",
         "featured_collection_JfW8Ym",
         "featured_collection_BGfKmN",
+        "featured_collection_EDFqK3",
         "featured_collection_DJ4DAH",
         "featured_collection_z6iyCf",
-        "featured_collection_EDFqK3",
         "featured_collection_NGGNXX",
         "featured_collection_ethfJE",
         "featured_collection_EiWcY8",
@@ -280,6 +280,12 @@
             "collection": "bitossi-home-bicchieri-e-calici"
           }
         },
+        "featured_collection_9fLamj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-tovagliette-e-vassoi"
+          }
+        },
         "featured_collection_r6iB68": {
           "type": "featured_collection",
           "settings": {
@@ -304,12 +310,6 @@
             "collection": "brandani-antipastiere"
           }
         },
-        "featured_collection_9fLamj": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home-tovagliette-e-vassoi"
-          }
-        },
         "featured_collection_nUrtyn": {
           "type": "featured_collection",
           "settings": {
@@ -331,11 +331,11 @@
       },
       "block_order": [
         "featured_collection_ThyLH7",
+        "featured_collection_9fLamj",
         "featured_collection_r6iB68",
         "featured_collection_xqbBjc",
         "featured_collection_LcHyEx",
         "featured_collection_p4gNGr",
-        "featured_collection_9fLamj",
         "featured_collection_nUrtyn",
         "featured_collection_GqirQN",
         "featured_collection_r4cjLb"
