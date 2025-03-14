@@ -43,8 +43,8 @@
         "text_aYG9cw"
       ],
       "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
@@ -106,6 +106,36 @@
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "rich_text_RpHGyL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_cktYHf": {
+          "type": "heading",
+          "settings": {
+            "heading": "Le Collezioni Bitossi Home",
+            "heading_size": "h1"
+          }
+        },
+        "text_MQqPCW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Estetica delle forme, contrasti e armonie cromatiche creano uno stile così eclettico da coinvolgere tutti senza riserve. <br/>Non perderti le occasioni a prezzo speciale selezionate tra le collezioni Bitossi Home</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_cktYHf",
+        "text_MQqPCW"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "collection_list_DFkntc": {
@@ -199,8 +229,8 @@
         "featured_collection_dEE8RQ"
       ],
       "settings": {
-        "title": "Le Collezioni Bitossi Home",
-        "heading_size": "h1",
+        "title": "",
+        "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 6,
         "color_scheme": "",
@@ -211,37 +241,79 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_94KzyX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_bRPrgU": {
+          "type": "heading",
+          "settings": {
+            "heading": "Catalogo Bitossi Home: articoli per la tavola e la cucina",
+            "heading_size": "h1"
+          }
+        },
+        "text_GpMrDh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>La costante ricerca di idee che sanno coniugare materiali ceramici, vetro, legno e nuovi elementi è il punto di forza del marchio. Piatti, bicchieri, vasi e complementi decorativi diventano espressioni di uno stile di vita che celebra la bellezza del quotidiano.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bRPrgU",
+        "text_GpMrDh"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "collection_list_pekHrY": {
       "type": "collection-list",
       "blocks": {
         "featured_collection_ThyLH7": {
           "type": "featured_collection",
           "settings": {
-            "collection": "brandani-piatti"
-          }
-        },
-        "featured_collection_nUrtyn": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-bicchieri-e-calici"
+            "collection": "bitossi-home-bicchieri-e-calici"
           }
         },
         "featured_collection_r6iB68": {
           "type": "featured_collection",
           "settings": {
-            "collection": "brandani-posate"
+            "collection": "bitossi-home-i-piattini-bitossi-home"
           }
         },
-        "featured_collection_GqirQN": {
+        "featured_collection_xqbBjc": {
           "type": "featured_collection",
           "settings": {
-            "collection": "brandani-tazze-tazzine-mug"
+            "collection": "bitossi-home-tazze-tazzine-e-mug"
+          }
+        },
+        "featured_collection_LcHyEx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-piatti"
           }
         },
         "featured_collection_p4gNGr": {
           "type": "featured_collection",
           "settings": {
             "collection": "brandani-antipastiere"
+          }
+        },
+        "featured_collection_nUrtyn": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-clessidre"
+          }
+        },
+        "featured_collection_GqirQN": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-le-decorazioni-bitossi-home"
           }
         },
         "featured_collection_r4cjLb": {
@@ -253,14 +325,16 @@
       },
       "block_order": [
         "featured_collection_ThyLH7",
-        "featured_collection_nUrtyn",
         "featured_collection_r6iB68",
-        "featured_collection_GqirQN",
+        "featured_collection_xqbBjc",
+        "featured_collection_LcHyEx",
         "featured_collection_p4gNGr",
+        "featured_collection_nUrtyn",
+        "featured_collection_GqirQN",
         "featured_collection_r4cjLb"
       ],
       "settings": {
-        "title": "Scopri le proposte Brandani per la tavola e la cucina...",
+        "title": "",
         "heading_size": "h1",
         "image_ratio": "portrait",
         "columns_desktop": 6,
@@ -300,7 +374,9 @@
     "image_banner_dc8VCJ",
     "slideshow_LGzjp6",
     "featured_collection_EihEex",
+    "rich_text_RpHGyL",
     "collection_list_DFkntc",
+    "rich_text_94KzyX",
     "collection_list_pekHrY",
     "product-grid"
   ]
