@@ -156,7 +156,7 @@
         "featured_collection_EDFqK3": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "bitossi-home-i-piattini-bitossi-home"
           }
         },
         "featured_collection_NGGNXX": {
@@ -176,6 +176,12 @@
           "settings": {
             "collection": "bitossi-home-botanica"
           }
+        },
+        "featured_collection_dEE8RQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-natale"
+          }
         }
       },
       "block_order": [
@@ -189,7 +195,8 @@
         "featured_collection_EDFqK3",
         "featured_collection_NGGNXX",
         "featured_collection_ethfJE",
-        "featured_collection_EiWcY8"
+        "featured_collection_EiWcY8",
+        "featured_collection_dEE8RQ"
       ],
       "settings": {
         "title": "Le Collezioni Bitossi Home",
@@ -197,9 +204,9 @@
         "image_ratio": "square",
         "columns_desktop": 6,
         "color_scheme": "",
-        "show_view_all": true,
+        "show_view_all": false,
         "columns_mobile": "2",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
