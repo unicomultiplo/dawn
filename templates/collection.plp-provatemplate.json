@@ -304,6 +304,12 @@
             "collection": "brandani-antipastiere"
           }
         },
+        "featured_collection_9fLamj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-tovagliette-e-vassoi"
+          }
+        },
         "featured_collection_nUrtyn": {
           "type": "featured_collection",
           "settings": {
@@ -329,6 +335,7 @@
         "featured_collection_xqbBjc",
         "featured_collection_LcHyEx",
         "featured_collection_p4gNGr",
+        "featured_collection_9fLamj",
         "featured_collection_nUrtyn",
         "featured_collection_GqirQN",
         "featured_collection_r4cjLb"
