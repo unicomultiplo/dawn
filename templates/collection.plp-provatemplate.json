@@ -9,6 +9,48 @@
  */
 {
   "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "custom_css": [
+        "a {color: #598db2;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
+      }
+    },
+    "rich_text_MzaYDT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Ca64ft": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bitossi Home",
+            "heading_size": "h1"
+          }
+        },
+        "text_aYG9cw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bitossi Home veste la tua tavola e la tua casa. Dai piatti ai calici, dalle clessidre ai vasi, questo brand toscano è tutto da esplorare. Natura, tradizione, simbolismo, spirito cosmopolita e concetti innovativi generano un carosello di collezioni singolari e pittoresche. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Ca64ft",
+        "text_aYG9cw"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image_banner_dc8VCJ": {
       "type": "image-banner",
       "settings": {
@@ -25,61 +67,8 @@
         "show_text_below": true
       }
     },
-    "rich_text_MzaYDT": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Ca64ft": {
-          "type": "heading",
-          "settings": {
-            "heading": "Bitossi Home: le collezioni e le offerte",
-            "heading_size": "h1"
-          }
-        },
-        "text_aYG9cw": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Bitossi Home veste la tua tavola e la tua casa. Dai piatti ai calici, dalle clessidre ai vasi, questo brand toscano è tutto da esplorare. Natura, tradizione, simbolismo, spirito cosmopolita e concetti innovativi generano un carosello di collezioni singolari e pittoresche. </p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Ca64ft",
-        "text_aYG9cw"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "slideshow_LGzjp6": {
       "type": "slideshow",
-      "blocks": {
-        "slide_MPBjwy": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Brandani_banner_natale_2024-1-1536x558.webp",
-            "heading": "Brandani Natale 2024",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "Scopri tutto",
-            "link": "",
-            "button_style_secondary": true,
-            "box_align": "middle-right",
-            "show_text_box": true,
-            "text_alignment": "right",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_MPBjwy"
-      ],
       "settings": {
         "layout": "full_bleed",
         "slide_height": "medium",
@@ -91,100 +80,124 @@
         "accessibility_info": "Presentazione sul nostro brand"
       }
     },
-    "banner": {
-      "type": "main-collection-banner",
-      "custom_css": [
-        "a {color: #598db2;}"
-      ],
+    "featured_collection_EihEex": {
+      "type": "featured-collection",
       "settings": {
-        "show_collection_description": true,
-        "show_collection_image": false,
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
+        "title": "Bitossi Home: novità e proposte del momento",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "bitossi-home",
+        "products_to_show": 13,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-2",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
-    "multicolumn_Mj6L3N": {
-      "type": "multicolumn",
+    "collection_list_DFkntc": {
+      "type": "collection-list",
       "blocks": {
-        "column_7GAfaP": {
-          "type": "column",
+        "featured_collection_7i8Gfg": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/Primizie.webp",
-            "title": "",
-            "text": "<p><a href=\"/collections/brandani-le-primizie\" title=\"Le Primizie\">Brandani Primizie</a></p>",
-            "link_label": "",
-            "link": ""
+            "collection": "bitossi-home-funky-table-tavola-scomposta"
           }
         },
-        "column_dqWy6R": {
-          "type": "column",
+        "featured_collection_JxyqNF": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/brandani-queen-zuccheriera-1.jpg",
-            "title": "",
-            "text": "<p><a href=\"/collections/brandani-total-white-brandani\" title=\"Total White Brandani\">Brandani TotalWhite</a></p>",
-            "link_label": "",
-            "link": ""
+            "collection": "bitossi-home-abracadabra"
           }
         },
-        "column_pGpLG9": {
-          "type": "column",
+        "featured_collection_JLFHbU": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/Brandani-argo.webp",
-            "title": "",
-            "text": "<p><a href=\"/collections/brandani-cornici-e-portaritratti\" title=\"Cornici e Portaritratti\">Brandani Candy</a></p>",
-            "link_label": "",
-            "link": ""
+            "collection": "bitossi-home-il-frutto-della-passione-bitossi-home"
           }
         },
-        "column_mddrEP": {
-          "type": "column",
+        "featured_collection_JfW8Ym": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/brandani-medicea-vassoio-rettangolare.jpg",
-            "title": "",
-            "text": "<p><a href=\"/collections/brandani-medicea\" title=\"Medicea Brandani\">Brandani Medicea</a></p>",
-            "link_label": "",
-            "link": ""
+            "collection": "bitossi-home-parisienne-bitossi-home"
           }
         },
-        "column_6WgUAg": {
-          "type": "column",
+        "featured_collection_BGfKmN": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/brandani-limoni-tazza-colazione-verde-1.jpg",
-            "title": "",
-            "text": "<p><a href=\"/collections/brandani-total-white-brandani\" title=\"Total White Brandani\">Brandani Limoni</a></p>",
-            "link_label": "",
-            "link": ""
+            "collection": "bitossi-home-petalo-bitossi-home"
           }
         },
-        "column_gjtfzz": {
-          "type": "column",
+        "featured_collection_DJ4DAH": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/Brandani-bomboniere.jpg",
-            "title": "",
-            "text": "<p><a href=\"/collections/brandani-total-white-brandani\" title=\"Total White Brandani\">Brandani Bomboniere</a></p>",
-            "link_label": "",
-            "link": ""
+            "collection": "bitossi-home-rose-bitossi-home"
+          }
+        },
+        "featured_collection_z6iyCf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-smerlo-bitossi-home"
+          }
+        },
+        "featured_collection_EDFqK3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_NGGNXX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-diseguale"
+          }
+        },
+        "featured_collection_ethfJE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-bel-paese"
+          }
+        },
+        "featured_collection_EiWcY8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-botanica"
           }
         }
       },
       "block_order": [
-        "column_7GAfaP",
-        "column_dqWy6R",
-        "column_pGpLG9",
-        "column_mddrEP",
-        "column_6WgUAg",
-        "column_gjtfzz"
+        "featured_collection_7i8Gfg",
+        "featured_collection_JxyqNF",
+        "featured_collection_JLFHbU",
+        "featured_collection_JfW8Ym",
+        "featured_collection_BGfKmN",
+        "featured_collection_DJ4DAH",
+        "featured_collection_z6iyCf",
+        "featured_collection_EDFqK3",
+        "featured_collection_NGGNXX",
+        "featured_collection_ethfJE",
+        "featured_collection_EiWcY8"
       ],
       "settings": {
-        "title": "Scopri tutte le Collezione del catalogo Brandani",
+        "title": "Le Collezioni Bitossi Home",
         "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "portrait",
+        "image_ratio": "square",
         "columns_desktop": 6,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
         "color_scheme": "",
+        "show_view_all": true,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
@@ -275,11 +288,12 @@
     }
   },
   "order": [
-    "image_banner_dc8VCJ",
-    "rich_text_MzaYDT",
-    "slideshow_LGzjp6",
     "banner",
-    "multicolumn_Mj6L3N",
+    "rich_text_MzaYDT",
+    "image_banner_dc8VCJ",
+    "slideshow_LGzjp6",
+    "featured_collection_EihEex",
+    "collection_list_DFkntc",
     "collection_list_pekHrY",
     "product-grid"
   ]
