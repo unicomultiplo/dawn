@@ -1,18 +1,18 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_banner_dc8VCJ": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/Brandani_Sfondo_Newsletter_Corbezzoli.webp",
+        "image": "shopify://shop_images/SEOon_Bitossi-Home-La-Tavola-di-Pasqua_95f9f116-0aab-45b8-9417-8d042632042e.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-left",
@@ -31,14 +31,14 @@
         "heading_Ca64ft": {
           "type": "heading",
           "settings": {
-            "heading": "Natale Brandani 2024",
+            "heading": "Bitossi Home: le collezioni e le offerte",
             "heading_size": "h1"
           }
         },
         "text_aYG9cw": {
           "type": "text",
           "settings": {
-            "text": "<p>Celebra l’amore e la convivialità, rendendo ogni istante insieme ai tuoi cari davvero speciale.</p>"
+            "text": "<p>Bitossi Home veste la tua tavola e la tua casa. Dai piatti ai calici, dalle clessidre ai vasi, questo brand toscano è tutto da esplorare. Natura, tradizione, simbolismo, spirito cosmopolita e concetti innovativi generano un carosello di collezioni singolari e pittoresche. </p>"
           }
         }
       },
