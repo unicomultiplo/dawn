@@ -553,6 +553,9 @@
     "checkout": {
       "payment_gateway": {
         "cash_on_delivery_label": "Contrassegno contanti (+ €8,00)"
+      },
+      "payment": {
+        "different_billing_address_label": "Utilizza un indirizzo diverso per la fatturazione (Inviaci i dati fatturazione completi via mail, una volta concluso l'ordine, rispondendo alla mail che riceverai)"
       }
     }
   },
