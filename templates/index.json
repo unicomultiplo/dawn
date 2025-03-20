@@ -92,7 +92,7 @@
         "heading_nXqN4c": {
           "type": "heading",
           "settings": {
-            "heading": "Tutta l'originalità si Superstuff",
+            "heading": "Tutta l'originalità di Superstuff",
             "heading_size": "h1"
           }
         },
@@ -125,7 +125,7 @@
         "show_description": false,
         "description_style": "body",
         "collection": "superstuff",
-        "products_to_show": 4,
+        "products_to_show": 7,
         "columns_desktop": 6,
         "full_width": true,
         "show_view_all": false,
