@@ -125,9 +125,10 @@
     </div>
     {%- if show_badges -%}
       <span class="badge price__badge-sale color-{{ settings.sale_badge_color_scheme }}">
-        {% assign price_difference = product.compare_at_price | minus: product.price %}
+        {% assign current_compare_at_price = product.selected_variant.compare_at_price | default: product.compare_at_price %}
+        {% assign price_difference = current_compare_at_price | minus: product.price %}
         {% assign discount_percentage = price_difference | times: 100 %}
-        {% assign discount_percentage = discount_percentage | divided_by: product.compare_at_price %}
+        {% assign discount_percentage = discount_percentage | divided_by: current_compare_at_price %}
         {% assign discount_percentage = discount_percentage | round %}
         
         -{{ discount_percentage }}%
