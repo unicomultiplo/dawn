@@ -15,7 +15,7 @@
         "slide_bzftgt": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Miho-candelabro.webp",
+            "image": "shopify://shop_images/Superstaff-Lumarell.webp",
             "heading": "Candelabri Artigianali",
             "heading_size": "hxl",
             "subheading": "Luci e Colori di altri tempi",
@@ -26,7 +26,7 @@
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 10,
-            "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
+            "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
             "text_alignment_mobile": "center"
           }
         }
@@ -539,7 +539,6 @@
         "column_iTHqLj": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi.jpg",
             "title": "",
             "text": "",
             "link_label": "",
