@@ -304,12 +304,6 @@
             "collection": "bitossi-home-piatti"
           }
         },
-        "featured_collection_p4gNGr": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-antipastiere"
-          }
-        },
         "featured_collection_nUrtyn": {
           "type": "featured_collection",
           "settings": {
@@ -321,12 +315,6 @@
           "settings": {
             "collection": "bitossi-home-le-decorazioni-bitossi-home"
           }
-        },
-        "featured_collection_r4cjLb": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-coltelli"
-          }
         }
       },
       "block_order": [
@@ -335,10 +323,8 @@
         "featured_collection_r6iB68",
         "featured_collection_xqbBjc",
         "featured_collection_LcHyEx",
-        "featured_collection_p4gNGr",
         "featured_collection_nUrtyn",
-        "featured_collection_GqirQN",
-        "featured_collection_r4cjLb"
+        "featured_collection_GqirQN"
       ],
       "settings": {
         "title": "",
