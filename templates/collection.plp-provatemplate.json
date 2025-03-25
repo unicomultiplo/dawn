@@ -49,7 +49,7 @@
       ],
       "settings": {
         "title": "Bitossi Home",
-        "heading_size": "h1",
+        "heading_size": "h0",
         "image_width": "third",
         "image_ratio": "square",
         "columns_desktop": 1,
@@ -61,7 +61,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "image_banner_dc8VCJ": {
@@ -121,33 +121,46 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_RpHGyL": {
-      "type": "rich-text",
+    "multicolumn_gaht3W": {
+      "type": "multicolumn",
       "blocks": {
-        "heading_cktYHf": {
-          "type": "heading",
+        "column_EMQ8ey": {
+          "type": "column",
           "settings": {
-            "heading": "Le Collezioni Bitossi Home",
-            "heading_size": "h1"
+            "title": "",
+            "text": "<p>Bitossi Home veste la tua tavola e la tua casa. Dai piatti ai calici, dalle clessidre ai vasi, questo brand toscano è tutto da esplorare. Natura, tradizione, simbolismo, spirito cosmopolita e concetti innovativi generano un carosello di collezioni singolari e pittoresche. </p>",
+            "link_label": "",
+            "link": ""
           }
         },
-        "text_MQqPCW": {
-          "type": "text",
+        "column_thtXjU": {
+          "type": "column",
           "settings": {
-            "text": "<p>Estetica delle forme, contrasti e armonie cromatiche creano uno stile così eclettico da coinvolgere tutti senza riserve. <br/>Non perderti le occasioni a prezzo speciale selezionate tra le collezioni Bitossi Home</p>"
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "heading_cktYHf",
-        "text_MQqPCW"
+        "column_EMQ8ey",
+        "column_thtXjU"
       ],
       "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
+        "title": "Le Collezioni Bitossi Home",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
         "padding_bottom": 0
       }
     },
@@ -254,33 +267,46 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_94KzyX": {
-      "type": "rich-text",
+    "multicolumn_Webjiz": {
+      "type": "multicolumn",
       "blocks": {
-        "heading_bRPrgU": {
-          "type": "heading",
+        "column_zwCcxp": {
+          "type": "column",
           "settings": {
-            "heading": "Catalogo Bitossi Home: articoli per la tavola e la cucina",
-            "heading_size": "h1"
+            "title": "",
+            "text": "<p>La costante ricerca di idee che sanno coniugare materiali ceramici, vetro, legno e nuovi elementi è il punto di forza del marchio. Piatti, bicchieri, vasi e complementi decorativi diventano espressioni di uno stile di vita che celebra la bellezza del quotidiano.</p>",
+            "link_label": "",
+            "link": ""
           }
         },
-        "text_GpMrDh": {
-          "type": "text",
+        "column_PxePj3": {
+          "type": "column",
           "settings": {
-            "text": "<p>La costante ricerca di idee che sanno coniugare materiali ceramici, vetro, legno e nuovi elementi è il punto di forza del marchio. Piatti, bicchieri, vasi e complementi decorativi diventano espressioni di uno stile di vita che celebra la bellezza del quotidiano.</p>"
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "heading_bRPrgU",
-        "text_GpMrDh"
+        "column_zwCcxp",
+        "column_PxePj3"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
+        "title": "Catalogo Bitossi Home: articoli per la tavola e la cucina",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
         "padding_bottom": 0
       }
     },
@@ -376,7 +402,7 @@
     "image_banner_RqE3Li": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/SEOon_Funky-Table-Bitossi-Home-Piatti.jpg",
+        "image": "shopify://shop_images/Bitossi_-logo-250.jpg",
         "image_2": "shopify://shop_images/SEOon_Bitossi-Home-Novita-per-la-tavola-di-san-valentino.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
@@ -397,9 +423,9 @@
     "image_banner_dc8VCJ",
     "slideshow_LGzjp6",
     "featured_collection_EihEex",
-    "rich_text_RpHGyL",
+    "multicolumn_gaht3W",
     "collection_list_DFkntc",
-    "rich_text_94KzyX",
+    "multicolumn_Webjiz",
     "collection_list_pekHrY",
     "product-grid",
     "image_banner_RqE3Li"
