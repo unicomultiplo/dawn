@@ -102,7 +102,7 @@
         "show_description": false,
         "description_style": "subtitle",
         "collection": "bitossi-home",
-        "products_to_show": 13,
+        "products_to_show": 8,
         "columns_desktop": 6,
         "full_width": true,
         "show_view_all": false,
@@ -259,12 +259,12 @@
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 6,
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 36
+        "padding_top": 24,
+        "padding_bottom": 24
       }
     },
     "multicolumn_Webjiz": {
@@ -370,12 +370,12 @@
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 6,
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 36
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "multicolumn_Q3fPtj": {
@@ -460,7 +460,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
