@@ -378,6 +378,14 @@
         "padding_bottom": 36
       }
     },
+    "separator_gwBBBa": {
+      "type": "separator",
+      "settings": {
+        "top_spacing": 0,
+        "bottom_spacing": 0,
+        "line_thickness": 1
+      }
+    },
     "multicolumn_Q3fPtj": {
       "type": "multicolumn",
       "blocks": {
@@ -499,6 +507,7 @@
     "collection_list_DFkntc",
     "multicolumn_Webjiz",
     "collection_list_pekHrY",
+    "separator_gwBBBa",
     "multicolumn_Q3fPtj",
     "product-grid"
   ]
