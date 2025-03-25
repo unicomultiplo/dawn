@@ -102,7 +102,7 @@
         "show_description": false,
         "description_style": "subtitle",
         "collection": "bitossi-home",
-        "products_to_show": 8,
+        "products_to_show": 6,
         "columns_desktop": 6,
         "full_width": true,
         "show_view_all": false,
