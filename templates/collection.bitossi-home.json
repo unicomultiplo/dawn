@@ -13,10 +13,10 @@
       "type": "custom-liquid",
       "custom_css": [],
       "settings": {
-        "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h2>{{ collection.title }}</h1>\n{{ product.content }}\n</div>\n</section>",
+        "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h1>{{ collection.title }}</h1>\n{{ product.content }}\n</div>\n</section>",
         "color_scheme": "",
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 0
       }
     },
     "collection_list_KGcE8i": {
