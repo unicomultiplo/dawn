@@ -80,47 +80,6 @@
         "show_text_below": true
       }
     },
-    "slideshow_LGzjp6": {
-      "type": "slideshow",
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": true,
-        "accessibility_info": "Presentazione sul nostro brand"
-      }
-    },
-    "featured_collection_EihEex": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Bitossi Home: novità e proposte del momento",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "subtitle",
-        "collection": "bitossi-home",
-        "products_to_show": 6,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "scheme-2",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn_gaht3W": {
       "type": "multicolumn",
       "blocks": {
@@ -265,6 +224,34 @@
         "swipe_on_mobile": false,
         "padding_top": 24,
         "padding_bottom": 24
+      }
+    },
+    "featured_collection_EihEex": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Bitossi Home: novità e proposte del momento",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "subtitle",
+        "collection": "bitossi-home",
+        "products_to_show": 6,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn_Webjiz": {
@@ -493,10 +480,9 @@
     "banner",
     "multicolumn_4fT4dH",
     "image_banner_dc8VCJ",
-    "slideshow_LGzjp6",
-    "featured_collection_EihEex",
     "multicolumn_gaht3W",
     "collection_list_DFkntc",
+    "featured_collection_EihEex",
     "multicolumn_Webjiz",
     "collection_list_pekHrY",
     "multicolumn_Q3fPtj",
