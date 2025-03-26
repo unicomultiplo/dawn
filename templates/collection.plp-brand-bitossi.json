@@ -161,42 +161,6 @@
           "settings": {
             "collection": "bitossi-home-i-piattini-bitossi-home"
           }
-        },
-        "featured_collection_DJ4DAH": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home-rose-bitossi-home"
-          }
-        },
-        "featured_collection_z6iyCf": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home-smerlo-bitossi-home"
-          }
-        },
-        "featured_collection_NGGNXX": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home-diseguale"
-          }
-        },
-        "featured_collection_ethfJE": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home-bel-paese"
-          }
-        },
-        "featured_collection_EiWcY8": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home-botanica"
-          }
-        },
-        "featured_collection_dEE8RQ": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home-natale"
-          }
         }
       },
       "block_order": [
@@ -205,13 +169,68 @@
         "featured_collection_JLFHbU",
         "featured_collection_JfW8Ym",
         "featured_collection_BGfKmN",
-        "featured_collection_EDFqK3",
-        "featured_collection_DJ4DAH",
-        "featured_collection_z6iyCf",
-        "featured_collection_NGGNXX",
-        "featured_collection_ethfJE",
-        "featured_collection_EiWcY8",
-        "featured_collection_dEE8RQ"
+        "featured_collection_EDFqK3"
+      ],
+      "settings": {
+        "title": "I servizi da Tavola",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_yH8cEE": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_xQmK8F": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-smerlo-bitossi-home"
+          }
+        },
+        "featured_collection_7rXDL8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-diseguale"
+          }
+        },
+        "featured_collection_aBekiV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-bel-paese"
+          }
+        },
+        "featured_collection_rDyEwY": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-botanica"
+          }
+        },
+        "featured_collection_FeWHBK": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-natale"
+          }
+        },
+        "featured_collection_cjYYyN": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "altarini-bitossi-home"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_xQmK8F",
+        "featured_collection_7rXDL8",
+        "featured_collection_aBekiV",
+        "featured_collection_rDyEwY",
+        "featured_collection_FeWHBK",
+        "featured_collection_cjYYyN"
       ],
       "settings": {
         "title": "",
@@ -221,9 +240,129 @@
         "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 24,
-        "padding_bottom": 24
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_Qdy6e7": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_383ah6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bon-ton-bitossi-home"
+          }
+        },
+        "featured_collection_VeQF7q": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_TLLPRz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_383ah6",
+        "featured_collection_VeQF7q",
+        "featured_collection_TLLPRz"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_eqYU7G": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_zyXKzn": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_3DHQWM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_Np6hVb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_zyXKzn",
+        "featured_collection_3DHQWM",
+        "featured_collection_Np6hVb"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_BcrbgK": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_wg3e9H": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_tp4dUb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_PQXzXK": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_wg3e9H",
+        "featured_collection_tp4dUb",
+        "featured_collection_PQXzXK"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "featured_collection_EihEex": {
@@ -503,6 +642,10 @@
     "image_banner_dc8VCJ",
     "multicolumn_gaht3W",
     "collection_list_DFkntc",
+    "collection_list_yH8cEE",
+    "collection_list_Qdy6e7",
+    "collection_list_eqYU7G",
+    "collection_list_BcrbgK",
     "featured_collection_EihEex",
     "multicolumn_Webjiz",
     "collection_list_pekHrY",
