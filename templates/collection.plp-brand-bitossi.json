@@ -312,12 +312,6 @@
             "collection": "bitossi-home-tovagliette-e-vassoi"
           }
         },
-        "featured_collection_r6iB68": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home-i-piattini-bitossi-home"
-          }
-        },
         "featured_collection_xqbBjc": {
           "type": "featured_collection",
           "settings": {
@@ -346,7 +340,6 @@
       "block_order": [
         "featured_collection_ThyLH7",
         "featured_collection_9fLamj",
-        "featured_collection_r6iB68",
         "featured_collection_xqbBjc",
         "featured_collection_LcHyEx",
         "featured_collection_nUrtyn",
