@@ -335,6 +335,30 @@
           "settings": {
             "collection": "bitossi-home-le-decorazioni-bitossi-home"
           }
+        },
+        "featured_collection_YH8wBG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "posate-bitossi-home"
+          }
+        },
+        "featured_collection_c7MyE9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "candele-e-candelabri-bitossi-home"
+          }
+        },
+        "featured_collection_UMANtB": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "centrotavola-e-alzate-bitossi-home"
+          }
+        },
+        "featured_collection_QWtyUh": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "vassoi-e-piatti-da-portata-bitossi-home"
+          }
         }
       },
       "block_order": [
@@ -343,7 +367,11 @@
         "featured_collection_xqbBjc",
         "featured_collection_LcHyEx",
         "featured_collection_nUrtyn",
-        "featured_collection_GqirQN"
+        "featured_collection_GqirQN",
+        "featured_collection_YH8wBG",
+        "featured_collection_c7MyE9",
+        "featured_collection_UMANtB",
+        "featured_collection_QWtyUh"
       ],
       "settings": {
         "title": "",
