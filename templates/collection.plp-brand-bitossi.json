@@ -271,149 +271,13 @@
           "settings": {
             "collection": "decor-bitossi-home"
           }
-        },
-        "featured_collection_3UxF7D": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_V8QhfR": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
         }
       },
       "block_order": [
         "featured_collection_383ah6",
         "featured_collection_VeQF7q",
         "featured_collection_TLLPRz",
-        "featured_collection_geLJwk",
-        "featured_collection_3UxF7D",
-        "featured_collection_V8QhfR"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "collection_list_3Y6Brx": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_WAb76R": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bon-ton-bitossi-home"
-          }
-        },
-        "featured_collection_HKimab": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "candy-bitossi-home"
-          }
-        },
-        "featured_collection_wP74zH": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_aWtiTa": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_zLbmX4": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_6rWbeY": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_WAb76R",
-        "featured_collection_HKimab",
-        "featured_collection_wP74zH",
-        "featured_collection_aWtiTa",
-        "featured_collection_zLbmX4",
-        "featured_collection_6rWbeY"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "collection_list_Nxf36b": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_3ajp3p": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bon-ton-bitossi-home"
-          }
-        },
-        "featured_collection_cF9JVN": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "candy-bitossi-home"
-          }
-        },
-        "featured_collection_g39KEU": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_mRJHcR": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_UATKTD": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_Jgddwc": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_3ajp3p",
-        "featured_collection_cF9JVN",
-        "featured_collection_g39KEU",
-        "featured_collection_mRJHcR",
-        "featured_collection_UATKTD",
-        "featured_collection_Jgddwc"
+        "featured_collection_geLJwk"
       ],
       "settings": {
         "title": "",
@@ -707,8 +571,6 @@
     "collection_list_DFkntc",
     "collection_list_yH8cEE",
     "collection_list_Qdy6e7",
-    "collection_list_3Y6Brx",
-    "collection_list_Nxf36b",
     "featured_collection_EihEex",
     "multicolumn_Webjiz",
     "collection_list_pekHrY",
