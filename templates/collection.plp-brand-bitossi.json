@@ -166,7 +166,7 @@
       ],
       "settings": {
         "title": "La Tavola Scomposta",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 5,
         "color_scheme": "scheme-1",
@@ -203,20 +203,13 @@
           "settings": {
             "collection": "bitossi-home-botanica"
           }
-        },
-        "featured_collection_7DKyFF": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "i-senza-tempo-bitossi-home"
-          }
         }
       },
       "block_order": [
         "featured_collection_T8gQbi",
         "featured_collection_yKNrWi",
         "featured_collection_aBWU8Y",
-        "featured_collection_Ad4yxQ",
-        "featured_collection_7DKyFF"
+        "featured_collection_Ad4yxQ"
       ],
       "settings": {
         "title": "",
@@ -263,12 +256,6 @@
           "settings": {
             "collection": "i-senza-tempo-bitossi-home"
           }
-        },
-        "featured_collection_Mi6xkf": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bon-ton-bitossi-home"
-          }
         }
       },
       "block_order": [
@@ -276,14 +263,46 @@
         "featured_collection_DbY4Qz",
         "featured_collection_RwXcJ7",
         "featured_collection_Kr3hQr",
-        "featured_collection_jKxVGh",
-        "featured_collection_Mi6xkf"
+        "featured_collection_jKxVGh"
       ],
       "settings": {
         "title": "I Senza Tempo",
         "heading_size": "h2",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_DkYHyh": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_BznABf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bon-ton-bitossi-home"
+          }
+        },
+        "featured_collection_D344Eh": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_BznABf",
+        "featured_collection_D344Eh"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 5,
         "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
@@ -686,6 +705,7 @@
     "collection_list_DFkntc",
     "collection_list_LxpCcQ",
     "collection_list_kdtLc8",
+    "collection_list_DkYHyh",
     "collection_list_yH8cEE",
     "collection_list_Qdy6e7",
     "featured_collection_EihEex",
