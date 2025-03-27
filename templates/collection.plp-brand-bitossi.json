@@ -180,16 +180,16 @@
     "collection_list_LxpCcQ": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_yKNrWi": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "un-buon-ricordo-bitossi-home"
-          }
-        },
         "featured_collection_T8gQbi": {
           "type": "featured_collection",
           "settings": {
             "collection": "fabula-bitossi-home"
+          }
+        },
+        "featured_collection_yKNrWi": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "un-buon-ricordo-bitossi-home"
           }
         },
         "featured_collection_aBWU8Y": {
@@ -203,13 +203,20 @@
           "settings": {
             "collection": "bitossi-home-botanica"
           }
+        },
+        "featured_collection_7DKyFF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "i-senza-tempo-bitossi-home"
+          }
         }
       },
       "block_order": [
-        "featured_collection_yKNrWi",
         "featured_collection_T8gQbi",
+        "featured_collection_yKNrWi",
         "featured_collection_aBWU8Y",
-        "featured_collection_Ad4yxQ"
+        "featured_collection_Ad4yxQ",
+        "featured_collection_7DKyFF"
       ],
       "settings": {
         "title": "",
@@ -227,18 +234,6 @@
     "collection_list_kdtLc8": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_jKxVGh": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "i-senza-tempo-bitossi-home"
-          }
-        },
-        "featured_collection_RwXcJ7": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home-parisienne-bitossi-home"
-          }
-        },
         "featured_collection_wp3fz3": {
           "type": "featured_collection",
           "settings": {
@@ -251,10 +246,22 @@
             "collection": "bitossi-home-petalo-bitossi-home"
           }
         },
+        "featured_collection_RwXcJ7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-parisienne-bitossi-home"
+          }
+        },
         "featured_collection_Kr3hQr": {
           "type": "featured_collection",
           "settings": {
             "collection": "bitossi-home-rose-bitossi-home"
+          }
+        },
+        "featured_collection_jKxVGh": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "i-senza-tempo-bitossi-home"
           }
         },
         "featured_collection_Mi6xkf": {
@@ -265,11 +272,11 @@
         }
       },
       "block_order": [
-        "featured_collection_jKxVGh",
-        "featured_collection_RwXcJ7",
         "featured_collection_wp3fz3",
         "featured_collection_DbY4Qz",
+        "featured_collection_RwXcJ7",
         "featured_collection_Kr3hQr",
+        "featured_collection_jKxVGh",
         "featured_collection_Mi6xkf"
       ],
       "settings": {
@@ -300,30 +307,37 @@
             "collection": "bitossi-home-diseguale"
           }
         },
-        "featured_collection_cjYYyN": {
+        "featured_collection_8KLp93": {
           "type": "featured_collection",
           "settings": {
-            "collection": "altarini-bitossi-home"
+            "collection": "deco-bitossi-home"
           }
         },
         "featured_collection_7RkzQg": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "emporio-bitossi-home"
+          }
+        },
+        "featured_collection_Uptirf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sogno-bitossi-home"
           }
         }
       },
       "block_order": [
         "featured_collection_xQmK8F",
         "featured_collection_7rXDL8",
-        "featured_collection_cjYYyN",
-        "featured_collection_7RkzQg"
+        "featured_collection_8KLp93",
+        "featured_collection_7RkzQg",
+        "featured_collection_Uptirf"
       ],
       "settings": {
         "title": "Gli Accessori da Tavola",
         "heading_size": "h2",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
@@ -341,29 +355,36 @@
             "collection": "candy-bitossi-home"
           }
         },
-        "featured_collection_TLLPRz": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "deco-bitossi-home"
-          }
-        },
         "featured_collection_geLJwk": {
           "type": "featured_collection",
           "settings": {
             "collection": "decor-bitossi-home"
           }
+        },
+        "featured_collection_TLLPRz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "intreccio-bitossi-home"
+          }
+        },
+        "featured_collection_B3jnga": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "altarini-bitossi-home"
+          }
         }
       },
       "block_order": [
         "featured_collection_VeQF7q",
+        "featured_collection_geLJwk",
         "featured_collection_TLLPRz",
-        "featured_collection_geLJwk"
+        "featured_collection_B3jnga"
       ],
       "settings": {
         "title": "",
         "heading_size": "h2",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "2",
