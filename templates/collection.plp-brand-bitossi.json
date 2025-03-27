@@ -224,6 +224,67 @@
         "padding_bottom": 0
       }
     },
+    "collection_list_kdtLc8": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_jKxVGh": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "i-senza-tempo-bitossi-home"
+          }
+        },
+        "featured_collection_RwXcJ7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-parisienne-bitossi-home"
+          }
+        },
+        "featured_collection_wp3fz3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "quadri-bitossi-home"
+          }
+        },
+        "featured_collection_DbY4Qz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-petalo-bitossi-home"
+          }
+        },
+        "featured_collection_Kr3hQr": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-rose-bitossi-home"
+          }
+        },
+        "featured_collection_Mi6xkf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bon-ton-bitossi-home"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_jKxVGh",
+        "featured_collection_RwXcJ7",
+        "featured_collection_wp3fz3",
+        "featured_collection_DbY4Qz",
+        "featured_collection_Kr3hQr",
+        "featured_collection_Mi6xkf"
+      ],
+      "settings": {
+        "title": "I Senza Tempo",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "collection_list_yH8cEE": {
       "type": "collection-list",
       "blocks": {
@@ -239,41 +300,27 @@
             "collection": "bitossi-home-diseguale"
           }
         },
-        "featured_collection_aBekiV": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home-bel-paese"
-          }
-        },
-        "featured_collection_rDyEwY": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home-botanica"
-          }
-        },
-        "featured_collection_FeWHBK": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home-natale"
-          }
-        },
         "featured_collection_cjYYyN": {
           "type": "featured_collection",
           "settings": {
             "collection": "altarini-bitossi-home"
+          }
+        },
+        "featured_collection_7RkzQg": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
           }
         }
       },
       "block_order": [
         "featured_collection_xQmK8F",
         "featured_collection_7rXDL8",
-        "featured_collection_aBekiV",
-        "featured_collection_rDyEwY",
-        "featured_collection_FeWHBK",
-        "featured_collection_cjYYyN"
+        "featured_collection_cjYYyN",
+        "featured_collection_7RkzQg"
       ],
       "settings": {
-        "title": "",
+        "title": "Gli Accessori da Tavola",
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 6,
@@ -288,12 +335,6 @@
     "collection_list_Qdy6e7": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_383ah6": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bon-ton-bitossi-home"
-          }
-        },
         "featured_collection_VeQF7q": {
           "type": "featured_collection",
           "settings": {
@@ -314,7 +355,6 @@
         }
       },
       "block_order": [
-        "featured_collection_383ah6",
         "featured_collection_VeQF7q",
         "featured_collection_TLLPRz",
         "featured_collection_geLJwk"
@@ -610,6 +650,7 @@
     "multicolumn_gaht3W",
     "collection_list_DFkntc",
     "collection_list_LxpCcQ",
+    "collection_list_kdtLc8",
     "collection_list_yH8cEE",
     "collection_list_Qdy6e7",
     "featured_collection_EihEex",
