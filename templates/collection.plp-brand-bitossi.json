@@ -361,6 +361,12 @@
             "collection": "decor-bitossi-home"
           }
         },
+        "featured_collection_yk6yEN": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-le-decorazioni-bitossi-home"
+          }
+        },
         "featured_collection_TLLPRz": {
           "type": "featured_collection",
           "settings": {
@@ -377,6 +383,7 @@
       "block_order": [
         "featured_collection_VeQF7q",
         "featured_collection_geLJwk",
+        "featured_collection_yk6yEN",
         "featured_collection_TLLPRz",
         "featured_collection_B3jnga"
       ],
