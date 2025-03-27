@@ -132,6 +132,12 @@
             "collection": "bitossi-home-funky-table-tavola-scomposta"
           }
         },
+        "featured_collection_EDFqK3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-i-piattini-bitossi-home"
+          }
+        },
         "featured_collection_JxyqNF": {
           "type": "featured_collection",
           "settings": {
@@ -147,35 +153,69 @@
         "featured_collection_JfW8Ym": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bitossi-home-parisienne-bitossi-home"
-          }
-        },
-        "featured_collection_BGfKmN": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home-petalo-bitossi-home"
-          }
-        },
-        "featured_collection_EDFqK3": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home-i-piattini-bitossi-home"
+            "collection": "bitossi-home-bel-paese"
           }
         }
       },
       "block_order": [
         "featured_collection_7i8Gfg",
+        "featured_collection_EDFqK3",
         "featured_collection_JxyqNF",
         "featured_collection_JLFHbU",
-        "featured_collection_JfW8Ym",
-        "featured_collection_BGfKmN",
-        "featured_collection_EDFqK3"
+        "featured_collection_JfW8Ym"
       ],
       "settings": {
         "title": "La Tavola Scomposta",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_LxpCcQ": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_yKNrWi": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "un-buon-ricordo-bitossi-home"
+          }
+        },
+        "featured_collection_T8gQbi": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "fabula-bitossi-home"
+          }
+        },
+        "featured_collection_aBWU8Y": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-bel-paese"
+          }
+        },
+        "featured_collection_Ad4yxQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-botanica"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_yKNrWi",
+        "featured_collection_T8gQbi",
+        "featured_collection_aBWU8Y",
+        "featured_collection_Ad4yxQ"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
         "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
@@ -569,6 +609,7 @@
     "image_banner_dc8VCJ",
     "multicolumn_gaht3W",
     "collection_list_DFkntc",
+    "collection_list_LxpCcQ",
     "collection_list_yH8cEE",
     "collection_list_Qdy6e7",
     "featured_collection_EihEex",
