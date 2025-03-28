@@ -404,6 +404,12 @@
           "settings": {
             "collection": "altarini-bitossi-home"
           }
+        },
+        "featured_collection_ncAWH8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-club-bitossi-home"
+          }
         }
       },
       "block_order": [
@@ -411,13 +417,14 @@
         "featured_collection_VeQF7q",
         "featured_collection_geLJwk",
         "featured_collection_TLLPRz",
-        "featured_collection_B3jnga"
+        "featured_collection_B3jnga",
+        "featured_collection_ncAWH8"
       ],
       "settings": {
         "title": "",
         "heading_size": "h2",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "2",
