@@ -49,7 +49,7 @@
       ],
       "settings": {
         "title": "Bitossi Home",
-        "heading_size": "h0",
+        "heading_size": "hxl",
         "image_width": "third",
         "image_ratio": "square",
         "columns_desktop": 1,
@@ -60,7 +60,7 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 40,
         "padding_bottom": 0
       }
     },
@@ -119,7 +119,7 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 40,
         "padding_bottom": 0
       }
     },
@@ -479,7 +479,7 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 40,
         "padding_bottom": 0
       }
     },
@@ -540,8 +540,8 @@
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 20,
-        "padding_bottom": 20
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "collection_list_PpNeKq": {
@@ -594,8 +594,8 @@
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 20,
-        "padding_bottom": 20
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multicolumn_Q3fPtj": {
@@ -683,8 +683,8 @@
         "color_scheme": "scheme-2",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "product-grid": {
