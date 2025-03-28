@@ -203,13 +203,20 @@
           "settings": {
             "collection": "bitossi-home-botanica"
           }
+        },
+        "featured_collection_Fkq4Ae": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "con-amore-bitossi-home"
+          }
         }
       },
       "block_order": [
         "featured_collection_T8gQbi",
         "featured_collection_yKNrWi",
         "featured_collection_aBWU8Y",
-        "featured_collection_Ad4yxQ"
+        "featured_collection_Ad4yxQ",
+        "featured_collection_Fkq4Ae"
       ],
       "settings": {
         "title": "",
