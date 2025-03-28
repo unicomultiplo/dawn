@@ -368,6 +368,12 @@
     "collection_list_Qdy6e7": {
       "type": "collection-list",
       "blocks": {
+        "featured_collection_qGM8MA": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "treccia-bitossi-home"
+          }
+        },
         "featured_collection_VeQF7q": {
           "type": "featured_collection",
           "settings": {
@@ -394,6 +400,7 @@
         }
       },
       "block_order": [
+        "featured_collection_qGM8MA",
         "featured_collection_VeQF7q",
         "featured_collection_geLJwk",
         "featured_collection_TLLPRz",
