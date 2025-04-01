@@ -192,22 +192,16 @@
             "collection": "un-buon-ricordo-bitossi-home"
           }
         },
-        "featured_collection_aBWU8Y": {
+        "featured_collection_Fkq4Ae": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bitossi-home-bel-paese"
+            "collection": "con-amore-bitossi-home"
           }
         },
         "featured_collection_Ad4yxQ": {
           "type": "featured_collection",
           "settings": {
             "collection": "bitossi-home-botanica"
-          }
-        },
-        "featured_collection_Fkq4Ae": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "con-amore-bitossi-home"
           }
         },
         "featured_collection_DMEd3a": {
@@ -220,16 +214,15 @@
       "block_order": [
         "featured_collection_T8gQbi",
         "featured_collection_yKNrWi",
-        "featured_collection_aBWU8Y",
-        "featured_collection_Ad4yxQ",
         "featured_collection_Fkq4Ae",
+        "featured_collection_Ad4yxQ",
         "featured_collection_DMEd3a"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
