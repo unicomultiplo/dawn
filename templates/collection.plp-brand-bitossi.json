@@ -531,12 +531,6 @@
             "collection": "posate-bitossi-home"
           }
         },
-        "featured_collection_9fLamj": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home-tovagliette-e-vassoi"
-          }
-        },
         "featured_collection_8eTym9": {
           "type": "featured_collection",
           "settings": {
@@ -549,14 +543,67 @@
         "featured_collection_ThyLH7",
         "featured_collection_TY9Gnq",
         "featured_collection_xqbBjc",
-        "featured_collection_9fLamj",
         "featured_collection_8eTym9"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_qbh9yb": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_UFKpqm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-tovagliette-e-vassoi"
+          }
+        },
+        "featured_collection_cQf8XH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "vassoi-e-piatti-da-portata-bitossi-home"
+          }
+        },
+        "featured_collection_BxLdjD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ciotole-e-coppette-bitossi-home"
+          }
+        },
+        "featured_collection_brYEAY": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-tazze-tazzine-e-mug"
+          }
+        },
+        "featured_collection_7Wgc7g": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "centrotavola-e-alzate-bitossi-home"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_UFKpqm",
+        "featured_collection_cQf8XH",
+        "featured_collection_BxLdjD",
+        "featured_collection_brYEAY",
+        "featured_collection_7Wgc7g"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_ratio": "square",
+        "columns_desktop": 5,
         "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
@@ -568,56 +615,35 @@
     "collection_list_PpNeKq": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_XwqKf3": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "vassoi-e-piatti-da-portata-bitossi-home"
-          }
-        },
-        "featured_collection_V6mwpd": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home-tazze-tazzine-e-mug"
-          }
-        },
-        "featured_collection_rr7yAM": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "centrotavola-e-alzate-bitossi-home"
-          }
-        },
-        "featured_collection_xM6Br9": {
+        "featured_collection_3KYQWJ": {
           "type": "featured_collection",
           "settings": {
             "collection": "bitossi-home-clessidre"
           }
         },
-        "featured_collection_GBgNJn": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home-le-decorazioni-bitossi-home"
-          }
-        },
-        "featured_collection_UGUHed": {
+        "featured_collection_V6mwpd": {
           "type": "featured_collection",
           "settings": {
             "collection": "candele-e-candelabri-bitossi-home"
           }
+        },
+        "featured_collection_rr7yAM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-le-decorazioni-bitossi-home"
+          }
         }
       },
       "block_order": [
-        "featured_collection_XwqKf3",
+        "featured_collection_3KYQWJ",
         "featured_collection_V6mwpd",
-        "featured_collection_rr7yAM",
-        "featured_collection_xM6Br9",
-        "featured_collection_GBgNJn",
-        "featured_collection_UGUHed"
+        "featured_collection_rr7yAM"
       ],
       "settings": {
         "title": "",
         "heading_size": "h0",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
@@ -751,6 +777,7 @@
     "featured_collection_EihEex",
     "multicolumn_Webjiz",
     "collection_list_pekHrY",
+    "collection_list_qbh9yb",
     "collection_list_PpNeKq",
     "multicolumn_Q3fPtj",
     "product-grid"
