@@ -54,13 +54,6 @@
           "type": "qty_disclaimer",
           "settings": {}
         },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "square"
-          }
-        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
@@ -70,6 +63,13 @@
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "square"
           }
         },
         "custom_liquid_tm8pXP": {
@@ -115,9 +115,9 @@
         "custom_liquid_EJXmHi",
         "custom_liquid_W3qmEe",
         "qty_disclaimer_6icb8M",
-        "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "variant_picker",
         "custom_liquid_tm8pXP",
         "collapsible_tab_pjWwye",
         "sku_C4aTJC",
