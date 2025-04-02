@@ -519,6 +519,12 @@
             "collection": "bitossi-home-bicchieri-e-calici"
           }
         },
+        "featured_collection_TY9Gnq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bottiglie-e-caraffe-bitossi-home"
+          }
+        },
         "featured_collection_xqbBjc": {
           "type": "featured_collection",
           "settings": {
@@ -541,6 +547,7 @@
       "block_order": [
         "featured_collection_LcHyEx",
         "featured_collection_ThyLH7",
+        "featured_collection_TY9Gnq",
         "featured_collection_xqbBjc",
         "featured_collection_9fLamj",
         "featured_collection_8eTym9"
@@ -549,7 +556,7 @@
         "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
@@ -573,6 +580,12 @@
             "collection": "bitossi-home-tazze-tazzine-e-mug"
           }
         },
+        "featured_collection_rr7yAM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "centrotavola-e-alzate-bitossi-home"
+          }
+        },
         "featured_collection_xM6Br9": {
           "type": "featured_collection",
           "settings": {
@@ -590,21 +603,15 @@
           "settings": {
             "collection": "candele-e-candelabri-bitossi-home"
           }
-        },
-        "featured_collection_rr7yAM": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "centrotavola-e-alzate-bitossi-home"
-          }
         }
       },
       "block_order": [
         "featured_collection_XwqKf3",
         "featured_collection_V6mwpd",
+        "featured_collection_rr7yAM",
         "featured_collection_xM6Br9",
         "featured_collection_GBgNJn",
-        "featured_collection_UGUHed",
-        "featured_collection_rr7yAM"
+        "featured_collection_UGUHed"
       ],
       "settings": {
         "title": "",
