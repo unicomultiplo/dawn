@@ -30,12 +30,6 @@
           "type": "price",
           "settings": {}
         },
-        "custom_liquid_EJXmHi": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "{% assign page_id = product.metafields.custom.scopri_composizione %}\n\n\n{% if page_id and pages[page_id] %}\n<div class=\"product__text inline-richtext\">\n<a href=\"{{ pages[page_id].url }}\">Curioso di conoscere meglio questa composizione? SCOPRI DI PIÚ </a>\n</div>\n{% endif %}"
-          }
-        },
         "custom_liquid_W3qmEe": {
           "type": "custom_liquid",
           "settings": {
@@ -45,13 +39,6 @@
         "qty_disclaimer_6icb8M": {
           "type": "qty_disclaimer",
           "settings": {}
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
-          }
         },
         "quantity_selector": {
           "type": "quantity_selector",
@@ -64,10 +51,23 @@
             "show_gift_card_recipient": false
           }
         },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
         "custom_liquid_tm8pXP": {
           "type": "custom_liquid",
           "settings": {
             "custom_liquid": "<div>{{ product.metafields.custom.short_description | newline_to_br }}\n</div>"
+          }
+        },
+        "custom_liquid_EJXmHi": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% assign page_id = product.metafields.custom.scopri_composizione %}\n\n\n{% if page_id and pages[page_id] %}\n<div class=\"product__text inline-richtext\">\n<a href=\"{{ pages[page_id].url }}\">Curioso di conoscere meglio questa composizione? SCOPRI DI PIÚ </a>\n</div>\n{% endif %}"
           }
         },
         "sku_C4aTJC": {
@@ -95,13 +95,13 @@
         "title",
         "variant_sku_BLBrqe",
         "price_XLK3Aj",
-        "custom_liquid_EJXmHi",
         "custom_liquid_W3qmEe",
         "qty_disclaimer_6icb8M",
-        "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "variant_picker",
         "custom_liquid_tm8pXP",
+        "custom_liquid_EJXmHi",
         "sku_C4aTJC",
         "description",
         "custom_liquid_zVHD4U"

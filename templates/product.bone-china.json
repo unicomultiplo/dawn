@@ -44,15 +44,6 @@
             "custom_liquid": "{% assign page_id = product.metafields.custom.scopri_composizione %}\n\n\n{% if page_id and pages[page_id] %}\n<div class=\"product__text inline-richtext\">\n<a href=\"{{ pages[page_id].url }}\">Curioso di conoscere meglio questa composizione? SCOPRI DI PIÚ </a>\n</div>\n{% endif %}"
           }
         },
-        "collapsible_tab_pjWwye": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Materiale:  Bone China",
-            "icon": "serving_dish",
-            "content": "<p><a href=\"/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola\" title=\"Bone China: Scopri la Porcellana Più Elegante per la Tua Tavola\"> Il Top della Porcellana. Leggi di più!</a></p>",
-            "page": "bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola"
-          }
-        },
         "custom_liquid_W3qmEe": {
           "type": "custom_liquid",
           "settings": {
@@ -87,6 +78,15 @@
             "custom_liquid": "<div>{{ product.metafields.custom.short_description | newline_to_br }}\n</div>"
           }
         },
+        "collapsible_tab_pjWwye": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Materiale:  Bone China",
+            "icon": "serving_dish",
+            "content": "<p><a href=\"/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola\" title=\"Bone China: Scopri la Porcellana Più Elegante per la Tua Tavola\"> Il Top della Porcellana. Leggi di più!</a></p>",
+            "page": "bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola"
+          }
+        },
         "sku_C4aTJC": {
           "type": "sku",
           "disabled": true,
@@ -113,13 +113,13 @@
         "variant_sku_BLBrqe",
         "price_XLK3Aj",
         "custom_liquid_EJXmHi",
-        "collapsible_tab_pjWwye",
         "custom_liquid_W3qmEe",
         "qty_disclaimer_6icb8M",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "custom_liquid_tm8pXP",
+        "collapsible_tab_pjWwye",
         "sku_C4aTJC",
         "description",
         "custom_liquid_zVHD4U"
