@@ -126,34 +126,34 @@
     "collection_list_DFkntc": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_7i8Gfg": {
+        "featured_collection_N7EWW3": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bitossi-home-funky-table-tavola-scomposta"
+            "collection": ""
           }
         },
-        "featured_collection_EDFqK3": {
+        "featured_collection_BG6RDT": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bitossi-home-i-piattini-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_JxyqNF": {
+        "featured_collection_66bUrF": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bitossi-home-abracadabra"
+            "collection": ""
           }
         },
-        "featured_collection_JLFHbU": {
+        "featured_collection_LdH8WU": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bitossi-home-il-frutto-della-passione-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_JfW8Ym": {
+        "featured_collection_nfRqPK": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bitossi-home-bel-paese"
+            "collection": ""
           }
         },
         "featured_collection_jQ4XDt": {
@@ -164,11 +164,11 @@
         }
       },
       "block_order": [
-        "featured_collection_7i8Gfg",
-        "featured_collection_EDFqK3",
-        "featured_collection_JxyqNF",
-        "featured_collection_JLFHbU",
-        "featured_collection_JfW8Ym",
+        "featured_collection_N7EWW3",
+        "featured_collection_BG6RDT",
+        "featured_collection_66bUrF",
+        "featured_collection_LdH8WU",
+        "featured_collection_nfRqPK",
         "featured_collection_jQ4XDt"
       ],
       "settings": {
@@ -187,34 +187,34 @@
     "collection_list_LxpCcQ": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_T8gQbi": {
+        "featured_collection_GGGQ7E": {
           "type": "featured_collection",
           "settings": {
-            "collection": "fabula-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_yKNrWi": {
+        "featured_collection_HUmzXz": {
           "type": "featured_collection",
           "settings": {
-            "collection": "un-buon-ricordo-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_Fkq4Ae": {
+        "featured_collection_tbDtk4": {
           "type": "featured_collection",
           "settings": {
-            "collection": "con-amore-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_Ad4yxQ": {
+        "featured_collection_d43WTa": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bitossi-home-botanica"
+            "collection": ""
           }
         },
-        "featured_collection_DMEd3a": {
+        "featured_collection_3zDpgk": {
           "type": "featured_collection",
           "settings": {
-            "collection": "the-club-bitossi-home"
+            "collection": ""
           }
         },
         "featured_collection_Lfj6gi": {
@@ -225,11 +225,11 @@
         }
       },
       "block_order": [
-        "featured_collection_T8gQbi",
-        "featured_collection_yKNrWi",
-        "featured_collection_Fkq4Ae",
-        "featured_collection_Ad4yxQ",
-        "featured_collection_DMEd3a",
+        "featured_collection_GGGQ7E",
+        "featured_collection_HUmzXz",
+        "featured_collection_tbDtk4",
+        "featured_collection_d43WTa",
+        "featured_collection_3zDpgk",
         "featured_collection_Lfj6gi"
       ],
       "settings": {
@@ -248,34 +248,34 @@
     "collection_list_kdtLc8": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_wp3fz3": {
+        "featured_collection_UBTb7R": {
           "type": "featured_collection",
           "settings": {
-            "collection": "quadri-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_DbY4Qz": {
+        "featured_collection_VpPQix": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bitossi-home-petalo-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_RwXcJ7": {
+        "featured_collection_BimPcU": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bitossi-home-parisienne-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_Kr3hQr": {
+        "featured_collection_hQRCFU": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bitossi-home-rose-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_jKxVGh": {
+        "featured_collection_98HBbE": {
           "type": "featured_collection",
           "settings": {
-            "collection": "i-senza-tempo-bitossi-home"
+            "collection": ""
           }
         },
         "featured_collection_tdc8kE": {
@@ -286,11 +286,11 @@
         }
       },
       "block_order": [
-        "featured_collection_wp3fz3",
-        "featured_collection_DbY4Qz",
-        "featured_collection_RwXcJ7",
-        "featured_collection_Kr3hQr",
-        "featured_collection_jKxVGh",
+        "featured_collection_UBTb7R",
+        "featured_collection_VpPQix",
+        "featured_collection_BimPcU",
+        "featured_collection_hQRCFU",
+        "featured_collection_98HBbE",
         "featured_collection_tdc8kE"
       ],
       "settings": {
@@ -309,34 +309,34 @@
     "collection_list_yH8cEE": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_xQmK8F": {
+        "featured_collection_NLmFPa": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bitossi-home-smerlo-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_7rXDL8": {
+        "featured_collection_edtUjp": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bitossi-home-diseguale"
+            "collection": ""
           }
         },
-        "featured_collection_8KLp93": {
+        "featured_collection_LfmXdY": {
           "type": "featured_collection",
           "settings": {
-            "collection": "deco-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_7RkzQg": {
+        "featured_collection_Vfm8da": {
           "type": "featured_collection",
           "settings": {
-            "collection": "emporio-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_Uptirf": {
+        "featured_collection_brYLkC": {
           "type": "featured_collection",
           "settings": {
-            "collection": "sogno-bitossi-home"
+            "collection": ""
           }
         },
         "featured_collection_ft89gp": {
@@ -347,11 +347,11 @@
         }
       },
       "block_order": [
-        "featured_collection_xQmK8F",
-        "featured_collection_7rXDL8",
-        "featured_collection_8KLp93",
-        "featured_collection_7RkzQg",
-        "featured_collection_Uptirf",
+        "featured_collection_NLmFPa",
+        "featured_collection_edtUjp",
+        "featured_collection_LfmXdY",
+        "featured_collection_Vfm8da",
+        "featured_collection_brYLkC",
         "featured_collection_ft89gp"
       ],
       "settings": {
@@ -370,50 +370,50 @@
     "collection_list_Qdy6e7": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_qGM8MA": {
+        "featured_collection_TchKcg": {
           "type": "featured_collection",
           "settings": {
-            "collection": "treccia-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_VeQF7q": {
+        "featured_collection_zYYXem": {
           "type": "featured_collection",
           "settings": {
-            "collection": "candy-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_geLJwk": {
+        "featured_collection_KXEcJP": {
           "type": "featured_collection",
           "settings": {
-            "collection": "decor-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_TLLPRz": {
+        "featured_collection_RqezDQ": {
           "type": "featured_collection",
           "settings": {
-            "collection": "intreccio-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_B3jnga": {
+        "featured_collection_xweE9N": {
           "type": "featured_collection",
           "settings": {
-            "collection": "altarini-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_ncAWH8": {
+        "featured_collection_JbiLat": {
           "type": "featured_collection",
           "settings": {
-            "collection": "the-club-bitossi-home"
+            "collection": ""
           }
         }
       },
       "block_order": [
-        "featured_collection_qGM8MA",
-        "featured_collection_VeQF7q",
-        "featured_collection_geLJwk",
-        "featured_collection_TLLPRz",
-        "featured_collection_B3jnga",
-        "featured_collection_ncAWH8"
+        "featured_collection_TchKcg",
+        "featured_collection_zYYXem",
+        "featured_collection_KXEcJP",
+        "featured_collection_RqezDQ",
+        "featured_collection_xweE9N",
+        "featured_collection_JbiLat"
       ],
       "settings": {
         "title": "",
@@ -431,50 +431,50 @@
     "collection_list_qKDHQy": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_rq9aCW": {
+        "featured_collection_cc3LrL": {
           "type": "featured_collection",
           "settings": {
-            "collection": "treccia-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_fL3tPx": {
+        "featured_collection_7di7Py": {
           "type": "featured_collection",
           "settings": {
-            "collection": "candy-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_UPwdVh": {
+        "featured_collection_G3EGyK": {
           "type": "featured_collection",
           "settings": {
-            "collection": "decor-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_gWMjbe": {
+        "featured_collection_ka4pBz": {
           "type": "featured_collection",
           "settings": {
-            "collection": "intreccio-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_Dbx87C": {
+        "featured_collection_JVEgTp": {
           "type": "featured_collection",
           "settings": {
-            "collection": "altarini-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_erg6m3": {
+        "featured_collection_GRfhwy": {
           "type": "featured_collection",
           "settings": {
-            "collection": "the-club-bitossi-home"
+            "collection": ""
           }
         }
       },
       "block_order": [
-        "featured_collection_rq9aCW",
-        "featured_collection_fL3tPx",
-        "featured_collection_UPwdVh",
-        "featured_collection_gWMjbe",
-        "featured_collection_Dbx87C",
-        "featured_collection_erg6m3"
+        "featured_collection_cc3LrL",
+        "featured_collection_7di7Py",
+        "featured_collection_G3EGyK",
+        "featured_collection_ka4pBz",
+        "featured_collection_JVEgTp",
+        "featured_collection_GRfhwy"
       ],
       "settings": {
         "title": "",
@@ -722,6 +722,182 @@
         "padding_bottom": 0
       }
     },
+    "collection_list_ky7KpY": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_eDKzpa": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_gjDg9q": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_gimYUD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_UMX6Ki": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_MNrW36": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_eDKzpa",
+        "featured_collection_gjDg9q",
+        "featured_collection_gimYUD",
+        "featured_collection_UMX6Ki",
+        "featured_collection_MNrW36"
+      ],
+      "settings": {
+        "title": "LIGHTING",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_jLjhzz": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_kr6qtH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_UQtEpz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_rLH9YK": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_DWb3hi": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_9Ttgmt": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_jYHWxq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_kr6qtH",
+        "featured_collection_UQtEpz",
+        "featured_collection_rLH9YK",
+        "featured_collection_DWb3hi",
+        "featured_collection_9Ttgmt",
+        "featured_collection_jYHWxq"
+      ],
+      "settings": {
+        "title": "FURNITURE",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_J4zThk": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_Ctdpx4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_MGz4Ya": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_Tq7E9Q": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_TwDQqH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_QrUHnG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_BqyHhr": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_Ctdpx4",
+        "featured_collection_MGz4Ya",
+        "featured_collection_Tq7E9Q",
+        "featured_collection_TwDQqH",
+        "featured_collection_QrUHnG",
+        "featured_collection_BqyHhr"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn_Q3fPtj": {
       "type": "multicolumn",
       "blocks": {
@@ -849,6 +1025,9 @@
     "collection_list_pekHrY",
     "collection_list_qbh9yb",
     "collection_list_qftGfx",
+    "collection_list_ky7KpY",
+    "collection_list_jLjhzz",
+    "collection_list_J4zThk",
     "multicolumn_Q3fPtj",
     "product-grid"
   ]
