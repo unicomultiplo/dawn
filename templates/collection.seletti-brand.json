@@ -544,7 +544,7 @@
         "column_PxePj3"
       ],
       "settings": {
-        "title": "Catalogo Bitossi Home: articoli per la tavola e la cucina",
+        "title": "Catalogo Seletti: articoli per la tavola e la cucina",
         "heading_size": "h0",
         "image_width": "third",
         "image_ratio": "square",
@@ -563,46 +563,46 @@
     "collection_list_pekHrY": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_LcHyEx": {
+        "featured_collection_3tLxTp": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bitossi-home-piatti"
+            "collection": ""
           }
         },
-        "featured_collection_ThyLH7": {
+        "featured_collection_BYLb6c": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bitossi-home-bicchieri-e-calici"
+            "collection": ""
           }
         },
-        "featured_collection_TY9Gnq": {
+        "featured_collection_jtRhyB": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bottiglie-e-caraffe-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_xqbBjc": {
+        "featured_collection_wYGKTW": {
           "type": "featured_collection",
           "settings": {
-            "collection": "posate-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_8eTym9": {
+        "featured_collection_RDdx7c": {
           "type": "featured_collection",
           "settings": {
-            "collection": "piatti-pizza-bitossi-home"
+            "collection": ""
           }
         }
       },
       "block_order": [
-        "featured_collection_LcHyEx",
-        "featured_collection_ThyLH7",
-        "featured_collection_TY9Gnq",
-        "featured_collection_xqbBjc",
-        "featured_collection_8eTym9"
+        "featured_collection_3tLxTp",
+        "featured_collection_BYLb6c",
+        "featured_collection_jtRhyB",
+        "featured_collection_wYGKTW",
+        "featured_collection_RDdx7c"
       ],
       "settings": {
-        "title": "",
+        "title": "ART DE LA TABLE",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 5,
@@ -617,43 +617,43 @@
     "collection_list_qbh9yb": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_UFKpqm": {
+        "featured_collection_TDxJt6": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bitossi-home-tovagliette-e-vassoi"
+            "collection": ""
           }
         },
-        "featured_collection_cQf8XH": {
+        "featured_collection_NrtCkY": {
           "type": "featured_collection",
           "settings": {
-            "collection": "vassoi-e-piatti-da-portata-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_BxLdjD": {
+        "featured_collection_M9irnA": {
           "type": "featured_collection",
           "settings": {
-            "collection": "ciotole-e-coppette-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_brYEAY": {
+        "featured_collection_KpJT7y": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bitossi-home-tazze-tazzine-e-mug"
+            "collection": ""
           }
         },
-        "featured_collection_7Wgc7g": {
+        "featured_collection_cBC8zD": {
           "type": "featured_collection",
           "settings": {
-            "collection": "centrotavola-e-alzate-bitossi-home"
+            "collection": ""
           }
         }
       },
       "block_order": [
-        "featured_collection_UFKpqm",
-        "featured_collection_cQf8XH",
-        "featured_collection_BxLdjD",
-        "featured_collection_brYEAY",
-        "featured_collection_7Wgc7g"
+        "featured_collection_TDxJt6",
+        "featured_collection_NrtCkY",
+        "featured_collection_M9irnA",
+        "featured_collection_KpJT7y",
+        "featured_collection_cBC8zD"
       ],
       "settings": {
         "title": "",
@@ -668,36 +668,50 @@
         "padding_bottom": 0
       }
     },
-    "collection_list_PpNeKq": {
+    "collection_list_qftGfx": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_3KYQWJ": {
+        "featured_collection_FBwNMD": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bitossi-home-clessidre"
+            "collection": ""
           }
         },
-        "featured_collection_V6mwpd": {
+        "featured_collection_bqNjJw": {
           "type": "featured_collection",
           "settings": {
-            "collection": "candele-e-candelabri-bitossi-home"
+            "collection": ""
           }
         },
-        "featured_collection_rr7yAM": {
+        "featured_collection_xfDzRd": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bitossi-home-le-decorazioni-bitossi-home"
+            "collection": ""
+          }
+        },
+        "featured_collection_6V8VQE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_k3gywW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
           }
         }
       },
       "block_order": [
-        "featured_collection_3KYQWJ",
-        "featured_collection_V6mwpd",
-        "featured_collection_rr7yAM"
+        "featured_collection_FBwNMD",
+        "featured_collection_bqNjJw",
+        "featured_collection_xfDzRd",
+        "featured_collection_6V8VQE",
+        "featured_collection_k3gywW"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h0",
+        "title": "OBJECT",
+        "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 5,
         "color_scheme": "scheme-1",
@@ -714,7 +728,7 @@
         "column_dbkhmp": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi_-logo-250.jpg",
+            "image": "shopify://shop_images/Seletti.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -724,7 +738,7 @@
         "column_MP9iUa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi-home-Bel-paese_1.jpg",
+            "image": "shopify://shop_images/Seletti-Blow_by_Job.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -734,7 +748,7 @@
         "column_E36b7h": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi-home-tazze-e-tazzine.webp",
+            "image": "shopify://shop_images/Seletti-diesel_-living.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -744,7 +758,7 @@
         "column_8nnMib": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi-home-Diseguale-bicchieri.webp",
+            "image": "shopify://shop_images/Seletti-i-wares.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -754,7 +768,7 @@
         "column_WKAwtd": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi-home-piatti_1.jpg",
+            "image": "shopify://shop_images/Seletti-Toiletpaper_3.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -764,7 +778,7 @@
         "column_H7JJW8": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi-home-rose-black.webp",
+            "image": "shopify://shop_images/Seletti-magna-grecia.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -834,7 +848,7 @@
     "multicolumn_Webjiz",
     "collection_list_pekHrY",
     "collection_list_qbh9yb",
-    "collection_list_PpNeKq",
+    "collection_list_qftGfx",
     "multicolumn_Q3fPtj",
     "product-grid"
   ]
