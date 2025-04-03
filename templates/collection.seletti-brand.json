@@ -24,6 +24,15 @@
     "multicolumn_4fT4dH": {
       "type": "multicolumn",
       "blocks": {
+        "column_tYqADn": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Dal 1964, Seletti ha rivoluzionato il complemento d'arredo grazie alla qualità e all'eccellenza del Made in Italy. Innovazione e originalità sono nel DNA del brand: il geniale design quotidiano e fantasioso inizia con Romano e prosegue con Stefano Seletti. Esplora nuovi mondi celebrando la vita e la sua bellezza, dai servizi per la tavola ai curiosi oggetti per arredare con personalità.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_qFQxcM": {
           "type": "column",
           "settings": {
@@ -32,23 +41,14 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_tYqADn": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Bitossi Home veste la tua tavola e la tua casa. Dai piatti ai calici, dalle clessidre ai vasi, questo brand toscano è tutto da esplorare. Natura, tradizione, simbolismo, spirito cosmopolita e concetti innovativi generano un carosello di collezioni singolari e pittoresche. </p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "column_qFQxcM",
-        "column_tYqADn"
+        "column_tYqADn",
+        "column_qFQxcM"
       ],
       "settings": {
-        "title": "Bitossi Home",
+        "title": "Seletti",
         "heading_size": "hxl",
         "image_width": "third",
         "image_ratio": "square",
@@ -67,7 +67,7 @@
     "image_banner_dc8VCJ": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/Bitossi-tavola-di-pasqua-1.jpg",
+        "image": "shopify://shop_images/seletti-catalogo-novita25.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-left",
@@ -87,7 +87,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Non perderti le occasioni a prezzo speciale selezionate tra le collezioni Bitossi: scopri le promozioni in corso! Estetica delle forme, contrasti e armonie cromatiche creano uno stile così eclettico da coinvolgere tutti senza riserve.</p>",
+            "text": "<p>Non perderti le occasioni a prezzo speciale selezionate tra le collezioni Seletti: scopri le promozioni in corso! </p>",
             "link_label": "",
             "link": ""
           }
@@ -107,7 +107,7 @@
         "column_thtXjU"
       ],
       "settings": {
-        "title": "Le Collezioni Bitossi Home",
+        "title": "Le Collezioni Seletti",
         "heading_size": "h0",
         "image_width": "third",
         "image_ratio": "square",
@@ -155,6 +155,12 @@
           "settings": {
             "collection": "bitossi-home-bel-paese"
           }
+        },
+        "featured_collection_jQ4XDt": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
         }
       },
       "block_order": [
@@ -162,13 +168,14 @@
         "featured_collection_EDFqK3",
         "featured_collection_JxyqNF",
         "featured_collection_JLFHbU",
-        "featured_collection_JfW8Ym"
+        "featured_collection_JfW8Ym",
+        "featured_collection_jQ4XDt"
       ],
       "settings": {
-        "title": "La Tavola Scomposta",
+        "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
@@ -209,6 +216,12 @@
           "settings": {
             "collection": "the-club-bitossi-home"
           }
+        },
+        "featured_collection_Lfj6gi": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
         }
       },
       "block_order": [
@@ -216,13 +229,14 @@
         "featured_collection_yKNrWi",
         "featured_collection_Fkq4Ae",
         "featured_collection_Ad4yxQ",
-        "featured_collection_DMEd3a"
+        "featured_collection_DMEd3a",
+        "featured_collection_Lfj6gi"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
@@ -263,6 +277,12 @@
           "settings": {
             "collection": "i-senza-tempo-bitossi-home"
           }
+        },
+        "featured_collection_tdc8kE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
         }
       },
       "block_order": [
@@ -270,46 +290,14 @@
         "featured_collection_DbY4Qz",
         "featured_collection_RwXcJ7",
         "featured_collection_Kr3hQr",
-        "featured_collection_jKxVGh"
-      ],
-      "settings": {
-        "title": "I Senza Tempo",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "collection_list_DkYHyh": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_BznABf": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bon-ton-bitossi-home"
-          }
-        },
-        "featured_collection_D344Eh": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "minimal-bitossi-home"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_BznABf",
-        "featured_collection_D344Eh"
+        "featured_collection_jKxVGh",
+        "featured_collection_tdc8kE"
       ],
       "settings": {
         "title": "",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
@@ -350,6 +338,12 @@
           "settings": {
             "collection": "sogno-bitossi-home"
           }
+        },
+        "featured_collection_ft89gp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
         }
       },
       "block_order": [
@@ -357,13 +351,14 @@
         "featured_collection_7rXDL8",
         "featured_collection_8KLp93",
         "featured_collection_7RkzQg",
-        "featured_collection_Uptirf"
+        "featured_collection_Uptirf",
+        "featured_collection_ft89gp"
       ],
       "settings": {
-        "title": "Gli Accessori da Tavola",
+        "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
@@ -433,15 +428,76 @@
         "padding_bottom": 0
       }
     },
+    "collection_list_qKDHQy": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_rq9aCW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "treccia-bitossi-home"
+          }
+        },
+        "featured_collection_fL3tPx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "candy-bitossi-home"
+          }
+        },
+        "featured_collection_UPwdVh": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "decor-bitossi-home"
+          }
+        },
+        "featured_collection_gWMjbe": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "intreccio-bitossi-home"
+          }
+        },
+        "featured_collection_Dbx87C": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "altarini-bitossi-home"
+          }
+        },
+        "featured_collection_erg6m3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-club-bitossi-home"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_rq9aCW",
+        "featured_collection_fL3tPx",
+        "featured_collection_UPwdVh",
+        "featured_collection_gWMjbe",
+        "featured_collection_Dbx87C",
+        "featured_collection_erg6m3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "featured_collection_EihEex": {
       "type": "featured-collection",
       "settings": {
-        "title": "Bitossi Home: novità e proposte del momento",
+        "title": "Seletti: novità e proposte del momento",
         "heading_size": "h0",
         "description": "",
         "show_description": false,
         "description_style": "subtitle",
-        "collection": "bitossi-home-i-piattini-bitossi-home",
+        "collection": "seletti-seletti-magna-graecia",
         "products_to_show": 10,
         "columns_desktop": 6,
         "full_width": true,
@@ -771,9 +827,9 @@
     "collection_list_DFkntc",
     "collection_list_LxpCcQ",
     "collection_list_kdtLc8",
-    "collection_list_DkYHyh",
     "collection_list_yH8cEE",
     "collection_list_Qdy6e7",
+    "collection_list_qKDHQy",
     "featured_collection_EihEex",
     "multicolumn_Webjiz",
     "collection_list_pekHrY",
