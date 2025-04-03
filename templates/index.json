@@ -15,12 +15,12 @@
         "slide_bzftgt": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Superstaff-Lumarell.webp",
-            "heading": "l'umarell!",
+            "image": "shopify://shop_images/Pasqua-2025.webp",
+            "heading": "BITOSSI HOME",
             "heading_size": "hxl",
-            "subheading": "La cosa più difficile da fare è lavorare sodo quando nessuno ti sta guardando",
-            "button_label": "Scopri tutti i colori",
-            "link": "shopify://collections/superstuff",
+            "subheading": "<strong>L’arte di apparecchiare, il piacere di condividere</strong>",
+            "button_label": "Vedi ora",
+            "link": "shopify://collections/bitossi-home",
             "button_style_secondary": false,
             "box_align": "middle-left",
             "show_text_box": true,
@@ -89,23 +89,23 @@
     "rich_text_cn9HQ7": {
       "type": "rich-text",
       "blocks": {
-        "heading_nXqN4c": {
-          "type": "heading",
-          "settings": {
-            "heading": "Tutta l'originalità di Superstuff",
-            "heading_size": "h1"
-          }
-        },
         "text_wLhzph": {
           "type": "text",
           "settings": {
-            "text": "<p>L'artigianato digitale tutto italiano</p>"
+            "text": "<h4>I fiori sbocciano, le giornate si allungano e la tavola segue l'esempio. La primavera è ufficialmente servita.</h4>"
+          }
+        },
+        "heading_nXqN4c": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
           }
         }
       },
       "block_order": [
-        "heading_nXqN4c",
-        "text_wLhzph"
+        "text_wLhzph",
+        "heading_nXqN4c"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -119,12 +119,12 @@
     "featured_collection_zEJpm8": {
       "type": "featured-collection",
       "settings": {
-        "title": "",
-        "heading_size": "h1",
+        "title": "<strong>THE CLUB</strong>, una nuova collezione di pezzi scomposti con grafiche che celebrano l’aperitivo e il party.",
+        "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "superstuff",
+        "collection": "the-club-bitossi-home",
         "products_to_show": 7,
         "columns_desktop": 6,
         "full_width": true,
@@ -257,18 +257,18 @@
         "slide_iYEMXC": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Slide-promo-bone-china.jpg",
-            "heading": "Eleganza senza tempo",
+            "image": "shopify://shop_images/SUPERSTUFF-UMAREL.webp",
+            "heading": "l'umarell!",
             "heading_size": "h1",
-            "subheading": "Scopri tutto su questo pregiato materiale",
-            "button_label": "VEDI ORA ➞",
-            "link": "shopify://pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola",
+            "subheading": "  La cosa più difficile da fare è lavorare sodo quando nessuno ti sta guardando ti",
+            "button_label": "Vedi ora",
+            "link": "shopify://collections/superstuff",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "top-left",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "",
+            "color_scheme": "scheme-b4b5757d-11d6-44d9-9913-c59c1623590c",
             "text_alignment_mobile": "center"
           }
         }
@@ -295,7 +295,7 @@
         "description": "",
         "show_description": false,
         "description_style": "uppercase",
-        "collection": "piatti-in-bone-china",
+        "collection": "superstuff",
         "products_to_show": 15,
         "columns_desktop": 6,
         "full_width": true,
