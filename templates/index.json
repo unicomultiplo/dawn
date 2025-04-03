@@ -119,7 +119,7 @@
     "featured_collection_zEJpm8": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>THE CLUB</strong>, una nuova collezione di pezzi scomposti con grafiche che celebrano l’aperitivo e il party.",
+        "title": "<strong> THE CLUB</strong>, una nuova collezione di pezzi scomposti con grafiche che celebrano l’aperitivo e il party.",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -146,6 +146,8 @@
     },
     "separator_yHaRH3": {
       "type": "separator",
+      "disabled": true,
+      "custom_css": [],
       "settings": {
         "top_spacing": 0,
         "bottom_spacing": 0,
@@ -158,7 +160,7 @@
         "heading_W3Gywr": {
           "type": "heading",
           "settings": {
-            "heading": "La Raffinatezza della Bone China",
+            "heading": "",
             "heading_size": "h1"
           }
         },
