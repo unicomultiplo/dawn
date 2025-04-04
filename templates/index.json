@@ -187,7 +187,7 @@
             "button_label": "Vedi ora",
             "link": "shopify://collections/superstuff",
             "button_style_secondary": true,
-            "box_align": "top-left",
+            "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
