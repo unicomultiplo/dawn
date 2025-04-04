@@ -174,6 +174,70 @@
         "padding_bottom": 20
       }
     },
+    "slideshow_DEMHDR": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_iYEMXC": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/SUPERSTUFF-UMAREL.webp",
+            "heading": "l'umarell!",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Vedi ora",
+            "link": "shopify://collections/superstuff",
+            "button_style_secondary": true,
+            "box_align": "top-left",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-b4b5757d-11d6-44d9-9913-c59c1623590c",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_iYEMXC"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Presentazione sul nostro brand"
+      }
+    },
+    "featured_collection_7bfTMj": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "uppercase",
+        "collection": "superstuff",
+        "products_to_show": 15,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 100
+      }
+    },
     "separator_yHaRH3": {
       "type": "separator",
       "disabled": true,
@@ -283,70 +347,6 @@
         "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 20
-      }
-    },
-    "slideshow_DEMHDR": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_iYEMXC": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/SUPERSTUFF-UMAREL.webp",
-            "heading": "l'umarell!",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "Vedi ora",
-            "link": "shopify://collections/superstuff",
-            "button_style_secondary": true,
-            "box_align": "top-left",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-b4b5757d-11d6-44d9-9913-c59c1623590c",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_iYEMXC"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "small",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": false,
-        "accessibility_info": "Presentazione sul nostro brand"
-      }
-    },
-    "featured_collection_7bfTMj": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "uppercase",
-        "collection": "superstuff",
-        "products_to_show": 15,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 100
       }
     },
     "image_banner_dHUzbD": {
