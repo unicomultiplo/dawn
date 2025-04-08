@@ -141,7 +141,7 @@
       "settings": {
         "custom_liquid": "<section class=\"page-width\">\n<div>{{ product.metafields.custom.short_description | newline_to_br }}\n</div>\n</section>",
         "color_scheme": "",
-        "padding_top": 24,
+        "padding_top": 40,
         "padding_bottom": 8
       }
     },
