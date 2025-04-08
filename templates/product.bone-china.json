@@ -82,6 +82,7 @@
         },
         "custom_liquid_tm8pXP": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div>{{ product.metafields.custom.short_description | newline_to_br }}\n</div>"
           }
@@ -153,12 +154,21 @@
         "padding_bottom": 12
       }
     },
+    "custom_liquid_C84pYx": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<section class=\"page-width\">\n<div>{{ product.metafields.custom.short_description | newline_to_br }}\n</div>\n</section>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 20
+      }
+    },
     "custom_liquid_q83gja": {
       "type": "custom-liquid",
       "settings": {
         "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h2>Scopri di più su {{ product.title }}</h2>\n{{ product.content }}\n</div>\n</section>",
         "color_scheme": "",
-        "padding_top": 40,
+        "padding_top": 20,
         "padding_bottom": 20
       }
     },
@@ -193,6 +203,7 @@
     "shogun-helper",
     "shogun-above",
     "main",
+    "custom_liquid_C84pYx",
     "custom_liquid_q83gja",
     "related-products",
     "shogun-below",
