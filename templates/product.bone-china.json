@@ -58,18 +58,26 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "square"
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
+          }
+        },
+        "glo_color_swatch_variant_image_product_groups_detail_dQNqQC": {
+          "type": "shopify://apps/glo-color-swatch-variant-image/blocks/product-groups-detail/4394f710-096c-4021-bbde-8ebb26057c11",
+          "settings": {}
+        },
+        "glo_color_swatch_variant_image_product_swatches_detail_bnrCBj": {
+          "type": "shopify://apps/glo-color-swatch-variant-image/blocks/product-swatches-detail/4394f710-096c-4021-bbde-8ebb26057c11",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "square"
           }
         },
         "custom_liquid_tm8pXP": {
@@ -116,8 +124,10 @@
         "custom_liquid_W3qmEe",
         "qty_disclaimer_6icb8M",
         "quantity_selector",
-        "variant_picker",
         "buy_buttons",
+        "glo_color_swatch_variant_image_product_groups_detail_dQNqQC",
+        "glo_color_swatch_variant_image_product_swatches_detail_bnrCBj",
+        "variant_picker",
         "custom_liquid_tm8pXP",
         "collapsible_tab_pjWwye",
         "sku_C4aTJC",
