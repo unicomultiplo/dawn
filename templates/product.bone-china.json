@@ -160,7 +160,7 @@
         "custom_liquid": "<section class=\"page-width\">\n<div>{{ product.metafields.custom.short_description | newline_to_br }}\n</div>\n</section>",
         "color_scheme": "",
         "padding_top": 40,
-        "padding_bottom": 20
+        "padding_bottom": 8
       }
     },
     "custom_liquid_q83gja": {
@@ -168,7 +168,7 @@
       "settings": {
         "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h2>Scopri di più su {{ product.title }}</h2>\n{{ product.content }}\n</div>\n</section>",
         "color_scheme": "",
-        "padding_top": 20,
+        "padding_top": 8,
         "padding_bottom": 20
       }
     },
