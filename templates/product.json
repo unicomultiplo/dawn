@@ -44,6 +44,10 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "glo_color_swatch_variant_image_product_groups_detail_bwq8iX": {
+          "type": "shopify://apps/glo-color-swatch-variant-image/blocks/product-groups-detail/4394f710-096c-4021-bbde-8ebb26057c11",
+          "settings": {}
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -98,6 +102,7 @@
         "custom_liquid_W3qmEe",
         "qty_disclaimer_6icb8M",
         "quantity_selector",
+        "glo_color_swatch_variant_image_product_groups_detail_bwq8iX",
         "variant_picker",
         "buy_buttons",
         "custom_liquid_tm8pXP",
