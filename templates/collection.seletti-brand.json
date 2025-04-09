@@ -454,14 +454,43 @@
           "settings": {
             "collection": "seletti-catalogo-prodotti-blow-by-job"
           }
+        }
+      },
+      "block_order": [
+        "featured_collection_RqezDQ",
+        "featured_collection_TchKcg",
+        "featured_collection_JbiLat",
+        "featured_collection_zYYXem"
+      ],
+      "settings": {
+        "title": "LIGHTING - Oggetti Luce",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_XazTpy": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_N6ALdN": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "vitamin-seletti"
+          }
         },
-        "featured_collection_KXEcJP": {
+        "featured_collection_ncL9UK": {
           "type": "featured_collection",
           "settings": {
             "collection": "circus-seletti"
           }
         },
-        "featured_collection_xweE9N": {
+        "featured_collection_kqgakY": {
           "type": "featured_collection",
           "settings": {
             "collection": "my-little-lamps-seletti"
@@ -469,18 +498,15 @@
         }
       },
       "block_order": [
-        "featured_collection_RqezDQ",
-        "featured_collection_TchKcg",
-        "featured_collection_JbiLat",
-        "featured_collection_zYYXem",
-        "featured_collection_KXEcJP",
-        "featured_collection_xweE9N"
+        "featured_collection_N6ALdN",
+        "featured_collection_ncL9UK",
+        "featured_collection_kqgakY"
       ],
       "settings": {
-        "title": "LIGHTING - Oggetti Luce",
+        "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 4,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "2",
@@ -502,12 +528,6 @@
           "type": "featured_collection",
           "settings": {
             "collection": "seletti-catalogo-prodotti-kintsugi"
-          }
-        },
-        "featured_collection_G3EGyK": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-seletti-marcantonio-memorabilia"
           }
         },
         "featured_collection_ka4pBz": {
@@ -532,7 +552,6 @@
       "block_order": [
         "featured_collection_cc3LrL",
         "featured_collection_7di7Py",
-        "featured_collection_G3EGyK",
         "featured_collection_ka4pBz",
         "featured_collection_JVEgTp",
         "featured_collection_GRfhwy"
@@ -541,7 +560,7 @@
         "title": "OBJECTS - Idee Regalo",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "2",
@@ -582,12 +601,6 @@
           "settings": {
             "collection": ""
           }
-        },
-        "featured_collection_ft89gp": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
         }
       },
       "block_order": [
@@ -595,14 +608,13 @@
         "featured_collection_edtUjp",
         "featured_collection_LfmXdY",
         "featured_collection_Vfm8da",
-        "featured_collection_brYLkC",
-        "featured_collection_ft89gp"
+        "featured_collection_brYLkC"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
@@ -1142,6 +1154,7 @@
     "collection_list_YNNqw7",
     "collection_list_TjThGx",
     "collection_list_Qdy6e7",
+    "collection_list_XazTpy",
     "collection_list_qKDHQy",
     "collection_list_yH8cEE",
     "featured_collection_EihEex",
