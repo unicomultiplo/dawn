@@ -321,16 +321,16 @@
             "collection": "industry-collection-seletti"
           }
         },
-        "featured_collection_gRRKLq": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "inner-glow-seletti"
-          }
-        },
         "featured_collection_CE4PDb": {
           "type": "featured_collection",
           "settings": {
             "collection": "love-in-bloom-seletti"
+          }
+        },
+        "featured_collection_gRRKLq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "inner-glow-seletti"
           }
         },
         "featured_collection_WUyzaY": {
@@ -349,10 +349,71 @@
       "block_order": [
         "featured_collection_Nj4YM3",
         "featured_collection_B4jq9a",
-        "featured_collection_gRRKLq",
         "featured_collection_CE4PDb",
+        "featured_collection_gRRKLq",
         "featured_collection_WUyzaY",
         "featured_collection_9bGqDk"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_TjThGx": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_mMJRWf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pixel-mirrors-seletti"
+          }
+        },
+        "featured_collection_Pny4Ti": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "reflecting-mirror-seletti"
+          }
+        },
+        "featured_collection_nj6rjd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "liberty-mirrors-seletti"
+          }
+        },
+        "featured_collection_y4EtJ7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_emHfqk": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-catalogo-prodotti-seletti-marcantonio-memorabilia"
+          }
+        },
+        "featured_collection_haWTTC": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_mMJRWf",
+        "featured_collection_Pny4Ti",
+        "featured_collection_nj6rjd",
+        "featured_collection_y4EtJ7",
+        "featured_collection_emHfqk",
+        "featured_collection_haWTTC"
       ],
       "settings": {
         "title": "",
@@ -1079,6 +1140,7 @@
     "collection_list_LxpCcQ",
     "collection_list_kdtLc8",
     "collection_list_YNNqw7",
+    "collection_list_TjThGx",
     "collection_list_Qdy6e7",
     "collection_list_qKDHQy",
     "collection_list_yH8cEE",
