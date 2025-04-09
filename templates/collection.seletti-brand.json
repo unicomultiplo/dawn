@@ -462,11 +462,18 @@
           "settings": {
             "collection": "circus-seletti"
           }
+        },
+        "featured_collection_jKEJq6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "windows-lamps-seletti"
+          }
         }
       },
       "block_order": [
         "featured_collection_N6ALdN",
-        "featured_collection_ncL9UK"
+        "featured_collection_ncL9UK",
+        "featured_collection_jKEJq6"
       ],
       "settings": {
         "title": "",
