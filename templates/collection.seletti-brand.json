@@ -809,6 +809,7 @@
         "featured_collection_GtcmrP",
         "featured_collection_k3gywW"
       ],
+      "disabled": true,
       "settings": {
         "title": "OBJECTS - Idee Regalo",
         "heading_size": "h1",
@@ -863,6 +864,7 @@
         "featured_collection_UMX6Ki",
         "featured_collection_MNrW36"
       ],
+      "disabled": true,
       "settings": {
         "title": "LIGHTING - Oggetti Luce",
         "heading_size": "h1",
@@ -917,6 +919,7 @@
         "featured_collection_DWb3hi",
         "featured_collection_9Ttgmt"
       ],
+      "disabled": true,
       "settings": {
         "title": "FURNITURE - Arredo",
         "heading_size": "h1",
@@ -971,6 +974,7 @@
         "featured_collection_TwDQqH",
         "featured_collection_QrUHnG"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
