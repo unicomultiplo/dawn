@@ -562,12 +562,19 @@
           "settings": {
             "collection": "seletti-catalogo-prodotti-marcantonio"
           }
+        },
+        "featured_collection_3bC46q": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "vitamin-seletti"
+          }
         }
       },
       "block_order": [
         "featured_collection_NLmFPa",
         "featured_collection_edtUjp",
-        "featured_collection_H7pn9D"
+        "featured_collection_H7pn9D",
+        "featured_collection_3bC46q"
       ],
       "settings": {
         "title": "",
@@ -659,7 +666,7 @@
         "featured_collection_3tLxTp": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "piatti-seletti"
           }
         },
         "featured_collection_BYLb6c": {
@@ -713,7 +720,7 @@
         "featured_collection_TDxJt6": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "centrotavola-e-alzate-seletti"
           }
         },
         "featured_collection_NrtCkY": {
@@ -733,20 +740,13 @@
           "settings": {
             "collection": ""
           }
-        },
-        "featured_collection_cBC8zD": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
         }
       },
       "block_order": [
         "featured_collection_TDxJt6",
         "featured_collection_NrtCkY",
         "featured_collection_M9irnA",
-        "featured_collection_KpJT7y",
-        "featured_collection_cBC8zD"
+        "featured_collection_KpJT7y"
       ],
       "settings": {
         "title": "",
@@ -788,6 +788,12 @@
             "collection": ""
           }
         },
+        "featured_collection_GtcmrP": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
         "featured_collection_k3gywW": {
           "type": "featured_collection",
           "settings": {
@@ -800,13 +806,14 @@
         "featured_collection_bqNjJw",
         "featured_collection_xfDzRd",
         "featured_collection_6V8VQE",
+        "featured_collection_GtcmrP",
         "featured_collection_k3gywW"
       ],
       "settings": {
         "title": "OBJECTS - Idee Regalo",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
@@ -901,12 +908,6 @@
           "settings": {
             "collection": ""
           }
-        },
-        "featured_collection_jYHWxq": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
         }
       },
       "block_order": [
@@ -914,14 +915,13 @@
         "featured_collection_UQtEpz",
         "featured_collection_rLH9YK",
         "featured_collection_DWb3hi",
-        "featured_collection_9Ttgmt",
-        "featured_collection_jYHWxq"
+        "featured_collection_9Ttgmt"
       ],
       "settings": {
         "title": "FURNITURE - Arredo",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
@@ -962,12 +962,6 @@
           "settings": {
             "collection": ""
           }
-        },
-        "featured_collection_BqyHhr": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
         }
       },
       "block_order": [
@@ -975,14 +969,13 @@
         "featured_collection_MGz4Ya",
         "featured_collection_Tq7E9Q",
         "featured_collection_TwDQqH",
-        "featured_collection_QrUHnG",
-        "featured_collection_BqyHhr"
+        "featured_collection_QrUHnG"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
