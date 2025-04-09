@@ -87,7 +87,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Non perderti le occasioni a prezzo speciale selezionate tra le collezioni Seletti: scopri le promozioni in corso! Esplora nuovi mondi celebrando la vita e la sua bellezza, dai servizi per la tavola ai curiosi oggetti per arredare con personalità.</p>",
+            "text": "<p>Non perderti le occasioni a <strong>prezzo speciale </strong>selezionate tra le collezioni <strong>Seletti</strong>: scopri le promozioni in corso! Esplora nuovi mondi celebrando la vita e la sua bellezza, dai <strong>servizi per la tavola</strong> ai <strong>curiosi oggetti</strong> per arredare con personalità.<br/>Un viaggio tra design visionario e ironia pop, nato da <strong>collaborazioni con designer</strong> nazionali e internazionali.<br/></p>",
             "link_label": "",
             "link": ""
           }
@@ -172,7 +172,7 @@
         "featured_collection_jQ4XDt"
       ],
       "settings": {
-        "title": "Tableware - Arte della Tavola",
+        "title": "TABLEWARE - Arte della Tavola",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 6,
@@ -187,6 +187,12 @@
     "collection_list_LxpCcQ": {
       "type": "collection-list",
       "blocks": {
+        "featured_collection_d43WTa": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "monsters-seletti"
+          }
+        },
         "featured_collection_GGGQ7E": {
           "type": "featured_collection",
           "settings": {
@@ -196,19 +202,13 @@
         "featured_collection_HUmzXz": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "glass-from-sonny-seletti"
           }
         },
         "featured_collection_tbDtk4": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_d43WTa": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
+            "collection": "meltdown-seletti"
           }
         },
         "featured_collection_3zDpgk": {
@@ -225,10 +225,10 @@
         }
       },
       "block_order": [
+        "featured_collection_d43WTa",
         "featured_collection_GGGQ7E",
         "featured_collection_HUmzXz",
         "featured_collection_tbDtk4",
-        "featured_collection_d43WTa",
         "featured_collection_3zDpgk",
         "featured_collection_Lfj6gi"
       ],
@@ -275,13 +275,13 @@
         "featured_collection_98HBbE": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "amanita-seletti"
           }
         },
         "featured_collection_tdc8kE": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "burnt-carpets-seletti"
           }
         }
       },
@@ -294,7 +294,68 @@
         "featured_collection_tdc8kE"
       ],
       "settings": {
-        "title": "Furniture - Arredo",
+        "title": "FURNITURE - Arredo",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_YNNqw7": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_B4jq9a": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "industry-collection-seletti"
+          }
+        },
+        "featured_collection_gRRKLq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "inner-glow-seletti"
+          }
+        },
+        "featured_collection_CE4PDb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "love-in-bloom-seletti"
+          }
+        },
+        "featured_collection_WUyzaY": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-catalogo-prodotti-seletti-marcantonio-memorabilia"
+          }
+        },
+        "featured_collection_Nj4YM3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_9bGqDk": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_B4jq9a",
+        "featured_collection_gRRKLq",
+        "featured_collection_CE4PDb",
+        "featured_collection_WUyzaY",
+        "featured_collection_Nj4YM3",
+        "featured_collection_9bGqDk"
+      ],
+      "settings": {
+        "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 6,
@@ -336,7 +397,7 @@
         "featured_collection_xweE9N": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "my-little-lamps-seletti"
           }
         },
         "featured_collection_JbiLat": {
@@ -355,7 +416,7 @@
         "featured_collection_JbiLat"
       ],
       "settings": {
-        "title": "Lighting - Oggetti Luce",
+        "title": "LIGHTING - Oggetti Luce",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 6,
@@ -397,13 +458,13 @@
         "featured_collection_JVEgTp": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "seletti-catalogo-prodotti-toiletpaper"
           }
         },
         "featured_collection_GRfhwy": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "seletti-catalogo-prodotti-diesel-living"
           }
         }
       },
@@ -416,7 +477,7 @@
         "featured_collection_GRfhwy"
       ],
       "settings": {
-        "title": "Objects - Idee Regalo",
+        "title": "OBJECTS - Idee Regalo",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 6,
@@ -434,7 +495,7 @@
         "featured_collection_NLmFPa": {
           "type": "featured_collection",
           "settings": {
-            "collection": "seletti-catalogo-prodotti-diesel-living"
+            "collection": "love-in-bloom-seletti"
           }
         },
         "featured_collection_edtUjp": {
@@ -524,7 +585,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Tra la vasta gamma di articoli per cui Seletti ha conquistato i nostri cuori, non possono mancare:  Piatti, bicchieri, vasi e complementi decorativi ++++++++++++++++++++++</p>",
+            "text": "<p>Scopri gli articoli firmati<strong> Seletti</strong> che uniscono design originale e funzionalità: una vasta selezione di piatti, bicchieri, vasi decorativi e complementi d’arredo   perfetti per arricchire la tua casa o trovare l’idea regalo ideale.<br/>Design<strong> iconico e creativo </strong>per decorare la casa o trovare l’idea regalo perfetta e originale.<br/></p>",
             "link_label": "",
             "link": ""
           }
@@ -602,7 +663,7 @@
         "featured_collection_RDdx7c"
       ],
       "settings": {
-        "title": "ART DE LA TABLE",
+        "title": "TABLEWARE - Arte della Tavola",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 5,
@@ -710,7 +771,7 @@
         "featured_collection_k3gywW"
       ],
       "settings": {
-        "title": "OBJECT",
+        "title": "OBJECTS - Idee Regalo",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 5,
@@ -764,7 +825,7 @@
         "featured_collection_MNrW36"
       ],
       "settings": {
-        "title": "LIGHTING",
+        "title": "LIGHTING - Oggetti Luce",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 5,
@@ -825,7 +886,7 @@
         "featured_collection_jYHWxq"
       ],
       "settings": {
-        "title": "FURNITURE",
+        "title": "FURNITURE - Arredo",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 6,
@@ -1017,6 +1078,7 @@
     "collection_list_DFkntc",
     "collection_list_LxpCcQ",
     "collection_list_kdtLc8",
+    "collection_list_YNNqw7",
     "collection_list_Qdy6e7",
     "collection_list_qKDHQy",
     "collection_list_yH8cEE",
