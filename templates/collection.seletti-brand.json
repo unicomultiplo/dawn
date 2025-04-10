@@ -361,16 +361,18 @@
             "collection": "liberty-mirrors-seletti"
           }
         },
-        "featured_collection_Pny4Ti": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "reflecting-mirror-seletti"
-          }
-        },
         "featured_collection_y4EtJ7": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "superfurniture-seletti"
+          }
+        },
+        "featured_collection_Pny4Ti": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "reflecting-mirror-seletti"
           }
         }
       },
@@ -378,8 +380,8 @@
         "featured_collection_emHfqk",
         "featured_collection_mMJRWf",
         "featured_collection_nj6rjd",
-        "featured_collection_Pny4Ti",
-        "featured_collection_y4EtJ7"
+        "featured_collection_y4EtJ7",
+        "featured_collection_Pny4Ti"
       ],
       "settings": {
         "title": "",
@@ -624,7 +626,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Scopri gli articoli firmati<strong> Seletti</strong> che uniscono design originale e funzionalità: una vasta selezione di piatti, bicchieri, vasi decorativi e complementi d’arredo   perfetti per arricchire la tua case la tua tavola.<br/>Design<strong> iconico e creativo </strong>per trovare l’idea regalo perfetta e originale.<br/></p>",
+            "text": "<p>Scopri gli articoli firmati<strong> Seletti</strong> che uniscono design originale e funzionalità: una vasta selezione di piatti, bicchieri, vasi decorativi e complementi d’arredo   perfetti per arricchire la tua casa e la tua tavola.<br/>Design<strong> iconico e creativo </strong>per trovare l’idea regalo perfetta e originale.<br/></p>",
             "link_label": "",
             "link": ""
           }
@@ -788,16 +790,16 @@
             "collection": ""
           }
         },
-        "featured_collection_GtcmrP": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
         "featured_collection_k3gywW": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "borse-astucci-e-beauty-seletti"
+          }
+        },
+        "featured_collection_GtcmrP": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "specchi-seletti"
           }
         }
       },
@@ -806,8 +808,8 @@
         "featured_collection_bqNjJw",
         "featured_collection_xfDzRd",
         "featured_collection_6V8VQE",
-        "featured_collection_GtcmrP",
-        "featured_collection_k3gywW"
+        "featured_collection_k3gywW",
+        "featured_collection_GtcmrP"
       ],
       "disabled": true,
       "settings": {
