@@ -883,7 +883,7 @@
         "featured_collection_UQtEpz": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "tende-seletti"
           }
         },
         "featured_collection_rLH9YK": {
@@ -912,7 +912,6 @@
         "featured_collection_DWb3hi",
         "featured_collection_9Ttgmt"
       ],
-      "disabled": true,
       "settings": {
         "title": "FURNITURE - Arredo",
         "heading_size": "h1",
@@ -958,12 +957,6 @@
           "settings": {
             "collection": ""
           }
-        },
-        "featured_collection_QrUHnG": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
         }
       },
       "block_order": [
@@ -971,8 +964,7 @@
         "featured_collection_Ctdpx4",
         "featured_collection_MGz4Ya",
         "featured_collection_Tq7E9Q",
-        "featured_collection_TwDQqH",
-        "featured_collection_QrUHnG"
+        "featured_collection_TwDQqH"
       ],
       "disabled": true,
       "settings": {
