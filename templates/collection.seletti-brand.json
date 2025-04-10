@@ -940,10 +940,10 @@
             "collection": "tavoli-e-tavolini-seletti"
           }
         },
-        "featured_collection_KM9h3c": {
+        "featured_collection_ihxe7z": {
           "type": "featured_collection",
           "settings": {
-            "collection": "sdraio-e-lettini-da-piscina-seletti"
+            "collection": "armadietti-cassettiere-e-mobiletti-seletti"
           }
         },
         "featured_collection_Ctdpx4": {
@@ -957,20 +957,27 @@
           "settings": {
             "collection": "tappeti-e-tappetini-seletti"
           }
+        },
+        "featured_collection_KM9h3c": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sdraio-e-lettini-da-piscina-seletti"
+          }
         }
       },
       "block_order": [
         "featured_collection_TwDQqH",
         "featured_collection_MGz4Ya",
-        "featured_collection_KM9h3c",
+        "featured_collection_ihxe7z",
         "featured_collection_Ctdpx4",
-        "featured_collection_Tq7E9Q"
+        "featured_collection_Tq7E9Q",
+        "featured_collection_KM9h3c"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
