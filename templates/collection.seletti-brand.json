@@ -845,16 +845,10 @@
             "collection": "lampade-a-sospensione-parete-seletti"
           }
         },
-        "featured_collection_UMX6Ki": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
         "featured_collection_MNrW36": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "lampade-da-tavolo-seletti"
           }
         }
       },
@@ -862,7 +856,6 @@
         "featured_collection_eDKzpa",
         "featured_collection_gjDg9q",
         "featured_collection_gimYUD",
-        "featured_collection_UMX6Ki",
         "featured_collection_MNrW36"
       ],
       "settings": {
