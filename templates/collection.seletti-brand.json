@@ -769,22 +769,28 @@
         "featured_collection_FBwNMD": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "oggetto-decorativo-regalo-seletti"
           }
         },
-        "featured_collection_bqNjJw": {
+        "featured_collection_GtcmrP": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "specchi-seletti"
           }
         },
         "featured_collection_xfDzRd": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "vasi-seletti"
           }
         },
         "featured_collection_6V8VQE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "candele-e-candelabri-seletti"
+          }
+        },
+        "featured_collection_bqNjJw": {
           "type": "featured_collection",
           "settings": {
             "collection": ""
@@ -795,23 +801,16 @@
           "settings": {
             "collection": "borse-astucci-e-beauty-seletti"
           }
-        },
-        "featured_collection_GtcmrP": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "specchi-seletti"
-          }
         }
       },
       "block_order": [
         "featured_collection_FBwNMD",
-        "featured_collection_bqNjJw",
+        "featured_collection_GtcmrP",
         "featured_collection_xfDzRd",
         "featured_collection_6V8VQE",
-        "featured_collection_k3gywW",
-        "featured_collection_GtcmrP"
+        "featured_collection_bqNjJw",
+        "featured_collection_k3gywW"
       ],
-      "disabled": true,
       "settings": {
         "title": "OBJECTS - Idee Regalo",
         "heading_size": "h1",
@@ -904,13 +903,13 @@
         "featured_collection_DWb3hi": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "specchi-seletti"
           }
         },
         "featured_collection_9Ttgmt": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "vasi-seletti"
           }
         }
       },
@@ -938,6 +937,12 @@
     "collection_list_J4zThk": {
       "type": "collection-list",
       "blocks": {
+        "featured_collection_KM9h3c": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
         "featured_collection_Ctdpx4": {
           "type": "featured_collection",
           "settings": {
@@ -970,6 +975,7 @@
         }
       },
       "block_order": [
+        "featured_collection_KM9h3c",
         "featured_collection_Ctdpx4",
         "featured_collection_MGz4Ya",
         "featured_collection_Tq7E9Q",
