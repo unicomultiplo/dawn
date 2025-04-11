@@ -94,7 +94,7 @@
         "content_alignment": "center",
         "color_scheme": "scheme-1",
         "full_width": true,
-        "padding_top": 20,
+        "padding_top": 0,
         "padding_bottom": 20
       }
     },
@@ -630,10 +630,10 @@
       "settings": {
         "title": "Seletti: novità e proposte del momento",
         "heading_size": "h0",
-        "description": "",
+        "description": "<p><strong>Scopri la linea Outdoor Seletti</strong>: lampade iconiche, sdraio Toiletpaper e complementi unici per arredare giardini, terrazze e spazi esterni con <strong>stile e ironia</strong>.<br/>Dai un tocco di design provocatorio e creativo ai tuoi spazi all’aperto con le proposte Outdoor firmate Seletti.<br/></p>",
         "show_description": false,
         "description_style": "subtitle",
-        "collection": "vitamin-seletti",
+        "collection": "outdoor-seletti",
         "products_to_show": 10,
         "columns_desktop": 6,
         "full_width": true,
