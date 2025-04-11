@@ -93,13 +93,24 @@
         "column_qiB9cq": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/magna-graecia-seletti.jpg",
             "title": "",
             "text": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "FURNITURE - Arredo",
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_kdtLc8"
           }
         },
         "column_PKtqHD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-kintsugi-lucky-horn-corno-portafortuna-in-porcellana_4a79718f-bd49-4d33-ae57-72c59ea9c48c.webp",
+            "title": "",
+            "text": "",
+            "link_label": "OBJECTS - Idee Regalo",
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_qKDHQy"
+          }
+        },
+        "column_YmwtR8": {
           "type": "column",
           "settings": {
             "title": "",
@@ -114,14 +125,15 @@
         "column_bXRdYJ",
         "column_dHGQgR",
         "column_qiB9cq",
-        "column_PKtqHD"
+        "column_PKtqHD",
+        "column_YmwtR8"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
