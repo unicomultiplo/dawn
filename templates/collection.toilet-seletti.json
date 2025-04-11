@@ -18,6 +18,69 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_LWQpde": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_HFbdPQ": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Arte della Tavola",
+            "link": "https://www.unicoemultiplo.com/collections/seletti-catalogo-prodotti-toiletpaper?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=CUCINA+%26+TAVOLA"
+          }
+        },
+        "column_ccRecz": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Arredo",
+            "link": "https://www.unicoemultiplo.com/collections/seletti-catalogo-prodotti-toiletpaper?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=ARREDO+%26+COMPLEMENTI"
+          }
+        },
+        "column_x7XrbV": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Oggetti Luce",
+            "link": ""
+          }
+        },
+        "column_ymYqfT": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Idee Regalo",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_HFbdPQ",
+        "column_ccRecz",
+        "column_x7XrbV",
+        "column_ymYqfT"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -266,6 +329,7 @@
   },
   "order": [
     "custom_liquid_QhdyB8",
+    "multicolumn_LWQpde",
     "product-grid",
     "shogun-helper",
     "shogun-above",
