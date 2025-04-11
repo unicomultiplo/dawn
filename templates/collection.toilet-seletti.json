@@ -137,9 +137,9 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Outdoor-Seletti.jpg",
-            "title": "",
+            "title": "Outdoor Seletti",
             "text": "",
-            "link_label": "Outdoor Seletti",
+            "link_label": "",
             "link": "shopify://collections/arredo-giardino"
           }
         },
