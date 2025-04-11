@@ -121,9 +121,9 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Bitossi_-logo-250.jpg",
-            "title": "",
+            "title": "Esplora il brand",
             "text": "",
-            "link_label": "Esplora il brand",
+            "link_label": "",
             "link": "shopify://collections/bitossi-home"
           }
         },
@@ -131,9 +131,9 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/la-tavola-scomposta-bitossi-home.jpg",
-            "title": "",
+            "title": "La Tavola Scomposta",
             "text": "",
-            "link_label": "La Tavola Scomposta",
+            "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/bitossi-home?#shopify-section-template--24628389380361__collection_list_DFkntc"
           }
         },
@@ -141,9 +141,9 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Bitossi-home-piatti-petalo-2.webp",
-            "title": "",
+            "title": "I Senza Tempo",
             "text": "",
-            "link_label": "I Senza Tempo",
+            "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/bitossi-home?#shopify-section-template--24628389380361__collection_list_kdtLc8"
           }
         },
@@ -151,9 +151,9 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/treccia-bitossi-home.jpg",
-            "title": "",
+            "title": "Gli Accessori Tavola",
             "text": "",
-            "link_label": "Gli Accessori Tavola",
+            "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/bitossi-home?#shopify-section-template--24628389380361__collection_list_yH8cEE"
           }
         }
