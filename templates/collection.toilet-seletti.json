@@ -33,9 +33,10 @@
         "column_ccRecz": {
           "type": "column",
           "settings": {
-            "title": "",
+            "image": "shopify://shop_images/seletti-catalogo-prodotti-toiletpaper.png",
+            "title": "Arredo",
             "text": "",
-            "link_label": "Arredo",
+            "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/seletti-catalogo-prodotti-toiletpaper?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=ARREDO+%26+COMPLEMENTI"
           }
         },
@@ -71,7 +72,7 @@
         "image_ratio": "adapt",
         "columns_desktop": 4,
         "column_alignment": "center",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-2",
