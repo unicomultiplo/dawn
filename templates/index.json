@@ -597,7 +597,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/brabantia"
           }
         },
         "column_UnjJVg": {
@@ -607,17 +607,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
-          }
-        },
-        "column_iHCTrV": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Millefiori.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "link": "shopify://collections/ichendorf-catalogo"
           }
         },
         "column_BntmaF": {
@@ -627,7 +617,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/brandani"
           }
         }
       },
@@ -636,7 +626,6 @@
         "column_RUHTEp",
         "column_RYybqr",
         "column_UnjJVg",
-        "column_iHCTrV",
         "column_BntmaF"
       ],
       "custom_css": [],
@@ -645,7 +634,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
