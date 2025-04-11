@@ -117,7 +117,74 @@
     "multicolumn_MxLddP": {
       "type": "multicolumn",
       "blocks": {
-        "column_PgEVHi": {
+        "column_Brktnb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi_-logo-250.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Esplora il brand",
+            "link": "shopify://collections/bitossi-home"
+          }
+        },
+        "column_4anpg9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/la-tavola-scomposta-bitossi-home.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "La Tavola Scomposta",
+            "link": "https://www.unicoemultiplo.com/collections/bitossi-home?#shopify-section-template--24628389380361__collection_list_DFkntc"
+          }
+        },
+        "column_aF6BFy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-home-piatti-petalo-2.webp",
+            "title": "",
+            "text": "",
+            "link_label": "I Senza Tempo",
+            "link": "https://www.unicoemultiplo.com/collections/bitossi-home?#shopify-section-template--24628389380361__collection_list_kdtLc8"
+          }
+        },
+        "column_Qn6Wff": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi_-logo-250.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Esplora il brand",
+            "link": "shopify://collections/bitossi-home"
+          }
+        }
+      },
+      "block_order": [
+        "column_Brktnb",
+        "column_4anpg9",
+        "column_aF6BFy",
+        "column_Qn6Wff"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "multicolumn_4QmJn4": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_MbkAm8": {
           "type": "column",
           "settings": {
             "title": "",
@@ -126,7 +193,7 @@
             "link": ""
           }
         },
-        "column_pqxUGY": {
+        "column_Vd9iLz": {
           "type": "column",
           "settings": {
             "title": "",
@@ -135,7 +202,7 @@
             "link": ""
           }
         },
-        "column_gPeEtt": {
+        "column_PN77hJ": {
           "type": "column",
           "settings": {
             "title": "",
@@ -144,7 +211,7 @@
             "link": ""
           }
         },
-        "column_rpy7eJ": {
+        "column_7DycHR": {
           "type": "column",
           "settings": {
             "title": "",
@@ -155,11 +222,12 @@
         }
       },
       "block_order": [
-        "column_PgEVHi",
-        "column_pqxUGY",
-        "column_gPeEtt",
-        "column_rpy7eJ"
+        "column_MbkAm8",
+        "column_Vd9iLz",
+        "column_PN77hJ",
+        "column_7DycHR"
       ],
+      "disabled": true,
       "settings": {
         "title": "Scopri tutte le Collezioni Bitossi Home",
         "heading_size": "h2",
@@ -247,6 +315,7 @@
     "product-grid",
     "banner",
     "multicolumn_MxLddP",
+    "multicolumn_4QmJn4",
     "collection_list_KGcE8i"
   ]
 }
