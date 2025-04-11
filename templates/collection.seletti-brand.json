@@ -64,6 +64,40 @@
         "padding_bottom": 0
       }
     },
+    "rich_text_RgNj9M": {
+      "type": "rich-text",
+      "blocks": {
+        "text_q4GJzn": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Cerchi un prodotto Seletti?</h2>"
+          }
+        },
+        "button_ihKFmt": {
+          "type": "button",
+          "settings": {
+            "button_label": "Esplora le collezioni",
+            "button_link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_DFkntc",
+            "button_style_secondary": true,
+            "button_label_2": "Scegli la tipologia di prodotto",
+            "button_link_2": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_pekHrY",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "text_q4GJzn",
+        "button_ihKFmt"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-1",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "image_banner_dc8VCJ": {
       "type": "image-banner",
       "settings": {
@@ -1100,6 +1134,7 @@
   "order": [
     "banner",
     "multicolumn_4fT4dH",
+    "rich_text_RgNj9M",
     "image_banner_dc8VCJ",
     "multicolumn_gaht3W",
     "collection_list_DFkntc",
