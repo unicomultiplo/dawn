@@ -577,7 +577,17 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/seletti"
+          }
+        },
+        "column_RUHTEp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi_-logo-250.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home"
           }
         },
         "column_RYybqr": {
@@ -623,6 +633,7 @@
       },
       "block_order": [
         "column_4n44GN",
+        "column_RUHTEp",
         "column_RYybqr",
         "column_UnjJVg",
         "column_iHCTrV",
@@ -634,7 +645,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
