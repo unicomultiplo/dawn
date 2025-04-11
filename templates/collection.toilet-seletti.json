@@ -24,6 +24,7 @@
         "column_HFbdPQ": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/SELETTI-TOILETPAPER-PORCELAIN-PLATES.webp",
             "title": "Arte della Tavola",
             "text": "",
             "link_label": "",
@@ -33,7 +34,7 @@
         "column_ccRecz": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-catalogo-prodotti-toiletpaper.png",
+            "image": "shopify://shop_images/SELETTIARMCHAIRS.webp",
             "title": "Arredo",
             "text": "",
             "link_label": "",
@@ -43,7 +44,7 @@
         "column_x7XrbV": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/toiletpaper_seletti-1.png",
+            "image": "shopify://shop_images/toiletpaper_seletti-1.webp",
             "title": "Oggetti Luce",
             "text": "",
             "link_label": "",
