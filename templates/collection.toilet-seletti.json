@@ -1,0 +1,279 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "custom_liquid_QhdyB8": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h1>{{ collection.title }}</h1>\n</div>\n</section>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 36,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "standard",
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "shogun-helper": {
+      "type": "shogun-helper",
+      "settings": {}
+    },
+    "shogun-above": {
+      "type": "shogun-above",
+      "settings": {}
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        "a {color: #598db2;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
+      }
+    },
+    "multicolumn_kTpJKY": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_8FGYCt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-logo.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Esplora il Brand",
+            "link": "shopify://collections/seletti"
+          }
+        },
+        "column_bXRdYJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Outdoor-Seletti.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Outdoor Seletti",
+            "link": "shopify://collections/arredo-giardino"
+          }
+        },
+        "column_dHGQgR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Discover_now_our_Hybrid_collection_by_f21b3c46-c7b9-4678-acf9-839ef4db4b0c.webp",
+            "title": "",
+            "text": "",
+            "link_label": "TABLEWARE - Arte della Tavola",
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_DFkntc"
+          }
+        },
+        "column_qiB9cq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/magna-graecia-seletti.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "FURNITURE - Arredo",
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_kdtLc8"
+          }
+        },
+        "column_PKtqHD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-kintsugi-lucky-horn-corno-portafortuna-in-porcellana_4a79718f-bd49-4d33-ae57-72c59ea9c48c.webp",
+            "title": "",
+            "text": "",
+            "link_label": "OBJECTS - Idee Regalo",
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_qKDHQy"
+          }
+        },
+        "column_YmwtR8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/My-Little-Lamps-Seletti.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "LIGHTING - Oggetti Luce",
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_Qdy6e7"
+          }
+        }
+      },
+      "block_order": [
+        "column_8FGYCt",
+        "column_bXRdYJ",
+        "column_dHGQgR",
+        "column_qiB9cq",
+        "column_PKtqHD",
+        "column_YmwtR8"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "multicolumn_MxLddP": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_PgEVHi": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4></h4><h4><a href=\"/collections/seletti-diesel-living-seletti-classics-on-acid\" title=\"Seletti Classics on Acid\">NEW! Classics on Acid</a></h4><h4><a href=\"/collections/seletti-seletti-magna-graecia\" title=\"Seletti Magna Graecia\">NEW! Magna Graecia</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-hybrid\" title=\"Seletti Hybrid\">Collezione Hybrid</a></h4><h4><a href=\"/collections/seletti-hybrid-piatti\" title=\"Seletti Piatti Hybrid\">Piatti Hybrid</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-estetico-quotidiano\" title=\"Seletti estetico quotidiano\">Estetico Quotidiano</a></h4>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pqxUGY": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-i-wares\" title=\"Seletti I-Wares\">I-Wares</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-diesel-living\" title=\"Seletti Diesel Living\">Diesel Living</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-toiletpaper\" title=\"Toiletpaper Seletti\">Seletti wears Toiletpaper</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-marcantonio\" title=\"Seletti Marcantonio\">Seletti + Marcantonio</a></h4>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_gPeEtt": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4><a href=\"/collections/seletti-catalogo-prodotti-kintsugi\" title=\"Seletti Kintsugi\">Kintsugi</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-seletti-marcantonio-memorabilia\" title=\"Memorabilia Mvsevm Seletti\">Memorabilia</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-seletti-marcantonio-sending-animals\" title=\"Sending Animals by Seletti\">Sanding Animals</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-blow-by-job\" title=\"Seletti Blow by Job\">Blow by Job</a></h4><h4></h4>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_PgEVHi",
+        "column_pqxUGY",
+        "column_gPeEtt"
+      ],
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "title": "Scopri tutte le Collezioni Seletti",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "multicolumn_38PWQd": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_UprEta": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4><a href=\"/collections/seletti-seletti-magna-graecia\" title=\"Seletti Magna Graecia\">NEW! Magna Graecia</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-marcantonio\" title=\"Seletti Marcantonio\">Seletti + Marcantonio</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-toiletpaper\" title=\"Toiletpaper Seletti\">Seletti wears Toiletpaper</a></h4>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yfQL9J": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4><a href=\"/collections/seletti-catalogo-prodotti-estetico-quotidiano\" title=\"Seletti estetico quotidiano\">Estetico Quotidiano</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-i-wares\" title=\"Seletti I-Wares\">I-Wares</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-diesel-living\" title=\"Seletti Diesel Living\">Diesel Living</a></h4><h4></h4>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yqLKq7": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h4></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-seletti-marcantonio-memorabilia\" title=\"Memorabilia Mvsevm Seletti\">Memorabilia</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-seletti-marcantonio-sending-animals\" title=\"Sending Animals by Seletti\">Sanding Animals</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-blow-by-job\" title=\"Seletti Blow by Job\">Blow by Job</a></h4>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_UprEta",
+        "column_yfQL9J",
+        "column_yqLKq7"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Scopri tutte le Collezioni Seletti",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "shogun-below": {
+      "type": "shogun-below",
+      "settings": {}
+    },
+    "shogun-optimizer": {
+      "type": "shogun-optimizer",
+      "settings": {}
+    }
+  },
+  "order": [
+    "custom_liquid_QhdyB8",
+    "product-grid",
+    "shogun-helper",
+    "shogun-above",
+    "banner",
+    "multicolumn_kTpJKY",
+    "multicolumn_MxLddP",
+    "multicolumn_38PWQd",
+    "shogun-below",
+    "shogun-optimizer"
+  ]
+}
