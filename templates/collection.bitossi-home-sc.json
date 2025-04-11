@@ -150,11 +150,11 @@
         "column_Qn6Wff": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi_-logo-250.jpg",
+            "image": "shopify://shop_images/treccia-bitossi-home.jpg",
             "title": "",
             "text": "",
-            "link_label": "Esplora il brand",
-            "link": "shopify://collections/bitossi-home"
+            "link_label": "Gli Accessori Tavola",
+            "link": "https://www.unicoemultiplo.com/collections/bitossi-home?#shopify-section-template--24628389380361__collection_list_yH8cEE"
           }
         }
       },
