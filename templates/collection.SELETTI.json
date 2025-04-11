@@ -113,10 +113,11 @@
         "column_YmwtR8": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/My-Little-Lamps-Seletti.jpg",
             "title": "",
             "text": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "LIGHTING - Oggetti Luce",
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_Qdy6e7"
           }
         }
       },
@@ -141,8 +142,8 @@
         "color_scheme": "scheme-2",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 0
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "multicolumn_MxLddP": {
