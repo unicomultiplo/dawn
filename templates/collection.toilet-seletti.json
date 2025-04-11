@@ -25,9 +25,9 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/SELETTI-TOILETPAPER-PORCELAIN-PLATES-GOLD-BORDER.webp",
-            "title": "",
+            "title": "Arte della Tavola",
             "text": "",
-            "link_label": "Arte della Tavola",
+            "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/seletti-catalogo-prodotti-toiletpaper?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=CUCINA+%26+TAVOLA"
           }
         },
@@ -44,18 +44,20 @@
         "column_x7XrbV": {
           "type": "column",
           "settings": {
-            "title": "",
+            "image": "shopify://shop_images/toiletpaper_seletti-1.png",
+            "title": "Oggetti Luce",
             "text": "",
-            "link_label": "Oggetti Luce",
+            "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/seletti-catalogo-prodotti-toiletpaper?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=ILLUMINAZIONE"
           }
         },
         "column_ymYqfT": {
           "type": "column",
           "settings": {
-            "title": "",
+            "image": "shopify://shop_images/SwTP_Plastic-Frames-Mirrors-scaled.webp",
+            "title": "Idee Regalo",
             "text": "",
-            "link_label": "Idee Regalo",
+            "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/seletti-catalogo-prodotti-toiletpaper?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=IDEE+REGALO"
           }
         }
