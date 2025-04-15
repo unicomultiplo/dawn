@@ -397,7 +397,6 @@
         },
         "featured_collection_y4EtJ7": {
           "type": "featured_collection",
-          "disabled": true,
           "settings": {
             "collection": "superfurniture-seletti"
           }
