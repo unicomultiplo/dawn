@@ -28,7 +28,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Dal 1964, Seletti ha rivoluzionato il complemento d'arredo grazie alla qualità e all'eccellenza del Made in Italy. Innovazione e originalità sono nel DNA del brand: il geniale design quotidiano e fantasioso inizia con Romano e prosegue con Stefano Seletti. </p>",
+            "text": "<p>Dal 1964, <strong>Seletti </strong>ha rivoluzionato il complemento d'arredo grazie alla qualità e all'eccellenza del Made in Italy. Innovazione e originalità sono nel DNA del brand: il geniale design quotidiano e fantasioso inizia con <strong>Romano</strong> e prosegue con <strong>Stefano Seletti. </strong></p>",
             "link_label": "",
             "link": ""
           }
@@ -122,7 +122,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Non perderti le occasioni a <strong>prezzo speciale </strong>selezionate tra le collezioni <strong>Seletti</strong>: scopri le promozioni in corso! Esplora nuovi mondi celebrando la vita e la sua bellezza, dai <strong>servizi per la tavola</strong> ai <strong>curiosi oggetti</strong> per arredare con personalità.<br/>Un viaggio tra design visionario e ironia pop, nato da <strong>collaborazioni con designer</strong> nazionali e internazionali.<br/></p>",
+            "text": "<p>Non perderti le occasioni a prezzo speciale selezionate tra le collezioni <strong>Seletti</strong>: scopri le promozioni in corso! Esplora nuovi mondi celebrando la vita e la sua bellezza, dai servizi per la tavola a<strong>i curiosi oggetti </strong>per arredare con personalità. Un viaggio tra <strong>design visionario e ironia pop</strong>, nato da collaborazioni con designer nazionali e internazionali.</p>",
             "link_label": "",
             "link": ""
           }
