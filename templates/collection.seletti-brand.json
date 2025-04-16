@@ -403,7 +403,6 @@
         },
         "featured_collection_Pny4Ti": {
           "type": "featured_collection",
-          "disabled": true,
           "settings": {
             "collection": "reflecting-mirror-seletti"
           }
