@@ -11,7 +11,6 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
-      "disabled": true,
       "custom_css": [
         "a {color: #598db2;}"
       ],
@@ -48,8 +47,8 @@
         "column_tYqADn"
       ],
       "settings": {
-        "title": "Bitossi Home",
-        "heading_size": "hxl",
+        "title": "",
+        "heading_size": "h2",
         "image_width": "third",
         "image_ratio": "square",
         "columns_desktop": 1,
@@ -60,7 +59,7 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 40,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
