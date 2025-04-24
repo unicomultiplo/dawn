@@ -63,40 +63,6 @@
         "padding_bottom": 0
       }
     },
-    "rich_text_RgNj9M": {
-      "type": "rich-text",
-      "blocks": {
-        "text_q4GJzn": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Cerchi un prodotto Seletti?</h2>"
-          }
-        },
-        "button_ihKFmt": {
-          "type": "button",
-          "settings": {
-            "button_label": "Esplora le collezioni",
-            "button_link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_DFkntc",
-            "button_style_secondary": true,
-            "button_label_2": "Scegli la tipologia di prodotto",
-            "button_link_2": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_pekHrY",
-            "button_style_secondary_2": true
-          }
-        }
-      },
-      "block_order": [
-        "text_q4GJzn",
-        "button_ihKFmt"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-1",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 20
-      }
-    },
     "image_banner_dc8VCJ": {
       "type": "image-banner",
       "settings": {
@@ -120,8 +86,8 @@
         "column_EMQ8ey": {
           "type": "column",
           "settings": {
-            "title": "",
-            "text": "<p>Non perderti le occasioni a prezzo speciale selezionate tra le collezioni <strong>Seletti</strong>: scopri le promozioni in corso! Esplora nuovi mondi celebrando la vita e la sua bellezza, dai servizi per la tavola a<strong>i curiosi oggetti </strong>per arredare con personalità. Un viaggio tra <strong>design visionario e ironia pop</strong>, nato da collaborazioni con designer nazionali e internazionali.</p>",
+            "title": "SUPERFURNITURE - Un’esplosione pop di forme, colori e personalità",
+            "text": "<p><br/>Chi ha detto che l’arredo deve essere sobrio, uniforme, “a modo”? Con la collezione Super, Seletti firma una linea d’arredo che sfida ogni regola e trasforma lo spazio in un laboratorio creativo. Ogni pezzo è un piccolo statement: geometrie nette, colori pieni, texture patchwork e dettagli irriverenti che fanno della tua casa (o del tuo studio, showroom, boutique...) un luogo espressivo, personale, mai banale. Che tu voglia arredare da zero o inserire un unico elemento d’impatto, la collezione Super ti accompagna stanza per stanza con una gamma completa di mobili funzionali… che sembrano opere d’arte.<br/><br/></p>",
             "link_label": "",
             "link": ""
           }
@@ -139,6 +105,94 @@
       "block_order": [
         "column_EMQ8ey",
         "column_thtXjU"
+      ],
+      "settings": {
+        "title": "Seletti: novità e proposte del momento",
+        "heading_size": "h0",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_dwHmCM": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Seletti-super-forniture-5.webp",
+        "image_2": "shopify://shop_images/Seletti-super-forniture-1.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
+    "featured_collection_EihEex": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "description": "",
+        "show_description": false,
+        "description_style": "subtitle",
+        "collection": "superfurniture-seletti",
+        "products_to_show": 8,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "multicolumn_tdPnkh": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_73YVad": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Non perderti le occasioni a prezzo speciale selezionate tra le collezioni <strong>Seletti</strong>: scopri le promozioni in corso! Esplora nuovi mondi celebrando la vita e la sua bellezza, dai servizi per la tavola a<strong>i curiosi oggetti </strong>per arredare con personalità. Un viaggio tra <strong>design visionario e ironia pop</strong>, nato da collaborazioni con designer nazionali e internazionali.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ARgyfM": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_73YVad",
+        "column_ARgyfM"
       ],
       "settings": {
         "title": "Le Collezioni Seletti",
@@ -622,34 +676,6 @@
         "padding_bottom": 0
       }
     },
-    "featured_collection_EihEex": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Seletti: novità e proposte del momento",
-        "heading_size": "h0",
-        "description": "<p><strong>Scopri la linea Outdoor Seletti</strong>: lampade iconiche, sdraio Toiletpaper e <strong>complementi unici </strong>per arredare giardini, terrazze e spazi esterni con <strong>stile e ironia</strong>. Dai un tocco di design provocatorio e creativo ai tuoi spazi all’aperto con le <strong>proposte Outdoor firmate Seletti.</strong><br/></p>",
-        "show_description": false,
-        "description_style": "subtitle",
-        "collection": "outdoor-seletti",
-        "products_to_show": 10,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "scheme-2",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn_Webjiz": {
       "type": "multicolumn",
       "blocks": {
@@ -1131,9 +1157,11 @@
   "order": [
     "banner",
     "multicolumn_4fT4dH",
-    "rich_text_RgNj9M",
     "image_banner_dc8VCJ",
     "multicolumn_gaht3W",
+    "image_banner_dwHmCM",
+    "featured_collection_EihEex",
+    "multicolumn_tdPnkh",
     "collection_list_DFkntc",
     "collection_list_LxpCcQ",
     "collection_list_kdtLc8",
@@ -1143,7 +1171,6 @@
     "collection_list_XazTpy",
     "collection_list_qKDHQy",
     "collection_list_yH8cEE",
-    "featured_collection_EihEex",
     "multicolumn_Webjiz",
     "collection_list_pekHrY",
     "collection_list_qbh9yb",
