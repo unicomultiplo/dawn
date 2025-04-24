@@ -142,6 +142,7 @@
     },
     "featured_collection_EihEex": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h0",
