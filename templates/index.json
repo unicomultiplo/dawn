@@ -150,14 +150,14 @@
         "heading_ATn48z": {
           "type": "heading",
           "settings": {
-            "heading": "Tutta l'originalità di Superstuff",
+            "heading": "Tutta la Praticità del Bidone TOTEM",
             "heading_size": "h1"
           }
         },
         "text_XDRxH6": {
           "type": "text",
           "settings": {
-            "text": "<p>La cosa più difficile da fare è lavorare sodo quando nessuno ti sta guardando.</p>"
+            "text": "<p>Pluripremiato, ha diversi scomparti per tutti i tipi di rifiuti domestici<br/><br/></p>"
           }
         }
       },
@@ -180,17 +180,17 @@
         "slide_iYEMXC": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/SUPERSTUFF-UMAREL.webp",
-            "heading": "l'umarell!",
+            "image": "shopify://shop_images/Josehjospeh-totem.webp",
+            "heading": "Il Design Verticale Massimizza la Capacità",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "Vedi ora",
-            "link": "shopify://collections/superstuff",
+            "link": "shopify://products/joseph-joseph-totem-max-da-60-litri-pietra",
             "button_style_secondary": true,
-            "box_align": "middle-center",
+            "box_align": "middle-left",
             "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
+            "text_alignment": "left",
+            "image_overlay_opacity": 10,
             "color_scheme": "scheme-b4b5757d-11d6-44d9-9913-c59c1623590c",
             "text_alignment_mobile": "center"
           }
@@ -218,7 +218,7 @@
         "description": "",
         "show_description": false,
         "description_style": "uppercase",
-        "collection": "superstuff",
+        "collection": "joseph-joseph",
         "products_to_show": 15,
         "columns_desktop": 6,
         "full_width": true,
