@@ -15,11 +15,11 @@
         "slide_bzftgt": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Pasqua-2025.webp",
-            "heading": "BITOSSI HOME",
+            "image": "shopify://shop_images/KnIndustrie-pentola-vetro.webp",
+            "heading": "KNINDUSTRIE",
             "heading_size": "hxl",
-            "subheading": "I fiori sbocciano, le giornate si allungano e la tavola segue l'esempio. La primavera è ufficialmente servita. L’arte di apparecchiare, il piacere di condividere",
-            "button_label": "Vedi Ora",
+            "subheading": "<strong>Perfetto equilibrio tra innovazione culinaria e design funzionale</strong>",
+            "button_label": " Glass Pot",
             "link": "shopify://collections/bitossi-home",
             "button_style_secondary": true,
             "box_align": "middle-center",
@@ -92,14 +92,14 @@
         "heading_nXqN4c": {
           "type": "heading",
           "settings": {
-            "heading": "The Club",
+            "heading": "Pentole e Tegami KnIndustrie",
             "heading_size": "h1"
           }
         },
         "text_wLhzph": {
           "type": "text",
           "settings": {
-            "text": "<p>Una nuova collezione di pezzi scomposti con grafiche che celebrano l’aperitivo e il party.</p>"
+            "text": "<p>Strumenti classici e popolari come Pentole e Tegami si affiancano a utensili da cucina non convenzionali e originali</p>"
           }
         }
       },
@@ -124,7 +124,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "the-club-bitossi-home",
+        "collection": "knindustrie-catalogo-prodotti-beyond-basic",
         "products_to_show": 7,
         "columns_desktop": 6,
         "full_width": true,
