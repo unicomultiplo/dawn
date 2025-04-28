@@ -190,7 +190,7 @@
             "box_align": "middle-left",
             "show_text_box": false,
             "text_alignment": "left",
-            "image_overlay_opacity": 10,
+            "image_overlay_opacity": 20,
             "color_scheme": "scheme-b4b5757d-11d6-44d9-9913-c59c1623590c",
             "text_alignment_mobile": "center"
           }
