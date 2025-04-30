@@ -79,6 +79,93 @@
         "show_text_below": true
       }
     },
+    "multicolumn_c7Bg4Y": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_PjDh4N": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>fgfdzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_f8NyNW": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_PjDh4N",
+        "column_f8NyNW"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "novita",
+        "heading_size": "h0",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_yEDFWe": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_dJgdnD": {
+          "type": "heading",
+          "settings": {
+            "heading": "Immagine banner",
+            "heading_size": "h1"
+          }
+        },
+        "buttons_Abd6WT": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Etichetta pulsante",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Etichetta pulsante",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_dJgdnD",
+        "buttons_Abd6WT"
+      ],
+      "disabled": true,
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/bitossi-home-la-tavola-scomposta-piattino-ti-amo.jpg",
+        "image_2": "shopify://shop_images/bitossi-home-abracadabra-piatto-piano-destino.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "featured_collection_EihEex": {
       "type": "featured-collection",
       "settings": {
@@ -766,6 +853,8 @@
     "banner",
     "multicolumn_4fT4dH",
     "image_banner_dc8VCJ",
+    "multicolumn_c7Bg4Y",
+    "image_banner_yEDFWe",
     "featured_collection_EihEex",
     "multicolumn_gaht3W",
     "collection_list_DFkntc",
