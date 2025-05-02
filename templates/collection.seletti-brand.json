@@ -497,12 +497,6 @@
             "collection": "sparrow-lamps-seletti"
           }
         },
-        "featured_collection_zYYXem": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-blow-by-job"
-          }
-        },
         "featured_collection_QRy3fV": {
           "type": "featured_collection",
           "settings": {
@@ -514,14 +508,20 @@
           "settings": {
             "collection": "brainwash-seletti"
           }
+        },
+        "featured_collection_3GnJaA": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "windows-lamps-seletti"
+          }
         }
       },
       "block_order": [
         "featured_collection_RqezDQ",
         "featured_collection_JbiLat",
-        "featured_collection_zYYXem",
         "featured_collection_QRy3fV",
-        "featured_collection_CVYxPT"
+        "featured_collection_CVYxPT",
+        "featured_collection_3GnJaA"
       ],
       "settings": {
         "title": "",
@@ -539,12 +539,6 @@
     "collection_list_yH8cEE": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_NLmFPa": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "love-in-bloom-seletti"
-          }
-        },
         "featured_collection_H7pn9D": {
           "type": "featured_collection",
           "settings": {
@@ -562,20 +556,12 @@
           "settings": {
             "collection": "circus-seletti"
           }
-        },
-        "featured_collection_recA4E": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "windows-lamps-seletti"
-          }
         }
       },
       "block_order": [
-        "featured_collection_NLmFPa",
         "featured_collection_H7pn9D",
         "featured_collection_3bC46q",
-        "featured_collection_teya9P",
-        "featured_collection_recA4E"
+        "featured_collection_teya9P"
       ],
       "settings": {
         "title": "",
