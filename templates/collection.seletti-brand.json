@@ -254,7 +254,7 @@
         "featured_collection_nfRqPK"
       ],
       "settings": {
-        "title": "TABLEWARE - Arte della Tavola",
+        "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 5,
@@ -347,10 +347,10 @@
             "collection": "seletti-catalogo-prodotti-seletti-marcantonio-memorabilia"
           }
         },
-        "featured_collection_UBTb7R": {
+        "featured_collection_nJCpRB": {
           "type": "featured_collection",
           "settings": {
-            "collection": "seletti-catalogo-prodotti-toiletpaper"
+            "collection": "reflecting-mirror-seletti"
           }
         }
       },
@@ -359,10 +359,10 @@
         "featured_collection_VpPQix",
         "featured_collection_BimPcU",
         "featured_collection_98HBbE",
-        "featured_collection_UBTb7R"
+        "featured_collection_nJCpRB"
       ],
       "settings": {
-        "title": "FURNITURE - Arredo",
+        "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 5,
@@ -455,10 +455,10 @@
             "collection": "superfurniture-seletti"
           }
         },
-        "featured_collection_Pny4Ti": {
+        "featured_collection_QYGzWB": {
           "type": "featured_collection",
           "settings": {
-            "collection": "reflecting-mirror-seletti"
+            "collection": "seletti-catalogo-prodotti-diesel-living"
           }
         }
       },
@@ -467,7 +467,7 @@
         "featured_collection_mMJRWf",
         "featured_collection_nj6rjd",
         "featured_collection_y4EtJ7",
-        "featured_collection_Pny4Ti"
+        "featured_collection_QYGzWB"
       ],
       "settings": {
         "title": "",
@@ -491,12 +491,6 @@
             "collection": "seletti-catalogo-prodotti-seletti-marcantonio-monkey-lamp"
           }
         },
-        "featured_collection_TchKcg": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-toiletpaper"
-          }
-        },
         "featured_collection_JbiLat": {
           "type": "featured_collection",
           "settings": {
@@ -514,111 +508,23 @@
           "settings": {
             "collection": "my-little-lamps-seletti"
           }
-        }
-      },
-      "block_order": [
-        "featured_collection_RqezDQ",
-        "featured_collection_TchKcg",
-        "featured_collection_JbiLat",
-        "featured_collection_zYYXem",
-        "featured_collection_QRy3fV"
-      ],
-      "settings": {
-        "title": "LIGHTING - Oggetti Luce",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "collection_list_XazTpy": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_N6ALdN": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "vitamin-seletti"
-          }
         },
-        "featured_collection_ncL9UK": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "circus-seletti"
-          }
-        },
-        "featured_collection_jKEJq6": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "windows-lamps-seletti"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_N6ALdN",
-        "featured_collection_ncL9UK",
-        "featured_collection_jKEJq6"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "collection_list_qKDHQy": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_cc3LrL": {
+        "featured_collection_CVYxPT": {
           "type": "featured_collection",
           "settings": {
             "collection": "brainwash-seletti"
           }
-        },
-        "featured_collection_7di7Py": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-kintsugi"
-          }
-        },
-        "featured_collection_ka4pBz": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-seletti-magna-graecia"
-          }
-        },
-        "featured_collection_JVEgTp": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-toiletpaper"
-          }
-        },
-        "featured_collection_GRfhwy": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-diesel-living"
-          }
         }
       },
       "block_order": [
-        "featured_collection_cc3LrL",
-        "featured_collection_7di7Py",
-        "featured_collection_ka4pBz",
-        "featured_collection_JVEgTp",
-        "featured_collection_GRfhwy"
+        "featured_collection_RqezDQ",
+        "featured_collection_JbiLat",
+        "featured_collection_zYYXem",
+        "featured_collection_QRy3fV",
+        "featured_collection_CVYxPT"
       ],
       "settings": {
-        "title": "OBJECTS - Idee Regalo",
+        "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 5,
@@ -639,12 +545,6 @@
             "collection": "love-in-bloom-seletti"
           }
         },
-        "featured_collection_edtUjp": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-seletti-marcantonio-memorabilia"
-          }
-        },
         "featured_collection_H7pn9D": {
           "type": "featured_collection",
           "settings": {
@@ -656,13 +556,26 @@
           "settings": {
             "collection": "vitamin-seletti"
           }
+        },
+        "featured_collection_teya9P": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "circus-seletti"
+          }
+        },
+        "featured_collection_recA4E": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "windows-lamps-seletti"
+          }
         }
       },
       "block_order": [
         "featured_collection_NLmFPa",
-        "featured_collection_edtUjp",
         "featured_collection_H7pn9D",
-        "featured_collection_3bC46q"
+        "featured_collection_3bC46q",
+        "featured_collection_teya9P",
+        "featured_collection_recA4E"
       ],
       "settings": {
         "title": "",
@@ -1169,8 +1082,6 @@
     "collection_list_YNNqw7",
     "collection_list_TjThGx",
     "collection_list_Qdy6e7",
-    "collection_list_XazTpy",
-    "collection_list_qKDHQy",
     "collection_list_yH8cEE",
     "multicolumn_Webjiz",
     "collection_list_pekHrY",
