@@ -84,7 +84,6 @@
       "blocks": {
         "column_PjDh4N": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "title": "",
             "text": "<p>fgfdzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz</p>",
@@ -106,6 +105,7 @@
         "column_PjDh4N",
         "column_f8NyNW"
       ],
+      "disabled": true,
       "settings": {
         "title": "novita",
         "heading_size": "h0",
@@ -128,7 +128,6 @@
       "blocks": {
         "heading_dJgdnD": {
           "type": "heading",
-          "disabled": true,
           "settings": {
             "heading": "Immagine banner",
             "heading_size": "h1"
@@ -150,6 +149,7 @@
         "heading_dJgdnD",
         "buttons_Abd6WT"
       ],
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/bitossi-home-la-tavola-scomposta-piattino-ti-amo.jpg",
