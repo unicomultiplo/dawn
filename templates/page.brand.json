@@ -105,12 +105,6 @@
           "settings": {
             "collection": "la-piacentina"
           }
-        },
-        "featured_collection_pLfDn8": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "lexon"
-          }
         }
       },
       "block_order": [
@@ -127,8 +121,7 @@
         "featured_collection_q9YNHR",
         "featured_collection_wBcxGJ",
         "featured_collection_YWh8hM",
-        "featured_collection_EpbHe7",
-        "featured_collection_pLfDn8"
+        "featured_collection_EpbHe7"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
@@ -148,6 +141,12 @@
       "type": "collection-list",
       "blocks": {
         "featured_collection_3mPKGp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "lexon"
+          }
+        },
+        "featured_collection_khi6BE": {
           "type": "featured_collection",
           "settings": {
             "collection": "marinette-saint-tropez"
@@ -198,6 +197,7 @@
       },
       "block_order": [
         "featured_collection_3mPKGp",
+        "featured_collection_khi6BE",
         "featured_collection_atbhqM",
         "featured_collection_KCztEd",
         "featured_collection_QE7Kmx",
@@ -214,7 +214,7 @@
         "columns_desktop": 5,
         "color_scheme": "",
         "show_view_all": false,
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 36
