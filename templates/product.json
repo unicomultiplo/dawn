@@ -58,6 +58,10 @@
             "show_gift_card_recipient": false
           }
         },
+        "google_youtube_automated_discounts_price_3DxFhU": {
+          "type": "shopify://apps/google-youtube/blocks/automated_discounts_price/14ec7bd0-ac77-49a9-9417-90752398bdff",
+          "settings": {}
+        },
         "glo_color_swatch_variant_image_product_swatches_detail_FpE3Un": {
           "type": "shopify://apps/glo-color-swatch-variant-image/blocks/product-swatches-detail/4394f710-096c-4021-bbde-8ebb26057c11",
           "settings": {}
@@ -109,6 +113,7 @@
         "quantity_selector",
         "variant_picker",
         "buy_buttons",
+        "google_youtube_automated_discounts_price_3DxFhU",
         "glo_color_swatch_variant_image_product_swatches_detail_FpE3Un",
         "glo_color_swatch_variant_image_product_groups_detail_bwq8iX",
         "custom_liquid_tm8pXP",

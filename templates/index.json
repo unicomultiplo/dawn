@@ -362,7 +362,7 @@
         "text_PKW3Wk": {
           "type": "text",
           "settings": {
-            "text": "<p><span style=\"text-decoration:underline\">U</span>na collezione di posate da tavola, realizzata con cura in acciaio inox stone washed.<br/>Il suo segno inconfondibile risiede nella foratura dei manici che conferisce un aspetto originale a tutta la collezione.<br/><br/></p>",
+            "text": "<p>Una collezione di posate da tavola, realizzata con cura in acciaio inox stone washed.<br/>Il suo segno inconfondibile risiede nella foratura dei manici che conferisce un aspetto originale a tutta la collezione.<br/><br/></p>",
             "text_style": "body"
           }
         },
@@ -760,7 +760,6 @@
         "column_xaMbin",
         "column_8HGPgi"
       ],
-      "disabled": true,
       "custom_css": [
         ".elemento {width: 50%; aspect-ratio: 16 / 9; height: auto;}"
       ],
@@ -775,8 +774,8 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 60
       }
