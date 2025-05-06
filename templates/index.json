@@ -760,6 +760,7 @@
         "column_xaMbin",
         "column_8HGPgi"
       ],
+      "disabled": true,
       "custom_css": [
         ".elemento {width: 50%; aspect-ratio: 16 / 9; height: auto;}"
       ],
