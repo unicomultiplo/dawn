@@ -93,18 +93,6 @@
           "settings": {
             "collection": "knindustrie"
           }
-        },
-        "featured_collection_YWh8hM": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "ufficio-kriptonite-sistema-modulare"
-          }
-        },
-        "featured_collection_EpbHe7": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "la-piacentina"
-          }
         }
       },
       "block_order": [
@@ -119,16 +107,14 @@
         "featured_collection_YnBgfe",
         "featured_collection_8a8jpz",
         "featured_collection_q9YNHR",
-        "featured_collection_wBcxGJ",
-        "featured_collection_YWh8hM",
-        "featured_collection_EpbHe7"
+        "featured_collection_wBcxGJ"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "2",
@@ -141,6 +127,18 @@
       "type": "collection-list",
       "blocks": {
         "featured_collection_3mPKGp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ufficio-kriptonite-sistema-modulare"
+          }
+        },
+        "featured_collection_3HryGH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "la-piacentina"
+          }
+        },
+        "featured_collection_Qxmm3J": {
           "type": "featured_collection",
           "settings": {
             "collection": "lexon"
@@ -197,6 +195,8 @@
       },
       "block_order": [
         "featured_collection_3mPKGp",
+        "featured_collection_3HryGH",
+        "featured_collection_Qxmm3J",
         "featured_collection_khi6BE",
         "featured_collection_atbhqM",
         "featured_collection_KCztEd",
@@ -211,7 +211,7 @@
         "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "2",
