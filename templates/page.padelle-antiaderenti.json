@@ -1,0 +1,994 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_xxGrrA": {
+      "type": "multicolumn",
+      "settings": {
+        "title": "Bone China: Scopri la Porcellana Più Elegante per la Tua Tavola",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_VC4GDe": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Bone-China.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "multicolumn_VR4EHF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_7QAYWz": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>🎯 <em>Acquistare </em><em><strong>Bone China</strong></em><em> significa </em><em><strong>investire </strong></em><em>in un materiale di lusso, elegante e resistente, perfetto per chi ama una tavola raffinata e </em><em><strong>senza tempo</strong></em><em>.</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_7QAYWz"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_6fXjNw": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_LnRFgT": {
+          "type": "column",
+          "settings": {
+            "title": "Cos'è la Bone China e perché tutti ne parlano?",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola?#shopify-section-template--23360006586633__image_with_text_LCL7jb"
+          }
+        },
+        "column_fkMzE8": {
+          "type": "column",
+          "settings": {
+            "title": " Un’antica tradizione di eleganza: la storia della Bone China",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola?#shopify-section-template--23360006586633__multicolumn_KKQxqM"
+          }
+        },
+        "column_bN6gr3": {
+          "type": "column",
+          "settings": {
+            "title": "I servizi di piatti Bone China: le migliori collezioni",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola?#shopify-section-template--23360006586633__multicolumn_kiWfNN"
+          }
+        },
+        "column_Ey4w4m": {
+          "type": "column",
+          "settings": {
+            "title": "Come usare e conservare la Bone China (senza paura di rovinarla)",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola?#shopify-section-template--23360006586633__multicolumn_Exw9py"
+          }
+        },
+        "column_bnrgcr": {
+          "type": "column",
+          "settings": {
+            "title": "Domande frequenti sulla Bone China",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola?#shopify-section-template--23360006586633__multicolumn_HpnGYB"
+          }
+        }
+      },
+      "block_order": [
+        "column_LnRFgT",
+        "column_fkMzE8",
+        "column_bN6gr3",
+        "column_Ey4w4m",
+        "column_bnrgcr"
+      ],
+      "settings": {
+        "title": "Ti guideremo alla <strong>scoperta della Bone China</strong>, dalle sue origini alla manutenzione perfetta, con consigli per l'acquisto.",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "shopify://collections/piatti-in-bone-china",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_eQWbbm": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_QUFVJ3": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><em>📌 </em><em><strong>Cos'è la Bone China? </strong></em><em>La </em><em><strong>Bone China</strong></em><em> è una delle</em><em><strong> porcellane più pregiate al mondo</strong></em><em>, apprezzata per la sua trasparenza, brillantezza e resistenza. Il suo segreto? Un'innovativa composizione che la rendono incredibilmente </em><em><strong>leggera ma resistente</strong></em><em>.</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_QUFVJ3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_LCL7jb": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_XigEi4": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Perché tutti ne parlano?</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_yatCWr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Perché è la <strong>porcellana più elegante e resistente</strong> che esista! Leggera ma molto robusta, brillante e capace di illuminare ogni tavola. È la scelta preferita dai grandi marchi per creare piatti di design ed è preferita dai ristoranti di lusso e nelle case più raffinate. </p><p>Perfetta per le occasioni speciali, ma anche per l’uso quotidiano, unisce <strong>stile e qualità</strong> in modo insuperabile. </p><p>Una volta provata, è impossibile tornare indietro. <strong>Ecco perché tutti ne parlano!</strong></p><p></p><h3><strong>Cosa rende la Bone China così speciale?</strong></h3><p>Ha quel qualcosa in più che la distingue da qualsiasi altra porcellana.</p><p> È incredibilmente <strong>leggera</strong>, ma sorprendentemente <strong>resistente</strong>. Il suo colore luminoso e la sua finezza la rendono unica, perfetta per una tavola curata nei minimi dettagli. </p><p>Non è solo bella da vedere, ma anche pratica e durevole, ideale per chi ama unire <strong>eleganza e funzionalità</strong>. È il tocco di classe che trasforma ogni pasto in un’esperienza speciale.</p><p> <strong>Ecco perché fa la differenza!</strong></p>",
+            "text_style": "body"
+          }
+        },
+        "button_QkwrGY": {
+          "type": "button",
+          "settings": {
+            "button_label": "Esplora ora le Collezioni Bone China",
+            "button_link": "shopify://collections/piatti-in-bone-china",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_XigEi4",
+        "text_yatCWr",
+        "button_QkwrGY"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/wonton-appetizer.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_CBxYKc": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_TfAYbB": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Bone China vs porcellana tradizionale: quali sono le differenze?</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_JmwQRX": {
+          "type": "text",
+          "settings": {
+            "text": "<h3></h3><p>Sembrano simili, ma la differenza si nota subito! La <strong>Bone China</strong> è più <strong>leggera, brillante e resistente</strong>, grazie a una composizione speciale che la rende unica. Ha un tocco raffinato ed è più sottile rispetto alla <strong>porcellana tradizionale</strong>, che invece risulta più pesante e opaca.</p><p>Oltre all’estetica, cambia anche la resistenza: la <strong>Bone China assorbe meglio gli urti</strong>, rendendola perfetta sia per le occasioni speciali che per l’uso quotidiano. </p><h3><strong>Come riconoscere la vera Bone China (e perché ne vale la pena)</strong></h3><p>Se hai mai tenuto in mano un piatto o una tazza e ti sei chiesto: <em>\"Sarà davvero Bone China?\"</em>, c’è un trucco per capirlo subito. La <strong>vera Bone China</strong> è incredibilmente <strong>leggera</strong>, ma sorprendentemente <strong>resistente</strong>. Ha una brillantezza naturale e, se la metti controluce, è leggermente traslucida.</p><p>A differenza della porcellana tradizionale, è più sottile e liscia al tatto, ma senza perdere solidità. È proprio questa combinazione di <strong>eleganza e durevolezza</strong> che la rende così speciale. Usata dai migliori brand di design, è sinonimo di qualità e stile senza tempo.</p><p>Vale la pena sceglierla? Assolutamente sì! Aggiunge un tocco di classe alla tavola e dura nel tempo, perfetta per chi vuole <strong>bellezza e praticità</strong> insieme. Una volta provata, non tornerai più indietro! 😉<br/><br/>La sua unicità è data da un processo produttivo sofisticato: viene <strong>cotta a temperature tra 1200 e 1400°C</strong>, un trattamento che vetrifica i materiali, ed è proprio questo che la rende <strong>lucente, resistente e traslucida</strong>.</p><p>Il <strong>caolino</strong>, un’argilla purissima a basso contenuto di ferro, garantisce una superficie <strong>compatta e liscia</strong>, riducendo la porosità e impedendo l’assorbimento di <strong>macchie e odori</strong>. </p>",
+            "text_style": "body"
+          }
+        },
+        "button_Jbq8xx": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scegli la Bone China",
+            "button_link": "shopify://collections/piatti-in-bone-china",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_TfAYbB",
+        "text_JmwQRX",
+        "button_Jbq8xx"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Bone-china-piatti.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_T79FP8": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_K74rHL": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><em>💡 </em><em><strong>Lo sapevi?</strong></em><em> Nonostante la delicatezza del suo aspetto,</em><em><strong> la Bone China è più resistente della porcellana tradizionale,</strong></em><em> il che la rende perfetta per un uso quotidiano sofisticato.</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_K74rHL"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_8kCVCG": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "<strong>Esplora ora</strong> le collezioni in Bone China e aggiungi un tocco di classe alla tua tavola",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "piatti-in-bone-china",
+        "products_to_show": 10,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_bEDH9B": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_qiUGK3": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><em>✔️ </em><em><strong>Curiosità.</strong></em><em> il termine </em><em><strong>\"China\"</strong></em><em> non si riferisce al paese d'origine, ma è un </em><em><strong>omaggio alla porcellana orientale </strong></em><em>che ispirò gli artigiani inglesi.</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_qiUGK3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_KKQxqM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ChXLxh": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>Dove e come è nata la Bone China</strong></h3><h3></h3><ul><li>La <strong>Bone China</strong> nasce in Inghilterra alla fine del XVIII secolo grazie a <strong>Josiah Spode</strong>, che perfezionò la formula aggiungendo cenere d'osso alla porcellana per aumentarne resistenza e traslucenza. </li></ul><p></p><p></p><p></p><p></p><p></p><p></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_zAVLFP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bonechinelatraslucenza.webp",
+            "title": "",
+            "text": "<h3><strong>Perché la Bone China è considerata un lusso intramontabile</strong></h3><ul><li>Fin dalla sua nascita, la <strong>Bone China</strong> è stata sinonimo di <strong>eleganza e qualità</strong>, conquistando nobiltà e maestri artigiani in tutta Europa. </li><li>La sua combinazione unica di <strong>leggerezza, brillantezza e resistenza</strong> l'ha resa la scelta perfetta per chi cerca raffinatezza senza compromessi. </li></ul><p></p><p></p><p>Ancora oggi, è il materiale preferito per piatti e servizi da tavola di alta gamma, aggiungendo un tocco di lusso senza tempo a ogni mise en place.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_QjeBJh": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>La Bone China oggi: design e innovazione</strong></h3>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GPdbat": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Nata nel cuore dell’Inghilterra del XVIII secolo, la <strong>Bone China</strong> ha attraversato secoli di storia senza mai perdere il suo fascino. </p><p>Se un tempo era riservata alle tavole della nobiltà, oggi è diventata un’icona senza tempo, capace di unire tradizione e modernità.</p><p>L’evoluzione del design ha dato nuova vita a questo materiale straordinario: dai motivi classici alle linee minimaliste e contemporanee, la <strong>Bone China</strong> continua a reinventarsi, rimanendo protagonista delle tavole più raffinate. I grandi marchi la scelgono per la sua <strong>qualità ineguagliabile</strong>, trasformandola in un simbolo di lusso discreto e senza tempo.</p><p></p><p>Non è solo una questione di estetica: la sua <strong>durabilità e versatilità</strong> la rendono perfetta per chi ama circondarsi di oggetti belli ma anche funzionali. Oggi, possedere un servizio in <strong>Bone China</strong> significa portare in tavola una storia di eccellenza e innovazione, in cui il passato incontra il presente con eleganza.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_kXpwKJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Solaria-KnIndustrie-piatti-Bone-China.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/piatti-in-bone-china"
+          }
+        }
+      },
+      "block_order": [
+        "column_ChXLxh",
+        "column_zAVLFP",
+        "column_QjeBJh",
+        "column_GPdbat",
+        "column_kXpwKJ"
+      ],
+      "settings": {
+        "title": "<strong> La storia della Bone China: un’antica tradizione di eleganza</strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "shopify://collections/piatti-in-bone-china",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_73PwUA": {
+      "type": "rich-text",
+      "blocks": {
+        "text_NhynLD": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Scopri le migliori collezioni di Bone China e aggiungi un tocco di prestigio alla tua tavola!</strong></h3>"
+          }
+        },
+        "button_hfaMVP": {
+          "type": "button",
+          "settings": {
+            "button_label": "Vedi Ora!",
+            "button_link": "shopify://collections/piatti-in-bone-china",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_NhynLD",
+        "button_hfaMVP"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 24
+      }
+    },
+    "multicolumn_wVxtVr": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_VMLw8R": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><em>🔎</em><em><strong> Il Segreto della Bone China?</strong></em></p><p><em><strong>Cottura ad alte temperature</strong></em><em>: viene sottoposta a una fusione tra </em><em><strong>1200 e 1400°C</strong></em><em>, che vetrifica i materiali, rendendola quasi vetrosa nell’aspetto e nella consistenza. Questo le conferisce </em><em><strong>lucentezza, resistenza e traslucenza</strong></em><em>.</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_VMLw8R"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_kiWfNN": {
+      "type": "multicolumn",
+      "settings": {
+        "title": "<strong>I servizi di piatti Bone China: le migliori collezioni</strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_aAFBXa": {
+      "type": "rich-text",
+      "blocks": {
+        "text_itAeRa": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>📌 Scopri ora le migliori collezioni di Bone China nel nostro e-commerce</strong></p>"
+          }
+        },
+        "button_9TwHya": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scopri Ora!",
+            "button_link": "shopify://collections/piatti-in-bone-china",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_itAeRa",
+        "button_9TwHya"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_QcgJTF": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_aAYjVx": {
+          "type": "heading",
+          "settings": {
+            "heading": "KnIndustrie",
+            "heading_size": "h1"
+          }
+        },
+        "text_brtDXa": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>KnIndustrie</strong> coniuga <strong>creatività</strong>, dettagli dal sapore <strong>vintage</strong> e un’eleganza senza tempo, dando vita a collezioni in <strong>bone china</strong> perfette per le occasioni speciali.</p><p><strong>Sophie e Reggia </strong>– Total White, linee moderne e sofisticate. Collezioni perfette per chi ama il minimalismo e l’innovazione nel design.</p><p><strong>ShabbyChic </strong>– Design ispirato alle stoviglie d’epoca.</p><p><strong>Armonia-Oro</strong> –  Perfetta per una tavola sofisticata con dettagli dorati.</p><p><strong>Asimmetrico </strong>– Innovativa e pensata in collaborazione con lo chef Davide Oldani.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_RbUWQH": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scegli l'eleganza di KnIndustrie",
+            "button_link": "https://www.unicoemultiplo.com/collections/piatti-in-bone-china?filter.p.vendor=KnIndustrie&sort_by=manual&#shopify-section-template--22267419984137__product-grid",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_aAYjVx",
+        "text_brtDXa",
+        "button_RbUWQH"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/KnIndustrie-piatti-in-bone-china.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_PgCzUL": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_BCb7N7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bitossi Home",
+            "heading_size": "h1"
+          }
+        },
+        "text_LeRNt7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bitossi rappresenta l’incontro perfetto tra <strong>tradizione e modernità</strong>, offrendo collezioni di <strong>Bone China</strong> dal design esclusivo e senza tempo. Ogni linea è pensata per chi desidera una tavola elegante e raffinata, ideale sia per occasioni speciali che per l’uso quotidiano.</p><p><strong>Minimal </strong>– Linee pulite e raffinate.</p><p><strong>Bon Ton</strong> – Equilibrio tra semplicità ed eleganza senza tempo</p>",
+            "text_style": "body"
+          }
+        },
+        "button_dVbhGN": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scopri i nostri servizi Bitossi Home",
+            "button_link": "https://www.unicoemultiplo.com/collections/piatti-in-bone-china?filter.p.vendor=Bitossi+Home&sort_by=manual&#shopify-section-template--22267419984137__product-grid",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_BCb7N7",
+        "text_LeRNt7",
+        "button_dVbhGN"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Bitossi-Home-Bon-Ton-Vassoio-ovale-piccolo-ln-Bone-China_3.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_mqpwPK": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Dc8zcE": {
+          "type": "heading",
+          "settings": {
+            "heading": "Seletti",
+            "heading_size": "h1"
+          }
+        },
+        "text_Y84r3N": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Seletti</strong> si distingue per la sua vena innovativa e la capacità di sperimentare con materiali pregiati come la <strong>bone china</strong>, reinterpretandoli in chiave contemporanea.</p><p><strong>Hybrid </strong>–  accostamenti<strong> audaci </strong>tra decorazioni <strong>orientali e occidentali</strong>, ideali per una tavola dal design <strong>unico </strong>e artistico.</p><p></p>",
+            "text_style": "body"
+          }
+        },
+        "button_xh6e8P": {
+          "type": "button",
+          "settings": {
+            "button_label": "Collezione Hybrid",
+            "button_link": "https://www.unicoemultiplo.com/collections/seletti-catalogo-prodotti-hybrid?filter.p.tag=Bone+China&#shopify-section-template--22267420410121__product-grid",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_Dc8zcE",
+        "text_Y84r3N",
+        "button_xh6e8P"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Natale-con-i-piatti-Seletti-Hybrid.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_abbqp3": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_9L7RER": {
+          "type": "heading",
+          "settings": {
+            "heading": "Brandani",
+            "heading_size": "h1"
+          }
+        },
+        "text_MgMJMD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>La N<strong>ew Bone China</strong> è la versione più accessibile della classica Bone China: pur conservandone eleganza e traslucidità, utilizza meno cenere d’ossa (o ingredienti alternativi), offrendo così un’ottima resa estetica a prezzi più contenuti. <br/><strong>Brandani</strong>, sempre attenta al budget, la consiglia per chi desidera tutto il fascino di una porcellana raffinata con un miglior rapporto qualità-prezzo.</p><p><strong>Total White e Queen </strong> collezioni in <strong>New Bone China</strong>, perfette per chi desidera <strong>eleganza e qualità a un prezzo competitivo</strong>.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_93rdTB": {
+          "type": "button",
+          "settings": {
+            "button_label": "New bone China",
+            "button_link": "https://www.unicoemultiplo.com/collections/piatti-in-bone-china?filter.p.vendor=Brandani&sort_by=manual&#shopify-section-template--22267419984137__product-grid",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_9L7RER",
+        "text_MgMJMD",
+        "button_93rdTB"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Brandani-Queen-piatti-bone-china.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_tim6dE": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_cXMp4H": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><em><strong>🔧 Consigli dell’Esperto: Cura della Bone China</strong></em><em><br/></em><em><strong>Lavaggio e asciugatura</strong></em><em>: preferibilmente a mano, asciugando con un </em><em><strong>panno morbido in microfibra</strong></em><em> per preservarne la lucentezza.<br/></em><em><strong>Conservazione</strong></em><em>: impila i pezzi separandoli con </em><em><strong>feltro o carta velina</strong></em><em> per evitare graffi.</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_cXMp4H"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_Exw9py": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_RdaFn9": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Vuoi conoscere di più sulla manutenzione della Bone China? Scopri come prendersene cura per preservarne la bellezza. Per mantenere la tua Bone China splendida nel tempo.<br/></p><h3><strong>Come prendersi cura della Bone China: consigli utili</strong></h3><p>Per mantenere la <strong>Bone China</strong> sempre perfetta nel tempo, bastano poche attenzioni: </p><p><strong>Lavaggio a mano consigliato</strong> per piatti con <strong>decorazioni delicate o finiture in oro/argento</strong>, utilizzando acqua tiepida e un detergente delicato.<br/><strong>Lavastoviglie? Sì, ma con attenzione!</strong> Se i piatti sono completamente bianchi, possono essere lavati in lavastoviglie a basse temperature e con cicli delicati.<br/><strong>Evitare sbalzi termici</strong>: meglio non passare da temperature fredde a calde troppo rapidamente per prevenire eventuali micro-fratture.<br/><strong>Impilare con cura</strong>: per evitare graffi, inserire un foglio di carta o un panno sottile tra un piatto e l’altro.<br/><strong>No a spugne abrasive</strong>: usa solo materiali morbidi per non rovinare la superfici.</p><p>Seguendo questi piccoli accorgimenti, la tua <strong>Bone China</strong> manterrà la sua bellezza e luminosità per anni! </p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_FrXcB9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bone-China.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/piatti-in-bone-china"
+          }
+        }
+      },
+      "block_order": [
+        "column_RdaFn9",
+        "column_FrXcB9"
+      ],
+      "settings": {
+        "title": "<strong>Come usare e conservare la Bone China (senza paura di rovinarla)</strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "shopify://collections/piatti-in-bone-china",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_6qfX7g": {
+      "type": "rich-text",
+      "blocks": {
+        "text_KCBEwa": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Scopri le migliori collezioni di Bone China e aggiungi un tocco di prestigio alla tua tavola!</strong></h3>"
+          }
+        },
+        "button_YFmkH4": {
+          "type": "button",
+          "settings": {
+            "button_label": "Vedi Ora!",
+            "button_link": "shopify://collections/piatti-in-bone-china",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_KCBEwa",
+        "button_YFmkH4"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 24
+      }
+    },
+    "multicolumn_HpnGYB": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_FG7BYx": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p></p><h3><strong>Cosa significa davvero “Bone China”?</strong></h3><ul><li>Il nome <strong>Bone China</strong> potrebbe suonare misterioso, ma il suo significato è semplice: si tratta di una <strong>porcellana arricchita con cenere d’osso</strong>, un ingrediente che le conferisce la sua incredibile <strong>lucentezza, leggerezza e resistenza</strong>.</li></ul><h3><strong>Perché la Bone China è considerata così preziosa?</strong></h3><h3></h3><ul><li>La <strong>Bone China</strong> è preziosa perché racchiude il meglio di due mondi: la <strong>raffinatezza della porcellana</strong> e una <strong>resistenza sorprendente</strong>. Ciò che la rende unica è la sua composizione speciale.</li></ul><p>A differenza della porcellana tradizionale, è più <strong>dura ma sottile</strong>, risultando elegante e al tempo stesso pratica. Per questo è sempre stata associata a un’idea di <strong>lusso senza tempo.</strong></p><p>Che sia per un’occasione speciale o per l’uso quotidiano, la <strong>Bone China</strong> è un investimento di stile e qualità, capace di durare nel tempo senza perdere il suo fascino. </p><h3><strong>La Bone China è sicura per gli alimenti caldi?</strong></h3><ul><li>Sì, assolutamente! La <strong>Bone China</strong> è <strong>perfettamente sicura</strong> per servire cibi e bevande calde. Grazie alla sua composizione speciale, resiste bene alle alte temperature senza assorbire sapori o odori.</li></ul><p>Tuttavia, è sempre meglio evitare sbalzi termici troppo bruschi (ad esempio, non metterla direttamente dal freezer al microonde) per preservarne l’integrità nel tempo.</p><p><strong>Se cerchi eleganza e praticità per la tua tavola, la Bone China è la scelta ideale! </strong></p><p></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6MPrhG": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Hai domande o esperienze da condividere? Contattaci!",
+            "link": "https://api.whatsapp.com/send/?phone=390733810100&text&type=phone_number&app_absent=0"
+          }
+        }
+      },
+      "block_order": [
+        "column_FG7BYx",
+        "column_6MPrhG"
+      ],
+      "settings": {
+        "title": "<strong>Domande frequenti sulla Bone China</strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "shopify://collections/piatti-in-bone-china",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_kjc7qg": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_cETjLG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "piatti-in-bone-china"
+          }
+        },
+        "featured_collection_egmnGj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-hybrid-piatti"
+          }
+        },
+        "featured_collection_Fce7QT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-catalogo-prodotti-davide-oldani"
+          }
+        },
+        "featured_collection_gKtyq6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-total-white-brandani"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_cETjLG",
+        "featured_collection_egmnGj",
+        "featured_collection_Fce7QT",
+        "featured_collection_gKtyq6"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multicolumn_xxGrrA",
+    "image_banner_VC4GDe",
+    "multicolumn_VR4EHF",
+    "multicolumn_6fXjNw",
+    "multicolumn_eQWbbm",
+    "image_with_text_LCL7jb",
+    "image_with_text_CBxYKc",
+    "multicolumn_T79FP8",
+    "featured_collection_8kCVCG",
+    "multicolumn_bEDH9B",
+    "multicolumn_KKQxqM",
+    "rich_text_73PwUA",
+    "multicolumn_wVxtVr",
+    "multicolumn_kiWfNN",
+    "rich_text_aAFBXa",
+    "image_with_text_QcgJTF",
+    "image_with_text_PgCzUL",
+    "image_with_text_mqpwPK",
+    "image_with_text_abbqp3",
+    "multicolumn_tim6dE",
+    "multicolumn_Exw9py",
+    "rich_text_6qfX7g",
+    "multicolumn_HpnGYB",
+    "collection_list_kjc7qg"
+  ]
+}
