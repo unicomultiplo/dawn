@@ -19,322 +19,209 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_bQcFQg": {
-      "type": "multicolumn",
+    "collection_list_UnkgBe": {
+      "type": "collection-list",
       "blocks": {
-        "column_i6hFa3": {
-          "type": "column",
+        "featured_collection_gbwwkF": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/Atmosphere.webp",
-            "title": "",
-            "text": "<h4><a href=\"/collections/atmosphere\" title=\"Atmosphere\">Atmosphere</a></h4>",
-            "link_label": "",
-            "link": ""
+            "collection": "atmosphere"
           }
         },
-        "column_jAmHTG": {
-          "type": "column",
+        "featured_collection_Kk8hTq": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/Bitossi.webp",
-            "title": "",
-            "text": "<h4><a href=\"/collections/bitossi-home\" title=\"Bitossi Home\">Bitossi Home</a></h4>",
-            "link_label": "",
-            "link": ""
+            "collection": "bitossi-home"
           }
         },
-        "column_pBQePY": {
-          "type": "column",
+        "featured_collection_FzRTT9": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/Brabantia.webp",
-            "title": "",
-            "text": "<h4><a href=\"/collections/brabantia\" title=\"Brabantia\">Brabantia</a></h4>",
-            "link_label": "",
-            "link": ""
+            "collection": "brabantia"
           }
         },
-        "column_mDAKCe": {
-          "type": "column",
+        "featured_collection_wmWN49": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/Brandani.webp",
-            "title": "",
-            "text": "<h4><a href=\"/collections/brandani\" title=\"Brandani\">Brandani</a></h4>",
-            "link_label": "",
-            "link": ""
+            "collection": "brandani"
           }
         },
-        "column_bPjjtb": {
-          "type": "column",
+        "featured_collection_CHFcMc": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/CrashBag.webp",
-            "title": "",
-            "text": "<h4><a href=\"/collections/crash-baggage\" title=\"Crash Baggage\">Crash Baggage</a></h4>",
-            "link_label": "",
-            "link": ""
+            "collection": "crash-baggage"
           }
         },
-        "column_jf3jDY": {
-          "type": "column",
+        "featured_collection_7Xdy6g": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/disegnetti-depressetti-logo.webp",
-            "title": "",
-            "text": "<h4><a href=\"/collections/disegnetti-depressetti\" title=\"Disegnetti Depressetti\">Disegnetti Depressetti</a></h4>",
-            "link_label": "",
-            "link": ""
+            "collection": "disegnetti-depressetti"
           }
         },
-        "column_fYAzhe": {
-          "type": "column",
+        "featured_collection_fJLhKV": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/Fioriraungiaridino.webp",
-            "title": "",
-            "text": "<h4><a href=\"/collections/fiorira-un-giardino\" title=\"Fiorirà un Giardino\">Fiorirà un giardino</a></h4>",
-            "link_label": "",
-            "link": ""
+            "collection": "fiorira-un-giardino"
           }
         },
-        "column_7kaFhY": {
-          "type": "column",
+        "featured_collection_3wBXgj": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/Guzzerie.webp",
-            "title": "",
-            "text": "<h4><a href=\"/collections/guzzerie\" title=\"Guzzerie\">Guzzerie</a></h4>",
-            "link_label": "",
-            "link": ""
+            "collection": "guzzerie"
           }
         },
-        "column_ABjgwE": {
-          "type": "column",
+        "featured_collection_YnBgfe": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/hoff.webp",
-            "title": "",
-            "text": "<h4><a href=\"/collections/hoff-interieur\" title=\"Hoff Interieur\">Hoff Interieur</a></h4>",
-            "link_label": "",
-            "link": ""
+            "collection": "hoff-interieur"
           }
         },
-        "column_tLCiBW": {
-          "type": "column",
+        "featured_collection_8a8jpz": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/Ichendorf.webp",
-            "title": "",
-            "text": "<h4><a href=\"/collections/ichendorf-catalogo\" title=\"Ichendorf\">Ichendorf</a></h4>",
-            "link_label": "",
-            "link": ""
+            "collection": "ichendorf-catalogo"
           }
         },
-        "column_Hhh9KY": {
-          "type": "column",
+        "featured_collection_q9YNHR": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/Josephjoseph.webp",
-            "title": "",
-            "text": "<p><a href=\"/collections/joseph-joseph\" title=\"Joseph Joseph\">Joseph Joseph</a></p>",
-            "link_label": "",
-            "link": ""
+            "collection": "joseph-joseph"
           }
         },
-        "column_XQ9JEN": {
-          "type": "column",
+        "featured_collection_wBcxGJ": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/Knidustrie.webp",
-            "title": "",
-            "text": "<p><a href=\"/collections/knindustrie\" title=\"KnIndustrie\">KnIndustrie</a></p>",
-            "link_label": "",
-            "link": ""
+            "collection": "knindustrie"
           }
         },
-        "column_qxeMLV": {
-          "type": "column",
+        "featured_collection_YWh8hM": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/Kriptonite.webp",
-            "title": "",
-            "text": "<p><a href=\"/collections/ufficio-kriptonite-sistema-modulare\" title=\"Kriptonite Librerie Modulari\">Kriptonite</a></p>",
-            "link_label": "",
-            "link": ""
+            "collection": "ufficio-kriptonite-sistema-modulare"
           }
         },
-        "column_Rb8Pd9": {
-          "type": "column",
+        "featured_collection_EpbHe7": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/lapiacentina.webp",
-            "title": "",
-            "text": "<p><a href=\"/collections/la-piacentina\" title=\"La Piacentina\">La Piacentina</a></p>",
-            "link_label": "",
-            "link": ""
+            "collection": "la-piacentina"
           }
         },
-        "column_wyhtnL": {
-          "type": "column",
+        "featured_collection_pLfDn8": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/Lexon.webp",
-            "title": "",
-            "text": "<p><a href=\"/collections/lexon\" title=\"Lexon\">Lexon</a></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_7GbWNR": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Marinette.webp",
-            "title": "",
-            "text": "<h4><a href=\"/collections/marinette-saint-tropez\" title=\"Marinette Saint Tropez\">Marinette</a></h4>",
-            "link_label": "",
-            "link": "shopify://collections/marinette-saint-tropez"
-          }
-        },
-        "column_JQe8X6": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Miho.webp",
-            "title": "",
-            "text": "<p><a href=\"/collections/miho\" title=\"MIHO\">Miho</a></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_n6Wc68": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/millefiori.webp",
-            "title": "",
-            "text": "<p><a href=\"/collections/millefiori\" title=\"Millefiori\">MiIllefiori</a></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_EK7y9M": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/Nio.webp",
-            "title": "",
-            "text": "<p><a href=\"/collections/nio-cocktails\" title=\"NIO Cocktails\">NIO</a></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_p6Tgz4": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Reisenthel.webp",
-            "title": "",
-            "text": "<p><a href=\"/collections/reisenthel\" title=\"Reisenthel\">Reisenthel</a></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_fVEeYC": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Rivsalt.webp",
-            "title": "",
-            "text": "<p><a href=\"/collections/rivsalt\" title=\"Rivsalt\">Rivsalt</a></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_zrLjgy": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Rollink-valigie.webp",
-            "title": "",
-            "text": "<p><a href=\"/collections/rollink\" title=\"Rollink\">Rollink</a></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_jj7XrB": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Salvadoriarte.webp",
-            "title": "",
-            "text": "<p><a href=\"/collections/salvadoriarte\" title=\"SalvadoriArte\">Salvadori Arte</a></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_HdgBkB": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Seletti.webp",
-            "title": "",
-            "text": "<p><a href=\"/collections/seletti\" title=\"Seletti\">Seletti</a></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_HjME7k": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Snippers.webp",
-            "title": "",
-            "text": "<p><a href=\"/collections/snippers\" title=\"Snippers\">Snippers</a></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_yh4FbF": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Superstuff.webp",
-            "title": "",
-            "text": "<p><a href=\"/collections/superstuff\" title=\"Superstuff\">Superstuff</a></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_CPXaV4": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Vanillafly.webp",
-            "title": "",
-            "text": "<p><a href=\"/collections/vanilla-fly\" title=\"Vanilla Fly\">Vanilla Fly</a></p>",
-            "link_label": "",
-            "link": ""
+            "collection": "lexon"
           }
         }
       },
       "block_order": [
-        "column_i6hFa3",
-        "column_jAmHTG",
-        "column_pBQePY",
-        "column_mDAKCe",
-        "column_bPjjtb",
-        "column_jf3jDY",
-        "column_fYAzhe",
-        "column_7kaFhY",
-        "column_ABjgwE",
-        "column_tLCiBW",
-        "column_Hhh9KY",
-        "column_XQ9JEN",
-        "column_qxeMLV",
-        "column_Rb8Pd9",
-        "column_wyhtnL",
-        "column_7GbWNR",
-        "column_JQe8X6",
-        "column_n6Wc68",
-        "column_EK7y9M",
-        "column_p6Tgz4",
-        "column_fVEeYC",
-        "column_zrLjgy",
-        "column_jj7XrB",
-        "column_HdgBkB",
-        "column_HjME7k",
-        "column_yh4FbF",
-        "column_CPXaV4"
+        "featured_collection_gbwwkF",
+        "featured_collection_Kk8hTq",
+        "featured_collection_FzRTT9",
+        "featured_collection_wmWN49",
+        "featured_collection_CHFcMc",
+        "featured_collection_7Xdy6g",
+        "featured_collection_fJLhKV",
+        "featured_collection_3wBXgj",
+        "featured_collection_YnBgfe",
+        "featured_collection_8a8jpz",
+        "featured_collection_q9YNHR",
+        "featured_collection_wBcxGJ",
+        "featured_collection_YWh8hM",
+        "featured_collection_EpbHe7",
+        "featured_collection_pLfDn8"
       ],
+      "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
+        "heading_size": "h1",
+        "image_ratio": "square",
         "columns_desktop": 5,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
         "color_scheme": "",
+        "show_view_all": false,
         "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_jnKmig": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_3mPKGp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "marinette-saint-tropez"
+          }
+        },
+        "featured_collection_atbhqM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "miho"
+          }
+        },
+        "featured_collection_KCztEd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "millefiori"
+          }
+        },
+        "featured_collection_QE7Kmx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "reisenthel"
+          }
+        },
+        "featured_collection_JVcMKg": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "rivsalt"
+          }
+        },
+        "featured_collection_UTeQM7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "rollink"
+          }
+        },
+        "featured_collection_fDRgn4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti"
+          }
+        },
+        "featured_collection_zCtEyV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "superstuff"
+          }
+        },
+        "featured_collection_XD3ryH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "vanilla-fly"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_3mPKGp",
+        "featured_collection_atbhqM",
+        "featured_collection_KCztEd",
+        "featured_collection_QE7Kmx",
+        "featured_collection_JVcMKg",
+        "featured_collection_UTeQM7",
+        "featured_collection_fDRgn4",
+        "featured_collection_zCtEyV",
+        "featured_collection_XD3ryH"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 36
@@ -343,6 +230,7 @@
   },
   "order": [
     "main",
-    "multicolumn_bQcFQg"
+    "collection_list_UnkgBe",
+    "collection_list_jnKmig"
   ]
 }
