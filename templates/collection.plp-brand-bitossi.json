@@ -129,17 +129,17 @@
         "heading_dJgdnD": {
           "type": "heading",
           "settings": {
-            "heading": "Immagine banner",
+            "heading": "",
             "heading_size": "h1"
           }
         },
         "buttons_Abd6WT": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Etichetta pulsante",
+            "button_label_1": "",
             "button_link_1": "",
             "button_style_secondary_1": false,
-            "button_label_2": "Etichetta pulsante",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -149,17 +149,16 @@
         "heading_dJgdnD",
         "buttons_Abd6WT"
       ],
-      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/bitossi-home-la-tavola-scomposta-piattino-ti-amo.jpg",
-        "image_2": "shopify://shop_images/bitossi-home-abracadabra-piatto-piano-destino.webp",
+        "image": "shopify://shop_images/Bitossi-home-posate.jpg",
+        "image_2": "shopify://shop_images/Bitossi-home-posate.webp",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "scheme-b4b5757d-11d6-44d9-9913-c59c1623590c",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
