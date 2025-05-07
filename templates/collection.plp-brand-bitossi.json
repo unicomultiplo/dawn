@@ -86,7 +86,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>La <strong>collezione</strong> si ampia ulteriormente con l’aggiunta <strong>di posate a servire, di cucchiaini e di posate da tavola</strong>. La lavorazione artigianale del metallo intrecciato e la pallina in resina in colorazioni diverse caratterizzano questa collezione senza tempo.</p><p><strong> Un richiamo nostalgico a un'eleganza rétrò</strong>, che rende ogni momento a tavola un'esperienza unica, sospesa tra il passato e il presente, dove la tradizione si rinnova per incontrare i trend attuali.<br/></p>",
+            "text": "<p>La <strong>collezione</strong> si ampia ulteriormente con l’aggiunta <strong>di posate a servire, di cucchiaini e di posate da tavola</strong>. La lavorazione artigianale del metallo intrecciato e la pallina in resina in colorazioni diverse caratterizzano questa collezione senza tempo.</p><p><strong> Un richiamo nostalgico a un'eleganza rétrò</strong>, che rende ogni momento a tavola un'esperienza unica, sospesa tra il passato e il presente, dove la tradizione si rinnova per incontrare i trend attuali.</p><h4><a href=\"/collections/posate-bitossi-home\" title=\"Posate Bitossi Home\"><strong>VEDI ORA</strong></a><br/></h4>",
             "link_label": "",
             "link": ""
           }
@@ -148,7 +148,6 @@
         "heading_dJgdnD",
         "buttons_Abd6WT"
       ],
-      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/Bitossi-home-posate_7944412b-f563-4e43-b10c-a9ce699e4366.webp",
@@ -166,6 +165,7 @@
     },
     "featured_collection_EihEex": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Bitossi Home: novità e proposte del momento",
         "heading_size": "h0",
