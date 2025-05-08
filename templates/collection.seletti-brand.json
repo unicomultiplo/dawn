@@ -236,13 +236,13 @@
         "featured_collection_LdH8WU": {
           "type": "featured_collection",
           "settings": {
-            "collection": "seletti-catalogo-prodotti-estetico-quotidiano"
+            "collection": "cosmic-diner-seletti"
           }
         },
         "featured_collection_nfRqPK": {
           "type": "featured_collection",
           "settings": {
-            "collection": "seletti-catalogo-prodotti-i-wares"
+            "collection": "circus-seletti"
           }
         }
       },
@@ -272,31 +272,31 @@
         "featured_collection_d43WTa": {
           "type": "featured_collection",
           "settings": {
-            "collection": "monsters-seletti"
+            "collection": "reflecting-mirror-seletti"
           }
         },
         "featured_collection_GGGQ7E": {
           "type": "featured_collection",
           "settings": {
-            "collection": "seletti-catalogo-prodotti-toiletpaper"
+            "collection": "seletti-seletti-magna-graecia"
           }
         },
         "featured_collection_HUmzXz": {
           "type": "featured_collection",
           "settings": {
-            "collection": "glass-from-sonny-seletti"
+            "collection": "seletti-catalogo-prodotti-diesel-living"
           }
         },
         "featured_collection_tbDtk4": {
           "type": "featured_collection",
           "settings": {
-            "collection": "meltdown-seletti"
+            "collection": "superfurniture-seletti"
           }
         },
         "featured_collection_3zDpgk": {
           "type": "featured_collection",
           "settings": {
-            "collection": "cosmic-diner-seletti"
+            "collection": "seletti-catalogo-prodotti-blow-by-job"
           }
         }
       },
@@ -326,19 +326,19 @@
         "featured_collection_hQRCFU": {
           "type": "featured_collection",
           "settings": {
-            "collection": "seletti-seletti-magna-graecia"
+            "collection": "amanita-seletti"
           }
         },
         "featured_collection_VpPQix": {
           "type": "featured_collection",
           "settings": {
-            "collection": "seletti-catalogo-prodotti-seletti-marcantonio-sending-animals"
+            "collection": "industry-collection-seletti"
           }
         },
         "featured_collection_BimPcU": {
           "type": "featured_collection",
           "settings": {
-            "collection": "seletti-catalogo-prodotti-blow-by-job"
+            "collection": "outdoor-seletti"
           }
         },
         "featured_collection_98HBbE": {
@@ -350,7 +350,7 @@
         "featured_collection_nJCpRB": {
           "type": "featured_collection",
           "settings": {
-            "collection": "reflecting-mirror-seletti"
+            "collection": "seletti-catalogo-prodotti-toiletpaper"
           }
         }
       },
@@ -380,31 +380,31 @@
         "featured_collection_Nj4YM3": {
           "type": "featured_collection",
           "settings": {
-            "collection": "outdoor-seletti"
+            "collection": "monsters-seletti"
           }
         },
         "featured_collection_B4jq9a": {
           "type": "featured_collection",
           "settings": {
-            "collection": "industry-collection-seletti"
+            "collection": "love-in-bloom-seletti"
           }
         },
         "featured_collection_CE4PDb": {
           "type": "featured_collection",
           "settings": {
-            "collection": "love-in-bloom-seletti"
+            "collection": "burnt-carpets-seletti"
           }
         },
         "featured_collection_gRRKLq": {
           "type": "featured_collection",
           "settings": {
-            "collection": "inner-glow-seletti"
+            "collection": "pixel-mirrors-seletti"
           }
         },
         "featured_collection_WUyzaY": {
           "type": "featured_collection",
           "settings": {
-            "collection": "amanita-seletti"
+            "collection": "liberty-mirrors-seletti"
           }
         }
       },
@@ -434,31 +434,31 @@
         "featured_collection_emHfqk": {
           "type": "featured_collection",
           "settings": {
-            "collection": "burnt-carpets-seletti"
+            "collection": "brainwash-seletti"
           }
         },
         "featured_collection_mMJRWf": {
           "type": "featured_collection",
           "settings": {
-            "collection": "pixel-mirrors-seletti"
+            "collection": "vitamin-seletti"
           }
         },
         "featured_collection_nj6rjd": {
           "type": "featured_collection",
           "settings": {
-            "collection": "liberty-mirrors-seletti"
+            "collection": "seletti-catalogo-prodotti-marcantonio"
           }
         },
         "featured_collection_y4EtJ7": {
           "type": "featured_collection",
           "settings": {
-            "collection": "superfurniture-seletti"
+            "collection": "seletti-catalogo-prodotti-i-wares"
           }
         },
         "featured_collection_QYGzWB": {
           "type": "featured_collection",
           "settings": {
-            "collection": "seletti-catalogo-prodotti-diesel-living"
+            "collection": "windows-lamps-seletti"
           }
         }
       },
@@ -506,13 +506,19 @@
         "featured_collection_CVYxPT": {
           "type": "featured_collection",
           "settings": {
-            "collection": "brainwash-seletti"
+            "collection": "seletti-catalogo-prodotti-seletti-marcantonio-sending-animals"
           }
         },
         "featured_collection_3GnJaA": {
           "type": "featured_collection",
           "settings": {
-            "collection": "windows-lamps-seletti"
+            "collection": "glass-from-sonny-seletti"
+          }
+        },
+        "featured_collection_Q7dNCQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "meltdown-seletti"
           }
         }
       },
@@ -521,54 +527,15 @@
         "featured_collection_JbiLat",
         "featured_collection_QRy3fV",
         "featured_collection_CVYxPT",
-        "featured_collection_3GnJaA"
+        "featured_collection_3GnJaA",
+        "featured_collection_Q7dNCQ"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "collection_list_yH8cEE": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_H7pn9D": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-marcantonio"
-          }
-        },
-        "featured_collection_3bC46q": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "vitamin-seletti"
-          }
-        },
-        "featured_collection_teya9P": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "circus-seletti"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_H7pn9D",
-        "featured_collection_3bC46q",
-        "featured_collection_teya9P"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
@@ -1068,7 +1035,6 @@
     "collection_list_YNNqw7",
     "collection_list_TjThGx",
     "collection_list_Qdy6e7",
-    "collection_list_yH8cEE",
     "multicolumn_Webjiz",
     "collection_list_pekHrY",
     "collection_list_qbh9yb",
