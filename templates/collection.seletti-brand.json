@@ -959,41 +959,41 @@
         "column_MP9iUa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-Blow_by_Job.webp",
+            "image": "shopify://shop_images/seletti-superfurniture-panca-superbench-blue-stripes.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-blow-by-job"
+            "link": "shopify://collections/superfurniture-seletti"
           }
         },
         "column_E36b7h": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-diesel_-living.webp",
+            "image": "shopify://shop_images/Vitamin-Seletti.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-diesel-living"
+            "link": "shopify://collections/vitamin-seletti"
           }
         },
         "column_8nnMib": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-i-wares.webp",
+            "image": "shopify://shop_images/Outdoor-Seletti.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-i-wares"
+            "link": "shopify://collections/outdoor-seletti"
           }
         },
         "column_WKAwtd": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-Toiletpaper_3.webp",
+            "image": "shopify://shop_images/Brainwash-Seletti.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-toiletpaper"
+            "link": "shopify://collections/brainwash-seletti"
           }
         },
         "column_H7JJW8": {
