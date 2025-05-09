@@ -353,7 +353,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><em>✔️ </em><em><strong>Curiosità.</strong></em><em> Le pentole antiaderenti permettono di cucinare senza olio o burro, rendendo i tuoi piatti più leggeri senza rinunciare al gusto.</em><br/><br/></p>",
+            "text": "<p><em>✔️ </em><em><strong>Curiosità.</strong></em><em> Le pentole antiaderenti permettono di cucinare senza olio o burro, rendendo i tuoi piatti più leggeri senza rinunciare al gusto.</em></p>",
             "link_label": "",
             "link": ""
           }
