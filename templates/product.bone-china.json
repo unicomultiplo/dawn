@@ -50,6 +50,10 @@
             "custom_liquid": "<div class=\"feedaty_widget\" data-ver=\"2021\" data-id=\"6791fcc64fd07\" data-type=\"product\" data-variant=\"Striscia-full-nologo\" data-lang=\"all\" data-gui=\"all\" data-sku=\"{{ product.id }}\" data-snippets=\"4\" style=\"padding-top: 15px; padding-bottom: 15px; margin-left: -5px;\"></div>"
           }
         },
+        "glo_color_swatch_variant_image_product_bundles_quantity_breaks_kYYRV9": {
+          "type": "shopify://apps/glo-color-swatch-variant-image/blocks/product-bundles-quantity-breaks/4394f710-096c-4021-bbde-8ebb26057c11",
+          "settings": {}
+        },
         "qty_disclaimer_6icb8M": {
           "type": "qty_disclaimer",
           "settings": {}
@@ -123,6 +127,7 @@
         "price_XLK3Aj",
         "custom_liquid_EJXmHi",
         "custom_liquid_W3qmEe",
+        "glo_color_swatch_variant_image_product_bundles_quantity_breaks_kYYRV9",
         "qty_disclaimer_6icb8M",
         "quantity_selector",
         "buy_buttons",
