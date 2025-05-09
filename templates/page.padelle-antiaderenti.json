@@ -292,7 +292,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><em>💡 </em><em><strong>Lo sapevi?</strong></em><em> Nonostante la delicatezza del suo aspetto,</em><em><strong> la Bone China è più resistente della porcellana tradizionale,</strong></em><em> il che la rende perfetta per un uso quotidiano sofisticato.</em></p>",
+            "text": "<p><em> 🔍 </em><em><strong>Lo sapevi?</strong></em><em> Le padelle antiaderenti in ceramica, oltre a essere sicure e resistenti, sono anche eco-friendly e rispettose dell’ambiente.<br/></em></p>",
             "link_label": "",
             "link": ""
           }
@@ -321,7 +321,7 @@
     "featured_collection_8kCVCG": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>Esplora ora</strong> la collezione di padelle antiaderenti Black: sicure le capaci di dare anche un tocco di classe ed eleganza alla tua cucina",
+        "title": "Esplora ora la collezione di <strong>padelle antiaderenti Blac</strong>k: sicure e capaci di dare anche un tocco di <strong>classe ed eleganza</strong> alla tua cucina",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -353,7 +353,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><em>✔️ </em><em><strong>Curiosità.</strong></em><em> il termine </em><em><strong>\"China\"</strong></em><em> non si riferisce al paese d'origine, ma è un </em><em><strong>omaggio alla porcellana orientale </strong></em><em>che ispirò gli artigiani inglesi.</em></p>",
+            "text": "<p><em>✔️ </em><em><strong>Curiosità.</strong></em><em> Le pentole antiaderenti permettono di cucinare senza olio o burro, rendendo i tuoi piatti più leggeri senza rinunciare al gusto.</em><br/><br/></p>",
             "link_label": "",
             "link": ""
           }
@@ -401,21 +401,21 @@
             "link": ""
           }
         },
-        "column_kXpwKJ": {
+        "column_tJqMte": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/padelle-antiaderenti-migliori-3.jpg",
             "title": "",
-            "text": "",
+            "text": "<h2><strong> Padelle antiaderenti e salute: cosa c’è da sapere davvero  </strong></h2><h3><strong>Le padelle antiaderenti moderne sono sicure?</strong></h3><p><br/><strong>Assolutamente si.</strong> Grazie all’eliminazione del PFOA e alle rigorose normative europee, i prodotti attuali sono sicuri per l’uso alimentare. Le ricerche confermano che le padelle di buona qualità non rappresentano un rischio, a patto che vengano utilizzate correttamente: è importante non superare i 260°C, soprattutto nel caso del Teflon. Piccoli graffi superficiali non compromettono la sicurezza.</p><h3></h3><h3><strong>Quando una padella antiaderente può diventare dannosa</strong></h3><p><br/>Se il rivestimento antiaderente è gravemente danneggiato o la padella è stata surriscaldata più volte, può diventare pericolosa. In queste condizioni, infatti, potrebbe rilasciare particelle o fumi durante la cottura, potenzialmente nocivi per la salute. In casi del genere, la scelta più sicura è sostituire la padella senza esitazioni.</p><h3><strong>Come usare correttamente un padella antiaderente senza rischi</strong><br/><br/>.</h3><p></p><p><strong>Rispettando questi  piccoli accorgimenti le padelle antiaderenti sono un ottimo alleato in cucina!</strong></p><p></p>",
             "link_label": "",
-            "link": "shopify://collections/piatti-in-bone-china"
+            "link": ""
           }
         }
       },
       "block_order": [
         "column_ChXLxh",
         "column_zAVLFP",
-        "column_kXpwKJ"
+        "column_tJqMte"
       ],
       "settings": {
         "title": "<strong>Qual è il miglior rivestimento antiaderente per le tue esigenze?</strong>",
@@ -447,6 +447,7 @@
       "block_order": [
         "text_NhynLD"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
