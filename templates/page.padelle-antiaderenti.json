@@ -406,7 +406,7 @@
           "settings": {
             "image": "shopify://shop_images/padelle-antiaderenti-migliori-3.jpg",
             "title": "",
-            "text": "<h2><strong> Padelle antiaderenti e salute: cosa c’è da sapere davvero  </strong></h2><h3><strong>Le padelle antiaderenti moderne sono sicure?</strong></h3><p><br/><strong>Assolutamente si.</strong> Grazie all’eliminazione del PFOA e alle rigorose normative europee, i prodotti attuali sono sicuri per l’uso alimentare. Le ricerche confermano che le padelle di buona qualità non rappresentano un rischio, a patto che vengano utilizzate correttamente: è importante non superare i 260°C, soprattutto nel caso del Teflon. Piccoli graffi superficiali non compromettono la sicurezza.</p><h3></h3><h3><strong>Quando una padella antiaderente può diventare dannosa</strong></h3><p><br/>Se il rivestimento antiaderente è gravemente danneggiato o la padella è stata surriscaldata più volte, può diventare pericolosa. In queste condizioni, infatti, potrebbe rilasciare particelle o fumi durante la cottura, potenzialmente nocivi per la salute. In casi del genere, la scelta più sicura è sostituire la padella senza esitazioni.</p><h3><strong>Come usare correttamente un padella antiaderente senza rischi</strong></h3><h3></h3><ul><li> <strong>Regole base da seguire:</strong> non surriscaldarla mai oltre i 260°C, evita fiamme troppo alte e non lasciarla vuota sul fuoco. Usa solo utensili in legno, silicone o plastica resistente al calore e mai spugne abrasive durante il lavaggio.</li><li><strong>Come conservarla al meglio:</strong> non impilarla direttamente con altre pentole; usa un panno tra una padella e l’altra per evitare graffi. Dopo il lavaggio, asciugala sempre bene per prevenire l’usura del rivestimento.</li><li><h3><strong>Buone pratiche quotidiane:</strong> cucinare a fuoco medio-basso, lavarla a mano con detergenti delicati e riporla con cura sono piccoli gesti che fanno durare a lungo la tua padella e ne preservano le proprietà antiaderenti.<br/><br/>.</h3></li></ul><p></p><p><strong>Rispettando questi  semplici accorgimenti le padelle antiaderenti sono un ottimo alleato in cucina!</strong></p><p></p>",
+            "text": "<h2><strong>Padelle antiaderenti e salute: cosa c’è da sapere davvero  </strong></h2><h3><strong>Le padelle antiaderenti moderne sono sicure?</strong></h3><p><br/><strong>Assolutamente si.</strong> Grazie all’eliminazione del PFOA e alle rigorose normative europee, i prodotti attuali sono sicuri per l’uso alimentare. Le ricerche confermano che le padelle di buona qualità non rappresentano un rischio, a patto che vengano utilizzate correttamente: è importante non superare i 260°C, soprattutto nel caso del Teflon. Piccoli graffi superficiali non compromettono la sicurezza.</p><h3></h3><h3><strong>Quando una padella antiaderente può diventare dannosa</strong></h3><p><br/>Se il rivestimento antiaderente è gravemente danneggiato o la padella è stata surriscaldata più volte, può diventare pericolosa. In queste condizioni, infatti, potrebbe rilasciare particelle o fumi durante la cottura, potenzialmente nocivi per la salute. In casi del genere, la scelta più sicura è sostituire la padella senza esitazioni.</p><h3><strong>Come usare correttamente un padella antiaderente senza rischi</strong></h3><h3></h3><ul><li> <strong>Regole base da seguire:</strong> non surriscaldarla mai oltre i 260°C, evita fiamme troppo alte e non lasciarla vuota sul fuoco. Usa solo utensili in legno, silicone o plastica resistente al calore e mai spugne abrasive durante il lavaggio.</li><li><strong>Come conservarla al meglio:</strong> non impilarla direttamente con altre pentole; usa un panno tra una padella e l’altra per evitare graffi. Dopo il lavaggio, asciugala sempre bene per prevenire l’usura del rivestimento.</li><li><h3><strong>Buone pratiche quotidiane:</strong> cucinare a fuoco medio-basso, lavarla a mano con detergenti delicati e riporla con cura sono piccoli gesti che fanno durare a lungo la tua padella e ne preservano le proprietà antiaderenti.<br/><br/>.</h3></li></ul><p></p><p><strong>Rispettando questi  semplici accorgimenti le padelle antiaderenti sono un ottimo alleato in cucina!</strong></p><p></p>",
             "link_label": "",
             "link": ""
           }
@@ -490,6 +490,17 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_aAFBXa": {
+      "type": "rich-text",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn_kiWfNN": {
       "type": "multicolumn",
       "settings": {
@@ -509,54 +520,20 @@
         "padding_bottom": 0
       }
     },
-    "rich_text_aAFBXa": {
-      "type": "rich-text",
-      "blocks": {
-        "text_itAeRa": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Le padelle antiaderenti moderne sono sicure se utilizzate correttamente. L'eliminazione del <strong>PFOA</strong> e le stringenti normative europee garantiscono prodotti sicuri per il contatto alimentare.</p><h3><strong>Sicurezza certificata: cosa dicono ricerche e normative</strong></h3><p>Le attuali ricerche e normative confermano la sicurezza delle padelle antiaderenti di buona qualità entro i limiti di temperatura raccomandati (non superare i 260°C per il Teflon). Piccoli graffi superficiali non compromettono la sicurezza, a meno che il rivestimento non si stacchi.</p><h3><strong> Quando una padella antiaderente può diventare dannosa</strong></h3><p>Un rivestimento gravemente danneggiato o il surriscaldamento eccessivo possono potenzialmente rilasciare particelle o fumi. È fondamentale evitare prodotti economici senza certificazioni e sostituire le padelle con rivestimenti molto usurati.</p><h3><strong> Come usare correttamente una padella antiaderente senza rischi</strong></h3><p>Non surriscaldare mai la padella vuota, usa utensili in silicone, plastica o legno, pulisci con spugne morbide ed evita shock termici.</p>"
-          }
-        },
-        "button_9TwHya": {
-          "type": "button",
-          "settings": {
-            "button_label": "Scopri Ora!",
-            "button_link": "shopify://collections/piatti-in-bone-china",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "text_itAeRa",
-        "button_9TwHya"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "image_with_text_QcgJTF": {
       "type": "image-with-text",
       "blocks": {
         "heading_aAYjVx": {
           "type": "heading",
           "settings": {
-            "heading": "KnIndustrie",
+            "heading": "Buone pratiche d'uso per proteggere il rivestimento",
             "heading_size": "h1"
           }
         },
         "text_brtDXa": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>KnIndustrie</strong> coniuga <strong>creatività</strong>, dettagli dal sapore <strong>vintage</strong> e un’eleganza senza tempo, dando vita a collezioni in <strong>bone china</strong> perfette per le occasioni speciali.</p><p><strong>Sophie e Reggia </strong>– Total White, linee moderne e sofisticate. Collezioni perfette per chi ama il minimalismo e l’innovazione nel design.</p><p><strong>ShabbyChic </strong>– Design ispirato alle stoviglie d’epoca.</p><p><strong>Armonia-Oro</strong> –  Perfetta per una tavola sofisticata con dettagli dorati.</p><p><strong>Asimmetrico </strong>– Innovativa e pensata in collaborazione con lo chef Davide Oldani.</p>",
+            "text": "<p><strong>Perché è consigliato usare utensili in legno o silicone?</strong> Perché non graffiano il rivestimento antiaderente, preservando la superficie e allungando la vita della padella.<br/><br/><strong>Cosa succede se si graffia il rivestimento?</strong>Il rivestimento perde efficacia, il cibo può iniziare ad attaccarsi e, nei casi peggiori, possono rilasciarsi particelle o sostanze potenzialmente nocive. Se i graffi sono profondi, meglio sostituire la padella<br/><br/><strong>Perché non va mai surriscaldata a vuoto?</strong><br/>Riscaldarla senza cibo può danneggiare il rivestimento e causare il rilascio di fumi potenzialmente nocivi.</p><p> <strong>Perché farla raffreddare prima di lavarla?</strong><br/>Il passaggio brusco dal caldo al freddo può deformare la padella e rovinare il rivestimento. Meglio aspettare qualche minuto!</p>",
             "text_style": "body"
           }
         },
