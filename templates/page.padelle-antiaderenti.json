@@ -39,7 +39,7 @@
     "image_banner_VC4GDe": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/Padelle-antiarenti.webp",
+        "image": "shopify://shop_images/Padelle-antiaderenti-knindustrie.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -406,7 +406,7 @@
           "settings": {
             "image": "shopify://shop_images/padelle-antiaderenti-migliori-3.jpg",
             "title": "",
-            "text": "<h2><strong> Padelle antiaderenti e salute: cosa c’è da sapere davvero  </strong></h2><h3><strong>Le padelle antiaderenti moderne sono sicure?</strong></h3><p><br/><strong>Assolutamente si.</strong> Grazie all’eliminazione del PFOA e alle rigorose normative europee, i prodotti attuali sono sicuri per l’uso alimentare. Le ricerche confermano che le padelle di buona qualità non rappresentano un rischio, a patto che vengano utilizzate correttamente: è importante non superare i 260°C, soprattutto nel caso del Teflon. Piccoli graffi superficiali non compromettono la sicurezza.</p><h3></h3><h3><strong>Quando una padella antiaderente può diventare dannosa</strong></h3><p><br/>Se il rivestimento antiaderente è gravemente danneggiato o la padella è stata surriscaldata più volte, può diventare pericolosa. In queste condizioni, infatti, potrebbe rilasciare particelle o fumi durante la cottura, potenzialmente nocivi per la salute. In casi del genere, la scelta più sicura è sostituire la padella senza esitazioni.</p><h3><strong>Come usare correttamente un padella antiaderente senza rischi</strong><br/><br/>.</h3><p></p><p><strong>Rispettando questi  piccoli accorgimenti le padelle antiaderenti sono un ottimo alleato in cucina!</strong></p><p></p>",
+            "text": "<h2><strong> Padelle antiaderenti e salute: cosa c’è da sapere davvero  </strong></h2><h3><strong>Le padelle antiaderenti moderne sono sicure?</strong></h3><p><br/><strong>Assolutamente si.</strong> Grazie all’eliminazione del PFOA e alle rigorose normative europee, i prodotti attuali sono sicuri per l’uso alimentare. Le ricerche confermano che le padelle di buona qualità non rappresentano un rischio, a patto che vengano utilizzate correttamente: è importante non superare i 260°C, soprattutto nel caso del Teflon. Piccoli graffi superficiali non compromettono la sicurezza.</p><h3></h3><h3><strong>Quando una padella antiaderente può diventare dannosa</strong></h3><p><br/>Se il rivestimento antiaderente è gravemente danneggiato o la padella è stata surriscaldata più volte, può diventare pericolosa. In queste condizioni, infatti, potrebbe rilasciare particelle o fumi durante la cottura, potenzialmente nocivi per la salute. In casi del genere, la scelta più sicura è sostituire la padella senza esitazioni.</p><h3><strong>Come usare correttamente un padella antiaderente senza rischi</strong></h3><h3></h3><ul><li> <strong>Regole base da seguire:</strong> non surriscaldarla mai oltre i 260°C, evita fiamme troppo alte e non lasciarla vuota sul fuoco. Usa solo utensili in legno, silicone o plastica resistente al calore e mai spugne abrasive durante il lavaggio.</li><li><strong>Come conservarla al meglio:</strong> non impilarla direttamente con altre pentole; usa un panno tra una padella e l’altra per evitare graffi. Dopo il lavaggio, asciugala sempre bene per prevenire l’usura del rivestimento.</li><li><h3><strong>Buone pratiche quotidiane:</strong> cucinare a fuoco medio-basso, lavarla a mano con detergenti delicati e riporla con cura sono piccoli gesti che fanno durare a lungo la tua padella e ne preservano le proprietà antiaderenti.<br/><br/>.</h3></li></ul><p></p><p><strong>Rispettando questi  semplici accorgimenti le padelle antiaderenti sono un ottimo alleato in cucina!</strong></p><p></p>",
             "link_label": "",
             "link": ""
           }
@@ -464,7 +464,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><em>🔎</em><em><strong> Il Segreto della Bone China?</strong></em></p><p><em><strong>Cottura ad alte temperature</strong></em><em>: viene sottoposta a una fusione tra </em><em><strong>1200 e 1400°C</strong></em><em>, che vetrifica i materiali, rendendola quasi vetrosa nell’aspetto e nella consistenza. Questo le conferisce </em><em><strong>lucentezza, resistenza e traslucenza</strong></em><em>.</em></p>",
+            "text": "<p>📌 <strong>Il segreto delle pentole antiaderenti?</strong> Zero grassi, niente cibo che si attacca e pulizia facile: più gusto, meno fatica!</p>",
             "link_label": "",
             "link": ""
           }
@@ -493,7 +493,7 @@
     "multicolumn_kiWfNN": {
       "type": "multicolumn",
       "settings": {
-        "title": "<strong> Padelle antiaderenti e salute: cosa c’è da sapere davvero</strong>",
+        "title": "<strong>Come far durare più a lungo una padella antiaderente</strong>",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -948,8 +948,8 @@
     "multicolumn_KKQxqM",
     "rich_text_73PwUA",
     "multicolumn_wVxtVr",
-    "multicolumn_kiWfNN",
     "rich_text_aAFBXa",
+    "multicolumn_kiWfNN",
     "image_with_text_QcgJTF",
     "image_with_text_PgCzUL",
     "image_with_text_mqpwPK",
