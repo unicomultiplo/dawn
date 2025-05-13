@@ -731,9 +731,9 @@
         "collapsible_row_UBEqJr": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Quali padelle è meglio evitare (e per quale motivo)",
+            "icon": "fire",
+            "row_content": "<p>Le padelle e le pentole di alta qualità oggi disponibili sul mercato sono realizzate con materiali selezionati per garantire non solo prestazioni elevate in cucina, ma anche il rispetto delle proprietà naturali degli alimenti. Alcuni di questi materiali affondano le radici nella tradizione, come la ghisa o la ceramica, ma sono stati perfezionati grazie alla tecnologia per essere più sicuri, resistenti e durevoli. Altri, invece, sono materiali innovativi che hanno trovato nuova applicazione nel mondo della cucina per offrire praticità e salute.</p><p>Scegliere le pentole giuste significa migliorare la propria esperienza ai fornelli e contribuire al proprio benessere. Che si tratti della solidità della ghisa o della praticità dell’antiaderente, è fondamentale fare una scelta consapevole, che risponda alle esigenze personali senza compromettere la salute.</p><p><strong>In generale, è bene evitare utensili con rivestimenti antiaderenti non certificati o contenenti sostanze potenzialmente nocive come BPA, PTFE, PFOA, PFAS, nichel o alluminio non schermato</strong>. Al contrario, è consigliabile orientarsi verso materiali sicuri e affidabili come acciaio inox, ghisa, pyrex, ceramica, titanio o altri materiali tecnologicamente avanzati progettati per essere sani e durevoli nel tempo.</p><p></p>",
             "page": ""
           }
         }
@@ -768,7 +768,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3><strong>Cosa succede se si graffia una padella antiaderente?</strong></h3><p>Quando una padella antiaderente si graffia, il rivestimento in Teflon (PTFE) può deteriorarsi, riducendo l’efficacia antiaderente e causando l’adesione dei cibi durante la cottura. Sebbene l'ingestione occasionale di piccole particelle di Teflon non sia ritenuta pericolosa, poiché il materiale è chimicamente inerte e non viene assorbito dall’organismo, i graffi profondi possono esporre il metallo sottostante, come l’alluminio, che potrebbe interagire con gli alimenti.<br/><br/></p><h3><strong>Qual è la vera differenza tra padelle in teflon e padelle in ceramica?</strong></h3><p></p><p></p><p></p><h3><strong>Quali padelle è meglio evitare (e per quale motivo) </strong></h3><p>Le padelle e le pentole di alta qualità oggi disponibili sul mercato sono realizzate con materiali selezionati per garantire non solo prestazioni elevate in cucina, ma anche il rispetto delle proprietà naturali degli alimenti. Alcuni di questi materiali affondano le radici nella tradizione, come la ghisa o la ceramica, ma sono stati perfezionati grazie alla tecnologia per essere più sicuri, resistenti e durevoli. Altri, invece, sono materiali innovativi che hanno trovato nuova applicazione nel mondo della cucina per offrire praticità e salute.</p><p>Scegliere le pentole giuste significa migliorare la propria esperienza ai fornelli e contribuire al proprio benessere. Che si tratti della solidità della ghisa o della praticità dell’antiaderente, è fondamentale fare una scelta consapevole, che risponda alle esigenze personali senza compromettere la salute.</p><p><strong>In generale, è bene evitare utensili con rivestimenti antiaderenti non certificati o contenenti sostanze potenzialmente nocive come BPA, PTFE, PFOA, PFAS, nichel o alluminio non schermato</strong>. Al contrario, è consigliabile orientarsi verso materiali sicuri e affidabili come acciaio inox, ghisa, pyrex, ceramica, titanio o altri materiali tecnologicamente avanzati progettati per essere sani e durevoli nel tempo.</p><p></p>",
+            "text": "<p></p><p></p><h3></h3><p></p>",
             "link_label": "",
             "link": ""
           }
@@ -793,7 +793,7 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
         "button_link": "shopify://collections/piatti-in-bone-china",
