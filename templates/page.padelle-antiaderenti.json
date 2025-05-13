@@ -11,29 +11,9 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "custom_css": [],
       "settings": {
         "padding_top": 20,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_xxGrrA": {
-      "type": "multicolumn",
-      "settings": {
-        "title": "Padelle Antiaderenti: guida completa per scegliere il modello giusto per la tua cucina",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
         "padding_bottom": 0
       }
     },
@@ -84,6 +64,49 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "multicolumn_xxGrrA": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Tp6qBM": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DhWp9r": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><strong>La padella antiaderente è un alleato insostituibile in cucina</strong>,  ma <strong>come orientarsi</strong> nella giungla di materiali e rivestimenti <strong>per scegliere la padella perfetta</strong>, <strong>sicura e duratura? </strong>Questa guida completa ti accompagnerà alla scoperta del mondo delle padelle antiaderenti, fornendoti gli strumenti per un acquisto consapevole e una cucina senza stress.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Tp6qBM",
+        "column_DhWp9r"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multicolumn_6fXjNw": {
@@ -143,7 +166,7 @@
         "column_bnrgcr"
       ],
       "settings": {
-        "title": "<strong>La padella antiaderente è un alleato insostituibile in cucina</strong>,  ma <strong>come orientarsi</strong> nella giungla di materiali e rivestimenti <strong>per scegliere la padella perfetta</strong>, <strong>sicura e duratura?</strong> Questa guida completa ti accompagnerà alla scoperta del mondo delle padelle antiaderenti, fornendoti gli strumenti per un acquisto consapevole e una cucina senza stress.",
+        "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -155,7 +178,7 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -166,7 +189,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>📌<strong> </strong><em><strong>Cosa sono le padelle antiaderenti?</strong></em><em> Le padelle antiaderenti sono perfette per cucinare con meno olio, evitando che il cibo si attacchi. Il loro segreto? Un rivestimento speciale che garantisce cottura uniforme e pulizia facile.</em></p>",
+            "text": "<p>🔥 <strong>Il segreto per una cucina sana, leggera e senza stress!</strong><em> </em></p><p><em>Le padelle antiaderenti sono perfette per cucinare con meno olio, evitando che il cibo si attacchi. Il loro segreto? Un rivestimento speciale che garantisce cottura uniforme e pulizia facile.</em></p>",
             "link_label": "",
             "link": ""
           }
@@ -205,7 +228,7 @@
         "text_yatCWr": {
           "type": "text",
           "settings": {
-            "text": "<p>Le prestazioni e la durata di una padella antiaderente dipendono dalla combinazione di materiali del corpo e del rivestimento. Ecco i principali protagonisti:<br/><br/></p><p></p><h3><strong>Principali rivestimenti antiaderenti:</strong></h3><ul><li><strong>PTFE (Teflon):</strong> Il pioniere dell'antiaderenza, oggi disponibile in formulazioni sicure senza PFOA. Offre un'ottima antiaderenza ma è sensibile al calore elevato e ai graffi.</li><li><strong>Ceramica:</strong> A base di materiali inorganici, apprezzata per la resistenza ai graffi leggeri e per essere priva di PTFE e PFOA. L'antiaderenza può diminuire leggermente nel tempo.</li><li><strong>Titanio:</strong> Spesso utilizzato per rinforzare altri rivestimenti, aumenta notevolmente la resistenza all'usura e ai graffi.</li></ul><p><strong>Pietra/Granito:</strong> Rivestimenti a base di PTFE o ceramica con aggiunta di particelle minerali per maggiore resistenza all'abrasione e un aspetto distintivo.</p><h3><strong>Dagli albori al futuro: l'evoluzione della padella antiaderente</strong></h3><p>Nata dalla scoperta del PTFE negli anni '30, la padella antiaderente ha rivoluzionato la cucina. Le prime versioni in Teflon hanno semplificato la cottura e la pulizia. Le successive preoccupazioni sul PFOA hanno spinto la ricerca verso <strong>nuove formulazioni di PTFE senza PFOA</strong> e <strong>rivestimenti alternativi</strong> come la ceramica, il titanio e le finiture effetto pietra. Oggi, l'innovazione continua a migliorare la sicurezza, la durabilità e le prestazioni delle padelle antiaderenti.<br/><br/></p>",
+            "text": "",
             "text_style": "body"
           }
         },
@@ -748,9 +771,9 @@
   },
   "order": [
     "main",
-    "multicolumn_xxGrrA",
     "image_banner_VC4GDe",
     "multicolumn_VR4EHF",
+    "multicolumn_xxGrrA",
     "multicolumn_6fXjNw",
     "multicolumn_eQWbbm",
     "image_with_text_LCL7jb",
