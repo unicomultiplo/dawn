@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "padding_top": 20,
@@ -165,7 +166,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>📌<strong> </strong><em><strong>Cosa sono le padelle antiaderenti?</strong></em><em> Le padelle antiaderenti sono perfette per cucinare con meno olio, evitando che il cibo si attacchi. Il loro segreto? Un rivestimento speciale che garantisce cottura uniforme e pulizia facile.</em></p><p></p><p><em>####OPPURE</em></p><p><br/>📌 <strong>Qual è il segreto delle padelle antiaderenti?</strong> Il rivestimento antiaderente: una superficie speciale che impedisce al cibo di attaccarsi, facilita la cottura leggera e rende la pulizia un gioco da ragazzi.</p><p></p><p>### OPPURE</p><p><br/>📌 <strong>Cosa sapere delle pentole antiaderenti? I</strong>l loro segreto è nel rivestimento: una superficie liscia e resistente che evita che il cibo si attacchi, permette di cucinare con meno grassi e si pulisce in un attimo.<br/><br/><br/><br/></p>",
+            "text": "<p>📌<strong> </strong><em><strong>Cosa sono le padelle antiaderenti?</strong></em><em> Le padelle antiaderenti sono perfette per cucinare con meno olio, evitando che il cibo si attacchi. Il loro segreto? Un rivestimento speciale che garantisce cottura uniforme e pulizia facile.</em></p>",
             "link_label": "",
             "link": ""
           }
@@ -429,7 +430,7 @@
       ],
       "settings": {
         "title": "<strong>Qual è il miglior rivestimento antiaderente per le tue esigenze?</strong>",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
