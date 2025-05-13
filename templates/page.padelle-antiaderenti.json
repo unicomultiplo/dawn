@@ -401,12 +401,21 @@
             "link": ""
           }
         },
+        "column_t9z8nz": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h2><strong>Padelle antiaderenti e salute: cosa c’è da sapere davvero  </strong></h2>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_tJqMte": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/padelle-antiaderenti-migliori-3.jpg",
             "title": "",
-            "text": "<h2><strong>Padelle antiaderenti e salute: cosa c’è da sapere davvero  </strong></h2><h3><strong>Le padelle antiaderenti moderne sono sicure?</strong></h3><p><strong>Assolutamente si.</strong> Grazie all’eliminazione del PFOA e alle rigorose normative europee, i prodotti attuali sono sicuri per l’uso alimentare. Le ricerche confermano che le padelle di buona qualità non rappresentano un rischio, a patto che vengano utilizzate correttamente: è importante non superare i 260°C, soprattutto nel caso del Teflon. Piccoli graffi superficiali non compromettono la sicurezza.</p><h3></h3><h3><strong>Quando una padella antiaderente può diventare dannosa</strong></h3><p>Se il rivestimento antiaderente è gravemente danneggiato o la padella è stata surriscaldata più volte, può diventare pericolosa. In queste condizioni, infatti, potrebbe rilasciare particelle o fumi durante la cottura, potenzialmente nocivi per la salute. In casi del genere, la scelta più sicura è sostituire la padella senza esitazioni.</p><p></p><h3><strong>Come usare correttamente un padella antiaderente senza rischi</strong></h3><h3></h3><p><strong>Regole base da seguire:</strong> non surriscaldarla mai oltre i 260°C, evita fiamme troppo alte e non lasciarla vuota sul fuoco. Usa solo utensili in legno, silicone o plastica resistente al calore e mai spugne abrasive durante il lavaggio.</p><p><strong>Come conservarla al meglio:</strong> non impilarla direttamente con altre pentole; usa un panno tra una padella e l’altra per evitare graffi. Dopo il lavaggio, asciugala sempre bene per prevenire l’usura del rivestimento.</p><p><strong>Buone pratiche quotidiane:</strong> cucinare a fuoco medio-basso, lavarla a mano con detergenti delicati e riporla con cura sono piccoli gesti che fanno durare a lungo la tua padella e ne preservano le proprietà antiaderenti.<br/><br/>.<strong>Rispettando questi  semplici accorgimenti le padelle antiaderenti sono un ottimo alleato in cucina!</strong></p><p></p>",
+            "text": "<h3><strong>Le padelle antiaderenti moderne sono sicure?</strong></h3><p><strong>Assolutamente si.</strong> Grazie all’eliminazione del PFOA e alle rigorose normative europee, i prodotti attuali sono sicuri per l’uso alimentare. Le ricerche confermano che le padelle di buona qualità non rappresentano un rischio, a patto che vengano utilizzate correttamente: è importante non superare i 260°C, soprattutto nel caso del Teflon. Piccoli graffi superficiali non compromettono la sicurezza.</p><h3></h3><h3><strong>Quando una padella antiaderente può diventare dannosa</strong></h3><p>Se il rivestimento antiaderente è gravemente danneggiato o la padella è stata surriscaldata più volte, può diventare pericolosa. In queste condizioni, infatti, potrebbe rilasciare particelle o fumi durante la cottura, potenzialmente nocivi per la salute. In casi del genere, la scelta più sicura è sostituire la padella senza esitazioni.</p><p></p><h3><strong>Come usare correttamente un padella antiaderente senza rischi</strong></h3><h3></h3><p><strong>Regole base da seguire:</strong> non surriscaldarla mai oltre i 260°C, evita fiamme troppo alte e non lasciarla vuota sul fuoco. Usa solo utensili in legno, silicone o plastica resistente al calore e mai spugne abrasive durante il lavaggio.</p><p><strong>Come conservarla al meglio:</strong> non impilarla direttamente con altre pentole; usa un panno tra una padella e l’altra per evitare graffi. Dopo il lavaggio, asciugala sempre bene per prevenire l’usura del rivestimento.</p><p><strong>Buone pratiche quotidiane:</strong> cucinare a fuoco medio-basso, lavarla a mano con detergenti delicati e riporla con cura sono piccoli gesti che fanno durare a lungo la tua padella e ne preservano le proprietà antiaderenti.<br/><br/><strong>Rispettando questi  semplici accorgimenti le padelle antiaderenti sono un ottimo alleato in cucina!</strong></p><p></p>",
             "link_label": "",
             "link": ""
           }
@@ -415,6 +424,7 @@
       "block_order": [
         "column_ChXLxh",
         "column_zAVLFP",
+        "column_t9z8nz",
         "column_tJqMte"
       ],
       "settings": {
@@ -556,147 +566,6 @@
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_PgCzUL": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_BCb7N7": {
-          "type": "heading",
-          "settings": {
-            "heading": "Bitossi Home",
-            "heading_size": "h1"
-          }
-        },
-        "text_LeRNt7": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Bitossi rappresenta l’incontro perfetto tra <strong>tradizione e modernità</strong>, offrendo collezioni di <strong>Bone China</strong> dal design esclusivo e senza tempo. Ogni linea è pensata per chi desidera una tavola elegante e raffinata, ideale sia per occasioni speciali che per l’uso quotidiano.</p><p><strong>Minimal </strong>– Linee pulite e raffinate.</p><p><strong>Bon Ton</strong> – Equilibrio tra semplicità ed eleganza senza tempo</p>",
-            "text_style": "body"
-          }
-        },
-        "button_dVbhGN": {
-          "type": "button",
-          "settings": {
-            "button_label": "Scopri i nostri servizi Bitossi Home",
-            "button_link": "https://www.unicoemultiplo.com/collections/piatti-in-bone-china?filter.p.vendor=Bitossi+Home&sort_by=manual&#shopify-section-template--22267419984137__product-grid",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_BCb7N7",
-        "text_LeRNt7",
-        "button_dVbhGN"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Bitossi-Home-Bon-Ton-Vassoio-ovale-piccolo-ln-Bone-China_3.webp",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_mqpwPK": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_Dc8zcE": {
-          "type": "heading",
-          "settings": {
-            "heading": "Seletti",
-            "heading_size": "h1"
-          }
-        },
-        "text_Y84r3N": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Seletti</strong> si distingue per la sua vena innovativa e la capacità di sperimentare con materiali pregiati come la <strong>bone china</strong>, reinterpretandoli in chiave contemporanea.</p><p><strong>Hybrid </strong>–  accostamenti<strong> audaci </strong>tra decorazioni <strong>orientali e occidentali</strong>, ideali per una tavola dal design <strong>unico </strong>e artistico.</p><p></p>",
-            "text_style": "body"
-          }
-        },
-        "button_xh6e8P": {
-          "type": "button",
-          "settings": {
-            "button_label": "Collezione Hybrid",
-            "button_link": "https://www.unicoemultiplo.com/collections/seletti-catalogo-prodotti-hybrid?filter.p.tag=Bone+China&#shopify-section-template--22267420410121__product-grid",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_Dc8zcE",
-        "text_Y84r3N",
-        "button_xh6e8P"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Natale-con-i-piatti-Seletti-Hybrid.webp",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_abbqp3": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_9L7RER": {
-          "type": "heading",
-          "settings": {
-            "heading": "Brandani",
-            "heading_size": "h1"
-          }
-        },
-        "text_MgMJMD": {
-          "type": "text",
-          "settings": {
-            "text": "<p>La N<strong>ew Bone China</strong> è la versione più accessibile della classica Bone China: pur conservandone eleganza e traslucidità, utilizza meno cenere d’ossa (o ingredienti alternativi), offrendo così un’ottima resa estetica a prezzi più contenuti. <br/><strong>Brandani</strong>, sempre attenta al budget, la consiglia per chi desidera tutto il fascino di una porcellana raffinata con un miglior rapporto qualità-prezzo.</p><p><strong>Total White e Queen </strong> collezioni in <strong>New Bone China</strong>, perfette per chi desidera <strong>eleganza e qualità a un prezzo competitivo</strong>.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_93rdTB": {
-          "type": "button",
-          "settings": {
-            "button_label": "New bone China",
-            "button_link": "https://www.unicoemultiplo.com/collections/piatti-in-bone-china?filter.p.vendor=Brandani&sort_by=manual&#shopify-section-template--22267419984137__product-grid",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_9L7RER",
-        "text_MgMJMD",
-        "button_93rdTB"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Brandani-Queen-piatti-bone-china.webp",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -884,9 +753,6 @@
     "rich_text_aAFBXa",
     "multicolumn_kiWfNN",
     "image_with_text_QcgJTF",
-    "image_with_text_PgCzUL",
-    "image_with_text_mqpwPK",
-    "image_with_text_abbqp3",
     "multicolumn_tim6dE",
     "rich_text_6qfX7g",
     "multicolumn_HpnGYB",
