@@ -415,8 +415,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/padelle-antiaderenti-migliori.webp",
-            "title": "",
-            "text": "<h3><strong>Teflon: leggerezza e antiaderenza a un prezzo accessibile</strong></h3><p>Il <strong>PTFE (Teflon)</strong> rimane una scelta popolare per la sua eccellente antiaderenza e convenienza. Ideale per cotture delicate a fuoco medio-basso, richiede attenzione nell'uso di utensili e nell'evitare il surriscaldamento oltre i 260°C.</p><p></p><h3><strong>Ceramica: l'alternativa Eco-Friendly per cotture delicate</strong></h3><p>Il rivestimento ceramico, privo di PTFE e PFOA, offre una buona antiaderenza e resistenza ai graffi leggeri. Perfetto per cotture a fuoco medio e per chi cerca un'opzione più ecologica, richiede cura per evitare shock termici e temperature eccessive.</p><p></p><h3><strong>Titanio, Marmo, Granito: quando la resistenza fa la differenza</strong></h3><p>Questi rivestimenti rinforzati offrono maggiore resistenza all'usura e ai graffi rispetto al Teflon e alla ceramica base. Il <strong>titanio</strong> è ideale per un uso frequente e alta durabilità, mentre i rivestimenti <strong>marmo/granito</strong> offrono un buon compromesso tra prestazioni e prezzo per un uso più intenso.</p><p></p><h2><strong>*modificare h3 rispetto indicazioni  andrea</strong></h2><h2><strong>### sarebbe  da inserire la tabella ###</strong></h2>",
+            "title": "<strong>Teflon: leggerezza e antiaderenza a un prezzo accessibile</strong>",
+            "text": "<p>Il <strong>PTFE (Teflon)</strong> rimane una scelta popolare per la sua eccellente antiaderenza e convenienza. Ideale per cotture delicate a fuoco medio-basso, richiede attenzione nell'uso di utensili e nell'evitare il surriscaldamento oltre i 260°C.</p>",
             "link_label": "",
             "link": ""
           }
@@ -424,8 +424,8 @@
         "column_WxDANE": {
           "type": "column",
           "settings": {
-            "title": "Colonna",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "title": "<strong>Ceramica: l'alternativa Eco-Friendly per cotture delicate</strong>",
+            "text": "<p>Il rivestimento ceramico, privo di PTFE e PFOA, offre una buona antiaderenza e resistenza ai graffi leggeri. Perfetto per cotture a fuoco medio e per chi cerca un'opzione più ecologica, richiede cura per evitare shock termici e temperature eccessive.</p><h2></h2>",
             "link_label": "",
             "link": ""
           }
@@ -433,8 +433,8 @@
         "column_UGrx7L": {
           "type": "column",
           "settings": {
-            "title": "Colonna",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "title": "<strong>Titanio, Marmo, Granito: quando la resistenza fa la differenza</strong>",
+            "text": "<p>Questi rivestimenti rinforzati offrono maggiore resistenza all'usura e ai graffi rispetto al Teflon e alla ceramica base. Il <strong>titanio</strong> è ideale per un uso frequente e alta durabilità, mentre i rivestimenti <strong>marmo/granito</strong> offrono un buon compromesso tra prestazioni e prezzo per un uso più intenso.</p><p></p><h2><strong>*modificare h3 rispetto indicazioni  andrea</strong></h2><h2><strong>### sarebbe  da inserire la tabella ###</strong></h2>",
             "link_label": "",
             "link": ""
           }
