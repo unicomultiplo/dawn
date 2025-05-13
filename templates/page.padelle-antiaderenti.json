@@ -118,7 +118,7 @@
             "title": "<strong>Come riconoscere una padella antiaderente di qualità</strong>",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola?#shopify-section-template--23360006586633__image_with_text_LCL7jb"
+            "link": "https://www.unicoemultiplo.com/pages/padelle-antiaderenti-guida-completa?#shopify-section-template--25027272245513__image_with_text_CBxYKc"
           }
         },
         "column_fkMzE8": {
@@ -127,7 +127,7 @@
             "title": "<strong>Qual è il miglior rivestimento antiaderente per le tue esigenze?</strong>",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola?#shopify-section-template--23360006586633__multicolumn_KKQxqM"
+            "link": "https://www.unicoemultiplo.com/pages/padelle-antiaderenti-guida-completa?#shopify-section-template--25027272245513__multicolumn_KKQxqM"
           }
         },
         "column_bN6gr3": {
@@ -633,8 +633,8 @@
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multicolumn_tim6dE": {
@@ -757,7 +757,7 @@
         "image": "shopify://shop_images/Padelle-antiaderenti-knindustrie-1.webp",
         "image_ratio": "small",
         "desktop_layout": "image_first",
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
