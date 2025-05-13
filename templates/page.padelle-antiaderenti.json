@@ -611,7 +611,7 @@
           "type": "button",
           "settings": {
             "button_label": "Scegli le padelle Antiaderenti Abct",
-            "button_link": "https://www.unicoemultiplo.com/collections/piatti-in-bone-china?filter.p.vendor=KnIndustrie&sort_by=manual&#shopify-section-template--22267419984137__product-grid",
+            "button_link": "shopify://collections/knindustrie-catalogo-prodotti-abct",
             "button_style_secondary": true
           }
         }
@@ -644,7 +644,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><em><strong>🔧 Consigli dell’Esperto: Cura delle padelle Antiaderenti</strong></em></p><p><em><strong>Utilizzo: </strong></em>Usa solo utensili in legno o silicone per non graffiare il rivestimento, evita di scaldarla a vuoto e non lavarla mai quando è ancora bollente: lo shock termico può rovinarla.<em><br/></em><em><strong>Lavaggio e asciugatura</strong></em><em>:  </em>Pulisci con detergenti delicati e spugne morbide, asciugala bene.<em><br/></em><em><strong>Conservazione</strong></em><em>: S</em>e la impili, proteggila con un panno. </p><p></p><p>Così la tua padella resterà come nuova molto più a lungo!<br/></p>",
+            "text": "<p><em><strong>🔧 Consigli dell’Esperto: Cura delle padelle Antiaderenti</strong></em><br/>Usa utensili in <strong>silicone</strong>, non scaldarla a vuoto, lasciala raffreddare prima di lavarla. Pulisci con <strong>detergenti delicati</strong> e spugne morbide, asciugala bene e <strong>proteggila se la impili.</strong></p>",
             "link_label": "",
             "link": ""
           }
@@ -676,14 +676,14 @@
         "text_KCBEwa": {
           "type": "text",
           "settings": {
-            "text": "<h3><strong>Scopri le migliori collezioni di Bone China e aggiungi un tocco di prestigio alla tua tavola!</strong></h3>"
+            "text": "<h3>Scopri la collezione di <strong>padelle antiaderenti  ABCT</strong>: <br/>sicure, raffinate e perfette per dare <strong>luminosità ed eleganza</strong> alla tua cucina.<br/></h3>"
           }
         },
         "button_YFmkH4": {
           "type": "button",
           "settings": {
             "button_label": "Vedi Ora!",
-            "button_link": "shopify://collections/piatti-in-bone-china",
+            "button_link": "shopify://collections/knindustrie-catalogo-prodotti-abct",
             "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -700,8 +700,71 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 0,
+        "padding_top": 24,
         "padding_bottom": 24
+      }
+    },
+    "collapsible_content_7AGHFD": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_bzUMeg": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Cosa succede se si graffia una padella antiaderente?",
+            "icon": "check_mark",
+            "row_content": "<p>Quando una padella antiaderente si graffia, il rivestimento in Teflon (PTFE) può deteriorarsi, riducendo l’efficacia antiaderente e causando l’adesione dei cibi durante la cottura. Sebbene l'ingestione occasionale di piccole particelle di Teflon non sia ritenuta pericolosa, poiché il materiale è chimicamente inerte e non viene assorbito dall’organismo, i graffi profondi possono esporre il metallo sottostante, come l’alluminio, che potrebbe interagire con gli alimenti.<br/></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_GgNqhi": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_4fNCdJ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_UBEqJr": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_bzUMeg",
+        "collapsible_row_GgNqhi",
+        "collapsible_row_4fNCdJ",
+        "collapsible_row_UBEqJr"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "<strong>Domande frequenti e falsi miti sulle padelle antiaderenti</strong>",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image": "shopify://shop_images/Padelle-antiaderenti-knindustrie-1.webp",
+        "image_ratio": "small",
+        "desktop_layout": "image_first",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn_HpnGYB": {
@@ -709,9 +772,10 @@
       "blocks": {
         "column_FG7BYx": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "",
-            "text": "<h3><strong>Cosa succede se si graffia una padella antiaderente?</strong></h3><p>Quando una padella antiaderente si graffia, il rivestimento in Teflon (PTFE) può deteriorarsi, riducendo l’efficacia antiaderente e causando l’adesione dei cibi durante la cottura. Sebbene l'ingestione occasionale di piccole particelle di Teflon non sia ritenuta pericolosa, poiché il materiale è chimicamente inerte e non viene assorbito dall’organismo, i graffi profondi possono esporre il metallo sottostante, come l’alluminio, che potrebbe interagire con gli alimenti.<br/><br/>.</p><h3><strong>Qual è la vera differenza tra padelle in teflon e padelle in ceramica?</strong></h3><p>La principale differenza tra una padella antiaderente in ceramica e una in teflon (PTFE) riguarda il tipo di rivestimento e il comportamento durante l’uso. <strong>Le padelle in ceramica hanno un rivestimento a base di materiali natural</strong>i, privo di PTFE e PFOA, e sono spesso considerate <strong>un’alternativa più ecologica.</strong> Resistono a temperature più elevate, fino a circa 400°C, ma tendono a perdere più rapidamente la loro capacità antiaderente con l’uso.</p><p>Le padelle in teflon, invece, utilizzano un polimero sintetico estremamente scivoloso che garantisce un’ottima antiaderenza nel tempo, a patto che non vengano surriscaldate oltre i 260°C. Se usate correttamente, durano più a lungo e mantengono buone prestazioni. Oggi, grazie all’eliminazione del PFOA, sono considerate sicure per l’uso alimentare. In sintesi, la ceramica è ideale per chi cerca una soluzione più naturale e resistente al calore, mentre il teflon è perfetto per chi desidera massima antiaderenza e semplicità d’uso, purché vengano rispettate alcune accortezze.</p><h3><strong>Quali sono le padelle più sane per cucinare ogni giorno?</strong></h3><h3></h3><p>Le padelle considerate più sicure e salutari per l’uso quotidiano sono quelle realizzate con materiali atossici, resistenti e privi di sostanze nocive come PFOA o metalli pesanti. Tra le migliori opzioni ci sono:</p><p><br/>: realizzate con rivestimenti naturali, sono prive di PTFE e PFOA, ideali per chi cerca un'alternativa ecologica e salutare.<br/></p><p><br/>: prive di rivestimenti, non rilasciano sostanze chimiche, ma richiedono un po’ più di attenzione per evitare che il cibo si attacchi.<br/></p><p><br/>: naturali e prive di rivestimenti, garantiscono una cottura uniforme e arricchiscono gli alimenti con piccole quantità di ferro.<br/></p><p><br/>: se usate correttamente, sono sicure e pratiche per l’uso quotidiano.<br/></p><p><br/></p><p></p><h3><strong>Quali padelle è meglio evitare (e per quale motivo) </strong></h3><p>Le padelle e le pentole di alta qualità oggi disponibili sul mercato sono realizzate con materiali selezionati per garantire non solo prestazioni elevate in cucina, ma anche il rispetto delle proprietà naturali degli alimenti. Alcuni di questi materiali affondano le radici nella tradizione, come la ghisa o la ceramica, ma sono stati perfezionati grazie alla tecnologia per essere più sicuri, resistenti e durevoli. Altri, invece, sono materiali innovativi che hanno trovato nuova applicazione nel mondo della cucina per offrire praticità e salute.</p><p>Scegliere le pentole giuste significa migliorare la propria esperienza ai fornelli e contribuire al proprio benessere. Che si tratti della solidità della ghisa o della praticità dell’antiaderente, è fondamentale fare una scelta consapevole, che risponda alle esigenze personali senza compromettere la salute.</p><p><strong>In generale, è bene evitare utensili con rivestimenti antiaderenti non certificati o contenenti sostanze potenzialmente nocive come BPA, PTFE, PFOA, PFAS, nichel o alluminio non schermato</strong>. Al contrario, è consigliabile orientarsi verso materiali sicuri e affidabili come acciaio inox, ghisa, pyrex, ceramica, titanio o altri materiali tecnologicamente avanzati progettati per essere sani e durevoli nel tempo.</p><p></p>",
+            "text": "<h3><strong>Cosa succede se si graffia una padella antiaderente?</strong></h3><p>Quando una padella antiaderente si graffia, il rivestimento in Teflon (PTFE) può deteriorarsi, riducendo l’efficacia antiaderente e causando l’adesione dei cibi durante la cottura. Sebbene l'ingestione occasionale di piccole particelle di Teflon non sia ritenuta pericolosa, poiché il materiale è chimicamente inerte e non viene assorbito dall’organismo, i graffi profondi possono esporre il metallo sottostante, come l’alluminio, che potrebbe interagire con gli alimenti.<br/><br/></p><h3><strong>Qual è la vera differenza tra padelle in teflon e padelle in ceramica?</strong></h3><p>La principale differenza tra una padella antiaderente in ceramica e una in teflon (PTFE) riguarda il tipo di rivestimento e il comportamento durante l’uso. <strong>Le padelle in ceramica hanno un rivestimento a base di materiali natural</strong>i, privo di PTFE e PFOA, e sono spesso considerate <strong>un’alternativa più ecologica.</strong> Resistono a temperature più elevate, fino a circa 400°C, ma tendono a perdere più rapidamente la loro capacità antiaderente con l’uso.</p><p>Le padelle in teflon, invece, utilizzano un polimero sintetico estremamente scivoloso che garantisce un’ottima antiaderenza nel tempo, a patto che non vengano surriscaldate oltre i 260°C. Se usate correttamente, durano più a lungo e mantengono buone prestazioni. Oggi, grazie all’eliminazione del PFOA, sono considerate sicure per l’uso alimentare. In sintesi, la ceramica è ideale per chi cerca una soluzione più naturale e resistente al calore, mentre il teflon è perfetto per chi desidera massima antiaderenza e semplicità d’uso, purché vengano rispettate alcune accortezze.</p><h3><strong>Quali sono le padelle più sane per cucinare ogni giorno?</strong></h3><h3></h3><p>Le padelle considerate più sicure e salutari per l’uso quotidiano sono quelle realizzate con materiali atossici, resistenti e privi di sostanze nocive come PFOA o metalli pesanti. Tra le migliori opzioni ci sono:</p><p><br/>: realizzate con rivestimenti naturali, sono prive di PTFE e PFOA, ideali per chi cerca un'alternativa ecologica e salutare.<br/></p><p><br/>: prive di rivestimenti, non rilasciano sostanze chimiche, ma richiedono un po’ più di attenzione per evitare che il cibo si attacchi.<br/></p><p><br/>: naturali e prive di rivestimenti, garantiscono una cottura uniforme e arricchiscono gli alimenti con piccole quantità di ferro.<br/></p><p><br/>: se usate correttamente, sono sicure e pratiche per l’uso quotidiano.<br/></p><p><br/></p><p></p><h3><strong>Quali padelle è meglio evitare (e per quale motivo) </strong></h3><p>Le padelle e le pentole di alta qualità oggi disponibili sul mercato sono realizzate con materiali selezionati per garantire non solo prestazioni elevate in cucina, ma anche il rispetto delle proprietà naturali degli alimenti. Alcuni di questi materiali affondano le radici nella tradizione, come la ghisa o la ceramica, ma sono stati perfezionati grazie alla tecnologia per essere più sicuri, resistenti e durevoli. Altri, invece, sono materiali innovativi che hanno trovato nuova applicazione nel mondo della cucina per offrire praticità e salute.</p><p>Scegliere le pentole giuste significa migliorare la propria esperienza ai fornelli e contribuire al proprio benessere. Che si tratti della solidità della ghisa o della praticità dell’antiaderente, è fondamentale fare una scelta consapevole, che risponda alle esigenze personali senza compromettere la salute.</p><p><strong>In generale, è bene evitare utensili con rivestimenti antiaderenti non certificati o contenenti sostanze potenzialmente nocive come BPA, PTFE, PFOA, PFAS, nichel o alluminio non schermato</strong>. Al contrario, è consigliabile orientarsi verso materiali sicuri e affidabili come acciaio inox, ghisa, pyrex, ceramica, titanio o altri materiali tecnologicamente avanzati progettati per essere sani e durevoli nel tempo.</p><p></p>",
             "link_label": "",
             "link": ""
           }
@@ -731,7 +795,7 @@
         "column_6MPrhG"
       ],
       "settings": {
-        "title": "<strong>Domande frequenti e falsi miti sulle padelle antiaderenti</strong>",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -743,7 +807,7 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -773,13 +837,20 @@
           "settings": {
             "collection": "brandani-total-white-brandani"
           }
+        },
+        "featured_collection_XjmUh9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
         }
       },
       "block_order": [
         "featured_collection_cETjLG",
         "featured_collection_egmnGj",
         "featured_collection_Fce7QT",
-        "featured_collection_gKtyq6"
+        "featured_collection_gKtyq6",
+        "featured_collection_XjmUh9"
       ],
       "settings": {
         "title": "",
@@ -815,6 +886,7 @@
     "image_with_text_QcgJTF",
     "multicolumn_tim6dE",
     "rich_text_6qfX7g",
+    "collapsible_content_7AGHFD",
     "multicolumn_HpnGYB",
     "collection_list_kjc7qg"
   ]
