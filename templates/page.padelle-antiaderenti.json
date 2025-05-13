@@ -341,7 +341,7 @@
     "featured_collection_8kCVCG": {
       "type": "featured-collection",
       "settings": {
-        "title": "Esplora ora la collezione di <strong>padelle antiaderenti Blac</strong>k: sicure e capaci di dare anche un tocco di <strong>classe ed eleganza</strong> alla tua cucina",
+        "title": "Esplora ora la collezione di <strong>padelle antiaderenti Black</strong>: sicure e capaci di dare anche un tocco di <strong>classe ed eleganza</strong> alla tua cucina",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -406,7 +406,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><strong>Scegliere la padella antiaderente giusta richiede attenzione:</strong> è importante puntare su prodotti sicuri per la salute, ma anche efficienti e durevoli. I due aspetti chiave da valutare sono la <strong>conducibilità termica</strong> e i <strong>materiali</strong> che assicurano una cottura uniforme. Le padelle migliori? Quelle più spesse: offrono prestazioni superiori e un eccellente rapporto qualità-prezzo.<br/><br/></p><p></p><p></p><p></p><p></p><p></p>",
+            "text": "<p><strong>Scegliere la padella antiaderente giusta richiede attenzione:</strong> è importante puntare su prodotti sicuri per la salute, ma anche efficienti e durevoli. I due aspetti chiave da valutare sono la <strong>conducibilità termica</strong> e i <strong>materiali</strong> che assicurano una cottura uniforme. Le padelle migliori? Quelle più spesse: offrono prestazioni superiori e un eccellente rapporto qualità-prezzo.</p>",
             "link_label": "",
             "link": ""
           }
@@ -416,35 +416,25 @@
           "settings": {
             "image": "shopify://shop_images/padelle-antiaderenti-migliori.webp",
             "title": "",
-            "text": "<h3><strong>Teflon: leggerezza e antiaderenza a un prezzo accessibile</strong></h3><p>Il <strong>PTFE (Teflon)</strong> rimane una scelta popolare per la sua eccellente antiaderenza e convenienza. Ideale per cotture delicate a fuoco medio-basso, richiede attenzione nell'uso di utensili e nell'evitare il surriscaldamento oltre i 260°C.</p><p></p><h3><strong>Ceramica: l'alternativa Eco-Friendly per cotture delicate</strong></h3><p>Il rivestimento ceramico, privo di PTFE e PFOA, offre una buona antiaderenza e resistenza ai graffi leggeri. Perfetto per cotture a fuoco medio e per chi cerca un'opzione più ecologica, richiede cura per evitare shock termici e temperature eccessive.</p><p></p><h3><strong>Titanio, Marmo, Granito: quando la resistenza fa la differenza</strong></h3><p>Questi rivestimenti rinforzati offrono maggiore resistenza all'usura e ai graffi rispetto al Teflon e alla ceramica base. Il <strong>titanio</strong> è ideale per un uso frequente e alta durabilità, mentre i rivestimenti <strong>marmo/granito</strong> offrono un buon compromesso tra prestazioni e prezzo per un uso più intenso.</p><p></p><h2><strong>### sarebbe  da inserire la tabella ###</strong></h2>",
+            "text": "<h3><strong>Teflon: leggerezza e antiaderenza a un prezzo accessibile</strong></h3><p>Il <strong>PTFE (Teflon)</strong> rimane una scelta popolare per la sua eccellente antiaderenza e convenienza. Ideale per cotture delicate a fuoco medio-basso, richiede attenzione nell'uso di utensili e nell'evitare il surriscaldamento oltre i 260°C.</p><p></p><h3><strong>Ceramica: l'alternativa Eco-Friendly per cotture delicate</strong></h3><p>Il rivestimento ceramico, privo di PTFE e PFOA, offre una buona antiaderenza e resistenza ai graffi leggeri. Perfetto per cotture a fuoco medio e per chi cerca un'opzione più ecologica, richiede cura per evitare shock termici e temperature eccessive.</p><p></p><h3><strong>Titanio, Marmo, Granito: quando la resistenza fa la differenza</strong></h3><p>Questi rivestimenti rinforzati offrono maggiore resistenza all'usura e ai graffi rispetto al Teflon e alla ceramica base. Il <strong>titanio</strong> è ideale per un uso frequente e alta durabilità, mentre i rivestimenti <strong>marmo/granito</strong> offrono un buon compromesso tra prestazioni e prezzo per un uso più intenso.</p><p></p><h2><strong>*modificare h3 rispetto indicazioni  andrea</strong></h2><h2><strong>### sarebbe  da inserire la tabella ###</strong></h2>",
             "link_label": "",
             "link": ""
           }
         },
-        "column_t9z8nz": {
+        "column_WxDANE": {
           "type": "column",
           "settings": {
-            "title": "",
-            "text": "<h2><strong>Padelle antiaderenti e salute: cosa c’è da sapere davvero  </strong></h2>",
+            "title": "Colonna",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
             "link_label": "",
             "link": ""
           }
         },
-        "column_tJqMte": {
+        "column_UGrx7L": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/padelle-antiaderenti-migliori-3.jpg",
-            "title": "",
-            "text": "<h3><strong>Le padelle antiaderenti moderne sono sicure?</strong></h3><p><strong>Assolutamente si.</strong> Grazie all’eliminazione del PFOA e alle rigorose normative europee, i prodotti attuali sono sicuri per l’uso alimentare. Le ricerche confermano che le padelle di buona qualità non rappresentano un rischio, a patto che vengano utilizzate correttamente: è importante non superare i 260°C, soprattutto nel caso del Teflon. Piccoli graffi superficiali non compromettono la sicurezza.</p><p></p><p></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_zCNAda": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h3></h3><h3><strong>Quando una padella antiaderente può diventare dannosa</strong></h3><p>Se il rivestimento antiaderente è gravemente danneggiato o la padella è stata surriscaldata più volte, può diventare pericolosa. In queste condizioni, infatti, potrebbe rilasciare particelle o fumi durante la cottura, potenzialmente nocivi per la salute. In casi del genere, la scelta più sicura è sostituire la padella senza esitazioni.</p><p></p>",
+            "title": "Colonna",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
             "link_label": "",
             "link": ""
           }
@@ -453,13 +443,12 @@
       "block_order": [
         "column_ChXLxh",
         "column_zAVLFP",
-        "column_t9z8nz",
-        "column_tJqMte",
-        "column_zCNAda"
+        "column_WxDANE",
+        "column_UGrx7L"
       ],
       "settings": {
         "title": "<strong>Qual è il miglior rivestimento antiaderente per le tue esigenze?</strong>",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
@@ -474,27 +463,68 @@
         "padding_bottom": 0
       }
     },
-    "rich_text_73PwUA": {
-      "type": "rich-text",
+    "multicolumn_qjWjLF": {
+      "type": "multicolumn",
       "blocks": {
-        "text_NhynLD": {
-          "type": "text",
+        "column_ctBGFY": {
+          "type": "column",
           "settings": {
-            "text": ""
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_EnYmWU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/padelle-antiaderenti-migliori-3.jpg",
+            "title": "",
+            "text": "<h3><strong>Le padelle antiaderenti moderne sono sicure?</strong></h3><p><strong>Assolutamente si.</strong> Grazie all’eliminazione del PFOA e alle rigorose normative europee, i prodotti attuali sono sicuri per l’uso alimentare. Le ricerche confermano che le padelle di buona qualità non rappresentano un rischio, a patto che vengano utilizzate correttamente: è importante non superare i 260°C, soprattutto nel caso del Teflon. Piccoli graffi superficiali non compromettono la sicurezza.</p><p></p><p></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3ChXTK": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>Quando una padella antiaderente può diventare dannosa</strong></h3><p>Se il rivestimento antiaderente è gravemente danneggiato o la padella è stata surriscaldata più volte, può diventare pericolosa. In queste condizioni, infatti, potrebbe rilasciare particelle o fumi durante la cottura, potenzialmente nocivi per la salute. In casi del genere, la scelta più sicura è sostituire la padella senza esitazioni.</p><p></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Qrmjqk": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>Come usare correttamente una padella antiaderente senza rischi</strong></h3><p>+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ finire</p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "text_NhynLD"
+        "column_ctBGFY",
+        "column_EnYmWU",
+        "column_3ChXTK",
+        "column_Qrmjqk"
       ],
-      "disabled": true,
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 24
+        "title": "<strong>Padelle antiaderenti e salute: cosa c’è da sapere davvero  </strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "shopify://collections/piatti-in-bone-china",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
       }
     },
     "multicolumn_wVxtVr": {
@@ -778,7 +808,7 @@
     "featured_collection_8kCVCG",
     "multicolumn_bEDH9B",
     "multicolumn_KKQxqM",
-    "rich_text_73PwUA",
+    "multicolumn_qjWjLF",
     "multicolumn_wVxtVr",
     "rich_text_aAFBXa",
     "multicolumn_kiWfNN",
