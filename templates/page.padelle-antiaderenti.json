@@ -788,31 +788,19 @@
     "collection_list_kjc7qg": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_cETjLG": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "piatti-in-bone-china"
-          }
-        },
-        "featured_collection_egmnGj": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-hybrid-piatti"
-          }
-        },
-        "featured_collection_Fce7QT": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "knindustrie-catalogo-prodotti-davide-oldani"
-          }
-        },
-        "featured_collection_gKtyq6": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-total-white-brandani"
-          }
-        },
         "featured_collection_XjmUh9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_nVPHXH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_wWhtzb": {
           "type": "featured_collection",
           "settings": {
             "collection": ""
@@ -820,11 +808,9 @@
         }
       },
       "block_order": [
-        "featured_collection_cETjLG",
-        "featured_collection_egmnGj",
-        "featured_collection_Fce7QT",
-        "featured_collection_gKtyq6",
-        "featured_collection_XjmUh9"
+        "featured_collection_XjmUh9",
+        "featured_collection_nVPHXH",
+        "featured_collection_wWhtzb"
       ],
       "settings": {
         "title": "",
