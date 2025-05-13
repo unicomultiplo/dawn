@@ -416,7 +416,16 @@
           "settings": {
             "image": "shopify://shop_images/padelle-antiaderenti-migliori-3.jpg",
             "title": "",
-            "text": "<h3><strong>Le padelle antiaderenti moderne sono sicure?</strong></h3><p><strong>Assolutamente si.</strong> Grazie all’eliminazione del PFOA e alle rigorose normative europee, i prodotti attuali sono sicuri per l’uso alimentare. Le ricerche confermano che le padelle di buona qualità non rappresentano un rischio, a patto che vengano utilizzate correttamente: è importante non superare i 260°C, soprattutto nel caso del Teflon. Piccoli graffi superficiali non compromettono la sicurezza.</p><h3></h3><h3><strong>Quando una padella antiaderente può diventare dannosa</strong></h3><p>Se il rivestimento antiaderente è gravemente danneggiato o la padella è stata surriscaldata più volte, può diventare pericolosa. In queste condizioni, infatti, potrebbe rilasciare particelle o fumi durante la cottura, potenzialmente nocivi per la salute. In casi del genere, la scelta più sicura è sostituire la padella senza esitazioni.</p><p></p><h3><strong>Come usare correttamente un padella antiaderente senza rischi</strong></h3><h3></h3><p><strong>Regole base da seguire:</strong> non surriscaldarla mai oltre i 260°C, evita fiamme troppo alte e non lasciarla vuota sul fuoco. Usa solo utensili in legno, silicone o plastica resistente al calore e mai spugne abrasive durante il lavaggio.</p><p><strong>Come conservarla al meglio:</strong> non impilarla direttamente con altre pentole; usa un panno tra una padella e l’altra per evitare graffi. Dopo il lavaggio, asciugala sempre bene per prevenire l’usura del rivestimento.</p><p><strong>Buone pratiche quotidiane:</strong> cucinare a fuoco medio-basso, lavarla a mano con detergenti delicati e riporla con cura sono piccoli gesti che fanno durare a lungo la tua padella e ne preservano le proprietà antiaderenti.<br/><br/><strong>Rispettando questi  semplici accorgimenti le padelle antiaderenti sono un ottimo alleato in cucina!</strong></p><p></p>",
+            "text": "<h3><strong>Le padelle antiaderenti moderne sono sicure?</strong></h3><p><strong>Assolutamente si.</strong> Grazie all’eliminazione del PFOA e alle rigorose normative europee, i prodotti attuali sono sicuri per l’uso alimentare. Le ricerche confermano che le padelle di buona qualità non rappresentano un rischio, a patto che vengano utilizzate correttamente: è importante non superare i 260°C, soprattutto nel caso del Teflon. Piccoli graffi superficiali non compromettono la sicurezza.</p><p></p><p></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_zCNAda": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3></h3><h3><strong>Quando una padella antiaderente può diventare dannosa</strong></h3><p>Se il rivestimento antiaderente è gravemente danneggiato o la padella è stata surriscaldata più volte, può diventare pericolosa. In queste condizioni, infatti, potrebbe rilasciare particelle o fumi durante la cottura, potenzialmente nocivi per la salute. In casi del genere, la scelta più sicura è sostituire la padella senza esitazioni.</p><p></p>",
             "link_label": "",
             "link": ""
           }
@@ -426,7 +435,8 @@
         "column_ChXLxh",
         "column_zAVLFP",
         "column_t9z8nz",
-        "column_tJqMte"
+        "column_tJqMte",
+        "column_zCNAda"
       ],
       "settings": {
         "title": "<strong>Qual è il miglior rivestimento antiaderente per le tue esigenze?</strong>",
@@ -551,7 +561,7 @@
         "button_RbUWQH": {
           "type": "button",
           "settings": {
-            "button_label": "Scegli le padelle Antiaderenti Abc",
+            "button_label": "Scegli le padelle Antiaderenti Abct",
             "button_link": "https://www.unicoemultiplo.com/collections/piatti-in-bone-china?filter.p.vendor=KnIndustrie&sort_by=manual&#shopify-section-template--22267419984137__product-grid",
             "button_style_secondary": true
           }
