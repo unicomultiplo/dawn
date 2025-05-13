@@ -758,7 +758,7 @@
         "image_ratio": "small",
         "desktop_layout": "image_first",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "multicolumn_HpnGYB": {
