@@ -40,7 +40,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>🎯 <em>Scegliere la padella antiaderente giusta è investire nella tua salute e in una cucina senza stress: antiaderenza top, sicurezza garantita, durata nel tempo!</em><br/></p>",
+            "text": "<p>🎯 <strong>Scegliere la padella antiaderente giusta</strong> è un investimento per la tua salute e per cucinare con piacere ogni giorno: massima antiaderenza, zero stress, sicurezza garantita e lunga durata!<br/></p>",
             "link_label": "",
             "link": ""
           }
@@ -82,7 +82,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><strong>La padella antiaderente è un alleato insostituibile in cucina</strong>,  ma <strong>come orientarsi</strong> nella giungla di materiali e rivestimenti <strong>per scegliere la padella perfetta</strong>, <strong>sicura e duratura? </strong>Questa guida completa ti accompagnerà alla scoperta del mondo delle padelle antiaderenti, fornendoti gli strumenti per un acquisto consapevole e una cucina senza stress.</p>",
+            "text": "<p><strong>La padella antiaderente è un alleato insostituibile in cucina</strong>,  ma <strong>come orientarsi</strong> nella giungla di materiali e rivestimenti <strong>per scegliere la padella perfetta</strong>, <strong>sicura e duratura? </strong></p>",
             "link_label": "",
             "link": ""
           }
@@ -182,6 +182,49 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_Anyn8K": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_y9zNeh": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_UPAw8i": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Questa guida completa ti accompagnerà alla scoperta del mondo delle padelle antiaderenti, fornendoti gli strumenti per un acquisto consapevole e una cucina senza stress.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_y9zNeh",
+        "column_UPAw8i"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn_eQWbbm": {
       "type": "multicolumn",
       "blocks": {
@@ -215,53 +258,6 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_LCL7jb": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_XigEi4": {
-          "type": "heading",
-          "settings": {
-            "heading": "Perché è importante scegliere una padella antiaderente sicura e durevole",
-            "heading_size": "h1"
-          }
-        },
-        "text_yatCWr": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
-        "button_QkwrGY": {
-          "type": "button",
-          "settings": {
-            "button_label": "Esplora ora le Collezioni Bone China",
-            "button_link": "shopify://collections/piatti-in-bone-china",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_XigEi4",
-        "text_yatCWr",
-        "button_QkwrGY"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Padelle-Antiaderenti-guida-completa-per-scegliere-il-modello-giusto-per-la-tua-cucina-6.webp",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_with_text_CBxYKc": {
       "type": "image-with-text",
       "blocks": {
@@ -269,7 +265,7 @@
           "type": "heading",
           "settings": {
             "heading": "<strong>Come riconoscere una padella antiaderente di qualità?</strong>",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "text_JmwQRX": {
@@ -282,8 +278,8 @@
         "button_Jbq8xx": {
           "type": "button",
           "settings": {
-            "button_label": "Scegli la Bone China",
-            "button_link": "shopify://collections/piatti-in-bone-china",
+            "button_label": "Scegli l'Antiaderente",
+            "button_link": "shopify://collections/knindustrie-catalogo-prodotti-black",
             "button_style_secondary": true
           }
         }
@@ -596,7 +592,7 @@
         "button_RbUWQH"
       ],
       "settings": {
-        "image": "shopify://shop_images/Padelle-antiaderenti-knindustrie_b23e843b-d483-4fd3-917d-79dbee678ef0.webp",
+        "image": "shopify://shop_images/Padelle-Antiaderenti-guida-completa-per-scegliere-il-modello-giusto-per-la-tua-cucina-6.webp",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -775,8 +771,8 @@
     "multicolumn_VR4EHF",
     "multicolumn_xxGrrA",
     "multicolumn_6fXjNw",
+    "multicolumn_Anyn8K",
     "multicolumn_eQWbbm",
-    "image_with_text_LCL7jb",
     "image_with_text_CBxYKc",
     "multicolumn_T79FP8",
     "featured_collection_8kCVCG",
