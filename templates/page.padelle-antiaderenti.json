@@ -54,6 +54,16 @@
             "link": ""
           }
         },
+        "column_CXEwq9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-abct-handle-video.gif",
+            "title": "Colonna",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_BeLghf": {
           "type": "column",
           "settings": {
@@ -67,6 +77,7 @@
       "block_order": [
         "column_9deMPH",
         "column_xPDQ47",
+        "column_CXEwq9",
         "column_BeLghf"
       ],
       "settings": {
