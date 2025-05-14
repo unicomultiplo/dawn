@@ -815,12 +815,26 @@
           "settings": {
             "collection": ""
           }
+        },
+        "featured_collection_Jz6JFK": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_yfBAEq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
         }
       },
       "block_order": [
         "featured_collection_XjmUh9",
         "featured_collection_nVPHXH",
-        "featured_collection_wWhtzb"
+        "featured_collection_wWhtzb",
+        "featured_collection_Jz6JFK",
+        "featured_collection_yfBAEq"
       ],
       "settings": {
         "title": "",

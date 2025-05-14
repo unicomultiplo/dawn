@@ -11,28 +11,8 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "padding_top": 20,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_xxGrrA": {
-      "type": "multicolumn",
-      "settings": {
-        "title": "Bone China: Scopri la Porcellana Più Elegante per la Tua Tavola",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
         "padding_bottom": 0
       }
     },
@@ -873,18 +853,62 @@
         "padding_bottom": 24
       }
     },
+    "collapsible_content_4C3RVT": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_dPxdha": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Cosa significa davvero “Bone China”?",
+            "icon": "eye",
+            "row_content": "<p>Il nome <strong>Bone China</strong> potrebbe suonare misterioso, ma il suo significato è semplice: si tratta di una <strong>porcellana arricchita con cenere d’osso</strong>, un ingrediente che le conferisce la sua incredibile <strong>lucentezza, leggerezza e resistenza</strong>.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_AcEcTi": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Perché la Bone China è considerata così preziosa?",
+            "icon": "eye",
+            "row_content": "<p>La <strong>Bone China</strong> è preziosa perché racchiude il meglio di due mondi: la <strong>raffinatezza della porcellana</strong> e una <strong>resistenza sorprendente</strong>. Ciò che la rende unica è la sua composizione speciale.</p><p>A differenza della porcellana tradizionale, è più <strong>dura ma sottile</strong>, risultando elegante e al tempo stesso pratica. Per questo è sempre stata associata a un’idea di <strong>lusso senza tempo.</strong></p><p>Che sia per un’occasione speciale o per l’uso quotidiano, la <strong>Bone China</strong> è un investimento di stile e qualità, capace di durare nel tempo senza perdere il suo fascino. </p><p></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_KKXYBt": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "La Bone China è sicura per gli alimenti caldi?",
+            "icon": "eye",
+            "row_content": "<p>Sì, assolutamente! La <strong>Bone China</strong> è <strong>perfettamente sicura</strong> per servire cibi e bevande calde. Grazie alla sua composizione speciale, resiste bene alle alte temperature senza assorbire sapori o odori.</p><p>Tuttavia, è sempre meglio evitare sbalzi termici troppo bruschi (ad esempio, non metterla direttamente dal freezer al microonde) per preservarne l’integrità nel tempo.</p><p><strong>Se cerchi eleganza e praticità per la tua tavola, la Bone China è la scelta ideale! </strong></p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_dPxdha",
+        "collapsible_row_AcEcTi",
+        "collapsible_row_KKXYBt"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "<strong>Domande frequenti sulla Bone China</strong>",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image": "shopify://shop_images/bone-china-curiosita-unico-e-multiplo-1.webp",
+        "image_ratio": "adapt",
+        "desktop_layout": "image_first",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_HpnGYB": {
       "type": "multicolumn",
       "blocks": {
-        "column_FG7BYx": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p></p><h3><strong>Cosa significa davvero “Bone China”?</strong></h3><ul><li>Il nome <strong>Bone China</strong> potrebbe suonare misterioso, ma il suo significato è semplice: si tratta di una <strong>porcellana arricchita con cenere d’osso</strong>, un ingrediente che le conferisce la sua incredibile <strong>lucentezza, leggerezza e resistenza</strong>.</li></ul><h3><strong>Perché la Bone China è considerata così preziosa?</strong></h3><h3></h3><ul><li>La <strong>Bone China</strong> è preziosa perché racchiude il meglio di due mondi: la <strong>raffinatezza della porcellana</strong> e una <strong>resistenza sorprendente</strong>. Ciò che la rende unica è la sua composizione speciale.</li></ul><p>A differenza della porcellana tradizionale, è più <strong>dura ma sottile</strong>, risultando elegante e al tempo stesso pratica. Per questo è sempre stata associata a un’idea di <strong>lusso senza tempo.</strong></p><p>Che sia per un’occasione speciale o per l’uso quotidiano, la <strong>Bone China</strong> è un investimento di stile e qualità, capace di durare nel tempo senza perdere il suo fascino. </p><h3><strong>La Bone China è sicura per gli alimenti caldi?</strong></h3><ul><li>Sì, assolutamente! La <strong>Bone China</strong> è <strong>perfettamente sicura</strong> per servire cibi e bevande calde. Grazie alla sua composizione speciale, resiste bene alle alte temperature senza assorbire sapori o odori.</li></ul><p>Tuttavia, è sempre meglio evitare sbalzi termici troppo bruschi (ad esempio, non metterla direttamente dal freezer al microonde) per preservarne l’integrità nel tempo.</p><p><strong>Se cerchi eleganza e praticità per la tua tavola, la Bone China è la scelta ideale! </strong></p><p></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_6MPrhG": {
           "type": "column",
           "settings": {
@@ -893,23 +917,32 @@
             "link_label": "Hai domande o esperienze da condividere? Contattaci!",
             "link": "https://api.whatsapp.com/send/?phone=390733810100&text&type=phone_number&app_absent=0"
           }
+        },
+        "column_FG7BYx": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p></p><p></p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "column_FG7BYx",
-        "column_6MPrhG"
+        "column_6MPrhG",
+        "column_FG7BYx"
       ],
       "settings": {
-        "title": "<strong>Domande frequenti sulla Bone China</strong>",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
         "button_link": "shopify://collections/piatti-in-bone-china",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -966,7 +999,6 @@
   },
   "order": [
     "main",
-    "multicolumn_xxGrrA",
     "image_banner_VC4GDe",
     "multicolumn_VR4EHF",
     "multicolumn_6fXjNw",
@@ -988,6 +1020,7 @@
     "multicolumn_tim6dE",
     "multicolumn_Exw9py",
     "rich_text_6qfX7g",
+    "collapsible_content_4C3RVT",
     "multicolumn_HpnGYB",
     "collection_list_kjc7qg"
   ]
