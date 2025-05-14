@@ -57,9 +57,9 @@
         "column_CXEwq9": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-abct-handle-video.gif",
+            "image": "shopify://shop_images/KnIndustrie-abct-padelle.webp",
             "title": "",
-            "text": "<h3><a href=\"/collections/knindustrie-catalogo-prodotti-abct\" title=\"ABCT by KnIndustrie\"><strong>Abct - Padelle antiaderenti ceramico - KnIndustrie</strong></a></h3>",
+            "text": "<h3><a href=\"/collections/knindustrie-catalogo-prodotti-abct\" title=\"ABCT by KnIndustrie\"><strong>Collezione</strong> <strong>Abct - Padelle Antiaderenti Ceramico - KnIndustrie</strong></a></h3>",
             "link_label": "",
             "link": ""
           }
@@ -376,7 +376,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3><strong>Quali caratteristiche rendono una padella davvero antiaderente (e cosa invece è solo marketing)</strong></h3><ul><li> <strong>Il rivestimento è tutto:</strong> una vera padella antiaderente ha più strati (almeno 3), che garantiscono resistenza, distribuzione uniforme del calore e massima antiaderenza. Più strati = migliore performance.</li><li> <strong>Come viene applicato conta:</strong> il rivestimento spruzzato è più economico ma meno duraturo. Quello applicato a caldo (a fusione) aderisce meglio al corpo della padella, offrendo una superficie più resistente e uniforme.</li><li> <strong>Durata nel tempo:</strong> una buona padella mantiene le sue proprietà antiaderenti per anni, se usata e pulita correttamente. Diffida dai miracoli promessi: se la performance dura solo pochi mesi, era solo marketing.</li></ul><h3></h3><h3></h3>",
+            "text": "<h3><strong>Quali caratteristiche rendono una padella davvero antiaderente (e cosa invece è solo marketing)</strong></h3><h3></h3><p><strong>Il rivestimento è tutto:</strong> una vera padella antiaderente ha più strati (almeno 3), che garantiscono resistenza, distribuzione uniforme del calore e massima antiaderenza. Più strati = migliore performance.</p><p><strong>Come viene applicato conta:</strong> il rivestimento spruzzato è più economico ma meno duraturo. Quello applicato a caldo (a fusione) aderisce meglio al corpo della padella, offrendo una superficie più resistente e uniforme.</p><p><strong>Durata nel tempo:</strong> una buona padella mantiene le sue proprietà antiaderenti per anni, se usata e pulita correttamente. Diffida dai miracoli promessi: se la performance dura solo pochi mesi, era solo marketing.</p><h3></h3><h3></h3>",
             "link_label": "",
             "link": ""
           }
@@ -385,7 +385,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3><strong>Come distinguere a colpo d’occhio una </strong><em><strong>VERA</strong></em><strong> padella antiaderente</strong></h3><ul><li> <strong>Osserva i dettagli fisici:</strong> una padella di qualità ha un certo peso (non troppo leggera), uno spessore uniforme, materiali solidi. Se sembra fragile… probabilmente lo è.</li><li> <strong>Controlla le certificazioni:</strong> diciture come <em>PFOA free</em> o marchi di qualità garantiscono l’assenza di sostanze tossiche e un rivestimento sicuro per la salute.</li><li> <strong>Garanzia fa rima con fiducia:</strong> una buona padella viene venduta con una garanzia chiara. Se il produttore non garantisce durata e prestazioni… è un segnale da non ignorare.</li></ul><h3></h3>",
+            "text": "<h3><strong>Come distinguere a colpo d’occhio una </strong><em><strong>VERA</strong></em><strong> padella antiaderente</strong></h3><p> <strong>Osserva i dettagli fisici:</strong> una padella di qualità ha un certo peso (non troppo leggera), uno spessore uniforme, materiali solidi. Se sembra fragile… probabilmente lo è.</p><p> <strong>Controlla le certificazioni:</strong> diciture come <em>PFOA free</em> o marchi di qualità garantiscono l’assenza di sostanze tossiche e un rivestimento sicuro per la salute.</p><p><br/>...Infine, per un acquisto davvero oculato, <strong>vi consigliamo vivamente di verificare attentamente il brand che produce le padelle e, cosa altrettanto importante, di consultare le recensioni di altri clienti.</strong> Le esperienze di chi ha già utilizzato quella specifica padella possono offrire indicazioni preziose sulla sua reale qualità, sulla sua durata nel tempo e sulle sue effettive prestazioni in cucina. Un marchio affidabile e recensioni positive sono spesso un ottimo segnale di un investimento ben fatto.</p>",
             "link_label": "",
             "link": ""
           }
@@ -523,7 +523,7 @@
           "settings": {
             "image": "shopify://shop_images/padelle-antiaderenti-migliori.webp",
             "title": "<strong>Padelle in teflon: pro, contro e quando conviene davvero usarle</strong>",
-            "text": "<p>Il <strong>PTFE (Teflon)</strong> rimane una scelta popolare per la sua eccellente antiaderenza e convenienza. Ideale per cotture delicate a fuoco medio-basso, richiede attenzione nell'uso di utensili e nell'evitare il surriscaldamento oltre i 260°C.</p>",
+            "text": "<p><br/>Le padelle in teflon spiccano per la loro eccezionale antiaderenza, ideale per cotture delicate come uova o pesce, e per la facilità di pulizia. Tuttavia, sono meno resistenti ai graffi e alle alte temperature rispetto ad altre tipologie (evitare il surriscaldamento oltre i 260°C<strong>) </strong>, in passato, la presenza di PFOA durante la produzione sollevava preoccupazioni per la salute (oggi risolte in molti prodotti). Conviene usarle per specifiche preparazioni a fuoco medio-basso dove l'antiaderenza è prioritaria.</p>",
             "link_label": "",
             "link": ""
           }
@@ -532,7 +532,7 @@
           "type": "column",
           "settings": {
             "title": "<strong>Padelle in ceramica: cosa offrono e quando sono la scelta migliore</strong>",
-            "text": "<p>Il rivestimento ceramico, privo di PTFE e PFOA, offre una buona antiaderenza e resistenza ai graffi leggeri. Perfetto per cotture a fuoco medio e per chi cerca un'opzione più ecologica, richiede cura per evitare shock termici e temperature eccessive.</p><h2></h2>",
+            "text": "<p></p><p>Le padelle in ceramica offrono una buona antiaderenza, notevole resistenza ai graffi e alle alte temperature, e sono realizzate senza PFOA, risultando una scelta più sicura ed ecosostenibile. La loro facilità di pulizia, anche con prodotti non delicati, è un altro vantaggio. Sono la scelta migliore per un uso quotidiano versatile, cotture a temperature medie e alte, e per chi cerca una soluzione durevole e attenta alla salute.</p><h2></h2>",
             "link_label": "",
             "link": ""
           }
@@ -541,7 +541,7 @@
           "type": "column",
           "settings": {
             "title": "<strong>Altri rivestimenti antiaderenti: titanio, marmo, granito e simili</strong>",
-            "text": "<p><strong>Titanio, Marmo, Granito: quando la resistenza fa la differenza</strong></p><p>Questi rivestimenti rinforzati offrono maggiore resistenza all'usura e ai graffi rispetto al Teflon e alla ceramica base. Il <strong>titanio</strong> è ideale per un uso frequente e alta durabilità, mentre i rivestimenti <strong>marmo/granito</strong> offrono un buon compromesso tra prestazioni e prezzo per un uso più intenso.</p><p></p><h2><strong>*modificare h3 rispetto indicazioni  andrea</strong></h2><h2><strong>### sarebbe  da inserire la tabella ###</strong></h2>",
+            "text": "<p><strong>Titanio, Marmo, Granito: quando la resistenza fa la differenza</strong></p><p>Questi rivestimenti rinforzati offrono maggiore resistenza all'usura e ai graffi rispetto al Teflon e alla ceramica base. Il <strong>titanio</strong> è ideale per un uso frequente e alta durabilità, mentre i rivestimenti <strong>marmo/granito</strong> offrono un buon compromesso tra prestazioni e prezzo per un uso più intenso.</p><h2></h2><h2><strong>### sarebbe  da inserire la tabella ###</strong></h2>",
             "link_label": "",
             "link": ""
           }
@@ -587,7 +587,7 @@
           "settings": {
             "image": "shopify://shop_images/padelle-antiaderenti-migliori-3.jpg",
             "title": "",
-            "text": "<h3><strong>Le padelle antiaderenti moderne sono sicure?</strong></h3><p><strong>Assolutamente si.</strong> Grazie all’eliminazione del PFOA e alle rigorose normative europee, i prodotti attuali sono sicuri per l’uso alimentare. Le ricerche confermano che le padelle di buona qualità non rappresentano un rischio, a patto che vengano utilizzate correttamente: è importante non superare i 260°C, soprattutto nel caso del Teflon. Piccoli graffi superficiali non compromettono la sicurezza.</p><p></p><p></p>",
+            "text": "<h3><strong>Le padelle antiaderenti moderne sono sicure?</strong></h3><p><strong>Assolutamente si.</strong> Grazie all’eliminazione del PFOA e alle rigorose normative europee, i prodotti attuali sono sicuri per l’uso alimentare. Le ricerche confermano che le padelle di buona qualità non rappresentano un rischio, a patto che vengano utilizzate correttamente: è importante non superare i 260°C, soprattutto nel caso del Teflon.</p><p><br/>È cruciale distinguere tra una padella 'sicura' e una semplicemente 'non danneggiata'. La sicurezza si riferisce all'assenza di rilascio di sostanze nocive durante la cottura, mentre l'integrità fisica ('non danneggiata') riguarda l'assenza di graffi profondi o deformazioni che ne comprometterebbero la funzionalità. Ricordiamo che una padella apparentemente intatta, come un vecchio modello in teflon surriscaldato, potrebbe non essere più sicura per la nostra salute.</p><p></p>",
             "link_label": "",
             "link": ""
           }
@@ -605,7 +605,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3><strong>Come usare correttamente una padella antiaderente senza rischi</strong></h3><p>+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ finire</p>",
+            "text": "<h3><strong>Come usare correttamente una padella antiaderente senza rischi</strong></h3><p>.</p><p>Una padella antiaderente, se trattata con cura, può durare a lungo e rendere la cucina più semplice e piacevole.<strong> Il primo errore da evitare è surriscaldarla</strong>: non va mai lasciata vuota sul fuoco acceso, perché le alte temperature danneggiano il rivestimento e possono persino rilasciare sostanze nocive. Meglio sempre scaldarla gradualmente e, se possibile, aggiungere subito un filo d’olio o gli ingredienti<br/><br/>Quando si cucina, è fondamentale<strong> usare utensili in legno, silicone o plastica</strong> resistente al calore. Il metallo è nemico del rivestimento antiaderente: lo graffia, lo rovina, lo rende inutile nel tempo. E se la superficie si rovina, addio antiaderenza.<br/></p><p>Anche nel lavaggio serve delicatezza. <strong>Mai usare spugne abrasive o pagliette metalliche</strong>. Basta una spugna morbida, un po’ di detersivo e acqua tiepida. Se ci sono residui ostinati, non grattare: lasciala in ammollo per qualche minuto, poi riprova. La lavastoviglie? Meglio evitarla, anche se è indicata come sicura. I cicli aggressivi, alla lunga, compromettono la durata della padella.<br/><br/>Per mantenerla integra, una buona abitudine è <strong>non impilarla direttamente con altre pentole</strong>. Se devi farlo, metti un panno o un foglio di carta da cucina tra una padella e l’altra. Inoltre, non tagliare mai il cibo direttamente nella padella: il coltello è un altro nemico del rivestimento.<br/><br/>Nel quotidiano, prenditi quei pochi secondi in più per f<strong>arla raffreddare prima di lavarla, asciugala bene dopo il risciacquo</strong>, e conservala con attenzione. Una padella antiaderente non chiede molto, ma se la rispetti, ti ripagherà con cotture perfette e senza stress.</p>",
             "link_label": "",
             "link": ""
           }
