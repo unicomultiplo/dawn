@@ -834,15 +834,6 @@
     "multicolumn_HpnGYB": {
       "type": "multicolumn",
       "blocks": {
-        "column_FG7BYx": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p></p><p></p><h3></h3><p></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_6MPrhG": {
           "type": "column",
           "settings": {
@@ -851,11 +842,20 @@
             "link_label": "Hai domande o esperienze da condividere? Contattaci!",
             "link": "https://api.whatsapp.com/send/?phone=390733810100&text&type=phone_number&app_absent=0"
           }
+        },
+        "column_FG7BYx": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p></p><p></p><h3></h3><p></p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "column_FG7BYx",
-        "column_6MPrhG"
+        "column_6MPrhG",
+        "column_FG7BYx"
       ],
       "settings": {
         "title": "",
@@ -870,7 +870,7 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 0,
+        "padding_top": 40,
         "padding_bottom": 0
       }
     },
@@ -960,7 +960,7 @@
         "color_scheme": "",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 12,
         "padding_bottom": 36
       }
     }
