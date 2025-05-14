@@ -342,7 +342,7 @@
         "button_Jbq8xx": {
           "type": "button",
           "settings": {
-            "button_label": "Scegli l'antiaderente",
+            "button_label": "Scegli la qualità  KnIndustrie",
             "button_link": "shopify://collections/knindustrie-catalogo-prodotti-black",
             "button_style_secondary": true
           }
@@ -533,8 +533,8 @@
           "settings": {
             "title": "<strong>Padelle in ceramica: cosa offrono e quando sono la scelta migliore</strong>",
             "text": "<p>Le padelle in ceramica offrono una buona antiaderenza, notevole resistenza ai graffi e alle alte temperature, e sono realizzate senza PFOA, risultando una scelta più sicura ed ecosostenibile. La loro facilità di pulizia, anche con prodotti non delicati, è un altro vantaggio. Sono la scelta migliore per un uso quotidiano versatile, cotture a temperature medie e alte, e per chi cerca una soluzione durevole e attenta alla salute.</p><h2></h2>",
-            "link_label": "",
-            "link": ""
+            "link_label": "La nostra scelta è il rivestimento ceramico",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-abct"
           }
         },
         "column_UGrx7L": {
@@ -698,8 +698,8 @@
         "button_RbUWQH": {
           "type": "button",
           "settings": {
-            "button_label": "Scegli le padelle Antiaderenti Abct",
-            "button_link": "shopify://collections/knindustrie-catalogo-prodotti-abct",
+            "button_label": "Scegli Brandani Shuttle",
+            "button_link": "shopify://collections/shuttle-brandani",
             "button_style_secondary": true
           }
         }
