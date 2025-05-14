@@ -33,10 +33,10 @@
         "show_text_below": true
       }
     },
-    "multicolumn_3H7kgR": {
+    "multicolumn_tmaxqc": {
       "type": "multicolumn",
       "blocks": {
-        "column_9deMPH": {
+        "column_cGVdCx": {
           "type": "column",
           "settings": {
             "title": "",
@@ -45,7 +45,7 @@
             "link": ""
           }
         },
-        "column_xPDQ47": {
+        "column_fepjb4": {
           "type": "column",
           "settings": {
             "title": "",
@@ -53,15 +53,36 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_PDzbWY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/KnIndustrie-abct-padelle.webp",
+            "title": "",
+            "text": "<h3><a href=\"/collections/knindustrie-catalogo-prodotti-abct\" title=\"ABCT by KnIndustrie\"><strong>Collezione</strong> <strong>Abct - Padelle Antiaderenti Ceramico - KnIndustrie</strong></a></h3>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Pw69Bj": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Una delle <strong>caratteristich</strong>e più apprezzabili <strong>della ceramica</strong> è la sua <strong>notevole resistenza ai graffi e all'usura.</strong> Essendo un materiale intrinsecamente duro, sopporta molto meglio l'utilizzo quotidiano rispetto ai tradizionali rivestimenti in teflon, che sappiamo essere più delicati e soggetti a danneggiamenti anche con utensili non metallici.<br/><br/><strong>Un altro punto di forza indiscutibile è la sua capacità di resistere alle alte temperature senza subire alterazioni o rilasciare sostanze indesiderate</strong>. <br/>Parlando di preoccupazioni, con le padelle in ceramica possiamo stare più tranquilli per la nostra salute e per l'ambiente. <br/><br/>La praticità si estende anche alla pulizia. Dimentichiamoci della delicatezza richiesta dai rivestimenti tradizionali: la ceramica può essere pulita efficacemente anche con prodotti leggermente abrasivi, senza il timore di danneggiare la superficie antiaderente. Questo ci fa risparmiare tempo e fatica dopo aver cucinato.</p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "column_9deMPH",
-        "column_xPDQ47"
+        "column_cGVdCx",
+        "column_fepjb4",
+        "column_PDzbWY",
+        "column_Pw69Bj"
       ],
       "settings": {
         "title": "",
-        "heading_size": "h0",
+        "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
@@ -73,7 +94,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 24
       }
     },
     "multicolumn_VR4EHF": {
@@ -737,70 +758,6 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_tmaxqc": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_cGVdCx": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_fepjb4": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p><strong>Nel corso del tempo</strong>, <strong>si è sviluppata</strong> <strong>una </strong>crescente <strong>consapevolezza riguardo</strong> ai <strong>potenziali effetti sulla salute</strong> legati all'uso di alcuni rivestimenti antiaderenti, <strong>in particolare a causa della presenza di sostanze come il PFOA</strong> (acido perfluorottanoico) nel processo di produzione del Teflon di vecchia generazione. Questa preoccupazione ha spinto la ricerca e l'innovazione verso alternative più sicure ed ecologiche.<br/><br/><strong>È in questo contesto che il rivestimento antiaderente ceramico ha guadagnato popolarità</strong>. Questo tipo di rivestimento è generalmente realizzato a partire da materiali inorganici, spesso derivati da minerali, e viene applicato sulla base della padella attraverso un processo <strong>che non richiede l'uso di PFOA o PTFE</strong>.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_PDzbWY": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/KnIndustrie-abct-padelle.webp",
-            "title": "",
-            "text": "<h3><a href=\"/collections/knindustrie-catalogo-prodotti-abct\" title=\"ABCT by KnIndustrie\"><strong>Collezione</strong> <strong>Abct - Padelle Antiaderenti Ceramico - KnIndustrie</strong></a></h3>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_Pw69Bj": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Una delle <strong>caratteristich</strong>e più apprezzabili <strong>della ceramica</strong> è la sua <strong>notevole resistenza ai graffi e all'usura.</strong> Essendo un materiale intrinsecamente duro, sopporta molto meglio l'utilizzo quotidiano rispetto ai tradizionali rivestimenti in teflon, che sappiamo essere più delicati e soggetti a danneggiamenti anche con utensili non metallici.<br/><br/><strong>Un altro punto di forza indiscutibile è la sua capacità di resistere alle alte temperature senza subire alterazioni o rilasciare sostanze indesiderate</strong>. <br/>Parlando di preoccupazioni, con le padelle in ceramica possiamo stare più tranquilli per la nostra salute e per l'ambiente. <br/><br/>La praticità si estende anche alla pulizia. Dimentichiamoci della delicatezza richiesta dai rivestimenti tradizionali: la ceramica può essere pulita efficacemente anche con prodotti leggermente abrasivi, senza il timore di danneggiare la superficie antiaderente. Questo ci fa risparmiare tempo e fatica dopo aver cucinato.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_cGVdCx",
-        "column_fepjb4",
-        "column_PDzbWY",
-        "column_Pw69Bj"
-      ],
-      "settings": {
-        "title": "Scopri la collezione di <strong>padelle antiaderenti  ABCT</strong>",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 20,
-        "padding_bottom": 24
-      }
-    },
     "collapsible_content_7AGHFD": {
       "type": "collapsible-content",
       "blocks": {
@@ -1011,7 +968,7 @@
   "order": [
     "main",
     "image_banner_VC4GDe",
-    "multicolumn_3H7kgR",
+    "multicolumn_tmaxqc",
     "multicolumn_VR4EHF",
     "multicolumn_xxGrrA",
     "multicolumn_6fXjNw",
@@ -1028,7 +985,6 @@
     "rich_text_aAFBXa",
     "image_with_text_QcgJTF",
     "multicolumn_tim6dE",
-    "multicolumn_tmaxqc",
     "collapsible_content_7AGHFD",
     "multicolumn_HpnGYB",
     "multicolumn_9eEVfW"
