@@ -374,7 +374,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3><strong>Come distinguere a colpo d’occhio una </strong><em><strong>VERA</strong></em><strong> padella antiaderente</strong></h3><ul><li> <strong>Osserva i dettagli fisici:</strong> una padella di qualità ha un certo peso (non troppo leggera), uno spessore uniforme, materiali solidi, un buon manico e isolante. Se sembra fragile… probabilmente lo è.</li><li> <strong>Controlla le certificazioni:</strong> diciture come <em>PFOA free</em> o marchi di qualità garantiscono l’assenza di sostanze tossiche e un rivestimento sicuro per la salute.</li><li> <strong>Garanzia fa rima con fiducia:</strong> una buona padella viene venduta con una garanzia chiara. Se il produttore non garantisce durata e prestazioni… è un segnale da non ignorare.</li></ul><h3></h3>",
+            "text": "<h3><strong>Come distinguere a colpo d’occhio una </strong><em><strong>VERA</strong></em><strong> padella antiaderente</strong></h3><ul><li> <strong>Osserva i dettagli fisici:</strong> una padella di qualità ha un certo peso (non troppo leggera), uno spessore uniforme, materiali solidi. Se sembra fragile… probabilmente lo è.</li><li> <strong>Controlla le certificazioni:</strong> diciture come <em>PFOA free</em> o marchi di qualità garantiscono l’assenza di sostanze tossiche e un rivestimento sicuro per la salute.</li><li> <strong>Garanzia fa rima con fiducia:</strong> una buona padella viene venduta con una garanzia chiara. Se il produttore non garantisce durata e prestazioni… è un segnale da non ignorare.</li></ul><h3></h3>",
             "link_label": "",
             "link": ""
           }
@@ -437,7 +437,7 @@
     "featured_collection_8kCVCG": {
       "type": "featured-collection",
       "settings": {
-        "title": "Esplora ora la collezione di <strong>padelle antiaderenti Black</strong>: sicure e capaci di dare anche un tocco di <strong>classe ed eleganza</strong> alla tua cucina",
+        "title": "Esplora ora la collezione di <strong>padelle antiaderenti ceramico Black</strong>: sicure e capaci di dare anche un tocco di <strong>classe ed eleganza</strong> alla tua cucina",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -511,7 +511,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/padelle-antiaderenti-migliori.webp",
-            "title": "<strong>Teflon: leggerezza e antiaderenza a un prezzo accessibile</strong>",
+            "title": "<strong>Padelle in teflon: pro, contro e quando conviene davvero usarle</strong>",
             "text": "<p>Il <strong>PTFE (Teflon)</strong> rimane una scelta popolare per la sua eccellente antiaderenza e convenienza. Ideale per cotture delicate a fuoco medio-basso, richiede attenzione nell'uso di utensili e nell'evitare il surriscaldamento oltre i 260°C.</p>",
             "link_label": "",
             "link": ""
@@ -520,7 +520,7 @@
         "column_WxDANE": {
           "type": "column",
           "settings": {
-            "title": "<strong>Ceramica: l'alternativa Eco-Friendly per cotture delicate</strong>",
+            "title": "<strong>Padelle in ceramica: cosa offrono e quando sono la scelta migliore</strong>",
             "text": "<p>Il rivestimento ceramico, privo di PTFE e PFOA, offre una buona antiaderenza e resistenza ai graffi leggeri. Perfetto per cotture a fuoco medio e per chi cerca un'opzione più ecologica, richiede cura per evitare shock termici e temperature eccessive.</p><h2></h2>",
             "link_label": "",
             "link": ""
@@ -529,8 +529,8 @@
         "column_UGrx7L": {
           "type": "column",
           "settings": {
-            "title": "<strong>Titanio, Marmo, Granito: quando la resistenza fa la differenza</strong>",
-            "text": "<p>Questi rivestimenti rinforzati offrono maggiore resistenza all'usura e ai graffi rispetto al Teflon e alla ceramica base. Il <strong>titanio</strong> è ideale per un uso frequente e alta durabilità, mentre i rivestimenti <strong>marmo/granito</strong> offrono un buon compromesso tra prestazioni e prezzo per un uso più intenso.</p><p></p><h2><strong>*modificare h3 rispetto indicazioni  andrea</strong></h2><h2><strong>### sarebbe  da inserire la tabella ###</strong></h2>",
+            "title": "<strong>Altri rivestimenti antiaderenti: titanio, marmo, granito e simili</strong>",
+            "text": "<p><strong>Titanio, Marmo, Granito: quando la resistenza fa la differenza</strong></p><p>Questi rivestimenti rinforzati offrono maggiore resistenza all'usura e ai graffi rispetto al Teflon e alla ceramica base. Il <strong>titanio</strong> è ideale per un uso frequente e alta durabilità, mentre i rivestimenti <strong>marmo/granito</strong> offrono un buon compromesso tra prestazioni e prezzo per un uso più intenso.</p><p></p><h2><strong>*modificare h3 rispetto indicazioni  andrea</strong></h2><h2><strong>### sarebbe  da inserire la tabella ###</strong></h2>",
             "link_label": "",
             "link": ""
           }
