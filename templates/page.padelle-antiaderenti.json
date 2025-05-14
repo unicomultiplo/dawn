@@ -33,6 +33,49 @@
         "show_text_below": true
       }
     },
+    "multicolumn_3H7kgR": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_9deMPH": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_BeLghf": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Nel corso del tempo, si è sviluppata una crescente consapevolezza riguardo ai potenziali effetti sulla salute legati all'uso di alcuni rivestimenti antiaderenti, in particolare a causa della presenza di sostanze come il PFOA (acido perfluorottanoico) nel processo di produzione del Teflon di vecchia generazione. Questa preoccupazione ha spinto la ricerca e l'innovazione verso alternative più sicure ed ecologiche.<br/><br/>È in questo contesto che il rivestimento antiaderente ceramico ha guadagnato popolarità. Questo tipo di rivestimento è generalmente realizzato a partire da materiali inorganici, spesso derivati da minerali, e viene applicato sulla base della padella attraverso un processo che non richiede l'uso di PFOA o PTFE in molte formulazioni moderne.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_9deMPH",
+        "column_BeLghf"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn_VR4EHF": {
       "type": "multicolumn",
       "blocks": {
@@ -853,6 +896,7 @@
   "order": [
     "main",
     "image_banner_VC4GDe",
+    "multicolumn_3H7kgR",
     "multicolumn_VR4EHF",
     "multicolumn_xxGrrA",
     "multicolumn_6fXjNw",
