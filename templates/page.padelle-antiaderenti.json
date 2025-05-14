@@ -58,8 +58,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/knindustrie-abct-handle-video.gif",
-            "title": "Colonna",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "title": "",
+            "text": "<h3><a href=\"/collections/knindustrie-catalogo-prodotti-abct\" title=\"ABCT by KnIndustrie\"><strong>Abct - Padelle antiaderenti ceramico - KnIndustrie</strong></a></h3>",
             "link_label": "",
             "link": ""
           }
