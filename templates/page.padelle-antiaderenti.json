@@ -45,7 +45,7 @@
             "link": ""
           }
         },
-        "column_BeLghf": {
+        "column_xPDQ47": {
           "type": "column",
           "settings": {
             "title": "",
@@ -53,10 +53,20 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_BeLghf": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Una delle <strong>caratteristich</strong>e più apprezzabili <strong>della ceramica</strong> è la sua <strong>notevole resistenza ai graffi e all'usura.</strong> Essendo un materiale intrinsecamente duro, sopporta molto meglio l'utilizzo quotidiano rispetto ai tradizionali rivestimenti in teflon, che sappiamo essere più delicati e soggetti a danneggiamenti anche con utensili non metallici.<br/><br/><strong>Un altro punto di forza indiscutibile è la sua capacità di resistere alle alte temperature senza subire alterazioni o rilasciare sostanze indesiderate</strong>. <br/>Parlando di preoccupazioni, con le padelle in ceramica possiamo stare più tranquilli per la nostra salute e per l'ambiente. <br/><br/>La praticità si estende anche alla pulizia. Dimentichiamoci della delicatezza richiesta dai rivestimenti tradizionali: la ceramica può essere pulita efficacemente anche con prodotti leggermente abrasivi, senza il timore di danneggiare la superficie antiaderente. Questo ci fa risparmiare tempo e fatica dopo aver cucinato.</p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_9deMPH",
+        "column_xPDQ47",
         "column_BeLghf"
       ],
       "settings": {
@@ -314,14 +324,14 @@
         "text_JmwQRX": {
           "type": "text",
           "settings": {
-            "text": "<p>Quando ci troviamo a scegliere una padella antiaderente, è fondamentale capire che non sono tutte uguali. Per assicurarci di portare a casa un prodotto di qualità, dobbiamo prestare attenzione a diversi fattori. Innanzitutto,<strong> il materiale del corpo della padella gioca un ruolo cruciale</strong>: l'alluminio forgiato o l'acciaio inossidabile con un fondo multistrato sono generalmente preferibili perché garantiscono una distribuzione uniforme del calore, aspetto essenziale per una cottura omogenea, e offrono una maggiore durata nel tempo. Anche <strong>lo spessore è importante,</strong> perché una padella troppo sottile potrebbe deformarsi facilmente con il calore.<br/><br/>Poi c'è il cuore della padella antiaderente:<strong> il rivestimento</strong>. Esistono diverse tipologie, come il PTFE, che spesso viene indicato come 'senza PFOA' per rassicurare sulla sua sicurezza, la ceramica e il titanio. Un buon rivestimento dovrebbe avere almeno due o tre strati per resistere meglio all'usura. Non sottovalutiamo poi la <strong>resistenza ai graffi</strong>, un elemento che incide significativamente sulla longevità della padella.<br/><br/>Anche il design e la costruzione generale sono indicatori di qualità. Un <strong>fondo perfettamente piatto</strong> è cruciale, soprattutto se utilizziamo piani cottura a induzione, per garantire un contatto ottimale con la superficie riscaldante. Un <strong>peso ben bilanciato </strong>rende la padella più maneggevole e sicura durante l'utilizzo.<br/><br/>Infine, qualche consiglio per un acquisto davvero consapevole: diffidiamo sempre dai prezzi eccessivamente bassi, perché spesso nascondono una qualità inferiore. Acquistare da rivenditori affidabili ci dà maggiori garanzie sulla provenienza e sulle caratteristiche del prodotto. E, non da ultimo, pensiamo bene alle nostre esigenze specifiche in cucina: quali tipi di cibi cuciniamo più spesso? Quali dimensioni ci sono più utili? Rispondere a queste domande ci aiuterà a fare la scelta più azzeccata.</p><p></p><h3></h3>",
+            "text": "<p>Per assicurarci di portare a casa un prodotto di qualità, dobbiamo prestare attenzione a diversi fattori. Innanzitutto,<strong> il materiale del corpo della padella gioca un ruolo cruciale</strong>: l'alluminio forgiato o l'acciaio inossidabile con un fondo multistrato sono generalmente preferibili perché garantiscono una distribuzione uniforme del calore, aspetto essenziale per una cottura omogenea, e offrono una maggiore durata nel tempo. Anche <strong>lo spessore è importante,</strong> perché una padella troppo sottile potrebbe deformarsi facilmente con il calore.<br/><br/>Poi c'è il cuore della padella antiaderente:<strong> il rivestimento</strong>. Esistono diverse tipologie, come il PTFE, che spesso viene indicato come 'senza PFOA' per rassicurare sulla sua sicurezza, la ceramica e il titanio. Un buon rivestimento dovrebbe avere almeno due o tre strati per resistere meglio all'usura. <br/><br/>Anche il design e la costruzione generale sono indicatori di qualità. Un <strong>fondo perfettamente piatto</strong> è cruciale, soprattutto se utilizziamo piani cottura a induzione, per garantire un contatto ottimale con la superficie riscaldante. Un <strong>peso ben bilanciato </strong>rende la padella più maneggevole e sicura durante l'utilizzo.<br/><br/>Infine, qualche consiglio per un acquisto davvero consapevole: diffidiamo sempre dai prezzi eccessivamente bassi, perché spesso nascondono una qualità inferiore. Acquistare da rivenditori affidabili ci dà maggiori garanzie sulla provenienza e sulle caratteristiche del prodotto. </p><p></p><h3></h3>",
             "text_style": "body"
           }
         },
         "button_Jbq8xx": {
           "type": "button",
           "settings": {
-            "button_label": "Scegli l'Antiaderente",
+            "button_label": "Scegli l'antiaderente",
             "button_link": "shopify://collections/knindustrie-catalogo-prodotti-black",
             "button_style_secondary": true
           }
