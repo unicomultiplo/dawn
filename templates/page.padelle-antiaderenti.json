@@ -53,32 +53,11 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_CXEwq9": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/KnIndustrie-abct-padelle.webp",
-            "title": "",
-            "text": "<h3><a href=\"/collections/knindustrie-catalogo-prodotti-abct\" title=\"ABCT by KnIndustrie\"><strong>Collezione</strong> <strong>Abct - Padelle Antiaderenti Ceramico - KnIndustrie</strong></a></h3>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_BeLghf": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Una delle <strong>caratteristich</strong>e più apprezzabili <strong>della ceramica</strong> è la sua <strong>notevole resistenza ai graffi e all'usura.</strong> Essendo un materiale intrinsecamente duro, sopporta molto meglio l'utilizzo quotidiano rispetto ai tradizionali rivestimenti in teflon, che sappiamo essere più delicati e soggetti a danneggiamenti anche con utensili non metallici.<br/><br/><strong>Un altro punto di forza indiscutibile è la sua capacità di resistere alle alte temperature senza subire alterazioni o rilasciare sostanze indesiderate</strong>. <br/>Parlando di preoccupazioni, con le padelle in ceramica possiamo stare più tranquilli per la nostra salute e per l'ambiente. <br/><br/>La praticità si estende anche alla pulizia. Dimentichiamoci della delicatezza richiesta dai rivestimenti tradizionali: la ceramica può essere pulita efficacemente anche con prodotti leggermente abrasivi, senza il timore di danneggiare la superficie antiaderente. Questo ci fa risparmiare tempo e fatica dopo aver cucinato.</p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "column_9deMPH",
-        "column_xPDQ47",
-        "column_CXEwq9",
-        "column_BeLghf"
+        "column_xPDQ47"
       ],
       "settings": {
         "title": "",
@@ -523,7 +502,7 @@
           "settings": {
             "image": "shopify://shop_images/padelle-antiaderenti-migliori.webp",
             "title": "<strong>Padelle in teflon: pro, contro e quando conviene davvero usarle</strong>",
-            "text": "<p><br/>Le padelle in teflon spiccano per la loro eccezionale antiaderenza, ideale per cotture delicate come uova o pesce, e per la facilità di pulizia. Tuttavia, sono meno resistenti ai graffi e alle alte temperature rispetto ad altre tipologie (evitare il surriscaldamento oltre i 260°C<strong>) </strong>, in passato, la presenza di PFOA durante la produzione sollevava preoccupazioni per la salute (oggi risolte in molti prodotti). Conviene usarle per specifiche preparazioni a fuoco medio-basso dove l'antiaderenza è prioritaria.</p>",
+            "text": "<p>Le padelle in teflon spiccano per la loro eccezionale antiaderenza, ideale per cotture delicate come uova o pesce, e per la facilità di pulizia. Tuttavia, sono meno resistenti ai graffi e alle alte temperature rispetto ad altre tipologie (evitare il surriscaldamento oltre i 260°C<strong>) </strong>, in passato, la presenza di PFOA durante la produzione sollevava preoccupazioni per la salute (oggi risolte in molti prodotti). Conviene usarle per specifiche preparazioni a fuoco medio-basso dove l'antiaderenza è prioritaria.</p>",
             "link_label": "",
             "link": ""
           }
@@ -532,7 +511,7 @@
           "type": "column",
           "settings": {
             "title": "<strong>Padelle in ceramica: cosa offrono e quando sono la scelta migliore</strong>",
-            "text": "<p></p><p>Le padelle in ceramica offrono una buona antiaderenza, notevole resistenza ai graffi e alle alte temperature, e sono realizzate senza PFOA, risultando una scelta più sicura ed ecosostenibile. La loro facilità di pulizia, anche con prodotti non delicati, è un altro vantaggio. Sono la scelta migliore per un uso quotidiano versatile, cotture a temperature medie e alte, e per chi cerca una soluzione durevole e attenta alla salute.</p><h2></h2>",
+            "text": "<p>Le padelle in ceramica offrono una buona antiaderenza, notevole resistenza ai graffi e alle alte temperature, e sono realizzate senza PFOA, risultando una scelta più sicura ed ecosostenibile. La loro facilità di pulizia, anche con prodotti non delicati, è un altro vantaggio. Sono la scelta migliore per un uso quotidiano versatile, cotture a temperature medie e alte, e per chi cerca una soluzione durevole e attenta alla salute.</p><h2></h2>",
             "link_label": "",
             "link": ""
           }
@@ -758,32 +737,68 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_eYfk7g": {
-      "type": "featured-collection",
+    "multicolumn_tmaxqc": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_cGVdCx": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_fepjb4": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><strong>Nel corso del tempo</strong>, <strong>si è sviluppata</strong> <strong>una </strong>crescente <strong>consapevolezza riguardo</strong> ai <strong>potenziali effetti sulla salute</strong> legati all'uso di alcuni rivestimenti antiaderenti, <strong>in particolare a causa della presenza di sostanze come il PFOA</strong> (acido perfluorottanoico) nel processo di produzione del Teflon di vecchia generazione. Questa preoccupazione ha spinto la ricerca e l'innovazione verso alternative più sicure ed ecologiche.<br/><br/><strong>È in questo contesto che il rivestimento antiaderente ceramico ha guadagnato popolarità</strong>. Questo tipo di rivestimento è generalmente realizzato a partire da materiali inorganici, spesso derivati da minerali, e viene applicato sulla base della padella attraverso un processo <strong>che non richiede l'uso di PFOA o PTFE</strong>.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PDzbWY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/KnIndustrie-abct-padelle.webp",
+            "title": "",
+            "text": "<h3><a href=\"/collections/knindustrie-catalogo-prodotti-abct\" title=\"ABCT by KnIndustrie\"><strong>Collezione</strong> <strong>Abct - Padelle Antiaderenti Ceramico - KnIndustrie</strong></a></h3>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Pw69Bj": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Una delle <strong>caratteristich</strong>e più apprezzabili <strong>della ceramica</strong> è la sua <strong>notevole resistenza ai graffi e all'usura.</strong> Essendo un materiale intrinsecamente duro, sopporta molto meglio l'utilizzo quotidiano rispetto ai tradizionali rivestimenti in teflon, che sappiamo essere più delicati e soggetti a danneggiamenti anche con utensili non metallici.<br/><br/><strong>Un altro punto di forza indiscutibile è la sua capacità di resistere alle alte temperature senza subire alterazioni o rilasciare sostanze indesiderate</strong>. <br/>Parlando di preoccupazioni, con le padelle in ceramica possiamo stare più tranquilli per la nostra salute e per l'ambiente. <br/><br/>La praticità si estende anche alla pulizia. Dimentichiamoci della delicatezza richiesta dai rivestimenti tradizionali: la ceramica può essere pulita efficacemente anche con prodotti leggermente abrasivi, senza il timore di danneggiare la superficie antiaderente. Questo ci fa risparmiare tempo e fatica dopo aver cucinato.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_cGVdCx",
+        "column_fepjb4",
+        "column_PDzbWY",
+        "column_Pw69Bj"
+      ],
       "settings": {
-        "title": "Scopri la collezione di <strong>padelle antiaderenti  ABCT</strong>: sicure, raffinate e perfette per dare <strong>luminosità ed eleganza</strong> alla tua cucina.",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "knindustrie-catalogo-prodotti-abct",
-        "products_to_show": 10,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "",
+        "title": "Scopri la collezione di <strong>padelle antiaderenti  ABCT</strong>",
+        "heading_size": "h1",
+        "image_width": "full",
         "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 24
       }
     },
     "collapsible_content_7AGHFD": {
@@ -902,56 +917,92 @@
         "padding_bottom": 0
       }
     },
-    "collection_list_kjc7qg": {
-      "type": "collection-list",
+    "multicolumn_9eEVfW": {
+      "type": "multicolumn",
       "blocks": {
-        "featured_collection_XjmUh9": {
-          "type": "featured_collection",
+        "column_e7DdPQ": {
+          "type": "column",
           "settings": {
-            "collection": ""
+            "image": "shopify://shop_images/Brabantia-Utensili-da-cucina-in-legno-Set-di-3-1.webp",
+            "title": "Colonna",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/4859-ab-by-abert-tempo-lampada-portatile-outdoor"
           }
         },
-        "featured_collection_nVPHXH": {
-          "type": "featured_collection",
+        "column_TzFJt9": {
+          "type": "column",
           "settings": {
-            "collection": ""
+            "image": "shopify://shop_images/Brabantia-Utensili-da-cucina-in-legno-Set-di-3-1.webp",
+            "title": "Colonna",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         },
-        "featured_collection_wWhtzb": {
-          "type": "featured_collection",
+        "column_gmWXNr": {
+          "type": "column",
           "settings": {
-            "collection": ""
+            "image": "shopify://shop_images/Brabantia-Utensili-da-cucina-in-legno-Set-di-3-1.webp",
+            "title": "Colonna",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         },
-        "featured_collection_Jz6JFK": {
-          "type": "featured_collection",
+        "column_LceAPg": {
+          "type": "column",
           "settings": {
-            "collection": ""
+            "image": "shopify://shop_images/Brabantia-Utensili-da-cucina-in-legno-Set-di-3-1.webp",
+            "title": "Colonna",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         },
-        "featured_collection_yfBAEq": {
-          "type": "featured_collection",
+        "column_mCCchC": {
+          "type": "column",
           "settings": {
-            "collection": ""
+            "image": "shopify://shop_images/Brabantia-Utensili-da-cucina-in-legno-Set-di-3-1.webp",
+            "title": "Colonna",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_NLa7je": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brabantia-Utensili-da-cucina-in-legno-Set-di-3-1.webp",
+            "title": "Colonna",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "featured_collection_XjmUh9",
-        "featured_collection_nVPHXH",
-        "featured_collection_wWhtzb",
-        "featured_collection_Jz6JFK",
-        "featured_collection_yfBAEq"
+        "column_e7DdPQ",
+        "column_TzFJt9",
+        "column_gmWXNr",
+        "column_LceAPg",
+        "column_mCCchC",
+        "column_NLa7je"
       ],
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "",
+        "title": "Multicolonnafffffffffffffffffff",
         "heading_size": "h1",
+        "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "",
-        "show_view_all": false,
         "columns_mobile": "2",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -977,9 +1028,9 @@
     "rich_text_aAFBXa",
     "image_with_text_QcgJTF",
     "multicolumn_tim6dE",
-    "featured_collection_eYfk7g",
+    "multicolumn_tmaxqc",
     "collapsible_content_7AGHFD",
     "multicolumn_HpnGYB",
-    "collection_list_kjc7qg"
+    "multicolumn_9eEVfW"
   ]
 }
