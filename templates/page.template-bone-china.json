@@ -110,7 +110,7 @@
             "title": "Domande frequenti sulla Bone China",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola?#shopify-section-template--23360006586633__multicolumn_HpnGYB"
+            "link": "https://www.unicoemultiplo.com/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola?#shopify-section-template--23360006586633__collapsible_content_4C3RVT"
           }
         }
       },
@@ -882,12 +882,22 @@
             "row_content": "<p>Sì, assolutamente! La <strong>Bone China</strong> è <strong>perfettamente sicura</strong> per servire cibi e bevande calde. Grazie alla sua composizione speciale, resiste bene alle alte temperature senza assorbire sapori o odori.</p><p>Tuttavia, è sempre meglio evitare sbalzi termici troppo bruschi (ad esempio, non metterla direttamente dal freezer al microonde) per preservarne l’integrità nel tempo.</p><p><strong>Se cerchi eleganza e praticità per la tua tavola, la Bone China è la scelta ideale! </strong></p>",
             "page": ""
           }
+        },
+        "collapsible_row_qpbR9i": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "eye",
+            "row_content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "collapsible_row_dPxdha",
         "collapsible_row_AcEcTi",
-        "collapsible_row_KKXYBt"
+        "collapsible_row_KKXYBt",
+        "collapsible_row_qpbR9i"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
