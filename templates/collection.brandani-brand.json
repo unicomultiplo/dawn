@@ -115,10 +115,10 @@
     "image_banner_dwHmCM": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/Oliera-brandani.webp",
+        "image": "shopify://shop_images/Oliera-1024x949.webp",
         "image_2": "shopify://shop_images/Party-set-brandani.webp",
         "image_overlay_opacity": 0,
-        "image_height": "small",
+        "image_height": "medium",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
@@ -248,109 +248,6 @@
         "image_ratio": "square",
         "columns_desktop": 5,
         "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "collection_list_Qdy6e7": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_RqezDQ": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_TWG34e": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_TQpVdY": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_FHhQf9": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_cjVhqR": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_HdMe9X": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_MxibnM": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_i6Jj4g": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_RPWgTe": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_VGEGaf": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_mxLhcm": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_JgAKyz": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_RqezDQ",
-        "featured_collection_TWG34e",
-        "featured_collection_TQpVdY",
-        "featured_collection_FHhQf9",
-        "featured_collection_cjVhqR",
-        "featured_collection_HdMe9X",
-        "featured_collection_MxibnM",
-        "featured_collection_i6Jj4g",
-        "featured_collection_RPWgTe",
-        "featured_collection_VGEGaf",
-        "featured_collection_mxLhcm",
-        "featured_collection_JgAKyz"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
@@ -501,6 +398,109 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_Qdy6e7": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_RqezDQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_TWG34e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_TQpVdY": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_FHhQf9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_cjVhqR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_HdMe9X": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_MxibnM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_i6Jj4g": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_RPWgTe": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_VGEGaf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_mxLhcm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_JgAKyz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_RqezDQ",
+        "featured_collection_TWG34e",
+        "featured_collection_TQpVdY",
+        "featured_collection_FHhQf9",
+        "featured_collection_cjVhqR",
+        "featured_collection_HdMe9X",
+        "featured_collection_MxibnM",
+        "featured_collection_i6Jj4g",
+        "featured_collection_RPWgTe",
+        "featured_collection_VGEGaf",
+        "featured_collection_mxLhcm",
+        "featured_collection_JgAKyz"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
