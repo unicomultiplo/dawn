@@ -75,8 +75,8 @@
         "column_EMQ8ey": {
           "type": "column",
           "settings": {
-            "title": "<strong>SUPERFURNITURE</strong> - Un’esplosione pop di forme, colori e personalità",
-            "text": "<p><br/>Chi ha detto che l’arredo deve essere sobrio, uniforme, “a modo”? Con la collezione Super, Seletti firma una linea d’arredo che sfida ogni regola e trasforma lo spazio in un laboratorio creativo. Ogni pezzo è un piccolo statement: geometrie nette, colori pieni, texture patchwork che fanno della tua casa un luogo espressivo, personale, mai banale. <a href=\"/collections/superfurniture-seletti\" target=\"_blank\" title=\"Superfurniture Seletti\"><strong>SCOPRI ORA TUTTA LA COLLEZIONE!</strong></a><br/><br/></p>",
+            "title": "<strong>novità</strong>",
+            "text": "<p><strong>SCOPRI ORA TUTTA LA COLLEZIONE!</strong><br/><br/></p>",
             "link_label": "",
             "link": ""
           }
@@ -96,8 +96,8 @@
         "column_thtXjU"
       ],
       "settings": {
-        "title": "Seletti: NOVITA'",
-        "heading_size": "h0",
+        "title": "Brandani: Novità e Proposte del momento",
+        "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "square",
         "columns_desktop": 1,
@@ -115,8 +115,8 @@
     "image_banner_dwHmCM": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/Seletti-super-forniture-5.webp",
-        "image_2": "shopify://shop_images/Seletti-super-forniture-1.webp",
+        "image": "shopify://shop_images/Oliera-brandani.webp",
+        "image_2": "shopify://shop_images/Party-set-brandani.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-left",
