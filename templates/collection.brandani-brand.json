@@ -23,15 +23,6 @@
     "multicolumn_4fT4dH": {
       "type": "multicolumn",
       "blocks": {
-        "column_tYqADn": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Dal 1964, <strong>Seletti </strong>ha rivoluzionato il complemento d'arredo grazie alla qualità e all'eccellenza del Made in Italy. Innovazione e originalità sono nel DNA del brand: il geniale design quotidiano e fantasioso inizia con <strong>Romano</strong> e prosegue con <strong>Stefano Seletti. </strong></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_qFQxcM": {
           "type": "column",
           "settings": {
@@ -43,7 +34,6 @@
         }
       },
       "block_order": [
-        "column_tYqADn",
         "column_qFQxcM"
       ],
       "settings": {
@@ -66,8 +56,7 @@
     "image_banner_dc8VCJ": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/love-in-bloom-seletti.webp",
-        "image_2": "shopify://shop_images/magna-graecia-seletti.jpg",
+        "image": "shopify://shop_images/brandani-gift-group-piatti.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-left",
