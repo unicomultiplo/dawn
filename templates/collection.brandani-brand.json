@@ -1,0 +1,1048 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        "a {color: #598db2;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
+      }
+    },
+    "multicolumn_4fT4dH": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_tYqADn": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Dal 1964, <strong>Seletti </strong>ha rivoluzionato il complemento d'arredo grazie alla qualità e all'eccellenza del Made in Italy. Innovazione e originalità sono nel DNA del brand: il geniale design quotidiano e fantasioso inizia con <strong>Romano</strong> e prosegue con <strong>Stefano Seletti. </strong></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qFQxcM": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_tYqADn",
+        "column_qFQxcM"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "hxl",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_dc8VCJ": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/love-in-bloom-seletti.webp",
+        "image_2": "shopify://shop_images/magna-graecia-seletti.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
+    "multicolumn_gaht3W": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_EMQ8ey": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>SUPERFURNITURE</strong> - Un’esplosione pop di forme, colori e personalità",
+            "text": "<p><br/>Chi ha detto che l’arredo deve essere sobrio, uniforme, “a modo”? Con la collezione Super, Seletti firma una linea d’arredo che sfida ogni regola e trasforma lo spazio in un laboratorio creativo. Ogni pezzo è un piccolo statement: geometrie nette, colori pieni, texture patchwork che fanno della tua casa un luogo espressivo, personale, mai banale. <a href=\"/collections/superfurniture-seletti\" target=\"_blank\" title=\"Superfurniture Seletti\"><strong>SCOPRI ORA TUTTA LA COLLEZIONE!</strong></a><br/><br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_thtXjU": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_EMQ8ey",
+        "column_thtXjU"
+      ],
+      "settings": {
+        "title": "Seletti: NOVITA'",
+        "heading_size": "h0",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_dwHmCM": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Seletti-super-forniture-5.webp",
+        "image_2": "shopify://shop_images/Seletti-super-forniture-1.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
+    "featured_collection_EihEex": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "description": "",
+        "show_description": false,
+        "description_style": "subtitle",
+        "collection": "superfurniture-seletti",
+        "products_to_show": 8,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "multicolumn_tdPnkh": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_73YVad": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Non perderti le occasioni a prezzo speciale selezionate tra le collezioni <strong>Seletti</strong>: scopri le promozioni in corso! Esplora nuovi mondi celebrando la vita e la sua bellezza, dai servizi per la tavola a<strong>i curiosi oggetti </strong>per arredare con personalità. Un viaggio tra <strong>design visionario e ironia pop</strong>, nato da collaborazioni con designer nazionali e internazionali.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ARgyfM": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_73YVad",
+        "column_ARgyfM"
+      ],
+      "settings": {
+        "title": "Le Collezioni Seletti",
+        "heading_size": "h0",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_DFkntc": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_N7EWW3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-catalogo-prodotti-hybrid"
+          }
+        },
+        "featured_collection_BG6RDT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-catalogo-prodotti-kintsugi"
+          }
+        },
+        "featured_collection_66bUrF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-diesel-living-seletti-classics-on-acid"
+          }
+        },
+        "featured_collection_LdH8WU": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cosmic-diner-seletti"
+          }
+        },
+        "featured_collection_nfRqPK": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "circus-seletti"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_N7EWW3",
+        "featured_collection_BG6RDT",
+        "featured_collection_66bUrF",
+        "featured_collection_LdH8WU",
+        "featured_collection_nfRqPK"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_LxpCcQ": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_d43WTa": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "reflecting-mirror-seletti"
+          }
+        },
+        "featured_collection_GGGQ7E": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-seletti-magna-graecia"
+          }
+        },
+        "featured_collection_HUmzXz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-catalogo-prodotti-diesel-living"
+          }
+        },
+        "featured_collection_tbDtk4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "superfurniture-seletti"
+          }
+        },
+        "featured_collection_3zDpgk": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-catalogo-prodotti-blow-by-job"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_d43WTa",
+        "featured_collection_GGGQ7E",
+        "featured_collection_HUmzXz",
+        "featured_collection_tbDtk4",
+        "featured_collection_3zDpgk"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_kdtLc8": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_hQRCFU": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "amanita-seletti"
+          }
+        },
+        "featured_collection_VpPQix": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "industry-collection-seletti"
+          }
+        },
+        "featured_collection_BimPcU": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "outdoor-seletti"
+          }
+        },
+        "featured_collection_98HBbE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-catalogo-prodotti-seletti-marcantonio-memorabilia"
+          }
+        },
+        "featured_collection_nJCpRB": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-catalogo-prodotti-toiletpaper"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_hQRCFU",
+        "featured_collection_VpPQix",
+        "featured_collection_BimPcU",
+        "featured_collection_98HBbE",
+        "featured_collection_nJCpRB"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_YNNqw7": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_Nj4YM3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "monsters-seletti"
+          }
+        },
+        "featured_collection_B4jq9a": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "love-in-bloom-seletti"
+          }
+        },
+        "featured_collection_CE4PDb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "burnt-carpets-seletti"
+          }
+        },
+        "featured_collection_gRRKLq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pixel-mirrors-seletti"
+          }
+        },
+        "featured_collection_WUyzaY": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "liberty-mirrors-seletti"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_Nj4YM3",
+        "featured_collection_B4jq9a",
+        "featured_collection_CE4PDb",
+        "featured_collection_gRRKLq",
+        "featured_collection_WUyzaY"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_TjThGx": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_emHfqk": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brainwash-seletti"
+          }
+        },
+        "featured_collection_mMJRWf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "vitamin-seletti"
+          }
+        },
+        "featured_collection_nj6rjd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-catalogo-prodotti-marcantonio"
+          }
+        },
+        "featured_collection_y4EtJ7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-catalogo-prodotti-i-wares"
+          }
+        },
+        "featured_collection_QYGzWB": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "windows-lamps-seletti"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_emHfqk",
+        "featured_collection_mMJRWf",
+        "featured_collection_nj6rjd",
+        "featured_collection_y4EtJ7",
+        "featured_collection_QYGzWB"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_Qdy6e7": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_RqezDQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-catalogo-prodotti-seletti-marcantonio-monkey-lamp"
+          }
+        },
+        "featured_collection_JbiLat": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sparrow-lamps-seletti"
+          }
+        },
+        "featured_collection_QRy3fV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "my-little-lamps-seletti"
+          }
+        },
+        "featured_collection_CVYxPT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-catalogo-prodotti-seletti-marcantonio-sending-animals"
+          }
+        },
+        "featured_collection_3GnJaA": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "glass-from-sonny-seletti"
+          }
+        },
+        "featured_collection_Q7dNCQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "meltdown-seletti"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_RqezDQ",
+        "featured_collection_JbiLat",
+        "featured_collection_QRy3fV",
+        "featured_collection_CVYxPT",
+        "featured_collection_3GnJaA",
+        "featured_collection_Q7dNCQ"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_Webjiz": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_zwCcxp": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Scopri gli articoli firmati<strong> Seletti</strong> che uniscono design originale e funzionalità: una vasta selezione di piatti, bicchieri, vasi decorativi e complementi d’arredo   perfetti per arricchire la tua casa e la tua tavola. Design<strong> iconico e creativo </strong>per trovare l’idea regalo perfetta e originale.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PxePj3": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_zwCcxp",
+        "column_PxePj3"
+      ],
+      "settings": {
+        "title": "Catalogo Seletti: articoli per la tavola, complementi d'arredo, illuminazione e idee regalo",
+        "heading_size": "h0",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_pekHrY": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_3tLxTp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "piatti-seletti"
+          }
+        },
+        "featured_collection_BYLb6c": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bicchieri-e-calici-seletti"
+          }
+        },
+        "featured_collection_jtRhyB": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "posate-seletti"
+          }
+        },
+        "featured_collection_wYGKTW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tovaglie-tovagliette-e-sottopiatti-seletti"
+          }
+        },
+        "featured_collection_RDdx7c": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ciotole-coppette-e-insalatiere-seletti"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_3tLxTp",
+        "featured_collection_BYLb6c",
+        "featured_collection_jtRhyB",
+        "featured_collection_wYGKTW",
+        "featured_collection_RDdx7c"
+      ],
+      "settings": {
+        "title": "TABLEWARE - Arte della Tavola",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_qbh9yb": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_TDxJt6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "centrotavola-e-alzate-seletti"
+          }
+        },
+        "featured_collection_NrtCkY": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "vassoi-e-piatti-portata-seletti"
+          }
+        },
+        "featured_collection_M9irnA": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tazze-tazzine-e-mug-seletti"
+          }
+        },
+        "featured_collection_KpJT7y": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bottiglie-e-caraffe-seletti"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_TDxJt6",
+        "featured_collection_NrtCkY",
+        "featured_collection_M9irnA",
+        "featured_collection_KpJT7y"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_qftGfx": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_FBwNMD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "oggetto-decorativo-regalo-seletti"
+          }
+        },
+        "featured_collection_GtcmrP": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "specchi-seletti"
+          }
+        },
+        "featured_collection_xfDzRd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "vasi-seletti"
+          }
+        },
+        "featured_collection_6V8VQE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "candele-e-candelabri-seletti"
+          }
+        },
+        "featured_collection_bqNjJw": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pattumiere-seletti"
+          }
+        },
+        "featured_collection_k3gywW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "borse-astucci-e-beauty-seletti"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_FBwNMD",
+        "featured_collection_GtcmrP",
+        "featured_collection_xfDzRd",
+        "featured_collection_6V8VQE",
+        "featured_collection_bqNjJw",
+        "featured_collection_k3gywW"
+      ],
+      "settings": {
+        "title": "OBJECTS - Idee Regalo",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_ky7KpY": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_eDKzpa": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "oggetto-luce-seletti"
+          }
+        },
+        "featured_collection_gjDg9q": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "lampade-ricaricabili-seletti"
+          }
+        },
+        "featured_collection_gimYUD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "lampade-a-sospensione-parete-seletti"
+          }
+        },
+        "featured_collection_MNrW36": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "lampade-da-tavolo-seletti"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_eDKzpa",
+        "featured_collection_gjDg9q",
+        "featured_collection_gimYUD",
+        "featured_collection_MNrW36"
+      ],
+      "settings": {
+        "title": "LIGHTING - Oggetti Luce",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_jLjhzz": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_kr6qtH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "outdoor-seletti"
+          }
+        },
+        "featured_collection_UQtEpz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tende-seletti"
+          }
+        },
+        "featured_collection_rLH9YK": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cuscini-seletti"
+          }
+        },
+        "featured_collection_DWb3hi": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "specchi-seletti"
+          }
+        },
+        "featured_collection_9Ttgmt": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "vasi-seletti"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_kr6qtH",
+        "featured_collection_UQtEpz",
+        "featured_collection_rLH9YK",
+        "featured_collection_DWb3hi",
+        "featured_collection_9Ttgmt"
+      ],
+      "settings": {
+        "title": "FURNITURE - Arredo",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_J4zThk": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_TwDQqH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "poltrone-pouf-e-divani-seletti"
+          }
+        },
+        "featured_collection_MGz4Ya": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tavoli-e-tavolini-seletti"
+          }
+        },
+        "featured_collection_ihxe7z": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "armadietti-cassettiere-e-mobiletti-seletti"
+          }
+        },
+        "featured_collection_Ctdpx4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sedie-e-sgabelli-seletti"
+          }
+        },
+        "featured_collection_Tq7E9Q": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tappeti-e-tappetini-seletti"
+          }
+        },
+        "featured_collection_KM9h3c": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sdraio-e-lettini-da-piscina-seletti"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_TwDQqH",
+        "featured_collection_MGz4Ya",
+        "featured_collection_ihxe7z",
+        "featured_collection_Ctdpx4",
+        "featured_collection_Tq7E9Q",
+        "featured_collection_KM9h3c"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_Q3fPtj": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_dbkhmp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_MP9iUa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-superfurniture-panca-superbench-blue-stripes.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/superfurniture-seletti"
+          }
+        },
+        "column_E36b7h": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Vitamin-Seletti.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/vitamin-seletti"
+          }
+        },
+        "column_8nnMib": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Outdoor-Seletti.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/outdoor-seletti"
+          }
+        },
+        "column_WKAwtd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brainwash-Seletti.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/brainwash-seletti"
+          }
+        },
+        "column_H7JJW8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-magna-grecia.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/seletti-seletti-magna-graecia"
+          }
+        }
+      },
+      "block_order": [
+        "column_dbkhmp",
+        "column_MP9iUa",
+        "column_E36b7h",
+        "column_8nnMib",
+        "column_WKAwtd",
+        "column_H7JJW8"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "disabled": true,
+      "settings": {
+        "products_per_page": 36,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "standard",
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "multicolumn_4fT4dH",
+    "image_banner_dc8VCJ",
+    "multicolumn_gaht3W",
+    "image_banner_dwHmCM",
+    "featured_collection_EihEex",
+    "multicolumn_tdPnkh",
+    "collection_list_DFkntc",
+    "collection_list_LxpCcQ",
+    "collection_list_kdtLc8",
+    "collection_list_YNNqw7",
+    "collection_list_TjThGx",
+    "collection_list_Qdy6e7",
+    "multicolumn_Webjiz",
+    "collection_list_pekHrY",
+    "collection_list_qbh9yb",
+    "collection_list_qftGfx",
+    "collection_list_ky7KpY",
+    "collection_list_jLjhzz",
+    "collection_list_J4zThk",
+    "multicolumn_Q3fPtj",
+    "product-grid"
+  ]
+}
