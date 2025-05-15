@@ -165,7 +165,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Non perderti le occasioni a prezzo speciale selezionate tra le collezioni <strong>Seletti</strong>: scopri le promozioni in corso! Esplora nuovi mondi celebrando la vita e la sua bellezza, dai servizi per la tavola a<strong>i curiosi oggetti </strong>per arredare con personalità. Un viaggio tra <strong>design visionario e ironia pop</strong>, nato da collaborazioni con designer nazionali e internazionali.</p>",
+            "text": "<p>Non perderti le occasioni a prezzo speciale selezionate tra le collezioni <strong>Seletti</strong>: scopri le promozioni in corso! Esplora nuovi mondi celebrando la vita e la sua bellezza, dai servizi per la tavola a<strong>i curiosi oggetti </strong>per arredare con personalità. Un viaggio tra <strong>design visionario e ironia pop</strong>, nato da collaborazioni con designer nazionali e internazionali.++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</p>",
             "link_label": "",
             "link": ""
           }
@@ -185,7 +185,7 @@
         "column_ARgyfM"
       ],
       "settings": {
-        "title": "Le Collezioni Seletti",
+        "title": "Le Collezioni Brandani",
         "heading_size": "h0",
         "image_width": "third",
         "image_ratio": "square",
@@ -204,259 +204,43 @@
     "collection_list_DFkntc": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_N7EWW3": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-hybrid"
-          }
-        },
-        "featured_collection_BG6RDT": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-kintsugi"
-          }
-        },
-        "featured_collection_66bUrF": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-diesel-living-seletti-classics-on-acid"
-          }
-        },
-        "featured_collection_LdH8WU": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "cosmic-diner-seletti"
-          }
-        },
         "featured_collection_nfRqPK": {
           "type": "featured_collection",
           "settings": {
-            "collection": "circus-seletti"
+            "collection": ""
+          }
+        },
+        "featured_collection_jF6a9i": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_EgxKcD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_6ckEtB": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_J9azQg": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
           }
         }
       },
       "block_order": [
-        "featured_collection_N7EWW3",
-        "featured_collection_BG6RDT",
-        "featured_collection_66bUrF",
-        "featured_collection_LdH8WU",
-        "featured_collection_nfRqPK"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "collection_list_LxpCcQ": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_d43WTa": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "reflecting-mirror-seletti"
-          }
-        },
-        "featured_collection_GGGQ7E": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-seletti-magna-graecia"
-          }
-        },
-        "featured_collection_HUmzXz": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-diesel-living"
-          }
-        },
-        "featured_collection_tbDtk4": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "superfurniture-seletti"
-          }
-        },
-        "featured_collection_3zDpgk": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-blow-by-job"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_d43WTa",
-        "featured_collection_GGGQ7E",
-        "featured_collection_HUmzXz",
-        "featured_collection_tbDtk4",
-        "featured_collection_3zDpgk"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "collection_list_kdtLc8": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_hQRCFU": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "amanita-seletti"
-          }
-        },
-        "featured_collection_VpPQix": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "industry-collection-seletti"
-          }
-        },
-        "featured_collection_BimPcU": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "outdoor-seletti"
-          }
-        },
-        "featured_collection_98HBbE": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-seletti-marcantonio-memorabilia"
-          }
-        },
-        "featured_collection_nJCpRB": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-toiletpaper"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_hQRCFU",
-        "featured_collection_VpPQix",
-        "featured_collection_BimPcU",
-        "featured_collection_98HBbE",
-        "featured_collection_nJCpRB"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "collection_list_YNNqw7": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_Nj4YM3": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "monsters-seletti"
-          }
-        },
-        "featured_collection_B4jq9a": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "love-in-bloom-seletti"
-          }
-        },
-        "featured_collection_CE4PDb": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "burnt-carpets-seletti"
-          }
-        },
-        "featured_collection_gRRKLq": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "pixel-mirrors-seletti"
-          }
-        },
-        "featured_collection_WUyzaY": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "liberty-mirrors-seletti"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_Nj4YM3",
-        "featured_collection_B4jq9a",
-        "featured_collection_CE4PDb",
-        "featured_collection_gRRKLq",
-        "featured_collection_WUyzaY"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "collection_list_TjThGx": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_emHfqk": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brainwash-seletti"
-          }
-        },
-        "featured_collection_mMJRWf": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "vitamin-seletti"
-          }
-        },
-        "featured_collection_nj6rjd": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-marcantonio"
-          }
-        },
-        "featured_collection_y4EtJ7": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-i-wares"
-          }
-        },
-        "featured_collection_QYGzWB": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "windows-lamps-seletti"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_emHfqk",
-        "featured_collection_mMJRWf",
-        "featured_collection_nj6rjd",
-        "featured_collection_y4EtJ7",
-        "featured_collection_QYGzWB"
+        "featured_collection_nfRqPK",
+        "featured_collection_jF6a9i",
+        "featured_collection_EgxKcD",
+        "featured_collection_6ckEtB",
+        "featured_collection_J9azQg"
       ],
       "settings": {
         "title": "",
@@ -477,47 +261,192 @@
         "featured_collection_RqezDQ": {
           "type": "featured_collection",
           "settings": {
-            "collection": "seletti-catalogo-prodotti-seletti-marcantonio-monkey-lamp"
+            "collection": ""
           }
         },
-        "featured_collection_JbiLat": {
+        "featured_collection_TWG34e": {
           "type": "featured_collection",
           "settings": {
-            "collection": "sparrow-lamps-seletti"
+            "collection": ""
           }
         },
-        "featured_collection_QRy3fV": {
+        "featured_collection_TQpVdY": {
           "type": "featured_collection",
           "settings": {
-            "collection": "my-little-lamps-seletti"
+            "collection": ""
           }
         },
-        "featured_collection_CVYxPT": {
+        "featured_collection_FHhQf9": {
           "type": "featured_collection",
           "settings": {
-            "collection": "seletti-catalogo-prodotti-seletti-marcantonio-sending-animals"
+            "collection": ""
           }
         },
-        "featured_collection_3GnJaA": {
+        "featured_collection_cjVhqR": {
           "type": "featured_collection",
           "settings": {
-            "collection": "glass-from-sonny-seletti"
+            "collection": ""
           }
         },
-        "featured_collection_Q7dNCQ": {
+        "featured_collection_HdMe9X": {
           "type": "featured_collection",
           "settings": {
-            "collection": "meltdown-seletti"
+            "collection": ""
+          }
+        },
+        "featured_collection_MxibnM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_i6Jj4g": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_RPWgTe": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_VGEGaf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_mxLhcm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_JgAKyz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
           }
         }
       },
       "block_order": [
         "featured_collection_RqezDQ",
-        "featured_collection_JbiLat",
-        "featured_collection_QRy3fV",
-        "featured_collection_CVYxPT",
-        "featured_collection_3GnJaA",
-        "featured_collection_Q7dNCQ"
+        "featured_collection_TWG34e",
+        "featured_collection_TQpVdY",
+        "featured_collection_FHhQf9",
+        "featured_collection_cjVhqR",
+        "featured_collection_HdMe9X",
+        "featured_collection_MxibnM",
+        "featured_collection_i6Jj4g",
+        "featured_collection_RPWgTe",
+        "featured_collection_VGEGaf",
+        "featured_collection_mxLhcm",
+        "featured_collection_JgAKyz"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_e9iEX4": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_ybBniU": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_3MqXUr": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_dQhKUn": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_rRDnnG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_9XBFNe": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_fGUgPG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_mMd4dW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_gMkgdL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_HfDgjt": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_7KbAXV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_Xf4e3D": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_hfngLL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_ybBniU",
+        "featured_collection_3MqXUr",
+        "featured_collection_dQhKUn",
+        "featured_collection_rRDnnG",
+        "featured_collection_9XBFNe",
+        "featured_collection_fGUgPG",
+        "featured_collection_mMd4dW",
+        "featured_collection_gMkgdL",
+        "featured_collection_HfDgjt",
+        "featured_collection_7KbAXV",
+        "featured_collection_Xf4e3D",
+        "featured_collection_hfngLL"
       ],
       "settings": {
         "title": "",
@@ -539,7 +468,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Scopri gli articoli firmati<strong> Seletti</strong> che uniscono design originale e funzionalità: una vasta selezione di piatti, bicchieri, vasi decorativi e complementi d’arredo   perfetti per arricchire la tua casa e la tua tavola. Design<strong> iconico e creativo </strong>per trovare l’idea regalo perfetta e originale.</p>",
+            "text": "<p>Scopri gli articoli firmati<strong> Seletti</strong> che uniscono design originale e funzionalità: una vasta selezione di piatti, bicchieri, vasi decorativi e complementi d’arredo   perfetti per arricchire la tua casa e la tua tavola. Design<strong> iconico e creativo </strong>per trovare l’idea regalo perfetta e originale.+++++++++++++++++++++++++++++++++++++++++</p>",
             "link_label": "",
             "link": ""
           }
@@ -559,7 +488,7 @@
         "column_PxePj3"
       ],
       "settings": {
-        "title": "Catalogo Seletti: articoli per la tavola, complementi d'arredo, illuminazione e idee regalo",
+        "title": "Catalogo Brandani: articoli per la tavola, complementi d'arredo, idee regalo e bomboniere",
         "heading_size": "h0",
         "image_width": "third",
         "image_ratio": "square",
@@ -575,401 +504,77 @@
         "padding_bottom": 0
       }
     },
-    "collection_list_pekHrY": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_3tLxTp": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "piatti-seletti"
-          }
-        },
-        "featured_collection_BYLb6c": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bicchieri-e-calici-seletti"
-          }
-        },
-        "featured_collection_jtRhyB": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "posate-seletti"
-          }
-        },
-        "featured_collection_wYGKTW": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "tovaglie-tovagliette-e-sottopiatti-seletti"
-          }
-        },
-        "featured_collection_RDdx7c": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "ciotole-coppette-e-insalatiere-seletti"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_3tLxTp",
-        "featured_collection_BYLb6c",
-        "featured_collection_jtRhyB",
-        "featured_collection_wYGKTW",
-        "featured_collection_RDdx7c"
-      ],
-      "settings": {
-        "title": "TABLEWARE - Arte della Tavola",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "collection_list_qbh9yb": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_TDxJt6": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "centrotavola-e-alzate-seletti"
-          }
-        },
-        "featured_collection_NrtCkY": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "vassoi-e-piatti-portata-seletti"
-          }
-        },
-        "featured_collection_M9irnA": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "tazze-tazzine-e-mug-seletti"
-          }
-        },
-        "featured_collection_KpJT7y": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bottiglie-e-caraffe-seletti"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_TDxJt6",
-        "featured_collection_NrtCkY",
-        "featured_collection_M9irnA",
-        "featured_collection_KpJT7y"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h0",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "collection_list_qftGfx": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_FBwNMD": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "oggetto-decorativo-regalo-seletti"
-          }
-        },
-        "featured_collection_GtcmrP": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "specchi-seletti"
-          }
-        },
-        "featured_collection_xfDzRd": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "vasi-seletti"
-          }
-        },
-        "featured_collection_6V8VQE": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "candele-e-candelabri-seletti"
-          }
-        },
-        "featured_collection_bqNjJw": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "pattumiere-seletti"
-          }
-        },
-        "featured_collection_k3gywW": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "borse-astucci-e-beauty-seletti"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_FBwNMD",
-        "featured_collection_GtcmrP",
-        "featured_collection_xfDzRd",
-        "featured_collection_6V8VQE",
-        "featured_collection_bqNjJw",
-        "featured_collection_k3gywW"
-      ],
-      "settings": {
-        "title": "OBJECTS - Idee Regalo",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "collection_list_ky7KpY": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_eDKzpa": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "oggetto-luce-seletti"
-          }
-        },
-        "featured_collection_gjDg9q": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "lampade-ricaricabili-seletti"
-          }
-        },
-        "featured_collection_gimYUD": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "lampade-a-sospensione-parete-seletti"
-          }
-        },
-        "featured_collection_MNrW36": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "lampade-da-tavolo-seletti"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_eDKzpa",
-        "featured_collection_gjDg9q",
-        "featured_collection_gimYUD",
-        "featured_collection_MNrW36"
-      ],
-      "settings": {
-        "title": "LIGHTING - Oggetti Luce",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "collection_list_jLjhzz": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_kr6qtH": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "outdoor-seletti"
-          }
-        },
-        "featured_collection_UQtEpz": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "tende-seletti"
-          }
-        },
-        "featured_collection_rLH9YK": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "cuscini-seletti"
-          }
-        },
-        "featured_collection_DWb3hi": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "specchi-seletti"
-          }
-        },
-        "featured_collection_9Ttgmt": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "vasi-seletti"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_kr6qtH",
-        "featured_collection_UQtEpz",
-        "featured_collection_rLH9YK",
-        "featured_collection_DWb3hi",
-        "featured_collection_9Ttgmt"
-      ],
-      "settings": {
-        "title": "FURNITURE - Arredo",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "collection_list_J4zThk": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_TwDQqH": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "poltrone-pouf-e-divani-seletti"
-          }
-        },
-        "featured_collection_MGz4Ya": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "tavoli-e-tavolini-seletti"
-          }
-        },
-        "featured_collection_ihxe7z": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "armadietti-cassettiere-e-mobiletti-seletti"
-          }
-        },
-        "featured_collection_Ctdpx4": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "sedie-e-sgabelli-seletti"
-          }
-        },
-        "featured_collection_Tq7E9Q": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "tappeti-e-tappetini-seletti"
-          }
-        },
-        "featured_collection_KM9h3c": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "sdraio-e-lettini-da-piscina-seletti"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_TwDQqH",
-        "featured_collection_MGz4Ya",
-        "featured_collection_ihxe7z",
-        "featured_collection_Ctdpx4",
-        "featured_collection_Tq7E9Q",
-        "featured_collection_KM9h3c"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "multicolumn_Q3fPtj": {
       "type": "multicolumn",
       "blocks": {
         "column_dbkhmp": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti.jpg",
+            "image": "shopify://shop_images/brandani-logo-500x500.webp",
             "title": "",
             "text": "",
             "link_label": "",
             "link": ""
           }
         },
-        "column_MP9iUa": {
+        "column_3CDLJQ": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-superfurniture-panca-superbench-blue-stripes.jpg",
+            "image": "shopify://shop_images/brandani-logo-500x500.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/superfurniture-seletti"
+            "link": ""
           }
         },
-        "column_E36b7h": {
+        "column_m6W9zd": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Vitamin-Seletti.jpg",
+            "image": "shopify://shop_images/brandani-logo-500x500.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/vitamin-seletti"
+            "link": ""
           }
         },
-        "column_8nnMib": {
+        "column_pGEzTC": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Outdoor-Seletti.jpg",
+            "image": "shopify://shop_images/brandani-logo-500x500.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/outdoor-seletti"
+            "link": ""
           }
         },
-        "column_WKAwtd": {
+        "column_ijCWHB": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Brainwash-Seletti.webp",
+            "image": "shopify://shop_images/brandani-logo-500x500.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/brainwash-seletti"
+            "link": ""
           }
         },
-        "column_H7JJW8": {
+        "column_rPxGWk": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-magna-grecia.webp",
+            "image": "shopify://shop_images/brandani-logo-500x500.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/seletti-seletti-magna-graecia"
+            "link": ""
           }
         }
       },
       "block_order": [
         "column_dbkhmp",
-        "column_MP9iUa",
-        "column_E36b7h",
-        "column_8nnMib",
-        "column_WKAwtd",
-        "column_H7JJW8"
+        "column_3CDLJQ",
+        "column_m6W9zd",
+        "column_pGEzTC",
+        "column_ijCWHB",
+        "column_rPxGWk"
       ],
       "settings": {
         "title": "",
@@ -1019,18 +624,9 @@
     "featured_collection_EihEex",
     "multicolumn_tdPnkh",
     "collection_list_DFkntc",
-    "collection_list_LxpCcQ",
-    "collection_list_kdtLc8",
-    "collection_list_YNNqw7",
-    "collection_list_TjThGx",
-    "collection_list_Qdy6e7",
+    "collection_list_e9iEX4",
     "multicolumn_Webjiz",
-    "collection_list_pekHrY",
-    "collection_list_qbh9yb",
-    "collection_list_qftGfx",
-    "collection_list_ky7KpY",
-    "collection_list_jLjhzz",
-    "collection_list_J4zThk",
+    "collection_list_Qdy6e7",
     "multicolumn_Q3fPtj",
     "product-grid"
   ]
