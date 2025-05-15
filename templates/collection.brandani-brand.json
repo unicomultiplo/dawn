@@ -517,30 +517,10 @@
             "link": ""
           }
         },
-        "column_3CDLJQ": {
+        "column_rPxGWk": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/brandani-logo-500x500.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_m6W9zd": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brandani-logo-500x500.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_pGEzTC": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brandani-logo-500x500.webp",
+            "image": "shopify://shop_images/Melange.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -550,17 +530,37 @@
         "column_ijCWHB": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/brandani-logo-500x500.webp",
+            "image": "shopify://shop_images/brandani-ares-1_2.jpg",
             "title": "",
             "text": "",
             "link_label": "",
             "link": ""
           }
         },
-        "column_rPxGWk": {
+        "column_m6W9zd": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/brandani-logo-500x500.webp",
+            "image": "shopify://shop_images/citrus-01.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3CDLJQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brandani-shuttle-antiaderente.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pGEzTC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-techno.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -570,11 +570,11 @@
       },
       "block_order": [
         "column_dbkhmp",
-        "column_3CDLJQ",
-        "column_m6W9zd",
-        "column_pGEzTC",
+        "column_rPxGWk",
         "column_ijCWHB",
-        "column_rPxGWk"
+        "column_m6W9zd",
+        "column_3CDLJQ",
+        "column_pGEzTC"
       ],
       "settings": {
         "title": "",
