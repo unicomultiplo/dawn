@@ -56,9 +56,9 @@
     "image_banner_dc8VCJ": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/brandani-gift-group-piatti.webp",
+        "image": "shopify://shop_images/Tavola-1.webp",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
