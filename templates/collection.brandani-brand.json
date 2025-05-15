@@ -56,9 +56,9 @@
     "image_banner_dc8VCJ": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/Tavola-1.webp",
+        "image": "shopify://shop_images/oceano.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "small",
+        "image_height": "medium",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
@@ -201,60 +201,6 @@
         "padding_bottom": 0
       }
     },
-    "collection_list_DFkntc": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_nfRqPK": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_jF6a9i": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_EgxKcD": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_6ckEtB": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_J9azQg": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_nfRqPK",
-        "featured_collection_jF6a9i",
-        "featured_collection_EgxKcD",
-        "featured_collection_6ckEtB",
-        "featured_collection_J9azQg"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "collection_list_e9iEX4": {
       "type": "collection-list",
       "blocks": {
@@ -346,7 +292,267 @@
         "featured_collection_hfngLL"
       ],
       "settings": {
-        "title": "",
+        "title": "Tavola",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_DFkntc": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_nfRqPK": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_jF6a9i": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_EgxKcD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_6ckEtB": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_J9azQg": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_nfRqPK",
+        "featured_collection_jF6a9i",
+        "featured_collection_EgxKcD",
+        "featured_collection_6ckEtB",
+        "featured_collection_J9azQg"
+      ],
+      "settings": {
+        "title": "Melamina",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_mXRFVx": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_rcezF4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_9eHLzE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_V4a9ad": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_hJNb7X": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_BBD7PU": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_4NGL4H": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_B4eJVL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_YjD3AT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_pcXt3w": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_prCETg": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_Lbjqcc": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_DCqTJX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_rcezF4",
+        "featured_collection_9eHLzE",
+        "featured_collection_V4a9ad",
+        "featured_collection_hJNb7X",
+        "featured_collection_BBD7PU",
+        "featured_collection_4NGL4H",
+        "featured_collection_B4eJVL",
+        "featured_collection_YjD3AT",
+        "featured_collection_pcXt3w",
+        "featured_collection_prCETg",
+        "featured_collection_Lbjqcc",
+        "featured_collection_DCqTJX"
+      ],
+      "settings": {
+        "title": "Bomboniere 2025",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_3Gba3F": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_dzTpHV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_dPB3Ff": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_cAhjxK": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_9hCwA8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_ybBLWY": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_hNdpmA": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_YBpFnf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_dWEJQ3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_im8rkT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_Ek7dyC": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_A8KmYQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_NLwM7i": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_dzTpHV",
+        "featured_collection_dPB3Ff",
+        "featured_collection_cAhjxK",
+        "featured_collection_9hCwA8",
+        "featured_collection_ybBLWY",
+        "featured_collection_hNdpmA",
+        "featured_collection_YBpFnf",
+        "featured_collection_dWEJQ3",
+        "featured_collection_im8rkT",
+        "featured_collection_Ek7dyC",
+        "featured_collection_A8KmYQ",
+        "featured_collection_NLwM7i"
+      ],
+      "settings": {
+        "title": "Natale 2025",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 6,
@@ -623,8 +829,10 @@
     "image_banner_dwHmCM",
     "featured_collection_EihEex",
     "multicolumn_tdPnkh",
-    "collection_list_DFkntc",
     "collection_list_e9iEX4",
+    "collection_list_DFkntc",
+    "collection_list_mXRFVx",
+    "collection_list_3Gba3F",
     "multicolumn_Webjiz",
     "collection_list_Qdy6e7",
     "multicolumn_Q3fPtj",
