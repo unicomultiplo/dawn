@@ -58,7 +58,7 @@
       "settings": {
         "image": "shopify://shop_images/oceano.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
@@ -118,7 +118,7 @@
         "image": "shopify://shop_images/Oliera-1024x949.webp",
         "image_2": "shopify://shop_images/Party-set-brandani.webp",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
