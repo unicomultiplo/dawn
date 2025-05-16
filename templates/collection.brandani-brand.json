@@ -307,12 +307,6 @@
     "collection_list_DFkntc": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_nfRqPK": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-punto-oro-brandani"
-          }
-        },
         "featured_collection_jF6a9i": {
           "type": "featured_collection",
           "settings": {
@@ -339,7 +333,6 @@
         }
       },
       "block_order": [
-        "featured_collection_nfRqPK",
         "featured_collection_jF6a9i",
         "featured_collection_EgxKcD",
         "featured_collection_6ckEtB",
