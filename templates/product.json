@@ -72,7 +72,6 @@
         },
         "custom_liquid_tm8pXP": {
           "type": "custom_liquid",
-          "disabled": true,
           "settings": {
             "custom_liquid": "<div>{{ product.metafields.custom.short_description | newline_to_br }}\n</div>"
           }
