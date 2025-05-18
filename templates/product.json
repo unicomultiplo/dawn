@@ -142,6 +142,7 @@
     },
     "custom_liquid_3LNiyx": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<section class=\"page-width\">\n<div>{{ product.metafields.custom.short_description | newline_to_br }}\n</div>\n</section>",
         "color_scheme": "",
