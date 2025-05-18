@@ -70,10 +70,13 @@
           "type": "shopify://apps/glo-color-swatch-variant-image/blocks/product-groups-detail/4394f710-096c-4021-bbde-8ebb26057c11",
           "settings": {}
         },
-        "custom_liquid_tm8pXP": {
-          "type": "custom_liquid",
+        "collapsible_tab_zVcJHM": {
+          "type": "collapsible_tab",
           "settings": {
-            "custom_liquid": "<div>{{ product.metafields.custom.short_description | newline_to_br }}\n</div>"
+            "heading": "Descrizione",
+            "icon": "none",
+            "content": "<p>{{ product.metafields.custom.short_description.value | newline_to_br }}</p>",
+            "page": ""
           }
         },
         "custom_liquid_EJXmHi": {
@@ -115,7 +118,7 @@
         "google_youtube_automated_discounts_price_3DxFhU",
         "glo_color_swatch_variant_image_product_swatches_detail_FpE3Un",
         "glo_color_swatch_variant_image_product_groups_detail_bwq8iX",
-        "custom_liquid_tm8pXP",
+        "collapsible_tab_zVcJHM",
         "custom_liquid_EJXmHi",
         "sku_C4aTJC",
         "description",
