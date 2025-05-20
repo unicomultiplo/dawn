@@ -443,48 +443,6 @@
           "settings": {
             "collection": "brandani-porcellana-bamboo"
           }
-        },
-        "featured_collection_4NGL4H": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-riccioli-di-fata"
-          }
-        },
-        "featured_collection_B4eJVL": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-riflessi"
-          }
-        },
-        "featured_collection_YjD3AT": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-ekol"
-          }
-        },
-        "featured_collection_pcXt3w": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-cornici-e-portaritratti"
-          }
-        },
-        "featured_collection_prCETg": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-salvadanai"
-          }
-        },
-        "featured_collection_Lbjqcc": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_DCqTJX": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
         }
       },
       "block_order": [
@@ -493,17 +451,85 @@
         "featured_collection_9eHLzE",
         "featured_collection_V4a9ad",
         "featured_collection_hJNb7X",
-        "featured_collection_BBD7PU",
-        "featured_collection_4NGL4H",
-        "featured_collection_B4eJVL",
-        "featured_collection_YjD3AT",
-        "featured_collection_pcXt3w",
-        "featured_collection_prCETg",
-        "featured_collection_Lbjqcc",
-        "featured_collection_DCqTJX"
+        "featured_collection_BBD7PU"
       ],
       "settings": {
         "title": "Bomboniere 2025",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_yUF9EA": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_TfDzgV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-porcellana-bamboo"
+          }
+        },
+        "featured_collection_7jqCFg": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-riccioli-di-fata"
+          }
+        },
+        "featured_collection_ETMKWQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-riflessi"
+          }
+        },
+        "featured_collection_tBm6Te": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-ekol"
+          }
+        },
+        "featured_collection_CzFVck": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-cornici-e-portaritratti"
+          }
+        },
+        "featured_collection_P3KYLR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-salvadanai"
+          }
+        },
+        "featured_collection_MP6rF4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_p9PeTa": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_TfDzgV",
+        "featured_collection_7jqCFg",
+        "featured_collection_ETMKWQ",
+        "featured_collection_tBm6Te",
+        "featured_collection_CzFVck",
+        "featured_collection_P3KYLR",
+        "featured_collection_MP6rF4",
+        "featured_collection_p9PeTa"
+      ],
+      "settings": {
+        "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 6,
@@ -554,6 +580,12 @@
             "collection": ""
           }
         },
+        "featured_collection_c9773R": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
         "featured_collection_dWEJQ3": {
           "type": "featured_collection",
           "settings": {
@@ -592,6 +624,7 @@
         "featured_collection_9hCwA8",
         "featured_collection_hNdpmA",
         "featured_collection_YBpFnf",
+        "featured_collection_c9773R",
         "featured_collection_dWEJQ3",
         "featured_collection_im8rkT",
         "featured_collection_Ek7dyC",
@@ -906,6 +939,7 @@
     "collection_list_K8dBJP",
     "collection_list_DFkntc",
     "collection_list_mXRFVx",
+    "collection_list_yUF9EA",
     "collection_list_3Gba3F",
     "multicolumn_Webjiz",
     "collection_list_Qdy6e7",
