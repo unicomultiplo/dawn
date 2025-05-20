@@ -239,42 +239,6 @@
           "settings": {
             "collection": "brandani-le-primizie"
           }
-        },
-        "featured_collection_mMd4dW": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-medicea"
-          }
-        },
-        "featured_collection_gMkgdL": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-punto-oro-brandani"
-          }
-        },
-        "featured_collection_HfDgjt": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-total-white-brandani"
-          }
-        },
-        "featured_collection_7KbAXV": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-riccioli-di-fata"
-          }
-        },
-        "featured_collection_Xf4e3D": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_hfngLL": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
         }
       },
       "block_order": [
@@ -283,13 +247,103 @@
         "featured_collection_dQhKUn",
         "featured_collection_rRDnnG",
         "featured_collection_9XBFNe",
-        "featured_collection_fGUgPG",
-        "featured_collection_mMd4dW",
-        "featured_collection_gMkgdL",
-        "featured_collection_HfDgjt",
-        "featured_collection_7KbAXV",
-        "featured_collection_Xf4e3D",
-        "featured_collection_hfngLL"
+        "featured_collection_fGUgPG"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_K8dBJP": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_3aiwDm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-medicea"
+          }
+        },
+        "featured_collection_PRMC4C": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-punto-oro-brandani"
+          }
+        },
+        "featured_collection_tJBFx7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-total-white-brandani"
+          }
+        },
+        "featured_collection_dVUB8w": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-riccioli-di-fata"
+          }
+        },
+        "featured_collection_FAxcrN": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-drop"
+          }
+        },
+        "featured_collection_jUHfUV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-ekol"
+          }
+        },
+        "featured_collection_7WypaW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-lurex"
+          }
+        },
+        "featured_collection_XqFFcE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-porcellana-bamboo"
+          }
+        },
+        "featured_collection_r7f8mC": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-riflessi"
+          }
+        },
+        "featured_collection_kBV7kM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-shanti-brandani"
+          }
+        },
+        "featured_collection_ViGw6n": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-sinfonia"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_3aiwDm",
+        "featured_collection_PRMC4C",
+        "featured_collection_tJBFx7",
+        "featured_collection_dVUB8w",
+        "featured_collection_FAxcrN",
+        "featured_collection_jUHfUV",
+        "featured_collection_7WypaW",
+        "featured_collection_XqFFcE",
+        "featured_collection_r7f8mC",
+        "featured_collection_kBV7kM",
+        "featured_collection_ViGw6n"
       ],
       "settings": {
         "title": "",
@@ -310,13 +364,13 @@
         "featured_collection_jF6a9i": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "brandani-citrus"
           }
         },
         "featured_collection_EgxKcD": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "brandani-medicea"
           }
         },
         "featured_collection_6ckEtB": {
@@ -387,37 +441,37 @@
         "featured_collection_BBD7PU": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "brandani-porcellana-bamboo"
           }
         },
         "featured_collection_4NGL4H": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "brandani-riccioli-di-fata"
           }
         },
         "featured_collection_B4eJVL": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "brandani-riflessi"
           }
         },
         "featured_collection_YjD3AT": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "brandani-ekol"
           }
         },
         "featured_collection_pcXt3w": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "brandani-cornici-e-portaritratti"
           }
         },
         "featured_collection_prCETg": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "brandani-salvadanai"
           }
         },
         "featured_collection_Lbjqcc": {
@@ -638,60 +692,6 @@
           "settings": {
             "collection": "brandani-vassoi"
           }
-        },
-        "featured_collection_VGEGaf": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_MxibnM": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-bilance-cucina"
-          }
-        },
-        "featured_collection_i6Jj4g": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-coltelli"
-          }
-        },
-        "featured_collection_RPWgTe": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-terracotta-brandani"
-          }
-        },
-        "featured_collection_mxLhcm": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-salvadanai"
-          }
-        },
-        "featured_collection_JgAKyz": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_kW4g3E": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-cornici-e-portaritratti"
-          }
-        },
-        "featured_collection_jPcrCr": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-lampade-e-lanterne"
-          }
-        },
-        "featured_collection_3LKDcp": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-orologi"
-          }
         }
       },
       "block_order": [
@@ -700,22 +700,81 @@
         "featured_collection_TWG34e",
         "featured_collection_FHhQf9",
         "featured_collection_cjVhqR",
-        "featured_collection_HdMe9X",
-        "featured_collection_VGEGaf",
-        "featured_collection_MxibnM",
-        "featured_collection_i6Jj4g",
-        "featured_collection_RPWgTe",
-        "featured_collection_mxLhcm",
-        "featured_collection_JgAKyz",
-        "featured_collection_kW4g3E",
-        "featured_collection_jPcrCr",
-        "featured_collection_3LKDcp"
+        "featured_collection_HdMe9X"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_eL9cLQ": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_36VAwR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-bilance-cucina"
+          }
+        },
+        "featured_collection_9xPQWb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-coltelli"
+          }
+        },
+        "featured_collection_L96jkf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-terracotta-brandani"
+          }
+        },
+        "featured_collection_eier7U": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-salvadanai"
+          }
+        },
+        "featured_collection_kMwC6y": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-cornici-e-portaritratti"
+          }
+        },
+        "featured_collection_ipbpTB": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-lampade-e-lanterne"
+          }
+        },
+        "featured_collection_aPLgnN": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-orologi"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_36VAwR",
+        "featured_collection_9xPQWb",
+        "featured_collection_L96jkf",
+        "featured_collection_eier7U",
+        "featured_collection_kMwC6y",
+        "featured_collection_ipbpTB",
+        "featured_collection_aPLgnN"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "2",
@@ -844,11 +903,13 @@
     "featured_collection_EihEex",
     "multicolumn_tdPnkh",
     "collection_list_e9iEX4",
+    "collection_list_K8dBJP",
     "collection_list_DFkntc",
     "collection_list_mXRFVx",
     "collection_list_3Gba3F",
     "multicolumn_Webjiz",
     "collection_list_Qdy6e7",
+    "collection_list_eL9cLQ",
     "multicolumn_Q3fPtj",
     "product-grid"
   ]
