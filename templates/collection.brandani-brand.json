@@ -379,7 +379,7 @@
           "settings": {
             "button_label": "Aggiungile al tuo set outdoor",
             "button_link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti-melamina?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=title-ascending",
-            "button_style_secondary": false,
+            "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -395,8 +395,8 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "full_width": false,
         "padding_top": 40,
         "padding_bottom": 52
       }
