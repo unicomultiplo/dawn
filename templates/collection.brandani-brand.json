@@ -668,6 +668,12 @@
           "settings": {
             "collection": "brandani-medicea"
           }
+        },
+        "featured_collection_TnjxCj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "diffusori-brandani"
+          }
         }
       },
       "block_order": [
@@ -679,7 +685,8 @@
         "featured_collection_P3KYLR",
         "featured_collection_MP6rF4",
         "featured_collection_p9PeTa",
-        "featured_collection_WFUmje"
+        "featured_collection_WFUmje",
+        "featured_collection_TnjxCj"
       ],
       "settings": {
         "title": "",
@@ -859,6 +866,60 @@
         "padding_bottom": 0
       }
     },
+    "collection_list_qENXQe": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_FWLpUB": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-terracotta-brandani"
+          }
+        },
+        "featured_collection_ncJRQQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "techno-brandani"
+          }
+        },
+        "featured_collection_HxdhTp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "diffusori-brandani"
+          }
+        },
+        "featured_collection_zrnpEw": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pentole-brandani"
+          }
+        },
+        "featured_collection_p9DMzD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sottopiatti-brandani"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_FWLpUB",
+        "featured_collection_ncJRQQ",
+        "featured_collection_HxdhTp",
+        "featured_collection_zrnpEw",
+        "featured_collection_p9DMzD"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "collection_list_eL9cLQ": {
       "type": "collection-list",
       "blocks": {
@@ -874,12 +935,6 @@
             "collection": "brandani-coltelli"
           }
         },
-        "featured_collection_L96jkf": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-terracotta-brandani"
-          }
-        },
         "featured_collection_eier7U": {
           "type": "featured_collection",
           "settings": {
@@ -890,12 +945,6 @@
           "type": "featured_collection",
           "settings": {
             "collection": "brandani-cornici-e-portaritratti"
-          }
-        },
-        "featured_collection_JckiTX": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
           }
         },
         "featured_collection_ipbpTB": {
@@ -914,10 +963,8 @@
       "block_order": [
         "featured_collection_36VAwR",
         "featured_collection_9xPQWb",
-        "featured_collection_L96jkf",
         "featured_collection_eier7U",
         "featured_collection_kMwC6y",
-        "featured_collection_JckiTX",
         "featured_collection_ipbpTB",
         "featured_collection_aPLgnN"
       ],
@@ -1064,6 +1111,7 @@
     "collection_list_3Gba3F",
     "multicolumn_Webjiz",
     "collection_list_Qdy6e7",
+    "collection_list_qENXQe",
     "collection_list_eL9cLQ",
     "multicolumn_Q3fPtj",
     "product-grid"
