@@ -300,42 +300,6 @@
           "settings": {
             "collection": "brandani-ekol"
           }
-        },
-        "featured_collection_7WypaW": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "amore-mio-brandani"
-          }
-        },
-        "featured_collection_UKwzD8": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-lurex"
-          }
-        },
-        "featured_collection_XqFFcE": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-porcellana-bamboo"
-          }
-        },
-        "featured_collection_r7f8mC": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-riflessi"
-          }
-        },
-        "featured_collection_kBV7kM": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-shanti-brandani"
-          }
-        },
-        "featured_collection_ViGw6n": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-sinfonia"
-          }
         }
       },
       "block_order": [
@@ -344,13 +308,68 @@
         "featured_collection_tJBFx7",
         "featured_collection_dVUB8w",
         "featured_collection_FAxcrN",
-        "featured_collection_jUHfUV",
-        "featured_collection_7WypaW",
-        "featured_collection_UKwzD8",
-        "featured_collection_XqFFcE",
-        "featured_collection_r7f8mC",
-        "featured_collection_kBV7kM",
-        "featured_collection_ViGw6n"
+        "featured_collection_jUHfUV"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_Uxgnci": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_ehM4iN": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "amore-mio-brandani"
+          }
+        },
+        "featured_collection_ncxeUj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-lurex"
+          }
+        },
+        "featured_collection_E6kX7F": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-porcellana-bamboo"
+          }
+        },
+        "featured_collection_JRm8wP": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-riflessi"
+          }
+        },
+        "featured_collection_yQAHpx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-shanti-brandani"
+          }
+        },
+        "featured_collection_kCDm4T": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-sinfonia"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_ehM4iN",
+        "featured_collection_ncxeUj",
+        "featured_collection_E6kX7F",
+        "featured_collection_JRm8wP",
+        "featured_collection_yQAHpx",
+        "featured_collection_kCDm4T"
       ],
       "settings": {
         "title": "",
@@ -427,6 +446,68 @@
         "padding_bottom": 36
       }
     },
+    "collection_list_J3JGfC": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_9aM6n6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "queen-brandani"
+          }
+        },
+        "featured_collection_FN4QLM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cactus-brandani"
+          }
+        },
+        "featured_collection_Rh4wX8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "evergreen-brandani"
+          }
+        },
+        "featured_collection_Gk9Wrw": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "boulevard-brandani"
+          }
+        },
+        "featured_collection_kG6HzJ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "calipso-brandani"
+          }
+        },
+        "featured_collection_MYGmi4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "canete-brandani"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_9aM6n6",
+        "featured_collection_FN4QLM",
+        "featured_collection_Rh4wX8",
+        "featured_collection_Gk9Wrw",
+        "featured_collection_kG6HzJ",
+        "featured_collection_MYGmi4"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_MRNMTB": {
       "type": "rich-text",
       "blocks": {
@@ -476,7 +557,7 @@
         "featured_collection_gGT8XK": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "amore-mio-brandani"
           }
         },
         "featured_collection_rcezF4": {
@@ -1009,7 +1090,9 @@
     "multicolumn_tdPnkh",
     "collection_list_e9iEX4",
     "collection_list_K8dBJP",
+    "collection_list_Uxgnci",
     "collection_list_tExDUh",
+    "collection_list_J3JGfC",
     "rich_text_MRNMTB",
     "collection_list_mXRFVx",
     "collection_list_yUF9EA",
