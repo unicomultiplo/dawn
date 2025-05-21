@@ -66,6 +66,7 @@
         "column_gPeEtt",
         "column_rpy7eJ"
       ],
+      "disabled": true,
       "settings": {
         "title": "Scopri tutte le Collezioni Brandani",
         "heading_size": "h2",
@@ -149,6 +150,7 @@
         "column_PafKjq",
         "column_atiHEw"
       ],
+      "disabled": true,
       "settings": {
         "title": "Scopri tutte le Collezioni Brandani",
         "heading_size": "h2",
@@ -165,12 +167,138 @@
         "padding_top": 8,
         "padding_bottom": 12
       }
+    },
+    "collection_list_AiEWgM": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_qJTNXq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-citrus"
+          }
+        },
+        "featured_collection_xjzJhz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "evergreen-brandani"
+          }
+        },
+        "featured_collection_74BxyY": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-fiori-di-campo-brandani"
+          }
+        },
+        "featured_collection_grdwrN": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-flora-brandani"
+          }
+        },
+        "featured_collection_gmzzEV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-limoni-brandani"
+          }
+        },
+        "featured_collection_qhkmMY": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "maya-brandani"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_qJTNXq",
+        "featured_collection_xjzJhz",
+        "featured_collection_74BxyY",
+        "featured_collection_grdwrN",
+        "featured_collection_gmzzEV",
+        "featured_collection_qhkmMY"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "Scopri tutte le Collezioni Brandani",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_NV6KWF": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_riW4Yd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-medicea"
+          }
+        },
+        "featured_collection_DA9gwM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "oceano-brandani"
+          }
+        },
+        "featured_collection_9dmgY8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-porcellana-bamboo"
+          }
+        },
+        "featured_collection_9eiVim": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "queen-brandani"
+          }
+        },
+        "featured_collection_RfXWJw": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "reef-brandani"
+          }
+        },
+        "featured_collection_Pd9A49": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-sinfonia"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_riW4Yd",
+        "featured_collection_DA9gwM",
+        "featured_collection_9dmgY8",
+        "featured_collection_9eiVim",
+        "featured_collection_RfXWJw",
+        "featured_collection_Pd9A49"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "banner",
     "multicolumn_MxLddP",
     "product-grid",
-    "multicolumn_9jBEBY"
+    "multicolumn_9jBEBY",
+    "collection_list_AiEWgM",
+    "collection_list_NV6KWF"
   ]
 }
