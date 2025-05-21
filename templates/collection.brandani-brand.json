@@ -358,51 +358,47 @@
         "padding_bottom": 0
       }
     },
-    "collection_list_DFkntc": {
-      "type": "collection-list",
+    "rich_text_MRNMTB": {
+      "type": "rich-text",
       "blocks": {
-        "featured_collection_jF6a9i": {
-          "type": "featured_collection",
+        "heading_re9pyR": {
+          "type": "heading",
           "settings": {
-            "collection": "brandani-citrus"
+            "heading": "Melamina Brandani",
+            "heading_size": "h1"
           }
         },
-        "featured_collection_EgxKcD": {
-          "type": "featured_collection",
+        "text_yHLqHY": {
+          "type": "text",
           "settings": {
-            "collection": "brandani-medicea"
+            "text": "<p>Leggere, antiscivolo e infrangibili, le stoviglie perfette per la casa e per l’outdoor.</p>"
           }
         },
-        "featured_collection_6ckEtB": {
-          "type": "featured_collection",
+        "button_8BeJwc": {
+          "type": "button",
           "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_J9azQg": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
+            "button_label": "Aggiungile al tuo set outdoor",
+            "button_link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti-melamina?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=title-ascending",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "featured_collection_jF6a9i",
-        "featured_collection_EgxKcD",
-        "featured_collection_6ckEtB",
-        "featured_collection_J9azQg"
+        "heading_re9pyR",
+        "text_yHLqHY",
+        "button_8BeJwc"
       ],
+      "name": "t:sections.rich-text.presets.name",
       "settings": {
-        "title": "Melamina",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "collection_list_mXRFVx": {
@@ -937,7 +933,7 @@
     "multicolumn_tdPnkh",
     "collection_list_e9iEX4",
     "collection_list_K8dBJP",
-    "collection_list_DFkntc",
+    "rich_text_MRNMTB",
     "collection_list_mXRFVx",
     "collection_list_yUF9EA",
     "collection_list_3Gba3F",
