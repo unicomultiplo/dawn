@@ -344,12 +344,6 @@
             "collection": "brandani-porcellana-bamboo"
           }
         },
-        "featured_collection_JRm8wP": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-riflessi"
-          }
-        },
         "featured_collection_yQAHpx": {
           "type": "featured_collection",
           "settings": {
@@ -361,15 +355,21 @@
           "settings": {
             "collection": "brandani-sinfonia"
           }
+        },
+        "featured_collection_Kg3izf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "melange-brandani"
+          }
         }
       },
       "block_order": [
         "featured_collection_ehM4iN",
         "featured_collection_ncxeUj",
         "featured_collection_E6kX7F",
-        "featured_collection_JRm8wP",
         "featured_collection_yQAHpx",
-        "featured_collection_kCDm4T"
+        "featured_collection_kCDm4T",
+        "featured_collection_Kg3izf"
       ],
       "settings": {
         "title": "",
@@ -531,7 +531,7 @@
             "button_link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti-melamina?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=title-ascending",
             "button_style_secondary": false,
             "button_label_2": "Abbinale al Tavolo da esterno",
-            "button_link_2": "",
+            "button_link_2": "shopify://products/brandani-tavolo-pieghevole-bistro-cn-sedie-pieghevoli",
             "button_style_secondary_2": false
           }
         }
@@ -654,13 +654,19 @@
         "featured_collection_MP6rF4": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "i-fruttosi-brandani"
           }
         },
         "featured_collection_p9PeTa": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "brandani-flora-brandani"
+          }
+        },
+        "featured_collection_WFUmje": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-medicea"
           }
         }
       },
@@ -672,7 +678,8 @@
         "featured_collection_CzFVck",
         "featured_collection_P3KYLR",
         "featured_collection_MP6rF4",
-        "featured_collection_p9PeTa"
+        "featured_collection_p9PeTa",
+        "featured_collection_WFUmje"
       ],
       "settings": {
         "title": "",
@@ -717,46 +724,10 @@
         "featured_collection_hNdpmA": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "gioco-di-luci-brandani"
           }
         },
-        "featured_collection_YBpFnf": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_c9773R": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_dWEJQ3": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_im8rkT": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_Ek7dyC": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_A8KmYQ": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_NLwM7i": {
+        "featured_collection_nUn7Cx": {
           "type": "featured_collection",
           "settings": {
             "collection": ""
@@ -769,13 +740,7 @@
         "featured_collection_cAhjxK",
         "featured_collection_9hCwA8",
         "featured_collection_hNdpmA",
-        "featured_collection_YBpFnf",
-        "featured_collection_c9773R",
-        "featured_collection_dWEJQ3",
-        "featured_collection_im8rkT",
-        "featured_collection_Ek7dyC",
-        "featured_collection_A8KmYQ",
-        "featured_collection_NLwM7i"
+        "featured_collection_nUn7Cx"
       ],
       "settings": {
         "title": "Natale 2025",
