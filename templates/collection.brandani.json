@@ -66,6 +66,7 @@
         "column_gPeEtt",
         "column_rpy7eJ"
       ],
+      "disabled": true,
       "settings": {
         "title": "Scopri tutte le Collezioni Brandani",
         "heading_size": "h2",
@@ -102,11 +103,91 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multicolumn_kETqYp": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3EddjA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani_logo_77002b05-e6fb-4724-9a22-0cfcd0664f71.jpg",
+            "title": "Esplora il Brand",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/brandani"
+          }
+        },
+        "column_R4Hzd6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brandani-tavolo-pieghevole-outdoor.webp",
+            "title": "Tavolo Pieghevole",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/brandani-tavolo-pieghevole-bistro-cn-sedie-pieghevoli"
+          }
+        },
+        "column_eXCCEb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/servizio-tavola-brandani-sinfonia.webp",
+            "title": "I Servizi da tavola",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/brandani-piatti"
+          }
+        },
+        "column_WVwjjf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Techno.webp",
+            "title": "Techno",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/techno-brandani"
+          }
+        },
+        "column_TBC6zX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brandani-casseruola-bassa-rossa-ghisa-smaltata-5-litri_1_1.jpg",
+            "title": "Pentole e Padelle",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/pentole-brandani"
+          }
+        }
+      },
+      "block_order": [
+        "column_3EddjA",
+        "column_R4Hzd6",
+        "column_eXCCEb",
+        "column_WVwjjf",
+        "column_TBC6zX"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "banner",
     "multicolumn_MxLddP",
-    "product-grid"
+    "product-grid",
+    "multicolumn_kETqYp"
   ]
 }
