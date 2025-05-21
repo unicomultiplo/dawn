@@ -304,6 +304,12 @@
         "featured_collection_7WypaW": {
           "type": "featured_collection",
           "settings": {
+            "collection": "amore-mio-brandani"
+          }
+        },
+        "featured_collection_UKwzD8": {
+          "type": "featured_collection",
+          "settings": {
             "collection": "brandani-lurex"
           }
         },
@@ -340,6 +346,7 @@
         "featured_collection_FAxcrN",
         "featured_collection_jUHfUV",
         "featured_collection_7WypaW",
+        "featured_collection_UKwzD8",
         "featured_collection_XqFFcE",
         "featured_collection_r7f8mC",
         "featured_collection_kBV7kM",
@@ -356,6 +363,68 @@
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "collection_list_tExDUh": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_mCcYEx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "techno-brandani"
+          }
+        },
+        "featured_collection_b4wYLY": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shuttle-brandani"
+          }
+        },
+        "featured_collection_F4NYGM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "reef-brandani"
+          }
+        },
+        "featured_collection_GRQJmn": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "maya-brandani"
+          }
+        },
+        "featured_collection_M3LHCm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "oceano-brandani"
+          }
+        },
+        "featured_collection_bpkChe": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "i-fruttosi-brandani"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_mCcYEx",
+        "featured_collection_b4wYLY",
+        "featured_collection_F4NYGM",
+        "featured_collection_GRQJmn",
+        "featured_collection_M3LHCm",
+        "featured_collection_bpkChe"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
       }
     },
     "rich_text_MRNMTB": {
@@ -777,6 +846,12 @@
             "collection": "brandani-cornici-e-portaritratti"
           }
         },
+        "featured_collection_JckiTX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
         "featured_collection_ipbpTB": {
           "type": "featured_collection",
           "settings": {
@@ -796,6 +871,7 @@
         "featured_collection_L96jkf",
         "featured_collection_eier7U",
         "featured_collection_kMwC6y",
+        "featured_collection_JckiTX",
         "featured_collection_ipbpTB",
         "featured_collection_aPLgnN"
       ],
@@ -933,6 +1009,7 @@
     "multicolumn_tdPnkh",
     "collection_list_e9iEX4",
     "collection_list_K8dBJP",
+    "collection_list_tExDUh",
     "rich_text_MRNMTB",
     "collection_list_mXRFVx",
     "collection_list_yUF9EA",
