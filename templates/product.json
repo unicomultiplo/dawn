@@ -96,6 +96,7 @@
         },
         "custom_liquid_TjXBEh": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div>{{ product.metafields.custom.short_description | newline_to_br }} </div>"
           }
@@ -117,7 +118,7 @@
             "icon": "ruler",
             "content": "",
             "page": "",
-            "custom-liquid": "{% if product.metafields.custom.capacit_.value %}\n  Capacita: {{ product.metafields.custom.capacit_.value }}\n{% endif %}"
+            "custom-liquid": "{% if product.metafields.shopify.material %}\n<div>\n  Materiale: {% for material in product.metafields.shopify.material.value %}\n          {{ material.label }}\n       {% endfor %}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.lunghezza.value %}\n<div>\n  Lunghezza: {{ product.metafields.custom.lunghezza.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.altezza_2.value %}\n<div>\n  Altezza: {{ product.metafields.custom.altezza_2.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.profondita.value %}\n<div>\n  Profondita: {{ product.metafields.custom.profondita.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.diametro_2.value %}\n<div>\n  Diametro: {{ product.metafields.custom.diametro_2.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.designer.value %}\n<div>\n  Designer: {{ product.metafields.custom.designer.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.capacit_.value %}\n<div>\n  Capacita: {{ product.metafields.custom.capacit_.value }}\n</div>\n{% endif %}"
           }
         },
         "description": {
