@@ -61,7 +61,7 @@
         "custom_liquid_nm4Apd": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<ul class=\"list list-payment\" style=\"margin-top: 20px;\" role=\"list\">\n              {%- for type in shop.enabled_payment_types -%}\n                <li class=\"list-payment__item\">\n                  {{ type | payment_type_svg_tag: class: 'icon icon--full-color' }}\n                </li>\n              {%- endfor -%}\n            </ul>"
+            "custom_liquid": "<ul class=\"list list-payment\" style=\"margin-top: 20px; justify-content: flex-start\" role=\"list\">\n              {%- for type in shop.enabled_payment_types -%}\n                <li class=\"list-payment__item\">\n                  {{ type | payment_type_svg_tag: class: 'icon icon--full-color' }}\n                </li>\n              {%- endfor -%}\n            </ul>"
           }
         },
         "google_youtube_automated_discounts_price_3DxFhU": {
