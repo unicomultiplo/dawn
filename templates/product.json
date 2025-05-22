@@ -77,7 +77,8 @@
             "heading": "Descrizione",
             "icon": "none",
             "content": "<p>{{ product.metafields.custom.short_description.value | newline_to_br }}</p>",
-            "page": ""
+            "page": "",
+            "custom-liquid": ""
           }
         },
         "custom_liquid_EJXmHi": {
@@ -105,7 +106,8 @@
             "heading": "Informazioni",
             "icon": "eye",
             "content": "<p>{{ product.metafields.custom.short_description.value | newline_to_br }}</p>",
-            "page": ""
+            "page": "",
+            "custom-liquid": ""
           }
         },
         "collapsible_tab_NXcbW9": {
@@ -114,7 +116,8 @@
             "heading": "Dimensioni",
             "icon": "ruler",
             "content": "",
-            "page": ""
+            "page": "",
+            "custom-liquid": "{% if product.metafields.custom.capacit_.value %}\n  Capacita: {{ product.metafields.custom.capacit_.value }}\n{% endif %}"
           }
         },
         "description": {
