@@ -153,7 +153,6 @@
     },
     "custom_liquid_q83gja": {
       "type": "custom-liquid",
-      "disabled": true,
       "settings": {
         "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h2>Scopri di più su {{ product.title }}</h2>\n{{ product.content }}\n</div>\n</section>",
         "color_scheme": "",
@@ -188,6 +187,7 @@
         "collapsible_row_PbrTiV",
         "collapsible_row_kDkCBc"
       ],
+      "disabled": true,
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
         "caption": "",
