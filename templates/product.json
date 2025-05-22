@@ -58,6 +58,12 @@
             "show_gift_card_recipient": false
           }
         },
+        "custom_liquid_nm4Apd": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<ul class=\"list list-payment\" style=\"margin-top: 20px;\" role=\"list\">\n              {%- for type in shop.enabled_payment_types -%}\n                <li class=\"list-payment__item\">\n                  {{ type | payment_type_svg_tag: class: 'icon icon--full-color' }}\n                </li>\n              {%- endfor -%}\n            </ul>"
+          }
+        },
         "google_youtube_automated_discounts_price_3DxFhU": {
           "type": "shopify://apps/google-youtube/blocks/automated_discounts_price/14ec7bd0-ac77-49a9-9417-90752398bdff",
           "settings": {}
@@ -144,6 +150,7 @@
         "quantity_selector",
         "variant_picker",
         "buy_buttons",
+        "custom_liquid_nm4Apd",
         "google_youtube_automated_discounts_price_3DxFhU",
         "glo_color_swatch_variant_image_product_swatches_detail_FpE3Un",
         "glo_color_swatch_variant_image_product_groups_detail_bwq8iX",
