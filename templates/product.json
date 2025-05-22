@@ -51,17 +51,17 @@
             "swatch_shape": "circle"
           }
         },
-        "custom_liquid_nm4Apd": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<ul class=\"list list-payment\" style=\"margin-top: 15px; justify-content: flex-start\" role=\"list\">\n              {%- for type in shop.enabled_payment_types -%}\n                <li class=\"list-payment__item\">\n                  {{ type | payment_type_svg_tag: class: 'icon icon--full-color' }}\n                </li>\n              {%- endfor -%}\n            </ul>\n\n<div class=\"klarna-disclaimer\">Paga in 3 rate con <strong>Klarna</strong></div>"
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": false
+          }
+        },
+        "custom_liquid_nm4Apd": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<ul class=\"list list-payment\" style=\"margin-top: 15px; justify-content: flex-start\" role=\"list\">\n              {%- for type in shop.enabled_payment_types -%}\n                <li class=\"list-payment__item\">\n                  {{ type | payment_type_svg_tag: class: 'icon icon--full-color' }}\n                </li>\n              {%- endfor -%}\n            </ul>\n\n<div class=\"klarna-disclaimer\">Paga in 3 rate con <strong>Klarna</strong></div>"
           }
         },
         "google_youtube_automated_discounts_price_3DxFhU": {
@@ -110,7 +110,7 @@
         "collapsible_tab_gGi8MG": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Informazioni",
+            "heading": "Descrizione",
             "icon": "eye",
             "content": "<p>{{ product.metafields.custom.short_description.value | newline_to_br }}</p>",
             "page": "",
@@ -149,8 +149,8 @@
         "qty_disclaimer_6icb8M",
         "quantity_selector",
         "variant_picker",
-        "custom_liquid_nm4Apd",
         "buy_buttons",
+        "custom_liquid_nm4Apd",
         "google_youtube_automated_discounts_price_3DxFhU",
         "glo_color_swatch_variant_image_product_swatches_detail_FpE3Un",
         "glo_color_swatch_variant_image_product_groups_detail_bwq8iX",
