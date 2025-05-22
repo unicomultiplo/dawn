@@ -63,15 +63,16 @@
           "settings": {}
         },
         "glo_color_swatch_variant_image_product_swatches_detail_FpE3Un": {
-          "type": "shopify://apps/glo-color-swatch-variant-image/blocks/product-swatches-detail/4394f710-096c-4021-bbde-8ebb26057c11",
+          "type": "shopify://apps/glo-swatch-bundles/blocks/product-swatches-detail/4394f710-096c-4021-bbde-8ebb26057c11",
           "settings": {}
         },
         "glo_color_swatch_variant_image_product_groups_detail_bwq8iX": {
-          "type": "shopify://apps/glo-color-swatch-variant-image/blocks/product-groups-detail/4394f710-096c-4021-bbde-8ebb26057c11",
+          "type": "shopify://apps/glo-swatch-bundles/blocks/product-groups-detail/4394f710-096c-4021-bbde-8ebb26057c11",
           "settings": {}
         },
         "collapsible_tab_zVcJHM": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Descrizione",
             "icon": "none",
@@ -90,6 +91,12 @@
           "disabled": true,
           "settings": {
             "text_style": "body"
+          }
+        },
+        "custom_liquid_TjXBEh": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div>{{ product.metafields.custom.short_description | newline_to_br }} </div>"
           }
         },
         "description": {
@@ -121,6 +128,7 @@
         "collapsible_tab_zVcJHM",
         "custom_liquid_EJXmHi",
         "sku_C4aTJC",
+        "custom_liquid_TjXBEh",
         "description",
         "custom_liquid_zVHD4U"
       ],
@@ -143,23 +151,57 @@
         "padding_bottom": 12
       }
     },
-    "custom_liquid_3LNiyx": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "<section class=\"page-width\">\n<div>{{ product.metafields.custom.short_description | newline_to_br }}\n</div>\n</section>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 8
-      }
-    },
     "custom_liquid_q83gja": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h2>Scopri di più su {{ product.title }}</h2>\n{{ product.content }}\n</div>\n</section>",
         "color_scheme": "",
         "padding_top": 8,
         "padding_bottom": 20
+      }
+    },
+    "collapsible_content_rDxxtT": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_PbrTiV": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Scopri di più su {{ product.title }}",
+            "icon": "eye",
+            "row_content": "{{ product.description }}",
+            "page": ""
+          }
+        },
+        "collapsible_row_kDkCBc": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "Dimensioni",
+            "icon": "ruler",
+            "row_content": "<p>...</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_PbrTiV",
+        "collapsible_row_kDkCBc"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "related-products": {
@@ -183,8 +225,8 @@
   },
   "order": [
     "main",
-    "custom_liquid_3LNiyx",
     "custom_liquid_q83gja",
+    "collapsible_content_rDxxtT",
     "related-products"
   ]
 }
