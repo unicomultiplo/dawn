@@ -152,7 +152,7 @@
       "settings": {
         "image": "shopify://shop_images/Bitossi-home-posate_7944412b-f563-4e43-b10c-a9ce699e4366.webp",
         "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
