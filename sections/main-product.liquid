@@ -237,6 +237,7 @@
                     <div class="accordion__content rte" id="ProductAccordion-{{ block.id }}-{{ section.id }}">
                       {{ block.settings.content }}
                       {{ block.settings.page.content }}
+                      {{ block.settings.custom-liquid }}
                     </div>
                   </details>
                 </div>
@@ -1182,6 +1183,11 @@
           "type": "page",
           "id": "page",
           "label": "t:sections.main-product.blocks.collapsible_tab.settings.page.label"
+        },
+        {
+          "type": "liquid",
+          "id": "custom-liquid",
+          "label": "Custom Liquid"
         }
       ]
     },

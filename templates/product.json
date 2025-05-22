@@ -99,6 +99,24 @@
             "custom_liquid": "<div>{{ product.metafields.custom.short_description | newline_to_br }} </div>"
           }
         },
+        "collapsible_tab_gGi8MG": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Informazioni",
+            "icon": "eye",
+            "content": "<p>{{ product.metafields.custom.short_description.value | newline_to_br }}</p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_NXcbW9": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Dimensioni",
+            "icon": "ruler",
+            "content": "",
+            "page": ""
+          }
+        },
         "description": {
           "type": "description",
           "disabled": true,
@@ -129,6 +147,8 @@
         "custom_liquid_EJXmHi",
         "sku_C4aTJC",
         "custom_liquid_TjXBEh",
+        "collapsible_tab_gGi8MG",
+        "collapsible_tab_NXcbW9",
         "description",
         "custom_liquid_zVHD4U"
       ],
