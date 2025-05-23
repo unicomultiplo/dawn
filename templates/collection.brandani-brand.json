@@ -204,12 +204,6 @@
     "collection_list_e9iEX4": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_ybBniU": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-campo-ai-fiori"
-          }
-        },
         "featured_collection_3MqXUr": {
           "type": "featured_collection",
           "settings": {
@@ -234,20 +228,26 @@
             "collection": "brandani-limoni-brandani"
           }
         },
-        "featured_collection_fGUgPG": {
+        "featured_collection_FVDVnY": {
           "type": "featured_collection",
           "settings": {
-            "collection": "brandani-le-primizie"
+            "collection": "queen-brandani"
+          }
+        },
+        "featured_collection_w9bxnV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cactus-brandani"
           }
         }
       },
       "block_order": [
-        "featured_collection_ybBniU",
         "featured_collection_3MqXUr",
         "featured_collection_dQhKUn",
         "featured_collection_rRDnnG",
         "featured_collection_9XBFNe",
-        "featured_collection_fGUgPG"
+        "featured_collection_FVDVnY",
+        "featured_collection_w9bxnV"
       ],
       "settings": {
         "title": "",
@@ -265,12 +265,6 @@
     "collection_list_K8dBJP": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_3aiwDm": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-medicea"
-          }
-        },
         "featured_collection_PRMC4C": {
           "type": "featured_collection",
           "settings": {
@@ -283,32 +277,38 @@
             "collection": "brandani-total-white-brandani"
           }
         },
-        "featured_collection_dVUB8w": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-riccioli-di-fata"
-          }
-        },
-        "featured_collection_FAxcrN": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-drop"
-          }
-        },
         "featured_collection_jUHfUV": {
           "type": "featured_collection",
           "settings": {
             "collection": "brandani-ekol"
           }
+        },
+        "featured_collection_bKgP38": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "boulevard-brandani"
+          }
+        },
+        "featured_collection_UUtfAL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "techno-brandani"
+          }
+        },
+        "featured_collection_DFgkbL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shuttle-brandani"
+          }
         }
       },
       "block_order": [
-        "featured_collection_3aiwDm",
         "featured_collection_PRMC4C",
         "featured_collection_tJBFx7",
-        "featured_collection_dVUB8w",
-        "featured_collection_FAxcrN",
-        "featured_collection_jUHfUV"
+        "featured_collection_jUHfUV",
+        "featured_collection_bKgP38",
+        "featured_collection_UUtfAL",
+        "featured_collection_DFgkbL"
       ],
       "settings": {
         "title": "",
@@ -332,22 +332,10 @@
             "collection": "amore-mio-brandani"
           }
         },
-        "featured_collection_ncxeUj": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-lurex"
-          }
-        },
         "featured_collection_E6kX7F": {
           "type": "featured_collection",
           "settings": {
             "collection": "brandani-porcellana-bamboo"
-          }
-        },
-        "featured_collection_yQAHpx": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-shanti-brandani"
           }
         },
         "featured_collection_kCDm4T": {
@@ -361,15 +349,27 @@
           "settings": {
             "collection": "melange-brandani"
           }
+        },
+        "featured_collection_99Xjyy": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "calipso-brandani"
+          }
+        },
+        "featured_collection_DXY9Hm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "canete-brandani"
+          }
         }
       },
       "block_order": [
         "featured_collection_ehM4iN",
-        "featured_collection_ncxeUj",
         "featured_collection_E6kX7F",
-        "featured_collection_yQAHpx",
         "featured_collection_kCDm4T",
-        "featured_collection_Kg3izf"
+        "featured_collection_Kg3izf",
+        "featured_collection_99Xjyy",
+        "featured_collection_DXY9Hm"
       ],
       "settings": {
         "title": "",
@@ -382,130 +382,6 @@
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "collection_list_tExDUh": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_mCcYEx": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "techno-brandani"
-          }
-        },
-        "featured_collection_b4wYLY": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "shuttle-brandani"
-          }
-        },
-        "featured_collection_F4NYGM": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "reef-brandani"
-          }
-        },
-        "featured_collection_GRQJmn": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "maya-brandani"
-          }
-        },
-        "featured_collection_M3LHCm": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "oceano-brandani"
-          }
-        },
-        "featured_collection_bpkChe": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "i-fruttosi-brandani"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_mCcYEx",
-        "featured_collection_b4wYLY",
-        "featured_collection_F4NYGM",
-        "featured_collection_GRQJmn",
-        "featured_collection_M3LHCm",
-        "featured_collection_bpkChe"
-      ],
-      "name": "t:sections.collection-list.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
-    "collection_list_J3JGfC": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_9aM6n6": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "queen-brandani"
-          }
-        },
-        "featured_collection_FN4QLM": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "cactus-brandani"
-          }
-        },
-        "featured_collection_Rh4wX8": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "evergreen-brandani"
-          }
-        },
-        "featured_collection_Gk9Wrw": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "boulevard-brandani"
-          }
-        },
-        "featured_collection_kG6HzJ": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "calipso-brandani"
-          }
-        },
-        "featured_collection_MYGmi4": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "canete-brandani"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_9aM6n6",
-        "featured_collection_FN4QLM",
-        "featured_collection_Rh4wX8",
-        "featured_collection_Gk9Wrw",
-        "featured_collection_kG6HzJ",
-        "featured_collection_MYGmi4"
-      ],
-      "name": "t:sections.collection-list.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 36
       }
     },
     "rich_text_MRNMTB": {
@@ -551,6 +427,61 @@
         "padding_bottom": 52
       }
     },
+    "collection_list_J3JGfC": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_Rh4wX8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "evergreen-brandani"
+          }
+        },
+        "featured_collection_FhrbHK": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "reef-brandani"
+          }
+        },
+        "featured_collection_mHtGDR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "maya-brandani"
+          }
+        },
+        "featured_collection_M9FNnN": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "oceano-brandani"
+          }
+        },
+        "featured_collection_BxxeNg": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-medicea"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_Rh4wX8",
+        "featured_collection_FhrbHK",
+        "featured_collection_mHtGDR",
+        "featured_collection_M9FNnN",
+        "featured_collection_BxxeNg"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
     "collection_list_mXRFVx": {
       "type": "collection-list",
       "blocks": {
@@ -564,12 +495,6 @@
           "type": "featured_collection",
           "settings": {
             "collection": "brandani-ares"
-          }
-        },
-        "featured_collection_9eHLzE": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-citrus"
           }
         },
         "featured_collection_V4a9ad": {
@@ -594,7 +519,6 @@
       "block_order": [
         "featured_collection_gGT8XK",
         "featured_collection_rcezF4",
-        "featured_collection_9eHLzE",
         "featured_collection_V4a9ad",
         "featured_collection_hJNb7X",
         "featured_collection_BBD7PU"
@@ -657,18 +581,6 @@
             "collection": "i-fruttosi-brandani"
           }
         },
-        "featured_collection_p9PeTa": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-flora-brandani"
-          }
-        },
-        "featured_collection_WFUmje": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-medicea"
-          }
-        },
         "featured_collection_TnjxCj": {
           "type": "featured_collection",
           "settings": {
@@ -684,8 +596,6 @@
         "featured_collection_CzFVck",
         "featured_collection_P3KYLR",
         "featured_collection_MP6rF4",
-        "featured_collection_p9PeTa",
-        "featured_collection_WFUmje",
         "featured_collection_TnjxCj"
       ],
       "settings": {
@@ -749,6 +659,7 @@
         "featured_collection_hNdpmA",
         "featured_collection_nUn7Cx"
       ],
+      "disabled": true,
       "settings": {
         "title": "Natale 2025",
         "heading_size": "h1",
@@ -1110,9 +1021,8 @@
     "collection_list_e9iEX4",
     "collection_list_K8dBJP",
     "collection_list_Uxgnci",
-    "collection_list_tExDUh",
-    "collection_list_J3JGfC",
     "rich_text_MRNMTB",
+    "collection_list_J3JGfC",
     "collection_list_mXRFVx",
     "collection_list_yUF9EA",
     "collection_list_3Gba3F",
