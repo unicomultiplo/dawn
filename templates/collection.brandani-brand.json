@@ -204,22 +204,10 @@
     "collection_list_e9iEX4": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_3MqXUr": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-citrus"
-          }
-        },
         "featured_collection_dQhKUn": {
           "type": "featured_collection",
           "settings": {
             "collection": "brandani-fiori-di-campo-brandani"
-          }
-        },
-        "featured_collection_rRDnnG": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-flora-brandani"
           }
         },
         "featured_collection_9XBFNe": {
@@ -242,9 +230,7 @@
         }
       },
       "block_order": [
-        "featured_collection_3MqXUr",
         "featured_collection_dQhKUn",
-        "featured_collection_rRDnnG",
         "featured_collection_9XBFNe",
         "featured_collection_FVDVnY",
         "featured_collection_w9bxnV"
@@ -459,6 +445,12 @@
           "settings": {
             "collection": "brandani-medicea"
           }
+        },
+        "featured_collection_VJRMde": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-citrus"
+          }
         }
       },
       "block_order": [
@@ -466,7 +458,8 @@
         "featured_collection_FhrbHK",
         "featured_collection_mHtGDR",
         "featured_collection_M9FNnN",
-        "featured_collection_BxxeNg"
+        "featured_collection_BxxeNg",
+        "featured_collection_VJRMde"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
@@ -503,16 +496,22 @@
             "collection": "brandani-drop"
           }
         },
-        "featured_collection_hJNb7X": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-shanti-brandani"
-          }
-        },
         "featured_collection_BBD7PU": {
           "type": "featured_collection",
           "settings": {
             "collection": "brandani-porcellana-bamboo"
+          }
+        },
+        "featured_collection_bgAikq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-flora-brandani"
+          }
+        },
+        "featured_collection_jmhWNe": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "diffusori-brandani"
           }
         }
       },
@@ -520,8 +519,9 @@
         "featured_collection_gGT8XK",
         "featured_collection_rcezF4",
         "featured_collection_V4a9ad",
-        "featured_collection_hJNb7X",
-        "featured_collection_BBD7PU"
+        "featured_collection_BBD7PU",
+        "featured_collection_bgAikq",
+        "featured_collection_jmhWNe"
       ],
       "settings": {
         "title": "Bomboniere 2025",
@@ -539,12 +539,6 @@
     "collection_list_yUF9EA": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_TfDzgV": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-porcellana-bamboo"
-          }
-        },
         "featured_collection_7jqCFg": {
           "type": "featured_collection",
           "settings": {
@@ -580,23 +574,15 @@
           "settings": {
             "collection": "i-fruttosi-brandani"
           }
-        },
-        "featured_collection_TnjxCj": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "diffusori-brandani"
-          }
         }
       },
       "block_order": [
-        "featured_collection_TfDzgV",
         "featured_collection_7jqCFg",
         "featured_collection_ETMKWQ",
         "featured_collection_tBm6Te",
         "featured_collection_CzFVck",
         "featured_collection_P3KYLR",
-        "featured_collection_MP6rF4",
-        "featured_collection_TnjxCj"
+        "featured_collection_MP6rF4"
       ],
       "settings": {
         "title": "",
