@@ -112,22 +112,6 @@
         "padding_bottom": 0
       }
     },
-    "image_banner_dwHmCM": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify://shop_images/brandani-tavolo-pieghevole-outdoor.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "middle-left",
-        "show_text_box": true,
-        "desktop_content_alignment": "left",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": true
-      }
-    },
     "featured_collection_EihEex": {
       "type": "featured-collection",
       "disabled": true,
@@ -155,6 +139,70 @@
         "swipe_on_mobile": true,
         "padding_top": 24,
         "padding_bottom": 24
+      }
+    },
+    "image_banner_qREnQ4": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_with_text_Xdma7m": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_BrVxdm": {
+          "type": "heading",
+          "settings": {
+            "heading": "Brandani: Novità e Proposte del momento",
+            "heading_size": "h1"
+          }
+        },
+        "text_b3CnpN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>dddcdcdcdc</p>",
+            "text_style": "body"
+          }
+        },
+        "button_BkhTAt": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scoprilo subito",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_BrVxdm",
+        "text_b3CnpN",
+        "button_BkhTAt"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/brandani-tavolo-pieghevole-outdoor.webp",
+        "height": "small",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn_tdPnkh": {
@@ -1000,8 +1048,9 @@
     "multicolumn_4fT4dH",
     "image_banner_dc8VCJ",
     "multicolumn_gaht3W",
-    "image_banner_dwHmCM",
     "featured_collection_EihEex",
+    "image_banner_qREnQ4",
+    "image_with_text_Xdma7m",
     "multicolumn_tdPnkh",
     "collection_list_Uxgnci",
     "collection_list_K8dBJP",
