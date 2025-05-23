@@ -898,6 +898,12 @@
           "settings": {
             "collection": "sottopiatti-brandani"
           }
+        },
+        "featured_collection_gjQczm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-lampade-e-lanterne"
+          }
         }
       },
       "block_order": [
@@ -905,7 +911,8 @@
         "featured_collection_ncJRQQ",
         "featured_collection_HxdhTp",
         "featured_collection_zrnpEw",
-        "featured_collection_p9DMzD"
+        "featured_collection_p9DMzD",
+        "featured_collection_gjQczm"
       ],
       "settings": {
         "title": "",
@@ -1001,7 +1008,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/melange-brandani"
           }
         },
         "column_ijCWHB": {
