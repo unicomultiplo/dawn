@@ -75,8 +75,8 @@
         "column_EMQ8ey": {
           "type": "column",
           "settings": {
-            "title": "<strong>novità</strong>",
-            "text": "<p><strong>SCOPRI ORA TUTTA LA COLLEZIONE!</strong><br/><br/></p>",
+            "title": "<strong>È ufficiale:</strong> è il momento di godersi la vita all’aria aperta!<strong> Il tavolino bistrò</strong> Brandani, compatto, pieghevole e subito pronto all’uso, è il compagno ideale per un caffè al volo, una pausa rinfrescante all’ombra o un aperitivo improvvisato.",
+            "text": "<p><br/>Che sia terrazza, giardino o balcone, basta aprirlo, aggiungere le due sedie… e il relax è servito! E a fine giornata? Tac, si richiude in un attimo: minimo ingombro, massimo comfort.<br/><br/></p><p><strong>SCOPRI ORA TUTTA LA NUOVA  COLLEZIONE!</strong></p>",
             "link_label": "",
             "link": ""
           }
@@ -145,6 +145,7 @@
       "type": "image-banner",
       "name": "t:sections.image-banner.presets.name",
       "settings": {
+        "image": "shopify://shop_images/Brandani-tavolino-pieghele-outdoor-1.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -188,6 +189,7 @@
         "text_b3CnpN",
         "button_BkhTAt"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/brandani-tavolo-pieghevole-outdoor.webp",
