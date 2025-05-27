@@ -540,8 +540,8 @@
         "column_zAWfD7": {
           "type": "column",
           "settings": {
-            "title": "<strong>La nostra scelta è il rivestimento ceramico</strong>",
-            "text": "<p><strong><br/>La nostra scelta è il rivestimento ceramico<br/><br/></strong></p>",
+            "title": "<strong>La nostra scelta è il  RIVESTIMENTO CERAMICO</strong>",
+            "text": "",
             "link_label": "",
             "link": "shopify://collections/knindustrie-catalogo-prodotti-abct"
           }
@@ -573,7 +573,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "shopify://collections/piatti-in-bone-china",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
