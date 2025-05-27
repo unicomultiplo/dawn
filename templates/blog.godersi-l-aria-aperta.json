@@ -29,14 +29,14 @@
         "heading_eAr7dK": {
           "type": "heading",
           "settings": {
-            "heading": "CUCINA CHE PASSIONE",
+            "heading": "GODERSI L'ARIA APERTA",
             "heading_size": "h1"
           }
         },
         "text_jDNphd": {
           "type": "text",
           "settings": {
-            "text": "<p>Cucinare è un gesto di cura e di amore. Qui troverai <strong>consigli, trucchi e prodotti utili e funzionali </strong>per renderlo un vero piacere: solo amore, zero stress. Dai consigli per le migliori pentole e padelle a tante idee per ricette gustose: leggi e scopri di più!</p>"
+            "text": "<p>Scopri come arredare al meglio gli spazi esterni: consigli utili per scegliere un tavolo da giardino, illuminare il terrazzo, allestire un brunch all’aperto. Per <strong>vivere con stile anche gli spazi aperti</strong>: piccoli angoli che sanno regalare attimi davvero magici.</p>"
           }
         }
       },
@@ -58,7 +58,7 @@
       "settings": {
         "heading": "Cucina che Passione",
         "heading_size": "h1",
-        "blog": "cucina-che-passione",
+        "blog": "godersi-laria-aperta",
         "post_limit": 4,
         "columns_desktop": 2,
         "color_scheme": "",
