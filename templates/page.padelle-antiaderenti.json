@@ -541,7 +541,7 @@
           "type": "column",
           "settings": {
             "title": "<strong>La nostra scelta è il  RIVESTIMENTO CERAMICO</strong>",
-            "text": "",
+            "text": "<p><strong>La nostra scelta è il  RIVESTIMENTO CERAMICO</strong></p>",
             "link_label": "",
             "link": "shopify://collections/knindustrie-catalogo-prodotti-abct"
           }
