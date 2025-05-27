@@ -715,7 +715,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>ll catalogo Brandani offre una vasta selezione di articoli per ogni ambiente della casa: eleganti accessori per la tavola, complementi d'arredo dal gusto contemporaneo, originali idee regalo e bomboniere personalizzabili. Ogni prodotto riflette l’amore per il dettaglio e la qualità artigianale italiana. <br/></p>",
+            "text": "<p>ll <strong>catalogo Brandani</strong> offre una vasta selezione di articoli per ogni ambiente della casa: eleganti accessori per la tavola, complementi d'arredo dal gusto contemporaneo, <strong>originali idee regalo</strong> e bomboniere personalizzabili. <strong>Ogni prodotto riflette l’amore per il dettaglio e la qualità artigianale italiana. </strong><br/></p>",
             "link_label": "",
             "link": ""
           }
