@@ -563,6 +563,9 @@
         "column_zAWfD7",
         "column_UGrx7L"
       ],
+      "custom_css": [
+        "a {color: #598db2;}"
+      ],
       "settings": {
         "title": "<strong>Qual è il miglior rivestimento antiaderente per le tue esigenze?</strong>",
         "heading_size": "h1",
@@ -572,8 +575,8 @@
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
-        "button_link": "shopify://collections/piatti-in-bone-china",
-        "color_scheme": "scheme-2",
+        "button_link": "",
+        "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
