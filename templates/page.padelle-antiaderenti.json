@@ -540,7 +540,7 @@
         "column_zAWfD7": {
           "type": "column",
           "settings": {
-            "title": "<strong>La nostra scelta è il  RIVESTIMENTO CERAMICO</strong>",
+            "title": "",
             "text": "<p><strong>La nostra scelta è il  RIVESTIMENTO CERAMICO</strong></p>",
             "link_label": "",
             "link": "shopify://collections/knindustrie-catalogo-prodotti-abct"
@@ -576,7 +576,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
