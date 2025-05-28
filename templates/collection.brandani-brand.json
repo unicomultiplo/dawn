@@ -212,7 +212,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Non perderti le occasioni a <strong>prezzo speciale</strong> selezionate tra le collezioni <strong>Brandani</strong>: scopri le promozioni in corso! <br/>Le collezioni Brandani offrono un mix perfetto di stile italiano, funzionalità e design originale, pensato per ogni ambiente della casa. <br/>Brandani unisce tradizione e modernità in <strong>articoli unici </strong>e <strong>funzionali</strong>, ideali anche come <strong>regali</strong>, <strong>segnaposto  </strong>e <strong>bomboniere originali</strong>.<br/><br/></p>",
+            "text": "<p>Non perderti le occasioni a <strong>prezzo speciale</strong> selezionate tra le collezioni <strong>Brandani</strong>: scopri le promozioni in corso! <br/>Le collezioni Brandani offrono un mix perfetto di stile italiano, funzionalità e design originale, pensato per ogni ambiente della casa. <br/>Brandani unisce tradizione e modernità in <strong>articoli unici </strong>e <strong>funzionali</strong>, ideali anche come <strong>regali</strong>, <strong>segnaposto  </strong>e <strong>bomboniere originali</strong>.</p>",
             "link_label": "",
             "link": ""
           }
@@ -468,7 +468,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "collection_list_3Gba3F": {
