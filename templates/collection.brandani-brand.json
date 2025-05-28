@@ -143,7 +143,6 @@
     },
     "image_banner_qREnQ4": {
       "type": "image-banner",
-      "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/Brandani-tavolino-pieghele-outdoor-1.webp",
         "image_overlay_opacity": 0,
@@ -190,7 +189,6 @@
         "button_BkhTAt"
       ],
       "disabled": true,
-      "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/brandani-tavolo-pieghevole-outdoor.webp",
         "height": "small",
@@ -419,49 +417,6 @@
         "padding_bottom": 0
       }
     },
-    "rich_text_MRNMTB": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_re9pyR": {
-          "type": "heading",
-          "settings": {
-            "heading": "Stoviglie Malamina",
-            "heading_size": "h1"
-          }
-        },
-        "text_yHLqHY": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Leggere, antiscivolo e infrangibili, le stoviglie perfette per la casa e per l’outdoor.</p>"
-          }
-        },
-        "button_8BeJwc": {
-          "type": "button",
-          "settings": {
-            "button_label": "Aggiungile al tuo set outdoor",
-            "button_link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti-melamina?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=title-ascending",
-            "button_style_secondary": false,
-            "button_label_2": "Abbinale al Tavolo da esterno",
-            "button_link_2": "shopify://products/brandani-tavolo-pieghevole-bistro-cn-sedie-pieghevoli",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_re9pyR",
-        "text_yHLqHY",
-        "button_8BeJwc"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "collection_list_J3JGfC": {
       "type": "collection-list",
       "blocks": {
@@ -510,7 +465,6 @@
         "featured_collection_BxxeNg",
         "featured_collection_VJRMde"
       ],
-      "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "Stoviglie in Melamina",
         "heading_size": "h1",
@@ -522,128 +476,6 @@
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 36
-      }
-    },
-    "collection_list_mXRFVx": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_gGT8XK": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "amore-mio-brandani"
-          }
-        },
-        "featured_collection_rcezF4": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-ares"
-          }
-        },
-        "featured_collection_V4a9ad": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-drop"
-          }
-        },
-        "featured_collection_BBD7PU": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-porcellana-bamboo"
-          }
-        },
-        "featured_collection_bgAikq": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-flora-brandani"
-          }
-        },
-        "featured_collection_jmhWNe": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "diffusori-brandani"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_gGT8XK",
-        "featured_collection_rcezF4",
-        "featured_collection_V4a9ad",
-        "featured_collection_BBD7PU",
-        "featured_collection_bgAikq",
-        "featured_collection_jmhWNe"
-      ],
-      "settings": {
-        "title": "Bomboniere 2025",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "collection_list_yUF9EA": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_7jqCFg": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-riccioli-di-fata"
-          }
-        },
-        "featured_collection_ETMKWQ": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-riflessi"
-          }
-        },
-        "featured_collection_tBm6Te": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-ekol"
-          }
-        },
-        "featured_collection_CzFVck": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-cornici-e-portaritratti"
-          }
-        },
-        "featured_collection_P3KYLR": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-salvadanai"
-          }
-        },
-        "featured_collection_MP6rF4": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "i-fruttosi-brandani"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_7jqCFg",
-        "featured_collection_ETMKWQ",
-        "featured_collection_tBm6Te",
-        "featured_collection_CzFVck",
-        "featured_collection_P3KYLR",
-        "featured_collection_MP6rF4"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
       }
     },
     "collection_list_3Gba3F": {
@@ -815,16 +647,16 @@
     "collection_list_qENXQe": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_FWLpUB": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-terracotta-brandani"
-          }
-        },
         "featured_collection_ncJRQQ": {
           "type": "featured_collection",
           "settings": {
             "collection": "techno-brandani"
+          }
+        },
+        "featured_collection_FWLpUB": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-terracotta-brandani"
           }
         },
         "featured_collection_HxdhTp": {
@@ -853,8 +685,8 @@
         }
       },
       "block_order": [
-        "featured_collection_FWLpUB",
         "featured_collection_ncJRQQ",
+        "featured_collection_FWLpUB",
         "featured_collection_HxdhTp",
         "featured_collection_zrnpEw",
         "featured_collection_p9DMzD",
@@ -900,13 +732,7 @@
             "collection": "brandani-cornici-e-portaritratti"
           }
         },
-        "featured_collection_ipbpTB": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-lampade-e-lanterne"
-          }
-        },
-        "featured_collection_aPLgnN": {
+        "featured_collection_LxzHEQ": {
           "type": "featured_collection",
           "settings": {
             "collection": "brandani-orologi"
@@ -918,8 +744,7 @@
         "featured_collection_9xPQWb",
         "featured_collection_eier7U",
         "featured_collection_kMwC6y",
-        "featured_collection_ipbpTB",
-        "featured_collection_aPLgnN"
+        "featured_collection_LxzHEQ"
       ],
       "settings": {
         "title": "",
@@ -1057,10 +882,7 @@
     "collection_list_Uxgnci",
     "collection_list_K8dBJP",
     "collection_list_e9iEX4",
-    "rich_text_MRNMTB",
     "collection_list_J3JGfC",
-    "collection_list_mXRFVx",
-    "collection_list_yUF9EA",
     "collection_list_3Gba3F",
     "multicolumn_Webjiz",
     "collection_list_Qdy6e7",
