@@ -198,11 +198,11 @@
         "image_width": "full",
         "image_ratio": "square",
         "columns_desktop": 5,
-        "column_alignment": "center",
+        "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
         "button_link": "https://www.unicoemultiplo.com/collections/idee-regalo-bomboniere?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=created-descending",
-        "color_scheme": "scheme-ea4f5844-6984-4ed0-80f1-4bdcc4264114",
+        "color_scheme": "scheme-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
@@ -221,20 +221,27 @@
         "featured_collection_aWcYhW": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "i-fruttosi-brandani"
           }
         },
         "featured_collection_K6txTX": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "brandani-flora-brandani"
+          }
+        },
+        "featured_collection_TfgdFx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-citrus"
           }
         }
       },
       "block_order": [
         "featured_collection_zfMaP7",
         "featured_collection_aWcYhW",
-        "featured_collection_K6txTX"
+        "featured_collection_K6txTX",
+        "featured_collection_TfgdFx"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
@@ -242,7 +249,7 @@
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 5,
-        "color_scheme": "scheme-ea4f5844-6984-4ed0-80f1-4bdcc4264114",
+        "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
