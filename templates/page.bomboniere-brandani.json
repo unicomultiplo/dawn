@@ -137,7 +137,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/bomboniere-novita-brandani-unico-e-multiplo.webp",
-            "title": "L'alfabeto",
+            "title": "L'alfabeto →",
             "text": "",
             "link_label": "",
             "link": "shopify://products/3415-brandani-l-alfabeto-lettere-di-porcellana"
@@ -147,7 +147,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Amore_mio.webp",
-            "title": "Amore Mio",
+            "title": "Amore Mio 🡒",
             "text": "",
             "link_label": "",
             "link": "shopify://collections/amore-mio-brandani"
@@ -157,7 +157,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Brandani-Ekol.jpg",
-            "title": "Diffusori",
+            "title": "Diffusori 🡒",
             "text": "",
             "link_label": "",
             "link": "shopify://collections/diffusori-brandani"
@@ -167,7 +167,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Brandani-Portafoto.jpg",
-            "title": "Portafoto",
+            "title": "Portafoto →",
             "text": "",
             "link_label": "",
             "link": "shopify://collections/brandani-cornici-e-portaritratti"
@@ -177,7 +177,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Brandani-Salvandaio.jpg",
-            "title": "Salvadanai",
+            "title": "Salvadanai →",
             "text": "",
             "link_label": "",
             "link": "shopify://collections/brandani-salvadanai"
@@ -235,13 +235,75 @@
           "settings": {
             "collection": "brandani-citrus"
           }
+        },
+        "featured_collection_yPpn3E": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-medicea"
+          }
         }
       },
       "block_order": [
         "featured_collection_zfMaP7",
         "featured_collection_aWcYhW",
         "featured_collection_K6txTX",
-        "featured_collection_TfgdFx"
+        "featured_collection_TfgdFx",
+        "featured_collection_yPpn3E"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_A8cbVp": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_jwpfmG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-riccioli-di-fata"
+          }
+        },
+        "featured_collection_LF84J3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-porcellana-bamboo"
+          }
+        },
+        "featured_collection_XdikbQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-drop"
+          }
+        },
+        "featured_collection_tWgWYe": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-ares"
+          }
+        },
+        "featured_collection_tiFExG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-riflessi"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_jwpfmG",
+        "featured_collection_LF84J3",
+        "featured_collection_XdikbQ",
+        "featured_collection_tWgWYe",
+        "featured_collection_tiFExG"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
@@ -332,6 +394,7 @@
     "multicolumn_wzewwH",
     "multicolumn_NptETT",
     "collection_list_dUzHjH",
+    "collection_list_A8cbVp",
     "separator_ciFcXx",
     "image_banner_PMrBkG",
     "contact_form_mACCdt"
