@@ -126,7 +126,7 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 0,
+        "padding_top": 8,
         "padding_bottom": 0
       }
     },
@@ -141,16 +141,6 @@
             "text": "",
             "link_label": "",
             "link": "shopify://products/3415-brandani-l-alfabeto-lettere-di-porcellana"
-          }
-        },
-        "column_XQQbQ6": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Amore_mio.webp",
-            "title": "Amore Mio 🡒",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://collections/amore-mio-brandani"
           }
         },
         "column_KJEzRV": {
@@ -186,7 +176,6 @@
       },
       "block_order": [
         "column_V4GGjt",
-        "column_XQQbQ6",
         "column_KJEzRV",
         "column_HtDkyA",
         "column_J7FDtW"
@@ -197,14 +186,14 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 4,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
         "button_link": "https://www.unicoemultiplo.com/collections/idee-regalo-bomboniere?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=created-descending",
         "color_scheme": "scheme-1",
         "columns_mobile": "2",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 20
       }
@@ -241,57 +230,38 @@
           "settings": {
             "collection": "brandani-medicea"
           }
-        }
-      },
-      "block_order": [
-        "featured_collection_zfMaP7",
-        "featured_collection_aWcYhW",
-        "featured_collection_K6txTX",
-        "featured_collection_TfgdFx",
-        "featured_collection_yPpn3E"
-      ],
-      "name": "t:sections.collection-list.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "collection_list_A8cbVp": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_jwpfmG": {
+        },
+        "featured_collection_KA84BL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "amore-mio-brandani"
+          }
+        },
+        "featured_collection_9t9WVe": {
           "type": "featured_collection",
           "settings": {
             "collection": "brandani-riccioli-di-fata"
           }
         },
-        "featured_collection_LF84J3": {
+        "featured_collection_Bjzrfp": {
           "type": "featured_collection",
           "settings": {
             "collection": "brandani-porcellana-bamboo"
           }
         },
-        "featured_collection_XdikbQ": {
+        "featured_collection_GiaPtK": {
           "type": "featured_collection",
           "settings": {
             "collection": "brandani-drop"
           }
         },
-        "featured_collection_tWgWYe": {
+        "featured_collection_rXekyw": {
           "type": "featured_collection",
           "settings": {
             "collection": "brandani-ares"
           }
         },
-        "featured_collection_tiFExG": {
+        "featured_collection_zFPJNH": {
           "type": "featured_collection",
           "settings": {
             "collection": "brandani-riflessi"
@@ -299,12 +269,34 @@
         }
       },
       "block_order": [
-        "featured_collection_jwpfmG",
-        "featured_collection_LF84J3",
-        "featured_collection_XdikbQ",
-        "featured_collection_tWgWYe",
-        "featured_collection_tiFExG"
+        "featured_collection_zfMaP7",
+        "featured_collection_aWcYhW",
+        "featured_collection_K6txTX",
+        "featured_collection_TfgdFx",
+        "featured_collection_yPpn3E",
+        "featured_collection_KA84BL",
+        "featured_collection_9t9WVe",
+        "featured_collection_Bjzrfp",
+        "featured_collection_GiaPtK",
+        "featured_collection_rXekyw",
+        "featured_collection_zFPJNH"
       ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_A8cbVp": {
+      "type": "collection-list",
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
