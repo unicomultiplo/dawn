@@ -305,6 +305,41 @@
         "line_thickness": 4
       }
     },
+    "multirow_jzYgRc": {
+      "type": "multirow",
+      "blocks": {
+        "row_yrYDYz": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/brandani-logo-500x500.webp",
+            "caption": "",
+            "heading": "<strong>Scopri tutte le diverse Collezioni Bomboniere Brandani 2025</strong>",
+            "text": "<p>Un'ampia scelta di bomboniere ideate e realizzate da Brandani, utensili e accessori per tavola e cucina, complementi d'arredo fantasiosi e di reale utilità. Ogni oggetto ha più di una funzione e un suo stile, veicola emozioni e rappresenta il ricordo di cerimonie, riti di passaggio importanti che ci uniscono.</p><p>Scegliere di <strong>regalare una bomboniera Brandani è un gesto speciale</strong> e va fatto con il cuore. Grazie a Brandani ora è anche facile, veloce e divertente.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_yrYDYz"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "small",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn_69Xifq": {
       "type": "multicolumn",
       "blocks": {
@@ -532,6 +567,7 @@
     "multicolumn_NptETT",
     "collection_list_dUzHjH",
     "separator_ciFcXx",
+    "multirow_jzYgRc",
     "multicolumn_69Xifq",
     "multirow_zWcQeR",
     "separator_jwUKTi",
