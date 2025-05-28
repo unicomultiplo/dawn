@@ -539,14 +539,14 @@
         "heading_iEhhnX": {
           "type": "heading",
           "settings": {
-            "heading": "Immagine con testo",
+            "heading": "Bomboniere 2025",
             "heading_size": "h1"
           }
         },
         "text_mBGJeY": {
           "type": "text",
           "settings": {
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "text": "<p>La nuova collezione di bomboniere Brandani incontra tutti i gusti. Oggetti di design da donare con gioia ad amici e parenti.<br/><br/></p>",
             "text_style": "body"
           }
         },
@@ -565,8 +565,8 @@
         "button_frTXr4"
       ],
       "settings": {
-        "image": "shopify://shop_images/bomboniere-brandani-2025-regalare-per-stupire-1.jpg",
-        "height": "adapt",
+        "image": "shopify://shop_images/bomboniere-novita-brandani-unico-e-multiplo.webp",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
