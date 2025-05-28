@@ -117,16 +117,6 @@
             "link": "shopify://collections/brandani"
           }
         },
-        "column_R4Hzd6": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brandani-tavolo-pieghevole-outdoor.webp",
-            "title": "Tavolo Pieghevole",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://products/brandani-tavolo-pieghevole-bistro-cn-sedie-pieghevoli"
-          }
-        },
         "column_eXCCEb": {
           "type": "column",
           "settings": {
@@ -137,11 +127,21 @@
             "link": "shopify://collections/brandani-piatti"
           }
         },
+        "column_R4Hzd6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brandani-tavolo-pieghevole-outdoor.webp",
+            "title": "Tavolo Pieghevole",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/brandani-tavolo-pieghevole-bistro-cn-sedie-pieghevoli"
+          }
+        },
         "column_WVwjjf": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Techno.webp",
-            "title": "Techno",
+            "title": "Techno -Elettrodomestici",
             "text": "",
             "link_label": "",
             "link": "shopify://collections/techno-brandani"
@@ -150,22 +150,21 @@
         "column_TBC6zX": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/brandani-casseruola-bassa-rossa-ghisa-smaltata-5-litri_1_1.jpg",
-            "title": "Pentole e Padelle",
+            "image": "shopify://shop_images/bomboniere-novita-brandani-unico-e-multiplo.webp",
+            "title": "Bomboniere 2025",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/pentole-brandani"
+            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-bomboniere?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=created-descending"
           }
         }
       },
       "block_order": [
         "column_3EddjA",
-        "column_R4Hzd6",
         "column_eXCCEb",
+        "column_R4Hzd6",
         "column_WVwjjf",
         "column_TBC6zX"
       ],
-      "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -177,8 +176,8 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
