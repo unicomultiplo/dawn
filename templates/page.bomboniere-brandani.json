@@ -52,7 +52,7 @@
         "image": "shopify://shop_images/IMG_1980.webp",
         "height": "small",
         "desktop_image_width": "small",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -71,7 +71,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><br/>Contattaci per realizzare le tue bomboniere:<br/><br/></p>",
+            "text": "<p>Contattaci per realizzare le tue bomboniere:<br/></p>",
             "link_label": "",
             "link": ""
           }
@@ -116,16 +116,16 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "image_width": "full",
+        "image_width": "half",
         "image_ratio": "adapt",
         "columns_desktop": 4,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -329,6 +329,15 @@
         "line_thickness": 4
       }
     },
+    "separator_jwUKTi": {
+      "type": "separator",
+      "name": "Separator Line",
+      "settings": {
+        "top_spacing": 0,
+        "bottom_spacing": 0,
+        "line_thickness": 4
+      }
+    },
     "contact_form_mACCdt": {
       "type": "contact-form",
       "settings": {
@@ -348,6 +357,7 @@
     "collection_list_dUzHjH",
     "collection_list_A8cbVp",
     "separator_ciFcXx",
+    "separator_jwUKTi",
     "contact_form_mACCdt"
   ]
 }
