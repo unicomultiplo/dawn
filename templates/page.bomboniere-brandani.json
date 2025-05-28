@@ -295,22 +295,6 @@
         "padding_bottom": 0
       }
     },
-    "collection_list_A8cbVp": {
-      "type": "collection-list",
-      "name": "t:sections.collection-list.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "separator_ciFcXx": {
       "type": "separator",
       "custom_css": [],
@@ -321,6 +305,140 @@
         "line_thickness": 4
       }
     },
+    "multicolumn_69Xifq": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_XKEwNC": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_P93gq9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brandani-gift-unico-e-multiplo.png",
+            "title": "DI CLASSE",
+            "text": "<p>Design raffinato</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DjTGBX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brandani-gift-unico-e-multiplo.png",
+            "title": "FUNZIONALI",
+            "text": "<p>D'uso quotidiano</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7bbMGT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brandani-gift-unico-e-multiplo.png",
+            "title": "DI QUALITA'",
+            "text": "<p>Materiali di pregio</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rX78hg": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_XKEwNC",
+        "column_P93gq9",
+        "column_DjTGBX",
+        "column_7bbMGT",
+        "column_rX78hg"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_zWcQeR": {
+      "type": "multirow",
+      "blocks": {
+        "row_EVDEBQ": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-bomboniere-unico-e-multiplo-1-qsvqd28mdgi6sbdh4rzg7jb5u2a6v0gsdny0zs07nc.jpg",
+            "caption": "",
+            "heading": "L'Alfabeto",
+            "text": "<p>La collezione <strong>L'Alfabeto </strong>Brandani celebra l'arte del dono con eleganza e personalità. Ogni lettera in New Bone China diventa un simbolo di affetto e apprezzamento, perfetta per bomboniere che lasciano il segno. <br/><br/>Ideali per<strong> matrimoni, battesimi, anniversari</strong> o qualsiasi evento significativo, con Alfabeto, dici “<strong>grazie</strong>” in modo unico, con un pezzo che abbellisce la vita quotidiana dei tuoi ospiti, evocando il calore e la gioia del momento celebrato.</p>",
+            "button_label": "Scopri l'alfabeto Brandani",
+            "button_link": "shopify://products/3415-brandani-l-alfabeto-lettere-di-porcellana"
+          }
+        },
+        "row_6W4rBy": {
+          "type": "row",
+          "settings": {
+            "caption": "Didascalia",
+            "heading": "Riga",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
+          }
+        },
+        "row_tqDDzV": {
+          "type": "row",
+          "settings": {
+            "caption": "Didascalia",
+            "heading": "Riga",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_EVDEBQ",
+        "row_6W4rBy",
+        "row_tqDDzV"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "row_color_scheme": "scheme-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "separator_jwUKTi": {
       "type": "separator",
       "name": "Separator Line",
@@ -328,6 +446,72 @@
         "top_spacing": 0,
         "bottom_spacing": 0,
         "line_thickness": 4
+      }
+    },
+    "multicolumn_KdMfWP": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3G4DkC": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Contattaci per realizzare le tue bomboniere:<br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_x6KwK7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/whatsapp.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://api.whatsapp.com/send?phone=390733810100&text=&source=&data=&app_absent="
+          }
+        },
+        "column_ADfNmp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/mail.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "mailto:info@unicoemultiplo.com"
+          }
+        },
+        "column_8FqkkA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/telefono.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "tel:+0733810100"
+          }
+        }
+      },
+      "block_order": [
+        "column_3G4DkC",
+        "column_x6KwK7",
+        "column_ADfNmp",
+        "column_8FqkkA"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 8,
+        "padding_bottom": 0
       }
     },
     "contact_form_mACCdt": {
@@ -347,9 +531,11 @@
     "multicolumn_wzewwH",
     "multicolumn_NptETT",
     "collection_list_dUzHjH",
-    "collection_list_A8cbVp",
     "separator_ciFcXx",
+    "multicolumn_69Xifq",
+    "multirow_zWcQeR",
     "separator_jwUKTi",
+    "multicolumn_KdMfWP",
     "contact_form_mACCdt"
   ]
 }
