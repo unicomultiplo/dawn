@@ -38,7 +38,7 @@
           "settings": {
             "button_label": "Esplora i Prodotti",
             "button_link": "https://www.unicoemultiplo.com/collections/idee-regalo-bomboniere?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=created-descending",
-            "button_style_secondary": false
+            "button_style_secondary": true
           }
         }
       },
@@ -138,51 +138,174 @@
           "settings": {
             "image": "shopify://shop_images/bomboniere-novita-brandani-unico-e-multiplo.webp",
             "title": "L'alfabeto",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify://products/3415-brandani-l-alfabeto-lettere-di-porcellana"
           }
         },
         "column_XQQbQ6": {
           "type": "column",
           "settings": {
-            "title": "Colonna",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "image": "shopify://shop_images/Amore_mio.webp",
+            "title": "Amore Mio",
+            "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/amore-mio-brandani"
           }
         },
         "column_KJEzRV": {
           "type": "column",
           "settings": {
-            "title": "Colonna",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "image": "shopify://shop_images/Brandani-Ekol.jpg",
+            "title": "Diffusori",
+            "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/diffusori-brandani"
+          }
+        },
+        "column_HtDkyA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-Portafoto.jpg",
+            "title": "Portafoto",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/brandani-cornici-e-portaritratti"
+          }
+        },
+        "column_J7FDtW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-Salvandaio.jpg",
+            "title": "Salvadanai",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/brandani-salvadanai"
           }
         }
       },
       "block_order": [
         "column_V4GGjt",
         "column_XQQbQ6",
-        "column_KJEzRV"
+        "column_KJEzRV",
+        "column_HtDkyA",
+        "column_J7FDtW"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>Scopri tutte le diverse Collezioni Brandani 2025</strong>, tra nuove proposte e oggetti imperdibili",
+        "title": "<strong>Scopri tutte le diverse Collezioni Bomboniere Brandani 2025</strong>, tra nuove proposte e oggetti imperdibili.",
         "heading_size": "h2",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 5,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "Etichetta pulsante",
-        "button_link": "",
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "https://www.unicoemultiplo.com/collections/idee-regalo-bomboniere?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=created-descending",
+        "color_scheme": "scheme-ea4f5844-6984-4ed0-80f1-4bdcc4264114",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_dUzHjH": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_zfMaP7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-ekol"
+          }
+        },
+        "featured_collection_aWcYhW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_K6txTX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_zfMaP7",
+        "featured_collection_aWcYhW",
+        "featured_collection_K6txTX"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "scheme-ea4f5844-6984-4ed0-80f1-4bdcc4264114",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "separator_ciFcXx": {
+      "type": "separator",
+      "custom_css": [],
+      "name": "Separator Line",
+      "settings": {
+        "top_spacing": 0,
+        "bottom_spacing": 0,
+        "line_thickness": 4
+      }
+    },
+    "image_banner_PMrBkG": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_rTjXWi": {
+          "type": "heading",
+          "settings": {
+            "heading": "Immagine banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_cYQdej": {
+          "type": "text",
+          "settings": {
+            "text": "Fornisci ai clienti dettagli sulle immagini del banner o sul contenuto del modello.",
+            "text_style": "body"
+          }
+        },
+        "buttons_hirG3C": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Etichetta pulsante",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Etichetta pulsante",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_rTjXWi",
+        "text_cYQdej",
+        "buttons_hirG3C"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "contact_form_mACCdt": {
@@ -201,6 +324,9 @@
     "image_with_text_C7p6TD",
     "multicolumn_wzewwH",
     "multicolumn_NptETT",
+    "collection_list_dUzHjH",
+    "separator_ciFcXx",
+    "image_banner_PMrBkG",
     "contact_form_mACCdt"
   ]
 }
