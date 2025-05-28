@@ -16,6 +16,53 @@
         "padding_bottom": 0
       }
     },
+    "image_with_text_C7p6TD": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_FbRDcX": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_GKip94": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bomboniera: per i tuoi ospiti, si fa <strong>portavoce della riconoscenza</strong>, è il tuo grazie che diventa tangibile. La scelta di un <strong>oggetto utile</strong>, oltre che bello, rende più facile combinare ciò che piace a te e ciò che piace a chi lo riceverà.</p><p>Circondati di cose utili, circondati di cose belle. Utilizzale, regalale e vivile!</p><p><strong>Brandani</strong> ha cucito su misura per te una serie di linee con servizi per la tavola e complementi d’arredo eleganti e utilissimi.</p><p>La <strong>nuova collezione di bomboniere</strong> Brandani incontra tutti i gusti e le necessità. Oggetti di design da donare con gioia ad amici e parenti, per celebrare i giorni di festa con <strong>un ricordo tangibile, bello e realmente utile.</strong></p>",
+            "text_style": "body"
+          }
+        },
+        "button_CR8Eb9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Etichetta pulsante",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_FbRDcX",
+        "text_GKip94",
+        "button_CR8Eb9"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_wzewwH": {
       "type": "multicolumn",
       "blocks": {
@@ -68,73 +115,18 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "image_width": "full",
+        "image_width": "half",
         "image_ratio": "adapt",
         "columns_desktop": 4,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "multirow_VahRHn": {
-      "type": "multirow",
-      "blocks": {
-        "row_C3Unk6": {
-          "type": "row",
-          "settings": {
-            "caption": "Didascalia",
-            "heading": "Riga",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
-          }
-        },
-        "row_VFL8d6": {
-          "type": "row",
-          "settings": {
-            "caption": "Didascalia",
-            "heading": "Riga",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
-          }
-        },
-        "row_DtPtrn": {
-          "type": "row",
-          "settings": {
-            "caption": "Didascalia",
-            "heading": "Riga",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "row_C3Unk6",
-        "row_VFL8d6",
-        "row_DtPtrn"
-      ],
-      "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
-        "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "",
-        "row_color_scheme": "",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "contact_form_mACCdt": {
@@ -150,8 +142,8 @@
   },
   "order": [
     "main",
+    "image_with_text_C7p6TD",
     "multicolumn_wzewwH",
-    "multirow_VahRHn",
     "contact_form_mACCdt"
   ]
 }
