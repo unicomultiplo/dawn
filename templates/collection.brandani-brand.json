@@ -553,8 +553,8 @@
         "button_frTXr4": {
           "type": "button",
           "settings": {
-            "button_label": "Etichetta pulsante",
-            "button_link": "",
+            "button_label": "Esplora tutte le proposte!",
+            "button_link": "https://www.unicoemultiplo.com/collections/idee-regalo-bomboniere?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=created-descending",
             "button_style_secondary": false
           }
         }
@@ -572,8 +572,8 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
+        "section_color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
