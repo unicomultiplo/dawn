@@ -36,8 +36,8 @@
         "button_CR8Eb9": {
           "type": "button",
           "settings": {
-            "button_label": "Etichetta pulsante",
-            "button_link": "",
+            "button_label": "Esplora i Prodotti",
+            "button_link": "https://www.unicoemultiplo.com/collections/idee-regalo-bomboniere?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=created-descending",
             "button_style_secondary": false
           }
         }
@@ -49,6 +49,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/IMG_1980.webp",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -115,7 +116,7 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "image_width": "half",
+        "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 4,
         "column_alignment": "left",
@@ -123,10 +124,65 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "multicolumn_NptETT": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_V4GGjt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bomboniere-novita-brandani-unico-e-multiplo.webp",
+            "title": "L'alfabeto",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_XQQbQ6": {
+          "type": "column",
+          "settings": {
+            "title": "Colonna",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_KJEzRV": {
+          "type": "column",
+          "settings": {
+            "title": "Colonna",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_V4GGjt",
+        "column_XQQbQ6",
+        "column_KJEzRV"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<strong>Scopri tutte le diverse Collezioni Brandani 2025</strong>, tra nuove proposte e oggetti imperdibili",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Etichetta pulsante",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "contact_form_mACCdt": {
@@ -144,6 +200,7 @@
     "main",
     "image_with_text_C7p6TD",
     "multicolumn_wzewwH",
+    "multicolumn_NptETT",
     "contact_form_mACCdt"
   ]
 }
