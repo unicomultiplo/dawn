@@ -192,7 +192,7 @@
       "type": "custom-liquid",
       "settings": {
         "custom_liquid": "<div>{% assign page_id = product.metafields.custom.pagina_approfondimento %}\n\n<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h2>Scopri di più su {{ product.title }}</h2>\n\n<p>{{ product.metafields.custom.short_description }}</p>\n\n\n{% if page_id and pages[page_id] %}\n<div class=\"product__text inline-richtext\">\n<a href=\"{{ pages[page_id].url }}\">{{ pages[page_id].title }}</a>\n</div>\n{% endif %}\n</div>\n</section>",
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "padding_top": 12,
         "padding_bottom": 0
       }
