@@ -192,7 +192,7 @@
         "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h2>Scopri di più su {{ product.title }}</h2>\n\n<p>{{ product.metafields.custom.short_description }}</p>\n</div>\n</section>",
         "color_scheme": "",
         "padding_top": 12,
-        "padding_bottom": 24
+        "padding_bottom": 0
       }
     },
     "collapsible_content_rDxxtT": {
@@ -240,7 +240,7 @@
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "padding_top": 0,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "related-products": {
