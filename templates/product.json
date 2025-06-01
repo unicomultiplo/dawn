@@ -227,7 +227,8 @@
       ],
       "custom_css": [
         ".collapsible-content-wrapper-narrow {max-width: 100%; padding: 0px;}",
-        ".gradient {background: transparent !important;}"
+        ".gradient {background: transparent !important;}",
+        ".collapsible-content {padding-top: 0px; padding-bottom: 0px;}"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
