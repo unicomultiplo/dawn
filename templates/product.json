@@ -69,11 +69,11 @@
           "settings": {}
         },
         "glo_color_swatch_variant_image_product_swatches_detail_FpE3Un": {
-          "type": "shopify://apps/glo-swatch-bundles/blocks/product-swatches-detail/4394f710-096c-4021-bbde-8ebb26057c11",
+          "type": "shopify://apps/glo-color-swatch-variant-image/blocks/product-swatches-detail/4394f710-096c-4021-bbde-8ebb26057c11",
           "settings": {}
         },
         "glo_color_swatch_variant_image_product_groups_detail_bwq8iX": {
-          "type": "shopify://apps/glo-swatch-bundles/blocks/product-groups-detail/4394f710-096c-4021-bbde-8ebb26057c11",
+          "type": "shopify://apps/glo-color-swatch-variant-image/blocks/product-groups-detail/4394f710-096c-4021-bbde-8ebb26057c11",
           "settings": {}
         },
         "collapsible_tab_zVcJHM": {
@@ -109,6 +109,7 @@
         },
         "collapsible_tab_gGi8MG": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Descrizione",
             "icon": "eye",
@@ -119,6 +120,7 @@
         },
         "collapsible_tab_NXcbW9": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Dimensioni",
             "icon": "ruler",
@@ -187,10 +189,10 @@
     "custom_liquid_q83gja": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h2>Scopri di più su {{ product.title }}</h2>\n{{ product.content }}\n</div>\n</section>",
+        "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h2>Scopri di più su {{ product.title }}</h2>\n\n<p>{{ product.metafields.custom.short_description }}</p>\n</div>\n</section>",
         "color_scheme": "",
-        "padding_top": 8,
-        "padding_bottom": 20
+        "padding_top": 12,
+        "padding_bottom": 24
       }
     },
     "collapsible_content_rDxxtT": {
@@ -199,20 +201,21 @@
         "collapsible_row_PbrTiV": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Scopri di più su {{ product.title }}",
+            "heading": "Leggi di più",
             "icon": "eye",
             "row_content": "{{ product.description }}",
-            "page": ""
+            "page": "",
+            "liquid_content": ""
           }
         },
         "collapsible_row_kDkCBc": {
           "type": "collapsible_row",
-          "disabled": true,
           "settings": {
-            "heading": "Dimensioni",
+            "heading": "Caratteristiche",
             "icon": "ruler",
-            "row_content": "<p>...</p>",
-            "page": ""
+            "row_content": "",
+            "page": "",
+            "liquid_content": "{% if product.metafields.shopify.material %}\n<div>\n  Materiale: {% for material in product.metafields.shopify.material.value %}\n          {{ material.label }}\n       {% endfor %}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.lunghezza.value %}\n<div>\n  Lunghezza: {{ product.metafields.custom.lunghezza.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.altezza_2.value %}\n<div>\n  Altezza: {{ product.metafields.custom.altezza_2.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.profondita.value %}\n<div>\n  Profondita: {{ product.metafields.custom.profondita.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.diametro_2.value %}\n<div>\n  Diametro: {{ product.metafields.custom.diametro_2.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.designer.value %}\n<div>\n  Designer: {{ product.metafields.custom.designer.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.capacit_.value %}\n<div>\n  Capacita: {{ product.metafields.custom.capacit_.value }}\n</div>\n{% endif %}"
           }
         }
       },
@@ -220,7 +223,10 @@
         "collapsible_row_PbrTiV",
         "collapsible_row_kDkCBc"
       ],
-      "disabled": true,
+      "custom_css": [
+        ".collapsible-content-wrapper-narrow {max-width: 100%; padding: 0em 2rem;}",
+        "@media screen and (min-width: 750px) {.collapsible-content-wrapper-narrow {padding: 0em 5rem; }}"
+      ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
         "caption": "",
@@ -233,7 +239,7 @@
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
