@@ -520,7 +520,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ":root {--highlight-color: #f4cf5f;}",
+      ":root {--highlight-color: #f4cf5f; --highlight-color-2: #598DB2;}",
       "html,body {margin: 0;}",
       "body {font-family: var(--font-body-family); line-height: 1.5;}",
       "pickup-availability,.product__tax {display: none;}",
