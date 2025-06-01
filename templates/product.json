@@ -89,9 +89,9 @@
         },
         "custom_liquid_EJXmHi": {
           "type": "custom_liquid",
-          "name": "Scopri composizione LIQUID",
+          "name": "Pagina di approfondimento LIQUID",
           "settings": {
-            "custom_liquid": "{% assign page_id = product.metafields.custom.scopri_composizione %}\n\n\n{% if page_id and pages[page_id] %}\n<div class=\"product__text inline-richtext\">\n<a href=\"{{ pages[page_id].url }}\">Curioso di conoscere meglio questa composizione? SCOPRI DI PIÚ </a>\n</div>\n{% endif %}"
+            "custom_liquid": "{% assign page_id = product.metafields.custom.pagina_approfondimento %}\n\n\n{% if page_id and pages[page_id] %}\n<div class=\"product__text inline-richtext\">\n<a href=\"{{ pages[page_id].url }}\">{{ pages[page_id].title }}</a>\n</div>\n{% endif %}"
           }
         },
         "sku_C4aTJC": {
