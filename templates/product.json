@@ -226,8 +226,8 @@
         "collapsible_row_kDkCBc"
       ],
       "custom_css": [
-        ".collapsible-content-wrapper-narrow {max-width: 100%; padding: 0em 2rem;}",
-        "@media screen and (min-width: 750px) {.collapsible-content-wrapper-narrow {padding: 0em 5rem; }}"
+        ".collapsible-content-wrapper-narrow {max-width: 100%; padding: 0px;}",
+        ".gradient {background: transparent !important;}"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
@@ -235,7 +235,7 @@
         "heading": "",
         "heading_size": "h1",
         "heading_alignment": "center",
-        "layout": "none",
+        "layout": "section",
         "color_scheme": "",
         "container_color_scheme": "",
         "open_first_collapsible_row": false,
