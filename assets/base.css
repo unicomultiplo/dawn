@@ -49,6 +49,8 @@
   --shadow-visible: var(--blog-card-shadow-visible);
   --image-padding: var(--blog-card-image-padding);
   --text-alignment: var(--blog-card-text-alignment);
+
+  background-color: var(--highlight-color) !important;
 }
 
 .contains-content-container,
