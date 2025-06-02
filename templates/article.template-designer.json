@@ -39,40 +39,31 @@
       ],
       "settings": {}
     },
-    "image_with_text_NLe6nr": {
+    "image_with_text_Pwfbym": {
       "type": "image-with-text",
       "blocks": {
-        "heading_KXVrgN": {
+        "heading_nrjtg7": {
           "type": "heading",
           "settings": {
             "heading": "Immagine con testo",
             "heading_size": "h1"
           }
         },
-        "text_nqzFXN": {
+        "text_F6fRNG": {
           "type": "text",
           "settings": {
-            "text": "<p>pesso capita di sentir parlare della<strong>cottura su ghisa</strong>, ma come si utilizza e perché? Quali sono i<strong>vantaggi</strong>? La cottura degli alimenti è davvero così diversa?<em>(Piccolo spoiler: sì!)</em></p>",
+            "text": "<p>L’estetica e il concept sono un valore aggiunto per l’esperienza conviviale. <strong>I piatti Seletti con il loro stile e la loro qualità impreziosiscono la tua tavola. </strong></p><h5>Allestisci una tavola d'autore con i piatti:</h5><ul><li><a href=\"https://blog.unicoemultiplo.com/apparecchiare-con-stile/piatti-seletti-collezioni-tavola/#SelettiHybrid\">Seletti Hybrid</a></li><li><a href=\"https://blog.unicoemultiplo.com/apparecchiare-con-stile/piatti-seletti-collezioni-tavola/#SelettiKintsugi\">Seletti Kintsugi</a></li><li><a href=\"https://blog.unicoemultiplo.com/apparecchiare-con-stile/piatti-seletti-collezioni-tavola/#SelettiWearsToiletpaper\">Seletti Classics on Acid</a></li><li><a href=\"https://blog.unicoemultiplo.com/apparecchiare-con-stile/piatti-seletti-collezioni-tavola/#SelettiDieselLiving\">Seletti Diesel Living Cosmic Diner</a></li></ul>",
             "text_style": "body"
-          }
-        },
-        "button_gHWFkf": {
-          "type": "button",
-          "settings": {
-            "button_label": "Etichetta pulsante",
-            "button_link": "",
-            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "heading_KXVrgN",
-        "text_nqzFXN",
-        "button_gHWFkf"
+        "heading_nrjtg7",
+        "text_F6fRNG"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/ghisanativa-i-vantaggi-ghisanativa-05-qsvqd0cz7n7hai9nilcwnislasavthhuzpqe5o18zc.png",
+        "image": "shopify://shop_images/Seletti-hybrid_1_13f39028-58cd-4804-a4da-d9a4e3804f47.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -87,41 +78,44 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_LUCXAg": {
-      "type": "rich-text",
+    "multicolumn_R8fWDR": {
+      "type": "multicolumn",
       "blocks": {
-        "heading_BFHgyC": {
-          "type": "heading",
+        "column_9HHEGz": {
+          "type": "column",
           "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_8gnAe6": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Capiamo meglio di che materiale si tratta e quali sono le sue caratteristiche che lo rendono così utile in cucina!<br/><br/></p>"
+            "title": "Colonna",
+            "text": "<p>Con i piatti Seletti crei un percorso, una storia, utilizzando linguaggi differenti. <strong>Puoi dar vita ad una tavola personalizzata e ogni volta diversa.</strong> Uno stile comunicativo di grande impatto estetico per tutte queste collezioni indimenticabili e iconiche.</p><p>Crea la tua mise en place,<strong>gioca con il Tableware</strong>e vivi il piacere di apparecchiare con lo stato d’animo e il modo di essere che più ti appartengono.<br/><br/></p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "heading_BFHgyC",
-        "text_8gnAe6"
+        "column_9HHEGz"
       ],
-      "name": "t:sections.rich-text.presets.name",
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Etichetta pulsante",
+        "button_link": "",
         "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "main",
-    "image_with_text_NLe6nr",
-    "rich_text_LUCXAg"
+    "image_with_text_Pwfbym",
+    "multicolumn_R8fWDR"
   ]
 }
