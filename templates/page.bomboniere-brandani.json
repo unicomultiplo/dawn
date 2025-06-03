@@ -180,6 +180,9 @@
         "column_HtDkyA",
         "column_J7FDtW"
       ],
+      "custom_css": [
+        "img {aspect-ratio: 1 / 1; /* mantiene le immagini quadrate */ object-fit: cover; /* riempie l’area senza deformare */ width: 100%; height: auto; max-height: 300px; /* opzionale: imposta un'altezza massima */}"
+      ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "<strong>Scopri tutte le diverse Collezioni Bomboniere Brandani 2025</strong>, tra nuove proposte e oggetti imperdibili.",
