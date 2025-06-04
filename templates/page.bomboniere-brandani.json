@@ -180,9 +180,7 @@
         "column_HtDkyA",
         "column_TLFxf9"
       ],
-      "custom_css": [
-        "img {aspect-ratio: 1 / 1; /* mantiene le immagini quadrate */ object-fit: cover; /* riempie l’area senza deformare */ width: 100%; height: auto; max-height: 300px; /* opzionale: imposta un'altezza massima */}"
-      ],
+      "custom_css": [],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "<strong>Scopri tutte le diverse Collezioni Bomboniere Brandani 2025</strong>, tra nuove proposte e oggetti imperdibili.",
@@ -190,8 +188,8 @@
         "image_width": "full",
         "image_ratio": "square",
         "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "none",
+        "column_alignment": "left",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "https://www.unicoemultiplo.com/collections/idee-regalo-bomboniere?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=created-descending",
         "color_scheme": "scheme-1",
