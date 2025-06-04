@@ -163,11 +163,11 @@
             "link": "shopify://collections/brandani-cornici-e-portaritratti"
           }
         },
-        "column_J7FDtW": {
+        "column_TLFxf9": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Brandani-Salvandaio.jpg",
-            "title": "Salvadanai →",
+            "title": "Salvadani →",
             "text": "",
             "link_label": "",
             "link": "shopify://collections/brandani-salvadanai"
@@ -178,7 +178,7 @@
         "column_V4GGjt",
         "column_KJEzRV",
         "column_HtDkyA",
-        "column_J7FDtW"
+        "column_TLFxf9"
       ],
       "custom_css": [
         "img {aspect-ratio: 1 / 1; /* mantiene le immagini quadrate */ object-fit: cover; /* riempie l’area senza deformare */ width: 100%; height: auto; max-height: 300px; /* opzionale: imposta un'altezza massima */}"
@@ -190,8 +190,8 @@
         "image_width": "full",
         "image_ratio": "square",
         "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "primary",
+        "column_alignment": "center",
+        "background_style": "none",
         "button_label": "",
         "button_link": "https://www.unicoemultiplo.com/collections/idee-regalo-bomboniere?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=created-descending",
         "color_scheme": "scheme-1",
@@ -437,9 +437,9 @@
         "row_6W4rBy": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/brandani-i-fruttosi-tazza-double-lady-1.png",
-            "caption": "Didascalia",
-            "heading": "Riga",
+            "image": "shopify://shop_images/tazze-le-fruttose-c-tappo-porcellana-display-6-pz.jpg",
+            "caption": "",
+            "heading": "I Fruttosi Collection",
             "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
             "button_label": "Etichetta pulsante",
             "button_link": ""
@@ -448,8 +448,53 @@
         "row_tqDDzV": {
           "type": "row",
           "settings": {
-            "caption": "Didascalia",
-            "heading": "Riga",
+            "image": "shopify://shop_images/brandani-amore-mio-bomboniere.png",
+            "caption": "",
+            "heading": "Amore Mio Collection",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
+          }
+        },
+        "row_RC89bm": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/caffettiere.jpg",
+            "caption": "",
+            "heading": "Ekol Collection",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
+          }
+        },
+        "row_UkMMUF": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-Portafoto.jpg",
+            "caption": "",
+            "heading": "I Portafoto Collection",
+            "text": "",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
+          }
+        },
+        "row_Wc8xJB": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-Riccioli-di-Fata-bomboniere-2021-2-1024x683.jpg",
+            "caption": "",
+            "heading": "Riccioli di Fata Collection",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
+          }
+        },
+        "row_U9rYxQ": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/porcellana-e-bamboo.jpg",
+            "caption": "",
+            "heading": "Porcellana & Bamboo Collection",
             "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
             "button_label": "Etichetta pulsante",
             "button_link": ""
@@ -459,7 +504,11 @@
       "block_order": [
         "row_EVDEBQ",
         "row_6W4rBy",
-        "row_tqDDzV"
+        "row_tqDDzV",
+        "row_RC89bm",
+        "row_UkMMUF",
+        "row_Wc8xJB",
+        "row_U9rYxQ"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
@@ -476,6 +525,85 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "multicolumn_9EQWjJ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ckEnWY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1067.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pBqedf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4700_1_e423856b-f749-45bd-9144-6c52f7745ec1.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_39JRFe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/assets_task_01jwwx0mhpebksgcvjgags5gk8_1749021717_img_0.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_U8rCyB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1088.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ekPERF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1074.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_ckEnWY",
+        "column_pBqedf",
+        "column_39JRFe",
+        "column_U8rCyB",
+        "column_ekPERF"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 0
       }
     },
     "separator_jwUKTi": {
@@ -574,6 +702,7 @@
     "multirow_jzYgRc",
     "multicolumn_69Xifq",
     "multirow_zWcQeR",
+    "multicolumn_9EQWjJ",
     "separator_jwUKTi",
     "multicolumn_KdMfWP",
     "contact_form_mACCdt"
