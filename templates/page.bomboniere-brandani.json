@@ -449,7 +449,7 @@
             "image": "shopify://shop_images/brandani-amore-mio-bomboniere.png",
             "caption": "",
             "heading": "Amore Mio Collection",
-            "text": "<p>Delicati cuori dorati, dettagli raffinati e un design che parla d’amore: la collezione “Amore Mio” è perfetta come bomboniera per un’occasione speciale o per regalare un pensiero che lascia il segno. In new bone china, romantica ma moderna, rende unico ogni momento a due.</p>",
+            "text": "<p>Delicati <strong>cuori dorati</strong>, dettagli raffinati e un design che parla d’amore: la collezione “Amore Mio” è perfetta come bomboniera per un’occasione <strong>speciale </strong>o per regalare un pensiero che lascia il segno. In new bone china, romantica ma moderna, rende <strong>unico</strong> ogni momento a due.</p>",
             "button_label": "Scopri tutte le proposte Amore mio Brandani",
             "button_link": "shopify://collections/amore-mio-brandani"
           }
@@ -460,9 +460,9 @@
             "image": "shopify://shop_images/caffettiere.jpg",
             "caption": "",
             "heading": "Ekol Collection",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
+            "text": "<p>Ekol è la collezione che accende il <strong>buonumore</strong>: caffettiere glitter, tazzine impilabili e cucchiaini arcobaleno per una pausa che non passa inosservata. Ideale come <strong>bomboniera colorata e moderna</strong> o per regalare piccoli momenti di allegria quotidiana. Lasciati conquistare dai dettagli!</p>",
+            "button_label": "Scopri tutte le proposte Ekol Brandani",
+            "button_link": "shopify://collections/brandani-ekol"
           }
         },
         "row_UkMMUF": {
@@ -471,9 +471,9 @@
             "image": "shopify://shop_images/Brandani-Portafoto.jpg",
             "caption": "",
             "heading": "I Portafoto Collection",
-            "text": "",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
+            "text": "<p>La nuova <strong>collezione di portafoto Brandani:  </strong>in poliresina, glitter bianco, oro, dai motivi intrecciati, floreali o con foglie, è il<strong> regalo ideale per tuoi ospiti.</strong> Un portafoto è come donare un ricordo, è un classico che diventa originale grazie al design di Brandani. <strong>Bomboniera che riesce sempre</strong>, qualsiasi sia la ricorrenza da festeggiare.</p>",
+            "button_label": "Scopri tutti I Portafoto Brandani",
+            "button_link": "shopify://collections/brandani-cornici-e-portaritratti"
           }
         },
         "row_Wc8xJB": {
@@ -482,9 +482,9 @@
             "image": "shopify://shop_images/Brandani-Riccioli-di-Fata-bomboniere-2021-2-1024x683.jpg",
             "caption": "",
             "heading": "Riccioli di Fata Collection",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
+            "text": "<p><strong>Riccioli di Fata</strong> è la quintessenza della grazia. Tanti arabeschi sinuosi creati da una serie di linee floreali che si arricciano proprio come fossero capelli fatati. Tonalità dorate, bamboo e candida porcellana, quanto di più raffinato si può portare in tavola.</p>",
+            "button_label": "Scopri tutte le proposte Riccioli di Fata Brandani",
+            "button_link": "shopify://collections/brandani-riccioli-di-fata"
           }
         },
         "row_U9rYxQ": {
@@ -493,9 +493,9 @@
             "image": "shopify://shop_images/porcellana-e-bamboo.jpg",
             "caption": "",
             "heading": "Porcellana & Bamboo Collection",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
+            "text": "<p>Molto <strong>particolare</strong>, assolutamente versatile: questa è la descrizione sintetica per una collezione che non ha bisogno di altre parole. In <strong>Porcellana e Bamboo Naturale </strong>questa linea intreccia tradizione e contemporaneità  Forme studiate per dare origine ad un sapiente mix di stili che si fondono con <strong>equilibrio</strong>. Basta uno sguardo per innamorarsene.</p>",
+            "button_label": "Scopri tutte le proposte Porcella & Bamboo Brandani",
+            "button_link": "shopify://collections/brandani-porcellana-bamboo"
           }
         }
       },
