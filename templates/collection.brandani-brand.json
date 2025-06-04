@@ -75,8 +75,8 @@
         "column_EMQ8ey": {
           "type": "column",
           "settings": {
-            "title": "<strong>È ufficiale:</strong> è il momento di godersi la vita all’aria aperta!<strong> Il tavolino bistrò</strong> Brandani, compatto, pieghevole e subito pronto all’uso, è il compagno ideale per un caffè al volo, una pausa rinfrescante all’ombra o un aperitivo improvvisato.",
-            "text": "<p><br/>Che sia terrazza, giardino o balcone, basta aprirlo, aggiungere le due sedie… e il relax è servito! E a fine giornata? Tac, si richiude in un attimo: minimo ingombro, massimo comfort.<br/><br/></p><p><a href=\"https://www.unicoemultiplo.com/products/brandani-tavolo-pieghevole-bistro-cn-sedie-pieghevoli?\" title=\"https://www.unicoemultiplo.com/products/brandani-tavolo-pieghevole-bistro-cn-sedie-pieghevoli?\"><strong>SCOPRILO ORA!</strong></a></p>",
+            "title": "<strong>È ufficiale:</strong> è il momento di godersi la vita all’aria aperta!",
+            "text": "<p><strong>I piatti in melamina Brandani</strong>, leggeri, resistenti e colorati, sono perfetti per pranzi in giardino, picnic vista mare o cene in terrazza. Facili da trasportare e praticamente indistruttibili, rendono ogni apparecchiatura un mix di stile, praticità e buonumore.<br/><br/></p><p><a href=\"/collections/cucina-e-tavola-piatti-melamina\" title=\"Piatti in Melamina\"><strong>Acquista ora e goditi l’estate senza pensieri </strong>→</a><br/><br/></p>",
             "link_label": "",
             "link": ""
           }
@@ -105,7 +105,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 40,
@@ -144,7 +144,8 @@
     "image_banner_qREnQ4": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/Brandani-tavolino-pieghele-outdoor-1.webp",
+        "image": "shopify://shop_images/oceano_1_2.webp",
+        "image_2": "shopify://shop_images/evergreen-melamina-brandani.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -153,7 +154,7 @@
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
+        "stack_images_on_mobile": false,
         "show_text_below": true
       }
     },
@@ -577,7 +578,7 @@
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "multicolumn_Webjiz": {
