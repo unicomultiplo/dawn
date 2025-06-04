@@ -123,11 +123,11 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 8,
-        "padding_bottom": 0
+        "padding_bottom": 8
       }
     },
     "multicolumn_NptETT": {
@@ -424,7 +424,7 @@
         "row_EVDEBQ": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Brandani-bomboniere-unico-e-multiplo-1-qsvqd28mdgi6sbdh4rzg7jb5u2a6v0gsdny0zs07nc.jpg",
+            "image": "shopify://shop_images/Brandani-bomboniere-unico-e-multiplo-1-225x300_1.webp",
             "caption": "",
             "heading": "L'Alfabeto",
             "text": "<p>La collezione <strong>L'Alfabeto </strong>Brandani celebra l'arte del dono con eleganza e personalità. Ogni lettera in New Bone China diventa un simbolo di affetto e apprezzamento, perfetta per bomboniere che lasciano il segno. <br/><br/>Ideali per<strong> matrimoni, battesimi, anniversari</strong> o qualsiasi evento significativo, con Alfabeto, dici “<strong>grazie</strong>” in modo unico, con un pezzo che abbellisce la vita quotidiana dei tuoi ospiti, evocando il calore e la gioia del momento celebrato.</p>",
@@ -457,7 +457,7 @@
         "row_RC89bm": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/caffettiere.jpg",
+            "image": "shopify://shop_images/Cattura_-_Modificata_2.webp",
             "caption": "",
             "heading": "Ekol Collection",
             "text": "<p>Ekol è la collezione che accende il <strong>buonumore</strong>: caffettiere glitter, tazzine impilabili e cucchiaini arcobaleno per una pausa che non passa inosservata. Ideale come <strong>bomboniera colorata e moderna</strong> o per regalare piccoli momenti di allegria quotidiana. Lasciati conquistare dai dettagli!</p>",
