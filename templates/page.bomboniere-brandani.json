@@ -64,72 +64,6 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_wzewwH": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_MaM8Lt": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Contattaci per realizzare le tue bomboniere:<br/></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_ieVHRz": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/whatsapp.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "https://api.whatsapp.com/send?phone=390733810100&text=&source=&data=&app_absent="
-          }
-        },
-        "column_KmTUyx": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/mail.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "mailto:info@unicoemultiplo.com"
-          }
-        },
-        "column_69zrEW": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/telefono.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "tel:+0733810100"
-          }
-        }
-      },
-      "block_order": [
-        "column_MaM8Lt",
-        "column_ieVHRz",
-        "column_KmTUyx",
-        "column_69zrEW"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "half",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 8,
-        "padding_bottom": 8
-      }
-    },
     "multicolumn_NptETT": {
       "type": "multicolumn",
       "blocks": {
@@ -693,7 +627,6 @@
   "order": [
     "main",
     "image_with_text_C7p6TD",
-    "multicolumn_wzewwH",
     "multicolumn_NptETT",
     "collection_list_dUzHjH",
     "separator_ciFcXx",
