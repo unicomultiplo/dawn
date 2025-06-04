@@ -71,7 +71,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/bomboniere-novita-brandani-unico-e-multiplo.webp",
-            "title": "L'alfabeto →",
+            "title": "L'alfabeto 🡒",
             "text": "",
             "link_label": "",
             "link": "shopify://products/3415-brandani-l-alfabeto-lettere-di-porcellana"
@@ -91,7 +91,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Brandani-Portafoto.jpg",
-            "title": "Portafoto →",
+            "title": "Portafoto 🡒",
             "text": "",
             "link_label": "",
             "link": "shopify://collections/brandani-cornici-e-portaritratti"
@@ -101,7 +101,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Brandani-Salvandaio.jpg",
-            "title": "Salvadani →",
+            "title": "Salvadani 🡒",
             "text": "",
             "link_label": "",
             "link": "shopify://collections/brandani-salvadanai"
