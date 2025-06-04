@@ -124,8 +124,8 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 8,
         "padding_bottom": 8
       }
@@ -457,7 +457,7 @@
         "row_RC89bm": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Cattura_-_Modificata_2.webp",
+            "image": "shopify://shop_images/brandani-caffettiere-bomboniera-ekol.webp",
             "caption": "",
             "heading": "Ekol Collection",
             "text": "<p>Ekol è la collezione che accende il <strong>buonumore</strong>: caffettiere glitter, tazzine impilabili e cucchiaini arcobaleno per una pausa che non passa inosservata. Ideale come <strong>bomboniera colorata e moderna</strong> o per regalare piccoli momenti di allegria quotidiana. Lasciati conquistare dai dettagli!</p>",
