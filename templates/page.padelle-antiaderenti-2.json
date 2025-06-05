@@ -329,6 +329,56 @@
         "padding_bottom": 0
       }
     },
+    "image_banner_cjUKjp": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_3mKDCQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_JXB8cH": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_E4Chxj": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_3mKDCQ",
+        "text_JXB8cH",
+        "buttons_E4Chxj"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Padelle-antiaderenti.jpg",
+        "image_2": "shopify://shop_images/Padelle-antiaderenti.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-b4b5757d-11d6-44d9-9913-c59c1623590c",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "multicolumn_7pqqwm": {
       "type": "multicolumn",
       "blocks": {
@@ -940,6 +990,7 @@
     "multicolumn_Anyn8K",
     "multicolumn_eQWbbm",
     "image_with_text_CBxYKc",
+    "image_banner_cjUKjp",
     "multicolumn_7pqqwm",
     "multicolumn_T79FP8",
     "featured_collection_8kCVCG",
