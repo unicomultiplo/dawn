@@ -329,54 +329,140 @@
         "padding_bottom": 0
       }
     },
-    "image_banner_cjUKjp": {
-      "type": "image-banner",
+    "multicolumn_BtLArj": {
+      "type": "multicolumn",
       "blocks": {
-        "heading_3mKDCQ": {
+        "column_9Kq9Ny": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>Quali caratteristiche rendono una padella davvero antiaderente (e cosa invece è solo marketing)</strong></h3>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hrjUBp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Padelle-antiaderenti-1.jpg",
+            "title": "",
+            "text": "<p></p><p></p><p></p><p></p><p><strong>Il rivestimento è tutto:</strong> una vera padella antiaderente ha più strati (almeno 3), che garantiscono resistenza, distribuzione uniforme del calore e massima antiaderenza. Più strati = migliore performance.</p><p></p><p></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_EffmEg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Padelle-antiaderenti-2.jpg",
+            "title": "",
+            "text": "<p><strong>Come viene applicato conta:</strong> il rivestimento spruzzato è più economico ma meno duraturo. Quello applicato a caldo (a fusione) aderisce meglio al corpo della padella, offrendo una superficie più resistente e uniforme.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_9Kq9Ny",
+        "column_hrjUBp",
+        "column_EffmEg"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_Kfx3Y7": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4iPHJC": {
           "type": "heading",
           "settings": {
             "heading": "",
             "heading_size": "h1"
           }
         },
-        "text_JXB8cH": {
+        "text_MwwUa8": {
           "type": "text",
           "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
-        "buttons_E4Chxj": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<p>Condividi informazioni sul tuo brand con i clienti. Descrivi un prodotto, condividi gli annunci o dai il benvenuto ai clienti nel tuo negozio.</p>"
           }
         }
       },
       "block_order": [
-        "heading_3mKDCQ",
-        "text_JXB8cH",
-        "buttons_E4Chxj"
+        "heading_4iPHJC",
+        "text_MwwUa8"
       ],
-      "name": "t:sections.image-banner.presets.name",
+      "name": "t:sections.rich-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Padelle-antiaderenti-2.jpg",
-        "image_2": "shopify://shop_images/Padelle-antiaderenti-1.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-b4b5757d-11d6-44d9-9913-c59c1623590c",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_iNXkCB": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_9agKmb": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Quali caratteristiche rendono una padella davvero antiaderente (e cosa invece è solo marketing)</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_cTTmcK": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Il rivestimento è tutto:</strong> una vera padella antiaderente ha più strati (almeno 3), che garantiscono resistenza, distribuzione uniforme del calore e massima antiaderenza. Più strati = migliore performance.</p><p><strong>Come viene applicato conta:</strong> il rivestimento spruzzato è più economico ma meno duraturo. Quello applicato a caldo (a fusione) aderisce meglio al corpo della padella, offrendo una superficie più resistente e uniforme.</p><p><strong>Durata nel tempo:</strong> una buona padella mantiene le sue proprietà antiaderenti per anni, se usata e pulita correttamente. Diffida dai miracoli promessi: se la performance dura solo pochi mesi, era solo marketing.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_X7gtLG": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_9agKmb",
+        "text_cTTmcK",
+        "button_X7gtLG"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Padelle-antiaderenti-1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn_7pqqwm": {
@@ -384,6 +470,7 @@
       "blocks": {
         "column_3d3Ayz": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "",
             "text": "<h3><strong>Quali caratteristiche rendono una padella davvero antiaderente (e cosa invece è solo marketing)</strong></h3><h3></h3><p><strong>Il rivestimento è tutto:</strong> una vera padella antiaderente ha più strati (almeno 3), che garantiscono resistenza, distribuzione uniforme del calore e massima antiaderenza. Più strati = migliore performance.</p><p><strong>Come viene applicato conta:</strong> il rivestimento spruzzato è più economico ma meno duraturo. Quello applicato a caldo (a fusione) aderisce meglio al corpo della padella, offrendo una superficie più resistente e uniforme.</p><p><strong>Durata nel tempo:</strong> una buona padella mantiene le sue proprietà antiaderenti per anni, se usata e pulita correttamente. Diffida dai miracoli promessi: se la performance dura solo pochi mesi, era solo marketing.</p><h3></h3><h3></h3>",
@@ -990,7 +1077,9 @@
     "multicolumn_Anyn8K",
     "multicolumn_eQWbbm",
     "image_with_text_CBxYKc",
-    "image_banner_cjUKjp",
+    "multicolumn_BtLArj",
+    "rich_text_Kfx3Y7",
+    "image_with_text_iNXkCB",
     "multicolumn_7pqqwm",
     "multicolumn_T79FP8",
     "featured_collection_8kCVCG",
