@@ -19,6 +19,7 @@
     },
     "image_banner_VC4GDe": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Padelle-antiaderenti-knindustrie.webp",
         "image_overlay_opacity": 0,
