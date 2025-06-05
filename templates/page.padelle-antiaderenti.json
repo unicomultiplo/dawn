@@ -47,6 +47,7 @@
         },
         "column_fepjb4": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "",
             "text": "<p><strong>Nel corso del tempo</strong>, <strong>si è sviluppata</strong> <strong>una </strong>crescente <strong>consapevolezza riguardo</strong> ai <strong>potenziali effetti sulla salute</strong> legati all'uso di alcuni rivestimenti antiaderenti, <strong>in particolare a causa della presenza di sostanze come il PFOA</strong> (acido perfluorottanoico) nel processo di produzione del Teflon di vecchia generazione. Questa preoccupazione ha spinto la ricerca e l'innovazione verso alternative più sicure ed ecologiche.<br/><br/><strong>È in questo contesto che il rivestimento antiaderente ceramico ha guadagnato popolarità</strong>. Questo tipo di rivestimento è generalmente realizzato a partire da materiali inorganici, spesso derivati da minerali, e viene applicato sulla base della padella attraverso un processo <strong>che non richiede l'uso di PFOA o PTFE</strong>.</p>",
@@ -56,6 +57,7 @@
         },
         "column_PDzbWY": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/KnIndustrie-abct-padelle.webp",
             "title": "",
@@ -66,6 +68,7 @@
         },
         "column_Pw69Bj": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "",
             "text": "<p>Una delle <strong>caratteristich</strong>e più apprezzabili <strong>della ceramica</strong> è la sua <strong>notevole resistenza ai graffi e all'usura.</strong> Essendo un materiale intrinsecamente duro, sopporta molto meglio l'utilizzo quotidiano rispetto ai tradizionali rivestimenti in teflon, che sappiamo essere più delicati e soggetti a danneggiamenti anche con utensili non metallici.<br/><br/><strong>Un altro punto di forza indiscutibile è la sua capacità di resistere alle alte temperature senza subire alterazioni o rilasciare sostanze indesiderate</strong>. <br/>Parlando di preoccupazioni, con le padelle in ceramica possiamo stare più tranquilli per la nostra salute e per l'ambiente. <br/><br/>La praticità si estende anche alla pulizia. Dimentichiamoci della delicatezza richiesta dai rivestimenti tradizionali: la ceramica può essere pulita efficacemente anche con prodotti leggermente abrasivi, senza il timore di danneggiare la superficie antiaderente. Questo ci fa risparmiare tempo e fatica dopo aver cucinato.</p>",
@@ -778,7 +781,8 @@
             "heading": "Cosa succede se si graffia una padella antiaderente?",
             "icon": "fire",
             "row_content": "<p>Quando una padella antiaderente si graffia, il rivestimento in Teflon (PTFE) può deteriorarsi, riducendo l’efficacia antiaderente e causando l’adesione dei cibi durante la cottura. Sebbene l'ingestione occasionale di piccole particelle di Teflon non sia ritenuta pericolosa, poiché il materiale è chimicamente inerte e non viene assorbito dall’organismo, i graffi profondi possono esporre il metallo sottostante, come l’alluminio, che potrebbe interagire con gli alimenti.<br/></p>",
-            "page": ""
+            "page": "",
+            "liquid_content": ""
           }
         },
         "collapsible_row_GgNqhi": {
@@ -787,7 +791,8 @@
             "heading": "Qual è la vera differenza tra padelle in teflon e padelle in ceramica?",
             "icon": "fire",
             "row_content": "<p>La principale differenza tra una padella antiaderente in ceramica e una in teflon (PTFE) riguarda il tipo di rivestimento e il comportamento durante l’uso. <strong>Le padelle in ceramica hanno un rivestimento a base di materiali naturali</strong>, privo di PTFE e PFOA, e sono spesso considerate <strong>un’alternativa più ecologica.</strong> Resistono a temperature più elevate, fino a circa 400°C, ma tendono a perdere più rapidamente la loro capacità antiaderente con l’uso.</p><p>Le padelle in teflon, invece, utilizzano un polimero sintetico estremamente scivoloso che garantisce un’ottima antiaderenza nel tempo, a patto che non vengano surriscaldate oltre i 260°C. Se usate correttamente, durano più a lungo e mantengono buone prestazioni. Oggi, grazie all’eliminazione del PFOA, sono considerate sicure per l’uso alimentare. In sintesi, la ceramica è ideale per chi cerca una soluzione più naturale e resistente al calore, mentre il teflon è perfetto per chi desidera massima antiaderenza e semplicità d’uso, purché vengano rispettate alcune accortezze.</p>",
-            "page": ""
+            "page": "",
+            "liquid_content": ""
           }
         },
         "collapsible_row_4fNCdJ": {
@@ -796,7 +801,8 @@
             "heading": "Quali sono le padelle più sane per cucinare ogni giorno?",
             "icon": "fire",
             "row_content": "<p>Le padelle considerate più sicure e salutari per l’uso quotidiano sono quelle realizzate con materiali atossici, resistenti e privi di sostanze nocive come PFOA o metalli pesanti. Tra le migliori opzioni ci sono:</p><ul><li> realizzate con rivestimenti naturali, sono prive di PTFE e PFOA, ideali per chi cerca un'alternativa ecologica e salutare.<br/></li><li>prive di rivestimenti, non rilasciano sostanze chimiche, ma richiedono un po’ più di attenzione per evitare che il cibo si attacchi.<br/></li><li>naturali e prive di rivestimenti, garantiscono una cottura uniforme e arricchiscono gli alimenti con piccole quantità di ferro.<br/></li><li> se usate correttamente, sono sicure e pratiche per l’uso quotidiano.<br/></li></ul>",
-            "page": ""
+            "page": "",
+            "liquid_content": ""
           }
         },
         "collapsible_row_UBEqJr": {
@@ -805,7 +811,8 @@
             "heading": "Quali padelle è meglio evitare (e per quale motivo)",
             "icon": "fire",
             "row_content": "<p>Le padelle e le pentole di alta qualità oggi disponibili sul mercato sono realizzate con materiali selezionati per garantire non solo prestazioni elevate in cucina, ma anche il rispetto delle proprietà naturali degli alimenti. Alcuni di questi materiali affondano le radici nella tradizione, come la ghisa o la ceramica, ma sono stati perfezionati grazie alla tecnologia per essere più sicuri, resistenti e durevoli. Altri, invece, sono materiali innovativi che hanno trovato nuova applicazione nel mondo della cucina per offrire praticità e salute.</p><p>Scegliere le pentole giuste significa migliorare la propria esperienza ai fornelli e contribuire al proprio benessere. Che si tratti della solidità della ghisa o della praticità dell’antiaderente, è fondamentale fare una scelta consapevole, che risponda alle esigenze personali senza compromettere la salute.</p><p><strong>In generale, è bene evitare utensili con rivestimenti antiaderenti non certificati o contenenti sostanze potenzialmente nocive come BPA, PTFE, PFOA, PFAS, nichel o alluminio non schermato</strong>. Al contrario, è consigliabile orientarsi verso materiali sicuri e affidabili come acciaio inox, ghisa, pyrex, ceramica, titanio o altri materiali tecnologicamente avanzati progettati per essere sani e durevoli nel tempo.</p><p></p>",
-            "page": ""
+            "page": "",
+            "liquid_content": ""
           }
         }
       },
