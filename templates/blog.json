@@ -22,23 +22,83 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_bdLzpc": {
-      "type": "rich-text",
+    "image_with_text_HwaFGh": {
+      "type": "image-with-text",
       "blocks": {
-        "text_CeYkFh": {
+        "heading_WMAaAj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Immagine con testo",
+            "heading_size": "h1"
+          }
+        },
+        "text_CAXMxf": {
           "type": "text",
           "settings": {
-            "text": "<p>Unico & Multiplo è <strong>molto, molto più di un e-shop</strong>.<br/>In questo blog trovi approfondimenti, storie e curiosità sui prodotti e sui designer più affermati.</p><p>Scopri assieme a noi <strong>nuove idee e ispirazioni</strong>, leggi le ultime novità e tutte le anticipazioni sulle tendenze del momento, coltiva l’amore e la passione per il design in ogni sua forma.</p>"
+            "text": "<p>Unico & Multiplo è <em><strong>molto, molto più di un e-shop</strong></em>. <br/>In questo blog trovi approfondimenti, storie e curiosità sui prodotti e sui designer più affermati.</p><p>Scopri assieme a noi <em><strong>nuove idee e ispirazioni</strong></em>, leggi le ultime novità e tutte le anticipazioni sulle tendenze del momento, coltiva l’amore e la passione per il design in ogni sua forma.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_kJjJ4L": {
+          "type": "button",
+          "settings": {
+            "button_label": "Etichetta pulsante",
+            "button_link": "",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "text_CeYkFh"
+        "heading_WMAaAj",
+        "text_CAXMxf",
+        "button_kJjJ4L"
       ],
+      "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
+        "image": "shopify://shop_images/unicoemultiplo-civitanovamarche-1024x424_1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
         "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "newsletter_fTHXRw": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_BkjmeA": {
+          "type": "heading",
+          "settings": {
+            "heading": "ISCRIVITI ALLA COMMUNITY U&M E ACCEDI A UN MONDO DI VANTAGGI!",
+            "heading_size": "h2"
+          }
+        },
+        "paragraph_mdK74k": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Consigli, idee e promozioni sempre a portata di click. <br/>Iscriviti Subito!</p><p></p>"
+          }
+        },
+        "email_form_6GweTE": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_BkjmeA",
+        "paragraph_mdK74k",
+        "email_form_6GweTE"
+      ],
+      "name": "t:sections.newsletter.presets.name",
+      "settings": {
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
         "full_width": false,
         "padding_top": 40,
         "padding_bottom": 52
@@ -98,7 +158,8 @@
   },
   "order": [
     "main",
-    "rich_text_bdLzpc",
+    "image_with_text_HwaFGh",
+    "newsletter_fTHXRw",
     "featured_blog_WP7X8m",
     "featured_blog_pUYENw",
     "featured_blog_bnjUDn"
