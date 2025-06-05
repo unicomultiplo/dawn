@@ -307,20 +307,11 @@
             "text": "<p>✅ <strong>Materiale del corpo</strong><br/><br/>Alluminio forgiato o acciaio inox multistrato offrono una distribuzione uniforme del calore e una buona resistenza nel tempo.<br/><br/>💡 <em>Evita padelle troppo sottili: si deformano facilmente con il calore.</em></p><p>✅ <strong>Rivestimento antiaderente</strong><br/><br/>PTFE (spesso senza PFOA), ceramica e titanio sono i più comuni. Cerca padelle con 2 o 3 strati: durano di più e resistono meglio all’usura.</p><p>✅ <strong>Compatibilità con l’induzione</strong><br/><br/>Il fondo deve essere piatto per garantire il corretto contatto con il piano a induzione. Un fondo irregolare riduce l’efficienza e può danneggiare il piano.</p><p>✅ <strong>Peso e maneggevolezza</strong><br/><br/>Una padella ben bilanciata è più sicura e comoda da usare. Troppo leggera = instabile. Troppo pesante = scomoda.</p><p>❌ <strong>Attenzione ai prezzi troppo bassi</strong><br/><br/>Un prezzo molto basso può indicare materiali scadenti o rivestimenti non sicuri.<br/><br/>💡 <em>Meglio spendere qualcosa in più per un prodotto che dura davvero.</em></p><p>✅ <strong>Rivenditore affidabile</strong><br/><br/>Acquistare da brand trasparenti e affidabili offre più garanzie su sicurezza, materiali e assistenza.</p><h3>🧠 Conclusione</h3><p>Una buona padella antiaderente ha un corpo solido, un rivestimento multistrato, un fondo piatto e viene venduta da un marchio affidabile. Con questi criteri, l’acquisto sarà duraturo e sicuro.</p>",
             "text_style": "body"
           }
-        },
-        "button_Jbq8xx": {
-          "type": "button",
-          "settings": {
-            "button_label": "Scegli la qualità  KnIndustrie",
-            "button_link": "shopify://collections/knindustrie-catalogo-prodotti-black",
-            "button_style_secondary": true
-          }
         }
       },
       "block_order": [
         "heading_TfAYbB",
-        "text_JmwQRX",
-        "button_Jbq8xx"
+        "text_JmwQRX"
       ],
       "settings": {
         "image": "shopify://shop_images/Padelle-Antiaderenti-guida-completa-per-scegliere-il-modello-giusto-per-la-tua-cucina-3.webp",
