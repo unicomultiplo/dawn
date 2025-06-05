@@ -385,35 +385,59 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_Kfx3Y7": {
-      "type": "rich-text",
+    "multicolumn_rUYVXT": {
+      "type": "multicolumn",
       "blocks": {
-        "heading_4iPHJC": {
-          "type": "heading",
+        "column_zVUbWn": {
+          "type": "column",
           "settings": {
-            "heading": "",
-            "heading_size": "h1"
+            "title": "",
+            "text": "<p> <strong>Osserva i dettagli fisici:</strong> una padella di qualità ha un certo peso (non troppo leggera), uno spessore uniforme, materiali solidi. Se sembra fragile… probabilmente lo è.</p><p> <strong>Controlla le certificazioni:</strong> diciture come <em>PFOA free</em> o marchi di qualità garantiscono l’assenza di sostanze tossiche e un rivestimento sicuro per la salute.</p>",
+            "link_label": "",
+            "link": ""
           }
         },
-        "text_MwwUa8": {
-          "type": "text",
+        "column_iTpFyz": {
+          "type": "column",
           "settings": {
-            "text": "<p>Condividi informazioni sul tuo brand con i clienti. Descrivi un prodotto, condividi gli annunci o dai il benvenuto ai clienti nel tuo negozio.</p>"
+            "image": "shopify://shop_images/LOGO-PADELLE-ANTIADERENTI.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_RF4CRn": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>...Infine, per un acquisto davvero oculato, <strong>vi consigliamo vivamente di verificare attentamente il brand che produce le padelle e, cosa altrettanto importante, di consultare le recensioni di altri clienti.</strong></p><p> Le esperienze di chi ha già utilizzato quella specifica padella possono offrire indicazioni preziose sulla sua reale qualità, sulla sua durata nel tempo e sulle sue effettive prestazioni in cucina. Un marchio affidabile e recensioni positive sono spesso un ottimo segnale di un investimento ben fatto.</p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "heading_4iPHJC",
-        "text_MwwUa8"
+        "column_zVUbWn",
+        "column_iTpFyz",
+        "column_RF4CRn"
       ],
-      "name": "t:sections.rich-text.presets.name",
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "image_with_text_iNXkCB": {
@@ -448,6 +472,7 @@
         "text_cTTmcK",
         "button_X7gtLG"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/Padelle-antiaderenti-1.jpg",
@@ -480,6 +505,7 @@
         },
         "column_FWHacW": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "",
             "text": "<h3><strong>Come distinguere a colpo d’occhio una </strong><em><strong>VERA</strong></em><strong> padella antiaderente</strong></h3><p> <strong>Osserva i dettagli fisici:</strong> una padella di qualità ha un certo peso (non troppo leggera), uno spessore uniforme, materiali solidi. Se sembra fragile… probabilmente lo è.</p><p> <strong>Controlla le certificazioni:</strong> diciture come <em>PFOA free</em> o marchi di qualità garantiscono l’assenza di sostanze tossiche e un rivestimento sicuro per la salute.</p><p><br/>...Infine, per un acquisto davvero oculato, <strong>vi consigliamo vivamente di verificare attentamente il brand che produce le padelle e, cosa altrettanto importante, di consultare le recensioni di altri clienti.</strong> Le esperienze di chi ha già utilizzato quella specifica padella possono offrire indicazioni preziose sulla sua reale qualità, sulla sua durata nel tempo e sulle sue effettive prestazioni in cucina. Un marchio affidabile e recensioni positive sono spesso un ottimo segnale di un investimento ben fatto.</p>",
@@ -1078,7 +1104,7 @@
     "multicolumn_eQWbbm",
     "image_with_text_CBxYKc",
     "multicolumn_BtLArj",
-    "rich_text_Kfx3Y7",
+    "multicolumn_rUYVXT",
     "image_with_text_iNXkCB",
     "multicolumn_7pqqwm",
     "multicolumn_T79FP8",
