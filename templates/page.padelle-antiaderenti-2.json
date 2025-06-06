@@ -579,90 +579,15 @@
         "heading": "<strong>Qual è il miglior rivestimento antiaderente per le tue esigenze?</strong>",
         "heading_size": "h1",
         "heading_alignment": "left",
-        "layout": "none",
-        "color_scheme": "",
-        "container_color_scheme": "",
+        "layout": "row",
+        "color_scheme": "scheme-1",
+        "container_color_scheme": "scheme-2",
         "open_first_collapsible_row": true,
         "image": "shopify://shop_images/knindustrie-abct-handle-video.gif",
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "multicolumn_KKQxqM": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_ChXLxh": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p><strong>Scegliere la padella antiaderente giusta richiede attenzione:</strong> è importante puntare su prodotti sicuri per la salute, ma anche efficienti e durevoli. I due aspetti chiave da valutare sono la <strong>conducibilità termica</strong> e i <strong>materiali</strong> che assicurano una cottura uniforme. Le padelle migliori? Quelle più spesse: offrono prestazioni superiori e un eccellente rapporto qualità-prezzo.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_zAVLFP": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/padelle-antiaderenti-migliori.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_WxDANE": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_zAWfD7": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p><strong>La nostra scelta è il  RIVESTIMENTO CERAMICO</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-abct"
-          }
-        },
-        "column_UGrx7L": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Altri rivestimenti antiaderenti: titanio, marmo, granito e simili</strong>",
-            "text": "<p></p><p></p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_ChXLxh",
-        "column_zAVLFP",
-        "column_WxDANE",
-        "column_zAWfD7",
-        "column_UGrx7L"
-      ],
-      "custom_css": [],
-      "settings": {
-        "title": "<strong>Qual è il miglior rivestimento antiaderente per le tue esigenze?</strong>",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 0
       }
     },
     "multicolumn_bEDH9B": {
@@ -1101,7 +1026,6 @@
     "multicolumn_7pqqwm",
     "multicolumn_T79FP8",
     "collapsible_content_dqtXmG",
-    "multicolumn_KKQxqM",
     "multicolumn_bEDH9B",
     "multicolumn_qjWjLF",
     "multicolumn_wVxtVr",
