@@ -587,7 +587,7 @@
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "multicolumn_VePf6p": {
@@ -643,6 +643,49 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "multicolumn_q4GCUK": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_TDQY7d": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_bnJdmz": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>Design pulito, anima green: ecco perché scegliamo la ceramica<br/></strong></h3><p><br/>Abbiamo selezionato  brand che utilizzano <strong>rivestimenti ceramici di alta qualità</strong>, perché crediamo in una cucina più sana, facile da pulire e attenta all’ambiente.<br/>La ceramica che proponiamo è <strong>resistente, sicura e bella da vedere</strong>, in perfetto equilibrio tra <strong>funzionalità, estetica e sostenibilità</strong>.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_TDQY7d",
+        "column_bnJdmz"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "shopify://collections/piatti-in-bone-china",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multicolumn_9eEVfW": {
@@ -719,7 +762,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "La nostra scelta è il ceramico!",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -988,7 +1031,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Utensili e accessori per la cura",
+        "title": "<strong>Utensili e accessori per la cura</strong>",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -1163,6 +1206,7 @@
     "multicolumn_T79FP8",
     "collapsible_content_dqtXmG",
     "multicolumn_VePf6p",
+    "multicolumn_q4GCUK",
     "multicolumn_9eEVfW",
     "multicolumn_bEDH9B",
     "multicolumn_qjWjLF",
