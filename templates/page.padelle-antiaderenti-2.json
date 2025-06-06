@@ -360,6 +360,7 @@
         "column_9Kq9Ny": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/abct-knindustrei-padelle.webp",
             "title": "",
             "text": "<p><strong>Durata nel tempo:</strong> una buona padella mantiene le sue proprietà antiaderenti per anni, se usata e pulita correttamente. Diffida dai miracoli promessi: se la performance dura solo pochi mesi, era solo marketing.</p>",
             "link_label": "",
@@ -650,7 +651,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/brandani-shuttle-antiaderente.webp",
-            "title": "<strong>BRANDAN</strong>I rivestimento ceramico antiaderente <strong>ILAG XERADUR 3</strong>,",
+            "title": "<strong>BRANDANI </strong>Rivestimento ceramico antiaderente <strong>ILAG XERADUR 3</strong>",
             "text": "",
             "link_label": "",
             "link": "shopify://collections/shuttle-brandani"
@@ -660,7 +661,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/knindustrie-beyond-basic-the-saucepan-casseruola-giallo-1.jpg",
-            "title": "<strong>KNINDUSTRIE </strong>Corpo in acciaio con rivestimento antiaderente e legno wengè",
+            "title": "<strong>KNINDUSTRIE </strong>Corpo in <strong>acciaio</strong> con rivestimento<strong> antiaderente ceramico</strong>",
             "text": "",
             "link_label": "",
             "link": "shopify://products/2949-knindustrie-beyond-basic-the-saucepan-casseruola-giallo"
@@ -670,7 +671,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/the-omelette.webp",
-            "title": "<strong>KNINDUSTRIE </strong>Antiaderente rinforzato  con cristalli di diamante",
+            "title": "<strong>KNINDUSTRIE Antiaderente rinforzato</strong>  con<strong> cristalli di diamante</strong>",
             "text": "",
             "link_label": "",
             "link": "shopify://products/2470-knindustrie-the-omelette-beyond-basic-padella-frittata"
@@ -680,7 +681,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/KnIndustrie-ABCT-Casseruola-Bianca_16-cm-2.jpg",
-            "title": "<strong>KNINDUSTRIE</strong> La collezione ABCT alluminio,  antiaderente nanotecnologico",
+            "title": "<strong>KNINDUSTRIE</strong> La collezione <strong>ABCT </strong>alluminio,  antiaderente<strong> ceramico</strong>",
             "text": "",
             "link_label": "",
             "link": "shopify://collections/knindustrie-catalogo-prodotti-abct"
@@ -690,7 +691,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Black_mood_1_1.jpg",
-            "title": "",
+            "title": "KNINDUSTRIE La collezione Black <strong>alluminio</strong>, <strong>antiaderente ceramico</strong>",
             "text": "",
             "link_label": "",
             "link": "shopify://collections/knindustrie-catalogo-prodotti-black"
