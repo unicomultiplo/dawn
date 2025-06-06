@@ -233,10 +233,10 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Knindustrie-black-antiarenti.webp",
-            "title": "✔️  Ora sai come scegliere una padella davvero antiaderente e sicura. Noi abbiamo già fatto questa selezione per te:  → Scopri la collezione ceramica di Unico & Multiplo.  Per cucinare meglio, più a lungo — con stile e consapevolezza.",
+            "title": "✔️  Ora sai come scegliere una padella davvero antiaderente e sicura. Noi abbiamo già fatto questa selezione per te",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-black"
+            "link": ""
           }
         }
       },
@@ -269,7 +269,7 @@
         "button_ceX9GD": {
           "type": "button",
           "settings": {
-            "button_label": "Scoprile Ora!",
+            "button_label": "Scopri la collezione ceramica di Unico & Multiplo.  Per cucinare meglio, più a lungo, con stile e consapevolezza →",
             "button_link": "shopify://collections/knindustrie-catalogo-prodotti-black",
             "button_style_secondary": false,
             "button_label_2": "",
