@@ -650,50 +650,50 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/brandani-shuttle-antiaderente.webp",
-            "title": "Spugne in microfibra, per lavare con delicatezza!",
+            "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://products/brabantia-food-set-3-panni-imbottiti-per-pulizia-mixed-colours"
+            "link": "shopify://collections/shuttle-brandani"
           }
         },
         "column_e7DdPQ": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/knindustrie-beyond-basic-the-saucepan-casseruola-giallo-1.jpg",
-            "title": "Utensili ideali per le padelle antiaderenti!",
+            "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://products/brabantia-profile-utensili-da-cucina-in-legno-set-di-3"
+            "link": "shopify://products/2949-knindustrie-beyond-basic-the-saucepan-casseruola-giallo"
           }
         },
         "column_LceAPg": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/the-omelette.webp",
-            "title": "Leccapentole Brabantia, il silicone che ama le tue pentole.",
+            "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://products/5236-brabantia-asty-leccapiatti-in-silicone"
+            "link": "shopify://products/2470-knindustrie-the-omelette-beyond-basic-padella-frittata"
           }
         },
         "column_TzFJt9": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/KnIndustrie-ABCT-Casseruola-Bianca_16-cm-2.jpg",
-            "title": "Solo il velo d’olio che serve: l’antiaderente ringrazia!",
+            "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://products/brandani-nebulizzatore-techno-collection-ricarica-usb"
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-abct"
           }
         },
         "column_mCCchC": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Black_mood_1_1.jpg",
-            "title": "Un panno in microfibra morbido e antigraffio",
+            "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://products/3140-brabantia-pannino-sinkside-panno-in-microfibra-bianco"
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-black"
           }
         }
       },
