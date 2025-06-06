@@ -638,7 +638,7 @@
         "button_link": "shopify://collections/piatti-in-bone-china",
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 0
       }
