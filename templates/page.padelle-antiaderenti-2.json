@@ -590,66 +590,11 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_VePf6p": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_ny7AeY": {
-          "type": "column",
-          "settings": {
-            "title": "Colonna",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_qEqpra": {
-          "type": "column",
-          "settings": {
-            "title": "Colonna",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_QfGAmz": {
-          "type": "column",
-          "settings": {
-            "title": "Colonna",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_ny7AeY",
-        "column_qEqpra",
-        "column_QfGAmz"
-      ],
-      "disabled": true,
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Multicolonna",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 6,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Etichetta pulsante",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "custom_liquid_zULC3p": {
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<style>\n  .comparison-table {\n    display: grid;\n    grid-template-columns: repeat(5, 1fr);\n    gap: 8px;\n    font-size: 14px;\n    max-width: 100%;\n    margin: 20px auto;\n  }\n  .comparison-table .header {\n    font-weight: bold;\n    background-color: #f3f3f3;\n    padding: 8px;\n    border-bottom: 2px solid #ccc;\n    text-align: center;\n  }\n  .comparison-table .cell {\n    padding: 8px;\n    background-color: #fff;\n    border-bottom: 1px solid #ddd;\n    text-align: center;\n  }\n  .highlight {\n    background-color: #e6ffe6;\n    font-weight: bold;\n  }\n</style>\n\n<div class=\"comparison-table\">\n  <div class=\"header\">Materiale</div>\n  <div class=\"header\">Antiaderenza</div>\n  <div class=\"header\">Durata</div>\n  <div class=\"header\">Sostenibilità</div>\n  <div class=\"header\">Facilità di pulizia</div>\n\n  <div class=\"cell\">Teflon (PTFE)</div>\n  <div class=\"cell\">✨✨✨✨☆</div>\n  <div class=\"cell\">Media</div>\n  <div class=\"cell\">Bassa</div>\n  <div class=\"cell\">✨✨✨✨✨</div>\n\n  <div class=\"cell\">Titanio</div>\n  <div class=\"cell\">✨✨✨✨✨</div>\n  <div class=\"cell\">Alta</div>\n  <div class=\"cell\">Media</div>\n  <div class=\"cell\">✨✨✨✨☆</div>\n\n  <div class=\"cell highlight\">Ceramica (scelta nostra)</div>\n  <div class=\"cell highlight\">✨✨✨✨✨</div>\n  <div class=\"cell highlight\">Alta</div>\n  <div class=\"cell highlight\">Alta</div>\n  <div class=\"cell highlight\">✨✨✨✨✨</div>\n\n  <div class=\"cell\">Acciaio inox</div>\n  <div class=\"cell\">✨✨☆☆☆</div>\n  <div class=\"cell\">Molto alta</div>\n  <div class=\"cell\">Alta</div>\n  <div class=\"cell\">✨✨✨☆☆</div>\n</div>",
+        "custom_liquid": "<style>\n  .table-wrapper {\n    overflow-x: auto;\n    -webkit-overflow-scrolling: touch;\n  }\n\n  .comparison-table {\n    display: grid;\n    grid-template-columns: repeat(5, 1fr);\n    gap: 8px;\n    font-size: 14px;\n    min-width: 600px; /* forza il contenuto a scrollare */\n    margin: 20px auto;\n    word-break: break-word;\n  }\n\n  .comparison-table .header {\n    font-weight: bold;\n    background-color: #f3f3f3;\n    padding: 8px;\n    border-bottom: 2px solid #ccc;\n    text-align: center;\n  }\n\n  .comparison-table .cell {\n    padding: 8px;\n    background-color: #fff;\n    border-bottom: 1px solid #ddd;\n    text-align: center;\n  }\n\n  .highlight {\n    background-color: #e6ffe6;\n    font-weight: bold;\n  }\n</style>\n\n<div class=\"table-wrapper\">\n  <div class=\"comparison-table\">\n    <div class=\"header\">Materiale</div>\n    <div class=\"header\">Antiaderenza</div>\n    <div class=\"header\">Durata</div>\n    <div class=\"header\">Sostenibilità</div>\n    <div class=\"header\">Facilità di pulizia</div>\n\n    <div class=\"cell\">Teflon (PTFE)</div>\n    <div class=\"cell\">✨✨✨✨☆</div>\n    <div class=\"cell\">Media</div>\n    <div class=\"cell\">Bassa</div>\n    <div class=\"cell\">✨✨✨✨✨</div>\n\n    <div class=\"cell\">Titanio</div>\n    <div class=\"cell\">✨✨✨✨✨</div>\n    <div class=\"cell\">Alta</div>\n    <div class=\"cell\">Media</div>\n    <div class=\"cell\">✨✨✨✨☆</div>\n\n    <div class=\"cell highlight\">Ceramica (scelta nostra)</div>\n    <div class=\"cell highlight\">✨✨✨✨✨</div>\n    <div class=\"cell highlight\">Alta</div>\n    <div class=\"cell highlight\">Alta</div>\n    <div class=\"cell highlight\">✨✨✨✨✨</div>\n\n    <div class=\"cell\">Acciaio inox</div>\n    <div class=\"cell\">✨✨☆☆☆</div>\n    <div class=\"cell\">Molto alta</div>\n    <div class=\"cell\">Alta</div>\n    <div class=\"cell\">✨✨✨☆☆</div>\n  </div>\n</div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
@@ -693,7 +638,7 @@
         "button_link": "shopify://collections/piatti-in-bone-china",
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -1161,7 +1106,6 @@
     "multicolumn_7pqqwm",
     "multicolumn_T79FP8",
     "collapsible_content_dqtXmG",
-    "multicolumn_VePf6p",
     "custom_liquid_zULC3p",
     "multicolumn_q4GCUK",
     "multicolumn_9eEVfW",
