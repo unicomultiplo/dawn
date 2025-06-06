@@ -17,39 +17,6 @@
         "padding_bottom": 20
       }
     },
-    "multicolumn_tmaxqc": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_cGVdCx": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_cGVdCx"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 24
-      }
-    },
     "multicolumn_VR4EHF": {
       "type": "multicolumn",
       "blocks": {
@@ -275,40 +242,66 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_CBxYKc": {
-      "type": "image-with-text",
+    "multicolumn_FjffwH": {
+      "type": "multicolumn",
       "blocks": {
-        "heading_TfAYbB": {
-          "type": "heading",
+        "column_kxz9kV": {
+          "type": "column",
           "settings": {
-            "heading": "<strong>Come riconoscere una padella antiaderente di qualità?</strong>",
-            "heading_size": "h1"
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         },
-        "text_JmwQRX": {
-          "type": "text",
+        "column_Wd4gi7": {
+          "type": "column",
           "settings": {
-            "text": "<p>✅ <strong>Materiale del corpo</strong><br/><br/>Alluminio forgiato o acciaio inox multistrato offrono una distribuzione uniforme del calore e una buona resistenza nel tempo.<br/><br/>💡 <em>Evita padelle troppo sottili: si deformano facilmente con il calore.</em></p><p>✅ <strong>Rivestimento antiaderente</strong><br/><br/>PTFE (spesso senza PFOA), ceramica e titanio sono i più comuni. Cerca padelle con 2 o 3 strati: durano di più e resistono meglio all’usura.</p><p>✅ <strong>Compatibilità con l’induzione</strong><br/><br/>Il fondo deve essere piatto per garantire il corretto contatto con il piano a induzione. Un fondo irregolare riduce l’efficienza e può danneggiare il piano.</p><p>✅ <strong>Peso e maneggevolezza</strong><br/><br/>Una padella ben bilanciata è più sicura e comoda da usare. Troppo leggera = instabile. Troppo pesante = scomoda.</p><p>❌ <strong>Attenzione ai prezzi troppo bassi</strong><br/><br/>Un prezzo molto basso può indicare materiali scadenti o rivestimenti non sicuri.<br/><br/>💡 <em>Meglio spendere qualcosa in più per un prodotto che dura davvero.</em></p><p>✅ <strong>Rivenditore affidabile</strong><br/><br/>Acquistare da brand trasparenti e affidabili offre più garanzie su sicurezza, materiali e assistenza.</p><h3>🧠 Conclusione</h3><p>Una buona padella antiaderente ha un corpo solido, un rivestimento multistrato, un fondo piatto e viene venduta da un marchio affidabile. Con questi criteri, l’acquisto sarà duraturo e sicuro.</p>",
-            "text_style": "body"
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7yaUAU": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>✔️ <strong>Materiale del corpo. </strong>Alluminio forgiato o acciaio inox multistrato offrono una distribuzione uniforme del calore e una buona resistenza nel tempo.<em> Evita padelle troppo sottili: si deformano facilmente con il calore.</em><br/><br/></p><p>✔️ <strong>Rivestimento antiaderente. </strong>PTFE (spesso senza PFOA), ceramica e titanio sono i più comuni. Cerca padelle con 2 o 3 strati: durano di più e resistono meglio all’usura.<br/><br/>✔️ <strong>Compatibilità con l’induzione. </strong>Il fondo deve essere piatto per garantire il corretto contatto con il piano a induzione. Un fondo irregolare riduce l’efficienza e può danneggiare il piano.<br/><br/></p><p>✔️ <strong>Peso e maneggevolezza. </strong>Una padella ben bilanciata è più sicura e comoda da usare. Troppo leggera = instabile. Troppo pesante = scomoda.<br/><br/></p><p>✔️ <strong>Rivenditore affidabile. </strong>Acquistare da brand trasparenti e affidabili offre più garanzie su sicurezza, materiali e assistenza.<br/><br/>❌ <strong>Attenzione ai prezzi troppo bassi. </strong>Un prezzo molto basso può indicare materiali scadenti o rivestimenti non sicuri. <em>Meglio spendere qualcosa in più per un prodotto che dura davvero.</em><br/><br/><em><strong>Conclusione</strong></em><strong>: </strong><em>Una buona padella antiaderente ha un corpo solido, un rivestimento multistrato, un fondo piatto e viene venduta da un marchio affidabile. Con questi criteri, l’acquisto sarà duraturo e sicuro.</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Tk9def": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-pans-pots-collection.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "heading_TfAYbB",
-        "text_JmwQRX"
+        "column_kxz9kV",
+        "column_Wd4gi7",
+        "column_7yaUAU",
+        "column_Tk9def"
       ],
       "settings": {
-        "image": "shopify://shop_images/Padelle-Antiaderenti-guida-completa-per-scegliere-il-modello-giusto-per-la-tua-cucina-3.webp",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
+        "title": "<strong>Come riconoscere una padella antiaderente di qualità?</strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -364,7 +357,7 @@
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -419,7 +412,7 @@
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -1078,13 +1071,12 @@
   },
   "order": [
     "main",
-    "multicolumn_tmaxqc",
     "multicolumn_VR4EHF",
     "multicolumn_xxGrrA",
     "multicolumn_6fXjNw",
     "multicolumn_Anyn8K",
     "multicolumn_eQWbbm",
-    "image_with_text_CBxYKc",
+    "multicolumn_FjffwH",
     "multicolumn_BtLArj",
     "multicolumn_rUYVXT",
     "image_with_text_iNXkCB",
