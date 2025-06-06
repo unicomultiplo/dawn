@@ -144,20 +144,10 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_UPAw8i": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Questa guida completa ti accompagnerà alla scoperta del mondo delle padelle antiaderenti, fornendoti gli strumenti per un acquisto consapevole e una cucina senza stress.</p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "column_y9zNeh",
-        "column_UPAw8i"
+        "column_y9zNeh"
       ],
       "settings": {
         "title": "",
