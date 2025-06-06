@@ -640,7 +640,7 @@
           "settings": {
             "image": "shopify://shop_images/padelle-antiaderenti-migliori-3.jpg",
             "title": "",
-            "text": "<h3><strong>Le padelle antiaderenti moderne sono sicure?</strong></h3><p><strong>Assolutamente si.</strong> Grazie all’eliminazione del PFOA e alle rigorose normative europee, i prodotti attuali sono sicuri per l’uso alimentare. Le ricerche confermano che le padelle di buona qualità non rappresentano un rischio, a patto che vengano utilizzate correttamente: è importante non superare i 260°C, soprattutto nel caso del Teflon.<br/>È cruciale <strong>distinguere tra una padella 'sicura' e una padella 'non danneggiata'</strong>. La sicurezza si riferisce all'assenza di rilascio di sostanze nocive durante la cottura, mentre l'integrità fisica ('non danneggiata') riguarda l'assenza di graffi profondi o deformazioni che ne comprometterebbero la funzionalità. </p><p></p>",
+            "text": "<h3><strong>Le padelle antiaderenti moderne sono sicure?</strong></h3><p><strong>Assolutamente si.</strong> Grazie all’eliminazione del PFOA e alle rigorose normative europee, i prodotti attuali sono sicuri per l’uso alimentare. Le ricerche confermano che le padelle di buona qualità non rappresentano un rischio, a patto che vengano utilizzate correttamente: è importante non superare i 260°C, soprattutto nel caso del Teflon. È cruciale <strong>distinguere tra una padella 'sicura' e una padella 'non danneggiata'</strong>. La sicurezza si riferisce all'assenza di rilascio di sostanze nocive durante la cottura, mentre l'integrità fisica ('non danneggiata') riguarda l'assenza di graffi profondi o deformazioni che ne comprometterebbero la funzionalità. </p><p></p>",
             "link_label": "",
             "link": ""
           }
@@ -777,7 +777,7 @@
           "settings": {
             "image": "shopify://shop_images/Brabantia-Utensili-da-cucina-in-legno-Set-di-3-4_1.webp",
             "title": "Utensili ideali per le padelle antiaderenti!",
-            "text": "<p><br/><br/></p>",
+            "text": "",
             "link_label": "",
             "link": "shopify://products/brabantia-profile-utensili-da-cucina-in-legno-set-di-3"
           }
@@ -789,17 +789,17 @@
             "title": "Leccapentole Brabantia, il silicone che ama le tue pentole.",
             "text": "",
             "link_label": "",
-            "link": "shopify://products/2470-knindustrie-the-omelette-beyond-basic-padella-frittata"
+            "link": "shopify://products/5236-brabantia-asty-leccapiatti-in-silicone"
           }
         },
         "column_TzFJt9": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/abct-wok-knindustrie.webp",
-            "title": "Wok con trattamento ceramico",
+            "image": "shopify://shop_images/brandani-nebulizzatore-techno-collection-ricarica-usb.webp",
+            "title": "Solo il velo d’olio che serve: l’antiaderente ringrazia!",
             "text": "",
             "link_label": "",
-            "link": "shopify://products/691-knindustrie-abct-padella-wok-diamentro-32-cm-bianca"
+            "link": "shopify://products/brandani-nebulizzatore-techno-collection-ricarica-usb"
           }
         },
         "column_gmWXNr": {
@@ -826,7 +826,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/brabantia-tappetino-scolapiatti-in-silicone-jade-green.webp",
-            "title": "Per far asciugare dolcemente le tue padelle!\"",
+            "title": "Per far asciugare dolcemente le tue padelle!",
             "text": "",
             "link_label": "",
             "link": "shopify://products/brabantia-food-tappetino-scolapiatti-in-silicone-jade-green"
@@ -846,7 +846,7 @@
         "title": "Utensili e accessori per la cura",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "square",
+        "image_ratio": "adapt",
         "columns_desktop": 6,
         "column_alignment": "left",
         "background_style": "none",
@@ -855,7 +855,7 @@
         "color_scheme": "",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
