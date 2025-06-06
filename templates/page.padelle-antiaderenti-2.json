@@ -243,9 +243,9 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/knindustrie-pans-pots-collection.png",
-            "title": "",
+            "title": "Esplora ora la collezione di padelle antiaderenti ceramico Black: sicure e capaci di dare anche un tocco di classe ed eleganza alla tua cucina",
             "text": "",
-            "link_label": "Esplora ora la collezione di padelle antiaderenti ceramico Black: sicure e capaci di dare anche un tocco di classe ed eleganza alla tua cucina",
+            "link_label": "",
             "link": "shopify://collections/knindustrie-catalogo-prodotti-black"
           }
         }
@@ -1001,6 +1001,96 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "multicolumn_8BdUX3": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_T3y8t8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brabantia-Utensili-da-cucina-in-legno-Set-di-3-4_1.webp",
+            "title": "Utensili ideali per le padelle antiaderenti!",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/brabantia-profile-utensili-da-cucina-in-legno-set-di-3"
+          }
+        },
+        "column_kzJce8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/25259_1.jpg",
+            "title": "Leccapentole Brabantia, il silicone che ama le tue pentole.",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/5236-brabantia-asty-leccapiatti-in-silicone"
+          }
+        },
+        "column_xc64ka": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brandani-nebulizzatore-techno-collection-ricarica-usb.webp",
+            "title": "Solo il velo d’olio che serve: l’antiaderente ringrazia!",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/brandani-nebulizzatore-techno-collection-ricarica-usb"
+          }
+        },
+        "column_UEJADe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brabantia-set-3-panni-imbottiti-per-pulizia-in-mic-mixed-colours-mixed-colours_d8c4d86e-0eea-4958-a55d-e11d2f0de14f.jpg",
+            "title": "Spugne in microfibra, per lavare con delicatezza!",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/brabantia-food-set-3-panni-imbottiti-per-pulizia-mixed-colours"
+          }
+        },
+        "column_ghGwgx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brabantia-pannino-sinkside-panno-in-microfibra-bianco-2_41f88308-462a-4ba9-8ffe-8da1c4b700ea.jpg",
+            "title": "Un panno in microfibra morbido e antigraffio",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/3140-brabantia-pannino-sinkside-panno-in-microfibra-bianco"
+          }
+        },
+        "column_8iBDar": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brabantia-tappetino-scolapiatti-in-silicone-jade-green.webp",
+            "title": "Per far asciugare dolcemente le tue padelle!",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/brabantia-food-tappetino-scolapiatti-in-silicone-jade-green"
+          }
+        }
+      },
+      "block_order": [
+        "column_T3y8t8",
+        "column_kzJce8",
+        "column_xc64ka",
+        "column_UEJADe",
+        "column_ghGwgx",
+        "column_8iBDar"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Utensili e accessori per la cura",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -1025,6 +1115,7 @@
     "multicolumn_9eEVfW",
     "multicolumn_tim6dE",
     "collapsible_content_7AGHFD",
-    "multicolumn_HpnGYB"
+    "multicolumn_HpnGYB",
+    "multicolumn_8BdUX3"
   ]
 }
