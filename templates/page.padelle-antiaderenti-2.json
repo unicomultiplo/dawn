@@ -14,40 +14,7 @@
       "custom_css": [],
       "settings": {
         "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
-    "multicolumn_VR4EHF": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_7QAYWz": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p><em>🎯 </em><em><strong>Scegliere la padella antiaderente giusta</strong></em><em> è un investimento per la tua salute e per cucinare con piacere ogni giorno: massima antiaderenza, zero stress, sicurezza garantita e lunga durata!<br/></em></p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_7QAYWz"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "multicolumn_xxGrrA": {
@@ -65,8 +32,8 @@
         "column_DhWp9r": {
           "type": "column",
           "settings": {
-            "title": "",
-            "text": "<p><strong>Come orientarsi nella giungla di materiali e rivestimenti per scegliere la padella perfetta, </strong>sicura e duratura? </p>",
+            "title": "<strong>Come orientarsi nella giungla di materiali e rivestimenti per scegliere la padella perfetta, </strong>sicura e duratura?",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -306,18 +273,42 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_BtLArj": {
+    "multicolumn_VR4EHF": {
       "type": "multicolumn",
       "blocks": {
-        "column_9Kq9Ny": {
+        "column_7QAYWz": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3><strong>Quali caratteristiche rendono una padella davvero antiaderente (e cosa invece è solo marketing)</strong></h3>",
+            "text": "<p><em>🎯 </em><em><strong>Scegliere la padella antiaderente giusta</strong></em><em> è un investimento per la tua salute e per cucinare con piacere ogni giorno: massima antiaderenza, zero stress, sicurezza garantita e lunga durata!<br/></em></p>",
             "link_label": "",
             "link": ""
           }
-        },
+        }
+      },
+      "block_order": [
+        "column_7QAYWz"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_BtLArj": {
+      "type": "multicolumn",
+      "blocks": {
         "column_hrjUBp": {
           "type": "column",
           "settings": {
@@ -337,17 +328,26 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_9Kq9Ny": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><strong>Durata nel tempo:</strong> una buona padella mantiene le sue proprietà antiaderenti per anni, se usata e pulita correttamente. Diffida dai miracoli promessi: se la performance dura solo pochi mesi, era solo marketing.</p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "column_9Kq9Ny",
         "column_hrjUBp",
-        "column_EffmEg"
+        "column_EffmEg",
+        "column_9Kq9Ny"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "",
-        "heading_size": "h1",
+        "title": "<strong>Quali caratteristiche rendono una padella davvero antiaderente (e cosa invece è solo marketing)</strong>",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
@@ -401,10 +401,10 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "",
+        "title": "<strong>Come distinguere a colpo d’occhio una </strong><em><strong>VERA</strong></em><strong> padella antiaderente</strong>",
         "heading_size": "h2",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
@@ -413,55 +413,6 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_iNXkCB": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_9agKmb": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Quali caratteristiche rendono una padella davvero antiaderente (e cosa invece è solo marketing)</strong>",
-            "heading_size": "h1"
-          }
-        },
-        "text_cTTmcK": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Il rivestimento è tutto:</strong> una vera padella antiaderente ha più strati (almeno 3), che garantiscono resistenza, distribuzione uniforme del calore e massima antiaderenza. Più strati = migliore performance.</p><p><strong>Come viene applicato conta:</strong> il rivestimento spruzzato è più economico ma meno duraturo. Quello applicato a caldo (a fusione) aderisce meglio al corpo della padella, offrendo una superficie più resistente e uniforme.</p><p><strong>Durata nel tempo:</strong> una buona padella mantiene le sue proprietà antiaderenti per anni, se usata e pulita correttamente. Diffida dai miracoli promessi: se la performance dura solo pochi mesi, era solo marketing.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_X7gtLG": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_9agKmb",
-        "text_cTTmcK",
-        "button_X7gtLG"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/Padelle-antiaderenti-1.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -1071,15 +1022,14 @@
   },
   "order": [
     "main",
-    "multicolumn_VR4EHF",
     "multicolumn_xxGrrA",
     "multicolumn_6fXjNw",
     "multicolumn_Anyn8K",
     "multicolumn_eQWbbm",
     "multicolumn_FjffwH",
+    "multicolumn_VR4EHF",
     "multicolumn_BtLArj",
     "multicolumn_rUYVXT",
-    "image_with_text_iNXkCB",
     "multicolumn_7pqqwm",
     "multicolumn_T79FP8",
     "featured_collection_8kCVCG",
