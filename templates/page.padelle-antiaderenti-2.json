@@ -661,7 +661,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3><strong>Design pulito, anima green: ecco perché scegliamo la ceramica<br/></strong></h3><p><br/>Abbiamo selezionato  brand che utilizzano <strong>rivestimenti ceramici di alta qualità</strong>, perché crediamo in una cucina più sana, facile da pulire e attenta all’ambiente.<br/>La ceramica che proponiamo è <strong>resistente, sicura e bella da vedere</strong>, in perfetto equilibrio tra <strong>funzionalità, estetica e sostenibilità</strong>.</p>",
+            "text": "<h3><strong>Design pulito, anima green: ecco perché scegliamo la ceramica!<br/></strong></h3><p><br/>Abbiamo selezionato  brand che utilizzano <strong>rivestimenti ceramici di alta qualità</strong>, perché crediamo in una cucina più sana, facile da pulire e attenta all’ambiente.<br/>La ceramica che proponiamo è <strong>resistente, sicura e bella da vedere</strong>, in perfetto equilibrio tra <strong>funzionalità, estetica e sostenibilità</strong>.</p>",
             "link_label": "",
             "link": ""
           }
@@ -691,10 +691,20 @@
     "multicolumn_9eEVfW": {
       "type": "multicolumn",
       "blocks": {
+        "column_gmWXNr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brandani-shuttle-antiaderente.webp",
+            "title": "Spugne in microfibra, per lavare con delicatezza!",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/brabantia-food-set-3-panni-imbottiti-per-pulizia-mixed-colours"
+          }
+        },
         "column_e7DdPQ": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Brabantia-Utensili-da-cucina-in-legno-Set-di-3-4_1.webp",
+            "image": "shopify://shop_images/knindustrie-beyond-basic-the-saucepan-casseruola-giallo-1.jpg",
             "title": "Utensili ideali per le padelle antiaderenti!",
             "text": "",
             "link_label": "",
@@ -704,7 +714,7 @@
         "column_LceAPg": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/25259_1.jpg",
+            "image": "shopify://shop_images/the-omelette.webp",
             "title": "Leccapentole Brabantia, il silicone che ama le tue pentole.",
             "text": "",
             "link_label": "",
@@ -714,59 +724,38 @@
         "column_TzFJt9": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/brandani-nebulizzatore-techno-collection-ricarica-usb.webp",
+            "image": "shopify://shop_images/KnIndustrie-ABCT-Casseruola-Bianca_16-cm-2.jpg",
             "title": "Solo il velo d’olio che serve: l’antiaderente ringrazia!",
             "text": "",
             "link_label": "",
             "link": "shopify://products/brandani-nebulizzatore-techno-collection-ricarica-usb"
           }
         },
-        "column_gmWXNr": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brabantia-set-3-panni-imbottiti-per-pulizia-in-mic-mixed-colours-mixed-colours_d8c4d86e-0eea-4958-a55d-e11d2f0de14f.jpg",
-            "title": "Spugne in microfibra, per lavare con delicatezza!",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://products/brabantia-food-set-3-panni-imbottiti-per-pulizia-mixed-colours"
-          }
-        },
         "column_mCCchC": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/brabantia-pannino-sinkside-panno-in-microfibra-bianco-2_41f88308-462a-4ba9-8ffe-8da1c4b700ea.jpg",
+            "image": "shopify://shop_images/Black_mood_1_1.jpg",
             "title": "Un panno in microfibra morbido e antigraffio",
             "text": "",
             "link_label": "",
             "link": "shopify://products/3140-brabantia-pannino-sinkside-panno-in-microfibra-bianco"
           }
-        },
-        "column_NLa7je": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brabantia-tappetino-scolapiatti-in-silicone-jade-green.webp",
-            "title": "Per far asciugare dolcemente le tue padelle!",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://products/brabantia-food-tappetino-scolapiatti-in-silicone-jade-green"
-          }
         }
       },
       "block_order": [
+        "column_gmWXNr",
         "column_e7DdPQ",
         "column_LceAPg",
         "column_TzFJt9",
-        "column_gmWXNr",
-        "column_mCCchC",
-        "column_NLa7je"
+        "column_mCCchC"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 6,
+        "image_ratio": "square",
+        "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
