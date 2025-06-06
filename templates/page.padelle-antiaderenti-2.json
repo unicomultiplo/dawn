@@ -581,6 +581,35 @@
         "padding_bottom": 0
       }
     },
+    "newsletter_nQrkY4": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_VVkD6y": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_NpYP4H": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>👉 Cerchi la soluzione migliore per cucinare in modo sano, duraturo e senza sostanze nocive?<br/><br/>Scopri la nostra selezione di padelle in ceramica ➤ <a href=\"https://www.unicoemultiplo.com/collections/knindustrie-catalogo-prodotti-abct\" title=\"https://www.unicoemultiplo.com/collections/knindustrie-catalogo-prodotti-abct\">[Vedi la collezione]</a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VVkD6y",
+        "paragraph_NpYP4H"
+      ],
+      "name": "t:sections.newsletter.presets.name",
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "custom_liquid_zULC3p": {
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
@@ -1098,6 +1127,7 @@
     "multicolumn_7pqqwm",
     "multicolumn_T79FP8",
     "collapsible_content_dqtXmG",
+    "newsletter_nQrkY4",
     "custom_liquid_zULC3p",
     "multicolumn_q4GCUK",
     "multicolumn_9eEVfW",
