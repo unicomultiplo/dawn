@@ -640,7 +640,7 @@
           "settings": {
             "image": "shopify://shop_images/padelle-antiaderenti-migliori-3.jpg",
             "title": "",
-            "text": "<h3><strong>Le padelle antiaderenti moderne sono sicure?</strong></h3><p><strong>Assolutamente si.</strong> Grazie all’eliminazione del PFOA e alle rigorose normative europee, i prodotti attuali sono sicuri per l’uso alimentare. Le ricerche confermano che le padelle di buona qualità non rappresentano un rischio, a patto che vengano utilizzate correttamente: è importante non superare i 260°C, soprattutto nel caso del Teflon.<br/><strong>È cruciale distinguere tra una padella 'sicura' e una padella 'non danneggiata'</strong>. La sicurezza si riferisce all'assenza di rilascio di sostanze nocive durante la cottura, mentre l'integrità fisica ('non danneggiata') riguarda l'assenza di graffi profondi o deformazioni che ne comprometterebbero la funzionalità. </p><p></p>",
+            "text": "<h3><strong>Le padelle antiaderenti moderne sono sicure?</strong></h3><p><strong>Assolutamente si.</strong> Grazie all’eliminazione del PFOA e alle rigorose normative europee, i prodotti attuali sono sicuri per l’uso alimentare. Le ricerche confermano che le padelle di buona qualità non rappresentano un rischio, a patto che vengano utilizzate correttamente: è importante non superare i 260°C, soprattutto nel caso del Teflon.<br/>È cruciale <strong>distinguere tra una padella 'sicura' e una padella 'non danneggiata'</strong>. La sicurezza si riferisce all'assenza di rilascio di sostanze nocive durante la cottura, mentre l'integrità fisica ('non danneggiata') riguarda l'assenza di graffi profondi o deformazioni che ne comprometterebbero la funzionalità. </p><p></p>",
             "link_label": "",
             "link": ""
           }
@@ -653,12 +653,22 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_bcCJfe": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>Come usare correttamente una padella antiaderente senza rischi</strong></h3><p>Trattare bene una padella antiaderente significa garantirle <strong>lunga vita e prestazioni ottimali</strong>. Oltre a non surriscaldarla e a usare utensili adeguati, evita di <strong>tagliare il cibo direttamente nella padella</strong>, per non danneggiare la superficie.<br/>Anche nella cottura quotidiana, basta <strong>un po' di attenzione</strong> per evitare danni: un uso consapevole riduce i rischi per la salute e mantiene l'efficacia del rivestimento.</p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_ctBGFY",
         "column_EnYmWU",
-        "column_3ChXTK"
+        "column_3ChXTK",
+        "column_bcCJfe"
       ],
       "settings": {
         "title": "<strong>Padelle antiaderenti e salute: cosa c’è da sapere davvero  </strong>",
@@ -734,7 +744,7 @@
         "text_brtDXa": {
           "type": "text",
           "settings": {
-            "text": "<h3><strong>Buone pratiche d’uso per proteggere il rivestimento</strong></h3><p>Per prolungare la durata del rivestimento antiaderente, utilizza <strong>utensili in silicone, legno o plastica resistente al calore</strong>, evitando quelli in metallo che possono graffiare la superficie.</p><p>Non surriscaldare mai la padella a vuoto: le <strong>alte temperature</strong> danneggiano il rivestimento e possono causare il rilascio di sostanze nocive. È buona abitudine <strong>scaldarla gradualmente</strong>, magari con un filo d’olio o con gli ingredienti già inseriti.</p><p>Evita lo <strong>shock termico</strong>: non mettere la padella calda sotto l’acqua fredda. Aspetta qualche minuto prima di lavarla per non comprometterne la forma e il rivestimento.</p><h3><strong>Come usare correttamente una padella antiaderente senza rischi</strong></h3><p>Trattare bene una padella antiaderente significa garantirle <strong>lunga vita e prestazioni ottimali</strong>. Oltre a non surriscaldarla e a usare utensili adeguati, evita di <strong>tagliare il cibo direttamente nella padella</strong>, per non danneggiare la superficie.<br/>Anche nella cottura quotidiana, basta <strong>un po' di attenzione</strong> per evitare danni: un uso consapevole riduce i rischi per la salute e mantiene l'efficacia del rivestimento.</p><h3><strong>Come pulire e conservare correttamente una padella antiaderente</strong></h3><p>Lava la padella con <strong>spugne morbide e detergenti delicati</strong>. Evita spugne abrasive, pagliette metalliche e, se possibile, la lavastoviglie, perché i cicli aggressivi ne riducono la durata.<br/>In caso di sporco ostinato, lasciala in ammollo qualche minuto prima di lavare.<br/>Dopo il lavaggio, <strong>asciugala bene</strong> e <strong>non impilarla direttamente con altre padelle</strong>: usa un panno o un separatore per evitare graffi.<br/>Conservala con cura e <strong>non trascurare l’asciugatura</strong>: piccole attenzioni quotidiane mantengono la tua padella antiaderente in perfette condizioni più a lungo.</p>",
+            "text": "<h3><strong>Buone pratiche d’uso per proteggere il rivestimento</strong></h3><p>Per prolungare la durata del rivestimento antiaderente, utilizza <strong>utensili in silicone, legno o plastica resistente al calore</strong>, evitando quelli in metallo che possono graffiare la superficie.</p><p>Non surriscaldare mai la padella a vuoto: le <strong>alte temperature</strong> danneggiano il rivestimento e possono causare il rilascio di sostanze nocive. È buona abitudine <strong>scaldarla gradualmente</strong>, magari con un filo d’olio o con gli ingredienti già inseriti.</p><p>Evita lo <strong>shock termico</strong>: non mettere la padella calda sotto l’acqua fredda. Aspetta qualche minuto prima di lavarla per non comprometterne la forma e il rivestimento.</p><p></p><h3><strong>Come pulire e conservare correttamente una padella antiaderente</strong></h3><p>Lava la padella con <strong>spugne morbide e detergenti delicati</strong>. Evita spugne abrasive, pagliette metalliche e, se possibile, la lavastoviglie, perché i cicli aggressivi ne riducono la durata.<br/>In caso di sporco ostinato, lasciala in ammollo qualche minuto prima di lavare.<br/>Dopo il lavaggio, <strong>asciugala bene</strong> e <strong>non impilarla direttamente con altre padelle</strong>: usa un panno o un separatore per evitare graffi.<br/>Conservala con cura e <strong>non trascurare l’asciugatura</strong>: piccole attenzioni quotidiane mantengono la tua padella antiaderente in perfette condizioni più a lungo.</p>",
             "text_style": "body"
           }
         }
@@ -775,8 +785,8 @@
         "column_LceAPg": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-beyond-basic-the-omelette.webp",
-            "title": "Rivestimento antiaderente rinforzato con cristalli di diamante",
+            "image": "shopify://shop_images/25259_1.jpg",
+            "title": "Leccapentole Brabantia, il silicone che ama le tue pentole.",
             "text": "",
             "link_label": "",
             "link": "shopify://products/2470-knindustrie-the-omelette-beyond-basic-padella-frittata"
@@ -844,7 +854,7 @@
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
