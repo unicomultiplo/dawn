@@ -234,7 +234,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>✔️ <strong>Materiale del corpo. </strong>Alluminio forgiato o acciaio inox multistrato offrono una distribuzione uniforme del calore e una buona resistenza nel tempo.<em> Evita padelle troppo sottili: si deformano facilmente con il calore.</em><br/><br/></p><p>✔️ <strong>Rivestimento antiaderente. </strong>PTFE (spesso senza PFOA), ceramica e titanio sono i più comuni. Cerca padelle con 2 o 3 strati: durano di più e resistono meglio all’usura.<br/><br/>✔️ <strong>Compatibilità con l’induzione. </strong>Il fondo deve essere piatto per garantire il corretto contatto con il piano a induzione. Un fondo irregolare riduce l’efficienza e può danneggiare il piano.<br/><br/></p><p>✔️ <strong>Peso e maneggevolezza. </strong>Una padella ben bilanciata è più sicura e comoda da usare. Troppo leggera = instabile. Troppo pesante = scomoda.<br/><br/></p><p>✔️ <strong>Rivenditore affidabile. </strong>Acquistare da brand trasparenti e affidabili offre più garanzie su sicurezza, materiali e assistenza.<br/><br/>❌ <strong>Attenzione ai prezzi troppo bassi. </strong>Un prezzo molto basso può indicare materiali scadenti o rivestimenti non sicuri. <em>Meglio spendere qualcosa in più per un prodotto che dura davvero.</em><br/><br/><em><strong>Conclusione</strong></em><strong>: </strong><em>Una buona padella antiaderente ha un corpo solido, un rivestimento multistrato, un fondo piatto e viene venduta da un marchio affidabile. Con questi criteri, l’acquisto sarà duraturo e sicuro.</em></p>",
+            "text": "<p>✔️ <strong>Materiale del corpo. </strong>Alluminio forgiato o acciaio inox multistrato offrono una distribuzione uniforme del calore e una buona resistenza nel tempo.<em> Evita padelle troppo sottili: si deformano facilmente con il calore.</em><br/><br/></p><p>✔️ <strong>Rivestimento antiaderente. </strong>PTFE (spesso senza PFOA), ceramica e titanio sono i più comuni. Cerca padelle con 2 o 3 strati: durano di più e resistono meglio all’usura.<br/><br/>✔️ <strong>Compatibilità con l’induzione. </strong>Il fondo deve essere piatto per garantire il corretto contatto con il piano a induzione. Un fondo irregolare riduce l’efficienza e può danneggiare il piano.<br/><br/></p><p>✔️ <strong>Peso e maneggevolezza. </strong>Una padella ben bilanciata è più sicura e comoda da usare. Troppo leggera = instabile. Troppo pesante = scomoda.<br/><br/></p><p>✔️ <strong>Rivenditore affidabile. </strong>Acquistare da brand trasparenti e affidabili offre più garanzie su sicurezza, materiali e assistenza.<br/><br/>❌ <strong>Attenzione ai prezzi troppo bassi. </strong>Un prezzo molto basso può indicare materiali scadenti o rivestimenti non sicuri. <em>Meglio spendere qualcosa in più per un prodotto che dura davvero.</em></p>",
             "link_label": "",
             "link": ""
           }
@@ -243,10 +243,10 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/knindustrie-pans-pots-collection.png",
-            "title": "",
+            "title": "Esplora ora la collezione di <strong>padelle antiaderenti ceramico Black</strong>: sicure e capaci di dare anche un tocco di <strong>classe ed eleganza</strong> alla tua cucina",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-black"
           }
         }
       },
@@ -498,7 +498,7 @@
     "featured_collection_8kCVCG": {
       "type": "featured-collection",
       "settings": {
-        "title": "Esplora ora la collezione di <strong>padelle antiaderenti ceramico Black</strong>: sicure e capaci di dare anche un tocco di <strong>classe ed eleganza</strong> alla tua cucina",
+        "title": "",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
