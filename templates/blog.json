@@ -87,7 +87,7 @@
       ],
       "name": "t:sections.newsletter.presets.name",
       "settings": {
-        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "scheme-2",
         "full_width": false,
         "padding_top": 40,
         "padding_bottom": 52
@@ -144,10 +144,10 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_3BEnFA": {
+    "image_with_text_8BeU3P": {
       "type": "image-with-text",
       "blocks": {
-        "caption_D74NpT": {
+        "caption_qcR4gr": {
           "type": "caption",
           "settings": {
             "caption": "I TOP BRAND",
@@ -155,21 +155,21 @@
             "text_size": "large"
           }
         },
-        "heading_WUjiUn": {
+        "heading_CxeW3d": {
           "type": "heading",
           "settings": {
             "heading": "LO STILE CHE DÀ FORMA ALLE TUE IDEE.",
             "heading_size": "h1"
           }
         },
-        "text_Tp6eCm": {
+        "text_Hptnt9": {
           "type": "text",
           "settings": {
             "text": "<p>Una selezione di top brand italiani e internazionali, che collaborano con i migliori designer del momento</p>",
             "text_style": "body"
           }
         },
-        "button_cYPbtg": {
+        "button_pxMX7m": {
           "type": "button",
           "settings": {
             "button_label": "Scoprili tutti!",
@@ -179,22 +179,22 @@
         }
       },
       "block_order": [
-        "caption_D74NpT",
-        "heading_WUjiUn",
-        "text_Tp6eCm",
-        "button_cYPbtg"
+        "caption_qcR4gr",
+        "heading_CxeW3d",
+        "text_Hptnt9",
+        "button_pxMX7m"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/unicoemultiplo-civitanovamarche-1024x424_1.jpg",
+        "image": "shopify://shop_images/um-top-brand-768x768.png",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "section_color_scheme": "",
-        "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
+        "color_scheme": "scheme-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -263,6 +263,63 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_3BEnFA": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_D74NpT": {
+          "type": "caption",
+          "settings": {
+            "caption": "UNICO&MULTIPLO",
+            "text_style": "subtitle",
+            "text_size": "large"
+          }
+        },
+        "heading_WUjiUn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Il tuo stile, la nostra passione.",
+            "heading_size": "h1"
+          }
+        },
+        "text_Tp6eCm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unico&Multiplo è idee regalo, oggetti, articoli per esprimere il tuo stile.</p><p>Dagli accessori per la tavola e la cucina alle proposte per il tempo libero, dalle lampade all’arredo giardino: rendi concrete le tue idee!</p>",
+            "text_style": "body"
+          }
+        },
+        "button_cYPbtg": {
+          "type": "button",
+          "settings": {
+            "button_label": "Vieni a trovarci ->",
+            "button_link": "https://www.google.com/maps/place/Unico+%26+Multiplo/@43.308747,13.729179,17z/data=!3m1!4b1!4m6!3m5!1s0x13326d80a9120e8b:0xc646791d79cd6480!8m2!3d43.308747!4d13.729179!16s%2Fg%2F11c1wvgp8g?entry=ttu&g_ep=EgoyMDI0MDkxNS4wIKXMDSoASAFQAw%3D%3D",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "caption_D74NpT",
+        "heading_WUjiUn",
+        "text_Tp6eCm",
+        "button_cYPbtg"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/unicoemultiplo-civitanovamarche-1024x424_1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "right",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
     "image_with_text_LW7ykr": {
       "type": "image-with-text",
       "blocks": {
@@ -306,7 +363,7 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/blog-promo-unico-e-multiplo.webp",
-        "height": "adapt",
+        "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
@@ -328,8 +385,9 @@
     "featured_blog_WP7X8m",
     "featured_blog_pUYENw",
     "featured_blog_bnjUDn",
-    "image_with_text_3BEnFA",
+    "image_with_text_8BeU3P",
     "collection_list_pnJR63",
+    "image_with_text_3BEnFA",
     "image_with_text_LW7ykr"
   ]
 }
