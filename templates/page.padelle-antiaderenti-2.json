@@ -749,7 +749,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>🟢 La padella in ceramica <strong>Shuttle Brandani </strong>è già progettata per durare: resistente ai graffi, senza PFOA, bella da vedere.<br/><br/><strong>→ Provala ora</strong></p>",
+            "text": "<p>🟢 La padella in ceramica <strong>Shuttle Brandani </strong>è già progettata per durare: resistente ai graffi, senza PFOA, bella da vedere.<br/><br/><a href=\"/collections/shuttle-brandani\" title=\"Shuttle Brandani\"><strong>→ Provala ora</strong></a></p>",
             "link_label": "",
             "link": ""
           }
