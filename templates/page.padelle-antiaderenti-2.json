@@ -53,11 +53,11 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "multicolumn_6fXjNw": {
@@ -243,9 +243,9 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/knindustrie-pans-pots-collection.png",
-            "title": "Esplora ora la collezione di <strong>padelle antiaderenti ceramico Black</strong>: sicure e capaci di dare anche un tocco di <strong>classe ed eleganza</strong> alla tua cucina",
+            "title": "",
             "text": "",
-            "link_label": "",
+            "link_label": "Esplora ora la collezione di padelle antiaderenti ceramico Black: sicure e capaci di dare anche un tocco di classe ed eleganza alla tua cucina",
             "link": "shopify://collections/knindustrie-catalogo-prodotti-black"
           }
         }
@@ -271,6 +271,34 @@
         "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "rich_text_mLQVrD": {
+      "type": "rich-text",
+      "blocks": {
+        "button_ceX9GD": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scoprile Ora!",
+            "button_link": "shopify://collections/knindustrie-catalogo-prodotti-black",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_ceX9GD"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 20
       }
     },
     "multicolumn_VR4EHF": {
@@ -495,32 +523,146 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_8kCVCG": {
-      "type": "featured-collection",
+    "collapsible_content_dqtXmG": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_mwf3Yf": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Scegliere la padella antiaderente giusta richiede attenzione",
+            "icon": "none",
+            "row_content": "<p>È importante puntare su prodotti sicuri per la salute, ma anche efficienti e durevoli. I due aspetti chiave da valutare sono la <strong>conducibilità termica</strong> e i <strong>materiali</strong> che assicurano una cottura uniforme. Le padelle migliori? Quelle più spesse: offrono prestazioni superiori e un eccellente rapporto qualità-prezzo.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_7zUNY3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Padelle in teflon: pro, contro e quando conviene davvero usarle",
+            "icon": "check_mark",
+            "row_content": "<p>Le padelle in teflon spiccano per la loro eccezionale antiaderenza, ideale per cotture delicate come uova o pesce, e per la facilità di pulizia. Tuttavia, sono meno resistenti ai graffi e alle alte temperature rispetto ad altre tipologie (evitare il surriscaldamento oltre i 260°C<strong>) </strong>, in passato, la presenza di PFOA durante la produzione sollevava preoccupazioni per la salute (oggi risolte in molti prodotti). Conviene usarle per specifiche preparazioni a fuoco medio-basso dove l'antiaderenza è prioritaria.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_T8ckV7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Padelle in ceramica: cosa offrono e quando sono la scelta migliore",
+            "icon": "check_mark",
+            "row_content": "<p>Le padelle in ceramica offrono una buona anti aderenza, notevole resistenza ai graffi e alle alte temperature, e sono realizzate senza PFOA, risultando una scelta più sicura ed ecosostenibile. La loro facilità di pulizia, anche con prodotti non delicati, è un altro vantaggio. Sono la scelta migliore per un uso quotidiano versatile, cotture a temperature medie e alte, e per chi cerca una soluzione durevole e attenta alla salute.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_XXcX9D": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Titanio, Marmo, Granito: quando la resistenza fa la differenza",
+            "icon": "check_mark",
+            "row_content": "<p>Questi rivestimenti rinforzati offrono maggiore resistenza all'usura e ai graffi rispetto al Teflon e alla ceramica base. Il <strong>titanio</strong> è ideale per un uso frequente e alta durabilità, mentre i rivestimenti <strong>marmo/granito</strong> offrono un buon compromesso tra prestazioni e prezzo per un uso più intenso.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_mwf3Yf",
+        "collapsible_row_7zUNY3",
+        "collapsible_row_T8ckV7",
+        "collapsible_row_XXcX9D"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
       "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "knindustrie-catalogo-prodotti-black",
-        "products_to_show": 10,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
+        "caption": "",
+        "heading": "<strong>Qual è il miglior rivestimento antiaderente per le tue esigenze?</strong>",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "none",
         "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": true,
+        "image": "shopify://shop_images/knindustrie-abct-handle-video.gif",
         "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
+        "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "multicolumn_KKQxqM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ChXLxh": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><strong>Scegliere la padella antiaderente giusta richiede attenzione:</strong> è importante puntare su prodotti sicuri per la salute, ma anche efficienti e durevoli. I due aspetti chiave da valutare sono la <strong>conducibilità termica</strong> e i <strong>materiali</strong> che assicurano una cottura uniforme. Le padelle migliori? Quelle più spesse: offrono prestazioni superiori e un eccellente rapporto qualità-prezzo.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_zAVLFP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/padelle-antiaderenti-migliori.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_WxDANE": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_zAWfD7": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><strong>La nostra scelta è il  RIVESTIMENTO CERAMICO</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-abct"
+          }
+        },
+        "column_UGrx7L": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Altri rivestimenti antiaderenti: titanio, marmo, granito e simili</strong>",
+            "text": "<p></p><p></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_ChXLxh",
+        "column_zAVLFP",
+        "column_WxDANE",
+        "column_zAWfD7",
+        "column_UGrx7L"
+      ],
+      "custom_css": [],
+      "settings": {
+        "title": "<strong>Qual è il miglior rivestimento antiaderente per le tue esigenze?</strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
       }
     },
     "multicolumn_bEDH9B": {
@@ -554,81 +696,6 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "multicolumn_KKQxqM": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_ChXLxh": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p><strong>Scegliere la padella antiaderente giusta richiede attenzione:</strong> è importante puntare su prodotti sicuri per la salute, ma anche efficienti e durevoli. I due aspetti chiave da valutare sono la <strong>conducibilità termica</strong> e i <strong>materiali</strong> che assicurano una cottura uniforme. Le padelle migliori? Quelle più spesse: offrono prestazioni superiori e un eccellente rapporto qualità-prezzo.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_zAVLFP": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/padelle-antiaderenti-migliori.webp",
-            "title": "<strong>Padelle in teflon: pro, contro e quando conviene davvero usarle</strong>",
-            "text": "<p>Le padelle in teflon spiccano per la loro eccezionale antiaderenza, ideale per cotture delicate come uova o pesce, e per la facilità di pulizia. Tuttavia, sono meno resistenti ai graffi e alle alte temperature rispetto ad altre tipologie (evitare il surriscaldamento oltre i 260°C<strong>) </strong>, in passato, la presenza di PFOA durante la produzione sollevava preoccupazioni per la salute (oggi risolte in molti prodotti). Conviene usarle per specifiche preparazioni a fuoco medio-basso dove l'antiaderenza è prioritaria.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_WxDANE": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Padelle in ceramica: cosa offrono e quando sono la scelta migliore</strong>",
-            "text": "<p>Le padelle in ceramica offrono una buona antiaderenza, notevole resistenza ai graffi e alle alte temperature, e sono realizzate senza PFOA, risultando una scelta più sicura ed ecosostenibile. La loro facilità di pulizia, anche con prodotti non delicati, è un altro vantaggio. Sono la scelta migliore per un uso quotidiano versatile, cotture a temperature medie e alte, e per chi cerca una soluzione durevole e attenta alla salute.</p><h2></h2>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_zAWfD7": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p><strong>La nostra scelta è il  RIVESTIMENTO CERAMICO</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-abct"
-          }
-        },
-        "column_UGrx7L": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Altri rivestimenti antiaderenti: titanio, marmo, granito e simili</strong>",
-            "text": "<p><strong>Titanio, Marmo, Granito: quando la resistenza fa la differenza</strong></p><p>Questi rivestimenti rinforzati offrono maggiore resistenza all'usura e ai graffi rispetto al Teflon e alla ceramica base. Il <strong>titanio</strong> è ideale per un uso frequente e alta durabilità, mentre i rivestimenti <strong>marmo/granito</strong> offrono un buon compromesso tra prestazioni e prezzo per un uso più intenso.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_ChXLxh",
-        "column_zAVLFP",
-        "column_WxDANE",
-        "column_zAWfD7",
-        "column_UGrx7L"
-      ],
-      "custom_css": [],
-      "settings": {
-        "title": "<strong>Qual è il miglior rivestimento antiaderente per le tue esigenze?</strong>",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 0
       }
     },
     "multicolumn_qjWjLF": {
@@ -1027,14 +1094,15 @@
     "multicolumn_Anyn8K",
     "multicolumn_eQWbbm",
     "multicolumn_FjffwH",
+    "rich_text_mLQVrD",
     "multicolumn_VR4EHF",
     "multicolumn_BtLArj",
     "multicolumn_rUYVXT",
     "multicolumn_7pqqwm",
     "multicolumn_T79FP8",
-    "featured_collection_8kCVCG",
-    "multicolumn_bEDH9B",
+    "collapsible_content_dqtXmG",
     "multicolumn_KKQxqM",
+    "multicolumn_bEDH9B",
     "multicolumn_qjWjLF",
     "multicolumn_wVxtVr",
     "rich_text_aAFBXa",
