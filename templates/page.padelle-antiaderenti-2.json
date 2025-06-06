@@ -640,7 +640,7 @@
           "settings": {
             "image": "shopify://shop_images/padelle-antiaderenti-migliori-3.jpg",
             "title": "",
-            "text": "<h3><strong>Le padelle antiaderenti moderne sono sicure?</strong></h3><p><strong>Assolutamente si.</strong> Grazie all’eliminazione del PFOA e alle rigorose normative europee, i prodotti attuali sono sicuri per l’uso alimentare. Le ricerche confermano che le padelle di buona qualità non rappresentano un rischio, a patto che vengano utilizzate correttamente: è importante non superare i 260°C, soprattutto nel caso del Teflon.</p><p><br/><strong>È cruciale distinguere tra una padella 'sicura' e una padella 'non danneggiata'</strong>. La sicurezza si riferisce all'assenza di rilascio di sostanze nocive durante la cottura, mentre l'integrità fisica ('non danneggiata') riguarda l'assenza di graffi profondi o deformazioni che ne comprometterebbero la funzionalità. </p><p></p>",
+            "text": "<h3><strong>Le padelle antiaderenti moderne sono sicure?</strong></h3><p><strong>Assolutamente si.</strong> Grazie all’eliminazione del PFOA e alle rigorose normative europee, i prodotti attuali sono sicuri per l’uso alimentare. Le ricerche confermano che le padelle di buona qualità non rappresentano un rischio, a patto che vengano utilizzate correttamente: è importante non superare i 260°C, soprattutto nel caso del Teflon.<br/><strong>È cruciale distinguere tra una padella 'sicura' e una padella 'non danneggiata'</strong>. La sicurezza si riferisce all'assenza di rilascio di sostanze nocive durante la cottura, mentre l'integrità fisica ('non danneggiata') riguarda l'assenza di graffi profondi o deformazioni che ne comprometterebbero la funzionalità. </p><p></p>",
             "link_label": "",
             "link": ""
           }
@@ -653,22 +653,12 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_Qrmjqk": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h3><strong>Come usare correttamente una padella antiaderente senza rischi</strong></h3><p>.</p><p>Una padella antiaderente, se trattata con cura, può durare a lungo e rendere la cucina più semplice e piacevole.<strong> Il primo errore da evitare è surriscaldarla</strong>: non va mai lasciata vuota sul fuoco acceso, perché le alte temperature danneggiano il rivestimento e possono persino rilasciare sostanze nocive. Meglio sempre scaldarla gradualmente e, se possibile, aggiungere subito un filo d’olio o gli ingredienti.<br/><br/>Quando si cucina, è fondamentale<strong> usare utensili in legno, silicone o plastica</strong> resistente al calore. Il metallo è nemico del rivestimento antiaderente: lo graffia, lo rovina, e se la superficie si rovina, addio antiaderenza!<br/></p><p>Anche nel lavaggio serve delicatezza. <strong>Mai usare spugne abrasive o pagliette metalliche</strong>. Basta una spugna morbida, un po’ di detersivo e acqua tiepida. Se ci sono residui ostinati, non grattare: lasciala in ammollo per qualche minuto, poi riprova. La lavastoviglie? Meglio evitarla, anche se è indicata come sicura. I cicli aggressivi, alla lunga, compromettono la durata della padella.<br/><br/>Per mantenerla integra, una buona abitudine è <strong>non impilarla direttamente con altre pentole</strong>. Se devi farlo, metti un panno o un foglio di carta da cucina tra una padella e l’altra. Inoltre, non tagliare mai il cibo direttamente nella padella: il coltello è un altro nemico del rivestimento.<br/><br/>Nel quotidiano, prenditi quei pochi secondi in più per f<strong>arla raffreddare prima di lavarla, asciugala bene dopo il risciacquo</strong>, e conservala con attenzione. Una padella antiaderente non chiede molto, ma se la rispetti, ti ripagherà con cotture perfette e senza stress.</p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "column_ctBGFY",
         "column_EnYmWU",
-        "column_3ChXTK",
-        "column_Qrmjqk"
+        "column_3ChXTK"
       ],
       "settings": {
         "title": "<strong>Padelle antiaderenti e salute: cosa c’è da sapere davvero  </strong>",
@@ -744,23 +734,14 @@
         "text_brtDXa": {
           "type": "text",
           "settings": {
-            "text": "<h3><strong>Buone pratiche d’uso per proteggere il rivestimento</strong></h3><p>Per preservare l’efficacia del rivestimento antiaderente, è buona abitudine utilizzare utensili in silicone o in legno: non graffiano la superficie e aiutano a prolungare la durata della padella.<br/><br/>Un’altra buona pratica è <strong>non surriscaldare mai la padella a vuoto</strong>: questo può danneggiare il rivestimento e causare rilascio di fumi dannosi.</p><p><strong>Evita di lavare la padella quando è ancora calda</strong>: lo shock termico può deformarla e compromettere il rivestimento. Meglio aspettare qualche minuto prima di metterla sotto l’acqua.</p><h3><strong>Come pulire e conservare correttamente una padella antiaderente</strong></h3><p>Usa detergenti delicati e spugne morbide (non abrasive) per evitare di rovinare il rivestimento. Evita pagliette metalliche. Dopo il lavaggio, asciuga bene e, se le impili, proteggile con un panno o un separatore per evitare graffi.<br/></p>",
+            "text": "<h3><strong>Buone pratiche d’uso per proteggere il rivestimento</strong></h3><p>Per prolungare la durata del rivestimento antiaderente, utilizza <strong>utensili in silicone, legno o plastica resistente al calore</strong>, evitando quelli in metallo che possono graffiare la superficie.</p><p>Non surriscaldare mai la padella a vuoto: le <strong>alte temperature</strong> danneggiano il rivestimento e possono causare il rilascio di sostanze nocive. È buona abitudine <strong>scaldarla gradualmente</strong>, magari con un filo d’olio o con gli ingredienti già inseriti.</p><p>Evita lo <strong>shock termico</strong>: non mettere la padella calda sotto l’acqua fredda. Aspetta qualche minuto prima di lavarla per non comprometterne la forma e il rivestimento.</p><h3><strong>Come usare correttamente una padella antiaderente senza rischi</strong></h3><p>Trattare bene una padella antiaderente significa garantirle <strong>lunga vita e prestazioni ottimali</strong>. Oltre a non surriscaldarla e a usare utensili adeguati, evita di <strong>tagliare il cibo direttamente nella padella</strong>, per non danneggiare la superficie.<br/>Anche nella cottura quotidiana, basta <strong>un po' di attenzione</strong> per evitare danni: un uso consapevole riduce i rischi per la salute e mantiene l'efficacia del rivestimento.</p><h3><strong>Come pulire e conservare correttamente una padella antiaderente</strong></h3><p>Lava la padella con <strong>spugne morbide e detergenti delicati</strong>. Evita spugne abrasive, pagliette metalliche e, se possibile, la lavastoviglie, perché i cicli aggressivi ne riducono la durata.<br/>In caso di sporco ostinato, lasciala in ammollo qualche minuto prima di lavare.<br/>Dopo il lavaggio, <strong>asciugala bene</strong> e <strong>non impilarla direttamente con altre padelle</strong>: usa un panno o un separatore per evitare graffi.<br/>Conservala con cura e <strong>non trascurare l’asciugatura</strong>: piccole attenzioni quotidiane mantengono la tua padella antiaderente in perfette condizioni più a lungo.</p>",
             "text_style": "body"
-          }
-        },
-        "button_RbUWQH": {
-          "type": "button",
-          "settings": {
-            "button_label": "Scegli Brandani Shuttle",
-            "button_link": "shopify://collections/shuttle-brandani",
-            "button_style_secondary": true
           }
         }
       },
       "block_order": [
         "heading_aAYjVx",
-        "text_brtDXa",
-        "button_RbUWQH"
+        "text_brtDXa"
       ],
       "settings": {
         "image": "shopify://shop_images/Padelle-Antiaderenti-guida-completa-per-scegliere-il-modello-giusto-per-la-tua-cucina-6.webp",
@@ -776,6 +757,96 @@
         "mobile_content_alignment": "left",
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "multicolumn_9eEVfW": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_e7DdPQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brabantia-Utensili-da-cucina-in-legno-Set-di-3-4_1.webp",
+            "title": "Utensili ideali per le padelle antiaderenti!",
+            "text": "<p><br/><br/></p>",
+            "link_label": "",
+            "link": "shopify://products/brabantia-profile-utensili-da-cucina-in-legno-set-di-3"
+          }
+        },
+        "column_LceAPg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-beyond-basic-the-omelette.webp",
+            "title": "Rivestimento antiaderente rinforzato con cristalli di diamante",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/2470-knindustrie-the-omelette-beyond-basic-padella-frittata"
+          }
+        },
+        "column_TzFJt9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/abct-wok-knindustrie.webp",
+            "title": "Wok con trattamento ceramico",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/691-knindustrie-abct-padella-wok-diamentro-32-cm-bianca"
+          }
+        },
+        "column_gmWXNr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brabantia-set-3-panni-imbottiti-per-pulizia-in-mic-mixed-colours-mixed-colours_d8c4d86e-0eea-4958-a55d-e11d2f0de14f.jpg",
+            "title": "Spugne in microfibra, per lavare con delicatezza!",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/brabantia-food-set-3-panni-imbottiti-per-pulizia-mixed-colours"
+          }
+        },
+        "column_mCCchC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brabantia-pannino-sinkside-panno-in-microfibra-bianco-2_41f88308-462a-4ba9-8ffe-8da1c4b700ea.jpg",
+            "title": "Un panno in microfibra morbido e antigraffio",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/3140-brabantia-pannino-sinkside-panno-in-microfibra-bianco"
+          }
+        },
+        "column_NLa7je": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brabantia-tappetino-scolapiatti-in-silicone-jade-green.webp",
+            "title": "Per far asciugare dolcemente le tue padelle!\"",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/brabantia-food-tappetino-scolapiatti-in-silicone-jade-green"
+          }
+        }
+      },
+      "block_order": [
+        "column_e7DdPQ",
+        "column_LceAPg",
+        "column_TzFJt9",
+        "column_gmWXNr",
+        "column_mCCchC",
+        "column_NLa7je"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Utensili e accessori per la cura",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn_tim6dE": {
@@ -920,96 +991,6 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
-    },
-    "multicolumn_9eEVfW": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_e7DdPQ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Brabantia-Utensili-da-cucina-in-legno-Set-di-3-4_1.webp",
-            "title": "Utensili ideali per le padelle antiaderenti!",
-            "text": "<p><br/><br/></p>",
-            "link_label": "",
-            "link": "shopify://products/brabantia-profile-utensili-da-cucina-in-legno-set-di-3"
-          }
-        },
-        "column_TzFJt9": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/abct-wok-knindustrie.webp",
-            "title": "Wok con trattamento ceramico",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://products/691-knindustrie-abct-padella-wok-diamentro-32-cm-bianca"
-          }
-        },
-        "column_gmWXNr": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brabantia-set-3-panni-imbottiti-per-pulizia-in-mic-mixed-colours-mixed-colours_d8c4d86e-0eea-4958-a55d-e11d2f0de14f.jpg",
-            "title": "Spugne in microfibra, per lavare con delicatezza!",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://products/brabantia-food-set-3-panni-imbottiti-per-pulizia-mixed-colours"
-          }
-        },
-        "column_LceAPg": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-beyond-basic-the-omelette.webp",
-            "title": "Rivestimento antiaderente rinforzato con cristalli di diamante",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://products/2470-knindustrie-the-omelette-beyond-basic-padella-frittata"
-          }
-        },
-        "column_mCCchC": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brabantia-pannino-sinkside-panno-in-microfibra-bianco-2_41f88308-462a-4ba9-8ffe-8da1c4b700ea.jpg",
-            "title": "Un panno in microfibra morbido e antigraffio",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://products/3140-brabantia-pannino-sinkside-panno-in-microfibra-bianco"
-          }
-        },
-        "column_NLa7je": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brabantia-tappetino-scolapiatti-in-silicone-jade-green.webp",
-            "title": "Per far asciugare dolcemente le tue padelle!\"",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://products/brabantia-food-tappetino-scolapiatti-in-silicone-jade-green"
-          }
-        }
-      },
-      "block_order": [
-        "column_e7DdPQ",
-        "column_TzFJt9",
-        "column_gmWXNr",
-        "column_LceAPg",
-        "column_mCCchC",
-        "column_NLa7je"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Padelle e accessori per la cura",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -1031,9 +1012,9 @@
     "multicolumn_wVxtVr",
     "rich_text_aAFBXa",
     "image_with_text_QcgJTF",
+    "multicolumn_9eEVfW",
     "multicolumn_tim6dE",
     "collapsible_content_7AGHFD",
-    "multicolumn_HpnGYB",
-    "multicolumn_9eEVfW"
+    "multicolumn_HpnGYB"
   ]
 }
