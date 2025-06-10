@@ -825,6 +825,7 @@
         "column_bcCJfe": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/BLACK_mood_1_1.webp",
             "title": "",
             "text": "<h3><strong>Come usare correttamente una padella antiaderente senza rischi</strong></h3><p>Trattare bene una padella antiaderente significa garantirle <strong>lunga vita e prestazioni ottimali</strong>. Oltre a non surriscaldarla e a usare utensili adeguati, evita di <strong>tagliare il cibo direttamente nella padella</strong>, per non danneggiare la superficie.<br/>Anche nella cottura quotidiana, basta <strong>un po' di attenzione</strong> per evitare danni: un uso consapevole riduce i rischi per la salute e mantiene l'efficacia del rivestimento.</p>",
             "link_label": "",
