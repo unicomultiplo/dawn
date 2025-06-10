@@ -467,10 +467,21 @@
             "page": "",
             "liquid_content": ""
           }
+        },
+        "collapsible_row_LR9aTQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "",
+            "liquid_content": ""
+          }
         }
       },
       "block_order": [
-        "collapsible_row_EXxPA8"
+        "collapsible_row_EXxPA8",
+        "collapsible_row_LR9aTQ"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
@@ -524,16 +535,6 @@
     "collapsible_content_dqtXmG": {
       "type": "collapsible-content",
       "blocks": {
-        "collapsible_row_mbmkbM": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
         "collapsible_row_mwf3Yf": {
           "type": "collapsible_row",
           "settings": {
@@ -576,7 +577,6 @@
         }
       },
       "block_order": [
-        "collapsible_row_mbmkbM",
         "collapsible_row_mwf3Yf",
         "collapsible_row_7zUNY3",
         "collapsible_row_T8ckV7",
@@ -588,7 +588,7 @@
         "heading": "<strong>Qual è il miglior rivestimento antiaderente per le tue esigenze?</strong>",
         "heading_size": "h1",
         "heading_alignment": "left",
-        "layout": "row",
+        "layout": "none",
         "color_scheme": "scheme-1",
         "container_color_scheme": "scheme-1",
         "open_first_collapsible_row": true,
