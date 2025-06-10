@@ -130,7 +130,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 40
       }
     },
     "multicolumn_Anyn8K": {
@@ -166,39 +166,6 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_eQWbbm": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_QUFVJ3": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>🔥 <strong>Il segreto per una cucina sana, leggera e senza stress!</strong><em> </em></p><p><em>Le padelle antiaderenti sono perfette per cucinare con meno olio, evitando che il cibo si attacchi. Il loro segreto? Un rivestimento speciale che garantisce cottura uniforme e pulizia facile.</em></p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_QUFVJ3"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn_FjffwH": {
       "type": "multicolumn",
       "blocks": {
@@ -224,7 +191,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>✔️ <strong>Materiale del corpo. </strong>Alluminio forgiato o acciaio inox multistrato offrono una distribuzione uniforme del calore e una buona resistenza nel tempo.<em> Evita padelle troppo sottili: si deformano facilmente con il calore.</em><br/><br/></p><p>✔️ <strong>Rivestimento antiaderente. </strong>PTFE (spesso senza PFOA), ceramica e titanio sono i più comuni. Cerca padelle con 2 o 3 strati: durano di più e resistono meglio all’usura.<br/><br/>✔️ <strong>Compatibilità con l’induzione. </strong>Il fondo deve essere piatto per garantire il corretto contatto con il piano a induzione. Un fondo irregolare riduce l’efficienza e può danneggiare il piano.<br/><br/></p><p>✔️ <strong>Peso e maneggevolezza. </strong>Una padella ben bilanciata è più sicura e comoda da usare. Troppo leggera = instabile. Troppo pesante = scomoda.<br/><br/></p><p>✔️ <strong>Rivenditore affidabile. </strong>Acquistare da brand trasparenti e affidabili offre più garanzie su sicurezza, materiali e assistenza.<br/><br/>❌ <strong>Attenzione ai prezzi troppo bassi. </strong>Un prezzo molto basso può indicare materiali scadenti o rivestimenti non sicuri. <em>Meglio spendere qualcosa in più per un prodotto che dura davvero.</em></p>",
+            "text": "<p>✔️ <strong>Materiale del corpo. </strong><em> Evita padelle troppo sottili: si deformano facilmente con il calore.</em><br/>Alluminio forgiato o acciaio inox multistrato offrono una distribuzione uniforme del calore e una buona resistenza nel tempo.<br/><br/>✔️ <strong>Rivestimento antiaderente. </strong>Cerca padelle con 2 o 3 strati: durano di più e resistono meglio all’usura. PTFE (spesso senza PFOA), ceramica e titanio sono i più comuni. <br/><br/>✔️ <strong>Compatibilità con l’induzione. </strong>Un fondo irregolare riduce l’efficienza e può danneggiare il piano.<br/>Il fondo deve essere piatto per garantire il corretto contatto con il piano a induzione. <br/><br/>✔️ <strong>Peso e maneggevolezza. </strong>Troppo leggera = instabile. Troppo pesante = scomoda.<br/>Una padella ben bilanciata è più sicura e comoda da usare. <br/></p><p>✔️ <strong>Rivenditore affidabile. </strong>Acquistare da brand trasparenti e affidabili offre più garanzie su sicurezza, materiali e assistenza.<br/><br/>❌ <strong>Attenzione ai prezzi troppo bassi. </strong>Un prezzo molto basso può indicare materiali scadenti o rivestimenti non sicuri. <em>Meglio spendere qualcosa in più per un prodotto che dura davvero.</em></p>",
             "link_label": "",
             "link": ""
           }
@@ -232,7 +199,7 @@
         "column_Tk9def": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Knindustrie-black-antiarenti.webp",
+            "image": "shopify://shop_images/knindustrie-pans-pots-collection.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -266,10 +233,16 @@
     "rich_text_mLQVrD": {
       "type": "rich-text",
       "blocks": {
+        "text_FA4ibg": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Per cucinare meglio, più a lungo, con stile e consapevolezza →</strong></p>"
+          }
+        },
         "button_ceX9GD": {
           "type": "button",
           "settings": {
-            "button_label": "Scopri la collezione ceramica di Unico & Multiplo.  Per cucinare meglio, più a lungo, con stile e consapevolezza →",
+            "button_label": "Scopri la collezione ceramica",
             "button_link": "shopify://collections/knindustrie-catalogo-prodotti-black",
             "button_style_secondary": false,
             "button_label_2": "",
@@ -279,6 +252,7 @@
         }
       },
       "block_order": [
+        "text_FA4ibg",
         "button_ceX9GD"
       ],
       "name": "t:sections.rich-text.presets.name",
@@ -481,6 +455,39 @@
         "padding_bottom": 0
       }
     },
+    "collapsible_content_38zbhc": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_EXxPA8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "",
+            "liquid_content": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_EXxPA8"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_T79FP8": {
       "type": "multicolumn",
       "blocks": {
@@ -575,7 +582,6 @@
         "collapsible_row_T8ckV7",
         "collapsible_row_XXcX9D"
       ],
-      "disabled": true,
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
         "caption": "",
@@ -593,33 +599,39 @@
         "padding_bottom": 0
       }
     },
-    "newsletter_nQrkY4": {
-      "type": "newsletter",
+    "rich_text_HrqFVy": {
+      "type": "rich-text",
       "blocks": {
-        "heading_VVkD6y": {
-          "type": "heading",
+        "text_4XQFD3": {
+          "type": "text",
           "settings": {
-            "heading": "",
-            "heading_size": "h1"
+            "text": "<p><strong>👉 Cerchi la soluzione migliore per cucinare in modo sano, duraturo e senza sostanze nocive?<br/><br/>Scopri la nostra selezione di padelle in ceramica </strong></p>"
           }
         },
-        "paragraph_NpYP4H": {
-          "type": "paragraph",
+        "button_KL9zeD": {
+          "type": "button",
           "settings": {
-            "text": "<p><strong>👉 Cerchi la soluzione migliore per cucinare in modo sano, duraturo e senza sostanze nocive?<br/><br/>Scopri la nostra selezione di padelle in ceramica ➤ </strong><a href=\"https://www.unicoemultiplo.com/collections/knindustrie-catalogo-prodotti-abct\" title=\"https://www.unicoemultiplo.com/collections/knindustrie-catalogo-prodotti-abct\"><strong>[Vedi la collezione]</strong></a></p>"
+            "button_label": "[Vedi la collezione]",
+            "button_link": "shopify://collections/knindustrie-catalogo-prodotti-abct",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading_VVkD6y",
-        "paragraph_NpYP4H"
+        "text_4XQFD3",
+        "button_KL9zeD"
       ],
-      "name": "t:sections.newsletter.presets.name",
+      "name": "t:sections.rich-text.presets.name",
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 20,
+        "padding_bottom": 0
       }
     },
     "custom_liquid_zULC3p": {
@@ -777,7 +789,7 @@
         "image_ratio": "adapt",
         "columns_desktop": 1,
         "column_alignment": "center",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
@@ -790,15 +802,6 @@
     "multicolumn_qjWjLF": {
       "type": "multicolumn",
       "blocks": {
-        "column_ctBGFY": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_EnYmWU": {
           "type": "column",
           "settings": {
@@ -830,7 +833,6 @@
         }
       },
       "block_order": [
-        "column_ctBGFY",
         "column_EnYmWU",
         "column_3ChXTK",
         "column_bcCJfe"
@@ -840,14 +842,14 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 1,
+        "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "shopify://collections/piatti-in-bone-china",
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 0
       }
@@ -1130,16 +1132,16 @@
     "multicolumn_xxGrrA",
     "multicolumn_6fXjNw",
     "multicolumn_Anyn8K",
-    "multicolumn_eQWbbm",
     "multicolumn_FjffwH",
     "rich_text_mLQVrD",
     "multicolumn_VR4EHF",
     "multicolumn_BtLArj",
     "multicolumn_rUYVXT",
     "multicolumn_7pqqwm",
+    "collapsible_content_38zbhc",
     "multicolumn_T79FP8",
     "collapsible_content_dqtXmG",
-    "newsletter_nQrkY4",
+    "rich_text_HrqFVy",
     "custom_liquid_zULC3p",
     "multicolumn_q4GCUK",
     "multicolumn_9eEVfW",
