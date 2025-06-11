@@ -76,7 +76,7 @@
           "type": "column",
           "settings": {
             "title": "<strong>IVAN FEAT. KNINDUSTRIE: L’arte del quotidiano</strong>",
-            "text": "<p>Con “<strong>The Storm Collection</strong>”, KnIndustrie e il <strong>poeta visivo Ivan</strong> danno vita a una serie di oggetti in cui la forma incontra il <strong>mistero della parola.</strong> Ogni creazione custodisce un <strong>frammento nascosto</strong>, una poesia da scoprire nel tempo: un gesto quotidiano si trasforma così in un’esperienza silenziosa, personale, carica di senso.<br/></p><h4><a href=\"/collections/the-storm-collection-knindustrie\" title=\"The Storm Collection KnIndustrie\"><strong>VEDI ORA</strong><br/></a></h4>",
+            "text": "<p>Con “<strong>The Storm Collection</strong>”, KnIndustrie e il <strong>poeta visivo Ivan</strong> <strong>Tresoldi  </strong>danno vita a una serie di oggetti in cui la forma incontra il <strong>mistero della parola.</strong> Ogni creazione custodisce un <strong>frammento nascosto</strong>, una poesia da scoprire nel tempo: un gesto quotidiano si trasforma così in un’esperienza silenziosa, personale, carica di senso.<br/></p><h4><a href=\"/collections/the-storm-collection-knindustrie\" title=\"The Storm Collection KnIndustrie\"><strong>VEDI ORA</strong><br/></a></h4>",
             "link_label": "",
             "link": ""
           }
@@ -154,35 +154,6 @@
         "show_text_below": false
       }
     },
-    "featured_collection_EihEex": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Bitossi Home: novità e proposte del momento",
-        "heading_size": "h0",
-        "description": "",
-        "show_description": false,
-        "description_style": "subtitle",
-        "collection": "bitossi-home-i-piattini-bitossi-home",
-        "products_to_show": 10,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "scheme-2",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn_gaht3W": {
       "type": "multicolumn",
       "blocks": {
@@ -190,7 +161,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Non perderti--------------------------------------------------------</p><p></p>",
+            "text": "<p>KnIndustrie firma collezioni dove il design incontra la vita in cucina. Dalle pentole agli accessori per la tavola, ogni oggetto nasce dal dialogo con chef e designer, unendo estetica, funzionalità e sperimentazione.</p>",
             "link_label": "",
             "link": ""
           }
@@ -228,6 +199,59 @@
     },
     "collection_list_DFkntc": {
       "type": "collection-list",
+      "blocks": {
+        "featured_collection_KBAr67": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-catalogo-prodotti-abct"
+          }
+        },
+        "featured_collection_YBcWCT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-catalogo-prodotti-beyond-basic"
+          }
+        },
+        "featured_collection_hjQG4j": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-catalogo-prodotti-back-up"
+          }
+        },
+        "featured_collection_UhMamT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-catalogo-prodotti-black"
+          }
+        },
+        "featured_collection_UmmjEY": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-catalogo-prodotti-foodwear"
+          }
+        },
+        "featured_collection_FJaikJ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-catalogo-prodotti-norma"
+          }
+        },
+        "featured_collection_fhzGCq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-catalogo-prodotti-stone-work"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_KBAr67",
+        "featured_collection_YBcWCT",
+        "featured_collection_hjQG4j",
+        "featured_collection_UhMamT",
+        "featured_collection_UmmjEY",
+        "featured_collection_FJaikJ",
+        "featured_collection_fhzGCq"
+      ],
       "settings": {
         "title": "Le Pentole",
         "heading_size": "h1",
@@ -260,6 +284,21 @@
       "type": "collection-list",
       "settings": {
         "title": "I Bicchieri",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_afciwA": {
+      "type": "collection-list",
+      "settings": {
+        "title": "Collaborazioni",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 5,
@@ -514,11 +553,11 @@
     "image_banner_dc8VCJ",
     "multicolumn_c7Bg4Y",
     "image_banner_yEDFWe",
-    "featured_collection_EihEex",
     "multicolumn_gaht3W",
     "collection_list_DFkntc",
     "collection_list_kdtLc8",
     "collection_list_yH8cEE",
+    "collection_list_afciwA",
     "multicolumn_Webjiz",
     "collection_list_pekHrY",
     "collection_list_qbh9yb",
