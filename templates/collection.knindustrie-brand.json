@@ -31,20 +31,10 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_tYqADn": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Bitossi Home veste la tua tavola e la tua casa. Dai piatti ai calici, dalle clessidre ai vasi, questo brand toscano è tutto da esplorare. Natura, tradizione, simbolismo, spirito cosmopolita e concetti innovativi generano un carosello di collezioni singolari e pittoresche. </p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "column_qFQxcM",
-        "column_tYqADn"
+        "column_qFQxcM"
       ],
       "settings": {
         "title": "",
@@ -288,7 +278,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>La costante ricer-----------------------------------------------------</p>",
+            "text": "<h3>Linee accattivanti, funzionali ed eco-friendly</h3><p>Gli utensili diventano protagonisti con le loro linee accattivanti; non solo sono belli, ma anche funzionali e spesso eco-friendly. Elementi professionali che si distinguono grazie a prezzi accessibili. Perfetti anche come idea regalo!</p>",
             "link_label": "",
             "link": ""
           }
