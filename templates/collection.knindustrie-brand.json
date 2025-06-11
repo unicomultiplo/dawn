@@ -285,13 +285,13 @@
         "featured_collection_J9VXdA": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "knindustrie-catalogo-prodotti-lunch-layers"
           }
         },
         "featured_collection_4QVjBG": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "knindustrie-catalogo-prodotti-lunch-layers"
           }
         }
       },
@@ -399,6 +399,49 @@
         "padding_bottom": 0
       }
     },
+    "rich_text_CAR6cd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Xqxgfa": {
+          "type": "heading",
+          "settings": {
+            "heading": "Offerte e Promo",
+            "heading_size": "h1"
+          }
+        },
+        "text_KayAnn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Abbiamo la categoria che è rimasta attiva, la mettiamo in evidenza?</p>"
+          }
+        },
+        "button_rd4LDW": {
+          "type": "button",
+          "settings": {
+            "button_label": "Offerte, promo e saldi KnIndustrie",
+            "button_link": "shopify://collections/knindustrie-catalogo-prodotti-offerte",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Xqxgfa",
+        "text_KayAnn",
+        "button_rd4LDW"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "multicolumn_Webjiz": {
       "type": "multicolumn",
       "blocks": {
@@ -406,7 +449,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3>Linee accattivanti, funzionali ed eco-friendly</h3><p>Gli utensili diventano protagonisti con le loro linee accattivanti; non solo sono belli, ma anche funzionali e spesso eco-friendly. Elementi professionali che si distinguono grazie a prezzi accessibili. Perfetti anche come idea regalo!</p>",
+            "text": "<h3>Linee accattivanti, funzionali ed eco-friendly</h3><p>Il catalogo KnIndustrie raccoglie oggetti per la cucina e la tavola che uniscono estetica, praticità e attenzione all’ambiente.<br/>Gli utensili diventano protagonisti con le loro linee accattivanti; non solo sono belli, ma anche funzionali e spesso eco-friendly. Perfetti anche come idea regalo.</p>",
             "link_label": "",
             "link": ""
           }
@@ -536,49 +579,6 @@
         "padding_bottom": 0
       }
     },
-    "rich_text_CAR6cd": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Xqxgfa": {
-          "type": "heading",
-          "settings": {
-            "heading": "Offerte e Promo",
-            "heading_size": "h1"
-          }
-        },
-        "text_KayAnn": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Abbiamo la categoria che è rimasta attiva, la mettiamo in evidenza?</p>"
-          }
-        },
-        "button_rd4LDW": {
-          "type": "button",
-          "settings": {
-            "button_label": "Offerte, promo e saldi KnIndustrie",
-            "button_link": "shopify://collections/knindustrie-catalogo-prodotti-offerte",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_Xqxgfa",
-        "text_KayAnn",
-        "button_rd4LDW"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-2",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "multicolumn_Q3fPtj": {
       "type": "multicolumn",
       "blocks": {
@@ -690,10 +690,10 @@
     "collection_list_EwJ8yx",
     "collection_list_yH8cEE",
     "collection_list_afciwA",
+    "rich_text_CAR6cd",
     "multicolumn_Webjiz",
     "collection_list_pekHrY",
     "collection_list_qbh9yb",
-    "rich_text_CAR6cd",
     "multicolumn_Q3fPtj",
     "product-grid"
   ]
