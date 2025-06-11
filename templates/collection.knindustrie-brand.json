@@ -291,13 +291,20 @@
         "featured_collection_4QVjBG": {
           "type": "featured_collection",
           "settings": {
-            "collection": "knindustrie-catalogo-prodotti-lunch-layers"
+            "collection": "knindustrie-food-mood"
+          }
+        },
+        "featured_collection_nAAWzq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-catalogo-prodotti-foo-d"
           }
         }
       },
       "block_order": [
         "featured_collection_J9VXdA",
-        "featured_collection_4QVjBG"
+        "featured_collection_4QVjBG",
+        "featured_collection_nAAWzq"
       ],
       "settings": {
         "title": "I Piatti",
