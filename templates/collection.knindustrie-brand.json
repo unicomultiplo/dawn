@@ -1,0 +1,871 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        "a {color: #598db2;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
+      }
+    },
+    "multicolumn_4fT4dH": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_qFQxcM": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_tYqADn": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Bitossi Home veste la tua tavola e la tua casa. Dai piatti ai calici, dalle clessidre ai vasi, questo brand toscano è tutto da esplorare. Natura, tradizione, simbolismo, spirito cosmopolita e concetti innovativi generano un carosello di collezioni singolari e pittoresche. </p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_qFQxcM",
+        "column_tYqADn"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_dc8VCJ": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Unico-multiplo-bitossi-home.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "multicolumn_c7Bg4Y": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_PjDh4N": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>La <strong>collezione </strong>si amplia ulteriormente con l’aggiunta <strong>di posate a servire, di cucchiaini e di posate da tavola</strong>. La lavorazione artigianale del metallo intrecciato e la pallina in resina in colorazioni diverse caratterizzano questa collezione senza tempo.</p><p><strong> Un richiamo nostalgico a un'eleganza rétrò</strong>, che rende ogni momento a tavola un'esperienza unica, sospesa tra il passato e il presente, dove la tradizione si rinnova per incontrare i trend attuali.</p><h4><a href=\"/collections/posate-bitossi-home\" title=\"Posate Bitossi Home\"><strong>VEDI ORA</strong></a><br/></h4>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_f8NyNW": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_PjDh4N",
+        "column_f8NyNW"
+      ],
+      "settings": {
+        "title": "Bitossi Home: novità e proposte del momento",
+        "heading_size": "h0",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_yEDFWe": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_dJgdnD": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "buttons_Abd6WT": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_dJgdnD",
+        "buttons_Abd6WT"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Bitossi-home-posate_7944412b-f563-4e43-b10c-a9ce699e4366.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-b4b5757d-11d6-44d9-9913-c59c1623590c",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "featured_collection_EihEex": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Bitossi Home: novità e proposte del momento",
+        "heading_size": "h0",
+        "description": "",
+        "show_description": false,
+        "description_style": "subtitle",
+        "collection": "bitossi-home-i-piattini-bitossi-home",
+        "products_to_show": 10,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_gaht3W": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_EMQ8ey": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Non perderti le occasioni a prezzo speciale selezionate tra le collezioni Bitossi: scopri le promozioni in corso! Estetica delle forme, contrasti e armonie cromatiche creano uno stile così eclettico da coinvolgere tutti senza riserve.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_thtXjU": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_EMQ8ey",
+        "column_thtXjU"
+      ],
+      "settings": {
+        "title": "Le Collezioni Bitossi Home",
+        "heading_size": "h0",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_DFkntc": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_7i8Gfg": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-funky-table-tavola-scomposta"
+          }
+        },
+        "featured_collection_EDFqK3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-i-piattini-bitossi-home"
+          }
+        },
+        "featured_collection_JxyqNF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-abracadabra"
+          }
+        },
+        "featured_collection_JLFHbU": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-il-frutto-della-passione-bitossi-home"
+          }
+        },
+        "featured_collection_JfW8Ym": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-bel-paese"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_7i8Gfg",
+        "featured_collection_EDFqK3",
+        "featured_collection_JxyqNF",
+        "featured_collection_JLFHbU",
+        "featured_collection_JfW8Ym"
+      ],
+      "settings": {
+        "title": "La Tavola Scomposta",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_LxpCcQ": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_T8gQbi": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "fabula-bitossi-home"
+          }
+        },
+        "featured_collection_yKNrWi": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "un-buon-ricordo-bitossi-home"
+          }
+        },
+        "featured_collection_Fkq4Ae": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "con-amore-bitossi-home"
+          }
+        },
+        "featured_collection_Ad4yxQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-botanica"
+          }
+        },
+        "featured_collection_DMEd3a": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-club-bitossi-home"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_T8gQbi",
+        "featured_collection_yKNrWi",
+        "featured_collection_Fkq4Ae",
+        "featured_collection_Ad4yxQ",
+        "featured_collection_DMEd3a"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_kdtLc8": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_wp3fz3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "quadri-bitossi-home"
+          }
+        },
+        "featured_collection_DbY4Qz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-petalo-bitossi-home"
+          }
+        },
+        "featured_collection_RwXcJ7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-parisienne-bitossi-home"
+          }
+        },
+        "featured_collection_Kr3hQr": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-rose-bitossi-home"
+          }
+        },
+        "featured_collection_jKxVGh": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "i-senza-tempo-bitossi-home"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_wp3fz3",
+        "featured_collection_DbY4Qz",
+        "featured_collection_RwXcJ7",
+        "featured_collection_Kr3hQr",
+        "featured_collection_jKxVGh"
+      ],
+      "settings": {
+        "title": "I Senza Tempo",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_DkYHyh": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_BznABf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bon-ton-bitossi-home"
+          }
+        },
+        "featured_collection_D344Eh": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "minimal-bitossi-home"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_BznABf",
+        "featured_collection_D344Eh"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_yH8cEE": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_xQmK8F": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-smerlo-bitossi-home"
+          }
+        },
+        "featured_collection_7rXDL8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-diseguale"
+          }
+        },
+        "featured_collection_8KLp93": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "deco-bitossi-home"
+          }
+        },
+        "featured_collection_7RkzQg": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "emporio-bitossi-home"
+          }
+        },
+        "featured_collection_Uptirf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sogno-bitossi-home"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_xQmK8F",
+        "featured_collection_7rXDL8",
+        "featured_collection_8KLp93",
+        "featured_collection_7RkzQg",
+        "featured_collection_Uptirf"
+      ],
+      "settings": {
+        "title": "Gli Accessori da Tavola",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_Qdy6e7": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_qGM8MA": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "treccia-bitossi-home"
+          }
+        },
+        "featured_collection_VeQF7q": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "candy-bitossi-home"
+          }
+        },
+        "featured_collection_geLJwk": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "decor-bitossi-home"
+          }
+        },
+        "featured_collection_TLLPRz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "intreccio-bitossi-home"
+          }
+        },
+        "featured_collection_B3jnga": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "altarini-bitossi-home"
+          }
+        },
+        "featured_collection_ncAWH8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-club-bitossi-home"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_qGM8MA",
+        "featured_collection_VeQF7q",
+        "featured_collection_geLJwk",
+        "featured_collection_TLLPRz",
+        "featured_collection_B3jnga",
+        "featured_collection_ncAWH8"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_Webjiz": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_zwCcxp": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>La costante ricerca di idee che sanno coniugare materiali ceramici, vetro, legno e nuovi elementi è il punto di forza del marchio. Piatti, bicchieri, vasi e complementi decorativi diventano espressioni di uno stile di vita che celebra la bellezza del quotidiano.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PxePj3": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_zwCcxp",
+        "column_PxePj3"
+      ],
+      "settings": {
+        "title": "Catalogo Bitossi Home: articoli per la tavola e la cucina",
+        "heading_size": "h0",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_pekHrY": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_LcHyEx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-piatti"
+          }
+        },
+        "featured_collection_ThyLH7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-bicchieri-e-calici"
+          }
+        },
+        "featured_collection_TY9Gnq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bottiglie-e-caraffe-bitossi-home"
+          }
+        },
+        "featured_collection_xqbBjc": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "posate-bitossi-home"
+          }
+        },
+        "featured_collection_8eTym9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "piatti-pizza-bitossi-home"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_LcHyEx",
+        "featured_collection_ThyLH7",
+        "featured_collection_TY9Gnq",
+        "featured_collection_xqbBjc",
+        "featured_collection_8eTym9"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_qbh9yb": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_UFKpqm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-tovagliette-e-vassoi"
+          }
+        },
+        "featured_collection_cQf8XH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "vassoi-e-piatti-da-portata-bitossi-home"
+          }
+        },
+        "featured_collection_BxLdjD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ciotole-e-coppette-bitossi-home"
+          }
+        },
+        "featured_collection_brYEAY": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-tazze-tazzine-e-mug"
+          }
+        },
+        "featured_collection_7Wgc7g": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "centrotavola-e-alzate-bitossi-home"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_UFKpqm",
+        "featured_collection_cQf8XH",
+        "featured_collection_BxLdjD",
+        "featured_collection_brYEAY",
+        "featured_collection_7Wgc7g"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_PpNeKq": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_3KYQWJ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-clessidre"
+          }
+        },
+        "featured_collection_V6mwpd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "candele-e-candelabri-bitossi-home"
+          }
+        },
+        "featured_collection_rr7yAM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-le-decorazioni-bitossi-home"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_3KYQWJ",
+        "featured_collection_V6mwpd",
+        "featured_collection_rr7yAM"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_Q3fPtj": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_dbkhmp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi_-logo-250.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_MP9iUa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-home-Bel-paese_1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/5460-bitossi-home-bel-paese-piatto-frutta"
+          }
+        },
+        "column_E36b7h": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-home-tazze-e-tazzine.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-petalo-bitossi-home"
+          }
+        },
+        "column_8nnMib": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-home-Diseguale-bicchieri.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-diseguale"
+          }
+        },
+        "column_WKAwtd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-home-piatti_1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-funky-table-tavola-scomposta"
+          }
+        },
+        "column_H7JJW8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-home-rose-black.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-rose-bitossi-home"
+          }
+        }
+      },
+      "block_order": [
+        "column_dbkhmp",
+        "column_MP9iUa",
+        "column_E36b7h",
+        "column_8nnMib",
+        "column_WKAwtd",
+        "column_H7JJW8"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "disabled": true,
+      "settings": {
+        "products_per_page": 36,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "standard",
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "multicolumn_4fT4dH",
+    "image_banner_dc8VCJ",
+    "multicolumn_c7Bg4Y",
+    "image_banner_yEDFWe",
+    "featured_collection_EihEex",
+    "multicolumn_gaht3W",
+    "collection_list_DFkntc",
+    "collection_list_LxpCcQ",
+    "collection_list_kdtLc8",
+    "collection_list_DkYHyh",
+    "collection_list_yH8cEE",
+    "collection_list_Qdy6e7",
+    "multicolumn_Webjiz",
+    "collection_list_pekHrY",
+    "collection_list_qbh9yb",
+    "collection_list_PpNeKq",
+    "multicolumn_Q3fPtj",
+    "product-grid"
+  ]
+}
