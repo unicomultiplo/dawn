@@ -357,7 +357,7 @@
         "featured_collection_NVKPxg": {
           "type": "featured_collection",
           "settings": {
-            "collection": "knindustrie-food-mood"
+            "collection": "solaria-knindustrie"
           }
         },
         "featured_collection_pykA4F": {
@@ -411,13 +411,20 @@
           "settings": {
             "collection": "q2-knindustrie"
           }
+        },
+        "featured_collection_bwKqpA": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "groove-knindustrie"
+          }
         }
       },
       "block_order": [
         "featured_collection_f86QPN",
         "featured_collection_YGzt9w",
         "featured_collection_wVidGG",
-        "featured_collection_ebaCLV"
+        "featured_collection_ebaCLV",
+        "featured_collection_bwKqpA"
       ],
       "settings": {
         "title": "I Bicchieri",
