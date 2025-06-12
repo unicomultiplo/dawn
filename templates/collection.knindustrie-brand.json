@@ -56,9 +56,9 @@
     "image_banner_dc8VCJ": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/knIndustrie_Collezione_Storm__mood_8cdf9082-cf15-42a5-9c18-ce459957c711.png",
+        "image": "shopify://shop_images/k2_Simona_Silenzi_3_1.png",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "adapt",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
@@ -253,6 +253,12 @@
           "settings": {
             "collection": "knindustrie-catalogo-prodotti-glocal"
           }
+        },
+        "featured_collection_rAjaFj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "lady-anne-knindustrie"
+          }
         }
       },
       "block_order": [
@@ -264,7 +270,8 @@
         "featured_collection_FJaikJ",
         "featured_collection_fhzGCq",
         "featured_collection_mdHcCM",
-        "featured_collection_MebW6x"
+        "featured_collection_MebW6x",
+        "featured_collection_rAjaFj"
       ],
       "settings": {
         "title": "Le Pentole",
@@ -328,12 +335,6 @@
             "collection": "knindustrie-catalogo-prodotti-experimental-cocktail"
           }
         },
-        "featured_collection_my9KF3": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "knindustrie-catalogo-prodotti-davide-oldani-e-knindustrie-verres-d-o-bicchieri"
-          }
-        },
         "featured_collection_PpGG4T": {
           "type": "featured_collection",
           "settings": {
@@ -343,7 +344,6 @@
       },
       "block_order": [
         "featured_collection_f86QPN",
-        "featured_collection_my9KF3",
         "featured_collection_PpGG4T"
       ],
       "settings": {
@@ -419,7 +419,7 @@
         "text_KayAnn": {
           "type": "text",
           "settings": {
-            "text": "<p>Abbiamo la categoria che è rimasta attiva, la mettiamo in evidenza?</p>"
+            "text": "<p>Le offerte di KnIndustrie sono imperdibili! Questa azienda, specializzata e leader nella produzione di utensili per cucinare, cuocere e presentare il cibo in tavola, diventa ancora più irresistibile grazie a promozioni che non capitano tutti i giorni.</p>"
           }
         },
         "button_rd4LDW": {
