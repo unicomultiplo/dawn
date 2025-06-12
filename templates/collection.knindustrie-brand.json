@@ -181,7 +181,7 @@
         "column_thtXjU"
       ],
       "settings": {
-        "title": "Le Collezioni KnIndustrie",
+        "title": "Le Collezioni KnIndustrie - togliere i titoli (tipologia) come in seletti?",
         "heading_size": "h0",
         "image_width": "third",
         "image_ratio": "square",
@@ -294,19 +294,73 @@
     "collection_list_efmEWg": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_BjExka": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "knindustrie-catalogo-prodotti-lunch-layers"
-          }
-        },
         "featured_collection_qARFLY": {
           "type": "featured_collection",
           "settings": {
             "collection": "knindustrie-food-mood"
           }
         },
+        "featured_collection_BjExka": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-catalogo-prodotti-lunch-layers"
+          }
+        },
         "featured_collection_8kErjE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "assiette-do-knindustrie"
+          }
+        },
+        "featured_collection_8GDTgm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "reggia-knindustrie"
+          }
+        },
+        "featured_collection_P4FmxL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "armonia-knindustrie"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_qARFLY",
+        "featured_collection_BjExka",
+        "featured_collection_8kErjE",
+        "featured_collection_8GDTgm",
+        "featured_collection_P4FmxL"
+      ],
+      "settings": {
+        "title": "I Piatti",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_ifB6iL": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_hEaiUc": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shabbychic-knindustrie"
+          }
+        },
+        "featured_collection_NVKPxg": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-food-mood"
+          }
+        },
+        "featured_collection_pykA4F": {
           "type": "featured_collection",
           "settings": {
             "collection": "knindustrie-catalogo-prodotti-foo-d"
@@ -314,12 +368,12 @@
         }
       },
       "block_order": [
-        "featured_collection_BjExka",
-        "featured_collection_qARFLY",
-        "featured_collection_8kErjE"
+        "featured_collection_hEaiUc",
+        "featured_collection_NVKPxg",
+        "featured_collection_pykA4F"
       ],
       "settings": {
-        "title": "I Piatti",
+        "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 5,
@@ -340,16 +394,30 @@
             "collection": "knindustrie-catalogo-prodotti-experimental-cocktail"
           }
         },
-        "featured_collection_PpGG4T": {
+        "featured_collection_YGzt9w": {
           "type": "featured_collection",
           "settings": {
-            "collection": "knindustrie-catalogo-prodotti-schoenhuber-franchi"
+            "collection": "in-tagli-knindustrie"
+          }
+        },
+        "featured_collection_wVidGG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "quaderni-knindustrie"
+          }
+        },
+        "featured_collection_ebaCLV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "q2-knindustrie"
           }
         }
       },
       "block_order": [
         "featured_collection_f86QPN",
-        "featured_collection_PpGG4T"
+        "featured_collection_YGzt9w",
+        "featured_collection_wVidGG",
+        "featured_collection_ebaCLV"
       ],
       "settings": {
         "title": "I Bicchieri",
@@ -390,13 +458,20 @@
           "settings": {
             "collection": "knindustrie-catalogo-prodotti-posate"
           }
+        },
+        "featured_collection_EdzCg7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-catalogo-prodotti-coltelli-be-knife"
+          }
         }
       },
       "block_order": [
         "featured_collection_J9VXdA",
         "featured_collection_4QVjBG",
         "featured_collection_ncmJDG",
-        "featured_collection_i4tcUD"
+        "featured_collection_i4tcUD",
+        "featured_collection_EdzCg7"
       ],
       "settings": {
         "title": "Accessori Tavola - posate -togliere??",
@@ -748,6 +823,7 @@
     "collection_list_DFkntc",
     "collection_list_Qg9khB",
     "collection_list_efmEWg",
+    "collection_list_ifB6iL",
     "collection_list_yH8cEE",
     "collection_list_EwJ8yx",
     "collection_list_afciwA",
