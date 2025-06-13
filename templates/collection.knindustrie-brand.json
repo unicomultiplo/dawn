@@ -454,12 +454,6 @@
             "collection": "the-storm-collection-knindustrie"
           }
         },
-        "featured_collection_zErhAT": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "knindustrie-catalogo-prodotti-glocal"
-          }
-        },
         "featured_collection_4QVjBG": {
           "type": "featured_collection",
           "settings": {
@@ -487,7 +481,6 @@
       },
       "block_order": [
         "featured_collection_J9VXdA",
-        "featured_collection_zErhAT",
         "featured_collection_4QVjBG",
         "featured_collection_ncmJDG",
         "featured_collection_i4tcUD",
