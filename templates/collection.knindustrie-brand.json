@@ -138,7 +138,6 @@
         "heading_dJgdnD",
         "buttons_Abd6WT"
       ],
-      "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/knindustrie-storm-collection-ivan-tresoldi-scaled.webp",
         "image_2": "shopify://shop_images/knindustrie-ivan-tresoldi.webp",
@@ -365,12 +364,19 @@
           "settings": {
             "collection": "knindustrie-catalogo-prodotti-foo-d"
           }
+        },
+        "featured_collection_4YzDMm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-catalogo-prodotti-schoenhuber-franchi"
+          }
         }
       },
       "block_order": [
         "featured_collection_hEaiUc",
         "featured_collection_NVKPxg",
-        "featured_collection_pykA4F"
+        "featured_collection_pykA4F",
+        "featured_collection_4YzDMm"
       ],
       "settings": {
         "title": "",
@@ -445,6 +451,12 @@
         "featured_collection_J9VXdA": {
           "type": "featured_collection",
           "settings": {
+            "collection": "the-storm-collection-knindustrie"
+          }
+        },
+        "featured_collection_zErhAT": {
+          "type": "featured_collection",
+          "settings": {
             "collection": "knindustrie-catalogo-prodotti-glocal"
           }
         },
@@ -475,6 +487,7 @@
       },
       "block_order": [
         "featured_collection_J9VXdA",
+        "featured_collection_zErhAT",
         "featured_collection_4QVjBG",
         "featured_collection_ncmJDG",
         "featured_collection_i4tcUD",
@@ -573,7 +586,6 @@
         "text_KayAnn",
         "button_rd4LDW"
       ],
-      "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
