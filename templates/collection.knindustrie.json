@@ -9,79 +9,14 @@
  */
 {
   "sections": {
-    "banner": {
-      "type": "main-collection-banner",
-      "custom_css": [
-        "a {color: #598db2;}"
-      ],
+    "custom_liquid_yC8VMV": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "show_collection_description": true,
-        "show_collection_image": false,
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
-      }
-    },
-    "multicolumn_MxLddP": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_PgEVHi": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h4></h4><h4><a href=\"/collections/knindustrie-catalogo-prodotti-abct\" title=\"ABCT by KnIndustrie\">ABCT</a></h4><h4><a href=\"/collections/knindustrie-catalogo-prodotti-beyond-basic\" title=\"Beyond Basic by KnIndustrie\">Beyond Basic</a></h4><h4><a href=\"/collections/knindustrie-catalogo-prodotti-bicchieri\" title=\"KnIndustrie: Bicchieri\">Bicchieri</a></h4><h4><a href=\"/collections/knindustrie-catalogo-prodotti-coltelli-be-knife\" title=\"Coltelli BE-KNife by KnIndustrie\">Coltelli Be Knife</a></h4><h4><a href=\"/collections/knindustrie-catalogo-prodotti-davide-oldani\" title=\"Davide Oldani e KnIndustrie\">Davide Oldani</a></h4><h4><a href=\"/collections/knindustrie-catalogo-prodotti-crete\" title=\"Le Crete - KnIndustrie\">Terracotta Crete</a></h4>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_pqxUGY": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h4><a href=\"/collections/knindustrie-catalogo-prodotti-schoenhuber-franchi\" title=\"Schönhuber-Franchi e KnIndustrie\">Schönhuber-Franchi</a></h4><h4><a href=\"/collections/knindustrie-catalogo-prodotti-foo-d\" title=\"Foo'D by KnIndustrie e Oldani\">Foo'D</a></h4><h4><a href=\"/collections/knindustrie-catalogo-prodotti-glocal\" title=\"Glocal by KnIndustrie\">Glocal</a></h4><h4><a href=\"/collections/knindustrie-catalogo-prodotti-lara-caffi\" title=\"Lara Caffi e KnIndustrie\">Lara Caffi</a></h4><h4><a href=\"/collections/knindustrie-catalogo-prodotti-lunch-layers\" title=\"Lunch Layers by KnIndustrie\">Lunch Layers</a></h4><h4><a href=\"/collections/knindustrie-catalogo-prodotti-experimental-cocktail\" title=\"Experimental Cocktail by KnIndustrie\">Experimental Cocktail</a></h4>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_gPeEtt": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h4><a href=\"/collections/knindustrie-catalogo-prodotti-norma\" title=\"Norma by KnIndustrie\">Norma</a></h4><h4><a href=\"/collections/knindustrie-pentole-a-induzione\" title=\"KnIndustrie: Pentole a Induzione\">Pentole a Induzione</a></h4><h4><a href=\"/collections/knindustrie-catalogo-prodotti-piatti\" title=\"KnIndustrie: Piatti\">Piatti</a></h4><h4><a href=\"/collections/knindustrie-catalogo-prodotti-piero-lissoni\" title=\"Piero Lissoni e KnIndustrie\">Piero Lissoni</a></h4><h4><a href=\"/collections/knindustrie-catalogo-prodotti-posate\" title=\"KnIndustrie: Posate\">Posate</a></h4><h4><a href=\"/collections/knindustrie-catalogo-prodotti-back-up\" title=\"Back Up by KnIndustrie\">Pentole Back Up</a></h4>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_DVyMJx": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h4> <a href=\"/collections\" title=\"Tutte le collezioni\">Pentole Stone Work</a></h4><h4><a href=\"/collections/knindustrie-catalogo-prodotti-taglieri-workstation\" title=\"KnIndustrie: Taglieri e Workstation\">Taglieri e Workstation</a></h4><h4><a href=\"/collections/knindustrie-catalogo-prodotti-vassoi\" title=\"KnIndustrie: Vassoi\">Vassoi</a></h4><h4><a href=\"/collections/knindustrie-catalogo-prodotti-wok-tajine-teppanyaki\" title=\"KnIndustrie: Wok, Tajine e Teppanyaki\">Wok, Tajine, Teppanyaki</a></h4><h4><a href=\"/collections/knindustrie-catalogo-prodotti-black\" title=\"Black by KnIndustrie\">Padelle e Tegami Black</a></h4><h4><a href=\"/collections/knindustrie-food-mood\" title=\"KnIndustrie Food & Mood\">KnTable Food & Mood </a></h4>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_PgEVHi",
-        "column_pqxUGY",
-        "column_gPeEtt",
-        "column_DVyMJx"
-      ],
-      "custom_css": [],
-      "settings": {
-        "title": "Scopri tutte le Collezioni KnIndustrie",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 20,
-        "padding_bottom": 20
+        "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h1>{{ collection.title }}</h1>\n</div>\n</section>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 0
       }
     },
     "product-grid": {
@@ -103,11 +38,102 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        "a {color: #598db2;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
+      }
+    },
+    "multicolumn_fKzGUM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Tkzm7D": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Knidustrie.png",
+            "title": "Esplora il Brand",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie"
+          }
+        },
+        "column_JndhkE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Knidustrie.png",
+            "title": "Collezione ABCT",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-abct"
+          }
+        },
+        "column_NX7aqg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/VASSOI_MOOD.webp",
+            "title": "NEW! The Storm Collection",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/the-storm-collection-knindustrie"
+          }
+        },
+        "column_LriqGm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knIndustrie-centrotavola-vetro-verde-qsvqe4s2ldj8rqsodhp18tfrvozao861d2dfxyujkw.jpg",
+            "title": "Centrotavola Gastronomici",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/centrotavola-gastronomico-knindustrie"
+          }
+        },
+        "column_VGJfMb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-collezione-lime-line-ambra-set-6-pz_b29530e9-6a4b-4077-b121-43f507480791.webp",
+            "title": "Lime Line",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/lime-line-knindustrie"
+          }
+        }
+      },
+      "block_order": [
+        "column_Tkzm7D",
+        "column_JndhkE",
+        "column_NX7aqg",
+        "column_LriqGm",
+        "column_VGJfMb"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
+    "custom_liquid_yC8VMV",
+    "product-grid",
     "banner",
-    "multicolumn_MxLddP",
-    "product-grid"
+    "multicolumn_fKzGUM"
   ]
 }
