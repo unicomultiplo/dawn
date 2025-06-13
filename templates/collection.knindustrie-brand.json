@@ -546,48 +546,6 @@
         "padding_bottom": 0
       }
     },
-    "rich_text_CAR6cd": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Xqxgfa": {
-          "type": "heading",
-          "settings": {
-            "heading": "Offerte e Promo",
-            "heading_size": "h1"
-          }
-        },
-        "text_KayAnn": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Le offerte di KnIndustrie sono imperdibili! Questa azienda, specializzata e leader nella produzione di utensili per cucinare, cuocere e presentare il cibo in tavola, diventa ancora più irresistibile grazie a promozioni che non capitano tutti i giorni.</p>"
-          }
-        },
-        "button_rd4LDW": {
-          "type": "button",
-          "settings": {
-            "button_label": "Offerte, promo e saldi KnIndustrie",
-            "button_link": "shopify://collections/knindustrie-catalogo-prodotti-offerte",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_Xqxgfa",
-        "text_KayAnn",
-        "button_rd4LDW"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "multicolumn_Webjiz": {
       "type": "multicolumn",
       "blocks": {
@@ -725,6 +683,48 @@
         "padding_bottom": 0
       }
     },
+    "rich_text_CAR6cd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Xqxgfa": {
+          "type": "heading",
+          "settings": {
+            "heading": "Offerte e Promo",
+            "heading_size": "h1"
+          }
+        },
+        "text_KayAnn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Le offerte di KnIndustrie sono imperdibili! Questa azienda, specializzata e leader nella produzione di utensili per cucinare, cuocere e presentare il cibo in tavola, diventa ancora più irresistibile grazie a promozioni che non capitano tutti i giorni.</p>"
+          }
+        },
+        "button_rd4LDW": {
+          "type": "button",
+          "settings": {
+            "button_label": "Offerte, promo e saldi KnIndustrie",
+            "button_link": "shopify://collections/knindustrie-catalogo-prodotti-offerte",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Xqxgfa",
+        "text_KayAnn",
+        "button_rd4LDW"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "multicolumn_Q3fPtj": {
       "type": "multicolumn",
       "blocks": {
@@ -799,7 +799,7 @@
         "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 20,
+        "padding_top": 24,
         "padding_bottom": 20
       }
     },
@@ -839,10 +839,10 @@
     "collection_list_yH8cEE",
     "collection_list_EwJ8yx",
     "collection_list_afciwA",
-    "rich_text_CAR6cd",
     "multicolumn_Webjiz",
     "collection_list_pekHrY",
     "collection_list_qbh9yb",
+    "rich_text_CAR6cd",
     "multicolumn_Q3fPtj",
     "product-grid"
   ]
