@@ -128,7 +128,7 @@
         "heading_dJgdnD": {
           "type": "heading",
           "settings": {
-            "heading": "",
+            "heading": "<a href=\"/collections/bitossi-home-abracadabra\" title=\"Abracadabra Bitossi Home\">Piatti Abracadabra Bitossi Home a -15%!</a>",
             "heading_size": "h1"
           }
         },
@@ -156,11 +156,11 @@
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-b4b5757d-11d6-44d9-9913-c59c1623590c",
+        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": false
+        "show_text_below": true
       }
     },
     "featured_collection_EihEex": {
