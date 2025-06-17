@@ -400,22 +400,10 @@
             "collection": "knindustrie-catalogo-prodotti-experimental-cocktail"
           }
         },
-        "featured_collection_YGzt9w": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "in-tagli-knindustrie"
-          }
-        },
         "featured_collection_wVidGG": {
           "type": "featured_collection",
           "settings": {
             "collection": "lime-line-knindustrie"
-          }
-        },
-        "featured_collection_ebaCLV": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "q2-knindustrie"
           }
         },
         "featured_collection_bwKqpA": {
@@ -423,14 +411,26 @@
           "settings": {
             "collection": "groove-knindustrie"
           }
+        },
+        "featured_collection_YGzt9w": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "in-tagli-knindustrie"
+          }
+        },
+        "featured_collection_ebaCLV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "q2-knindustrie"
+          }
         }
       },
       "block_order": [
         "featured_collection_f86QPN",
-        "featured_collection_YGzt9w",
         "featured_collection_wVidGG",
-        "featured_collection_ebaCLV",
-        "featured_collection_bwKqpA"
+        "featured_collection_bwKqpA",
+        "featured_collection_YGzt9w",
+        "featured_collection_ebaCLV"
       ],
       "settings": {
         "title": "",
@@ -454,12 +454,6 @@
             "collection": "the-storm-collection-knindustrie"
           }
         },
-        "featured_collection_4QVjBG": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "knindustrie-catalogo-prodotti-beyond-basic"
-          }
-        },
         "featured_collection_ncmJDG": {
           "type": "featured_collection",
           "settings": {
@@ -477,14 +471,20 @@
           "settings": {
             "collection": "knindustrie-catalogo-prodotti-coltelli-be-knife"
           }
+        },
+        "featured_collection_4QVjBG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-catalogo-prodotti-beyond-basic"
+          }
         }
       },
       "block_order": [
         "featured_collection_J9VXdA",
-        "featured_collection_4QVjBG",
         "featured_collection_ncmJDG",
         "featured_collection_i4tcUD",
-        "featured_collection_EdzCg7"
+        "featured_collection_EdzCg7",
+        "featured_collection_4QVjBG"
       ],
       "settings": {
         "title": "",
@@ -589,53 +589,6 @@
         "padding_bottom": 0
       }
     },
-    "collection_list_pekHrY": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_xqbBjc": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "knindustrie-catalogo-prodotti-coltelli-be-knife"
-          }
-        },
-        "featured_collection_ThyLH7": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "knindustrie-pentole-a-induzione"
-          }
-        },
-        "featured_collection_TY9Gnq": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "knindustrie-catalogo-prodotti-wok-tajine-teppanyaki"
-          }
-        },
-        "featured_collection_LcHyEx": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "knindustrie-catalogo-prodotti-taglieri-workstation"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_xqbBjc",
-        "featured_collection_ThyLH7",
-        "featured_collection_TY9Gnq",
-        "featured_collection_LcHyEx"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 4,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "collection_list_qbh9yb": {
       "type": "collection-list",
       "blocks": {
@@ -673,6 +626,53 @@
       "settings": {
         "title": "",
         "heading_size": "h0",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_pekHrY": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_xqbBjc": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-catalogo-prodotti-coltelli-be-knife"
+          }
+        },
+        "featured_collection_ThyLH7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-pentole-a-induzione"
+          }
+        },
+        "featured_collection_TY9Gnq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-catalogo-prodotti-wok-tajine-teppanyaki"
+          }
+        },
+        "featured_collection_LcHyEx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-catalogo-prodotti-taglieri-workstation"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_xqbBjc",
+        "featured_collection_ThyLH7",
+        "featured_collection_TY9Gnq",
+        "featured_collection_LcHyEx"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 4,
         "color_scheme": "scheme-1",
@@ -840,8 +840,8 @@
     "collection_list_EwJ8yx",
     "collection_list_afciwA",
     "multicolumn_Webjiz",
-    "collection_list_pekHrY",
     "collection_list_qbh9yb",
+    "collection_list_pekHrY",
     "rich_text_CAR6cd",
     "multicolumn_Q3fPtj",
     "product-grid"
