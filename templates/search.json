@@ -41,7 +41,7 @@
         "paragraph_qAxmaD": {
           "type": "paragraph",
           "settings": {
-            "text": "<h3>Per iscritti UNICI... Vantaggi MULTIPLI! Entra nella COMMUNITY e avrai <span style=\"text-decoration:underline\">subito il 10% di sconto</span> sul primo acquisto.</h3>"
+            "text": "<p>Per <strong>iscritti UNICI.</strong>.. <strong>Vantaggi MULTIPLI! </strong>Entra nella COMMUNITY e avrai <span style=\"text-decoration:underline\"><strong>subito il 10%</strong></span><span style=\"text-decoration:underline\"> di sconto</span> sul primo acquisto.</p>"
           }
         },
         "email_form_GcmDwp": {
