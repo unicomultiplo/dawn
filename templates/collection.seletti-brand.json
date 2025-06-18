@@ -66,10 +66,9 @@
     "image_banner_dc8VCJ": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/love-in-bloom-seletti.webp",
-        "image_2": "shopify://shop_images/magna-graecia-seletti.jpg",
+        "image": "shopify://shop_images/seletti-kintsugi-unico-e-multiplo_39a8d4fa-4f33-4f50-a0c5-dae6bcc00661.png",
         "image_overlay_opacity": 0,
-        "image_height": "small",
+        "image_height": "adapt",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
@@ -78,6 +77,63 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": true
+      }
+    },
+    "image_with_text_7gxWGt": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Xk7Jqm": {
+          "type": "heading",
+          "settings": {
+            "heading": "Seletti: NOVITA'",
+            "heading_size": "h1"
+          }
+        },
+        "caption_GQnb8z": {
+          "type": "caption",
+          "settings": {
+            "caption": "Sole e Luna – Le nuove decorazioni MAgna Graecia firmate Antonio Aricò",
+            "text_style": "subtitle",
+            "text_size": "medium"
+          }
+        },
+        "text_PePwpm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Con <strong>Sole</strong> e <strong>Luna</strong>, Antonio Aricò aricchiesce la collezione Magna Graecia per <strong>Seletti</strong>, dando vita a due pezzi scultorei in <strong>terracotta pura</strong>, vibranti di carattere e simbolismo. Non sono semplici decorazioni ma <strong>icone</strong>. </p><p>Il Sole è energia, potenza, luce.<br/><br/>La Luna è mistero, silenzio, bellezza.<br/><br/> <strong>Un racconto visivo che arreda e incanta.</strong> Fatti a mano, con anima mediterranea e stile inconfondibile.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_kEi6Qw": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scoprili ora",
+            "button_link": "shopify://products/seletti-magna-graecia-wall-decoration-sole",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Xk7Jqm",
+        "caption_GQnb8z",
+        "text_PePwpm",
+        "button_kEi6Qw"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/sole-luna-seletti-arico_aee9d784-b96a-47fd-8b55-8d46e95168f1.webp",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn_gaht3W": {
@@ -106,6 +162,7 @@
         "column_EMQ8ey",
         "column_thtXjU"
       ],
+      "disabled": true,
       "settings": {
         "title": "Seletti: NOVITA'",
         "heading_size": "h0",
@@ -125,11 +182,11 @@
     },
     "image_banner_dwHmCM": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/Seletti-super-forniture-5.webp",
-        "image_2": "shopify://shop_images/Seletti-super-forniture-1.webp",
+        "image": "shopify://shop_images/magna_graecia_banner_fluid_1.webp",
         "image_overlay_opacity": 0,
-        "image_height": "small",
+        "image_height": "medium",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
@@ -1025,6 +1082,7 @@
     "banner",
     "multicolumn_4fT4dH",
     "image_banner_dc8VCJ",
+    "image_with_text_7gxWGt",
     "multicolumn_gaht3W",
     "image_banner_dwHmCM",
     "featured_collection_EihEex",
