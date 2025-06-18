@@ -27,9 +27,44 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "newsletter_g7rV9q": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_qNkgf4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Iscriviti alla Nostra Newsletter",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_qAxmaD": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<h3>Per iscritti UNICI... Vantaggi MULTIPLI! Entra nella COMMUNITY e avrai <span style=\"text-decoration:underline\">subito il 10% di sconto</span> sul primo acquisto.</h3>"
+          }
+        },
+        "email_form_GcmDwp": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_qNkgf4",
+        "paragraph_qAxmaD",
+        "email_form_GcmDwp"
+      ],
+      "name": "t:sections.newsletter.presets.name",
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "newsletter_g7rV9q"
   ]
 }
