@@ -94,8 +94,8 @@
           "type": "caption",
           "settings": {
             "caption": "Sole e Luna – Le nuove decorazioni Magna Graecia firmate Antonio Aricò",
-            "text_style": "subtitle",
-            "text_size": "medium"
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
           }
         },
         "text_PePwpm": {
