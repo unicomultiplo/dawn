@@ -555,7 +555,7 @@
           "type": "button",
           "settings": {
             "button_label": "Esplora tutte le proposte!",
-            "button_link": "https://www.unicoemultiplo.com/collections/idee-regalo-bomboniere?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=created-descending",
+            "button_link": "shopify://pages/bomboniere-brandani",
             "button_style_secondary": false
           }
         }
