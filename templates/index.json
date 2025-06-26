@@ -149,8 +149,6 @@
       "type": "separator",
       "custom_css": [],
       "settings": {
-        "top_spacing": 0,
-        "bottom_spacing": 0,
         "line_thickness": 1
       }
     },
@@ -349,8 +347,6 @@
       "type": "separator",
       "disabled": true,
       "settings": {
-        "top_spacing": 20,
-        "bottom_spacing": 20,
         "line_thickness": 1
       }
     },
@@ -430,8 +426,6 @@
     "separator_zH6Qpr": {
       "type": "separator",
       "settings": {
-        "top_spacing": 0,
-        "bottom_spacing": 0,
         "line_thickness": 1
       }
     },
@@ -514,8 +508,6 @@
       "type": "separator",
       "name": "Separator Line",
       "settings": {
-        "top_spacing": 30,
-        "bottom_spacing": 20,
         "line_thickness": 1
       }
     },
@@ -557,10 +549,10 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/KNindutrie-prposta_-tavola-natale_14_65a09dc6-536a-4aa1-a3d9-60c1ac2b1330.webp",
-            "title": "",
-            "text": "<h4>Categoria 1</h4>",
+            "title": "Pentole Norma KnIndustrie -25%",
+            "text": "",
             "link_label": "",
-            "link": "shopify://collections/amanita-seletti"
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-norma"
           }
         },
         "column_3Qq7Fg": {
@@ -636,8 +628,6 @@
     "separator_HKUMQy": {
       "type": "separator",
       "settings": {
-        "top_spacing": 20,
-        "bottom_spacing": 20,
         "line_thickness": 1
       }
     },
@@ -785,8 +775,6 @@
       "disabled": true,
       "name": "Separator Line",
       "settings": {
-        "top_spacing": 20,
-        "bottom_spacing": 20,
         "line_thickness": 1
       }
     },
@@ -874,8 +862,6 @@
       "type": "separator",
       "name": "Separator Line",
       "settings": {
-        "top_spacing": 20,
-        "bottom_spacing": 20,
         "line_thickness": 1
       }
     },
