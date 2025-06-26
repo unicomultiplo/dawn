@@ -4,26 +4,6 @@
   "settings": [
     {
       "type": "range",
-      "id": "top_spacing",
-      "min": 0,
-      "max": 100,
-      "step": 5,
-      "unit": "px",
-      "label": "Top Spacing",
-      "default": 30
-    },
-    {
-      "type": "range",
-      "id": "bottom_spacing",
-      "min": 0,
-      "max": 100,
-      "step": 5,
-      "unit": "px",
-      "label": "Bottom Spacing",
-      "default": 30
-    },
-    {
-      "type": "range",
       "id": "line_thickness",
       "min": 1,
       "max": 10,
@@ -51,6 +31,6 @@
   }
 </style>
 
-<div class="separator-section page-width" style="padding-top: {{ section.settings.top_spacing }}px; padding-bottom: {{ section.settings.bottom_spacing }}px;">
+<div class="separator-section page-width" style="padding-top: 50px; padding-bottom: 50px;">
   <hr class="separator-line" style="height: {{ section.settings.line_thickness }}px;">
 </div>
