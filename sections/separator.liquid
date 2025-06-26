@@ -23,14 +23,16 @@
 {% endschema %}
 
 <style>
+  .separator-section {
+    padding-top: 80px; 
+    padding-bottom: 80px;  
+  }
+  
   .separator-line {
     height: {{ section.settings.line_thickness }}px;
     background-color: rgba(var(--color-foreground),.08);
     border: none;
     margin: 0px !important;
-    
-    margin-top: 80px; 
-    margin-bottom: 80px;
   }
 </style>
 
