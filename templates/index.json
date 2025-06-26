@@ -549,9 +549,9 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/KnIndustrie-pentole-norma.jpg",
-            "title": "Pentole Norma KnIndustrie",
-            "text": "<h4>Oggi al -25%</h4>",
-            "link_label": "0000000",
+            "title": "",
+            "text": "<p><br/></p>",
+            "link_label": "Pentole Norma KnIndustrie",
             "link": "shopify://collections/knindustrie-catalogo-prodotti-norma"
           }
         },
@@ -560,8 +560,8 @@
           "settings": {
             "image": "shopify://shop_images/Josephjoseph-portabiancheria.jpg",
             "title": "",
-            "text": "<h4>Categoria 1</h4>",
-            "link_label": "",
+            "text": "",
+            "link_label": "JosephJoseph Portabiancheria",
             "link": "shopify://collections/amanita-seletti"
           }
         },
@@ -570,8 +570,8 @@
           "settings": {
             "image": "shopify://shop_images/Seletti-toiletpaper.jpg",
             "title": "",
-            "text": "<h4>Categoria 1</h4>",
-            "link_label": "",
+            "text": "",
+            "link_label": "Seletti Marsupio Tiletpaper",
             "link": "shopify://collections/amanita-seletti"
           }
         },
@@ -580,8 +580,8 @@
           "settings": {
             "image": "shopify://shop_images/Brandani-caffettiera-borbottina.jpg",
             "title": "",
-            "text": "<h4>Categoria 1</h4>",
-            "link_label": "",
+            "text": "",
+            "link_label": "Brandani Caffettiera Borbottina",
             "link": "shopify://collections/amanita-seletti"
           }
         },
@@ -590,8 +590,8 @@
           "settings": {
             "image": "shopify://shop_images/KNIndustrie-taglieri-barrique.jpg",
             "title": "",
-            "text": "<h4>Categoria 1</h4>",
-            "link_label": "",
+            "text": "",
+            "link_label": "KnIndustrie Tagliere Barrique",
             "link": "shopify://collections/amanita-seletti"
           }
         }
