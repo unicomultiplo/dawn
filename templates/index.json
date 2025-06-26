@@ -15,75 +15,69 @@
         "slide_bzftgt": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/KnIndustrie-pentola-vetro.webp",
-            "heading": "<strong>KnIndustrie</strong>",
-            "heading_size": "hxl",
-            "subheading": "<strong>Perfetto equilibrio tra innovazione culinaria e design funzionale</strong>",
-            "button_label": " Glass Pot",
-            "link": "shopify://products/456-knindustrie-knpro-pentola-in-vetro",
+            "image": "shopify://shop_images/bitossi-home-piatti-abracadabra_ef716eb9-354a-40a1-ad4b-5d1dfdeb8a54.jpg",
+            "heading": "ABRACABRA",
+            "heading_size": "h1",
+            "subheading": "<strong>by Bitossi Home</strong>",
+            "button_label": "Tua al -15%",
+            "link": "shopify://collections/bitossi-home-abracadabra",
             "button_style_secondary": true,
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 10,
-            "color_scheme": "scheme-b4b5757d-11d6-44d9-9913-c59c1623590c",
+            "image_overlay_opacity": 20,
+            "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_HMwqmR": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/promo-estate-2025-unicoemultiplo-1.webp",
+            "heading": "Più calda dell’estate?",
+            "heading_size": "h0",
+            "subheading": "<strong> Solo la nostra promo! SCONTI FINO AL 50%</strong>",
+            "button_label": "Il momento perfetto per scegliere il meglio!",
+            "link": "shopify://collections/offerte-e-promo",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
-        "slide_bzftgt"
+        "slide_bzftgt",
+        "slide_HMwqmR"
       ],
       "settings": {
         "layout": "full_bleed",
         "slide_height": "medium",
-        "slider_visual": "dots",
-        "auto_rotate": false,
+        "slider_visual": "numbers",
+        "auto_rotate": true,
         "change_slides_speed": 5,
         "image_behavior": "none",
         "show_text_below": false,
         "accessibility_info": "Le nostre offerte"
       }
     },
-    "image_banner_Afj6hW": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_jaCi8R": {
-          "type": "heading",
-          "settings": {
-            "heading": "San Valentino 2025",
-            "heading_size": "h2"
-          }
-        },
-        "buttons_Ypy3TK": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Scegli con Amore!",
-            "button_link_1": "shopify://collections/idee-regalo-san-valentino",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_jaCi8R",
-        "buttons_Ypy3TK"
-      ],
+    "dual_images_DafFDx": {
+      "type": "dual-images",
       "disabled": true,
+      "name": "Full-size Image Section",
       "settings": {
-        "image": "shopify://shop_images/Slide-San-Valentino.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-5152f450-2781-4fd5-8e48-921adbaa0cbc",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": true
+        "section_height": 600,
+        "image_padding": 10,
+        "left_link": "",
+        "left_text": "",
+        "right_top_link": "",
+        "right_top_text": "",
+        "right_bottom_link": "",
+        "right_bottom_text": "",
+        "margin_top": 36
       }
     },
     "rich_text_cn9HQ7": {
@@ -91,15 +85,17 @@
       "blocks": {
         "heading_nXqN4c": {
           "type": "heading",
+          "disabled": true,
           "settings": {
-            "heading": "Pentole e Tegami KnIndustrie",
+            "heading": "Abracadabra",
             "heading_size": "h1"
           }
         },
         "text_wLhzph": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "<p>Strumenti classici e popolari come Pentole e Tegami si affiancano a utensili da cucina non convenzionali e originali</p>"
+            "text": "<p>La collezione di piatti che nasce da un incantesimo per donare un tocco di magia alla tua tavola!</p>"
           }
         }
       },
@@ -112,21 +108,26 @@
         "content_alignment": "center",
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
         "full_width": true,
-        "padding_top": 52,
+        "padding_top": 0,
         "padding_bottom": 20
       }
     },
     "featured_collection_zEJpm8": {
       "type": "featured-collection",
+      "custom_css": [
+        ".media--transparent {background-color: var(--product-background-color);}",
+        ".media--transparent img {mix-blend-mode: multiply;}",
+        ".card__content,.card__information {padding-left: 0px;}"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "knindustrie-catalogo-prodotti-beyond-basic",
+        "collection": "bitossi-home-abracadabra",
         "products_to_show": 7,
-        "columns_desktop": 6,
+        "columns_desktop": 4,
         "full_width": true,
         "show_view_all": false,
         "view_all_style": "outline",
@@ -144,103 +145,8 @@
         "padding_bottom": 0
       }
     },
-    "rich_text_6dTUEy": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_ATn48z": {
-          "type": "heading",
-          "settings": {
-            "heading": "Tutta la Praticità del Bidone TOTEM",
-            "heading_size": "h1"
-          }
-        },
-        "text_XDRxH6": {
-          "type": "text",
-          "settings": {
-            "text": "<h3><br/>Il Design Verticale che Massimizza la Capacità<br/><br/></h3>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_ATn48z",
-        "text_XDRxH6"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
-        "full_width": true,
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
-    "slideshow_DEMHDR": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_iYEMXC": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Josehjospeh-totem.webp",
-            "heading": "Pluripremiato, ha diversi scomparti per tutti i tipi di rifiuti domestici",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "Vedi ora",
-            "link": "shopify://products/joseph-joseph-totem-max-da-60-litri-pietra",
-            "button_style_secondary": true,
-            "box_align": "middle-left",
-            "show_text_box": false,
-            "text_alignment": "left",
-            "image_overlay_opacity": 20,
-            "color_scheme": "scheme-b4b5757d-11d6-44d9-9913-c59c1623590c",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_iYEMXC"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "small",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": false,
-        "accessibility_info": "Presentazione sul nostro brand"
-      }
-    },
-    "featured_collection_7bfTMj": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "<h3><strong>JosephJoseph</strong></h3>",
-        "show_description": false,
-        "description_style": "uppercase",
-        "collection": "joseph-joseph",
-        "products_to_show": 15,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 100
-      }
-    },
     "separator_yHaRH3": {
       "type": "separator",
-      "disabled": true,
       "custom_css": [],
       "settings": {
         "top_spacing": 0,
@@ -349,142 +255,6 @@
         "padding_bottom": 20
       }
     },
-    "image_with_text_bhykne": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_eH4qRg": {
-          "type": "heading",
-          "settings": {
-            "heading": "Massimo Castagna",
-            "heading_size": "h1"
-          }
-        },
-        "text_PKW3Wk": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Una collezione di posate da tavola, realizzata con cura in acciaio inox stone washed.<br/>Il suo segno inconfondibile risiede nella foratura dei manici che conferisce un aspetto originale a tutta la collezione.<br/><br/></p>",
-            "text_style": "body"
-          }
-        },
-        "button_FAhTQp": {
-          "type": "button",
-          "settings": {
-            "button_label": "Posate DEM",
-            "button_link": "https://www.unicoemultiplo.com/products/503-knindustrie-dem-posate-da-tavola-set-4-pezzi",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_eH4qRg",
-        "text_PKW3Wk",
-        "button_FAhTQp"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/dem-pack-1000x1000.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_banner_dHUzbD": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_q7gRMd": {
-          "type": "heading",
-          "settings": {
-            "heading": "Seletti Magna Grecia",
-            "heading_size": "h0"
-          }
-        },
-        "text_F7aC8k": {
-          "type": "text",
-          "settings": {
-            "text": "Terracotta Collection",
-            "text_style": "subtitle"
-          }
-        },
-        "buttons_NhU4Ey": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "SCOPRILA ORA!",
-            "button_link_1": "shopify://collections/seletti-seletti-magna-graecia",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_q7gRMd",
-        "text_F7aC8k",
-        "buttons_NhU4Ey"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Seletti-vaso-Magna-grecia_1.webp",
-        "image_2": "shopify://shop_images/Seletti-vaso-Magna-grecia.webp",
-        "image_overlay_opacity": 30,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
-    "separator_b8qrnf": {
-      "type": "separator",
-      "disabled": true,
-      "settings": {
-        "top_spacing": 5,
-        "bottom_spacing": 5,
-        "line_thickness": 1
-      }
-    },
-    "rich_text_7MwH7c": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_hwCfYP": {
-          "type": "heading",
-          "settings": {
-            "heading": "Lo stile che dà forma alle tue idee",
-            "heading_size": "h1"
-          }
-        },
-        "text_AUrHzV": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Unico & Multiplo è idee regalo, oggetti, articoli per esprimere il tuo stile. Dagli accessori per la tavola e la cucina alle proposte per il tempo libero, dalle lampade all'arredo giardino, idee regalo: rendi concrete le tue idee!</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_hwCfYP",
-        "text_AUrHzV"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 76,
-        "padding_bottom": 0
-      }
-    },
     "multicolumn_pyNBEg": {
       "type": "multicolumn",
       "blocks": {
@@ -557,9 +327,7 @@
         "column_mbxQN4",
         "column_VbCxwQ"
       ],
-      "custom_css": [
-        ".background-none .multicolumn-card__image-wrapper {margin: unset;"
-      ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h2",
@@ -574,6 +342,294 @@
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 52,
+        "padding_bottom": 0
+      }
+    },
+    "separator_UazLhC": {
+      "type": "separator",
+      "disabled": true,
+      "settings": {
+        "top_spacing": 20,
+        "bottom_spacing": 20,
+        "line_thickness": 1
+      }
+    },
+    "multicolumn_9rJCWz": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_XrjaiE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/borsa-di-tela-disegnetti-depressetti_fd252b0f-11b2-4661-998d-d0dd28631700.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/products/disegnetti-depressetti-dont-compare-shopper?_pos=19&_sid=0e7e5bee9&_ss=r"
+          }
+        },
+        "column_XCzETy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/telo-mare-disegnetti-depressetti_764fbe3e-2a20-4ae4-87cf-2e8e8c4fc819.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/products/disegnetti-depressetti-telo-mare-mi-devo-calmare?_pos=3&_sid=04a1d1482&_ss=r"
+          }
+        },
+        "column_RUzwg4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/telo-mare-mi-devo-calmare-disegnetti-depressetti.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/depressetti-disegnetti-fiorire-stampa"
+          }
+        },
+        "column_qimwBB": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Il Kit dell'Estate</strong>",
+            "text": "<p>Telo e borsa mare con le iconiche grafiche di Disegnetti Depressetti</p>",
+            "link_label": "Acquista ora",
+            "link": "shopify://collections/disegnetti-depressetti"
+          }
+        }
+      },
+      "block_order": [
+        "column_XrjaiE",
+        "column_XCzETy",
+        "column_RUzwg4",
+        "column_qimwBB"
+      ],
+      "custom_css": [
+        ".multicolumn-list__item:last-child {background: var(--highlight-color); display: flex; flex-direction: column; justify-content: flex-end;}",
+        ".multicolumn-list__item:last-child .multicolumn-card {background: transparent;}",
+        ".multicolumn-list__item:last-child .multicolumn-card__info a {color: var(--color-foreground); text-decoration: none;}",
+        ".multicolumn-list__item:last-child .multicolumn-card h3 {color: var(--color-foreground);}",
+        ".multicolumn-list__item:last-child .multicolumn-card__info {display: flex; flex-direction: column;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "separator_zH6Qpr": {
+      "type": "separator",
+      "settings": {
+        "top_spacing": 0,
+        "bottom_spacing": 0,
+        "line_thickness": 1
+      }
+    },
+    "rich_text_XcgWmw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KpdUcP": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>NEW! </strong>SUPERCURVE",
+            "heading_size": "h1"
+          }
+        },
+        "text_g7kVVF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Linee fluide e assolutamente pop. Only good vibes!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KpdUcP",
+        "text_g7kVVF"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "collage_dNW4nf": {
+      "type": "collage",
+      "blocks": {
+        "image_jyQnUP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/specchio-luminoso-supercurve-seletti.jpg"
+          }
+        },
+        "product_eAykWe": {
+          "type": "product",
+          "settings": {
+            "product": "seletti-supercurve-specchio-con-cornice-luminosa-h185-cm",
+            "second_image": false
+          }
+        },
+        "product_BVWfAx": {
+          "type": "product",
+          "settings": {
+            "product": "seletti-supercurve-specchio-con-cornice-luminosa-cm-118-5-x-108",
+            "second_image": false
+          }
+        }
+      },
+      "block_order": [
+        "image_jyQnUP",
+        "product_eAykWe",
+        "product_BVWfAx"
+      ],
+      "custom_css": [
+        ".media--transparent img {mix-blend-mode: multiply;}",
+        ".media,.card {background-color: var(--product-background-color);}"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "separator_jwXVJA": {
+      "type": "separator",
+      "name": "Separator Line",
+      "settings": {
+        "top_spacing": 30,
+        "bottom_spacing": 20,
+        "line_thickness": 1
+      }
+    },
+    "rich_text_7Vggwn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jQfG7n": {
+          "type": "heading",
+          "settings": {
+            "heading": "Lo stile che dà forma alle tue idee",
+            "heading_size": "h1"
+          }
+        },
+        "text_pKQTaL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unico & Multiplo è idee regalo, oggetti, articoli per esprimere il tuo stile. Dagli accessori per la tavola e la cucina alle proposte per il tempo libero, dalle lampade all'arredo giardino, idee regalo: rendi concrete le tue idee!<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jQfG7n",
+        "text_pKQTaL"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 32
+      }
+    },
+    "multicolumn_9TN369": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_nAt6wK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/KNindutrie-prposta_-tavola-natale_14_65a09dc6-536a-4aa1-a3d9-60c1ac2b1330.webp",
+            "title": "",
+            "text": "<h4>Categoria 1</h4>",
+            "link_label": "",
+            "link": "shopify://collections/amanita-seletti"
+          }
+        },
+        "column_3Qq7Fg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/KNindutrie-prposta_-tavola-natale_18_6dca91d0-7aea-4f64-9443-999f8e829a99.webp",
+            "title": "",
+            "text": "<h4>Categoria 1</h4>",
+            "link_label": "",
+            "link": "shopify://collections/amanita-seletti"
+          }
+        },
+        "column_KfbY6V": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/KnIndustrie-ABCT-Padella-Wok-diametro-1-28-cm-Bianca.webp",
+            "title": "",
+            "text": "<h4>Categoria 1</h4>",
+            "link_label": "",
+            "link": "shopify://collections/amanita-seletti"
+          }
+        },
+        "column_C4atBN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/joseph-joseph-tota-90l-laundry-basket-ecru-_7_c3b54054-1dc8-41cc-9d93-d11fa67cc67f.webp",
+            "title": "",
+            "text": "<h4>Categoria 1</h4>",
+            "link_label": "",
+            "link": "shopify://collections/amanita-seletti"
+          }
+        },
+        "column_7gPQEt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/GL301B_GL302B.jpg",
+            "title": "",
+            "text": "<h4>Categoria 1</h4>",
+            "link_label": "",
+            "link": "shopify://collections/amanita-seletti"
+          }
+        }
+      },
+      "block_order": [
+        "column_nAt6wK",
+        "column_3Qq7Fg",
+        "column_KfbY6V",
+        "column_C4atBN",
+        "column_7gPQEt"
+      ],
+      "custom_css": [
+        ".multicolumn-card__image-wrapper {margin-left: 0px; margin-right: 0px;}",
+        ".multicolumn-card__info {padding-left: 0px;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -611,7 +667,7 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 20,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -625,17 +681,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/seletti"
-          }
-        },
-        "column_RUHTEp": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Bitossi_-logo-250.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://collections/bitossi-home"
+            "link": ""
           }
         },
         "column_RYybqr": {
@@ -645,7 +691,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/brabantia"
+            "link": ""
           }
         },
         "column_UnjJVg": {
@@ -655,7 +701,17 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/ichendorf-catalogo"
+            "link": ""
+          }
+        },
+        "column_iHCTrV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Millefiori.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         },
         "column_BntmaF": {
@@ -665,18 +721,21 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/brandani"
+            "link": ""
           }
         }
       },
       "block_order": [
         "column_4n44GN",
-        "column_RUHTEp",
         "column_RYybqr",
         "column_UnjJVg",
+        "column_iHCTrV",
         "column_BntmaF"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".media--transparent img {mix-blend-mode: multiply;}",
+        ".multicolumn-card__image-wrapper {margin-left: 0px; margin-right: 0px; padding: 20px; background-color: var(--product-background-color);}"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -690,7 +749,7 @@
         "color_scheme": "scheme-a993bf00-7e7e-44f4-ab72-12da0a52eace",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 44,
+        "padding_top": 4,
         "padding_bottom": 0
       }
     },
@@ -718,7 +777,106 @@
         "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
         "full_width": true,
         "padding_top": 0,
-        "padding_bottom": 64
+        "padding_bottom": 0
+      }
+    },
+    "separator_h9wzXV": {
+      "type": "separator",
+      "disabled": true,
+      "name": "Separator Line",
+      "settings": {
+        "top_spacing": 20,
+        "bottom_spacing": 20,
+        "line_thickness": 1
+      }
+    },
+    "multicolumn_dQitEb": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_fNmBMC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bone-china-curiosita-unico-e-multiplo.jpg",
+            "title": "",
+            "text": "<h3><br/>Bone China<br/><br/></h3><p>Ti guideremo alla <strong>scoperta della Bone China</strong>, dalle sue origini alla manutenzione perfetta, con consigli per l'acquisto.</p>",
+            "link_label": "Scopri la Porcellana Più Elegante",
+            "link": "shopify://pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola"
+          }
+        },
+        "column_QyM9xD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-abct-padella-wok-diametro-32-cm-bianca-1.jpg",
+            "title": "",
+            "text": "<h3><br/>Padelle antiaderenti<br/><br/></h3><p>Guida completa per scegliere il modello giusto per la tua cucina</p>",
+            "link_label": "Padelle antiaderenti",
+            "link": "shopify://pages/padelle-antiaderenti-guida-completa"
+          }
+        },
+        "column_PY3FPe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/sole-luna-seletti-arico.webp",
+            "title": "",
+            "text": "<p><br/>Novità Magna Graecia<br/><br/></p>",
+            "link_label": "Sole e Luna",
+            "link": "shopify://products/seletti-magna-graecia-wall-decoration-sole"
+          }
+        },
+        "column_kzhqr6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-ivan-tresoldi.webp",
+            "title": "",
+            "text": "<p><br/>NEW<br/>KnIndustrie + Ivan<br/></p>",
+            "link_label": "KnIndustrie + Ivan",
+            "link": "shopify://products/knindustrie-storm-vassoio-stone-washed"
+          }
+        },
+        "column_Wcerxb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1980.webp",
+            "title": "Bomboniere 2025",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_fNmBMC",
+        "column_QyM9xD",
+        "column_PY3FPe",
+        "column_kzhqr6",
+        "column_Wcerxb"
+      ],
+      "disabled": true,
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Guida all'acquisto",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "separator_RxMG4P": {
+      "type": "separator",
+      "name": "Separator Line",
+      "settings": {
+        "top_spacing": 20,
+        "bottom_spacing": 20,
+        "line_thickness": 1
       }
     },
     "multicolumn_mrQQRJ": {
@@ -727,8 +885,8 @@
         "column_8HAwtH": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/spedizione_1.jpg",
-            "title": "CONSEGNA E RESO GRATIS",
+            "image": "shopify://shop_images/iconmonstr-delivery-7-240.png",
+            "title": "CONSEGNA E RESO GRATIS*",
             "text": "<p>Per tutti gli ordini da 59,00€</p>",
             "link_label": "",
             "link": ""
@@ -737,9 +895,9 @@
         "column_xaMbin": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/pagamenti_sicuri_2.jpg",
+            "image": "shopify://shop_images/iconmonstr-lock-30-240.png",
             "title": "PAGAMENTI 100% SICURI",
-            "text": "<p>Carte, PayPal, bonifico, contrassegno</p>",
+            "text": "<p>Carte, PayPal, bonifico, contrassegno, KLARNA</p>",
             "link_label": "",
             "link": ""
           }
@@ -747,7 +905,7 @@
         "column_8HGPgi": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/assistenza_supporto.jpg",
+            "image": "shopify://shop_images/iconmonstr-delivery-8-240.png",
             "title": "ASSISTENZA E SUPPORTO",
             "text": "<p>Chat, telefono, email, Whatsapp</p>",
             "link_label": "",
@@ -760,22 +918,23 @@
         "column_xaMbin",
         "column_8HGPgi"
       ],
-      "disabled": true,
       "custom_css": [
-        ".elemento {width: 50%; aspect-ratio: 16 / 9; height: auto;}"
+        ".multicolumn {max-width: 60em; margin: 0 auto;}",
+        ".multicolumn-card__info h3 {font-size: 0.9em; font-weight: 600;}",
+        ".multicolumn-card__info p {font-size: 0.85em;}"
       ],
       "settings": {
         "title": "",
         "heading_size": "h2",
         "image_width": "third",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "",
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 60
@@ -794,7 +953,7 @@
         "paragraph_7FqTVq": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Per iscritti UNICI... Vantaggi MULTIPLI! Entra nella COMMUNITY e avrai <span style=\"text-decoration:underline\">subito il 10% di sconto</span> sul primo acquisto.</p><p></p>"
+            "text": "<p>Per iscritti Unici vantaggi Multipli! </p><p>Entra nella COMMUNITY, <span style=\"text-decoration:underline\">subito per te il 10% di sconto</span> sul primo acquisto.</p><p></p>"
           }
         },
         "email_form_EtXRTJ": {
@@ -808,11 +967,11 @@
         "email_form_EtXRTJ"
       ],
       "custom_css": [
-        ".newsletter__wrapper {border: 1px solid rgba(var(--color-foreground), 0.08); border-radius: 0.5em; margin-top: 52px;}"
+        ".newsletter__wrapper {background-color: rgba(var(--color-foreground), 0.1) !important;}"
       ],
       "settings": {
         "color_scheme": "",
-        "full_width": false,
+        "full_width": true,
         "padding_top": 52,
         "padding_bottom": 52
       }
@@ -820,24 +979,28 @@
   },
   "order": [
     "slideshow_jWzjzL",
-    "image_banner_Afj6hW",
+    "dual_images_DafFDx",
     "rich_text_cn9HQ7",
     "featured_collection_zEJpm8",
-    "rich_text_6dTUEy",
-    "slideshow_DEMHDR",
-    "featured_collection_7bfTMj",
     "separator_yHaRH3",
     "rich_text_3eGJVG",
     "multicolumn_rGUHzh",
-    "image_with_text_bhykne",
-    "image_banner_dHUzbD",
-    "separator_b8qrnf",
-    "rich_text_7MwH7c",
     "multicolumn_pyNBEg",
+    "separator_UazLhC",
+    "multicolumn_9rJCWz",
+    "separator_zH6Qpr",
+    "rich_text_XcgWmw",
+    "collage_dNW4nf",
+    "separator_jwXVJA",
+    "rich_text_7Vggwn",
+    "multicolumn_9TN369",
     "separator_HKUMQy",
     "rich_text_3WWRXG",
     "multicolumn_w64iw4",
     "rich_text_fjc6N9",
+    "separator_h9wzXV",
+    "multicolumn_dQitEb",
+    "separator_RxMG4P",
     "multicolumn_mrQQRJ",
     "newsletter_6i9tEi"
   ]
