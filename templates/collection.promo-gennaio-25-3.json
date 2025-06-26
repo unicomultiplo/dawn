@@ -136,7 +136,7 @@
     "product-grid": {
       "type": "main-collection-product-grid",
       "custom_css": [
-        ".section-template--23127397794057__product-grid-padding .card__badge {background-color: red !important;}"
+        "ul[data-id=\"template--23127397794057__product-grid\"] .card__badge {--color-badge-background: 255,0,0;}"
       ],
       "settings": {
         "products_per_page": 36,
