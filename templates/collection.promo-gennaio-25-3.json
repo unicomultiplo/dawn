@@ -130,13 +130,14 @@
     "separator_GmcVx9": {
       "type": "separator",
       "settings": {
-        "top_spacing": 0,
-        "bottom_spacing": 0,
         "line_thickness": 1
       }
     },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "custom_css": [
+        ".section-template--23127397794057__product-grid-padding .card__badge {background-color: red !important;}"
+      ],
       "settings": {
         "products_per_page": 36,
         "columns_desktop": 4,
