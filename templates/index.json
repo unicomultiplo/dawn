@@ -376,7 +376,7 @@
       ],
       "settings": {
         "title": "Disegnetti Depressetti",
-        "heading_size": "h0",
+        "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
         "columns_desktop": 2,
@@ -513,6 +513,26 @@
     "multicolumn_9TN369": {
       "type": "multicolumn",
       "blocks": {
+        "column_KfbY6V": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-toiletpaper.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Seletti Marsupio Toiletpaper",
+            "link": "shopify://products/4612-seletti-seletti-wears-toiletpaper-marsupio-waist-bag"
+          }
+        },
+        "column_3Qq7Fg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Josephjoseph-portabiancheria.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "JosephJoseph Portabiancheria",
+            "link": "shopify://products/joseph-joseph-tota-90l-portabiancheria-laundry-basket-ecru"
+          }
+        },
         "column_nAt6wK": {
           "type": "column",
           "settings": {
@@ -523,26 +543,6 @@
             "link": "shopify://collections/knindustrie-catalogo-prodotti-norma"
           }
         },
-        "column_3Qq7Fg": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Josephjoseph-portabiancheria.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "JosephJoseph Portabiancheria",
-            "link": "shopify://collections/amanita-seletti"
-          }
-        },
-        "column_KfbY6V": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Seletti-toiletpaper.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Seletti Marsupio Tiletpaper",
-            "link": "shopify://collections/amanita-seletti"
-          }
-        },
         "column_C4atBN": {
           "type": "column",
           "settings": {
@@ -550,7 +550,7 @@
             "title": "",
             "text": "",
             "link_label": "Brandani Caffettiera Borbottina",
-            "link": "shopify://collections/amanita-seletti"
+            "link": "shopify://products/4966-brandani-paradise-caffettiera-borbottina"
           }
         },
         "column_7gPQEt": {
@@ -560,14 +560,14 @@
             "title": "",
             "text": "",
             "link_label": "KnIndustrie Tagliere Barrique",
-            "link": "shopify://collections/amanita-seletti"
+            "link": "shopify://products/2460-knindustrie-barrique-tagliere-piatto-formaggi"
           }
         }
       },
       "block_order": [
-        "column_nAt6wK",
-        "column_3Qq7Fg",
         "column_KfbY6V",
+        "column_3Qq7Fg",
+        "column_nAt6wK",
         "column_C4atBN",
         "column_7gPQEt"
       ],
