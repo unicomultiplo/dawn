@@ -639,7 +639,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/seletti"
           }
         },
         "column_RYybqr": {
@@ -649,27 +649,27 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/brabantia"
           }
         },
         "column_UnjJVg": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Ichendorf.jpg",
+            "image": "shopify://shop_images/Knidustrie_d9078357-6258-44d7-93c8-9a7f783621a8.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/knindustrie"
           }
         },
         "column_iHCTrV": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Millefiori.jpg",
+            "image": "shopify://shop_images/Bitossi_-logo-250.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/bitossi-home"
           }
         },
         "column_BntmaF": {
@@ -679,7 +679,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/brandani"
           }
         }
       },
