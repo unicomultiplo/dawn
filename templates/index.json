@@ -80,38 +80,6 @@
         "margin_top": 36
       }
     },
-    "rich_text_cn9HQ7": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_nXqN4c": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Abracadabra",
-            "heading_size": "h1"
-          }
-        },
-        "text_wLhzph": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>La collezione di piatti che nasce da un incantesimo per donare un tocco di magia alla tua tavola!</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_nXqN4c",
-        "text_wLhzph"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 20
-      }
-    },
     "featured_collection_zEJpm8": {
       "type": "featured-collection",
       "custom_css": [
@@ -407,8 +375,8 @@
         ".multicolumn-list__item:last-child .multicolumn-card__info {display: flex; flex-direction: column;}"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
+        "title": "Disegnetti Depressetti",
+        "heading_size": "h0",
         "image_width": "full",
         "image_ratio": "square",
         "columns_desktop": 2,
@@ -966,7 +934,6 @@
   "order": [
     "slideshow_jWzjzL",
     "dual_images_DafFDx",
-    "rich_text_cn9HQ7",
     "featured_collection_zEJpm8",
     "separator_yHaRH3",
     "rich_text_3eGJVG",
