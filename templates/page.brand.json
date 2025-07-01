@@ -58,6 +58,12 @@
             "collection": "disegnetti-depressetti"
           }
         },
+        "featured_collection_UE68y3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "doiy"
+          }
+        },
         "featured_collection_fJLhKV": {
           "type": "featured_collection",
           "settings": {
@@ -87,12 +93,6 @@
           "settings": {
             "collection": "joseph-joseph"
           }
-        },
-        "featured_collection_wBcxGJ": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "knindustrie"
-          }
         }
       },
       "block_order": [
@@ -102,12 +102,12 @@
         "featured_collection_wmWN49",
         "featured_collection_CHFcMc",
         "featured_collection_7Xdy6g",
+        "featured_collection_UE68y3",
         "featured_collection_fJLhKV",
         "featured_collection_3wBXgj",
         "featured_collection_YnBgfe",
         "featured_collection_8a8jpz",
-        "featured_collection_q9YNHR",
-        "featured_collection_wBcxGJ"
+        "featured_collection_q9YNHR"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
@@ -127,6 +127,12 @@
       "type": "collection-list",
       "blocks": {
         "featured_collection_3mPKGp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie"
+          }
+        },
+        "featured_collection_9FtjRH": {
           "type": "featured_collection",
           "settings": {
             "collection": "ufficio-kriptonite-sistema-modulare"
@@ -195,6 +201,7 @@
       },
       "block_order": [
         "featured_collection_3mPKGp",
+        "featured_collection_9FtjRH",
         "featured_collection_3HryGH",
         "featured_collection_Qxmm3J",
         "featured_collection_khi6BE",
