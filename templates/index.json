@@ -47,11 +47,30 @@
             "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_m8wDMT": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/sdraio-seletti-promo.webp",
+            "heading": "Slide immagine",
+            "heading_size": "h1",
+            "subheading": "Racconta la storia del tuo brand con video e immagini",
+            "button_label": "Etichetta pulsante",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 20,
+            "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "slide_bzftgt",
-        "slide_HMwqmR"
+        "slide_HMwqmR",
+        "slide_m8wDMT"
       ],
       "settings": {
         "layout": "full_bleed",
