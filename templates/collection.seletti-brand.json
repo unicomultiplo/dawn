@@ -217,7 +217,7 @@
           "type": "button",
           "settings": {
             "button_label": "PROMO SELETTI",
-            "button_link": "shopify://products/seletti-magna-graecia-wall-decoration-sole",
+            "button_link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending#shopify-section-template--23127397794057__product-grid",
             "button_style_secondary": false
           }
         }
