@@ -24,6 +24,16 @@
     "multicolumn_xKWDGN": {
       "type": "multicolumn",
       "blocks": {
+        "column_kGrUQx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_1000_x_300_px_1.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending#shopify-section-template--23127397794057__product-grid"
+          }
+        },
         "column_6neVed": {
           "type": "column",
           "disabled": true,
@@ -53,17 +63,6 @@
             "text": "",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=title-ascending#shopify-section-template--23127397794057__product-grid"
-          }
-        },
-        "column_kGrUQx": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/seletti_f2f0f987-be4d-40d8-8f24-aed67382859f.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending#shopify-section-template--23127397794057__product-grid"
           }
         },
         "column_JfatKn": {
@@ -98,10 +97,10 @@
         }
       },
       "block_order": [
+        "column_kGrUQx",
         "column_6neVed",
         "column_gH4afb",
         "column_EgwtKK",
-        "column_kGrUQx",
         "column_JfatKn",
         "column_GKwhLk",
         "column_AB83rg"
@@ -121,7 +120,7 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 24,
         "padding_bottom": 0
