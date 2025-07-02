@@ -16,7 +16,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/bitossi-home-piatti-abracadabra_ef716eb9-354a-40a1-ad4b-5d1dfdeb8a54.jpg",
-            "heading": "ABRACADABRA",
+            "heading": "<strong>ABRACADABRA</strong>",
             "heading_size": "h0",
             "subheading": "<strong>by Bitossi Home</strong>",
             "button_label": "Tua al -15%",
@@ -34,7 +34,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/promo-estate-2025-unicoemultiplo-3_d0c336f9-1946-4cd1-9f3a-209beceafc6d.webp",
-            "heading": "SUMMER PROMO",
+            "heading": "<strong>SUMMER PROMO</strong>",
             "heading_size": "h0",
             "subheading": "<strong>Sconti fino al -50%</strong>",
             "button_label": "Il momento perfetto per scegliere!",
@@ -50,15 +50,16 @@
         },
         "slide_m8wDMT": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/lettino-seletti-promo-20.webp",
-            "heading": "SPECIALE SELETTI  -40%",
+            "heading": "<strong>SPECIALE SELETTI  -40%</strong>",
             "heading_size": "h1",
             "subheading": "PROMO fino al 25/07/2025",
             "button_label": "SELETTI PROMO",
             "link": "shopify://collections/offerte-e-promo",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "top-left",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
