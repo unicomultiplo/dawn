@@ -96,49 +96,6 @@
         "show_text_below": true
       }
     },
-    "multicolumn_tdPnkh": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_73YVad": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Solo fino al 25 luglio!</strong>",
-            "text": "<p>È il momento perfetto per portare a casa un pezzo di design fuori dagli schemi. Nella nostra selezione in <strong>promo firmata Seletti</strong> trovi <strong>sconti fino al 40%</strong> su oggetti iconici, ironici, coloratissimi – tutti da collezionare o regalare. <br/>Dalle sdraio da spiaggia ai servizi da tavola, fino alle lampade e agli accessori per la casa più pop di sempre.<br/></p><p>Puoi approfittare di queste offerte uniche <strong>solo fino al 25/07</strong>. Non lasciarti sfuggire l’occasione di dare nuova personalità ai tuoi spazi… con <strong>Seletti</strong>, ogni ambiente diventa spettacolare.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_ARgyfM": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_73YVad",
-        "column_ARgyfM"
-      ],
-      "settings": {
-        "title": "<strong>Promo Seletti</strong> - Fino al 40% di sconto",
-        "heading_size": "h0",
-        "image_width": "third",
-        "image_ratio": "square",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
     "image_banner_nttVbF": {
       "type": "image-banner",
       "blocks": {
@@ -157,13 +114,14 @@
       "block_order": [
         "buttons_ayiD3g"
       ],
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/sconto-20-lettino-promo.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
         "image_behavior": "none",
@@ -236,14 +194,14 @@
         "heading_iqNgby": {
           "type": "heading",
           "settings": {
-            "heading": "Seletti: NOVITA'",
+            "heading": "<strong>Promo Seletti</strong> - Fino al -40%",
             "heading_size": "h1"
           }
         },
         "caption_FPNtrf": {
           "type": "caption",
           "settings": {
-            "caption": "Sole e Luna – Le nuove decorazioni Magna Graecia firmate Antonio Aricò",
+            "caption": "Solo fino al 25 luglio!",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
@@ -251,14 +209,14 @@
         "text_Bb8ttc": {
           "type": "text",
           "settings": {
-            "text": "<p>Con <strong>Sole</strong> e <strong>Luna</strong>, Antonio Aricò arricchisce la collezione Magna Graecia per <strong>Seletti</strong>, dando vita a due pezzi scultorei in <strong>terracotta pura</strong>, vibranti di carattere e simbolismo. Non sono semplici decorazioni ma <strong>icone</strong>. </p><p>- Il Sole è energia, potenza, luce.<br/><br/>- La Luna è mistero, silenzio, bellezza.<br/><br/> <strong>Un racconto visivo che arreda e incanta.<br/></strong> Fatti a mano, con anima mediterranea e stile inconfondibile.</p>",
+            "text": "<p>È il momento perfetto per portare a casa un pezzo di design fuori dagli schemi. Nella nostra selezione in <strong>promo firmata Seletti</strong> trovi <strong>sconti fino al 40%</strong> su oggetti iconici, ironici, coloratissimi – tutti da collezionare o regalare. <br/>Dalle sdraio da spiaggia ai servizi da tavola, fino alle lampade e agli accessori per la casa più pop di sempre.<br/><br/></p><p>Puoi approfittare di queste offerte uniche <strong>solo fino al 25/07</strong>. Non lasciarti sfuggire l’occasione di dare nuova personalità ai tuoi spazi… con <strong>Seletti</strong>, ogni ambiente diventa spettacolare.</p>",
             "text_style": "body"
           }
         },
         "button_htKChT": {
           "type": "button",
           "settings": {
-            "button_label": "Scoprili ora",
+            "button_label": "PROMO SELETTI",
             "button_link": "shopify://products/seletti-magna-graecia-wall-decoration-sole",
             "button_style_secondary": false
           }
@@ -270,7 +228,6 @@
         "text_Bb8ttc",
         "button_htKChT"
       ],
-      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/saldi-estate-25-20-seletti-outdoor.webp",
@@ -1144,7 +1101,6 @@
     "banner",
     "multicolumn_4fT4dH",
     "image_banner_dc8VCJ",
-    "multicolumn_tdPnkh",
     "image_banner_nttVbF",
     "image_with_text_7gxWGt",
     "image_with_text_CQDLVR",
