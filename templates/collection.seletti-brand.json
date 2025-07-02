@@ -102,7 +102,7 @@
         "column_73YVad": {
           "type": "column",
           "settings": {
-            "title": "<strong>Fino al 40% di sconto, solo fino al 25 luglio!</strong>",
+            "title": "<strong>Solo fino al 25 luglio!</strong>",
             "text": "<p>È il momento perfetto per portare a casa un pezzo di design fuori dagli schemi. Nella nostra selezione in <strong>promo firmata Seletti</strong> trovi <strong>sconti fino al 40%</strong> su oggetti iconici, ironici, coloratissimi – tutti da collezionare o regalare. <br/>Dalle sdraio da spiaggia ai servizi da tavola, fino alle lampade e agli accessori per la casa più pop di sempre.<br/></p><p>Puoi approfittare di queste offerte uniche <strong>solo fino al 25/07</strong>. Non lasciarti sfuggire l’occasione di dare nuova personalità ai tuoi spazi… con <strong>Seletti</strong>, ogni ambiente diventa spettacolare.</p>",
             "link_label": "",
             "link": ""
@@ -123,7 +123,7 @@
         "column_ARgyfM"
       ],
       "settings": {
-        "title": "Promo Seletti",
+        "title": "<strong>Promo Seletti</strong> - Fino al 40% di sconto",
         "heading_size": "h0",
         "image_width": "third",
         "image_ratio": "square",
