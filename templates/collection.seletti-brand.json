@@ -102,8 +102,8 @@
         "column_73YVad": {
           "type": "column",
           "settings": {
-            "title": "",
-            "text": "<p>Non perderti le occasioni a prezzo speciale selezionate tra le collezioni <strong>Seletti</strong>: scopri le promozioni in corso! Esplora nuovi mondi celebrando la vita e la sua bellezza, dai servizi per la tavola a<strong>i curiosi oggetti </strong>per arredare con personalità. Un viaggio tra <strong>design visionario e ironia pop</strong>, nato da collaborazioni con designer nazionali e internazionali.</p>",
+            "title": "<strong>Fino al 40% di sconto, solo fino al 25 luglio!</strong>",
+            "text": "<p>È il momento perfetto per portare a casa un pezzo di design fuori dagli schemi. Nella nostra selezione in <strong>promo firmata Seletti</strong> trovi <strong>sconti fino al 40%</strong> su oggetti iconici, ironici, coloratissimi – tutti da collezionare o regalare. <br/>Dalle sdraio da spiaggia ai servizi da tavola, fino alle lampade e agli accessori per la casa più pop di sempre.<br/></p><p>Puoi approfittare di queste offerte uniche <strong>solo fino al 25/07</strong>. Non lasciarti sfuggire l’occasione di dare nuova personalità ai tuoi spazi… con <strong>Seletti</strong>, ogni ambiente diventa spettacolare.</p>",
             "link_label": "",
             "link": ""
           }
@@ -123,7 +123,7 @@
         "column_ARgyfM"
       ],
       "settings": {
-        "title": "Le Collezioni Seletti",
+        "title": "Promo Seletti",
         "heading_size": "h0",
         "image_width": "third",
         "image_ratio": "square",
@@ -163,9 +163,9 @@
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
-        "show_text_box": false,
+        "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
