@@ -96,6 +96,82 @@
         "show_text_below": true
       }
     },
+    "multicolumn_tdPnkh": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_73YVad": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Non perderti le occasioni a prezzo speciale selezionate tra le collezioni <strong>Seletti</strong>: scopri le promozioni in corso! Esplora nuovi mondi celebrando la vita e la sua bellezza, dai servizi per la tavola a<strong>i curiosi oggetti </strong>per arredare con personalità. Un viaggio tra <strong>design visionario e ironia pop</strong>, nato da collaborazioni con designer nazionali e internazionali.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ARgyfM": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_73YVad",
+        "column_ARgyfM"
+      ],
+      "settings": {
+        "title": "Le Collezioni Seletti",
+        "heading_size": "h0",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_nttVbF": {
+      "type": "image-banner",
+      "blocks": {
+        "buttons_ayiD3g": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Saldi fino al 40%",
+            "button_link_1": "shopify://collections/offerte-e-promo",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "buttons_ayiD3g"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/sconto-20-lettino-promo.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "image_with_text_7gxWGt": {
       "type": "image-with-text",
       "blocks": {
@@ -136,6 +212,7 @@
         "text_PePwpm",
         "button_kEi6Qw"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/sole-luna-seletti-arico_aee9d784-b96a-47fd-8b55-8d46e95168f1.webp",
@@ -211,10 +288,10 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_tdPnkh": {
+    "multicolumn_kp8jzB": {
       "type": "multicolumn",
       "blocks": {
-        "column_73YVad": {
+        "column_dWcY4c": {
           "type": "column",
           "settings": {
             "title": "",
@@ -223,7 +300,7 @@
             "link": ""
           }
         },
-        "column_ARgyfM": {
+        "column_wpDBVQ": {
           "type": "column",
           "settings": {
             "title": "",
@@ -234,8 +311,8 @@
         }
       },
       "block_order": [
-        "column_73YVad",
-        "column_ARgyfM"
+        "column_dWcY4c",
+        "column_wpDBVQ"
       ],
       "settings": {
         "title": "Le Collezioni Seletti",
@@ -1067,9 +1144,11 @@
     "banner",
     "multicolumn_4fT4dH",
     "image_banner_dc8VCJ",
+    "multicolumn_tdPnkh",
+    "image_banner_nttVbF",
     "image_with_text_7gxWGt",
     "image_with_text_CQDLVR",
-    "multicolumn_tdPnkh",
+    "multicolumn_kp8jzB",
     "collection_list_DFkntc",
     "collection_list_LxpCcQ",
     "collection_list_kdtLc8",
