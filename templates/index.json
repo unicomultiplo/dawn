@@ -57,7 +57,7 @@
             "heading_size": "h1",
             "subheading": "PROMO fino al 25/07/2025",
             "button_label": "SELETTI PROMO",
-            "link": "shopify://collections/offerte-e-promo",
+            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending#shopify-section-template--23127397794057__product-grid",
             "button_style_secondary": false,
             "box_align": "top-left",
             "show_text_box": false,
