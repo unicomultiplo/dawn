@@ -50,6 +50,7 @@
         },
         "slide_m8wDMT": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/sdraio-seletti-promo.webp",
             "heading": "SPECIALE SELETTI",

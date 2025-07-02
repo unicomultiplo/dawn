@@ -153,6 +153,64 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_CQDLVR": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_iqNgby": {
+          "type": "heading",
+          "settings": {
+            "heading": "Seletti: NOVITA'",
+            "heading_size": "h1"
+          }
+        },
+        "caption_FPNtrf": {
+          "type": "caption",
+          "settings": {
+            "caption": "Sole e Luna – Le nuove decorazioni Magna Graecia firmate Antonio Aricò",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "text_Bb8ttc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Con <strong>Sole</strong> e <strong>Luna</strong>, Antonio Aricò arricchisce la collezione Magna Graecia per <strong>Seletti</strong>, dando vita a due pezzi scultorei in <strong>terracotta pura</strong>, vibranti di carattere e simbolismo. Non sono semplici decorazioni ma <strong>icone</strong>. </p><p>- Il Sole è energia, potenza, luce.<br/><br/>- La Luna è mistero, silenzio, bellezza.<br/><br/> <strong>Un racconto visivo che arreda e incanta.<br/></strong> Fatti a mano, con anima mediterranea e stile inconfondibile.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_htKChT": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scoprili ora",
+            "button_link": "shopify://products/seletti-magna-graecia-wall-decoration-sole",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_iqNgby",
+        "caption_FPNtrf",
+        "text_Bb8ttc",
+        "button_htKChT"
+      ],
+      "disabled": true,
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/saldi-estate-25-20-seletti-outdoor.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_tdPnkh": {
       "type": "multicolumn",
       "blocks": {
@@ -1010,6 +1068,7 @@
     "multicolumn_4fT4dH",
     "image_banner_dc8VCJ",
     "image_with_text_7gxWGt",
+    "image_with_text_CQDLVR",
     "multicolumn_tdPnkh",
     "collection_list_DFkntc",
     "collection_list_LxpCcQ",
