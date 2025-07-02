@@ -153,96 +153,6 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_gaht3W": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_EMQ8ey": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>SUPERFURNITURE</strong> - Un’esplosione pop di forme, colori e personalità",
-            "text": "<p><br/>Chi ha detto che l’arredo deve essere sobrio, uniforme, “a modo”? Con la collezione Super, Seletti firma una linea d’arredo che sfida ogni regola e trasforma lo spazio in un laboratorio creativo. Ogni pezzo è un piccolo statement: geometrie nette, colori pieni, texture patchwork che fanno della tua casa un luogo espressivo, personale, mai banale. <a href=\"/collections/superfurniture-seletti\" target=\"_blank\" title=\"Superfurniture Seletti\"><strong>SCOPRI ORA TUTTA LA COLLEZIONE!</strong></a><br/><br/></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_thtXjU": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_EMQ8ey",
-        "column_thtXjU"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "Seletti: NOVITA'",
-        "heading_size": "h0",
-        "image_width": "third",
-        "image_ratio": "square",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
-    "image_banner_dwHmCM": {
-      "type": "image-banner",
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/magna_graecia_banner_fluid_1.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-left",
-        "show_text_box": true,
-        "desktop_content_alignment": "left",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": true
-      }
-    },
-    "featured_collection_EihEex": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "heading_size": "h0",
-        "description": "",
-        "show_description": false,
-        "description_style": "subtitle",
-        "collection": "superfurniture-seletti",
-        "products_to_show": 8,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "scheme-2",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 24,
-        "padding_bottom": 24
-      }
-    },
     "multicolumn_tdPnkh": {
       "type": "multicolumn",
       "blocks": {
@@ -1100,9 +1010,6 @@
     "multicolumn_4fT4dH",
     "image_banner_dc8VCJ",
     "image_with_text_7gxWGt",
-    "multicolumn_gaht3W",
-    "image_banner_dwHmCM",
-    "featured_collection_EihEex",
     "multicolumn_tdPnkh",
     "collection_list_DFkntc",
     "collection_list_LxpCcQ",
