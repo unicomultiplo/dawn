@@ -50,14 +50,13 @@
         },
         "slide_m8wDMT": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/sdraio-seletti-promo.webp",
-            "heading": "Slide immagine",
+            "heading": "SPECIALE SELETTI",
             "heading_size": "h1",
-            "subheading": "Racconta la storia del tuo brand con video e immagini",
-            "button_label": "Etichetta pulsante",
-            "link": "",
+            "subheading": "Sconti -20 fino al 25/07/25",
+            "button_label": "Seletti promo -20%",
+            "link": "shopify://collections/offerte-e-promo",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
