@@ -50,20 +50,19 @@
         },
         "slide_m8wDMT": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/sdraio-seletti-promo.webp",
-            "heading": "SPECIALE SELETTI",
+            "image": "shopify://shop_images/lettino-seletti-promo-20.webp",
+            "heading": "SPECIALE SELETTI  -40%",
             "heading_size": "h1",
-            "subheading": "Sconti -20 fino al 25/07/25",
-            "button_label": "Seletti promo -20%",
+            "subheading": "PROMO fino al 25/07/2025",
+            "button_label": "SELETTI PROMO",
             "link": "shopify://collections/offerte-e-promo",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 20,
-            "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
         }
