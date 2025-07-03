@@ -174,7 +174,8 @@
       "custom_css": [
         ".qty-disclaimer {text-decoration: underline;}",
         ".klarna-disclaimer {border: 1px solid rgba(var(--color-foreground), 0.08); background-color: rgba(var(--color-foreground), 0.04); padding: 0.5em; border-radius: 0.3em; font-size: 0.85em;}",
-        ".product-form__buttons {max-width: none !important;}"
+        ".product-form__buttons {max-width: none !important;}",
+        ".feedaty_widget {padding: 0px !important;}"
       ],
       "settings": {
         "enable_sticky_info": false,
