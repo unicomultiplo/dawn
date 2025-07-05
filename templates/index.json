@@ -34,10 +34,10 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/promo-estate-2025-unicoemultiplo-3_d0c336f9-1946-4cd1-9f3a-209beceafc6d.webp",
-            "heading": "<strong>SUMMER PROMO</strong>",
+            "heading": "<strong>SUMMER PROMO FINO AL 50%</strong>",
             "heading_size": "h0",
-            "subheading": "<strong>Sconti fino al -50%</strong>",
-            "button_label": "Il momento perfetto per scegliere!",
+            "subheading": "",
+            "button_label": "Il momento perfetto per scegliere,  VAI!",
             "link": "shopify://collections/offerte-e-promo",
             "button_style_secondary": false,
             "box_align": "middle-center",
