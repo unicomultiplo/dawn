@@ -374,10 +374,10 @@
         "column_qimwBB": {
           "type": "column",
           "settings": {
-            "title": "<strong>Il Kit dell'Estate</strong>",
-            "text": "<p>Telo e borsa mare con le iconiche grafiche di Disegnetti Depressetti</p>",
+            "title": "<strong>Collezione Sweetie</strong>",
+            "text": "<p>Aggiungi un tocco di dolcezza alla tua quotidiano con la collezione Sweetie. </p><p> Un design delizioso che unisce praticità e fascino giocoso.<br/><br/></p>",
             "link_label": "Acquista ora",
-            "link": "shopify://collections/disegnetti-depressetti"
+            "link": "shopify://collections/doiy"
           }
         }
       },
