@@ -344,7 +344,7 @@
         "column_XrjaiE": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/borsa-di-tela-disegnetti-depressetti_fd252b0f-11b2-4661-998d-d0dd28631700.jpg",
+            "image": "shopify://shop_images/Doiy-design-scatola.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -354,17 +354,17 @@
         "column_XCzETy": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/telo-mare-disegnetti-depressetti_764fbe3e-2a20-4ae4-87cf-2e8e8c4fc819.jpg",
+            "image": "shopify://shop_images/Doiy-design-tazza.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/products/disegnetti-depressetti-telo-mare-mi-devo-calmare?_pos=3&_sid=04a1d1482&_ss=r"
+            "link": "https://www.unicoemultiplo.com/products/doiy-sweetie-mug"
           }
         },
         "column_RUzwg4": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/telo-mare-mi-devo-calmare-disegnetti-depressetti.png",
+            "image": "shopify://shop_images/Doy-Design-zucchewriera.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -395,7 +395,7 @@
         ".multicolumn-list__item:last-child .multicolumn-card__info {display: flex; flex-direction: column;}"
       ],
       "settings": {
-        "title": "Disegnetti Depressetti",
+        "title": "Doiy Design",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
