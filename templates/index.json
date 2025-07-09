@@ -135,6 +135,7 @@
     },
     "separator_yHaRH3": {
       "type": "separator",
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "line_thickness": 1
@@ -395,7 +396,7 @@
         ".multicolumn-list__item:last-child .multicolumn-card__info {display: flex; flex-direction: column;}"
       ],
       "settings": {
-        "title": "Doiy Design",
+        "title": "NUOVI ARRIVI: Doiy Design",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
