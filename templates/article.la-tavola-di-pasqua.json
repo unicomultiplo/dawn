@@ -25,12 +25,6 @@
             "blog_show_author": false
           }
         },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        },
         "content": {
           "type": "content",
           "settings": {}
@@ -39,13 +33,97 @@
       "block_order": [
         "featured_image",
         "title",
-        "share",
         "content"
       ],
       "settings": {}
+    },
+    "multicolumn_WpyCnX": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_9GQxbK": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>É in arrivo la domenica più importante dell’anno: la Pasqua. Un bellissimo momento di festa, famiglia e tradizione. Come in ogni ricorrenza, la preparazione della tavola è fondamentale per creare la giusta atmosfera.</p><h3><br/>Ma <strong>come decorare la tua Tavola di Pasqua</strong> quest’anno?</h3>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_MeYF33": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Stili e colori </strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_RLU6LC": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>I Piatti</strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_UekAy3": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>I Bicchieri</strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GUkhpY": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Le Posate</strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_nBpTTT": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>I Centrotavola</strong>",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/amore-mio-brandani"
+          }
+        }
+      },
+      "block_order": [
+        "column_9GQxbK",
+        "column_MeYF33",
+        "column_RLU6LC",
+        "column_UekAy3",
+        "column_GUkhpY",
+        "column_nBpTTT"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "multicolumn_WpyCnX"
   ]
 }
