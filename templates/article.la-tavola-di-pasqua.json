@@ -91,7 +91,7 @@
             "title": "<strong>I Centrotavola</strong>",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/amore-mio-brandani"
+            "link": ""
           }
         }
       },
@@ -120,10 +120,159 @@
         "padding_top": 0,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_NXth3x": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_BMNcXV": {
+          "type": "heading",
+          "settings": {
+            "heading": "Come apparecchiare la Tavola a Pasqua? Lo stile, i colori, gli abbinamenti",
+            "heading_size": "h1"
+          }
+        },
+        "text_8K94gP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Crea un allestimento unico grazie ad una<em>mise-en-place</em>festosa, innovativa e di design con  i nostri consigli di stile!<br/><br/></p><ul><li><strong> Utilizza piatti di diversi colori e forme</strong> per un look eclettico e alla moda, come vuole la proposta <a href=\"/collections/bitossi-home-funky-table-tavola-scomposta\" title=\"La Tavola Scomposta Bitossi Home\"><strong>“Tavola Scomposta”</strong></a> di Bitossi Home: la regina delle tavole originali.</li><li>Opta per <strong>piatti in porcellana bianca con decori blu</strong> se preferisci un aspetto classico e raffinato.</li><li>Abbinamenti semplici come <strong>posate dorate o argentate</strong>, bicchieri trasparenti e <strong>tovaglioli in lino naturale</strong> conferiscono classe senza risultare eccessivi.</li><li><strong>Completa il look con un centrotavola di fiori freschi</strong> o una corona di fiori primaverili per un tocco floreale e festoso.</li></ul>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_BMNcXV",
+        "text_8K94gP"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/SEOon_Posate-La-Tavola-di-Pasqua.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_FqhcGf": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_FtXYnR": {
+          "type": "heading",
+          "settings": {
+            "heading": "Il servizio di Piatti per Pasqua: una scelta tutt'altro che banale",
+            "heading_size": "h1"
+          }
+        },
+        "text_nQJj79": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Il <strong>servizio piatti per Pasqua</strong> è la prima scelta indispensabile da prendere, non a caso, molte famiglie preferiscono regalare (e rivecere) un servizio di piatti completo piuttosto che decorazioni o altri complementi d’arredo.</p><p>Per aiutarti a trovare un <strong>servizio di piatti pasquali</strong> degni di uno squisito menu, non potevamo che affidarci ai nostri fidati esperti di design: <a href=\"/collections/bitossi-home\" title=\"Bitossi Home\">Bitossi Home,</a> <a href=\"/collections/knindustrie\" title=\"KnIndustrie\">KnIndustrie</a> e <a href=\"/collections/seletti\" title=\"Seletti\">Seletti</a>.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FtXYnR",
+        "text_nQJj79"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Bitossi-Home-Piatti_1.webp",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "bottom",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_WBcUcW": {
+      "type": "multirow",
+      "blocks": {
+        "row_QrcyLc": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-Home-Novita-per-la-tavola-di-san-valentino.jpg",
+            "caption": "Bitossi Home",
+            "heading": "\"Il Frutto della Passione\" - Connubio di Arte e Moda",
+            "text": "<p>Ecco come portare un tocco di <strong>eccentricità e originalità</strong> direttamente sulla tua tavola!</p><p><a href=\"/collections/bitossi-home-il-frutto-della-passione-bitossi-home\" title=\"Il Frutto della Passione Bitossi Home\"><strong>“Il Frutto della Passione”</strong></a> è la nuova collezione di <a href=\"/collections/bitossi-home\" title=\"Bitossi Home\"><strong>Bitossi Home</strong></a>, che ha visto il proprio debutto alla Milano Design Week 2023.</p><p>La tradizione ceramica si abbraccia con una sensibilità artistica innovativa. Un tripudio di colori e stili che si fondono per regalarti <strong>un’esperienza unica e gioiosa ad ogni pasto.</strong></p>",
+            "button_label": "SCOPRI LA COLLEZIONE",
+            "button_link": "shopify://collections/bitossi-home-il-frutto-della-passione-bitossi-home"
+          }
+        },
+        "row_Ywznn8": {
+          "type": "row",
+          "settings": {
+            "caption": "SELETTI",
+            "heading": "\"Acid Dishes\" - La Tradizione... Rinnovata!",
+            "text": "<p>Questa <a href=\"/collections/seletti-catalogo-prodotti-diesel-living\" title=\"Seletti Diesel Living\"><strong>collezione Diesel Living con Seletti</strong></a> reinterpreta lo stile classico in chiave moderna.</p><p><a href=\"https://www.unicoemultiplo.com/collections/seletti-diesel-living-seletti-classics-on-acid\"><strong>Classics on Acid</strong></a> è una linea davvero completa: dai piatti da zuppa o da frutta, fino alle ciotole di varie dimensioni.</p><p>L’eleganza del bianco incontra diverse tonalità del blu. <strong>Le pennellate si contorcono come figure sulla superficie dell’acqua increspata.</strong> Emergono incantevoli immagini dell’antica Cina, paesaggi, fiori e creature mitologiche.</p>",
+            "button_label": "SCOPRI LA COLLEZIONE",
+            "button_link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid"
+          }
+        },
+        "row_zYTcjd": {
+          "type": "row",
+          "settings": {
+            "caption": "Didascalia",
+            "heading": "Riga",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
+          }
+        },
+        "row_FHYFKf": {
+          "type": "row",
+          "settings": {
+            "caption": "Didascalia",
+            "heading": "Riga",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_QrcyLc",
+        "row_Ywznn8",
+        "row_zYTcjd",
+        "row_FHYFKf"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-1",
+        "row_color_scheme": "scheme-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "multicolumn_WpyCnX"
+    "multicolumn_WpyCnX",
+    "image_with_text_NXth3x",
+    "image_with_text_FqhcGf",
+    "multirow_WBcUcW"
   ]
 }
