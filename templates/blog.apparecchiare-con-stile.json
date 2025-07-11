@@ -1,0 +1,113 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-blog",
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "layout": "grid",
+        "show_image": true,
+        "image_height": "small",
+        "show_date": true,
+        "show_author": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_cgyUWg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_eAr7dK": {
+          "type": "heading",
+          "settings": {
+            "heading": "DESIGNER D'ECCEZIONE",
+            "heading_size": "h1"
+          }
+        },
+        "text_jDNphd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vorresti scoprire di più sulle<strong>menti geniali che danno vita agli oggetti di design</strong>e collaborano alle straordinarie collezioni dei brand più affermati? In questa rubrica dedicata ti raccontiamo storia e dettagli della loro vita e del loro concept creativo.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_eAr7dK",
+        "text_jDNphd"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "featured_blog_WP7X8m": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "blog": "designer-deccezione",
+        "post_limit": 4,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "newsletter_G9a3Mi": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_gpXrHG": {
+          "type": "heading",
+          "settings": {
+            "heading": "Iscriviti alle nostre email",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_XANcxm": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Sii tra i primi a scoprire le nuove collezioni e le offerte esclusive.</p>"
+          }
+        },
+        "email_form_9W6Unk": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_gpXrHG",
+        "paragraph_XANcxm",
+        "email_form_9W6Unk"
+      ],
+      "settings": {
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_cgyUWg",
+    "featured_blog_WP7X8m",
+    "newsletter_G9a3Mi"
+  ]
+}
