@@ -14,7 +14,7 @@
       "disabled": true,
       "custom_css": [],
       "settings": {
-        "layout": "grid",
+        "layout": "collage",
         "show_image": true,
         "image_height": "small",
         "show_date": true,
