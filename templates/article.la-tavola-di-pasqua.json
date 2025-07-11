@@ -238,11 +238,12 @@
         "row_FHYFKf": {
           "type": "row",
           "settings": {
-            "caption": "Didascalia",
-            "heading": "Riga",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
+            "image": "shopify://shop_images/Funky-Table-Bitossi-Home-Piatti.jpg",
+            "caption": "BITOSSI HOME",
+            "heading": "Bitossi Home \"La Tavola Scomposta\" che non smette mai di incantare!",
+            "text": "<p>Bitossi Home dà vita alla “<a href=\"/collections/fabula-bitossi-home\" title=\"Fabula Bitossi Home\"><strong>Tavola Scomposta - Fabula”</strong></a>, una collezione accogliente che porta in tavola una <em>mise-en-place</em> ironica e ricca di colori.</p><p><a href=\"/collections/fabula-bitossi-home\" title=\"Fabula Bitossi Home\"><strong>Questa collezione firmata Bitossi Home </strong></a>è pensata per una <strong>tavola di Pasqua </strong>che dona, attraverso un piacevole connubio di colori, un’elegante e dolce atmosfera.<br/></p>",
+            "button_label": "SCOPRI LA COLLEZIONE",
+            "button_link": "shopify://collections/fabula-bitossi-home"
           }
         }
       },
