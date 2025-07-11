@@ -186,9 +186,9 @@
       "settings": {
         "image": "shopify://shop_images/Bitossi-Home-Piatti_1.webp",
         "height": "medium",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "text_first",
-        "desktop_content_position": "bottom",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
@@ -269,6 +269,45 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_6D7wzF": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Dpgthz": {
+          "type": "heading",
+          "settings": {
+            "heading": "I Bicchieri per la Tavola Pasquale, dall'acqua al vino allo spumante o champagne",
+            "heading_size": "h1"
+          }
+        },
+        "text_XAFaPV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Non sarebbe la domenica di Pasqua senza una festa, e quale modo migliore per festeggiare se non concedendosi un po’ di vino, spumante o champagne? </p><p>Se ti stai chiedendo quali <a href=\"/collections/cucina-e-tavola-bicchieri-e-calici\" title=\"Bicchieri e Calici\"><strong>bicchieri di Pasqua</strong></a> scegliere, dai un’occhiata alla nostra selezione.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Dpgthz",
+        "text_XAFaPV"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Ichendorf-Set-Cactus-Calici-decorati-e-colorati.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -276,6 +315,7 @@
     "multicolumn_WpyCnX",
     "image_with_text_NXth3x",
     "image_with_text_FqhcGf",
-    "multirow_WBcUcW"
+    "multirow_WBcUcW",
+    "image_with_text_6D7wzF"
   ]
 }
