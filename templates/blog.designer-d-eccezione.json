@@ -29,14 +29,14 @@
         "heading_eAr7dK": {
           "type": "heading",
           "settings": {
-            "heading": "CUCINA CHE PASSIONE",
+            "heading": "DESIGNER D'ECCEZIONE",
             "heading_size": "h1"
           }
         },
         "text_jDNphd": {
           "type": "text",
           "settings": {
-            "text": "<p>Cucinare è un gesto di cura e di amore. Qui troverai <strong>consigli, trucchi e prodotti utili e funzionali </strong>per renderlo un vero piacere: solo amore, zero stress. Dai consigli per le migliori pentole e padelle a tante idee per ricette gustose: leggi e scopri di più!</p>"
+            "text": "<p>Vorresti scoprire di più sulle<strong>menti geniali che danno vita agli oggetti di design</strong>e collaborano alle straordinarie collezioni dei brand più affermati? In questa rubrica dedicata ti raccontiamo storia e dettagli della loro vita e del loro concept creativo.</p>"
           }
         }
       },
@@ -58,7 +58,7 @@
       "settings": {
         "heading": "Cucina che Passione",
         "heading_size": "h1",
-        "blog": "cucina-che-passione",
+        "blog": "designer-deccezione",
         "post_limit": 4,
         "columns_desktop": 2,
         "color_scheme": "",
