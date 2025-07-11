@@ -216,7 +216,7 @@
         "row_Ywznn8": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Seletti-piatti-diesel.jpg",
+            "image": "shopify://shop_images/Seletti-piatti-diesel.png",
             "caption": "SELETTI",
             "heading": "\"Acid Dishes\" - La Tradizione... Rinnovata!",
             "text": "<p>Questa <a href=\"/collections/seletti-catalogo-prodotti-diesel-living\" title=\"Seletti Diesel Living\"><strong>collezione Diesel Living con Seletti</strong></a> reinterpreta lo stile classico in chiave moderna.</p><p><a href=\"https://www.unicoemultiplo.com/collections/seletti-diesel-living-seletti-classics-on-acid\"><strong>Classics on Acid</strong></a> è una linea davvero completa: dai piatti da zuppa o da frutta, fino alle ciotole di varie dimensioni.</p><p>L’eleganza del bianco incontra diverse tonalità del blu. <strong>Le pennellate si contorcono come figure sulla superficie dell’acqua increspata.</strong> Emergono incantevoli immagini dell’antica Cina, paesaggi, fiori e creature mitologiche.</p>",
@@ -227,6 +227,7 @@
         "row_zYTcjd": {
           "type": "row",
           "settings": {
+            "image": "shopify://shop_images/mood-circles-Knindustrie-davide-oldani.webp",
             "caption": "Didascalia",
             "heading": "Riga",
             "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
