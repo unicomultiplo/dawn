@@ -76,8 +76,8 @@
         "heading_gpXrHG": {
           "type": "heading",
           "settings": {
-            "heading": "Iscriviti alle nostre email",
-            "heading_size": "h1"
+            "heading": "ISCRIVITI ALLA COMMUNITY U&M E ACCEDI A UN MONDO DI VANTAGGI!",
+            "heading_size": "h2"
           }
         },
         "paragraph_XANcxm": {
@@ -97,7 +97,7 @@
         "email_form_9W6Unk"
       ],
       "settings": {
-        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "scheme-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52

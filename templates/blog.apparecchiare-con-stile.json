@@ -76,14 +76,14 @@
         "heading_gpXrHG": {
           "type": "heading",
           "settings": {
-            "heading": "Iscriviti alle nostre email",
-            "heading_size": "h1"
+            "heading": "ISCRIVITI ALLA COMMUNITY U&M E ACCEDI A UN MONDO DI VANTAGGI!",
+            "heading_size": "h2"
           }
         },
         "paragraph_XANcxm": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Sii tra i primi a scoprire le nuove collezioni e le offerte esclusive.</p>"
+            "text": "<p>Consigli, idee e promozioni sempre a portata di click. <br/>Iscriviti Subito!</p><p></p>"
           }
         },
         "email_form_9W6Unk": {
@@ -97,7 +97,7 @@
         "email_form_9W6Unk"
       ],
       "settings": {
-        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "scheme-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
