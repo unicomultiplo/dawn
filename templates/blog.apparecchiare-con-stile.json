@@ -29,14 +29,14 @@
         "heading_eAr7dK": {
           "type": "heading",
           "settings": {
-            "heading": "DESIGNER D'ECCEZIONE",
+            "heading": "APPARECCHIARE CON STILE",
             "heading_size": "h1"
           }
         },
         "text_jDNphd": {
           "type": "text",
           "settings": {
-            "text": "<p>Vorresti scoprire di più sulle<strong>menti geniali che danno vita agli oggetti di design</strong>e collaborano alle straordinarie collezioni dei brand più affermati? In questa rubrica dedicata ti raccontiamo storia e dettagli della loro vita e del loro concept creativo.</p>"
+            "text": "<p>Proposte per apparecchiare con eleganza, ironia o semplicità: a te la scelta. Con Seletti, KnIndustrie, Bitossi e molto altro. Apparecchia per le feste, colora la vita di tutti i giorni… <strong>sedersi a tavola è sempre un’occasione speciale</strong>, vivila con stile!</p>"
           }
         }
       },
@@ -58,7 +58,7 @@
       "settings": {
         "heading": "",
         "heading_size": "h1",
-        "blog": "designer-deccezione",
+        "blog": "apparecchiare-con-stile",
         "post_limit": 4,
         "columns_desktop": 3,
         "color_scheme": "",
