@@ -255,7 +255,7 @@
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
-        "image_height": "medium",
+        "image_height": "small",
         "desktop_image_width": "small",
         "heading_size": "h1",
         "text_style": "body",
@@ -365,7 +365,7 @@
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
-        "image_height": "medium",
+        "image_height": "small",
         "desktop_image_width": "small",
         "heading_size": "h1",
         "text_style": "body",
@@ -379,6 +379,116 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_et4rKW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_bcL9mj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Scegliere le Posate per ogni portata: regole di stile e galateo",
+            "heading_size": "h1"
+          }
+        },
+        "text_GmGrm4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>La posata giusta può fare la differenza nel trasformare un pasto quotidiano in un’esperienza culinaria da ricordare, e non vogliamo mica che il tuo menù venga svantaggiato da posate non adeguate!</p><p>Per questo ti consigliamo solo set di alta qualità per <strong>apparecchiare la tavola a Pasqua</strong>, realizzati dai migliori esperti di <em>mise-en-place</em>: <a href=\"/collections/knindustrie-catalogo-prodotti-posate\" title=\"KnIndustrie: Posate\"><strong>KnIndustrie</strong></a><strong> </strong>e <a href=\"/collections/posate-bitossi-home\" title=\"Posate Bitossi Home\"><strong>Bitossi Home</strong></a>.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bcL9mj",
+        "text_GmGrm4"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/img-categoria-posate_360x_4d025c2a-b614-41a5-a541-f6e1490c1e6f.webp",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_TGNpHm": {
+      "type": "multirow",
+      "blocks": {
+        "row_97RkUn": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/BrickLanest.washedGold1.jpg",
+            "caption": "Didascalia",
+            "heading": "Riga",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
+          }
+        },
+        "row_trGkxn": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-home-posate.jpg",
+            "caption": "Didascalia",
+            "heading": "Riga",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
+          }
+        },
+        "row_KpiUBC": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-700-cucchiaino-moka-satin-1.jpg",
+            "caption": "Didascalia",
+            "heading": "Riga",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
+          }
+        },
+        "row_pHqHjt": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-Home-Favorita-Set-Posate-Oro.jpg",
+            "caption": "Didascalia",
+            "heading": "Riga",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_97RkUn",
+        "row_trGkxn",
+        "row_KpiUBC",
+        "row_pHqHjt"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -388,6 +498,8 @@
     "image_with_text_FqhcGf",
     "multirow_WBcUcW",
     "image_with_text_6D7wzF",
-    "multirow_gaUUHh"
+    "multirow_gaUUHh",
+    "image_with_text_et4rKW",
+    "multirow_TGNpHm"
   ]
 }
