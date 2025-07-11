@@ -42,7 +42,7 @@
           "type": "announcement",
           "settings": {
             "text": "SUMMER PROMO FINO AL -50%!",
-            "link": "https://blog.unicoemultiplo.com/"
+            "link": "shopify://collections/offerte-e-promo"
           }
         }
       },
