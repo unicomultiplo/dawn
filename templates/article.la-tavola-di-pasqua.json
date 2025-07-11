@@ -308,6 +308,77 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multirow_gaUUHh": {
+      "type": "multirow",
+      "blocks": {
+        "row_Qbc8RM": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Groove_details_1.webp",
+            "caption": "KnIndustrie",
+            "heading": "\"Groove\" - Set 6 Bicchieri Tumbler",
+            "text": "<p>Groove è la <a href=\"/products/knindustrie-groove-set-6-tumbler-quadrati\" title=\"KnIndustrie Groove Set 6 Tumbler Quadrati\"><strong>collezione di bicchieri dal decoro rigato</strong></a> e dal design pulito, proposto da <a href=\"/collections/knindustrie\" title=\"KnIndustrie\"><strong>Knindustrie</strong></a>. Una scanalatura dal design piacevole e ricercato impreziosisce con eleganza il vetro borosilicato sottilissimo.</p><p>Disponibili nella versione a quadrata e a tronco cono, perfetti per moltiplicare l’allegria del tuo aperitivo pasquale. </p>",
+            "button_label": "SCOPRI LA COLLEZIONE",
+            "button_link": "shopify://collections/groove-knindustrie"
+          }
+        },
+        "row_Ptep7c": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Ichendorf-Set-Botanica.jpg",
+            "caption": "SELETTI",
+            "heading": "\"Acid Dishes\" - La Tradizione... Rinnovata!",
+            "text": "<p>Queste <a href=\"/products/ichendorf-botanica-coppa-champagne-set\" title=\"Ichendorf Botanica Coppa Champagne  Set 6 pz\"><strong>Coppe da Champagne</strong></a> sono un’incantevole e romantica proposta di <a href=\"/collections/ichendorf-catalogo\" title=\"Ichendorf\"><strong>Ichendorf Milano</strong>.</a></p><p>Un bicchiere in vetro originale e raffinato, ispirato alla bellezza della natura. Con il suo delicato design floreale e l’elegante effetto ottico, è una vera opera d’arte sulla tua tavola.</p><p>Pronti per il primo brindisi in festa?</p>",
+            "button_label": "SCOPRI IL SET",
+            "button_link": "shopify://products/ichendorf-botanica-coppa-champagne-set"
+          }
+        },
+        "row_Gd8Geh": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/mood-circles-Knindustrie-davide-oldani.webp",
+            "caption": "Knindustrie",
+            "heading": "\"Composizione Circles\" - Il Set Polimaterico di Davide Oldani",
+            "text": "<p><a href=\"/products/knindustrie-composizione-circles-set-di-quattro-piatti-tavola\" title=\"KnIndustrie Composizione Circles - Set piatti tavola 4 pz\"><strong>La composizione Circles</strong></a> KnIndustrie, firmata <a href=\"/collections/knindustrie-catalogo-prodotti-davide-oldani\" title=\"Davide Oldani e KnIndustrie\"><strong>Davide Oldani</strong></a> unisce quattro piatti, due in Gres e due in fine Bone China, per un allestimento di grande impatto estetico. Ogni pezzo è unico nella finitura e nella forma, dove le linee irregolari incontrano materiali preziosi in un<strong> raffinato gioco di contrasti.</strong> <br/></p><p>Pensata per chi ama un design<strong> internazionale e contemporaneo</strong>, <a href=\"/products/knindustrie-composizione-circles-set-di-quattro-piatti-tavola\" title=\"KnIndustrie Composizione Circles - Set piatti tavola 4 pz\"><strong>Circles</strong></a> trasforma ogni portata in un’esperienza visiva: l’equilibrio sofisticato di forme e sfumature esalta sapori e colori.<br/></p>",
+            "button_label": "SCOPRI LA COMPOSIZIONE",
+            "button_link": "shopify://products/knindustrie-composizione-circles-set-di-quattro-piatti-tavola"
+          }
+        },
+        "row_RfTcbT": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Funky-Table-Bitossi-Home-Piatti.jpg",
+            "caption": "BITOSSI HOME",
+            "heading": "Bitossi Home \"La Tavola Scomposta\" che non smette mai di incantare!",
+            "text": "<p>Bitossi Home dà vita alla “<a href=\"/collections/fabula-bitossi-home\" title=\"Fabula Bitossi Home\"><strong>Tavola Scomposta - Fabula”</strong></a>, una collezione accogliente che porta in tavola una <em>mise-en-place</em> ironica e ricca di colori.</p><p><a href=\"/collections/fabula-bitossi-home\" title=\"Fabula Bitossi Home\"><strong>Questa collezione firmata Bitossi Home </strong></a>è pensata per una <strong>tavola di Pasqua </strong>che dona, attraverso un piacevole connubio di colori, un’elegante e dolce atmosfera.<br/></p>",
+            "button_label": "SCOPRI LA COLLEZIONE",
+            "button_link": "shopify://collections/fabula-bitossi-home"
+          }
+        }
+      },
+      "block_order": [
+        "row_Qbc8RM",
+        "row_Ptep7c",
+        "row_Gd8Geh",
+        "row_RfTcbT"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-1",
+        "row_color_scheme": "scheme-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -316,6 +387,7 @@
     "image_with_text_NXth3x",
     "image_with_text_FqhcGf",
     "multirow_WBcUcW",
-    "image_with_text_6D7wzF"
+    "image_with_text_6D7wzF",
+    "multirow_gaUUHh"
   ]
 }
