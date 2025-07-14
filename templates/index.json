@@ -830,7 +830,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Guida all'acquisto",
+        "title": "Guida All'acquisto",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "portrait",
