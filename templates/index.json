@@ -785,7 +785,7 @@
           "settings": {
             "image": "shopify://shop_images/knindustrie-abct-padella-wok-diametro-32-cm-bianca-1.jpg",
             "title": "",
-            "text": "<h3><br/>Padelle antiaderenti<br/><br/></h3><p>Guida completa per scegliere il modello giusto per la tua cucina</p>",
+            "text": "<h3><br/>Padelle Antiaderenti<br/><br/></h3><p>Guida completa per scegliere il modello giusto per la tua cucina</p>",
             "link_label": "Padelle antiaderenti",
             "link": "shopify://pages/padelle-antiaderenti-guida-completa"
           }
@@ -828,7 +828,6 @@
         "column_kzhqr6",
         "column_Wcerxb"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Guida all'acquisto",
