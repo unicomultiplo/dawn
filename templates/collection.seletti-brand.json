@@ -81,6 +81,7 @@
       "block_order": [
         "buttons_6hqgbD"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/seletti_Amanita.webp",
         "image_2": "shopify://shop_images/vitamin-seletti-unico_-e-multiplo_528777c9-832a-4355-9284-2dcdf2312db2.png",
@@ -99,6 +100,13 @@
     "image_banner_nttVbF": {
       "type": "image-banner",
       "blocks": {
+        "heading_bmFJMb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Promo Seletti",
+            "heading_size": "h1"
+          }
+        },
         "buttons_ayiD3g": {
           "type": "buttons",
           "settings": {
@@ -112,18 +120,18 @@
         }
       },
       "block_order": [
+        "heading_bmFJMb",
         "buttons_ayiD3g"
       ],
-      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/sconto-20-lettino-promo.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
-        "show_text_box": false,
+        "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "color_scheme": "scheme-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
