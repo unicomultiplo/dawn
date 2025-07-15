@@ -828,6 +828,7 @@
         "column_kzhqr6",
         "column_Wcerxb"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Guida All'acquisto",

@@ -85,10 +85,10 @@
         "column_PjDh4N": {
           "type": "column",
           "settings": {
-            "title": "<a href=\"/collections/bitossi-home-abracadabra\" title=\"Abracadabra Bitossi Home\"><strong>Piatti Abracadabra Bitossi Home a -15%!</strong></a>",
-            "text": "<p>Linee grafiche, colori decisi e quel tocco creativo che rende ogni tavola più divertente e personale: i piatti <strong>Abracadabra</strong> firmati Bitossi Home tornano protagonisti… questa volta con <strong>uno sconto del 15%</strong> valido solo per un tempo limitato. Se li avevi adocchiati da tempo, questo è il momento giusto per portarli a casa!</p><h3><br/><a href=\"/collections/bitossi-home-abracadabra\" title=\"Abracadabra Bitossi Home\">👉 <strong>Scopri l’offerta e collezionali tutti</strong></a><br/></h3>",
-            "link_label": "",
-            "link": ""
+            "title": "<strong>Piatti Abracadabra Bitossi Home a -15%!</strong>",
+            "text": "<p>Linee grafiche, colori decisi e quel tocco creativo che rende ogni tavola più divertente e personale: i piatti <strong>Abracadabra</strong> firmati Bitossi Home tornano protagonisti… questa volta con <strong>uno sconto del 15%</strong> valido solo per un tempo limitato. Se li avevi adocchiati da tempo, questo è il momento giusto per portarli a casa!</p>",
+            "link_label": "👉 Scopri l’offerta e collezionali tutti",
+            "link": "shopify://collections/bitossi-home-abracadabra"
           }
         },
         "column_f8NyNW": {
@@ -128,16 +128,16 @@
         "heading_dJgdnD": {
           "type": "heading",
           "settings": {
-            "heading": "<a href=\"/collections/bitossi-home-abracadabra\" title=\"Abracadabra Bitossi Home\">Piatti Abracadabra Bitossi Home a -15%!</a>",
+            "heading": "Piatti Abracadabra Bitossi Home a -15%!",
             "heading_size": "h1"
           }
         },
         "buttons_Abd6WT": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
+            "button_label_1": "👉 Scopri l’offerta e collezionali tutti",
+            "button_link_1": "shopify://collections/bitossi-home-abracadabra",
+            "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
