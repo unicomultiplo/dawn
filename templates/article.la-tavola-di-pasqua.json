@@ -539,8 +539,8 @@
             "caption": "Seletti",
             "heading": "\"Hybrid\" - Vaso Melania",
             "text": "<p><a href=\"/products/1518-seletti-hybrid-vaso-melania\" title=\"Seletti Hybrid Vaso Melania\"><strong>Melania, della collezione “Hybrid”</strong></a> firmata Seletti, è un elegante vaso in porcellana che crea un connubio tra due stili e culture diverse.</p><p>Un <strong>centrotavola pasquale con fiori </strong>che dona un aspetto affascinante a qualunque apparecchiatura.</p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
+            "button_label": "Vasi Seletti",
+            "button_link": "shopify://collections/vasi-seletti"
           }
         },
         "row_RKJaYG": {
@@ -557,6 +557,17 @@
         "row_gtPRNU": {
           "type": "row",
           "settings": {
+            "image": "shopify://shop_images/Shapeless-KnIndustrie-Cestino-Portapane_1.jpg",
+            "caption": "KnIndustrie",
+            "heading": "\"Shapeless\" - Cestino Porta Pane",
+            "text": "<p><strong>Il pane ha sempre un posto speciale sulla tavola di Pasqua!</strong></p><p><a href=\"/products/knindustrie-shapeless-cestino-portapane\" title=\"KnIndustrie Shapeless Cestino Portapane\"><strong>Shapeless</strong></a> è un cestino per il pane, pensato e prodotto da <strong>KnIndustrie</strong>. Realizzato in vetro borosilicato, dal design minimalista ed elegante.</p><p>Dona un senso di cura del dettaglio alla tua tavola, con un tocco di carattere e design.</p>",
+            "button_label": "Scopri Shapeless ",
+            "button_link": "shopify://products/knindustrie-shapeless-cestino-portapane"
+          }
+        },
+        "row_TLaB9L": {
+          "type": "row",
+          "settings": {
             "caption": "Didascalia",
             "heading": "Riga",
             "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
@@ -568,7 +579,8 @@
       "block_order": [
         "row_gQh3m9",
         "row_RKJaYG",
-        "row_gtPRNU"
+        "row_gtPRNU",
+        "row_TLaB9L"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
