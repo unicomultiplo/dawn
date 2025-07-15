@@ -532,15 +532,15 @@
     "multirow_YEPYXg": {
       "type": "multirow",
       "blocks": {
-        "row_gQh3m9": {
+        "row_TLaB9L": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/seletti-hybrid-vaso-melania350x2503-300x214.jpg",
-            "caption": "Seletti",
-            "heading": "\"Hybrid\" - Vaso Melania",
-            "text": "<p><a href=\"/products/1518-seletti-hybrid-vaso-melania\" title=\"Seletti Hybrid Vaso Melania\"><strong>Melania, della collezione “Hybrid”</strong></a> firmata Seletti, è un elegante vaso in porcellana che crea un connubio tra due stili e culture diverse.</p><p>Un <strong>centrotavola pasquale con fiori </strong>che dona un aspetto affascinante a qualunque apparecchiatura.</p>",
-            "button_label": "Vasi Seletti",
-            "button_link": "shopify://collections/vasi-seletti"
+            "image": "shopify://shop_images/knindustrie-materials-vassoio-girevole-bianco350x2501-300x214.jpg",
+            "caption": "Didascalia",
+            "heading": "Riga",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
           }
         },
         "row_RKJaYG": {
@@ -554,6 +554,17 @@
             "button_link": "shopify://collections/centrotavola-gastronomico-knindustrie"
           }
         },
+        "row_gQh3m9": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/seletti-hybrid-vaso-melania350x2503-300x214.jpg",
+            "caption": "Seletti",
+            "heading": "\"Hybrid\" - Vaso Melania",
+            "text": "<p><a href=\"/products/1518-seletti-hybrid-vaso-melania\" title=\"Seletti Hybrid Vaso Melania\"><strong>Melania, della collezione “Hybrid”</strong></a> firmata Seletti, è un elegante vaso in porcellana che crea un connubio tra due stili e culture diverse.</p><p>Un <strong>centrotavola pasquale con fiori </strong>che dona un aspetto affascinante a qualunque apparecchiatura.</p>",
+            "button_label": "Vasi Seletti",
+            "button_link": "shopify://collections/vasi-seletti"
+          }
+        },
         "row_gtPRNU": {
           "type": "row",
           "settings": {
@@ -565,22 +576,24 @@
             "button_link": "shopify://products/knindustrie-shapeless-cestino-portapane"
           }
         },
-        "row_TLaB9L": {
+        "row_6QPUDc": {
           "type": "row",
           "settings": {
-            "caption": "Didascalia",
-            "heading": "Riga",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
+            "image": "shopify://shop_images/miho-joshua-candelabro-artigianale350x250-300x214.jpg",
+            "caption": "Miho",
+            "heading": "Candelabri Artigianali",
+            "text": "<p>Miho propone <strong>eccentrici candelabri fatti interamente a mano</strong>, lavorati nei minimi dettagli che ricordano gli oggetti antichi dei nostri nonni. </p><p>Posti al centro della tua <strong>tavola di Pasqua</strong>, doneranno un aspetto di ricercatezza all’intera <em>mise-en-place</em>.</p>",
+            "button_label": "Candelabri Artigianali",
+            "button_link": "https://www.unicoemultiplo.com/collections/miho?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Candelabri+e+Candele&sort_by=manual"
           }
         }
       },
       "block_order": [
-        "row_gQh3m9",
+        "row_TLaB9L",
         "row_RKJaYG",
+        "row_gQh3m9",
         "row_gtPRNU",
-        "row_TLaB9L"
+        "row_6QPUDc"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
