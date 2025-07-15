@@ -710,6 +710,13 @@
         "padding_bottom": 36
       }
     },
+    "separator_nbNJQV": {
+      "type": "separator",
+      "name": "Separator Line",
+      "settings": {
+        "line_thickness": 1
+      }
+    },
     "image_banner_CKVzFq": {
       "type": "image-banner",
       "blocks": {
@@ -774,6 +781,7 @@
     "multirow_YEPYXg",
     "image_with_text_jEbVKr",
     "multirow_nKmn8r",
+    "separator_nbNJQV",
     "image_banner_CKVzFq"
   ]
 }
