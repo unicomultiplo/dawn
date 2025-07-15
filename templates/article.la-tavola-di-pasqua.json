@@ -426,8 +426,8 @@
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/BrickLanest.washedGold1.jpg",
-            "caption": "Didascalia",
-            "heading": "Riga",
+            "caption": "KnIndustrie",
+            "heading": "\"Brick Lane\" Finitura Gold",
             "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
             "button_label": "Etichetta pulsante",
             "button_link": ""
@@ -448,10 +448,10 @@
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/knindustrie-700-cucchiaino-moka-satin-1.jpg",
-            "caption": "Didascalia",
-            "heading": "Riga",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
+            "caption": "Knindustrie",
+            "heading": "\"700\" - Servizio Posate Satin",
+            "text": "<p>Le<a href=\"/collections/knindustrie-catalogo-prodotti-posate\" title=\"KnIndustrie: Posate\"> <strong>posate KnIndustrie</strong></a> sono ispirate alle antiche posate del XVIII secolo, realizzate <strong>in acciaio satinato</strong>. Il design ricorda le forme classiche dei manici di posate a corte, dove la cura dei dettagli era fondamentale per esprimere eleganza e raffinatezza.</p><p>Se desideri donare un tocco d’altri tempo alla tua <strong>tavola di Pasqua</strong>, KnIndustrie ha realizzato le posate giuste per te.</p>",
+            "button_label": "Scopri \"700\"",
             "button_link": ""
           }
         },
@@ -459,11 +459,11 @@
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/Bitossi-Home-Favorita-Set-Posate-Oro.jpg",
-            "caption": "Didascalia",
-            "heading": "Riga",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
+            "caption": "Bitossi Home",
+            "heading": "\"Romantica\" - Set Posate in Oro Opaco",
+            "text": "<p>E perché non osare con un tocco di oro per impreziosire la tua tavola delle feste? <strong>“</strong><a href=\"/products/bitossi-home-vintage-favorita-set-posate-oro-opaco\" title=\"Bitossi Home Vintage Romantica Set Posate Oro Opaco 24 PZ\"><strong>Romantica</strong></a><strong>”</strong> è il set completo di <strong>Bitossi Home</strong> con elegante finitura gold, dal sapore vintage.</p><p>Un set per 6 posti tavola completi di forchetta, cucchiaio, coltelli e cucchiaino.. e <strong>la tua tavola di Pasqua è pronta a brillare!</strong></p>",
+            "button_label": "Scopri il Set",
+            "button_link": "shopify://products/bitossi-home-vintage-favorita-set-posate-oro-opaco"
           }
         }
       },
