@@ -546,11 +546,12 @@
         "row_RKJaYG": {
           "type": "row",
           "settings": {
-            "caption": "Didascalia",
-            "heading": "Riga",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
+            "image": "shopify://shop_images/KnIndustrie-Centrotavola-Gastronomico-Essenze-1024x768.jpg",
+            "caption": "KnIndustrie",
+            "heading": "\"Essenze\" - Centrotavola Gastronomico",
+            "text": "<p>Il <a href=\"/collections/centrotavola-gastronomico-knindustrie\" title=\"Centrotavola Gastronomico KnIndustrie\"><strong>Centrotavola Gastronomico Essenze</strong></a> incarna il vero significato delle feste e della Pasqua.</p><p>Si tratta di un progetto affascinante della designer Sirine Graiaa, <strong>incentrato sulla condivisione e l’aggregazione</strong>, per impreziosire una tavola accogliente e in grande stile. </p><p>Un <strong>centrotavola pasquale</strong> per una <em>mise-en-place</em> distinta e di classe.</p>",
+            "button_label": "Centrotavola Gastronomici",
+            "button_link": "shopify://collections/centrotavola-gastronomico-knindustrie"
           }
         },
         "row_gtPRNU": {
