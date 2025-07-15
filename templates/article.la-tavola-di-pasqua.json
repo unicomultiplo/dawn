@@ -584,6 +584,55 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_banner_CKVzFq": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_VARcwa": {
+          "type": "heading",
+          "settings": {
+            "heading": "Idee Regalo per la Pasqua",
+            "heading_size": "h1"
+          }
+        },
+        "text_B9xRqC": {
+          "type": "text",
+          "settings": {
+            "text": "Le nostre migliori proposte originali  e di design!",
+            "text_style": "body"
+          }
+        },
+        "buttons_8cGc3R": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Scoprile tutte!",
+            "button_link_1": "shopify://collections/idee-regalo-pasqua",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_VARcwa",
+        "text_B9xRqC",
+        "buttons_8cGc3R"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/easter-ears-eggs.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -597,6 +646,7 @@
     "image_with_text_et4rKW",
     "multirow_TGNpHm",
     "image_with_text_789DBP",
-    "multirow_nKmn8r"
+    "multirow_nKmn8r",
+    "image_banner_CKVzFq"
   ]
 }
