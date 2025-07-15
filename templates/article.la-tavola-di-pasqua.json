@@ -658,31 +658,33 @@
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/bitossi-home-lettering_ruqwsqrc8px4g1ka.jpg",
-            "caption": "Bitossi Home \"Lettering\" - Piattino da dessert",
-            "heading": "Riga",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
+            "caption": "Bitossi Home",
+            "heading": "\"Lettering\" - Piattino da dessert",
+            "text": "<p>Per una scelta davvero originale, arriva <strong>“</strong><a href=\"/products/3115-bitossi-home-lettering\" title=\"Bitossi Home Lettering Piattino da dessert Ø 12\"><strong>Lettering”, collezione firmata Bitossi Home</strong></a>, che propone dei piattini pane in porcellana bianca con una lettera d’oro al centro.</p><p>Se vuoi davvero che il tuo <strong>segnaposto Pasquale</strong> sia diverso, unico, non esitare e dona un tocco originale in pieno stile Bitossi Home.</p>",
+            "button_label": "Scopri Lettering",
+            "button_link": "shopify://products/3115-bitossi-home-lettering"
           }
         },
         "row_NqyfWc": {
           "type": "row",
           "settings": {
-            "caption": "Didascalia",
-            "heading": "Riga",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
+            "image": "shopify://shop_images/Bitossi_Home_Smerlo_Se-_4-tovagliette-bordo-smerlato_1.jpg",
+            "caption": "Bitossi Home",
+            "heading": "\"Smerlo\" - Tovagliette Colorate con Bordo Smerlato",
+            "text": "<p>Sottopiatti e tovagliette portano alla tavola un pizzico di magia e particolarità.</p><p>Le <a href=\"/collections/bitossi-home-smerlo-bitossi-home\" title=\"Smerlo Bitossi Home\"><strong>tovagliette Smerlo di Bitossi Home</strong>,</a> in lino cotone con trattamento antimacchia sono disponibili in sei colori diversi e bordo sagomato a contrasto.</p><p>Un <strong>segnaposto variopinto per la tua tavola di Pasqua</strong> capace di mettere in risalto qualsiasi <em>mise-en-place</em>, dalle elaborate alle più minimali. </p>",
+            "button_label": "Scopri la Collezione",
+            "button_link": "shopify://collections/bitossi-home-smerlo-bitossi-home"
           }
         },
         "row_kmqAmU": {
           "type": "row",
           "settings": {
-            "caption": "Didascalia",
-            "heading": "Riga",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
+            "image": "shopify://shop_images/Seletti-Hybrid-Tovaglietta-Bersabea_1.jpg",
+            "caption": "Seletti",
+            "heading": "\"Hybrid\" - Tovagliette dell'incontro",
+            "text": "<p>Quando est e ovest si incontrano, arriva <strong>“</strong><a href=\"/collections/seletti-catalogo-prodotti-hybrid\" title=\"Seletti Hybrid\"><strong>Hybrid</strong></a><strong>”</strong>, una collezione ispirata alle antiche tradizioni orientale e occidentale.</p><p>La serie si compone di tre varianti, accumunate dalla netta linea centrale che unisce e separa Oriente e Occidente.</p><p>Un<strong> segnaposto di Pasqua</strong> eccentrico e originale: è Seletti.</p>",
+            "button_label": "Scopri le Tovagliette",
+            "button_link": "shopify://products/seletti-hybrid-tovaglietta-bersabea"
           }
         }
       },
