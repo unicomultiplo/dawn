@@ -407,7 +407,7 @@
         "image": "shopify://shop_images/img-categoria-posate_360x_4d025c2a-b614-41a5-a541-f6e1490c1e6f.webp",
         "height": "medium",
         "desktop_image_width": "small",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -529,6 +529,102 @@
         "padding_bottom": 36
       }
     },
+    "multirow_YEPYXg": {
+      "type": "multirow",
+      "blocks": {
+        "row_gQh3m9": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/seletti-hybrid-vaso-melania350x2503-300x214.jpg",
+            "caption": "Seletti",
+            "heading": "\"Hybrid\" - Vaso Melania",
+            "text": "<p><a href=\"/products/1518-seletti-hybrid-vaso-melania\" title=\"Seletti Hybrid Vaso Melania\"><strong>Melania, della collezione “Hybrid”</strong></a> firmata Seletti, è un elegante vaso in porcellana che crea un connubio tra due stili e culture diverse.</p><p>Un <strong>centrotavola pasquale con fiori </strong>che dona un aspetto affascinante a qualunque apparecchiatura.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
+          }
+        },
+        "row_RKJaYG": {
+          "type": "row",
+          "settings": {
+            "caption": "Didascalia",
+            "heading": "Riga",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
+          }
+        },
+        "row_gtPRNU": {
+          "type": "row",
+          "settings": {
+            "caption": "Didascalia",
+            "heading": "Riga",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_gQh3m9",
+        "row_RKJaYG",
+        "row_gtPRNU"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_jEbVKr": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_U9QXdV": {
+          "type": "heading",
+          "settings": {
+            "heading": "Segnaposto per la Tavola di Pasqua",
+            "heading_size": "h1"
+          }
+        },
+        "text_hGBY3g": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Il <strong>segnaposto per la tavola di Pasqua</strong> è un elemento da non sottovalutare, ricorda ai tuoi ospiti dove sedersi e dona un tocco di cura in più alla tua tavola.</p><p>Inutile dire che deve essere di qualità e buon gusto. Meglio ancora se si opta per qualcosa di originale e creativo, che salti all’occhio! </p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_U9QXdV",
+        "text_hGBY3g"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/knIndustrie-centrotavola-vetro-verde-qsvqe4s2ldj8rqsodhp18tfrvozao861d2dfxyujkw.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multirow_nKmn8r": {
       "type": "multirow",
       "blocks": {
@@ -591,14 +687,14 @@
         "heading_VARcwa": {
           "type": "heading",
           "settings": {
-            "heading": "Idee Regalo per la Pasqua",
-            "heading_size": "h1"
+            "heading": "Scopri anche le migliori idee di design per Regali di Pasqua!",
+            "heading_size": "h2"
           }
         },
         "text_B9xRqC": {
           "type": "text",
           "settings": {
-            "text": "Le nostre migliori proposte originali  e di design!",
+            "text": "Proposte fantasiose, originali, perfette da regalare o da farsi regalare e in grado di incontrare qualunque gusto personale.",
             "text_style": "body"
           }
         },
@@ -646,6 +742,8 @@
     "image_with_text_et4rKW",
     "multirow_TGNpHm",
     "image_with_text_789DBP",
+    "multirow_YEPYXg",
+    "image_with_text_jEbVKr",
     "multirow_nKmn8r",
     "image_banner_CKVzFq"
   ]
