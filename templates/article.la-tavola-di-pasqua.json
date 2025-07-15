@@ -536,11 +536,11 @@
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/knindustrie-materials-vassoio-girevole-bianco350x2501-300x214.jpg",
-            "caption": "Didascalia",
-            "heading": "Riga",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
+            "caption": "KnIndustrie",
+            "heading": "\"Materials\" - Vassoio Girevole",
+            "text": "<p>Un <a href=\"/products/knindustrie-centrotavola-gastronomico-girevole\" title=\"knIndustrie Centrotavola Gastronomico Girevole Bianco\"><strong>vassoio girevole, realizzato in marmo</strong></a>, che consente di scegliere la pietanza preferita semplicemente girandolo.</p><p>Ideale come <strong>centrotavola di Pasqua</strong> per conferire un aspetto sofisticato e minimale all’ambiente.</p>",
+            "button_label": "Materials - Vassoio Girevole",
+            "button_link": "shopify://products/knindustrie-centrotavola-gastronomico-girevole"
           }
         },
         "row_RKJaYG": {
