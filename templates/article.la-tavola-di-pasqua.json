@@ -295,7 +295,7 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/Ichendorf-Set-Cactus-Calici-decorati-e-colorati.jpg",
-        "height": "medium",
+        "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "middle",
@@ -405,7 +405,7 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/img-categoria-posate_360x_4d025c2a-b614-41a5-a541-f6e1490c1e6f.webp",
-        "height": "medium",
+        "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "middle",
@@ -515,7 +515,7 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/knIndustrie-centrotavola-vetro-verde-qsvqe4s2ldj8rqsodhp18tfrvozao861d2dfxyujkw.jpg",
-        "height": "medium",
+        "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "middle",
@@ -597,8 +597,8 @@
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
+        "image_height": "small",
+        "desktop_image_width": "small",
         "heading_size": "h1",
         "text_style": "body",
         "button_style": "secondary",
@@ -636,8 +636,8 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/knIndustrie-centrotavola-vetro-verde-qsvqe4s2ldj8rqsodhp18tfrvozao861d2dfxyujkw.jpg",
-        "height": "medium",
+        "image": "shopify://shop_images/Segnaposto-per-la-Tavola-di-Pasqua500x375_1.jpg",
+        "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "middle",
@@ -657,7 +657,8 @@
         "row_AHrB7f": {
           "type": "row",
           "settings": {
-            "caption": "Didascalia",
+            "image": "shopify://shop_images/bitossi-home-lettering_ruqwsqrc8px4g1ka.jpg",
+            "caption": "Bitossi Home \"Lettering\" - Piattino da dessert",
             "heading": "Riga",
             "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
             "button_label": "Etichetta pulsante",
