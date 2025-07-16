@@ -1012,15 +1012,15 @@
         "text_dDxAC8": {
           "type": "text",
           "settings": {
-            "text": "<p>Il <strong>segnaposto per la tavola di Pasqua</strong> è un elemento da non sottovalutare, ricorda ai tuoi ospiti dove sedersi e dona un tocco di cura in più alla tua tavola.</p><p>Inutile dire che deve essere di qualità e buon gusto. Meglio ancora se si opta per qualcosa di originale e creativo, che salti all’occhio! </p>",
+            "text": "<p><strong>L'arte </strong>non è per tutti, e se il tuo papà è un intenditore non puoi che regalargli qualcosa che gli ricordi sempre la sua bellissima <strong>passione</strong>. </p><p>Scopri la nostra <strong>unica selezione</strong> di idee regalo pensate per lui!</p>",
             "text_style": "body"
           }
         },
         "button_A3rxBF": {
           "type": "button",
           "settings": {
-            "button_label": "ESPLORA LE TOVAGLIETTE SEGNAPOSTO",
-            "button_link": "shopify://collections/cucina-e-tavola-tovaglie-e-tovagliette",
+            "button_label": "IDEE REGALO PER LUI",
+            "button_link": "shopify://collections/complementi-arredo-quadri-e-stampe",
             "button_style_secondary": true
           }
         }
