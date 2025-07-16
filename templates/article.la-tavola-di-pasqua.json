@@ -295,11 +295,20 @@
             "text": "<p>Non sarebbe la domenica di Pasqua senza una festa, e quale modo migliore per festeggiare se non concedendosi un po’ di vino, spumante o champagne? </p><p>Se ti stai chiedendo quali <a href=\"/collections/cucina-e-tavola-bicchieri-e-calici\" title=\"Bicchieri e Calici\"><strong>bicchieri di Pasqua</strong></a> scegliere, dai un’occhiata alla nostra selezione.</p>",
             "text_style": "body"
           }
+        },
+        "button_ntfc3G": {
+          "type": "button",
+          "settings": {
+            "button_label": "TROVA IL BICCHIERE PERFETTO",
+            "button_link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici",
+            "button_style_secondary": true
+          }
         }
       },
       "block_order": [
         "heading_Dpgthz",
-        "text_XAFaPV"
+        "text_XAFaPV",
+        "button_ntfc3G"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
@@ -405,11 +414,20 @@
             "text": "<p>La posata giusta può fare la differenza nel trasformare un pasto quotidiano in un’esperienza culinaria da ricordare, e non vogliamo mica che il tuo menù venga svantaggiato da posate non adeguate!</p><p>Per questo ti consigliamo solo set di alta qualità per <strong>apparecchiare la tavola a Pasqua</strong>, realizzati dai migliori esperti di <em>mise-en-place</em>: <a href=\"/collections/knindustrie-catalogo-prodotti-posate\" title=\"KnIndustrie: Posate\"><strong>KnIndustrie</strong></a><strong> </strong>e <a href=\"/collections/posate-bitossi-home\" title=\"Posate Bitossi Home\"><strong>Bitossi Home</strong></a>.</p>",
             "text_style": "body"
           }
+        },
+        "button_6MncmJ": {
+          "type": "button",
+          "settings": {
+            "button_label": "ESLPORA LA COLLEZIONE",
+            "button_link": "shopify://collections/cucina-e-tavola-posate",
+            "button_style_secondary": true
+          }
         }
       },
       "block_order": [
         "heading_bcL9mj",
-        "text_GmGrm4"
+        "text_GmGrm4",
+        "button_6MncmJ"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
@@ -719,13 +737,6 @@
         "padding_bottom": 36
       }
     },
-    "separator_nbNJQV": {
-      "type": "separator",
-      "name": "Separator Line",
-      "settings": {
-        "line_thickness": 1
-      }
-    },
     "image_banner_CKVzFq": {
       "type": "image-banner",
       "blocks": {
@@ -773,6 +784,13 @@
         "mobile_content_alignment": "left",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "separator_nbNJQV": {
+      "type": "separator",
+      "name": "Separator Line",
+      "settings": {
+        "line_thickness": 1
       }
     }
   },
