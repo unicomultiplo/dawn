@@ -40,6 +40,15 @@
     "multicolumn_WpyCnX": {
       "type": "multicolumn",
       "blocks": {
+        "column_JVQmDw": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_9GQxbK": {
           "type": "column",
           "settings": {
@@ -101,6 +110,7 @@
         }
       },
       "block_order": [
+        "column_JVQmDw",
         "column_9GQxbK",
         "column_MeYF33",
         "column_RLU6LC",
