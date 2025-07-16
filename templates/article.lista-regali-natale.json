@@ -1155,21 +1155,21 @@
         "heading_VARcwa": {
           "type": "heading",
           "settings": {
-            "heading": "Non hai ancora  trovato l'idea regalo giusta?",
+            "heading": "... Cerchi qualcosa di davvero UNICO? Scegli col cuore!",
             "heading_size": "h1"
           }
         },
         "text_B9xRqC": {
           "type": "text",
           "settings": {
-            "text": "Per mamme e papà fuori dagli schemi: UNICI, come piace a noi... Scopri tutte le nostre idee regalo di Natale!",
+            "text": "",
             "text_style": "subtitle"
           }
         },
         "buttons_8cGc3R": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "SCOPRILE ORA!",
+            "button_label_1": "IDEE REGALO DI NATALE!",
             "button_link_1": "shopify://collections/idee-regalo-natale",
             "button_style_secondary_1": true,
             "button_label_2": "",
