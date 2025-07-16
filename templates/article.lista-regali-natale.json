@@ -833,7 +833,7 @@
         "show_view_all": true,
         "view_all_style": "outline",
         "enable_desktop_slider": true,
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "image_ratio": "portrait",
         "image_shape": "default",
         "show_secondary_image": true,
@@ -852,14 +852,14 @@
         "heading_HYMXwe": {
           "type": "heading",
           "settings": {
-            "heading": "Il papà che ama la cucina",
+            "heading": "Regali di Natale per amanti della cucina",
             "heading_size": "h1"
           }
         },
         "text_jWbiWR": {
           "type": "text",
           "settings": {
-            "text": "<p>Quanto sei fortunato ad avere un papà che ama cucinare?</p><p>Per questo Natale scegli qualcosa che lo aiuti a rendere la sue creazioni ancor più gustose. Scopri la nostra imperdibile selezione di idee regalo!</p>",
+            "text": "<p>Quanto è bella la passione per la cucina? Soprattutto quando noi siamo quelli che assaggiano! Per questo è importante assecondare sempre questa passione dei nostri cari, anche a Natale. </p><p>Scopri la nostra selezione di idee regalo per gli <strong>amanti della cucina</strong>.</p><p></p>",
             "text_style": "body"
           }
         },
@@ -879,7 +879,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/cosa-regalare-al-papa-che-ama-la-cucina_1.webp",
+        "image": "shopify://shop_images/ideeregalo-cucina.jpg",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
