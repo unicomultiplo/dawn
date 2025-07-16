@@ -345,8 +345,8 @@
         "button_6MncmJ": {
           "type": "button",
           "settings": {
-            "button_label": "IDEE REGALO PER LEI",
-            "button_link": "shopify://collections/cucina-e-tavola",
+            "button_label": "IDEE REGALO SPECIALI",
+            "button_link": "shopify://collections/idee-regalo-regali-sotto-150-euro",
             "button_style_secondary": true
           }
         }
@@ -479,22 +479,22 @@
         "heading_bheDry": {
           "type": "heading",
           "settings": {
-            "heading": "La mamma che ama la cucina",
+            "heading": "Regali di Natale per amici e parenti",
             "heading_size": "h1"
           }
         },
         "text_Hdj4EB": {
           "type": "text",
           "settings": {
-            "text": "<p>Per la tua <strong>mamma che ama la cucina </strong>scopri la nostra selezione di idee regalo utili e di design, per rendere la sua cucina ancor più efficiente e circondata d’amore, con qualcosa che è sempre lì a<strong> ricordargli di te.</strong><br/></p>",
+            "text": "<p>E si, anche amici e parenti vogliono il regalo a Natale! In questo caso ti consigliamo di scegliere <strong>accessori per la casa, la tavola o la cucina</strong>.</p><p>Qualcosa di utile che è sempre meglio avere.</p>",
             "text_style": "body"
           }
         },
         "button_VaiTaa": {
           "type": "button",
           "settings": {
-            "button_label": "IDEE REGALO PER LEI",
-            "button_link": "shopify://collections/cucina-e-tavola",
+            "button_label": "IDEE REGALO ORIGINALI",
+            "button_link": "shopify://collections/idee-regalo-regali-sotto-100-euro",
             "button_style_secondary": true
           }
         }
@@ -506,7 +506,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/La-mamma-che-ama-la-cucina.jpg",
+        "image": "shopify://shop_images/ideeregalo-amiciparenti.jpg",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -527,12 +527,12 @@
         "row_97RkUn": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/bitossi-home-guest-piatto-pizza12.webp",
-            "caption": "Bitossi Home",
-            "heading": "Guest - Piatto pizza",
-            "text": "<p><a href=\"/products/bitossi-home-guest-piatto-pizza-mamma-mia\" title=\"Bitossi Home Guest Piatto pizza Mamma Mia\">Il <strong>piatto pizza in ceramica “Guest </strong></a><strong>”</strong>si presenta con linee semplici, perfetto per la mamma che ama presentare la piazza in modo <strong>originale e spiritoso.</strong> Un’idea regalo di Natale elegante e di qualità per la tua mamma. <br/><br/></p>",
+            "image": "shopify://shop_images/Stan-Editions-Candela-Impilabile-4-Pezzi-Giallo_1.webp",
+            "caption": "Stan Editions",
+            "heading": "Candela Impilabile – 4 Pezzi Giallo",
+            "text": "<p>Il design minimalista della <strong>Stack 05</strong> si integra perfettamente in qualsiasi stile d’arredo, rendendola ideale sia per ambienti moderni che per quelli più classici. La sua modularità ti permette di sperimentare con le forme, combinandola con altre candele della collezione<a href=\"https://www.unicoemultiplo.com/collections/stan-editions\" title=\"https://www.unicoemultiplo.com/collections/stan-editions\"> </a><strong>CANDL Stacks</strong> per creare composizioni originali. Con il suo look raffinato e la cura dei dettagli, questa candela non è solo un oggetto funzionale, ma un autentico pezzo di design.<br/></p>",
             "button_label": "SCOPRILO",
-            "button_link": "shopify://products/bitossi-home-guest-piatto-pizza-mamma-mia"
+            "button_link": "shopify://products/stan-editions-candela-impilabile-4-pezzi-giallo"
           }
         },
         "row_trGkxn": {
