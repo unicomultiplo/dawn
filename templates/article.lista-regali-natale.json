@@ -1126,39 +1126,41 @@
         "row_CqkbKT": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Brandani-Ekol.jpg",
+            "image": "shopify://shop_images/brandani-diffusore-di-fragranza-cactus-vetro-bastoncini_1.webp",
             "caption": "Brandani",
             "heading": "Ekol Diffusore Di Fragranza Cactus Purple Vetro Bastoncini",
             "text": "<p>Il <a href=\"/products/brandani-ekol-diffusore-di-fragranza-cactus-purple-vetro-bastoncini\" title=\"Brandani Ekol Diffusore Di Fragranza Cactus Purple Vetro Bastoncini\"><strong>Diffusore di Fragranza Cactus</strong></a> di Brandani è un raffinato elemento di design adatto a qualsiasi ambiente.</p><p>Ottima idea regalo per questo Natale.</p>",
             "button_label": "SCOPRILO",
-            "button_link": "shopify://collections/brandani-ekol"
+            "button_link": "shopify://products/brandani-ekol-diffusore-di-fragranza-cactus-purple-vetro-bastoncini"
           }
         },
-        "row_gcmwiD": {
+        "row_4TNpLe": {
           "type": "row",
           "settings": {
-            "caption": "Didascalia",
-            "heading": "Riga",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
+            "image": "shopify://shop_images/brandani-diffusore-di-fragranza-cactus-vetro-bastoncini_1.webp",
+            "caption": "Millefiori",
+            "heading": "Moveo Diffusore di Fragranza Portatile",
+            "text": "<p><a href=\"/products/4974-millefiori-moveo-diffusore-di-fragranza-portatile\" title=\"Millefiori Moveo Diffusore di Fragranza Portatile\"><strong>Diffusore di Fragranza Portatile Moveo di Millefiori Milano – Nero</strong>:</a> questo diffusore portatile è la soluzione moderna e stilosa per chi desidera godere delle proprie fragranze preferite in ogni ambiente. <br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/4974-millefiori-moveo-diffusore-di-fragranza-portatile"
           }
         },
-        "row_wCdWCm": {
+        "row_8w7dUh": {
           "type": "row",
           "settings": {
-            "caption": "Didascalia",
-            "heading": "Riga",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
+            "image": "shopify://shop_images/brandani-diffusore-di-fragranza-cactus-vetro-bastoncini_1.webp",
+            "caption": "Brandani",
+            "heading": "Ekol Diffusore Di Fragranza Cactus Purple Vetro Bastoncini",
+            "text": "<p>Il <a href=\"/products/brandani-ekol-diffusore-di-fragranza-cactus-purple-vetro-bastoncini\" title=\"Brandani Ekol Diffusore Di Fragranza Cactus Purple Vetro Bastoncini\"><strong>Diffusore di Fragranza Cactus</strong></a> di Brandani è un raffinato elemento di design adatto a qualsiasi ambiente.</p><p>Ottima idea regalo per questo Natale.</p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/brandani-ekol-diffusore-di-fragranza-cactus-purple-vetro-bastoncini"
           }
         }
       },
       "block_order": [
         "row_CqkbKT",
-        "row_gcmwiD",
-        "row_wCdWCm"
+        "row_4TNpLe",
+        "row_8w7dUh"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
