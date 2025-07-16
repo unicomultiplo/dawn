@@ -51,6 +51,7 @@
         },
         "column_MeYF33": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "",
             "text": "",
@@ -60,6 +61,7 @@
         },
         "column_RLU6LC": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "",
             "text": "",
@@ -69,6 +71,7 @@
         },
         "column_UekAy3": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "",
             "text": "",
@@ -78,6 +81,7 @@
         },
         "column_GUkhpY": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "",
             "text": "",
@@ -87,6 +91,7 @@
         },
         "column_nBpTTT": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "",
             "text": "",
@@ -116,6 +121,80 @@
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_qNaQGY": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_rwtmgr": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Stili e colori",
+            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa?#shopify-section-template--25579959517449__image_with_text_NXth3x"
+          }
+        },
+        "column_WE3MdH": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "I Piatti",
+            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa?#shopify-section-template--25579959517449__image_with_text_FqhcGf"
+          }
+        },
+        "column_mCa49B": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "I Bicchieri",
+            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa?#shopify-section-template--25579959517449__image_with_text_6D7wzF"
+          }
+        },
+        "column_6UAapR": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Le Posate",
+            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa?#shopify-section-template--25579959517449__image_with_text_et4rKW"
+          }
+        },
+        "column_PkeJaq": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "I Centrotavola",
+            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa?#shopify-section-template--25579959517449__image_with_text_789DBP"
+          }
+        }
+      },
+      "block_order": [
+        "column_rwtmgr",
+        "column_WE3MdH",
+        "column_mCa49B",
+        "column_6UAapR",
+        "column_PkeJaq"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 36
@@ -815,6 +894,7 @@
   "order": [
     "main",
     "multicolumn_WpyCnX",
+    "multicolumn_qNaQGY",
     "image_with_text_NXth3x",
     "image_with_text_FqhcGf",
     "multirow_WBcUcW",
