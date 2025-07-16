@@ -749,7 +749,7 @@
         "description": "",
         "show_description": false,
         "description_style": "uppercase",
-        "collection": "idee-regalo-regali-sotto-100-euro",
+        "collection": "idee-regalo-economiche",
         "products_to_show": 25,
         "columns_desktop": 6,
         "full_width": true,
