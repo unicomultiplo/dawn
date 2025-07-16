@@ -185,7 +185,7 @@
         "button_QBXRxw": {
           "type": "button",
           "settings": {
-            "button_label": "IDEE REGALO PER LEI",
+            "button_label": "IDEE REGALO PER LA MAMMA",
             "button_link": "shopify://collections/idee-regalo-regali-per-lei",
             "button_style_secondary": true
           }
@@ -233,7 +233,7 @@
             "image": "shopify://shop_images/Bitossi-Home-Tavola-Scomposta-Grazie-dei-fiori-vaso-ceramica-Rosso.webp",
             "caption": "Bitossi Home",
             "heading": "Tavola Scomposta - Grazie dei fiori",
-            "text": "<p>Una mano di pura ceramica bianca, unghie laccate di rosso rubino, che stringe petali per un regalo speciale: <strong>Bitossi Home</strong> trasforma ogni tavola in un <strong>abbraccio floreale per la mamma.</strong><br/><br/></p>",
+            "text": "<p>Una mano di pura ceramica bianca, unghie laccate di rosso rubino, che stringe petali per un regalo speciale: <strong>Bitossi Home</strong> trasforma ogni tavola in un <a href=\"/products/2339-bitossi-home-tavola-scomposta-grazie-dei-fiori-vaso-ceramica\" title=\"Bitossi Home Tavola Scomposta Grazie dei fiori vaso ceramica Rosso\"><strong>abbraccio floreale per la mamma.</strong></a><br/><br/></p>",
             "button_label": "SCOPRILO",
             "button_link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid"
           }
@@ -276,19 +276,19 @@
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "title": "COPRI TUT",
+        "title": "",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
-        "description_style": "body",
-        "collection": "",
+        "description_style": "uppercase",
+        "collection": "complementi-arredo-vasi",
         "products_to_show": 25,
         "columns_desktop": 6,
         "full_width": true,
         "show_view_all": true,
         "view_all_style": "outline",
         "enable_desktop_slider": true,
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": true,
@@ -297,8 +297,8 @@
         "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "image_with_text_6D7wzF": {
@@ -307,22 +307,22 @@
         "heading_Dpgthz": {
           "type": "heading",
           "settings": {
-            "heading": "I Bicchieri per la Tavola Pasquale, dall'acqua al vino allo spumante o champagne",
+            "heading": "La mamma che ama l'arte​",
             "heading_size": "h1"
           }
         },
         "text_XAFaPV": {
           "type": "text",
           "settings": {
-            "text": "<p>Non sarebbe la domenica di Pasqua senza una festa, e quale modo migliore per festeggiare se non concedendosi un po’ di vino, spumante o champagne? </p><p>Se ti stai chiedendo quali <a href=\"/collections/cucina-e-tavola-bicchieri-e-calici\" title=\"Bicchieri e Calici\"><strong>bicchieri di Pasqua</strong></a> scegliere, dai un’occhiata alla nostra selezione.</p>",
+            "text": "<p>Per una mamma che ama l'arte, <strong>l'originalità </strong>non può mancare.</p><p>Abbiamo selezionato per te degli accessori di design con cui potrà arredare il suo ambiente preferito della casa, con uno stile che non ha eguali. <strong>Scoprili subito</strong>!</p>",
             "text_style": "body"
           }
         },
         "button_ntfc3G": {
           "type": "button",
           "settings": {
-            "button_label": "TROVA IL BICCHIERE PERFETTO",
-            "button_link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici",
+            "button_label": "IDEE REGALO PER LA MAMMA",
+            "button_link": "shopify://collections/complementi-arredo-quadri-e-stampe",
             "button_style_secondary": true
           }
         }
@@ -334,7 +334,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Ichendorf-Set-Cactus-Calici-decorati-e-colorati.jpg",
+        "image": "shopify://shop_images/mamma-che-ama-l-arte.jpg",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -355,11 +355,11 @@
         "row_Qbc8RM": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Groove_details_1.webp",
-            "caption": "KnIndustrie",
-            "heading": "\"Groove\" - Set 6 Bicchieri Tumbler",
-            "text": "<p>Groove è la <a href=\"/products/knindustrie-groove-set-6-tumbler-quadrati\" title=\"KnIndustrie Groove Set 6 Tumbler Quadrati\"><strong>collezione di bicchieri dal decoro rigato</strong></a> e dal design pulito, proposto da <a href=\"/collections/knindustrie\" title=\"KnIndustrie\"><strong>Knindustrie</strong></a>. Una scanalatura dal design piacevole e ricercato impreziosisce con eleganza il vetro borosilicato sottilissimo.</p><p>Disponibili nella versione a quadrata e a tronco cono, perfetti per moltiplicare l’allegria del tuo aperitivo pasquale. </p>",
-            "button_label": "SCOPRI LA COLLEZIONE",
+            "image": "shopify://shop_images/bds-e-um-personalizzazione-20-stampa-la-tua-storia.jpg",
+            "caption": "BDS e U&M",
+            "heading": "Personalizzazione 2.0 - Stampa la tua Storia",
+            "text": "<p>Racconta ricordi, momenti e sogni della tua mamma in chiave Pop illustrata con un <strong>disegno grafico </strong>che racconta il vostro <strong>amore</strong>. </p><p>Se cerchi un regalo unico, e su misura per la tua mamma, <a href=\"/products/4621-bds-e-um-personalizzazione-20-stampa-la-tua-storia\" title=\"BDS e U&M Personalizzazione 2.0 stampa la tua storia\"><strong>Personalizzazione 2.0</strong></a> è quello giusto!</p>",
+            "button_label": "SCOPRILO",
             "button_link": "shopify://collections/groove-knindustrie"
           }
         },
@@ -441,7 +441,7 @@
           "type": "button",
           "settings": {
             "button_label": "ESLPORA LA COLLEZIONE COMPLETA",
-            "button_link": "shopify://collections/cucina-e-tavola-posate",
+            "button_link": "",
             "button_style_secondary": true
           }
         }
