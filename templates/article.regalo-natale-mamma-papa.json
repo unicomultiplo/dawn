@@ -366,42 +366,30 @@
         "row_Ptep7c": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Ichendorf-Set-Botanica.jpg",
-            "caption": "ICHENDORF",
-            "heading": "\"Botanica\" - Set 6 Coppe Champagne",
-            "text": "<p>Queste <a href=\"/products/ichendorf-botanica-coppa-champagne-set\" title=\"Ichendorf Botanica Coppa Champagne  Set 6 pz\"><strong>Coppe da Champagne</strong></a> sono un’incantevole e romantica proposta di <a href=\"/collections/ichendorf-catalogo\" title=\"Ichendorf\"><strong>Ichendorf Milano</strong>.</a></p><p>Un bicchiere in vetro originale e raffinato, ispirato alla bellezza della natura. Con il suo delicato design floreale e l’elegante effetto ottico, è una vera opera d’arte sulla tua tavola.</p><p>Pronti per il primo brindisi in festa?</p>",
-            "button_label": "SCOPRI IL SET",
-            "button_link": "shopify://products/ichendorf-botanica-coppa-champagne-set"
+            "image": "shopify://shop_images/seletti-kintsugi-teiera-in-porcellana-e-oro_a71fa028-27e4-434b-ad35-1e7bfbc89314.webp",
+            "caption": "SELETTI",
+            "heading": "Teiera Kintsugi",
+            "text": "<p><strong>Design di Marcantonio</strong>, ideale per impreziosire la tua tavola con un accento di natura ed eleganza.</p><p>Un capolavoro in porcellana, decorato seguendo la tecnica <a href=\"/products/seletti-kintsugi-teiera-in-porcellana-e-oro\" title=\"Seletti Kintsugi Teiera In Porcellana e Oro\">Kintsugi </a>con dettagli in oro.</p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/seletti-kintsugi-teiera-in-porcellana-e-oro"
           }
         },
         "row_Gd8Geh": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-collezione-lime-line-ambra-set-6-pz_b29530e9-6a4b-4077-b121-43f507480791.webp",
-            "caption": "Knindustrie",
-            "heading": "\"Lime Line\" - Set 6 Bicchieri",
-            "text": "<p>Linee ordinate e minimali con i <a href=\"/collections/lime-line-knindustrie\" title=\"Lime Line KnIndustrie\"><strong>bicchieri Lime Line</strong></a> di<a href=\"/collections/knindustrie-catalogo-prodotti-lara-caffi\" title=\"Lara Caffi e KnIndustrie\"> <strong>Lara Caffi</strong></a>. <br/>I bicchieri Lime Line sono realizzati in vetro borosilicato trasparente: un equilibrio perfetto tra leggerezza e resistenza.</p><p>Un must have in ogni tavola e un’ottima scelta di qualità e design come <strong>bicchieri di Pasqua</strong>.<br/></p>",
-            "button_label": "SCOPRI LA COLLEZIONE",
-            "button_link": "shopify://collections/lime-line-knindustrie"
-          }
-        },
-        "row_RfTcbT": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/Bitossi-home-Diseguale-bicchieri.webp",
-            "caption": "BITOSSI HOME",
-            "heading": "\"Diseguale\" - Calici e Tumbler colorati",
-            "text": "<p>Scegli <a href=\"/collections/bitossi-home-diseguale\" title=\"Diseguale Bitossi Home\">“<strong>Diseguale” di Bitossi Home\"</strong></a> per una <em>mise-en-place </em>mai scontata: una collezione che cambia forma, colore e che, nella diversità, trova un’ armonia tutta personale. Questi set di calici e tumbler in vetro soffiato sono ideali per dare un tocco di vivacità e originalità alla tua <strong>tavola di Pasqua</strong>.</p>",
-            "button_label": "SCOPRI LA COLLEZIONE",
-            "button_link": "shopify://collections/fabula-bitossi-home"
+            "image": "shopify://shop_images/seletti-my-moon-lamp-lampada-seduta-indoor-outdoor.jpg",
+            "caption": "Seletti",
+            "heading": "\"My Moon Lamp\" lampada seduta | indoor - outdoor",
+            "text": "<p>Per questo Natale, fai sdraiare la tua mamma su una luna gigante, perchè lei è la regina della tua vita!</p><p><a href=\"/products/5074-seletti-my-moon-lamp-lampada-seduta-indoor-outdoor\" title=\"Seletti My Moon Lamp Lampada seduta Indoor Outdoor\"><strong>My Moon Lamp</strong></a>, ideata da Marcantonio per Seletti, è un’idea regalo di Natale da invidiare.</p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/5074-seletti-my-moon-lamp-lampada-seduta-indoor-outdoor"
           }
         }
       },
       "block_order": [
         "row_Qbc8RM",
         "row_Ptep7c",
-        "row_Gd8Geh",
-        "row_RfTcbT"
+        "row_Gd8Geh"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
@@ -418,6 +406,35 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "featured_collection_DHefMh": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "uppercase",
+        "collection": "complementi-arredo-quadri-e-stampe",
+        "products_to_show": 25,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-2",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "image_with_text_et4rKW": {
@@ -843,6 +860,7 @@
     "featured_collection_DcQkgR",
     "image_with_text_6D7wzF",
     "multirow_gaUUHh",
+    "featured_collection_DHefMh",
     "image_with_text_et4rKW",
     "multirow_TGNpHm",
     "image_with_text_789DBP",
