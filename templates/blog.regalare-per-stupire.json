@@ -29,14 +29,14 @@
         "heading_eAr7dK": {
           "type": "heading",
           "settings": {
-            "heading": "DESIGNER D'ECCEZIONE",
+            "heading": "REGALARE PER STUPIRE",
             "heading_size": "h1"
           }
         },
         "text_jDNphd": {
           "type": "text",
           "settings": {
-            "text": "<p>Vorresti scoprire di più sulle<strong>menti geniali che danno vita agli oggetti di design</strong>e collaborano alle straordinarie collezioni dei brand più affermati? In questa rubrica dedicata ti raccontiamo storia e dettagli della loro vita e del loro concept creativo.</p>"
+            "text": "<p>Ogni anno momenti da celebrare e persone speciali da festeggiare:<strong>il regalo è un linguaggio che esprime gratitudine e affetto</strong>. Il messaggio arriverà forte e chiaro, dal tuo cuore alle loro mani. Serve un aiuto a scegliere il dono ideale? Ecco qui tanti consigli e guide perfette per ogni occasione.<br/><br/></p>"
           }
         }
       },
@@ -58,7 +58,7 @@
       "settings": {
         "heading": "",
         "heading_size": "h1",
-        "blog": "designer-deccezione",
+        "blog": "regalare-per-stupire",
         "post_limit": 4,
         "columns_desktop": 3,
         "color_scheme": "",
