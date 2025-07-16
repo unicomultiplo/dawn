@@ -672,7 +672,7 @@
         "row_gtPRNU": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/11717_4.jpg",
+            "image": "shopify://shop_images/Bitossi_Home_-_Tazza_da_t_Vintage.jpg",
             "caption": "Bitossi Home",
             "heading": "Vintage - Tazza da thé",
             "text": "<p>La<a href=\"/products/2343-bitossi-home-tavola-scomposta-tazza-the-cp-vintage\" title=\"Bitossi Home Tavola Scomposta tazza tè c/p vintage - carta da zucchero\"> <strong>tazza tè Vintage</strong></a><strong> </strong>firmata <strong>Bitossi </strong>ricorda il classico set di tazzine della nostra nonna che conservava con cura nella vetrina. Realizzata a mano e con bordo e manico in oro, queste tazze non alterano il gusto delle bevande e sono <strong>perfette per gustare caffè o tè!</strong><br/><br/></p>",
@@ -739,7 +739,7 @@
         "heading_U9QXdV": {
           "type": "heading",
           "settings": {
-            "heading": "Segnaposto per la Tavola di Pasqua",
+            "heading": "Il papà che ama il vino",
             "heading_size": "h1"
           }
         },
@@ -840,28 +840,349 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_c6HwnW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_HYMXwe": {
+          "type": "heading",
+          "settings": {
+            "heading": "Il papà che ama la cucina",
+            "heading_size": "h1"
+          }
+        },
+        "text_jWbiWR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Il <strong>segnaposto per la tavola di Pasqua</strong> è un elemento da non sottovalutare, ricorda ai tuoi ospiti dove sedersi e dona un tocco di cura in più alla tua tavola.</p><p>Inutile dire che deve essere di qualità e buon gusto. Meglio ancora se si opta per qualcosa di originale e creativo, che salti all’occhio! </p>",
+            "text_style": "body"
+          }
+        },
+        "button_EnkTAc": {
+          "type": "button",
+          "settings": {
+            "button_label": "ESPLORA LE TOVAGLIETTE SEGNAPOSTO",
+            "button_link": "shopify://collections/cucina-e-tavola-tovaglie-e-tovagliette",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_HYMXwe",
+        "text_jWbiWR",
+        "button_EnkTAc"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Bitossi-Home-Funky-Table_1.png",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_NRXPfV": {
+      "type": "multirow",
+      "blocks": {
+        "row_8dfDDP": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Segnaposto-per-la-Tavola-di-Pasqua500x375_1.jpg",
+            "caption": "Bitossi Home",
+            "heading": "\"Lettering\" - Piattino da dessert",
+            "text": "<p>Per una scelta davvero originale, arriva <strong>“</strong><a href=\"/products/3115-bitossi-home-lettering\" title=\"Bitossi Home Lettering Piattino da dessert Ø 12\"><strong>Lettering”, collezione firmata Bitossi Home</strong></a>, che propone dei piattini pane in porcellana bianca con una lettera d’oro al centro.</p><p>Se vuoi davvero che il tuo <strong>segnaposto Pasquale</strong> sia diverso, unico, non esitare e dona un tocco originale in pieno stile Bitossi Home.</p>",
+            "button_label": "SCOPRI LETTERING",
+            "button_link": "shopify://products/3115-bitossi-home-lettering"
+          }
+        },
+        "row_4pzR4k": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi_Home_Smerlo_Se-_4-tovagliette-bordo-smerlato_1.jpg",
+            "caption": "Bitossi Home",
+            "heading": "\"Smerlo\" - Tovagliette Colorate con Bordo Smerlato",
+            "text": "<p>Sottopiatti e tovagliette portano alla tavola un pizzico di magia e particolarità.</p><p>Le <a href=\"/collections/bitossi-home-smerlo-bitossi-home\" title=\"Smerlo Bitossi Home\"><strong>tovagliette Smerlo di Bitossi Home</strong>,</a> in lino cotone con trattamento antimacchia sono disponibili in sei colori diversi e bordo sagomato a contrasto.</p><p>Un <strong>segnaposto variopinto per la tua tavola di Pasqua</strong> capace di mettere in risalto qualsiasi <em>mise-en-place</em>, dalle elaborate alle più minimali. </p>",
+            "button_label": "ESPLORA LA COLLEZIONE SMERLO",
+            "button_link": "shopify://collections/bitossi-home-smerlo-bitossi-home"
+          }
+        },
+        "row_h6kTyg": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-Hybrid-Tovaglietta-Bersabea_1.jpg",
+            "caption": "Seletti",
+            "heading": "\"Hybrid\" - Tovagliette dell'incontro",
+            "text": "<p>Quando est e ovest si incontrano, arriva <strong>“</strong><a href=\"/collections/seletti-catalogo-prodotti-hybrid\" title=\"Seletti Hybrid\"><strong>Hybrid</strong></a><strong>”</strong>, una collezione ispirata alle antiche tradizioni orientale e occidentale.</p><p>La serie si compone di tre varianti, accumunate dalla netta linea centrale che unisce e separa Oriente e Occidente.</p><p>Un<strong> segnaposto di Pasqua</strong> eccentrico e originale: è Seletti.</p>",
+            "button_label": "VEDI LE TOVAGLIETTE HYBRID",
+            "button_link": "shopify://products/seletti-hybrid-tovaglietta-bersabea"
+          }
+        }
+      },
+      "block_order": [
+        "row_8dfDDP",
+        "row_4pzR4k",
+        "row_h6kTyg"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_nRTgzR": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_VPcq8X": {
+          "type": "heading",
+          "settings": {
+            "heading": "Il papà che ama l'arte",
+            "heading_size": "h1"
+          }
+        },
+        "text_dDxAC8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Il <strong>segnaposto per la tavola di Pasqua</strong> è un elemento da non sottovalutare, ricorda ai tuoi ospiti dove sedersi e dona un tocco di cura in più alla tua tavola.</p><p>Inutile dire che deve essere di qualità e buon gusto. Meglio ancora se si opta per qualcosa di originale e creativo, che salti all’occhio! </p>",
+            "text_style": "body"
+          }
+        },
+        "button_A3rxBF": {
+          "type": "button",
+          "settings": {
+            "button_label": "ESPLORA LE TOVAGLIETTE SEGNAPOSTO",
+            "button_link": "shopify://collections/cucina-e-tavola-tovaglie-e-tovagliette",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_VPcq8X",
+        "text_dDxAC8",
+        "button_A3rxBF"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Bitossi-Home-Funky-Table_1.png",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_JC7jk3": {
+      "type": "multirow",
+      "blocks": {
+        "row_ngWjbg": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Segnaposto-per-la-Tavola-di-Pasqua500x375_1.jpg",
+            "caption": "Bitossi Home",
+            "heading": "\"Lettering\" - Piattino da dessert",
+            "text": "<p>Per una scelta davvero originale, arriva <strong>“</strong><a href=\"/products/3115-bitossi-home-lettering\" title=\"Bitossi Home Lettering Piattino da dessert Ø 12\"><strong>Lettering”, collezione firmata Bitossi Home</strong></a>, che propone dei piattini pane in porcellana bianca con una lettera d’oro al centro.</p><p>Se vuoi davvero che il tuo <strong>segnaposto Pasquale</strong> sia diverso, unico, non esitare e dona un tocco originale in pieno stile Bitossi Home.</p>",
+            "button_label": "SCOPRI LETTERING",
+            "button_link": "shopify://products/3115-bitossi-home-lettering"
+          }
+        },
+        "row_dta9BH": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi_Home_Smerlo_Se-_4-tovagliette-bordo-smerlato_1.jpg",
+            "caption": "Bitossi Home",
+            "heading": "\"Smerlo\" - Tovagliette Colorate con Bordo Smerlato",
+            "text": "<p>Sottopiatti e tovagliette portano alla tavola un pizzico di magia e particolarità.</p><p>Le <a href=\"/collections/bitossi-home-smerlo-bitossi-home\" title=\"Smerlo Bitossi Home\"><strong>tovagliette Smerlo di Bitossi Home</strong>,</a> in lino cotone con trattamento antimacchia sono disponibili in sei colori diversi e bordo sagomato a contrasto.</p><p>Un <strong>segnaposto variopinto per la tua tavola di Pasqua</strong> capace di mettere in risalto qualsiasi <em>mise-en-place</em>, dalle elaborate alle più minimali. </p>",
+            "button_label": "ESPLORA LA COLLEZIONE SMERLO",
+            "button_link": "shopify://collections/bitossi-home-smerlo-bitossi-home"
+          }
+        },
+        "row_b9bNwV": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-Hybrid-Tovaglietta-Bersabea_1.jpg",
+            "caption": "Seletti",
+            "heading": "\"Hybrid\" - Tovagliette dell'incontro",
+            "text": "<p>Quando est e ovest si incontrano, arriva <strong>“</strong><a href=\"/collections/seletti-catalogo-prodotti-hybrid\" title=\"Seletti Hybrid\"><strong>Hybrid</strong></a><strong>”</strong>, una collezione ispirata alle antiche tradizioni orientale e occidentale.</p><p>La serie si compone di tre varianti, accumunate dalla netta linea centrale che unisce e separa Oriente e Occidente.</p><p>Un<strong> segnaposto di Pasqua</strong> eccentrico e originale: è Seletti.</p>",
+            "button_label": "VEDI LE TOVAGLIETTE HYBRID",
+            "button_link": "shopify://products/seletti-hybrid-tovaglietta-bersabea"
+          }
+        }
+      },
+      "block_order": [
+        "row_ngWjbg",
+        "row_dta9BH",
+        "row_b9bNwV"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_efjzUn": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_iGehKd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Il papà che ama caffè, tè e tisane",
+            "heading_size": "h1"
+          }
+        },
+        "text_KFbmg3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Il <strong>segnaposto per la tavola di Pasqua</strong> è un elemento da non sottovalutare, ricorda ai tuoi ospiti dove sedersi e dona un tocco di cura in più alla tua tavola.</p><p>Inutile dire che deve essere di qualità e buon gusto. Meglio ancora se si opta per qualcosa di originale e creativo, che salti all’occhio! </p>",
+            "text_style": "body"
+          }
+        },
+        "button_xemzUB": {
+          "type": "button",
+          "settings": {
+            "button_label": "ESPLORA LE TOVAGLIETTE SEGNAPOSTO",
+            "button_link": "shopify://collections/cucina-e-tavola-tovaglie-e-tovagliette",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_iGehKd",
+        "text_KFbmg3",
+        "button_xemzUB"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Bitossi-Home-Funky-Table_1.png",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_wYNF8Q": {
+      "type": "multirow",
+      "blocks": {
+        "row_UXrq6i": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Segnaposto-per-la-Tavola-di-Pasqua500x375_1.jpg",
+            "caption": "Bitossi Home",
+            "heading": "\"Lettering\" - Piattino da dessert",
+            "text": "<p>Per una scelta davvero originale, arriva <strong>“</strong><a href=\"/products/3115-bitossi-home-lettering\" title=\"Bitossi Home Lettering Piattino da dessert Ø 12\"><strong>Lettering”, collezione firmata Bitossi Home</strong></a>, che propone dei piattini pane in porcellana bianca con una lettera d’oro al centro.</p><p>Se vuoi davvero che il tuo <strong>segnaposto Pasquale</strong> sia diverso, unico, non esitare e dona un tocco originale in pieno stile Bitossi Home.</p>",
+            "button_label": "SCOPRI LETTERING",
+            "button_link": "shopify://products/3115-bitossi-home-lettering"
+          }
+        },
+        "row_mMLtyk": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi_Home_Smerlo_Se-_4-tovagliette-bordo-smerlato_1.jpg",
+            "caption": "Bitossi Home",
+            "heading": "\"Smerlo\" - Tovagliette Colorate con Bordo Smerlato",
+            "text": "<p>Sottopiatti e tovagliette portano alla tavola un pizzico di magia e particolarità.</p><p>Le <a href=\"/collections/bitossi-home-smerlo-bitossi-home\" title=\"Smerlo Bitossi Home\"><strong>tovagliette Smerlo di Bitossi Home</strong>,</a> in lino cotone con trattamento antimacchia sono disponibili in sei colori diversi e bordo sagomato a contrasto.</p><p>Un <strong>segnaposto variopinto per la tua tavola di Pasqua</strong> capace di mettere in risalto qualsiasi <em>mise-en-place</em>, dalle elaborate alle più minimali. </p>",
+            "button_label": "ESPLORA LA COLLEZIONE SMERLO",
+            "button_link": "shopify://collections/bitossi-home-smerlo-bitossi-home"
+          }
+        },
+        "row_FVDYLi": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-Hybrid-Tovaglietta-Bersabea_1.jpg",
+            "caption": "Seletti",
+            "heading": "\"Hybrid\" - Tovagliette dell'incontro",
+            "text": "<p>Quando est e ovest si incontrano, arriva <strong>“</strong><a href=\"/collections/seletti-catalogo-prodotti-hybrid\" title=\"Seletti Hybrid\"><strong>Hybrid</strong></a><strong>”</strong>, una collezione ispirata alle antiche tradizioni orientale e occidentale.</p><p>La serie si compone di tre varianti, accumunate dalla netta linea centrale che unisce e separa Oriente e Occidente.</p><p>Un<strong> segnaposto di Pasqua</strong> eccentrico e originale: è Seletti.</p>",
+            "button_label": "VEDI LE TOVAGLIETTE HYBRID",
+            "button_link": "shopify://products/seletti-hybrid-tovaglietta-bersabea"
+          }
+        }
+      },
+      "block_order": [
+        "row_UXrq6i",
+        "row_mMLtyk",
+        "row_FVDYLi"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner_CKVzFq": {
       "type": "image-banner",
       "blocks": {
         "heading_VARcwa": {
           "type": "heading",
           "settings": {
-            "heading": "Scopri anche le migliori idee di design per Regali di Pasqua!",
+            "heading": "Non hai ancora  trovato l'idea regalo giusta?",
             "heading_size": "h2"
           }
         },
         "text_B9xRqC": {
           "type": "text",
           "settings": {
-            "text": "Proposte fantasiose, originali, perfette da regalare o da farsi regalare e in grado di incontrare qualunque gusto personale.",
-            "text_style": "body"
+            "text": "Per mamme e papà fuori dagli schemi: UNICI, come piace a noi... Scopri tutte le nostre idee regalo di Natale!",
+            "text_style": "subtitle"
           }
         },
         "buttons_8cGc3R": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "SCOPRILE TUTTE!",
-            "button_link_1": "shopify://collections/idee-regalo-pasqua",
+            "button_label_1": "SCOPRILE ORA!",
+            "button_link_1": "shopify://collections/idee-regalo-natale",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -876,7 +1197,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/easter-ears-eggs.jpg",
+        "image": "shopify://shop_images/Idee-Regalo-di-Natale_1.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "top-center",
@@ -915,6 +1236,12 @@
     "featured_collection_CtNKRh",
     "image_with_text_jEbVKr",
     "multirow_nKmn8r",
+    "image_with_text_c6HwnW",
+    "multirow_NRXPfV",
+    "image_with_text_nRTgzR",
+    "multirow_JC7jk3",
+    "image_with_text_efjzUn",
+    "multirow_wYNF8Q",
     "image_banner_CKVzFq",
     "separator_nbNJQV"
   ]
