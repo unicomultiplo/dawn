@@ -24,17 +24,11 @@
             "blog_show_date": true,
             "blog_show_author": false
           }
-        },
-        "content": {
-          "type": "content",
-          "disabled": true,
-          "settings": {}
         }
       },
       "block_order": [
         "featured_image",
-        "title",
-        "content"
+        "title"
       ],
       "settings": {}
     },
