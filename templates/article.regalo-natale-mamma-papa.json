@@ -84,6 +84,24 @@
     "multicolumn_qNaQGY": {
       "type": "multicolumn",
       "blocks": {
+        "column_EQ7Vbt": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Idee per la mamma</strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_VHLDbX": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Idee per il papà</strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_rwtmgr": {
           "type": "column",
           "settings": {
@@ -111,12 +129,12 @@
             "link": ""
           }
         },
-        "column_6UAapR": {
+        "column_ed3JNY": {
           "type": "column",
           "settings": {
             "title": "",
             "text": "",
-            "link_label": "Il papà che ama l’arte",
+            "link_label": "Il papà che ama la cucina",
             "link": ""
           }
         },
@@ -129,22 +147,44 @@
             "link": ""
           }
         },
+        "column_6UAapR": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Il papà che ama l’arte",
+            "link": ""
+          }
+        },
+        "column_KhhkBT": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "La mamma che ama caffè, tè e tisane",
+            "link": ""
+          }
+        },
         "column_PkeJaq": {
           "type": "column",
           "settings": {
             "title": "",
             "text": "",
-            "link_label": "Il papà che ama il caffè, tè e tisane",
+            "link_label": "Il papà che ama caffè, tè e tisane",
             "link": ""
           }
         }
       },
       "block_order": [
+        "column_EQ7Vbt",
+        "column_VHLDbX",
         "column_rwtmgr",
         "column_WE3MdH",
         "column_mCa49B",
-        "column_6UAapR",
+        "column_ed3JNY",
         "column_PNYnwx",
+        "column_6UAapR",
+        "column_KhhkBT",
         "column_PkeJaq"
       ],
       "name": "t:sections.multicolumn.presets.name",
