@@ -57,66 +57,11 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_MeYF33": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Stili e colori",
-            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa?#shopify-section-template--25579959517449__image_with_text_NXth3x"
-          }
-        },
-        "column_RLU6LC": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "I Piatti",
-            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa?#shopify-section-template--25579959517449__image_with_text_FqhcGf"
-          }
-        },
-        "column_UekAy3": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "I Bicchieri",
-            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa?#shopify-section-template--25579959517449__image_with_text_6D7wzF"
-          }
-        },
-        "column_GUkhpY": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Le Posate",
-            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa?#shopify-section-template--25579959517449__image_with_text_et4rKW"
-          }
-        },
-        "column_nBpTTT": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "I Centrotavola",
-            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa?#shopify-section-template--25579959517449__image_with_text_789DBP"
-          }
         }
       },
       "block_order": [
         "column_f7BEAp",
-        "column_9GQxbK",
-        "column_MeYF33",
-        "column_RLU6LC",
-        "column_UekAy3",
-        "column_GUkhpY",
-        "column_nBpTTT"
+        "column_9GQxbK"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -639,7 +584,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/knIndustrie-centrotavola-vetro-verde-qsvqe4s2ldj8rqsodhp18tfrvozao861d2dfxyujkw.jpg",
+        "image": "shopify://shop_images/KnIndustrie-Centrotavola-Gastronomico-Essenze_40718953-9c90-4b5f-929f-90031a424a07.png",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -660,7 +605,7 @@
         "row_TLaB9L": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-materials-vassoio-girevole-bianco350x2501-300x214.jpg",
+            "image": "shopify://shop_images/knindustrie-materials-vassoio-girevole-bianco.webp",
             "caption": "KnIndustrie",
             "heading": "\"Materials\" - Vassoio Girevole",
             "text": "<p>Un <a href=\"/products/knindustrie-centrotavola-gastronomico-girevole\" title=\"knIndustrie Centrotavola Gastronomico Girevole Bianco\"><strong>vassoio girevole, realizzato in marmo</strong></a>, che consente di scegliere la pietanza preferita semplicemente girandolo.</p><p>Ideale come <strong>centrotavola di Pasqua</strong> per conferire un aspetto sofisticato e minimale all’ambiente.</p>",
@@ -671,7 +616,7 @@
         "row_RKJaYG": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/KnIndustrie-Centrotavola-Gastronomico-Essenze-1024x768.jpg",
+            "image": "shopify://shop_images/knIndustrie-centrotavola-vetro-verde-qsvqe4s2ldj8rqsodhp18tfrvozao861d2dfxyujkw.jpg",
             "caption": "KnIndustrie",
             "heading": "\"Essenze\" - Centrotavola Gastronomico",
             "text": "<p>Il <a href=\"/collections/centrotavola-gastronomico-knindustrie\" title=\"Centrotavola Gastronomico KnIndustrie\"><strong>Centrotavola Gastronomico Essenze</strong></a> incarna il vero significato delle feste e della Pasqua.</p><p>Si tratta di un progetto affascinante della designer Sirine Graiaa, <strong>incentrato sulla condivisione e l’aggregazione</strong>, per impreziosire una tavola accogliente e in grande stile. </p><p>Un <strong>centrotavola pasquale</strong> per una <em>mise-en-place</em> distinta e di classe.</p>",
@@ -682,7 +627,7 @@
         "row_gQh3m9": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/seletti-hybrid-vaso-melania350x2503-300x214.jpg",
+            "image": "shopify://shop_images/seletti-hybrid-vaso-melania.webp",
             "caption": "Seletti",
             "heading": "\"Hybrid\" - Vaso Melania",
             "text": "<p><a href=\"/products/1518-seletti-hybrid-vaso-melania\" title=\"Seletti Hybrid Vaso Melania\"><strong>Melania, della collezione “Hybrid”</strong></a> firmata Seletti, è un elegante vaso in porcellana che crea un connubio tra due stili e culture diverse.</p><p>Un <strong>centrotavola pasquale con fiori </strong>che dona un aspetto affascinante a qualunque apparecchiatura.</p>",
@@ -704,7 +649,7 @@
         "row_6QPUDc": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/miho-joshua-candelabro-artigianale350x250-300x214.jpg",
+            "image": "shopify://shop_images/miho-joshua-candelabro-artigianale.webp",
             "caption": "Miho",
             "heading": "Candelabri Artigianali",
             "text": "<p>Miho propone <strong>eccentrici candelabri fatti interamente a mano</strong>, lavorati nei minimi dettagli che ricordano gli oggetti antichi dei nostri nonni. </p><p>Posti al centro della tua <strong>tavola di Pasqua</strong>, doneranno un aspetto di ricercatezza all’intera <em>mise-en-place</em>.</p>",
@@ -880,7 +825,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/easter-ears-eggs.jpg",
+        "image": "shopify://shop_images/easter-ears-eggs.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "top-center",
