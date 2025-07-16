@@ -911,21 +911,21 @@
         "row_4pzR4k": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/MATERIALS-taglieri-scultura_1.jpg",
-            "caption": "KnIndustrie",
-            "heading": "Knindustrie - Tagliere Scultura",
-            "text": "<p>Con l’elegante <a href=\"/products/5095-knindustrie-materials-taglieri-scultura\" title=\"KnIndustrie Materials Taglieri Scultura piccolo\"><strong>tagliere</strong></a><strong>, </strong>chiamato <strong>Scultura </strong>per la sua forma originale, è possibile servire caci e scaglie, fette o cubetti con eleganza e design. L’accessorio apprezzato da ogni cuoco!<br/></p>",
+            "image": "shopify://shop_images/knindustrie-gourmet-pizza-teglia-piatto-pizza-in-terracotta-1.jpg",
+            "caption": "Knindustrie",
+            "heading": "Gourmet Pizza – Love Pizza",
+            "text": "<p>Gli amanti della cucina hanno sempre bisogno di un nuovo accessorio, a questo proposito non possiamo non consigliarti <a href=\"/products/2951-knindustrie-gourmet-pizza-teglia-piatto-pizza-in-terracotta\" title=\"KnIndustrie Gourmet Pizza Teglia Piatto Pizza in Terracotta\"><strong>Gourmet Pizza</strong></a>, il piatto in terracotta firmato Knindustrie per sfoggiare una pizza fragrante e croccante!<br/></p>",
             "button_label": "SCOPRILO",
-            "button_link": "shopify://products/7668-knindustrie-materials-taglieri-scultura"
+            "button_link": "shopify://products/2951-knindustrie-gourmet-pizza-teglia-piatto-pizza-in-terracotta"
           }
         },
         "row_h6kTyg": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-lady-anne-caffettiera.-black.jpg",
-            "caption": "Knindustrie",
-            "heading": "Lady Anne - Caffettiera | Black",
-            "text": "<p>La <a href=\"/collections/lady-anne-knindustrie\" title=\"Lady Anne KnIndustrie\"><strong>caffettiera di KnIndustrie</strong></a> si veste di nero! Un’oggetto elegante e funzionale per preparare e servire dell’ottimo caffè!</p>",
+            "image": "shopify://shop_images/brandani-casseruola-cocotte-rossa-ghisa-smaltata-4-lt_chqeqcme6cbro4b7-547x445.jpg",
+            "caption": "Brandani",
+            "heading": "Cocotte Casseruola rossa in Ghisa",
+            "text": "<p>Se l’idea è quella di fare un super regalo, ti consigliamo la<a href=\"/products/brandani-casseruola-cocotte-rossa-ghisa-smaltata-3000\" title=\"Brandani Casseruola Cocotte Rossa Ghisa Smaltata 3 L\"> <strong>casseruola cocotte rossa Brandani</strong></a>, in ghisa smaltata, è l’ideale per tutte le preparazioni di piatti ed è particolarmente consigliata per lunghe cotture a fuoco lento.<br/><br/></p>",
             "button_label": "SCOPRILA",
             "button_link": "shopify://products/3661-knindustrie-lady-anne-caffettiera-black"
           }
@@ -935,8 +935,8 @@
           "settings": {
             "image": "shopify://shop_images/KnIndustrie-Beyond-Basic-The-Cedar-Plank-Set-Affumicatura.jpg",
             "caption": "Knindustrie",
-            "heading": "Beyond Basic | The Cedar Plank - set affumicatura",
-            "text": "<p>Il <strong>Planking</strong>, è una  tecnica di cottura su tavoletta di legno, usata in passato dalle antiche popolazioni native del Canada. <strong>Se il tuo papà ama cucinare</strong> morirà di curiosità nel testare questa fantastica tecnica di cottura!<br/></p>",
+            "heading": "The Saucepan – Casseruola gialla",
+            "text": "<p>Oltre alla Cocotte rossa ti diamo anche quest’altra opzione:<a href=\"/products/2949-knindustrie-beyond-basic-the-saucepan-casseruola-giallo\" title=\"KnIndustrie Beyond Basic The Saucepan Casseruola\"><strong> la casseruola Saucepan </strong></a>di colore giallo firmata <strong>Knindustrie</strong>. Questa pentola da cucina ha un design molto raffinato e funzionale, ideale per cucinare succulenti pietanze da servire a tavola!<br/><br/></p>",
             "button_label": "SCOPRILA",
             "button_link": "shopify://products/2950-knindustrie-beyond-basic-the-cedar-plank-set-affumicatura"
           }
@@ -1013,59 +1013,47 @@
         "padding_bottom": 36
       }
     },
-    "multirow_JC7jk3": {
+    "multirow_wYNF8Q": {
       "type": "multirow",
       "blocks": {
-        "row_ngWjbg": {
+        "row_UXrq6i": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/salvadoriarte-rustxxx-tela-rust017-50x50.jpg",
-            "caption": "Salvadoriarte",
-            "heading": "Rustxxx - tela RUST017 - 50x50​",
-            "text": "<p><strong>Rust017 </strong>della collezione <a href=\"/collections/salvadoriarte\" title=\"SalvadoriArte\"><strong>RustXXX di SalvadoriArte</strong> </a>è realizzato a mano su tela grazie a un processo di acidatura che lo rende unico al mondo, ma non unico come il tuo papà!<br/><br/></p>",
-            "button_label": "SCOPRILA",
-            "button_link": "shopify://products/1806-salvadoriarte-rustxxx-tela-rust017-50x50"
-          }
-        },
-        "row_dta9BH": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/superstuff-totem-gufo.webp",
-            "caption": "Superstuff",
-            "heading": "Totem Gufo - Saggezza",
-            "text": "<p>Realizzato con materiali di alta qualità, questo totem si distingue per il suo design <strong>accattivante e moderno</strong>, che combina linee pulite con dettagli accurati. La scelta del gufo non è casuale: nella mitologia e nel folklore di molte culture, il<strong> gufo è considerato un guardiano della conoscenza e un simbolo di profondità mentale. </strong>Ottima idea reagalo!</p>",
+            "image": "shopify://shop_images/knindustrie-moka-forato-cucchiaino-da-caffe.jpg",
+            "caption": "Knindustrie",
+            "heading": "Moka forato - cucchiaino da caffè",
+            "text": "<p>Pensato dallo chef Davide Oldani, Knindustrie ha realizzato questo <a href=\"/products/2294-knindustrie-moka-forato-cucchiaino-da-caffe\" title=\"KnIndustrie Foo'D Finitura Lucida Cucchiaino Moka forato\"><strong>cucchiaino da moka</strong></a><strong> </strong>forato che ti permette di miscelare il caffè senza rovinare la bella cremina che si forma in superficie, lasciando intatto tutto il prezioso sapore del caffè. Il tuo papà apprezzerà!<br/><br/></p>",
             "button_label": "SCOPRILO",
-            "button_link": "shopify://products/superstuff-totem-gufo"
+            "button_link": "shopify://products/2294-knindustrie-moka-forato-cucchiaino-da-caffe"
           }
         },
-        "row_b9bNwV": {
+        "row_mMLtyk": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/seletti-seletti-wears-toiletpaper-padded-chair-sedia-shit.jpg",
+            "image": "shopify://shop_images/seletti-estetico-quotidiano-set-6-tazzine-caffe-in-vetro.jpg",
             "caption": "Seletti",
-            "heading": "Seletti Wears Toiletpaper - Padded Chair | Sedia shit",
-            "text": "<p>Questa <strong>sedia</strong>, creazione di <a href=\"/collections/seletti-catalogo-prodotti-toiletpaper\" title=\"Toiletpaper Seletti\"><strong>Seletti Toiletpaper</strong></a><strong> </strong>regala un po’ di follia, colore e combattività. Un complemento d’arredo del design eccentrico e assolutamente unico.<br/><br/></p>",
-            "button_label": "SCOPRILA",
-            "button_link": "shopify://products/4417-seletti-seletti-wears-toiletpaper-padded-chair-sedia-shit"
+            "heading": "Estetico quotidiano - Set 6 Tazzine Caffè in Vetro",
+            "text": "<p>Originalissime <a href=\"/products/1451-seletti-estetico-quotidiano-set-6-tazzine-caffe-in-vetro\" title=\"Seletti Estetico quotidiano set 6 tazzine caffè in vetro\"><strong>tazzine da caffè</strong></a><strong> </strong>della linea Estetico Quotidiano di Seletti, fornite con palettina in vetro borosilicato, sono un’idea regalo di Natale che chiunque apprezzerebbe! <br/><br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/1451-seletti-estetico-quotidiano-set-6-tazzine-caffe-in-vetro"
           }
         },
-        "row_bB7AaQ": {
+        "row_FVDYLi": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/seletti-magna-graecia-busto-poppea-in-terracotta-2_1.jpg",
-            "caption": "Seletti",
-            "heading": "Magna Graecia Busto Poppea in terracotta",
-            "text": "<p><a href=\"/products/seletti-magna-graecia-busto-poppea-in-terracotta\" title=\"Seletti Magna Graecia Busto Poppea in terracotta\"><strong>Busto in terracotta Poppea</strong></a><strong> </strong>della collezione Magna Graecia disegnata da Antonio Aricò.</p><p>Questo complemento d’arredo dona a qualunque casa un tocco di lusso, eleganza e arte.</p>",
-            "button_label": "SCOPRILA",
-            "button_link": "shopify://products/seletti-magna-graecia-busto-poppea-in-terracotta"
+            "image": "shopify://shop_images/brandani-matt-black-cocktail-shaker-set-3-pz-in-inox.jpg",
+            "caption": "bRANDANI",
+            "heading": "Shaker - per un buon caffè shakerato",
+            "text": "<p>C’è un modo però per assaporare l’aroma intenso del caffè anche da freddo preparando il <strong>caffè shakerato!</strong></p><p><strong>Ogni Papà “barman”</strong> ha la sua ricetta segreta ma la caratteristica che accomuna tutti le varianti consiste in una schiuma spumosa e compatta che si crea dopo aver shakerato gli ingredienti, simile alla crema del cappuccino o al denso strato di panna che caratterizza.</p><p><br/><strong>Ottima idea regalo per i papà che amano il caffè in tutte le sue varianti!</strong></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/brandani-cocktail-set-con-accessori-set-5-pz-in-inox"
           }
         }
       },
       "block_order": [
-        "row_ngWjbg",
-        "row_dta9BH",
-        "row_b9bNwV",
-        "row_bB7AaQ"
+        "row_UXrq6i",
+        "row_mMLtyk",
+        "row_FVDYLi"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
@@ -1132,61 +1120,31 @@
         "padding_bottom": 36
       }
     },
-    "multirow_wYNF8Q": {
-      "type": "multirow",
-      "blocks": {
-        "row_UXrq6i": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-moka-forato-cucchiaino-da-caffe.jpg",
-            "caption": "Knindustrie",
-            "heading": "Moka forato - cucchiaino da caffè",
-            "text": "<p>Pensato dallo chef Davide Oldani, Knindustrie ha realizzato questo <a href=\"/products/2294-knindustrie-moka-forato-cucchiaino-da-caffe\" title=\"KnIndustrie Foo'D Finitura Lucida Cucchiaino Moka forato\"><strong>cucchiaino da moka</strong></a><strong> </strong>forato che ti permette di miscelare il caffè senza rovinare la bella cremina che si forma in superficie, lasciando intatto tutto il prezioso sapore del caffè. Il tuo papà apprezzerà!<br/><br/></p>",
-            "button_label": "SCOPRILO",
-            "button_link": "shopify://products/2294-knindustrie-moka-forato-cucchiaino-da-caffe"
-          }
-        },
-        "row_mMLtyk": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/seletti-estetico-quotidiano-set-6-tazzine-caffe-in-vetro.jpg",
-            "caption": "Seletti",
-            "heading": "Estetico quotidiano - Set 6 Tazzine Caffè in Vetro",
-            "text": "<p>Originalissime <a href=\"/products/1451-seletti-estetico-quotidiano-set-6-tazzine-caffe-in-vetro\" title=\"Seletti Estetico quotidiano set 6 tazzine caffè in vetro\"><strong>tazzine da caffè</strong></a><strong> </strong>della linea Estetico Quotidiano di Seletti, fornite con palettina in vetro borosilicato, sono un’idea regalo di Natale che chiunque apprezzerebbe! <br/><br/></p>",
-            "button_label": "SCOPRILO",
-            "button_link": "shopify://products/1451-seletti-estetico-quotidiano-set-6-tazzine-caffe-in-vetro"
-          }
-        },
-        "row_FVDYLi": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/brandani-matt-black-cocktail-shaker-set-3-pz-in-inox.jpg",
-            "caption": "bRANDANI",
-            "heading": "Shaker - per un buon caffè shakerato",
-            "text": "<p>C’è un modo però per assaporare l’aroma intenso del caffè anche da freddo preparando il <strong>caffè shakerato!</strong></p><p><strong>Ogni Papà “barman”</strong> ha la sua ricetta segreta ma la caratteristica che accomuna tutti le varianti consiste in una schiuma spumosa e compatta che si crea dopo aver shakerato gli ingredienti, simile alla crema del cappuccino o al denso strato di panna che caratterizza.</p><p><br/><strong>Ottima idea regalo per i papà che amano il caffè in tutte le sue varianti!</strong></p>",
-            "button_label": "SCOPRILO",
-            "button_link": "shopify://products/brandani-cocktail-set-con-accessori-set-5-pz-in-inox"
-          }
-        }
-      },
-      "block_order": [
-        "row_UXrq6i",
-        "row_mMLtyk",
-        "row_FVDYLi"
-      ],
-      "name": "t:sections.multirow.presets.name",
+    "featured_collection_6kGdxD": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "image_height": "small",
-        "desktop_image_width": "small",
+        "title": "",
         "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "",
-        "row_color_scheme": "",
-        "mobile_content_alignment": "left",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "diffusori-brandani",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -1269,9 +1227,9 @@
     "image_with_text_c6HwnW",
     "multirow_NRXPfV",
     "image_with_text_nRTgzR",
-    "multirow_JC7jk3",
-    "image_with_text_efjzUn",
     "multirow_wYNF8Q",
+    "image_with_text_efjzUn",
+    "featured_collection_6kGdxD",
     "image_banner_CKVzFq",
     "separator_nbNJQV"
   ]
