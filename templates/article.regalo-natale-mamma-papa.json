@@ -450,7 +450,7 @@
         "text_GmGrm4": {
           "type": "text",
           "settings": {
-            "text": "<p>Per la tua <strong>mamma che ama la cucina </strong>scopri la nostra selezione di idee regalo utili e di design, per rendere la sua cucina ancor più efficiente e circondata d’amore, con qualcosa che è sempre li a<strong> ricordargli di te.</strong><br/></p>",
+            "text": "<p>Per la tua <strong>mamma che ama la cucina </strong>scopri la nostra selezione di idee regalo utili e di design, per rendere la sua cucina ancor più efficiente e circondata d’amore, con qualcosa che è sempre lì a<strong> ricordargli di te.</strong><br/></p>",
             "text_style": "body"
           }
         },
@@ -527,7 +527,7 @@
             "image": "shopify://shop_images/bitossi-home-il-frutto-della-passione-tovaglietta-con-ricami-rosso-1_1.webp",
             "caption": "Bitossi Home",
             "heading": "Il Frutto della Passione Tovaglietta con ricami",
-            "text": "<p><strong>Tovaglietta della collezione</strong> Bitossi Home “<a href=\"/collections/bitossi-home-il-frutto-della-passione-bitossi-home\" title=\"Il Frutto della Passione Bitossi Home\"><strong>Il Frutto della Passione</strong></a>” è illustrata da <strong>Pangea</strong>, due creatrici: <strong>Colombine Jubert e Laetitia Rouget</strong>. La prima è <strong>stilista</strong> e la seconda è <strong>artista</strong> e ceramista. </p><p><strong>Le loro creazioni combinano arte, moda</strong> e performance. </p>",
+            "text": "<p><strong>Tovaglietta della collezione</strong> Bitossi Home “<a href=\"/collections/bitossi-home-il-frutto-della-passione-bitossi-home\" title=\"Il Frutto della Passione Bitossi Home\"><strong>Il Frutto della Passione</strong></a>” è illustrata da <strong>Pangea</strong>, due creatrici: Colombine Jubert e Laetitia Rouget. La prima è stilista e la seconda è artista e ceramista. </p><p><strong>Le loro creazioni combinano arte, moda</strong> e performance. </p>",
             "button_label": "SCOPRILA",
             "button_link": "shopify://products/bitossi-home-il-frutto-della-passione-tovaglietta-con-ricami-rossa-amore-per-sempre"
           }
