@@ -470,7 +470,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/img-categoria-posate_360x_4d025c2a-b614-41a5-a541-f6e1490c1e6f.webp",
+        "image": "shopify://shop_images/La-mamma-che-ama-la-cucina.jpg",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -491,12 +491,12 @@
         "row_97RkUn": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/BrickLanest.washedGold1.jpg",
-            "caption": "KnIndustrie",
-            "heading": "\"Brick Lane\" Finitura Gold",
-            "text": "<p>Il nome <strong>Brick Lane </strong>non è certo casuale: richiama l’omonima via londinese, celebre per il suo vivace mercatino di oggetti vintage, dove le posate Brick Lane sembrerebbero trovare la loro dimora ideale.<br/><br/>Celebra la <strong>Pasqua con charme vintage </strong>grazie al servizio <a href=\"/products/2338-knindustrie-brick-lane-set-24-pz-gold\" title=\"KnIndustrie Brick Lane Finitura Gold Set 24 pz\">Brick Lane di KnIndustrie</a>, perfetto per una tavola elegante e ricca di personalità!<br/><br/></p>",
-            "button_label": "SCOPRI BRICK LANE",
-            "button_link": "shopify://products/2338-knindustrie-brick-lane-set-24-pz-gold"
+            "image": "shopify://shop_images/bitossi-home-guest-piatto-pizza12.webp",
+            "caption": "Bitossi Home",
+            "heading": "Guest - Piatto pizza",
+            "text": "<p><a href=\"/products/bitossi-home-guest-piatto-pizza-mamma-mia\" title=\"Bitossi Home Guest Piatto pizza Mamma Mia\">Il <strong>piatto pizza in ceramica “Guest </strong></a><strong>”</strong>si presenta con linee semplici, perfetto per la mamma che ama presentare la piazza in modo <strong>originale e spiritoso.</strong> Un’idea regalo di Natale elegante e di qualità per la tua mamma. <br/><br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/bitossi-home-guest-piatto-pizza-mamma-mia"
           }
         },
         "row_trGkxn": {
