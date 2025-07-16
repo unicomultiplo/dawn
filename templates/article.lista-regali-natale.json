@@ -82,6 +82,175 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_TmkCnU": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_8JJaCp": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_BEk47P": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<ol><li>Come prima cosa: può anche sembrare scontato ma è ciò che determinerà il successo o meno dei tuoi regali. <strong>Scegli ogni proposta pensando ai gusti e alle necessità della persona che lo riceverà</strong> e dimentica per un attimo i tuoi. Se non conosci così bene questa persona opta per qualcosa di utile con un design non troppo particolare.</li><li><strong>Organizza tutto per tempo</strong>, non ridurti all’ultimo finendo per scegliere cose di cui non sei soddisfatto, magari spendendo anche più del dovuto. Se non hai molto tempo ti consigliamo di acquistare qualcosa online: inizia con lo scegliere i regali che preferisci che puoi aggiungere alla tua lista dei desideri, in modo da controllare se le tue scelte rispettano il budget finale.</li><li>Specialmente per amici e persone più care, è fondamentale che il regalo abbia un reale significato, al di là della cifra spesa per acquistarlo. Quindi <strong>considera prima di tutto il valore emotivo anziché quello economico</strong> nella scelta dei doni, optando per oggetti e idee che sappiano stupire e dimostrare il tuo affetto.</li></ol>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_8JJaCp",
+        "column_BEk47P"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Trova l'Idea Regalo Giusta in 3 Step",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_VhzyPr": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gmjMjE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BANNER-ideeregalo-personaspeciale.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JzFpNn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BANNER-ideeregalo-amiciparenti.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_QRyCjy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BANNER-ideeregalo-colleghiconoscenti.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_gmjMjE",
+        "column_JzFpNn",
+        "column_QRyCjy"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<em>Ancora a corto di idee? Ti aiutiamo noi!</em>Scopri i nostri consigli e le proposte selezionate per creare la tua lista di regali",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_pGrbiB": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_pygxVT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BANNER-ideeregalo-viaggio.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JF9nJL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BANNER-ideeregalo-cucina.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_VXiGqN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BANNER-ideeregalo-happyhour.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_4ampfi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BANNER-ideeregalo-musicatecnologia.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_pygxVT",
+        "column_JF9nJL",
+        "column_VXiGqN",
+        "column_4ampfi"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_qNaQGY": {
       "type": "multicolumn",
       "blocks": {
@@ -204,142 +373,6 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "image_with_text_FqhcGf": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_FtXYnR": {
-          "type": "heading",
-          "settings": {
-            "heading": "La mamma che ama i fiori",
-            "heading_size": "h1"
-          }
-        },
-        "text_nQJj79": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Per la tua mamma che ama i fiori abbiamo pensato a vasi e accessori di design e di alta qualità. <a href=\"/collections/seletti\" title=\"Seletti\"><strong>Seletti</strong></a>, <a href=\"/collections/brandani\" title=\"Brandani\"><strong>Brandani</strong></a><strong> </strong>e <a href=\"/collections/bitossi-home\" title=\"Bitossi Home\"><strong>Bitossi</strong></a>. Quale sarà il preferito della tua mamma?</p><p>Questo lo sai solo tu! Scopri subito la nostra selezione e trova il regalo più in linea con i suoi gusti.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_QBXRxw": {
-          "type": "button",
-          "settings": {
-            "button_label": "IDEE REGALO PER LA MAMMA",
-            "button_link": "shopify://collections/idee-regalo-regali-per-lei",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_FtXYnR",
-        "text_nQJj79",
-        "button_QBXRxw"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/La-mamma-che-ama-i-fiori.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multirow_WBcUcW": {
-      "type": "multirow",
-      "blocks": {
-        "row_QrcyLc": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/Love-in-Bloom-Seletti_196422cc-27a4-45b1-8a92-bd393047e649.webp",
-            "caption": "Seletti ",
-            "heading": "Love in Bloom - vaso cuore",
-            "text": "<p>Ricorda alla tua mamma quanto la ami con questo fantastico <a href=\"/collections/love-in-bloom-seletti\" title=\"Love in Bloom Seletti\"><strong>vaso cuore</strong> <strong>firmato Seletti</strong></a>. Da appoggiare o appendere, all’interno della confezione la tua mamma troverà un bellissimo biglietto con scritto “from me to you”.</p><p>Il tuo cuore ora è suo per sempre!</p>",
-            "button_label": "SCOPRILO",
-            "button_link": "shopify://collections/bitossi-home-il-frutto-della-passione-bitossi-home"
-          }
-        },
-        "row_Ywznn8": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/Bitossi-Home-Tavola-Scomposta-Grazie-dei-fiori-vaso-ceramica-Rosso.webp",
-            "caption": "Bitossi Home",
-            "heading": "Tavola Scomposta - Grazie dei fiori",
-            "text": "<p>Una mano di pura ceramica bianca, unghie laccate di rosso rubino, che stringe petali per un regalo speciale: <strong>Bitossi Home</strong> trasforma ogni tavola in un <a href=\"/products/2339-bitossi-home-tavola-scomposta-grazie-dei-fiori-vaso-ceramica\" title=\"Bitossi Home Tavola Scomposta Grazie dei fiori vaso ceramica Rosso\"><strong>abbraccio floreale per la mamma.</strong></a><br/><br/></p>",
-            "button_label": "SCOPRILO",
-            "button_link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid"
-          }
-        },
-        "row_zYTcjd": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/seletti-hybrid-vaso-lfe.jpg",
-            "caption": "Seletti",
-            "heading": "Hybrid - vaso Lfe",
-            "text": "<p>La collezione <a href=\"/collections/seletti-catalogo-prodotti-hybrid\" title=\"Seletti Hybrid\"><strong>Hybrid</strong></a>, firmata <a href=\"/collections/seletti\" title=\"Seletti\"><strong>Seletti</strong></a>, attraverso un vaso mette faccia a faccia Oriente e Occidente, Nord e Sud del mondo, dando vita ad un connubio elegante e raffinato.</p><p>Un’idea regalo di Natale unica per una mamma che ama i fiori!</p>",
-            "button_label": "SCOPRILO",
-            "button_link": "shopify://products/4764-seletti-hybrid-vaso-lfe"
-          }
-        }
-      },
-      "block_order": [
-        "row_QrcyLc",
-        "row_Ywznn8",
-        "row_zYTcjd"
-      ],
-      "name": "t:sections.multirow.presets.name",
-      "settings": {
-        "image_height": "small",
-        "desktop_image_width": "small",
-        "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "scheme-1",
-        "row_color_scheme": "scheme-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "featured_collection_DcQkgR": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "uppercase",
-        "collection": "complementi-arredo-vasi",
-        "products_to_show": 25,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "scheme-2",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 20,
-        "padding_bottom": 20
       }
     },
     "image_with_text_6D7wzF": {
@@ -1286,10 +1319,10 @@
   "order": [
     "main",
     "multicolumn_WpyCnX",
+    "multicolumn_TmkCnU",
+    "multicolumn_VhzyPr",
+    "multicolumn_pGrbiB",
     "multicolumn_qNaQGY",
-    "image_with_text_FqhcGf",
-    "multirow_WBcUcW",
-    "featured_collection_DcQkgR",
     "image_with_text_6D7wzF",
     "multirow_gaUUHh",
     "featured_collection_DHefMh",
