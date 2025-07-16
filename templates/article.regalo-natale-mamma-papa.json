@@ -1119,7 +1119,7 @@
         "text_KFbmg3": {
           "type": "text",
           "settings": {
-            "text": "<p>Per il tuo papà che <strong>ama bere caffè, tè e tisane</strong>, abbiamo pensato ad una selezione di idee regalo che si basa su classici accessori che, di classico, hanno ben poco! Sei curioso? Scoprila subito! <br/><br/></p>",
+            "text": "<p>Per il tuo papà che <strong>ama bere caffè, tè e tisane</strong>, abbiamo pensato ad una selezione di idee regalo che si basa su classici accessori che, di classico, hanno ben poco! Sei curioso? <strong>Scoprila subito! </strong><br/><br/></p>",
             "text_style": "body"
           }
         },
