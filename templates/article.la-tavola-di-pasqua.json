@@ -664,11 +664,20 @@
             "text": "<p>Il <strong>segnaposto per la tavola di Pasqua</strong> è un elemento da non sottovalutare, ricorda ai tuoi ospiti dove sedersi e dona un tocco di cura in più alla tua tavola.</p><p>Inutile dire che deve essere di qualità e buon gusto. Meglio ancora se si opta per qualcosa di originale e creativo, che salti all’occhio! </p>",
             "text_style": "body"
           }
+        },
+        "button_hUJNnb": {
+          "type": "button",
+          "settings": {
+            "button_label": "ESPLORA LE TOVAGLIETTE",
+            "button_link": "shopify://collections/cucina-e-tavola-tovaglie-e-tovagliette",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
         "heading_U9QXdV",
-        "text_hGBY3g"
+        "text_hGBY3g",
+        "button_hUJNnb"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
