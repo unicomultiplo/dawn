@@ -809,12 +809,12 @@
         "row_kmqAmU": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Seletti-Hybrid-Tovaglietta-Bersabea_1.jpg",
-            "caption": "Seletti",
-            "heading": "\"Hybrid\" - Tovagliette dell'incontro",
-            "text": "<p>Quando est e ovest si incontrano, arriva <strong>“</strong><a href=\"/collections/seletti-catalogo-prodotti-hybrid\" title=\"Seletti Hybrid\"><strong>Hybrid</strong></a><strong>”</strong>, una collezione ispirata alle antiche tradizioni orientale e occidentale.</p><p>La serie si compone di tre varianti, accumunate dalla netta linea centrale che unisce e separa Oriente e Occidente.</p><p>Un<strong> segnaposto di Pasqua</strong> eccentrico e originale: è Seletti.</p>",
-            "button_label": "VEDI LE TOVAGLIETTE HYBRID",
-            "button_link": "shopify://products/seletti-hybrid-tovaglietta-bersabea"
+            "image": "shopify://shop_images/Brandani-Gourmet_-Decanter-Vino.webp",
+            "caption": "Brandani",
+            "heading": "Gourmet -  Decanter Vino",
+            "text": "<p>Il <a href=\"/products/2716-brandani-gourmet-decanter-decanter-vino-075-lt\" title=\"Brandani Gourmet Decanter Vino\"><strong>Decanter Gourmet</strong></a> in vetro di Brandani è il sogno di tutti coloro che amano una mise en place impeccabile. Sarà un piacere per il tuo papà servire il vino ai tuoi ospiti.<br/><br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/2716-brandani-gourmet-decanter-decanter-vino-075-lt"
           }
         }
       },
