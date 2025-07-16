@@ -418,7 +418,7 @@
         "button_6MncmJ": {
           "type": "button",
           "settings": {
-            "button_label": "ESLPORA LA COLLEZIONE",
+            "button_label": "ESLPORA LA COLLEZIONE COMPLETA",
             "button_link": "shopify://collections/cucina-e-tavola-posate",
             "button_style_secondary": true
           }
@@ -456,7 +456,7 @@
             "caption": "KnIndustrie",
             "heading": "\"Brick Lane\" Finitura Gold",
             "text": "<p>Il nome <strong>Brick Lane </strong>non è certo casuale: richiama l’omonima via londinese, celebre per il suo vivace mercatino di oggetti vintage, dove le posate Brick Lane sembrerebbero trovare la loro dimora ideale.<br/><br/>Celebra la <strong>Pasqua con charme vintage </strong>grazie al servizio <a href=\"/products/2338-knindustrie-brick-lane-set-24-pz-gold\" title=\"KnIndustrie Brick Lane Finitura Gold Set 24 pz\">Brick Lane di KnIndustrie</a>, perfetto per una tavola elegante e ricca di personalità!<br/><br/></p>",
-            "button_label": "Scopri Brick Lane",
+            "button_label": "SCOPRI BRICK LANE",
             "button_link": "shopify://products/2338-knindustrie-brick-lane-set-24-pz-gold"
           }
         },
@@ -467,7 +467,7 @@
             "caption": "Bitossi Home",
             "heading": "\"Torchon\" - Posate a servire",
             "text": "<p>La collezione <a href=\"/products/bitossi-home-torchon-set-posate-insalata-l-31-cm\" title=\"Bitossi Home Torchon Set posate insalata L 31 cm\"><strong>Torchon di Bitossi Home</strong></a><strong> </strong>propone una raffinata selezione di posate e accessori per la tavola caratterizzati da manici intrecciati ispirati al motivo “torchon” e impreziositi da piccoli<strong> dettagli in resina colorata.</strong><br/><br/>Rendi unica la<strong> tua tavola di Pasqua</strong> con la collezione <strong>Torchon di Bitossi Home:</strong> intrecci raffinati e dettagli colorati per celebrare dolci momenti in stile artigianale.<br/><br/></p>",
-            "button_label": "Scopri Torchon",
+            "button_label": "SCOPRI TORCHON",
             "button_link": "shopify://products/bitossi-home-torchon-set-2-coltelli-spargi-burro-15-cm"
           }
         },
@@ -478,8 +478,8 @@
             "caption": "Knindustrie",
             "heading": "\"700\" - Servizio Posate Satin",
             "text": "<p>Le<a href=\"/collections/knindustrie-catalogo-prodotti-posate\" title=\"KnIndustrie: Posate\"> <strong>posate KnIndustrie</strong></a> sono ispirate alle antiche posate del XVIII secolo, realizzate <strong>in acciaio satinato</strong>. Il design ricorda le forme classiche dei manici di posate a corte, dove la cura dei dettagli era fondamentale per esprimere eleganza e raffinatezza.</p><p>Se desideri donare un tocco d’altri tempo alla tua <strong>tavola di Pasqua</strong>, KnIndustrie ha realizzato le posate giuste per te.</p>",
-            "button_label": "Scopri \"700\"",
-            "button_link": ""
+            "button_label": "SCOPRI '700",
+            "button_link": "shopify://products/4177-knindustrie-700-posto-tavola-set-4-posate"
           }
         },
         "row_pHqHjt": {
@@ -489,7 +489,7 @@
             "caption": "Bitossi Home",
             "heading": "\"Romantica\" - Set Posate in Oro Opaco",
             "text": "<p>E perché non osare con un tocco di oro per impreziosire la tua tavola delle feste? <strong>“</strong><a href=\"/products/bitossi-home-vintage-favorita-set-posate-oro-opaco\" title=\"Bitossi Home Vintage Romantica Set Posate Oro Opaco 24 PZ\"><strong>Romantica</strong></a><strong>”</strong> è il set completo di <strong>Bitossi Home</strong> con elegante finitura gold, dal sapore vintage.</p><p>Un set per 6 posti tavola completi di forchetta, cucchiaio, coltelli e cucchiaino.. e <strong>la tua tavola di Pasqua è pronta a brillare!</strong></p>",
-            "button_label": "Scopri il Set",
+            "button_label": "SCOPRI ROMANTICA",
             "button_link": "shopify://products/bitossi-home-vintage-favorita-set-posate-oro-opaco"
           }
         }
@@ -533,11 +533,20 @@
             "text": "<p>Non puoi <strong>decorare la tavola per la Pasqua</strong> senza aver scelto un elemento cardine della tua <em>mise-en-place</em>: <strong>il centrotavola</strong>.</p><p>Capace di rivoluzionare l’intero aspetto della tavola, non è solo un elemento di decoro ma può essere anche un elemento utile per servire il tuo menu Paquale, sottolineandone tutta la cura che hai messo nel prepararlo.</p><p>Se sei in cerca di un <strong>centrotavola pasquale</strong> adatto al look della tua tavola, non perderti i nostri consigli!</p>",
             "text_style": "body"
           }
+        },
+        "button_mWCY4e": {
+          "type": "button",
+          "settings": {
+            "button_label": "ESPLORA TUTTI I CENTROTAVOLA E ALZATE",
+            "button_link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate",
+            "button_style_secondary": true
+          }
         }
       },
       "block_order": [
         "heading_gbbJ4D",
-        "text_3kG9Rq"
+        "text_3kG9Rq",
+        "button_mWCY4e"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
@@ -566,7 +575,7 @@
             "caption": "KnIndustrie",
             "heading": "\"Materials\" - Vassoio Girevole",
             "text": "<p>Un <a href=\"/products/knindustrie-centrotavola-gastronomico-girevole\" title=\"knIndustrie Centrotavola Gastronomico Girevole Bianco\"><strong>vassoio girevole, realizzato in marmo</strong></a>, che consente di scegliere la pietanza preferita semplicemente girandolo.</p><p>Ideale come <strong>centrotavola di Pasqua</strong> per conferire un aspetto sofisticato e minimale all’ambiente.</p>",
-            "button_label": "Materials - Vassoio Girevole",
+            "button_label": "MATERIALS - VASSOIO GIREVOLE",
             "button_link": "shopify://products/knindustrie-centrotavola-gastronomico-girevole"
           }
         },
@@ -577,7 +586,7 @@
             "caption": "KnIndustrie",
             "heading": "\"Essenze\" - Centrotavola Gastronomico",
             "text": "<p>Il <a href=\"/collections/centrotavola-gastronomico-knindustrie\" title=\"Centrotavola Gastronomico KnIndustrie\"><strong>Centrotavola Gastronomico Essenze</strong></a> incarna il vero significato delle feste e della Pasqua.</p><p>Si tratta di un progetto affascinante della designer Sirine Graiaa, <strong>incentrato sulla condivisione e l’aggregazione</strong>, per impreziosire una tavola accogliente e in grande stile. </p><p>Un <strong>centrotavola pasquale</strong> per una <em>mise-en-place</em> distinta e di classe.</p>",
-            "button_label": "Centrotavola Gastronomici",
+            "button_label": "SCOPRI IL CENTROTAVOLA GIREVOLE",
             "button_link": "shopify://collections/centrotavola-gastronomico-knindustrie"
           }
         },
@@ -588,7 +597,7 @@
             "caption": "Seletti",
             "heading": "\"Hybrid\" - Vaso Melania",
             "text": "<p><a href=\"/products/1518-seletti-hybrid-vaso-melania\" title=\"Seletti Hybrid Vaso Melania\"><strong>Melania, della collezione “Hybrid”</strong></a> firmata Seletti, è un elegante vaso in porcellana che crea un connubio tra due stili e culture diverse.</p><p>Un <strong>centrotavola pasquale con fiori </strong>che dona un aspetto affascinante a qualunque apparecchiatura.</p>",
-            "button_label": "Vasi Seletti",
+            "button_label": "ESPLORA I VASI SELETTI",
             "button_link": "shopify://collections/vasi-seletti"
           }
         },
@@ -599,7 +608,7 @@
             "caption": "KnIndustrie",
             "heading": "\"Shapeless\" - Cestino Porta Pane",
             "text": "<p><strong>Il pane ha sempre un posto speciale sulla tavola di Pasqua!</strong></p><p><a href=\"/products/knindustrie-shapeless-cestino-portapane\" title=\"KnIndustrie Shapeless Cestino Portapane\"><strong>Shapeless</strong></a> è un cestino per il pane, pensato e prodotto da <strong>KnIndustrie</strong>. Realizzato in vetro borosilicato, dal design minimalista ed elegante.</p><p>Dona un senso di cura del dettaglio alla tua tavola, con un tocco di carattere e design.</p>",
-            "button_label": "Scopri Shapeless ",
+            "button_label": "SCOPRI SHAPELESS",
             "button_link": "shopify://products/knindustrie-shapeless-cestino-portapane"
           }
         },
@@ -610,7 +619,7 @@
             "caption": "Miho",
             "heading": "Candelabri Artigianali",
             "text": "<p>Miho propone <strong>eccentrici candelabri fatti interamente a mano</strong>, lavorati nei minimi dettagli che ricordano gli oggetti antichi dei nostri nonni. </p><p>Posti al centro della tua <strong>tavola di Pasqua</strong>, doneranno un aspetto di ricercatezza all’intera <em>mise-en-place</em>.</p>",
-            "button_label": "Candelabri Artigianali",
+            "button_label": "VEDI TUTTI I CANDELABRI MIHO",
             "button_link": "https://www.unicoemultiplo.com/collections/miho?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Candelabri+e+Candele&sort_by=manual"
           }
         }
