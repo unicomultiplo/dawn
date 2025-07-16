@@ -683,26 +683,26 @@
             "button_link": "shopify://products/kikkerland-7-in-1-gadget-pen-penna"
           }
         },
-        "row_RKJaYG": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/52837brandani-shanti-tazza-81.jpg",
-            "caption": "Brandani",
-            "heading": "Shanti - Tazza Mug",
-            "text": "<p>Caffellatte, cappuccino o latte macchiato? Cosa beve la tua mamma a colazione? Non importa perché nella <a href=\"/products/brandani-shanti-tazza-mug\" title=\"Brandani Shanti  Tazza Mug\"><strong>Brandani Shanti Mug</strong></a><strong> </strong>ci va ogni cosa. Ma proprio tutto.<strong> L’idea regalo di Natale</strong> giusta per dolci risvegli!<br/></p>",
-            "button_label": "SCOPRILA",
-            "button_link": "shopify://products/brandani-shanti-tazza-mug"
-          }
-        },
         "row_gQh3m9": {
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/seletti-kintsugi-tazzina-da-caffe-doppio-manico.jpg",
-            "caption": "Seletti",
-            "heading": "Kintsugi - tazzina da caffè | doppio manico",
-            "text": "<p>Una <a href=\"/products/3426-seletti-kintsugi-tazzina-da-caffe-doppio-manico\" title=\"Seletti Kintsugi Tazzina da caffè doppio manico\"><strong>tazzina da caffè</strong></a><strong> </strong>che spazia tra il <strong>tradizionale </strong>e il <strong>moderno</strong>, realizzata in porcellana con un’antica tecnica giapponese, è il frutto della collaborazione di Seletti e Marcantonio che hanno dato vita a <a href=\"/collections/seletti-catalogo-prodotti-seletti-kintsugi-tazze\" title=\"Tazze Kintsugi\"><strong>Kintsugi</strong></a>. Un regalo bellissimo per la tua mamma.<br/><br/></p>",
-            "button_label": "SCOPRILA",
-            "button_link": "shopify://products/3426-seletti-kintsugi-tazzina-da-caffe-doppio-manico"
+            "caption": "Brandani",
+            "heading": "Set Degustazione Vino 4 Pz Con Cofanetto",
+            "text": "<p>Il <a href=\"/products/brandani-set-degustazione-vino-4-pz-con-cofanetto\" title=\"Brandani Set Degustazione Vino 4 Pz Con Cofanetto\"><strong>Set Degustazione Vino 4 pezzi di Brandani</strong></a> è l’accessorio ideale per gli amanti del vino che vogliono servirlo con eleganza e precisione. Il set comprende un cavatappi professionale, un tappo versatore, un anello salvagoccia e un tagliacapsule, tutto custodito in un raffinato cofanetto in bamboo naturale, perfetto per aggiungere un tocco di stile alla tua collezione di accessori.<br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/brandani-set-degustazione-vino-4-pz-con-cofanetto"
+          }
+        },
+        "row_RKJaYG": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/kikkerland-terracotta-seed-sprouters-germogliatori-di-semi-in-terracotta_3.webp",
+            "caption": "Kikkerland",
+            "heading": "Germogliatori di Semi in Terracotta",
+            "text": "<p>Il <a href=\"/products/kikkerland-seed-sprouters-germogliatori-di-semi-in-terracotta\" title=\"Kikkerland Seed Sprouters - Germogliatori di Semi in Terracotta\"><strong>Germogliatore in Terracotta di Kikkerland</strong> </a>è l’accessorio perfetto per gli appassionati di giardinaggio che vogliono coltivare germogli in modo naturale ed ecologico. Grazie alle proprietà traspiranti della terracotta, crea un ambiente ideale per la crescita dei semi, mantenendo il giusto livello di umidità con il minimo sforzo.<br/><br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/kikkerland-seed-sprouters-germogliatori-di-semi-in-terracotta"
           }
         },
         "row_gtPRNU": {
@@ -719,8 +719,8 @@
       },
       "block_order": [
         "row_TLaB9L",
-        "row_RKJaYG",
         "row_gQh3m9",
+        "row_RKJaYG",
         "row_gtPRNU"
       ],
       "name": "t:sections.multirow.presets.name",
