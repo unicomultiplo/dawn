@@ -986,7 +986,7 @@
           "type": "button",
           "settings": {
             "button_label": "IDEE REGALO PER LUI",
-            "button_link": "shopify://collections/complementi-arredo-quadri-e-stampe",
+            "button_link": "shopify://collections/knindustrie-catalogo-prodotti-experimental-cocktail",
             "button_style_secondary": true
           }
         }
@@ -998,7 +998,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/cosa-regalare-al-papa-che-ama-l-arte_1.webp",
+        "image": "shopify://shop_images/ideeregalo-happyhour.jpg",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
