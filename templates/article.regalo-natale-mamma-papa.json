@@ -1064,7 +1064,7 @@
         "row_dta9BH": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Bitossi_Home_Smerlo_Se-_4-tovagliette-bordo-smerlato_1.jpg",
+            "image": "shopify://shop_images/superstuff-totem-gufo.webp",
             "caption": "Superstuff",
             "heading": "Totem Gufo - Saggezza",
             "text": "<p>Realizzato con materiali di alta qualità, questo totem si distingue per il suo design <strong>accattivante e moderno</strong>, che combina linee pulite con dettagli accurati. La scelta del gufo non è casuale: nella mitologia e nel folklore di molte culture, il<strong> gufo è considerato un guardiano della conoscenza e un simbolo di profondità mentale. </strong>Ottima idea reagalo!</p>",
@@ -1075,19 +1075,31 @@
         "row_b9bNwV": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Seletti-Hybrid-Tovaglietta-Bersabea_1.jpg",
+            "image": "shopify://shop_images/seletti-seletti-wears-toiletpaper-padded-chair-sedia-shit.jpg",
             "caption": "Seletti",
-            "heading": "\"Hybrid\" - Tovagliette dell'incontro",
-            "text": "<p>Quando est e ovest si incontrano, arriva <strong>“</strong><a href=\"/collections/seletti-catalogo-prodotti-hybrid\" title=\"Seletti Hybrid\"><strong>Hybrid</strong></a><strong>”</strong>, una collezione ispirata alle antiche tradizioni orientale e occidentale.</p><p>La serie si compone di tre varianti, accumunate dalla netta linea centrale che unisce e separa Oriente e Occidente.</p><p>Un<strong> segnaposto di Pasqua</strong> eccentrico e originale: è Seletti.</p>",
-            "button_label": "VEDI LE TOVAGLIETTE HYBRID",
-            "button_link": "shopify://products/seletti-hybrid-tovaglietta-bersabea"
+            "heading": "Seletti Wears Toiletpaper - Padded Chair | Sedia shit",
+            "text": "<p>Questa <strong>sedia</strong>, creazione di <a href=\"/collections/seletti-catalogo-prodotti-toiletpaper\" title=\"Toiletpaper Seletti\"><strong>Seletti Toiletpaper</strong></a><strong> </strong>regala un po’ di follia, colore e combattività. Un complemento d’arredo del design eccentrico e assolutamente unico.<br/><br/></p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/4417-seletti-seletti-wears-toiletpaper-padded-chair-sedia-shit"
+          }
+        },
+        "row_bB7AaQ": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/seletti-magna-graecia-busto-poppea-in-terracotta-2_1.jpg",
+            "caption": "Seletti",
+            "heading": "Magna Graecia Busto Poppea in terracotta",
+            "text": "<p><a href=\"/products/seletti-magna-graecia-busto-poppea-in-terracotta\" title=\"Seletti Magna Graecia Busto Poppea in terracotta\"><strong>Busto in terracotta Poppea</strong></a><strong> </strong>della collezione Magna Graecia disegnata da Antonio Aricò.</p><p>Questo complemento d’arredo dona a qualunque casa un tocco di lusso, eleganza e arte.</p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/seletti-magna-graecia-busto-poppea-in-terracotta"
           }
         }
       },
       "block_order": [
         "row_ngWjbg",
         "row_dta9BH",
-        "row_b9bNwV"
+        "row_b9bNwV",
+        "row_bB7AaQ"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
@@ -1139,7 +1151,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Bitossi-Home-Funky-Table_1.png",
+        "image": "shopify://shop_images/La-mamma-che-ama-caffe-te-tisane_1.webp",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
