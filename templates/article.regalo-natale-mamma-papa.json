@@ -746,15 +746,15 @@
         "text_hGBY3g": {
           "type": "text",
           "settings": {
-            "text": "<p>Il <strong>segnaposto per la tavola di Pasqua</strong> è un elemento da non sottovalutare, ricorda ai tuoi ospiti dove sedersi e dona un tocco di cura in più alla tua tavola.</p><p>Inutile dire che deve essere di qualità e buon gusto. Meglio ancora se si opta per qualcosa di originale e creativo, che salti all’occhio! </p>",
+            "text": "<p>Tutti lo bevono ma pochi lo comprendono davvero!<br/>Se il tuo papà si distingue dalla massa, regalagli qualcosa di davvero speciale dalla nostra <strong>accurata selezione di gadget </strong>per veri amanti del vino!<br/></p>",
             "text_style": "body"
           }
         },
         "button_hUJNnb": {
           "type": "button",
           "settings": {
-            "button_label": "ESPLORA LE TOVAGLIETTE SEGNAPOSTO",
-            "button_link": "shopify://collections/cucina-e-tavola-tovaglie-e-tovagliette",
+            "button_label": "IDEE REGALO PER LUI",
+            "button_link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici",
             "button_style_secondary": true
           }
         }
@@ -766,7 +766,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Bitossi-Home-Funky-Table_1.png",
+        "image": "shopify://shop_images/il-papa-che-ama-il-vino_1.webp",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -787,23 +787,23 @@
         "row_AHrB7f": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Segnaposto-per-la-Tavola-di-Pasqua500x375_1.jpg",
-            "caption": "Bitossi Home",
-            "heading": "\"Lettering\" - Piattino da dessert",
-            "text": "<p>Per una scelta davvero originale, arriva <strong>“</strong><a href=\"/products/3115-bitossi-home-lettering\" title=\"Bitossi Home Lettering Piattino da dessert Ø 12\"><strong>Lettering”, collezione firmata Bitossi Home</strong></a>, che propone dei piattini pane in porcellana bianca con una lettera d’oro al centro.</p><p>Se vuoi davvero che il tuo <strong>segnaposto Pasquale</strong> sia diverso, unico, non esitare e dona un tocco originale in pieno stile Bitossi Home.</p>",
-            "button_label": "SCOPRI LETTERING",
-            "button_link": "shopify://products/3115-bitossi-home-lettering"
+            "image": "shopify://shop_images/Brandani-cavatappi-elettrico.jpg",
+            "caption": "Brandani Home",
+            "heading": "Cavatappi Elettrico",
+            "text": "<p>A tuo padre regala un aggeggio pratico e funzionale. Con il <a href=\"/products/285-brandani-cavatappi-cavatappi-elettrico\" title=\"Brandani Home Cavatappi Cavatappi elettrico\"><strong>cavatappi elettrico</strong></a><strong> </strong>della linea <strong>Brandani Home </strong>è possibile aprire le bottiglie in maniera pratica e veloce! Può un’amante del vino non apprezzarlo?<br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/285-brandani-cavatappi-cavatappi-elettrico"
           }
         },
         "row_NqyfWc": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Bitossi_Home_Smerlo_Se-_4-tovagliette-bordo-smerlato_1.jpg",
-            "caption": "Bitossi Home",
-            "heading": "\"Smerlo\" - Tovagliette Colorate con Bordo Smerlato",
-            "text": "<p>Sottopiatti e tovagliette portano alla tavola un pizzico di magia e particolarità.</p><p>Le <a href=\"/collections/bitossi-home-smerlo-bitossi-home\" title=\"Smerlo Bitossi Home\"><strong>tovagliette Smerlo di Bitossi Home</strong>,</a> in lino cotone con trattamento antimacchia sono disponibili in sei colori diversi e bordo sagomato a contrasto.</p><p>Un <strong>segnaposto variopinto per la tua tavola di Pasqua</strong> capace di mettere in risalto qualsiasi <em>mise-en-place</em>, dalle elaborate alle più minimali. </p>",
-            "button_label": "ESPLORA LA COLLEZIONE SMERLO",
-            "button_link": "shopify://collections/bitossi-home-smerlo-bitossi-home"
+            "image": "shopify://shop_images/Bicchieri-vino-point-KnIndustrie.jpg",
+            "caption": "KnIndustrie",
+            "heading": "Point - Set 6 calici vino rosso",
+            "text": "<p>Un <strong>bicchiere </strong>di vino rosso semplice, elegante e raffinato. Non te lo immagini già? Tuo papà che gusta il suo vino preferito sul divano. Idea regalo fantastica firmato <a href=\"/products/4283-knindustrie-point-calici-vino-set-6-bicchieri\" title=\"KnIndustrie Point Calici Vino Set 6 Bicchieri\"><strong>KnIndustrie</strong></a>!<br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/4283-knindustrie-point-calici-vino-set-6-bicchieri"
           }
         },
         "row_kmqAmU": {
