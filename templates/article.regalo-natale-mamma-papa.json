@@ -369,7 +369,7 @@
             "image": "shopify://shop_images/seletti-kintsugi-teiera-in-porcellana-e-oro_a71fa028-27e4-434b-ad35-1e7bfbc89314.webp",
             "caption": "SELETTI",
             "heading": "Teiera Kintsugi",
-            "text": "<p><strong>Design di Marcantonio</strong>, ideale per impreziosire la tua tavola con un accento di natura ed eleganza.</p><p>Un capolavoro in porcellana, decorato seguendo la tecnica <a href=\"/products/seletti-kintsugi-teiera-in-porcellana-e-oro\" title=\"Seletti Kintsugi Teiera In Porcellana e Oro\">Kintsugi </a>con dettagli in oro.</p>",
+            "text": "<p><strong>Design di Marcantonio</strong>, ideale per impreziosire la tua tavola con un accento di natura ed eleganza.</p><p>Un capolavoro in porcellana, decorato seguendo la tecnica <a href=\"/products/seletti-kintsugi-teiera-in-porcellana-e-oro\" title=\"Seletti Kintsugi Teiera In Porcellana e Oro\"><strong>Kintsugi </strong></a>con dettagli in oro.</p>",
             "button_label": "SCOPRILA",
             "button_link": "shopify://products/seletti-kintsugi-teiera-in-porcellana-e-oro"
           }
@@ -516,7 +516,7 @@
             "image": "shopify://shop_images/KnIndustrie-Beyond-Basic-The-pasta_b273b162-20cd-4486-9171-3c248e7a01a5.jpg",
             "caption": "Knindustrie",
             "heading": "Beyond Basic - The pasta",
-            "text": "<p>Una <a href=\"/products/1732-knindustrie-beyond-basic-the-pasta\" title=\"KnIndustrie Beyond Basic The pasta\"><strong>pentola in accciao inox satinato</strong></a>, così elegante e raffinata che quasi fai fatica a sporcarla! Funzionalità e design si sposano per un connubio perfetto con questa pentola firmata KnIndustrie.</p>",
+            "text": "<p>Una <a href=\"/products/1732-knindustrie-beyond-basic-the-pasta\" title=\"KnIndustrie Beyond Basic The pasta\"><strong>pentola in accciao inox satinato</strong></a>, così elegante e raffinata che quasi fai fatica a sporcarla! Funzionalità e design si sposano per un connubio perfetto con questa pentola firmata <a href=\"/collections/knindustrie\" title=\"KnIndustrie\"><strong>KnIndustrie</strong></a>.</p>",
             "button_label": "SCOPRILA",
             "button_link": "shopify://products/1732-knindustrie-beyond-basic-the-pasta"
           }
@@ -526,8 +526,8 @@
           "settings": {
             "image": "shopify://shop_images/bitossi-home-il-frutto-della-passione-tovaglietta-con-ricami-rosso-1_1.webp",
             "caption": "Bitossi Home",
-            "heading": "Il Frutto della Passione Tovaglietta con ricami Rossa",
-            "text": "<p><strong>Tovaglietta della collezione</strong> Bitossi Home “<strong>Il Frutto della Passione</strong>” è illustrata da <strong>Pangea</strong>, due creatrici: <strong>Colombine Jubert e Laetitia Rouget</strong>. La prima è <strong>stilista</strong> e la seconda è <strong>artista</strong> e ceramista. </p><p><strong>Le loro creazioni combinano arte, moda</strong> e performance. </p>",
+            "heading": "Il Frutto della Passione Tovaglietta con ricami",
+            "text": "<p><strong>Tovaglietta della collezione</strong> Bitossi Home “<a href=\"/collections/bitossi-home-il-frutto-della-passione-bitossi-home\" title=\"Il Frutto della Passione Bitossi Home\"><strong>Il Frutto della Passione</strong></a>” è illustrata da <strong>Pangea</strong>, due creatrici: <strong>Colombine Jubert e Laetitia Rouget</strong>. La prima è <strong>stilista</strong> e la seconda è <strong>artista</strong> e ceramista. </p><p><strong>Le loro creazioni combinano arte, moda</strong> e performance. </p>",
             "button_label": "SCOPRILA",
             "button_link": "shopify://products/bitossi-home-il-frutto-della-passione-tovaglietta-con-ricami-rossa-amore-per-sempre"
           }
@@ -639,23 +639,23 @@
         "row_TLaB9L": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-materials-vassoio-girevole-bianco350x2501-300x214.jpg",
+            "image": "shopify://shop_images/seletti-hybrid-tazza-da-te-kerma.jpg",
             "caption": "Seletti",
-            "heading": "\"Hybrid\" - tazza da tè kerma",
-            "text": "<p>Un <a href=\"/products/knindustrie-centrotavola-gastronomico-girevole\" title=\"knIndustrie Centrotavola Gastronomico Girevole Bianco\"><strong>vassoio girevole, realizzato in marmo</strong></a>, che consente di scegliere la pietanza preferita semplicemente girandolo.</p><p>Ideale come <strong>centrotavola di Pasqua</strong> per conferire un aspetto sofisticato e minimale all’ambiente.</p>",
-            "button_label": "MATERIALS - VASSOIO GIREVOLE",
-            "button_link": "shopify://products/knindustrie-centrotavola-gastronomico-girevole"
+            "heading": "Hybrid - tazza da tè Kerma",
+            "text": "<p>Ti presentiamo <a href=\"/products/4770-seletti-hybrid-tazza-da-te-kerma\" title=\"Seletti Hybrid tazza da tè Kerma\"><strong>Kerma</strong></a>, della collezione <strong>Hybrid</strong>, disegnata dal duo italo-greco CTRLZAK, Una tazzina e un piatto realizzati in pura <strong>porcellana New Bone China</strong>, con decorazioni rifinite a mano. Questo regalo parla d’amore!<br/></p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/4770-seletti-hybrid-tazza-da-te-kerma"
           }
         },
         "row_RKJaYG": {
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/KnIndustrie-Centrotavola-Gastronomico-Essenze-1024x768.jpg",
-            "caption": "KnIndustrie",
-            "heading": "\"Essenze\" - Centrotavola Gastronomico",
-            "text": "<p>Il <a href=\"/collections/centrotavola-gastronomico-knindustrie\" title=\"Centrotavola Gastronomico KnIndustrie\"><strong>Centrotavola Gastronomico Essenze</strong></a> incarna il vero significato delle feste e della Pasqua.</p><p>Si tratta di un progetto affascinante della designer Sirine Graiaa, <strong>incentrato sulla condivisione e l’aggregazione</strong>, per impreziosire una tavola accogliente e in grande stile. </p><p>Un <strong>centrotavola pasquale</strong> per una <em>mise-en-place</em> distinta e di classe.</p>",
-            "button_label": "SCOPRI IL CENTROTAVOLA GIREVOLE",
-            "button_link": "shopify://collections/centrotavola-gastronomico-knindustrie"
+            "caption": "Brandani",
+            "heading": "Shanti - Tazza Mug",
+            "text": "<p>Caffellatte, cappuccino o latte macchiato? Cosa beve la tua mamma a colazione? Non importa perché nella <a href=\"/products/brandani-shanti-tazza-mug\" title=\"Brandani Shanti  Tazza Mug\"><strong>Brandani Shanti Mug</strong></a><strong> </strong>ci va ogni cosa. Ma proprio tutto.<strong> L’idea regalo di Natale</strong> giusta per dolci risvegli!<br/></p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/brandani-shanti-tazza-mug"
           }
         },
         "row_gQh3m9": {
