@@ -122,8 +122,8 @@
         "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "multicolumn_VhzyPr": {
@@ -318,133 +318,57 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "multicolumn_qNaQGY": {
-      "type": "multicolumn",
+    "image_with_text_et4rKW": {
+      "type": "image-with-text",
       "blocks": {
-        "column_EQ7Vbt": {
-          "type": "column",
+        "heading_bcL9mj": {
+          "type": "heading",
           "settings": {
-            "title": "<strong>Idee per la mamma</strong>",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "heading": "Regali di Natale per una persona speciale",
+            "heading_size": "h1"
           }
         },
-        "column_VHLDbX": {
-          "type": "column",
+        "text_GmGrm4": {
+          "type": "text",
           "settings": {
-            "title": "<strong>Idee per il papà</strong>",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "text": "<p>Quest’anno per una persona speciale, regala qualcosa di speciale. Renderai felice non solo il tuo fidanzato o la tua fidanzata, ma anche un tuo caro, come può essere un tuo genitore o tuo figlio. </p><p>Tanti regali sono qui pronti che ti aspettano, scegli quello che più ti piace!</p>",
+            "text_style": "body"
           }
         },
-        "column_rwtmgr": {
-          "type": "column",
+        "button_6MncmJ": {
+          "type": "button",
           "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "La mamma che ama i fiori",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_FqhcGf"
-          }
-        },
-        "column_WE3MdH": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Il papà che ama il vino",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_jEbVKr"
-          }
-        },
-        "column_mCa49B": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "La mamma che ama l’arte",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_6D7wzF"
-          }
-        },
-        "column_ed3JNY": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Il papà che ama la cucina",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_c6HwnW"
-          }
-        },
-        "column_PNYnwx": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "La mamma che ama la cucina",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_et4rKW"
-          }
-        },
-        "column_6UAapR": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Il papà che ama l’arte",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_nRTgzR"
-          }
-        },
-        "column_KhhkBT": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "La mamma che ama caffè, tè e tisane",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_789DBP"
-          }
-        },
-        "column_PkeJaq": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Il papà che ama caffè, tè e tisane",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_efjzUn"
+            "button_label": "IDEE REGALO PER LEI",
+            "button_link": "shopify://collections/cucina-e-tavola",
+            "button_style_secondary": true
           }
         }
       },
       "block_order": [
-        "column_EQ7Vbt",
-        "column_VHLDbX",
-        "column_rwtmgr",
-        "column_WE3MdH",
-        "column_mCa49B",
-        "column_ed3JNY",
-        "column_PNYnwx",
-        "column_6UAapR",
-        "column_KhhkBT",
-        "column_PkeJaq"
+        "heading_bcL9mj",
+        "text_GmGrm4",
+        "button_6MncmJ"
       ],
-      "name": "t:sections.multicolumn.presets.name",
+      "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "image": "shopify://shop_images/pexels-gustavo-fring-5522942-1024x683.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -455,41 +379,53 @@
         "row_Qbc8RM": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/bds-e-um-personalizzazione-20-stampa-la-tua-storia.jpg",
-            "caption": "BDS e U&M",
-            "heading": "Personalizzazione 2.0 - Stampa la tua Storia",
-            "text": "<p>Racconta ricordi, momenti e sogni della tua mamma in chiave Pop illustrata con un <strong>disegno grafico </strong>che racconta il vostro <strong>amore</strong>. </p><p>Se cerchi un regalo unico, e su misura per la tua mamma, <a href=\"/products/4621-bds-e-um-personalizzazione-20-stampa-la-tua-storia\" title=\"BDS e U&M Personalizzazione 2.0 stampa la tua storia\"><strong>Personalizzazione 2.0</strong></a> è quello giusto!</p>",
-            "button_label": "SCOPRILA",
-            "button_link": "shopify://collections/groove-knindustrie"
+            "image": "shopify://shop_images/25302_1_1.webp",
+            "caption": "Seletti",
+            "heading": "Love in Bloom Kintsugi – Un concentrato di Amore",
+            "text": "<p>Un vero e proprio oggetto d’Arte, <strong>il vaso a forma di cuore Bloom Kintusgi </strong>firmato<strong> Seletti. </strong>Un connubio di stili, come le anime di due corpi complementari che sfociano e si intrecciano in un cuore pulsante.</p><p>Un gesto d’amore per una persona speciale!</p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/5240-seletti-love-in-bloom-kintsugi-vase-vaso-cuore"
           }
         },
         "row_Ptep7c": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/seletti-kintsugi-teiera-in-porcellana-e-oro_a71fa028-27e4-434b-ad35-1e7bfbc89314.webp",
-            "caption": "SELETTI",
-            "heading": "Teiera Kintsugi",
-            "text": "<p><strong>Design di Marcantonio</strong>, ideale per impreziosire la tua tavola con un accento di natura ed eleganza.</p><p>Un capolavoro in porcellana, decorato seguendo la tecnica <a href=\"/products/seletti-kintsugi-teiera-in-porcellana-e-oro\" title=\"Seletti Kintsugi Teiera In Porcellana e Oro\"><strong>Kintsugi </strong></a>con dettagli in oro.</p>",
-            "button_label": "SCOPRILA",
-            "button_link": "shopify://products/seletti-kintsugi-teiera-in-porcellana-e-oro"
+            "image": "shopify://shop_images/Miho-Candelabro-Artigianali-Finesse_1.webp",
+            "caption": "Miho",
+            "heading": "Candelabro Artigianale",
+            "text": "<p>Un<strong> candelabro artigianale </strong>dal design sofisticato e multicolore, realizzato con materiali di recupero per un tocco <strong>vintage e ricercato.<br/></strong><br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/miho-candelabro-artigianali-finesse"
           }
         },
         "row_Gd8Geh": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/seletti-my-moon-lamp-lampada-seduta-indoor-outdoor.jpg",
-            "caption": "Seletti",
-            "heading": "My Moon Lamp - lampada seduta | indoor - outdoor",
-            "text": "<p>Per questo Natale, fai sdraiare la tua mamma su una luna gigante, perchè lei è la regina della tua vita!</p><p><a href=\"/products/5074-seletti-my-moon-lamp-lampada-seduta-indoor-outdoor\" title=\"Seletti My Moon Lamp Lampada seduta Indoor Outdoor\"><strong>My Moon Lamp</strong></a>, ideata da Marcantonio per Seletti, è un’idea regalo di Natale da invidiare.</p>",
-            "button_label": "SCOPRILA",
-            "button_link": "shopify://products/5074-seletti-my-moon-lamp-lampada-seduta-indoor-outdoor"
+            "image": "shopify://shop_images/knindustrie-knbook-tagliere-in-legno-2-571x445.jpg",
+            "caption": "Knindustrie",
+            "heading": "Kn book – tagliere in legno",
+            "text": "<p>La tua lei o il tuo lui ama cucinare? Allora scegli il <strong>tagliere in legno </strong>firmato <strong>Knindustrie</strong>: corredato di un coltello in <strong>lama acciaio inox </strong>è possibile tagliare il cibo di qualsiasi tipo appoggiandolo sull’ampia superficie del legno. In rovere, frassino e noce, il tagliere ha un design innovativo ma allo stesso tempo classico perché ha la forma di un libro. <br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/3644-knindustrie-book-tagliere-in-legno"
+          }
+        },
+        "row_w7bEHm": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-centrotavola-gastronomico-easy-2-1.jpg",
+            "caption": "knIndustrie",
+            "heading": "Centrotavola Gastronomico ",
+            "text": "<p><strong>Un’idea molto originale</strong> di KnIndustrie, questo affascinante oggetto incentrato sui valori di condivisione e convivialità, elementi essenziali<strong>per creare una tavola accogliente e raffinata</strong>.<br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/knindustrie-centrotavola-gastronomico-essenze"
           }
         }
       },
       "block_order": [
         "row_Qbc8RM",
         "row_Ptep7c",
-        "row_Gd8Geh"
+        "row_Gd8Geh",
+        "row_w7bEHm"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
@@ -508,7 +444,7 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_DHefMh": {
+    "featured_collection_DheeNV": {
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
@@ -516,45 +452,45 @@
         "heading_size": "h1",
         "description": "",
         "show_description": false,
-        "description_style": "uppercase",
-        "collection": "complementi-arredo-quadri-e-stampe",
-        "products_to_show": 25,
+        "description_style": "body",
+        "collection": "idee-regalo-regali-sotto-150-euro",
+        "products_to_show": 17,
         "columns_desktop": 6,
         "full_width": true,
         "show_view_all": true,
         "view_all_style": "outline",
         "enable_desktop_slider": true,
-        "color_scheme": "scheme-2",
+        "color_scheme": "",
         "image_ratio": "adapt",
         "image_shape": "default",
-        "show_secondary_image": true,
+        "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
         "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 20,
-        "padding_bottom": 20
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
-    "image_with_text_et4rKW": {
+    "image_with_text_PcQeC7": {
       "type": "image-with-text",
       "blocks": {
-        "heading_bcL9mj": {
+        "heading_bheDry": {
           "type": "heading",
           "settings": {
             "heading": "La mamma che ama la cucina",
             "heading_size": "h1"
           }
         },
-        "text_GmGrm4": {
+        "text_Hdj4EB": {
           "type": "text",
           "settings": {
             "text": "<p>Per la tua <strong>mamma che ama la cucina </strong>scopri la nostra selezione di idee regalo utili e di design, per rendere la sua cucina ancor più efficiente e circondata d’amore, con qualcosa che è sempre lì a<strong> ricordargli di te.</strong><br/></p>",
             "text_style": "body"
           }
         },
-        "button_6MncmJ": {
+        "button_VaiTaa": {
           "type": "button",
           "settings": {
             "button_label": "IDEE REGALO PER LEI",
@@ -564,9 +500,9 @@
         }
       },
       "block_order": [
-        "heading_bcL9mj",
-        "text_GmGrm4",
-        "button_6MncmJ"
+        "heading_bheDry",
+        "text_Hdj4EB",
+        "button_VaiTaa"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
@@ -1349,10 +1285,10 @@
     "multicolumn_VhzyPr",
     "multicolumn_pGrbiB",
     "multicolumn_489QHn",
-    "multicolumn_qNaQGY",
-    "multirow_gaUUHh",
-    "featured_collection_DHefMh",
     "image_with_text_et4rKW",
+    "multirow_gaUUHh",
+    "featured_collection_DheeNV",
+    "image_with_text_PcQeC7",
     "multirow_TGNpHm",
     "featured_collection_p73D8b",
     "image_with_text_789DBP",
