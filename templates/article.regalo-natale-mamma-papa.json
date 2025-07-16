@@ -1,0 +1,912 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "adapt"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true,
+            "blog_show_author": false
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "content"
+      ],
+      "settings": {}
+    },
+    "multicolumn_WpyCnX": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_9GQxbK": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>É in arrivo la domenica più importante dell’anno: la Pasqua. Un bellissimo momento di festa, famiglia e tradizione. Come in ogni ricorrenza, la preparazione della tavola è fondamentale per creare la giusta atmosfera.</p><h3><br/>Ma <strong>come decorare la tua Tavola di Pasqua</strong> quest’anno?</h3>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_MeYF33": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Stili e colori",
+            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa?#shopify-section-template--25579959517449__image_with_text_NXth3x"
+          }
+        },
+        "column_RLU6LC": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "I Piatti",
+            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa?#shopify-section-template--25579959517449__image_with_text_FqhcGf"
+          }
+        },
+        "column_UekAy3": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "I Bicchieri",
+            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa?#shopify-section-template--25579959517449__image_with_text_6D7wzF"
+          }
+        },
+        "column_GUkhpY": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Le Posate",
+            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa?#shopify-section-template--25579959517449__image_with_text_et4rKW"
+          }
+        },
+        "column_nBpTTT": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "I Centrotavola",
+            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa?#shopify-section-template--25579959517449__image_with_text_789DBP"
+          }
+        }
+      },
+      "block_order": [
+        "column_9GQxbK",
+        "column_MeYF33",
+        "column_RLU6LC",
+        "column_UekAy3",
+        "column_GUkhpY",
+        "column_nBpTTT"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_qNaQGY": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_rwtmgr": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Stili e colori",
+            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa?#shopify-section-template--25579959517449__image_with_text_NXth3x"
+          }
+        },
+        "column_WE3MdH": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "I Piatti",
+            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa?#shopify-section-template--25579959517449__image_with_text_FqhcGf"
+          }
+        },
+        "column_mCa49B": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "I Bicchieri",
+            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa?#shopify-section-template--25579959517449__image_with_text_6D7wzF"
+          }
+        },
+        "column_6UAapR": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Le Posate",
+            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa?#shopify-section-template--25579959517449__image_with_text_et4rKW"
+          }
+        },
+        "column_PkeJaq": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "I Centrotavola",
+            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa?#shopify-section-template--25579959517449__image_with_text_789DBP"
+          }
+        }
+      },
+      "block_order": [
+        "column_rwtmgr",
+        "column_WE3MdH",
+        "column_mCa49B",
+        "column_6UAapR",
+        "column_PkeJaq"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_NXth3x": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_BMNcXV": {
+          "type": "heading",
+          "settings": {
+            "heading": "Come apparecchiare la Tavola a Pasqua? Lo stile, i colori, gli abbinamenti",
+            "heading_size": "h1"
+          }
+        },
+        "text_8K94gP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Crea un allestimento unico grazie ad una <em>mise-en-place </em>festosa, innovativa e di design con  i nostri consigli di stile!<br/><br/></p><ul><li><strong> Utilizza piatti di diversi colori e forme</strong> per un look eclettico e alla moda, come vuole la proposta <a href=\"/collections/bitossi-home-funky-table-tavola-scomposta\" title=\"La Tavola Scomposta Bitossi Home\"><strong>“Tavola Scomposta”</strong></a> di Bitossi Home: la regina delle tavole originali.</li><li>Opta per <strong>piatti in porcellana bianca con decori blu</strong> se preferisci un aspetto classico e raffinato.</li><li>Abbinamenti semplici come <strong>posate dorate o argentate</strong>, bicchieri trasparenti e <strong>tovaglioli in lino naturale</strong> conferiscono classe senza risultare eccessivi.</li><li><strong>Completa il look con un centrotavola di fiori freschi</strong> o una corona di fiori primaverili per un tocco floreale e festoso.</li></ul>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_BMNcXV",
+        "text_8K94gP"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/SEOon_Posate-La-Tavola-di-Pasqua.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_FqhcGf": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_FtXYnR": {
+          "type": "heading",
+          "settings": {
+            "heading": "Il servizio di Piatti per Pasqua: una scelta tutt'altro che banale",
+            "heading_size": "h1"
+          }
+        },
+        "text_nQJj79": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Il <strong>servizio piatti per Pasqua</strong> è la prima scelta indispensabile da prendere, non a caso, molte famiglie preferiscono regalare (e rivecere) un servizio di piatti completo piuttosto che decorazioni o altri complementi d’arredo.</p><p>Per aiutarti a trovare un <strong>servizio di piatti pasquali</strong> degni di uno squisito menu, non potevamo che affidarci ai nostri fidati esperti di design:<strong> </strong><a href=\"/collections/bitossi-home\" title=\"Bitossi Home\"><strong>Bitossi Home,</strong></a><strong> </strong><a href=\"/collections/knindustrie\" title=\"KnIndustrie\"><strong>KnIndustrie</strong></a><strong> e </strong><a href=\"/collections/seletti\" title=\"Seletti\"><strong>Seletti</strong></a><strong>.</strong></p>",
+            "text_style": "body"
+          }
+        },
+        "button_QBXRxw": {
+          "type": "button",
+          "settings": {
+            "button_label": "SCOPRI TUTTI I NOSTRI SERVIZI DI PIATTI",
+            "button_link": "shopify://collections/cucina-e-tavola-piatti",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_FtXYnR",
+        "text_nQJj79",
+        "button_QBXRxw"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Bitossi-Home-Piatti_1.webp",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_WBcUcW": {
+      "type": "multirow",
+      "blocks": {
+        "row_QrcyLc": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-Home-Novita-per-la-tavola-di-san-valentino.jpg",
+            "caption": "Bitossi Home",
+            "heading": "\"Il Frutto della Passione\" - Connubio di Arte e Moda",
+            "text": "<p>Ecco come portare un tocco di <strong>eccentricità e originalità</strong> direttamente sulla tua tavola!</p><p><a href=\"/collections/bitossi-home-il-frutto-della-passione-bitossi-home\" title=\"Il Frutto della Passione Bitossi Home\"><strong>“Il Frutto della Passione”</strong></a> è la nuova collezione di <a href=\"/collections/bitossi-home\" title=\"Bitossi Home\"><strong>Bitossi Home</strong></a>, che ha visto il proprio debutto alla Milano Design Week 2023.</p><p>La tradizione ceramica si abbraccia con una sensibilità artistica innovativa. Un tripudio di colori e stili che si fondono per regalarti <strong>un’esperienza unica e gioiosa ad ogni pasto.</strong></p>",
+            "button_label": "SCOPRI LA COLLEZIONE",
+            "button_link": "shopify://collections/bitossi-home-il-frutto-della-passione-bitossi-home"
+          }
+        },
+        "row_Ywznn8": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-piatti-diesel.png",
+            "caption": "SELETTI",
+            "heading": "\"Acid Dishes\" - La Tradizione... Rinnovata!",
+            "text": "<p>Questa <a href=\"/collections/seletti-catalogo-prodotti-diesel-living\" title=\"Seletti Diesel Living\"><strong>collezione Diesel Living con Seletti</strong></a> reinterpreta lo stile classico in chiave moderna.</p><p><a href=\"https://www.unicoemultiplo.com/collections/seletti-diesel-living-seletti-classics-on-acid\"><strong>Classics on Acid</strong></a> è una linea davvero completa: dai piatti da zuppa o da frutta, fino alle ciotole di varie dimensioni.</p><p>L’eleganza del bianco incontra diverse tonalità del blu. <strong>Le pennellate si contorcono come figure sulla superficie dell’acqua increspata.</strong> Emergono incantevoli immagini dell’antica Cina, paesaggi, fiori e creature mitologiche.</p>",
+            "button_label": "SCOPRI LA COLLEZIONE",
+            "button_link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid"
+          }
+        },
+        "row_zYTcjd": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/mood-circles-Knindustrie-davide-oldani.webp",
+            "caption": "Knindustrie",
+            "heading": "\"Composizione Circles\" - Il Set Polimaterico di Davide Oldani",
+            "text": "<p><a href=\"/products/knindustrie-composizione-circles-set-di-quattro-piatti-tavola\" title=\"KnIndustrie Composizione Circles - Set piatti tavola 4 pz\"><strong>La composizione Circles</strong></a> KnIndustrie, firmata <a href=\"/collections/knindustrie-catalogo-prodotti-davide-oldani\" title=\"Davide Oldani e KnIndustrie\"><strong>Davide Oldani</strong></a> unisce quattro piatti, due in Gres e due in fine Bone China, per un allestimento di grande impatto estetico. Ogni pezzo è unico nella finitura e nella forma, dove le linee irregolari incontrano materiali preziosi in un<strong> raffinato gioco di contrasti.</strong> <br/></p><p>Pensata per chi ama un design<strong> internazionale e contemporaneo</strong>, <a href=\"/products/knindustrie-composizione-circles-set-di-quattro-piatti-tavola\" title=\"KnIndustrie Composizione Circles - Set piatti tavola 4 pz\"><strong>Circles</strong></a> trasforma ogni portata in un’esperienza visiva: l’equilibrio sofisticato di forme e sfumature esalta sapori e colori.<br/></p>",
+            "button_label": "SCOPRI LA COMPOSIZIONE",
+            "button_link": "shopify://products/knindustrie-composizione-circles-set-di-quattro-piatti-tavola"
+          }
+        },
+        "row_FHYFKf": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Funky-Table-Bitossi-Home-Piatti.jpg",
+            "caption": "BITOSSI HOME",
+            "heading": "Bitossi Home \"La Tavola Scomposta\" che non smette mai di incantare!",
+            "text": "<p>Bitossi Home dà vita alla “<a href=\"/collections/fabula-bitossi-home\" title=\"Fabula Bitossi Home\"><strong>Tavola Scomposta - Fabula”</strong></a>, una collezione accogliente che porta in tavola una <em>mise-en-place</em> ironica e ricca di colori.</p><p><a href=\"/collections/fabula-bitossi-home\" title=\"Fabula Bitossi Home\"><strong>Questa collezione firmata Bitossi Home </strong></a>è pensata per una <strong>tavola di Pasqua </strong>che dona, attraverso un piacevole connubio di colori, un’elegante e dolce atmosfera.<br/></p>",
+            "button_label": "SCOPRI LA COLLEZIONE",
+            "button_link": "shopify://collections/fabula-bitossi-home"
+          }
+        }
+      },
+      "block_order": [
+        "row_QrcyLc",
+        "row_Ywznn8",
+        "row_zYTcjd",
+        "row_FHYFKf"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-1",
+        "row_color_scheme": "scheme-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_6D7wzF": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Dpgthz": {
+          "type": "heading",
+          "settings": {
+            "heading": "I Bicchieri per la Tavola Pasquale, dall'acqua al vino allo spumante o champagne",
+            "heading_size": "h1"
+          }
+        },
+        "text_XAFaPV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Non sarebbe la domenica di Pasqua senza una festa, e quale modo migliore per festeggiare se non concedendosi un po’ di vino, spumante o champagne? </p><p>Se ti stai chiedendo quali <a href=\"/collections/cucina-e-tavola-bicchieri-e-calici\" title=\"Bicchieri e Calici\"><strong>bicchieri di Pasqua</strong></a> scegliere, dai un’occhiata alla nostra selezione.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_ntfc3G": {
+          "type": "button",
+          "settings": {
+            "button_label": "TROVA IL BICCHIERE PERFETTO",
+            "button_link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_Dpgthz",
+        "text_XAFaPV",
+        "button_ntfc3G"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Ichendorf-Set-Cactus-Calici-decorati-e-colorati.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_gaUUHh": {
+      "type": "multirow",
+      "blocks": {
+        "row_Qbc8RM": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Groove_details_1.webp",
+            "caption": "KnIndustrie",
+            "heading": "\"Groove\" - Set 6 Bicchieri Tumbler",
+            "text": "<p>Groove è la <a href=\"/products/knindustrie-groove-set-6-tumbler-quadrati\" title=\"KnIndustrie Groove Set 6 Tumbler Quadrati\"><strong>collezione di bicchieri dal decoro rigato</strong></a> e dal design pulito, proposto da <a href=\"/collections/knindustrie\" title=\"KnIndustrie\"><strong>Knindustrie</strong></a>. Una scanalatura dal design piacevole e ricercato impreziosisce con eleganza il vetro borosilicato sottilissimo.</p><p>Disponibili nella versione a quadrata e a tronco cono, perfetti per moltiplicare l’allegria del tuo aperitivo pasquale. </p>",
+            "button_label": "SCOPRI LA COLLEZIONE",
+            "button_link": "shopify://collections/groove-knindustrie"
+          }
+        },
+        "row_Ptep7c": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Ichendorf-Set-Botanica.jpg",
+            "caption": "ICHENDORF",
+            "heading": "\"Botanica\" - Set 6 Coppe Champagne",
+            "text": "<p>Queste <a href=\"/products/ichendorf-botanica-coppa-champagne-set\" title=\"Ichendorf Botanica Coppa Champagne  Set 6 pz\"><strong>Coppe da Champagne</strong></a> sono un’incantevole e romantica proposta di <a href=\"/collections/ichendorf-catalogo\" title=\"Ichendorf\"><strong>Ichendorf Milano</strong>.</a></p><p>Un bicchiere in vetro originale e raffinato, ispirato alla bellezza della natura. Con il suo delicato design floreale e l’elegante effetto ottico, è una vera opera d’arte sulla tua tavola.</p><p>Pronti per il primo brindisi in festa?</p>",
+            "button_label": "SCOPRI IL SET",
+            "button_link": "shopify://products/ichendorf-botanica-coppa-champagne-set"
+          }
+        },
+        "row_Gd8Geh": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-collezione-lime-line-ambra-set-6-pz_b29530e9-6a4b-4077-b121-43f507480791.webp",
+            "caption": "Knindustrie",
+            "heading": "\"Lime Line\" - Set 6 Bicchieri",
+            "text": "<p>Linee ordinate e minimali con i <a href=\"/collections/lime-line-knindustrie\" title=\"Lime Line KnIndustrie\"><strong>bicchieri Lime Line</strong></a> di<a href=\"/collections/knindustrie-catalogo-prodotti-lara-caffi\" title=\"Lara Caffi e KnIndustrie\"> <strong>Lara Caffi</strong></a>. <br/>I bicchieri Lime Line sono realizzati in vetro borosilicato trasparente: un equilibrio perfetto tra leggerezza e resistenza.</p><p>Un must have in ogni tavola e un’ottima scelta di qualità e design come <strong>bicchieri di Pasqua</strong>.<br/></p>",
+            "button_label": "SCOPRI LA COLLEZIONE",
+            "button_link": "shopify://collections/lime-line-knindustrie"
+          }
+        },
+        "row_RfTcbT": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-home-Diseguale-bicchieri.webp",
+            "caption": "BITOSSI HOME",
+            "heading": "\"Diseguale\" - Calici e Tumbler colorati",
+            "text": "<p>Scegli <a href=\"/collections/bitossi-home-diseguale\" title=\"Diseguale Bitossi Home\">“<strong>Diseguale” di Bitossi Home\"</strong></a> per una <em>mise-en-place </em>mai scontata: una collezione che cambia forma, colore e che, nella diversità, trova un’ armonia tutta personale. Questi set di calici e tumbler in vetro soffiato sono ideali per dare un tocco di vivacità e originalità alla tua <strong>tavola di Pasqua</strong>.</p>",
+            "button_label": "SCOPRI LA COLLEZIONE",
+            "button_link": "shopify://collections/fabula-bitossi-home"
+          }
+        }
+      },
+      "block_order": [
+        "row_Qbc8RM",
+        "row_Ptep7c",
+        "row_Gd8Geh",
+        "row_RfTcbT"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-1",
+        "row_color_scheme": "scheme-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_et4rKW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_bcL9mj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Scegliere le Posate per ogni portata: regole di stile e galateo",
+            "heading_size": "h1"
+          }
+        },
+        "text_GmGrm4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>La posata giusta può fare la differenza nel trasformare un pasto quotidiano in un’esperienza culinaria da ricordare, e non vogliamo mica che il tuo menù venga svantaggiato da posate non adeguate!</p><p>Per questo ti consigliamo solo set di alta qualità per <strong>apparecchiare la tavola a Pasqua</strong>, realizzati dai migliori esperti di <em>mise-en-place</em>: <a href=\"/collections/knindustrie-catalogo-prodotti-posate\" title=\"KnIndustrie: Posate\"><strong>KnIndustrie</strong></a><strong> </strong>e <a href=\"/collections/posate-bitossi-home\" title=\"Posate Bitossi Home\"><strong>Bitossi Home</strong></a>.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_6MncmJ": {
+          "type": "button",
+          "settings": {
+            "button_label": "ESLPORA LA COLLEZIONE COMPLETA",
+            "button_link": "shopify://collections/cucina-e-tavola-posate",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_bcL9mj",
+        "text_GmGrm4",
+        "button_6MncmJ"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/img-categoria-posate_360x_4d025c2a-b614-41a5-a541-f6e1490c1e6f.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_TGNpHm": {
+      "type": "multirow",
+      "blocks": {
+        "row_97RkUn": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/BrickLanest.washedGold1.jpg",
+            "caption": "KnIndustrie",
+            "heading": "\"Brick Lane\" Finitura Gold",
+            "text": "<p>Il nome <strong>Brick Lane </strong>non è certo casuale: richiama l’omonima via londinese, celebre per il suo vivace mercatino di oggetti vintage, dove le posate Brick Lane sembrerebbero trovare la loro dimora ideale.<br/><br/>Celebra la <strong>Pasqua con charme vintage </strong>grazie al servizio <a href=\"/products/2338-knindustrie-brick-lane-set-24-pz-gold\" title=\"KnIndustrie Brick Lane Finitura Gold Set 24 pz\">Brick Lane di KnIndustrie</a>, perfetto per una tavola elegante e ricca di personalità!<br/><br/></p>",
+            "button_label": "SCOPRI BRICK LANE",
+            "button_link": "shopify://products/2338-knindustrie-brick-lane-set-24-pz-gold"
+          }
+        },
+        "row_trGkxn": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-home-posate.jpg",
+            "caption": "Bitossi Home",
+            "heading": "\"Torchon\" - Posate a servire",
+            "text": "<p>La collezione <a href=\"/products/bitossi-home-torchon-set-posate-insalata-l-31-cm\" title=\"Bitossi Home Torchon Set posate insalata L 31 cm\"><strong>Torchon di Bitossi Home</strong></a><strong> </strong>propone una raffinata selezione di posate e accessori per la tavola caratterizzati da manici intrecciati ispirati al motivo “torchon” e impreziositi da piccoli<strong> dettagli in resina colorata.</strong><br/><br/>Rendi unica la<strong> tua tavola di Pasqua</strong> con la collezione <strong>Torchon di Bitossi Home:</strong> intrecci raffinati e dettagli colorati per celebrare dolci momenti in stile artigianale.<br/><br/></p>",
+            "button_label": "SCOPRI TORCHON",
+            "button_link": "shopify://products/bitossi-home-torchon-set-2-coltelli-spargi-burro-15-cm"
+          }
+        },
+        "row_KpiUBC": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-700-cucchiaino-moka-satin-1.jpg",
+            "caption": "Knindustrie",
+            "heading": "\"700\" - Servizio Posate Satin",
+            "text": "<p>Le<a href=\"/collections/knindustrie-catalogo-prodotti-posate\" title=\"KnIndustrie: Posate\"> <strong>posate KnIndustrie</strong></a> sono ispirate alle antiche posate del XVIII secolo, realizzate <strong>in acciaio satinato</strong>. Il design ricorda le forme classiche dei manici di posate a corte, dove la cura dei dettagli era fondamentale per esprimere eleganza e raffinatezza.</p><p>Se desideri donare un tocco d’altri tempo alla tua <strong>tavola di Pasqua</strong>, KnIndustrie ha realizzato le posate giuste per te.</p>",
+            "button_label": "SCOPRI '700",
+            "button_link": "shopify://products/4177-knindustrie-700-posto-tavola-set-4-posate"
+          }
+        },
+        "row_pHqHjt": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-Home-Favorita-Set-Posate-Oro.jpg",
+            "caption": "Bitossi Home",
+            "heading": "\"Romantica\" - Set Posate in Oro Opaco",
+            "text": "<p>E perché non osare con un tocco di oro per impreziosire la tua tavola delle feste? <strong>“</strong><a href=\"/products/bitossi-home-vintage-favorita-set-posate-oro-opaco\" title=\"Bitossi Home Vintage Romantica Set Posate Oro Opaco 24 PZ\"><strong>Romantica</strong></a><strong>”</strong> è il set completo di <strong>Bitossi Home</strong> con elegante finitura gold, dal sapore vintage.</p><p>Un set per 6 posti tavola completi di forchetta, cucchiaio, coltelli e cucchiaino.. e <strong>la tua tavola di Pasqua è pronta a brillare!</strong></p>",
+            "button_label": "SCOPRI ROMANTICA",
+            "button_link": "shopify://products/bitossi-home-vintage-favorita-set-posate-oro-opaco"
+          }
+        }
+      },
+      "block_order": [
+        "row_97RkUn",
+        "row_trGkxn",
+        "row_KpiUBC",
+        "row_pHqHjt"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_789DBP": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_gbbJ4D": {
+          "type": "heading",
+          "settings": {
+            "heading": "Il Centrotavola Pasquale: l'eleganza è servita",
+            "heading_size": "h1"
+          }
+        },
+        "text_3kG9Rq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Non puoi <strong>decorare la tavola per la Pasqua</strong> senza aver scelto un elemento cardine della tua <em>mise-en-place</em>: <strong>il centrotavola</strong>.</p><p>Capace di rivoluzionare l’intero aspetto della tavola, non è solo un elemento di decoro ma può essere anche un elemento utile per servire il tuo menu Paquale, sottolineandone tutta la cura che hai messo nel prepararlo.</p><p>Se sei in cerca di un <strong>centrotavola pasquale</strong> adatto al look della tua tavola, non perderti i nostri consigli!</p>",
+            "text_style": "body"
+          }
+        },
+        "button_mWCY4e": {
+          "type": "button",
+          "settings": {
+            "button_label": "ESPLORA TUTTI I CENTROTAVOLA E ALZATE",
+            "button_link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_gbbJ4D",
+        "text_3kG9Rq",
+        "button_mWCY4e"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/knIndustrie-centrotavola-vetro-verde-qsvqe4s2ldj8rqsodhp18tfrvozao861d2dfxyujkw.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_YEPYXg": {
+      "type": "multirow",
+      "blocks": {
+        "row_TLaB9L": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-materials-vassoio-girevole-bianco350x2501-300x214.jpg",
+            "caption": "KnIndustrie",
+            "heading": "\"Materials\" - Vassoio Girevole",
+            "text": "<p>Un <a href=\"/products/knindustrie-centrotavola-gastronomico-girevole\" title=\"knIndustrie Centrotavola Gastronomico Girevole Bianco\"><strong>vassoio girevole, realizzato in marmo</strong></a>, che consente di scegliere la pietanza preferita semplicemente girandolo.</p><p>Ideale come <strong>centrotavola di Pasqua</strong> per conferire un aspetto sofisticato e minimale all’ambiente.</p>",
+            "button_label": "MATERIALS - VASSOIO GIREVOLE",
+            "button_link": "shopify://products/knindustrie-centrotavola-gastronomico-girevole"
+          }
+        },
+        "row_RKJaYG": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/KnIndustrie-Centrotavola-Gastronomico-Essenze-1024x768.jpg",
+            "caption": "KnIndustrie",
+            "heading": "\"Essenze\" - Centrotavola Gastronomico",
+            "text": "<p>Il <a href=\"/collections/centrotavola-gastronomico-knindustrie\" title=\"Centrotavola Gastronomico KnIndustrie\"><strong>Centrotavola Gastronomico Essenze</strong></a> incarna il vero significato delle feste e della Pasqua.</p><p>Si tratta di un progetto affascinante della designer Sirine Graiaa, <strong>incentrato sulla condivisione e l’aggregazione</strong>, per impreziosire una tavola accogliente e in grande stile. </p><p>Un <strong>centrotavola pasquale</strong> per una <em>mise-en-place</em> distinta e di classe.</p>",
+            "button_label": "SCOPRI IL CENTROTAVOLA GIREVOLE",
+            "button_link": "shopify://collections/centrotavola-gastronomico-knindustrie"
+          }
+        },
+        "row_gQh3m9": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/seletti-hybrid-vaso-melania350x2503-300x214.jpg",
+            "caption": "Seletti",
+            "heading": "\"Hybrid\" - Vaso Melania",
+            "text": "<p><a href=\"/products/1518-seletti-hybrid-vaso-melania\" title=\"Seletti Hybrid Vaso Melania\"><strong>Melania, della collezione “Hybrid”</strong></a> firmata Seletti, è un elegante vaso in porcellana che crea un connubio tra due stili e culture diverse.</p><p>Un <strong>centrotavola pasquale con fiori </strong>che dona un aspetto affascinante a qualunque apparecchiatura.</p>",
+            "button_label": "ESPLORA I VASI SELETTI",
+            "button_link": "shopify://collections/vasi-seletti"
+          }
+        },
+        "row_gtPRNU": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Shapeless-KnIndustrie-Cestino-Portapane_1.jpg",
+            "caption": "KnIndustrie",
+            "heading": "\"Shapeless\" - Cestino Porta Pane",
+            "text": "<p><strong>Il pane ha sempre un posto speciale sulla tavola di Pasqua!</strong></p><p><a href=\"/products/knindustrie-shapeless-cestino-portapane\" title=\"KnIndustrie Shapeless Cestino Portapane\"><strong>Shapeless</strong></a> è un cestino per il pane, pensato e prodotto da <strong>KnIndustrie</strong>. Realizzato in vetro borosilicato, dal design minimalista ed elegante.</p><p>Dona un senso di cura del dettaglio alla tua tavola, con un tocco di carattere e design.</p>",
+            "button_label": "SCOPRI SHAPELESS",
+            "button_link": "shopify://products/knindustrie-shapeless-cestino-portapane"
+          }
+        },
+        "row_6QPUDc": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/miho-joshua-candelabro-artigianale350x250-300x214.jpg",
+            "caption": "Miho",
+            "heading": "Candelabri Artigianali",
+            "text": "<p>Miho propone <strong>eccentrici candelabri fatti interamente a mano</strong>, lavorati nei minimi dettagli che ricordano gli oggetti antichi dei nostri nonni. </p><p>Posti al centro della tua <strong>tavola di Pasqua</strong>, doneranno un aspetto di ricercatezza all’intera <em>mise-en-place</em>.</p>",
+            "button_label": "VEDI TUTTI I CANDELABRI MIHO",
+            "button_link": "https://www.unicoemultiplo.com/collections/miho?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Candelabri+e+Candele&sort_by=manual"
+          }
+        }
+      },
+      "block_order": [
+        "row_TLaB9L",
+        "row_RKJaYG",
+        "row_gQh3m9",
+        "row_gtPRNU",
+        "row_6QPUDc"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_jEbVKr": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_U9QXdV": {
+          "type": "heading",
+          "settings": {
+            "heading": "Segnaposto per la Tavola di Pasqua",
+            "heading_size": "h1"
+          }
+        },
+        "text_hGBY3g": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Il <strong>segnaposto per la tavola di Pasqua</strong> è un elemento da non sottovalutare, ricorda ai tuoi ospiti dove sedersi e dona un tocco di cura in più alla tua tavola.</p><p>Inutile dire che deve essere di qualità e buon gusto. Meglio ancora se si opta per qualcosa di originale e creativo, che salti all’occhio! </p>",
+            "text_style": "body"
+          }
+        },
+        "button_hUJNnb": {
+          "type": "button",
+          "settings": {
+            "button_label": "ESPLORA LE TOVAGLIETTE SEGNAPOSTO",
+            "button_link": "shopify://collections/cucina-e-tavola-tovaglie-e-tovagliette",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_U9QXdV",
+        "text_hGBY3g",
+        "button_hUJNnb"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Bitossi-Home-Funky-Table_1.png",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_nKmn8r": {
+      "type": "multirow",
+      "blocks": {
+        "row_AHrB7f": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Segnaposto-per-la-Tavola-di-Pasqua500x375_1.jpg",
+            "caption": "Bitossi Home",
+            "heading": "\"Lettering\" - Piattino da dessert",
+            "text": "<p>Per una scelta davvero originale, arriva <strong>“</strong><a href=\"/products/3115-bitossi-home-lettering\" title=\"Bitossi Home Lettering Piattino da dessert Ø 12\"><strong>Lettering”, collezione firmata Bitossi Home</strong></a>, che propone dei piattini pane in porcellana bianca con una lettera d’oro al centro.</p><p>Se vuoi davvero che il tuo <strong>segnaposto Pasquale</strong> sia diverso, unico, non esitare e dona un tocco originale in pieno stile Bitossi Home.</p>",
+            "button_label": "SCOPRI LETTERING",
+            "button_link": "shopify://products/3115-bitossi-home-lettering"
+          }
+        },
+        "row_NqyfWc": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi_Home_Smerlo_Se-_4-tovagliette-bordo-smerlato_1.jpg",
+            "caption": "Bitossi Home",
+            "heading": "\"Smerlo\" - Tovagliette Colorate con Bordo Smerlato",
+            "text": "<p>Sottopiatti e tovagliette portano alla tavola un pizzico di magia e particolarità.</p><p>Le <a href=\"/collections/bitossi-home-smerlo-bitossi-home\" title=\"Smerlo Bitossi Home\"><strong>tovagliette Smerlo di Bitossi Home</strong>,</a> in lino cotone con trattamento antimacchia sono disponibili in sei colori diversi e bordo sagomato a contrasto.</p><p>Un <strong>segnaposto variopinto per la tua tavola di Pasqua</strong> capace di mettere in risalto qualsiasi <em>mise-en-place</em>, dalle elaborate alle più minimali. </p>",
+            "button_label": "ESPLORA LA COLLEZIONE SMERLO",
+            "button_link": "shopify://collections/bitossi-home-smerlo-bitossi-home"
+          }
+        },
+        "row_kmqAmU": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-Hybrid-Tovaglietta-Bersabea_1.jpg",
+            "caption": "Seletti",
+            "heading": "\"Hybrid\" - Tovagliette dell'incontro",
+            "text": "<p>Quando est e ovest si incontrano, arriva <strong>“</strong><a href=\"/collections/seletti-catalogo-prodotti-hybrid\" title=\"Seletti Hybrid\"><strong>Hybrid</strong></a><strong>”</strong>, una collezione ispirata alle antiche tradizioni orientale e occidentale.</p><p>La serie si compone di tre varianti, accumunate dalla netta linea centrale che unisce e separa Oriente e Occidente.</p><p>Un<strong> segnaposto di Pasqua</strong> eccentrico e originale: è Seletti.</p>",
+            "button_label": "VEDI LE TOVAGLIETTE HYBRID",
+            "button_link": "shopify://products/seletti-hybrid-tovaglietta-bersabea"
+          }
+        }
+      },
+      "block_order": [
+        "row_AHrB7f",
+        "row_NqyfWc",
+        "row_kmqAmU"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_CKVzFq": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_VARcwa": {
+          "type": "heading",
+          "settings": {
+            "heading": "Scopri anche le migliori idee di design per Regali di Pasqua!",
+            "heading_size": "h2"
+          }
+        },
+        "text_B9xRqC": {
+          "type": "text",
+          "settings": {
+            "text": "Proposte fantasiose, originali, perfette da regalare o da farsi regalare e in grado di incontrare qualunque gusto personale.",
+            "text_style": "body"
+          }
+        },
+        "buttons_8cGc3R": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "SCOPRILE TUTTE!",
+            "button_link_1": "shopify://collections/idee-regalo-pasqua",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_VARcwa",
+        "text_B9xRqC",
+        "buttons_8cGc3R"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/easter-ears-eggs.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "top-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "separator_nbNJQV": {
+      "type": "separator",
+      "name": "Separator Line",
+      "settings": {
+        "line_thickness": 1
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multicolumn_WpyCnX",
+    "multicolumn_qNaQGY",
+    "image_with_text_NXth3x",
+    "image_with_text_FqhcGf",
+    "multirow_WBcUcW",
+    "image_with_text_6D7wzF",
+    "multirow_gaUUHh",
+    "image_with_text_et4rKW",
+    "multirow_TGNpHm",
+    "image_with_text_789DBP",
+    "multirow_YEPYXg",
+    "image_with_text_jEbVKr",
+    "multirow_nKmn8r",
+    "image_banner_CKVzFq",
+    "separator_nbNJQV"
+  ]
+}
