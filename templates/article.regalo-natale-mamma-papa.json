@@ -198,7 +198,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 0,
@@ -1208,7 +1208,7 @@
           "type": "heading",
           "settings": {
             "heading": "Non hai ancora  trovato l'idea regalo giusta?",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "text_B9xRqC": {
