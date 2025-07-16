@@ -673,22 +673,11 @@
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/Shapeless-KnIndustrie-Cestino-Portapane_1.jpg",
-            "caption": "KnIndustrie",
-            "heading": "\"Shapeless\" - Cestino Porta Pane",
-            "text": "<p><strong>Il pane ha sempre un posto speciale sulla tavola di Pasqua!</strong></p><p><a href=\"/products/knindustrie-shapeless-cestino-portapane\" title=\"KnIndustrie Shapeless Cestino Portapane\"><strong>Shapeless</strong></a> è un cestino per il pane, pensato e prodotto da <strong>KnIndustrie</strong>. Realizzato in vetro borosilicato, dal design minimalista ed elegante.</p><p>Dona un senso di cura del dettaglio alla tua tavola, con un tocco di carattere e design.</p>",
-            "button_label": "SCOPRI SHAPELESS",
-            "button_link": "shopify://products/knindustrie-shapeless-cestino-portapane"
-          }
-        },
-        "row_6QPUDc": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/miho-joshua-candelabro-artigianale350x250-300x214.jpg",
-            "caption": "Miho",
-            "heading": "Candelabri Artigianali",
-            "text": "<p>Miho propone <strong>eccentrici candelabri fatti interamente a mano</strong>, lavorati nei minimi dettagli che ricordano gli oggetti antichi dei nostri nonni. </p><p>Posti al centro della tua <strong>tavola di Pasqua</strong>, doneranno un aspetto di ricercatezza all’intera <em>mise-en-place</em>.</p>",
-            "button_label": "VEDI TUTTI I CANDELABRI MIHO",
-            "button_link": "https://www.unicoemultiplo.com/collections/miho?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Candelabri+e+Candele&sort_by=manual"
+            "caption": "Bitossi Home",
+            "heading": "Vintage - Tazza da thé",
+            "text": "<p>La<a href=\"/products/2343-bitossi-home-tavola-scomposta-tazza-the-cp-vintage\" title=\"Bitossi Home Tavola Scomposta tazza tè c/p vintage - carta da zucchero\"> <strong>tazza tè Vintage</strong></a><strong> </strong>firmata <strong>Bitossi </strong>ricorda il classico set di tazzine della nostra nonna che conservava con cura nella vetrina. Realizzata a mano e con bordo e manico in oro, queste tazze non alterano il gusto delle bevande e sono <strong>perfette per gustare caffè o tè!</strong><br/><br/></p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/2343-bitossi-home-tavola-scomposta-tazza-the-cp-vintage"
           }
         }
       },
@@ -696,8 +685,7 @@
         "row_TLaB9L",
         "row_RKJaYG",
         "row_gQh3m9",
-        "row_gtPRNU",
-        "row_6QPUDc"
+        "row_gtPRNU"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
