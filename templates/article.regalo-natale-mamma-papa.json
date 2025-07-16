@@ -359,7 +359,7 @@
             "caption": "BDS e U&M",
             "heading": "Personalizzazione 2.0 - Stampa la tua Storia",
             "text": "<p>Racconta ricordi, momenti e sogni della tua mamma in chiave Pop illustrata con un <strong>disegno grafico </strong>che racconta il vostro <strong>amore</strong>. </p><p>Se cerchi un regalo unico, e su misura per la tua mamma, <a href=\"/products/4621-bds-e-um-personalizzazione-20-stampa-la-tua-storia\" title=\"BDS e U&M Personalizzazione 2.0 stampa la tua storia\"><strong>Personalizzazione 2.0</strong></a> è quello giusto!</p>",
-            "button_label": "SCOPRILO",
+            "button_label": "SCOPRILA",
             "button_link": "shopify://collections/groove-knindustrie"
           }
         },
@@ -370,7 +370,7 @@
             "caption": "SELETTI",
             "heading": "Teiera Kintsugi",
             "text": "<p><strong>Design di Marcantonio</strong>, ideale per impreziosire la tua tavola con un accento di natura ed eleganza.</p><p>Un capolavoro in porcellana, decorato seguendo la tecnica <a href=\"/products/seletti-kintsugi-teiera-in-porcellana-e-oro\" title=\"Seletti Kintsugi Teiera In Porcellana e Oro\">Kintsugi </a>con dettagli in oro.</p>",
-            "button_label": "SCOPRILO",
+            "button_label": "SCOPRILA",
             "button_link": "shopify://products/seletti-kintsugi-teiera-in-porcellana-e-oro"
           }
         },
@@ -381,7 +381,7 @@
             "caption": "Seletti",
             "heading": "\"My Moon Lamp\" lampada seduta | indoor - outdoor",
             "text": "<p>Per questo Natale, fai sdraiare la tua mamma su una luna gigante, perchè lei è la regina della tua vita!</p><p><a href=\"/products/5074-seletti-my-moon-lamp-lampada-seduta-indoor-outdoor\" title=\"Seletti My Moon Lamp Lampada seduta Indoor Outdoor\"><strong>My Moon Lamp</strong></a>, ideata da Marcantonio per Seletti, è un’idea regalo di Natale da invidiare.</p>",
-            "button_label": "SCOPRILO",
+            "button_label": "SCOPRILA",
             "button_link": "shopify://products/5074-seletti-my-moon-lamp-lampada-seduta-indoor-outdoor"
           }
         }
@@ -458,7 +458,7 @@
           "type": "button",
           "settings": {
             "button_label": "IDEE REGALO PER LEI",
-            "button_link": "shopify://pages/natale",
+            "button_link": "shopify://collections/cucina-e-tavola",
             "button_style_secondary": true
           }
         }
@@ -506,30 +506,30 @@
             "caption": "Guzzerie",
             "heading": "Il cibo della mamma è arte!",
             "text": "<p>Con <a href=\"/collections/guzzerie\" title=\"Guzzerie\"><strong>Guzzerie</strong></a> Carbonara, pizza margherita, lasagne e tanto ancora diventano i veri <strong>capolavori</strong> da incorniciare. Lasciati conquistare dalle illustrazioni per veri buongustai, stampate su carta riciclata da agroresidui. Bellissime in cucina, in taverna o per allestire un cocktail bar nel tuo salotto! <br/><br/></p>",
-            "button_label": "SCOPRILO",
+            "button_label": "SCOPRILE",
             "button_link": "shopify://collections/guzzerie"
           }
         },
         "row_KpiUBC": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-700-cucchiaino-moka-satin-1.jpg",
+            "image": "shopify://shop_images/KnIndustrie-Beyond-Basic-The-pasta_b273b162-20cd-4486-9171-3c248e7a01a5.jpg",
             "caption": "Knindustrie",
             "heading": "Beyond Basic - The pasta",
             "text": "<p>Una <a href=\"/products/1732-knindustrie-beyond-basic-the-pasta\" title=\"KnIndustrie Beyond Basic The pasta\"><strong>pentola in accciao inox satinato</strong></a>, così elegante e raffinata che quasi fai fatica a sporcarla! Funzionalità e design si sposano per un connubio perfetto con questa pentola firmata KnIndustrie.</p>",
-            "button_label": "SCOPRILO",
+            "button_label": "SCOPRILA",
             "button_link": "shopify://products/1732-knindustrie-beyond-basic-the-pasta"
           }
         },
         "row_pHqHjt": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Bitossi-Home-Favorita-Set-Posate-Oro.jpg",
+            "image": "shopify://shop_images/bitossi-home-il-frutto-della-passione-tovaglietta-con-ricami-rosso-1_1.webp",
             "caption": "Bitossi Home",
-            "heading": "\"Romantica\" - Set Posate in Oro Opaco",
-            "text": "<p>E perché non osare con un tocco di oro per impreziosire la tua tavola delle feste? <strong>“</strong><a href=\"/products/bitossi-home-vintage-favorita-set-posate-oro-opaco\" title=\"Bitossi Home Vintage Romantica Set Posate Oro Opaco 24 PZ\"><strong>Romantica</strong></a><strong>”</strong> è il set completo di <strong>Bitossi Home</strong> con elegante finitura gold, dal sapore vintage.</p><p>Un set per 6 posti tavola completi di forchetta, cucchiaio, coltelli e cucchiaino.. e <strong>la tua tavola di Pasqua è pronta a brillare!</strong></p>",
-            "button_label": "SCOPRI ROMANTICA",
-            "button_link": "shopify://products/bitossi-home-vintage-favorita-set-posate-oro-opaco"
+            "heading": "Il Frutto della Passione Tovaglietta con ricami Rossa",
+            "text": "<p><strong>Tovaglietta della collezione</strong> Bitossi Home “<strong>Il Frutto della Passione</strong>” è illustrata da <strong>Pangea</strong>, due creatrici: <strong>Colombine Jubert e Laetitia Rouget</strong>. La prima è <strong>stilista</strong> e la seconda è <strong>artista</strong> e ceramista. </p><p><strong>Le loro creazioni combinano arte, moda</strong> e performance. </p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/bitossi-home-il-frutto-della-passione-tovaglietta-con-ricami-rossa-amore-per-sempre"
           }
         }
       },
@@ -554,6 +554,35 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "featured_collection_p73D8b": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "uppercase",
+        "collection": "cucina-e-tavola",
+        "products_to_show": 25,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-2",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "image_with_text_789DBP": {
@@ -863,6 +892,7 @@
     "featured_collection_DHefMh",
     "image_with_text_et4rKW",
     "multirow_TGNpHm",
+    "featured_collection_p73D8b",
     "image_with_text_789DBP",
     "multirow_YEPYXg",
     "image_with_text_jEbVKr",
