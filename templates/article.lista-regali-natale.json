@@ -1,0 +1,1312 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "adapt"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true,
+            "blog_show_author": false
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "content"
+      ],
+      "settings": {}
+    },
+    "multicolumn_WpyCnX": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_JVQmDw": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_9GQxbK": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>E' arrivato il momento di scegliere il <strong>regalo di Natale</strong> per mamma e papà, le persone che più ci amano al mondo!</p><p>Se non hai già pensato a cosa acquistare non ti preoccupare, <strong>con la nostra guida al regalo di Natale perfetto</strong>, pensata per ogni tipo di mamma e papà, troverai subito il <strong>regalo giusto!</strong></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_JVQmDw",
+        "column_9GQxbK"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_qNaQGY": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_EQ7Vbt": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Idee per la mamma</strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_VHLDbX": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Idee per il papà</strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rwtmgr": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "La mamma che ama i fiori",
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_FqhcGf"
+          }
+        },
+        "column_WE3MdH": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Il papà che ama il vino",
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_jEbVKr"
+          }
+        },
+        "column_mCa49B": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "La mamma che ama l’arte",
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_6D7wzF"
+          }
+        },
+        "column_ed3JNY": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Il papà che ama la cucina",
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_c6HwnW"
+          }
+        },
+        "column_PNYnwx": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "La mamma che ama la cucina",
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_et4rKW"
+          }
+        },
+        "column_6UAapR": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Il papà che ama l’arte",
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_nRTgzR"
+          }
+        },
+        "column_KhhkBT": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "La mamma che ama caffè, tè e tisane",
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_789DBP"
+          }
+        },
+        "column_PkeJaq": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Il papà che ama caffè, tè e tisane",
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_efjzUn"
+          }
+        }
+      },
+      "block_order": [
+        "column_EQ7Vbt",
+        "column_VHLDbX",
+        "column_rwtmgr",
+        "column_WE3MdH",
+        "column_mCa49B",
+        "column_ed3JNY",
+        "column_PNYnwx",
+        "column_6UAapR",
+        "column_KhhkBT",
+        "column_PkeJaq"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_FqhcGf": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_FtXYnR": {
+          "type": "heading",
+          "settings": {
+            "heading": "La mamma che ama i fiori",
+            "heading_size": "h1"
+          }
+        },
+        "text_nQJj79": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Per la tua mamma che ama i fiori abbiamo pensato a vasi e accessori di design e di alta qualità. <a href=\"/collections/seletti\" title=\"Seletti\"><strong>Seletti</strong></a>, <a href=\"/collections/brandani\" title=\"Brandani\"><strong>Brandani</strong></a><strong> </strong>e <a href=\"/collections/bitossi-home\" title=\"Bitossi Home\"><strong>Bitossi</strong></a>. Quale sarà il preferito della tua mamma?</p><p>Questo lo sai solo tu! Scopri subito la nostra selezione e trova il regalo più in linea con i suoi gusti.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_QBXRxw": {
+          "type": "button",
+          "settings": {
+            "button_label": "IDEE REGALO PER LA MAMMA",
+            "button_link": "shopify://collections/idee-regalo-regali-per-lei",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_FtXYnR",
+        "text_nQJj79",
+        "button_QBXRxw"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/La-mamma-che-ama-i-fiori.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_WBcUcW": {
+      "type": "multirow",
+      "blocks": {
+        "row_QrcyLc": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Love-in-Bloom-Seletti_196422cc-27a4-45b1-8a92-bd393047e649.webp",
+            "caption": "Seletti ",
+            "heading": "Love in Bloom - vaso cuore",
+            "text": "<p>Ricorda alla tua mamma quanto la ami con questo fantastico <a href=\"/collections/love-in-bloom-seletti\" title=\"Love in Bloom Seletti\"><strong>vaso cuore</strong> <strong>firmato Seletti</strong></a>. Da appoggiare o appendere, all’interno della confezione la tua mamma troverà un bellissimo biglietto con scritto “from me to you”.</p><p>Il tuo cuore ora è suo per sempre!</p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://collections/bitossi-home-il-frutto-della-passione-bitossi-home"
+          }
+        },
+        "row_Ywznn8": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-Home-Tavola-Scomposta-Grazie-dei-fiori-vaso-ceramica-Rosso.webp",
+            "caption": "Bitossi Home",
+            "heading": "Tavola Scomposta - Grazie dei fiori",
+            "text": "<p>Una mano di pura ceramica bianca, unghie laccate di rosso rubino, che stringe petali per un regalo speciale: <strong>Bitossi Home</strong> trasforma ogni tavola in un <a href=\"/products/2339-bitossi-home-tavola-scomposta-grazie-dei-fiori-vaso-ceramica\" title=\"Bitossi Home Tavola Scomposta Grazie dei fiori vaso ceramica Rosso\"><strong>abbraccio floreale per la mamma.</strong></a><br/><br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid"
+          }
+        },
+        "row_zYTcjd": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/seletti-hybrid-vaso-lfe.jpg",
+            "caption": "Seletti",
+            "heading": "Hybrid - vaso Lfe",
+            "text": "<p>La collezione <a href=\"/collections/seletti-catalogo-prodotti-hybrid\" title=\"Seletti Hybrid\"><strong>Hybrid</strong></a>, firmata <a href=\"/collections/seletti\" title=\"Seletti\"><strong>Seletti</strong></a>, attraverso un vaso mette faccia a faccia Oriente e Occidente, Nord e Sud del mondo, dando vita ad un connubio elegante e raffinato.</p><p>Un’idea regalo di Natale unica per una mamma che ama i fiori!</p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/4764-seletti-hybrid-vaso-lfe"
+          }
+        }
+      },
+      "block_order": [
+        "row_QrcyLc",
+        "row_Ywznn8",
+        "row_zYTcjd"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-1",
+        "row_color_scheme": "scheme-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_DcQkgR": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "uppercase",
+        "collection": "complementi-arredo-vasi",
+        "products_to_show": 25,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-2",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_6D7wzF": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Dpgthz": {
+          "type": "heading",
+          "settings": {
+            "heading": "La mamma che ama l'arte​",
+            "heading_size": "h1"
+          }
+        },
+        "text_XAFaPV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Per una mamma che ama l'arte, <strong>l'originalità </strong>non può mancare.</p><p>Abbiamo selezionato per te degli accessori di design con cui potrà arredare il suo ambiente preferito della casa, con uno stile che non ha eguali. <strong>Scoprili subito</strong>!</p>",
+            "text_style": "body"
+          }
+        },
+        "button_ntfc3G": {
+          "type": "button",
+          "settings": {
+            "button_label": "IDEE REGALO PER LA MAMMA",
+            "button_link": "shopify://collections/complementi-arredo-quadri-e-stampe",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_Dpgthz",
+        "text_XAFaPV",
+        "button_ntfc3G"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/mamma-che-ama-l-arte.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_gaUUHh": {
+      "type": "multirow",
+      "blocks": {
+        "row_Qbc8RM": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/bds-e-um-personalizzazione-20-stampa-la-tua-storia.jpg",
+            "caption": "BDS e U&M",
+            "heading": "Personalizzazione 2.0 - Stampa la tua Storia",
+            "text": "<p>Racconta ricordi, momenti e sogni della tua mamma in chiave Pop illustrata con un <strong>disegno grafico </strong>che racconta il vostro <strong>amore</strong>. </p><p>Se cerchi un regalo unico, e su misura per la tua mamma, <a href=\"/products/4621-bds-e-um-personalizzazione-20-stampa-la-tua-storia\" title=\"BDS e U&M Personalizzazione 2.0 stampa la tua storia\"><strong>Personalizzazione 2.0</strong></a> è quello giusto!</p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://collections/groove-knindustrie"
+          }
+        },
+        "row_Ptep7c": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/seletti-kintsugi-teiera-in-porcellana-e-oro_a71fa028-27e4-434b-ad35-1e7bfbc89314.webp",
+            "caption": "SELETTI",
+            "heading": "Teiera Kintsugi",
+            "text": "<p><strong>Design di Marcantonio</strong>, ideale per impreziosire la tua tavola con un accento di natura ed eleganza.</p><p>Un capolavoro in porcellana, decorato seguendo la tecnica <a href=\"/products/seletti-kintsugi-teiera-in-porcellana-e-oro\" title=\"Seletti Kintsugi Teiera In Porcellana e Oro\"><strong>Kintsugi </strong></a>con dettagli in oro.</p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/seletti-kintsugi-teiera-in-porcellana-e-oro"
+          }
+        },
+        "row_Gd8Geh": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/seletti-my-moon-lamp-lampada-seduta-indoor-outdoor.jpg",
+            "caption": "Seletti",
+            "heading": "My Moon Lamp - lampada seduta | indoor - outdoor",
+            "text": "<p>Per questo Natale, fai sdraiare la tua mamma su una luna gigante, perchè lei è la regina della tua vita!</p><p><a href=\"/products/5074-seletti-my-moon-lamp-lampada-seduta-indoor-outdoor\" title=\"Seletti My Moon Lamp Lampada seduta Indoor Outdoor\"><strong>My Moon Lamp</strong></a>, ideata da Marcantonio per Seletti, è un’idea regalo di Natale da invidiare.</p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/5074-seletti-my-moon-lamp-lampada-seduta-indoor-outdoor"
+          }
+        }
+      },
+      "block_order": [
+        "row_Qbc8RM",
+        "row_Ptep7c",
+        "row_Gd8Geh"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-1",
+        "row_color_scheme": "scheme-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_DHefMh": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "uppercase",
+        "collection": "complementi-arredo-quadri-e-stampe",
+        "products_to_show": 25,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-2",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_et4rKW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_bcL9mj": {
+          "type": "heading",
+          "settings": {
+            "heading": "La mamma che ama la cucina",
+            "heading_size": "h1"
+          }
+        },
+        "text_GmGrm4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Per la tua <strong>mamma che ama la cucina </strong>scopri la nostra selezione di idee regalo utili e di design, per rendere la sua cucina ancor più efficiente e circondata d’amore, con qualcosa che è sempre lì a<strong> ricordargli di te.</strong><br/></p>",
+            "text_style": "body"
+          }
+        },
+        "button_6MncmJ": {
+          "type": "button",
+          "settings": {
+            "button_label": "IDEE REGALO PER LEI",
+            "button_link": "shopify://collections/cucina-e-tavola",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_bcL9mj",
+        "text_GmGrm4",
+        "button_6MncmJ"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/La-mamma-che-ama-la-cucina.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_TGNpHm": {
+      "type": "multirow",
+      "blocks": {
+        "row_97RkUn": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-home-guest-piatto-pizza12.webp",
+            "caption": "Bitossi Home",
+            "heading": "Guest - Piatto pizza",
+            "text": "<p><a href=\"/products/bitossi-home-guest-piatto-pizza-mamma-mia\" title=\"Bitossi Home Guest Piatto pizza Mamma Mia\">Il <strong>piatto pizza in ceramica “Guest </strong></a><strong>”</strong>si presenta con linee semplici, perfetto per la mamma che ama presentare la piazza in modo <strong>originale e spiritoso.</strong> Un’idea regalo di Natale elegante e di qualità per la tua mamma. <br/><br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/bitossi-home-guest-piatto-pizza-mamma-mia"
+          }
+        },
+        "row_trGkxn": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/le-guzzerie_6_1.jpg",
+            "caption": "Guzzerie",
+            "heading": "Il cibo della mamma è arte!",
+            "text": "<p>Con <a href=\"/collections/guzzerie\" title=\"Guzzerie\"><strong>Guzzerie</strong></a> Carbonara, pizza margherita, lasagne e tanto ancora diventano i veri <strong>capolavori</strong> da incorniciare. Lasciati conquistare dalle illustrazioni per veri buongustai, stampate su carta riciclata da agroresidui. Bellissime in cucina, in taverna o per allestire un cocktail bar nel tuo salotto! <br/><br/></p>",
+            "button_label": "SCOPRILE",
+            "button_link": "shopify://collections/guzzerie"
+          }
+        },
+        "row_KpiUBC": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/KnIndustrie-Beyond-Basic-The-pasta_b273b162-20cd-4486-9171-3c248e7a01a5.jpg",
+            "caption": "Knindustrie",
+            "heading": "Beyond Basic - The pasta",
+            "text": "<p>Una <a href=\"/products/1732-knindustrie-beyond-basic-the-pasta\" title=\"KnIndustrie Beyond Basic The pasta\"><strong>pentola in accciao inox satinato</strong></a>, così elegante e raffinata che quasi fai fatica a sporcarla! Funzionalità e design si sposano per un connubio perfetto con questa pentola firmata <a href=\"/collections/knindustrie\" title=\"KnIndustrie\"><strong>KnIndustrie</strong></a>.</p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/1732-knindustrie-beyond-basic-the-pasta"
+          }
+        },
+        "row_pHqHjt": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-home-il-frutto-della-passione-tovaglietta-con-ricami-rosso-1_1.webp",
+            "caption": "Bitossi Home",
+            "heading": "Il Frutto della Passione Tovaglietta con ricami",
+            "text": "<p><strong>Tovaglietta della collezione</strong> Bitossi Home “<a href=\"/collections/bitossi-home-il-frutto-della-passione-bitossi-home\" title=\"Il Frutto della Passione Bitossi Home\"><strong>Il Frutto della Passione</strong></a>” è illustrata da <strong>Pangea</strong>, due creatrici: Colombine Jubert e Laetitia Rouget. La prima è stilista e la seconda è artista e ceramista. </p><p><strong>Le loro creazioni combinano arte, moda</strong> e performance. </p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/bitossi-home-il-frutto-della-passione-tovaglietta-con-ricami-rossa-amore-per-sempre"
+          }
+        }
+      },
+      "block_order": [
+        "row_97RkUn",
+        "row_trGkxn",
+        "row_KpiUBC",
+        "row_pHqHjt"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_p73D8b": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "uppercase",
+        "collection": "cucina-e-tavola",
+        "products_to_show": 25,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-2",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_789DBP": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_gbbJ4D": {
+          "type": "heading",
+          "settings": {
+            "heading": "La mamma che ama caffè, tè e tisane",
+            "heading_size": "h1"
+          }
+        },
+        "text_3kG9Rq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Per una<strong> dolce pausa</strong> caffè, tè o tisana abbiamo selezionato con cura degli accessori per la tua mamma che gli ricorderanno sempre quanto la ami! Scoprile subito per trovare l’<strong>idea regalo perfetta</strong>!<br/><br/></p>",
+            "text_style": "body"
+          }
+        },
+        "button_mWCY4e": {
+          "type": "button",
+          "settings": {
+            "button_label": "IDEE REGALO PER LEI",
+            "button_link": "shopify://collections/cucina-e-tavola-tazze-tazzine-mug",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_gbbJ4D",
+        "text_3kG9Rq",
+        "button_mWCY4e"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/cosa-regalare-alla-mamma-che-ama-le-tisane_-15.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_YEPYXg": {
+      "type": "multirow",
+      "blocks": {
+        "row_TLaB9L": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/seletti-hybrid-tazza-da-te-kerma.jpg",
+            "caption": "Seletti",
+            "heading": "Hybrid - tazza da tè Kerma",
+            "text": "<p>Ti presentiamo <a href=\"/products/4770-seletti-hybrid-tazza-da-te-kerma\" title=\"Seletti Hybrid tazza da tè Kerma\"><strong>Kerma</strong></a>, della collezione <strong>Hybrid</strong>, disegnata dal duo italo-greco CTRLZAK, Una tazzina e un piatto realizzati in pura <strong>porcellana New Bone China</strong>, con decorazioni rifinite a mano. Questo regalo parla d’amore!<br/></p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/4770-seletti-hybrid-tazza-da-te-kerma"
+          }
+        },
+        "row_RKJaYG": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/52837brandani-shanti-tazza-81.jpg",
+            "caption": "Brandani",
+            "heading": "Shanti - Tazza Mug",
+            "text": "<p>Caffellatte, cappuccino o latte macchiato? Cosa beve la tua mamma a colazione? Non importa perché nella <a href=\"/products/brandani-shanti-tazza-mug\" title=\"Brandani Shanti  Tazza Mug\"><strong>Brandani Shanti Mug</strong></a><strong> </strong>ci va ogni cosa. Ma proprio tutto.<strong> L’idea regalo di Natale</strong> giusta per dolci risvegli!<br/></p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/brandani-shanti-tazza-mug"
+          }
+        },
+        "row_gQh3m9": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/seletti-kintsugi-tazzina-da-caffe-doppio-manico.jpg",
+            "caption": "Seletti",
+            "heading": "Kintsugi - tazzina da caffè | doppio manico",
+            "text": "<p>Una <a href=\"/products/3426-seletti-kintsugi-tazzina-da-caffe-doppio-manico\" title=\"Seletti Kintsugi Tazzina da caffè doppio manico\"><strong>tazzina da caffè</strong></a><strong> </strong>che spazia tra il <strong>tradizionale </strong>e il <strong>moderno</strong>, realizzata in porcellana con un’antica tecnica giapponese, è il frutto della collaborazione di Seletti e Marcantonio che hanno dato vita a <a href=\"/collections/seletti-catalogo-prodotti-seletti-kintsugi-tazze\" title=\"Tazze Kintsugi\"><strong>Kintsugi</strong></a>. Un regalo bellissimo per la tua mamma.<br/><br/></p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/3426-seletti-kintsugi-tazzina-da-caffe-doppio-manico"
+          }
+        },
+        "row_gtPRNU": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi_Home_-_Tazza_da_t_Vintage.jpg",
+            "caption": "Bitossi Home",
+            "heading": "Vintage - Tazza da thé",
+            "text": "<p>La<a href=\"/products/2343-bitossi-home-tavola-scomposta-tazza-the-cp-vintage\" title=\"Bitossi Home Tavola Scomposta tazza tè c/p vintage - carta da zucchero\"> <strong>tazza tè Vintage</strong></a><strong> </strong>firmata <strong>Bitossi </strong>ricorda il classico set di tazzine della nostra nonna che conservava con cura nella vetrina. Realizzata a mano e con bordo e manico in oro, queste tazze non alterano il gusto delle bevande e sono <strong>perfette per gustare caffè o tè!</strong><br/><br/></p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/2343-bitossi-home-tavola-scomposta-tazza-the-cp-vintage"
+          }
+        }
+      },
+      "block_order": [
+        "row_TLaB9L",
+        "row_RKJaYG",
+        "row_gQh3m9",
+        "row_gtPRNU"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_CtNKRh": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "uppercase",
+        "collection": "cucina-e-tavola-tazze-tazzine-mug",
+        "products_to_show": 25,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-2",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_jEbVKr": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_U9QXdV": {
+          "type": "heading",
+          "settings": {
+            "heading": "Il papà che ama il vino",
+            "heading_size": "h1"
+          }
+        },
+        "text_hGBY3g": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Tutti lo bevono ma pochi lo comprendono davvero!<br/>Se il tuo papà si distingue dalla massa, regalagli qualcosa di davvero speciale dalla nostra <strong>accurata selezione di gadget </strong>per veri amanti del vino!<br/></p>",
+            "text_style": "body"
+          }
+        },
+        "button_hUJNnb": {
+          "type": "button",
+          "settings": {
+            "button_label": "IDEE REGALO PER LUI",
+            "button_link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_U9QXdV",
+        "text_hGBY3g",
+        "button_hUJNnb"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/il-papa-che-ama-il-vino_1.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_nKmn8r": {
+      "type": "multirow",
+      "blocks": {
+        "row_AHrB7f": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-cavatappi-elettrico.jpg",
+            "caption": "Brandani Home",
+            "heading": "Cavatappi Elettrico",
+            "text": "<p>A tuo padre regala un aggeggio pratico e funzionale. Con il <a href=\"/products/285-brandani-cavatappi-cavatappi-elettrico\" title=\"Brandani Home Cavatappi Cavatappi elettrico\"><strong>cavatappi elettrico</strong></a><strong> </strong>della linea <strong>Brandani Home </strong>è possibile aprire le bottiglie in maniera pratica e veloce! Può un’amante del vino non apprezzarlo?<br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/285-brandani-cavatappi-cavatappi-elettrico"
+          }
+        },
+        "row_NqyfWc": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Bicchieri-vino-point-KnIndustrie.jpg",
+            "caption": "KnIndustrie",
+            "heading": "Point - Set 6 calici vino rosso",
+            "text": "<p>Un <strong>bicchiere </strong>di vino rosso semplice, elegante e raffinato. Non te lo immagini già? Tuo papà che gusta il suo vino preferito sul divano. Idea regalo fantastica firmato <a href=\"/products/4283-knindustrie-point-calici-vino-set-6-bicchieri\" title=\"KnIndustrie Point Calici Vino Set 6 Bicchieri\"><strong>KnIndustrie</strong></a>!<br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/4283-knindustrie-point-calici-vino-set-6-bicchieri"
+          }
+        },
+        "row_kmqAmU": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-Gourmet_-Decanter-Vino.webp",
+            "caption": "Brandani Home",
+            "heading": "Gourmet -  Decanter Vino",
+            "text": "<p>Il <a href=\"/products/2716-brandani-gourmet-decanter-decanter-vino-075-lt\" title=\"Brandani Gourmet Decanter Vino\"><strong>Decanter Gourmet</strong></a> in vetro di Brandani è il sogno di tutti coloro che amano una mise en place impeccabile. Sarà un piacere per il tuo papà servire il vino ai tuoi ospiti.<br/><br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/2716-brandani-gourmet-decanter-decanter-vino-075-lt"
+          }
+        }
+      },
+      "block_order": [
+        "row_AHrB7f",
+        "row_NqyfWc",
+        "row_kmqAmU"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_c6HwnW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_HYMXwe": {
+          "type": "heading",
+          "settings": {
+            "heading": "Il papà che ama la cucina",
+            "heading_size": "h1"
+          }
+        },
+        "text_jWbiWR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Quanto sei fortunato ad avere un papà che ama cucinare?</p><p>Per questo Natale scegli qualcosa che lo aiuti a rendere la sue creazioni ancor più gustose. Scopri la nostra imperdibile selezione di idee regalo!</p>",
+            "text_style": "body"
+          }
+        },
+        "button_EnkTAc": {
+          "type": "button",
+          "settings": {
+            "button_label": "IDEE REGALO PER LUI",
+            "button_link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lui?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=CUCINA+%26+TAVOLA&sort_by=created-descending",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_HYMXwe",
+        "text_jWbiWR",
+        "button_EnkTAc"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/cosa-regalare-al-papa-che-ama-la-cucina_1.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_NRXPfV": {
+      "type": "multirow",
+      "blocks": {
+        "row_8dfDDP": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/brandani-grill-piastra-grill-inox.jpg",
+            "caption": "Brandani",
+            "heading": "Grill - Piastra grill inox",
+            "text": "<p>Una <strong>piastra grill </strong>apribile con doppia piastra antiaderente che garantisce il massimo delle prestazioni. Questa piastra firmata <strong>Brandani </strong>non disperde calore e mantiene una temperatura costante senza produzione di fumo. Un’idea utile e di design! <br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/4511-brandani-grill-piastra-grill-inox"
+          }
+        },
+        "row_4pzR4k": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/MATERIALS-taglieri-scultura_1.jpg",
+            "caption": "KnIndustrie",
+            "heading": "Knindustrie - Tagliere Scultura",
+            "text": "<p>Con l’elegante <a href=\"/products/5095-knindustrie-materials-taglieri-scultura\" title=\"KnIndustrie Materials Taglieri Scultura piccolo\"><strong>tagliere</strong></a><strong>, </strong>chiamato <strong>Scultura </strong>per la sua forma originale, è possibile servire caci e scaglie, fette o cubetti con eleganza e design. L’accessorio apprezzato da ogni cuoco!<br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/7668-knindustrie-materials-taglieri-scultura"
+          }
+        },
+        "row_h6kTyg": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-lady-anne-caffettiera.-black.jpg",
+            "caption": "Knindustrie",
+            "heading": "Lady Anne - Caffettiera | Black",
+            "text": "<p>La <a href=\"/collections/lady-anne-knindustrie\" title=\"Lady Anne KnIndustrie\"><strong>caffettiera di KnIndustrie</strong></a> si veste di nero! Un’oggetto elegante e funzionale per preparare e servire dell’ottimo caffè!</p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/3661-knindustrie-lady-anne-caffettiera-black"
+          }
+        },
+        "row_xEr3te": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/KnIndustrie-Beyond-Basic-The-Cedar-Plank-Set-Affumicatura.jpg",
+            "caption": "Knindustrie",
+            "heading": "Beyond Basic | The Cedar Plank - set affumicatura",
+            "text": "<p>Il <strong>Planking</strong>, è una  tecnica di cottura su tavoletta di legno, usata in passato dalle antiche popolazioni native del Canada. <strong>Se il tuo papà ama cucinare</strong> morirà di curiosità nel testare questa fantastica tecnica di cottura!<br/></p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/2950-knindustrie-beyond-basic-the-cedar-plank-set-affumicatura"
+          }
+        }
+      },
+      "block_order": [
+        "row_8dfDDP",
+        "row_4pzR4k",
+        "row_h6kTyg",
+        "row_xEr3te"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_nRTgzR": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_VPcq8X": {
+          "type": "heading",
+          "settings": {
+            "heading": "Il papà che ama l'arte",
+            "heading_size": "h1"
+          }
+        },
+        "text_dDxAC8": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>L'arte </strong>non è per tutti, e se il tuo papà è un intenditore non puoi che regalargli qualcosa che gli ricordi sempre la sua bellissima <strong>passione</strong>. </p><p>Scopri la nostra <strong>unica selezione</strong> di idee regalo pensate per lui!</p>",
+            "text_style": "body"
+          }
+        },
+        "button_A3rxBF": {
+          "type": "button",
+          "settings": {
+            "button_label": "IDEE REGALO PER LUI",
+            "button_link": "shopify://collections/complementi-arredo-quadri-e-stampe",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_VPcq8X",
+        "text_dDxAC8",
+        "button_A3rxBF"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/cosa-regalare-al-papa-che-ama-l-arte_1.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_JC7jk3": {
+      "type": "multirow",
+      "blocks": {
+        "row_ngWjbg": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/salvadoriarte-rustxxx-tela-rust017-50x50.jpg",
+            "caption": "Salvadoriarte",
+            "heading": "Rustxxx - tela RUST017 - 50x50​",
+            "text": "<p><strong>Rust017 </strong>della collezione <a href=\"/collections/salvadoriarte\" title=\"SalvadoriArte\"><strong>RustXXX di SalvadoriArte</strong> </a>è realizzato a mano su tela grazie a un processo di acidatura che lo rende unico al mondo, ma non unico come il tuo papà!<br/><br/></p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/1806-salvadoriarte-rustxxx-tela-rust017-50x50"
+          }
+        },
+        "row_dta9BH": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/superstuff-totem-gufo.webp",
+            "caption": "Superstuff",
+            "heading": "Totem Gufo - Saggezza",
+            "text": "<p>Realizzato con materiali di alta qualità, questo totem si distingue per il suo design <strong>accattivante e moderno</strong>, che combina linee pulite con dettagli accurati. La scelta del gufo non è casuale: nella mitologia e nel folklore di molte culture, il<strong> gufo è considerato un guardiano della conoscenza e un simbolo di profondità mentale. </strong>Ottima idea reagalo!</p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/superstuff-totem-gufo"
+          }
+        },
+        "row_b9bNwV": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/seletti-seletti-wears-toiletpaper-padded-chair-sedia-shit.jpg",
+            "caption": "Seletti",
+            "heading": "Seletti Wears Toiletpaper - Padded Chair | Sedia shit",
+            "text": "<p>Questa <strong>sedia</strong>, creazione di <a href=\"/collections/seletti-catalogo-prodotti-toiletpaper\" title=\"Toiletpaper Seletti\"><strong>Seletti Toiletpaper</strong></a><strong> </strong>regala un po’ di follia, colore e combattività. Un complemento d’arredo del design eccentrico e assolutamente unico.<br/><br/></p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/4417-seletti-seletti-wears-toiletpaper-padded-chair-sedia-shit"
+          }
+        },
+        "row_bB7AaQ": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/seletti-magna-graecia-busto-poppea-in-terracotta-2_1.jpg",
+            "caption": "Seletti",
+            "heading": "Magna Graecia Busto Poppea in terracotta",
+            "text": "<p><a href=\"/products/seletti-magna-graecia-busto-poppea-in-terracotta\" title=\"Seletti Magna Graecia Busto Poppea in terracotta\"><strong>Busto in terracotta Poppea</strong></a><strong> </strong>della collezione Magna Graecia disegnata da Antonio Aricò.</p><p>Questo complemento d’arredo dona a qualunque casa un tocco di lusso, eleganza e arte.</p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/seletti-magna-graecia-busto-poppea-in-terracotta"
+          }
+        }
+      },
+      "block_order": [
+        "row_ngWjbg",
+        "row_dta9BH",
+        "row_b9bNwV",
+        "row_bB7AaQ"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_efjzUn": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_iGehKd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Il papà che ama caffè, tè e tisane",
+            "heading_size": "h1"
+          }
+        },
+        "text_KFbmg3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Per il tuo papà che <strong>ama bere caffè, tè e tisane</strong>, abbiamo pensato ad una selezione di idee regalo che si basa su classici accessori che, di classico, hanno ben poco! Sei curioso? <strong>Scoprila subito! </strong><br/><br/></p>",
+            "text_style": "body"
+          }
+        },
+        "button_xemzUB": {
+          "type": "button",
+          "settings": {
+            "button_label": "IDEE REGALO PER LUI",
+            "button_link": "shopify://collections/cucina-e-tavola-tazze-tazzine-mug",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_iGehKd",
+        "text_KFbmg3",
+        "button_xemzUB"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/La-mamma-che-ama-caffe-te-tisane_1.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_wYNF8Q": {
+      "type": "multirow",
+      "blocks": {
+        "row_UXrq6i": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-moka-forato-cucchiaino-da-caffe.jpg",
+            "caption": "Knindustrie",
+            "heading": "Moka forato - cucchiaino da caffè",
+            "text": "<p>Pensato dallo chef Davide Oldani, Knindustrie ha realizzato questo <a href=\"/products/2294-knindustrie-moka-forato-cucchiaino-da-caffe\" title=\"KnIndustrie Foo'D Finitura Lucida Cucchiaino Moka forato\"><strong>cucchiaino da moka</strong></a><strong> </strong>forato che ti permette di miscelare il caffè senza rovinare la bella cremina che si forma in superficie, lasciando intatto tutto il prezioso sapore del caffè. Il tuo papà apprezzerà!<br/><br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/2294-knindustrie-moka-forato-cucchiaino-da-caffe"
+          }
+        },
+        "row_mMLtyk": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/seletti-estetico-quotidiano-set-6-tazzine-caffe-in-vetro.jpg",
+            "caption": "Seletti",
+            "heading": "Estetico quotidiano - Set 6 Tazzine Caffè in Vetro",
+            "text": "<p>Originalissime <a href=\"/products/1451-seletti-estetico-quotidiano-set-6-tazzine-caffe-in-vetro\" title=\"Seletti Estetico quotidiano set 6 tazzine caffè in vetro\"><strong>tazzine da caffè</strong></a><strong> </strong>della linea Estetico Quotidiano di Seletti, fornite con palettina in vetro borosilicato, sono un’idea regalo di Natale che chiunque apprezzerebbe! <br/><br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/1451-seletti-estetico-quotidiano-set-6-tazzine-caffe-in-vetro"
+          }
+        },
+        "row_FVDYLi": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/brandani-matt-black-cocktail-shaker-set-3-pz-in-inox.jpg",
+            "caption": "bRANDANI",
+            "heading": "Shaker - per un buon caffè shakerato",
+            "text": "<p>C’è un modo però per assaporare l’aroma intenso del caffè anche da freddo preparando il <strong>caffè shakerato!</strong></p><p><strong>Ogni Papà “barman”</strong> ha la sua ricetta segreta ma la caratteristica che accomuna tutti le varianti consiste in una schiuma spumosa e compatta che si crea dopo aver shakerato gli ingredienti, simile alla crema del cappuccino o al denso strato di panna che caratterizza.</p><p><br/><strong>Ottima idea regalo per i papà che amano il caffè in tutte le sue varianti!</strong></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/brandani-cocktail-set-con-accessori-set-5-pz-in-inox"
+          }
+        }
+      },
+      "block_order": [
+        "row_UXrq6i",
+        "row_mMLtyk",
+        "row_FVDYLi"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_CKVzFq": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_VARcwa": {
+          "type": "heading",
+          "settings": {
+            "heading": "Non hai ancora  trovato l'idea regalo giusta?",
+            "heading_size": "h1"
+          }
+        },
+        "text_B9xRqC": {
+          "type": "text",
+          "settings": {
+            "text": "Per mamme e papà fuori dagli schemi: UNICI, come piace a noi... Scopri tutte le nostre idee regalo di Natale!",
+            "text_style": "subtitle"
+          }
+        },
+        "buttons_8cGc3R": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "SCOPRILE ORA!",
+            "button_link_1": "shopify://collections/idee-regalo-natale",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_VARcwa",
+        "text_B9xRqC",
+        "buttons_8cGc3R"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Idee-Regalo-di-Natale_1.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "top-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "separator_nbNJQV": {
+      "type": "separator",
+      "name": "Separator Line",
+      "settings": {
+        "line_thickness": 1
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multicolumn_WpyCnX",
+    "multicolumn_qNaQGY",
+    "image_with_text_FqhcGf",
+    "multirow_WBcUcW",
+    "featured_collection_DcQkgR",
+    "image_with_text_6D7wzF",
+    "multirow_gaUUHh",
+    "featured_collection_DHefMh",
+    "image_with_text_et4rKW",
+    "multirow_TGNpHm",
+    "featured_collection_p73D8b",
+    "image_with_text_789DBP",
+    "multirow_YEPYXg",
+    "featured_collection_CtNKRh",
+    "image_with_text_jEbVKr",
+    "multirow_nKmn8r",
+    "image_with_text_c6HwnW",
+    "multirow_NRXPfV",
+    "image_with_text_nRTgzR",
+    "multirow_JC7jk3",
+    "image_with_text_efjzUn",
+    "multirow_wYNF8Q",
+    "image_banner_CKVzFq",
+    "separator_nbNJQV"
+  ]
+}
