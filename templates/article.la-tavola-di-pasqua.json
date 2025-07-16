@@ -176,11 +176,20 @@
             "text": "<p>Il <strong>servizio piatti per Pasqua</strong> è la prima scelta indispensabile da prendere, non a caso, molte famiglie preferiscono regalare (e rivecere) un servizio di piatti completo piuttosto che decorazioni o altri complementi d’arredo.</p><p>Per aiutarti a trovare un <strong>servizio di piatti pasquali</strong> degni di uno squisito menu, non potevamo che affidarci ai nostri fidati esperti di design:<strong> </strong><a href=\"/collections/bitossi-home\" title=\"Bitossi Home\"><strong>Bitossi Home,</strong></a><strong> </strong><a href=\"/collections/knindustrie\" title=\"KnIndustrie\"><strong>KnIndustrie</strong></a><strong> e </strong><a href=\"/collections/seletti\" title=\"Seletti\"><strong>Seletti</strong></a><strong>.</strong></p>",
             "text_style": "body"
           }
+        },
+        "button_QBXRxw": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scopri tutti i Nostri Servizi di Piatti",
+            "button_link": "shopify://collections/cucina-e-tavola-piatti",
+            "button_style_secondary": true
+          }
         }
       },
       "block_order": [
         "heading_FtXYnR",
-        "text_nQJj79"
+        "text_nQJj79",
+        "button_QBXRxw"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
