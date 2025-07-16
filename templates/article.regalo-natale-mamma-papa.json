@@ -57,66 +57,11 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_MeYF33": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Stili e colori",
-            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa?#shopify-section-template--25579959517449__image_with_text_NXth3x"
-          }
-        },
-        "column_RLU6LC": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "I Piatti",
-            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa?#shopify-section-template--25579959517449__image_with_text_FqhcGf"
-          }
-        },
-        "column_UekAy3": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "I Bicchieri",
-            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa?#shopify-section-template--25579959517449__image_with_text_6D7wzF"
-          }
-        },
-        "column_GUkhpY": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Le Posate",
-            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa?#shopify-section-template--25579959517449__image_with_text_et4rKW"
-          }
-        },
-        "column_nBpTTT": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "I Centrotavola",
-            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa?#shopify-section-template--25579959517449__image_with_text_789DBP"
-          }
         }
       },
       "block_order": [
         "column_JVQmDw",
-        "column_9GQxbK",
-        "column_MeYF33",
-        "column_RLU6LC",
-        "column_UekAy3",
-        "column_GUkhpY",
-        "column_nBpTTT"
+        "column_9GQxbK"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -213,7 +158,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 0,
@@ -226,22 +171,22 @@
         "heading_FtXYnR": {
           "type": "heading",
           "settings": {
-            "heading": "Il servizio di Piatti per Pasqua: una scelta tutt'altro che banale",
+            "heading": "La mamma che ama i fiori",
             "heading_size": "h1"
           }
         },
         "text_nQJj79": {
           "type": "text",
           "settings": {
-            "text": "<p>Il <strong>servizio piatti per Pasqua</strong> è la prima scelta indispensabile da prendere, non a caso, molte famiglie preferiscono regalare (e rivecere) un servizio di piatti completo piuttosto che decorazioni o altri complementi d’arredo.</p><p>Per aiutarti a trovare un <strong>servizio di piatti pasquali</strong> degni di uno squisito menu, non potevamo che affidarci ai nostri fidati esperti di design:<strong> </strong><a href=\"/collections/bitossi-home\" title=\"Bitossi Home\"><strong>Bitossi Home,</strong></a><strong> </strong><a href=\"/collections/knindustrie\" title=\"KnIndustrie\"><strong>KnIndustrie</strong></a><strong> e </strong><a href=\"/collections/seletti\" title=\"Seletti\"><strong>Seletti</strong></a><strong>.</strong></p>",
+            "text": "<p>Per la tua mamma che ama i fiori abbiamo pensato a vasi e accessori di design e di alta qualità. <a href=\"/collections/seletti\" title=\"Seletti\"><strong>Seletti</strong></a>, <a href=\"/collections/brandani\" title=\"Brandani\"><strong>Brandani</strong></a><strong> </strong>e <a href=\"/collections/bitossi-home\" title=\"Bitossi Home\"><strong>Bitossi</strong></a>. Quale sarà il preferito della tua mamma?</p><p>Questo lo sai solo tu! Scopri subito la nostra selezione e trova il regalo più in linea con i suoi gusti.</p>",
             "text_style": "body"
           }
         },
         "button_QBXRxw": {
           "type": "button",
           "settings": {
-            "button_label": "SCOPRI TUTTI I NOSTRI SERVIZI DI PIATTI",
-            "button_link": "shopify://collections/cucina-e-tavola-piatti",
+            "button_label": "IDEE REGALO PER LEI",
+            "button_link": "shopify://collections/idee-regalo-regali-per-lei",
             "button_style_secondary": true
           }
         }
@@ -253,7 +198,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Bitossi-Home-Piatti_1.webp",
+        "image": "shopify://shop_images/La-mamma-che-ama-i-fiori.jpg",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -274,53 +219,41 @@
         "row_QrcyLc": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Bitossi-Home-Novita-per-la-tavola-di-san-valentino.jpg",
-            "caption": "Bitossi Home",
-            "heading": "\"Il Frutto della Passione\" - Connubio di Arte e Moda",
-            "text": "<p>Ecco come portare un tocco di <strong>eccentricità e originalità</strong> direttamente sulla tua tavola!</p><p><a href=\"/collections/bitossi-home-il-frutto-della-passione-bitossi-home\" title=\"Il Frutto della Passione Bitossi Home\"><strong>“Il Frutto della Passione”</strong></a> è la nuova collezione di <a href=\"/collections/bitossi-home\" title=\"Bitossi Home\"><strong>Bitossi Home</strong></a>, che ha visto il proprio debutto alla Milano Design Week 2023.</p><p>La tradizione ceramica si abbraccia con una sensibilità artistica innovativa. Un tripudio di colori e stili che si fondono per regalarti <strong>un’esperienza unica e gioiosa ad ogni pasto.</strong></p>",
-            "button_label": "SCOPRI LA COLLEZIONE",
+            "image": "shopify://shop_images/Love-in-Bloom-Seletti_196422cc-27a4-45b1-8a92-bd393047e649.webp",
+            "caption": "Seletti ",
+            "heading": "Love in Bloom - vaso cuore",
+            "text": "<p>Ricorda alla tua mamma quanto la ami con questo fantastico <a href=\"/collections/love-in-bloom-seletti\" title=\"Love in Bloom Seletti\"><strong>vaso cuore</strong> <strong>firmato Seletti</strong></a>. Da appoggiare o appendere, all’interno della confezione la tua mamma troverà un bellissimo biglietto con scritto “from me to you”.</p><p>Il tuo cuore ora è suo per sempre!</p>",
+            "button_label": "SCOPRILO",
             "button_link": "shopify://collections/bitossi-home-il-frutto-della-passione-bitossi-home"
           }
         },
         "row_Ywznn8": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Seletti-piatti-diesel.png",
-            "caption": "SELETTI",
-            "heading": "\"Acid Dishes\" - La Tradizione... Rinnovata!",
-            "text": "<p>Questa <a href=\"/collections/seletti-catalogo-prodotti-diesel-living\" title=\"Seletti Diesel Living\"><strong>collezione Diesel Living con Seletti</strong></a> reinterpreta lo stile classico in chiave moderna.</p><p><a href=\"https://www.unicoemultiplo.com/collections/seletti-diesel-living-seletti-classics-on-acid\"><strong>Classics on Acid</strong></a> è una linea davvero completa: dai piatti da zuppa o da frutta, fino alle ciotole di varie dimensioni.</p><p>L’eleganza del bianco incontra diverse tonalità del blu. <strong>Le pennellate si contorcono come figure sulla superficie dell’acqua increspata.</strong> Emergono incantevoli immagini dell’antica Cina, paesaggi, fiori e creature mitologiche.</p>",
-            "button_label": "SCOPRI LA COLLEZIONE",
+            "image": "shopify://shop_images/Bitossi-Home-Tavola-Scomposta-Grazie-dei-fiori-vaso-ceramica-Rosso.webp",
+            "caption": "Bitossi Home",
+            "heading": "Tavola Scomposta - Grazie dei fiori",
+            "text": "<p>Una mano di pura ceramica bianca, unghie laccate di rosso rubino, che stringe petali per un regalo speciale: <strong>Bitossi Home</strong> trasforma ogni tavola in un <strong>abbraccio floreale per la mamma.</strong><br/><br/></p>",
+            "button_label": "SCOPRILO",
             "button_link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid"
           }
         },
         "row_zYTcjd": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/mood-circles-Knindustrie-davide-oldani.webp",
-            "caption": "Knindustrie",
-            "heading": "\"Composizione Circles\" - Il Set Polimaterico di Davide Oldani",
-            "text": "<p><a href=\"/products/knindustrie-composizione-circles-set-di-quattro-piatti-tavola\" title=\"KnIndustrie Composizione Circles - Set piatti tavola 4 pz\"><strong>La composizione Circles</strong></a> KnIndustrie, firmata <a href=\"/collections/knindustrie-catalogo-prodotti-davide-oldani\" title=\"Davide Oldani e KnIndustrie\"><strong>Davide Oldani</strong></a> unisce quattro piatti, due in Gres e due in fine Bone China, per un allestimento di grande impatto estetico. Ogni pezzo è unico nella finitura e nella forma, dove le linee irregolari incontrano materiali preziosi in un<strong> raffinato gioco di contrasti.</strong> <br/></p><p>Pensata per chi ama un design<strong> internazionale e contemporaneo</strong>, <a href=\"/products/knindustrie-composizione-circles-set-di-quattro-piatti-tavola\" title=\"KnIndustrie Composizione Circles - Set piatti tavola 4 pz\"><strong>Circles</strong></a> trasforma ogni portata in un’esperienza visiva: l’equilibrio sofisticato di forme e sfumature esalta sapori e colori.<br/></p>",
-            "button_label": "SCOPRI LA COMPOSIZIONE",
-            "button_link": "shopify://products/knindustrie-composizione-circles-set-di-quattro-piatti-tavola"
-          }
-        },
-        "row_FHYFKf": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/Funky-Table-Bitossi-Home-Piatti.jpg",
-            "caption": "BITOSSI HOME",
-            "heading": "Bitossi Home \"La Tavola Scomposta\" che non smette mai di incantare!",
-            "text": "<p>Bitossi Home dà vita alla “<a href=\"/collections/fabula-bitossi-home\" title=\"Fabula Bitossi Home\"><strong>Tavola Scomposta - Fabula”</strong></a>, una collezione accogliente che porta in tavola una <em>mise-en-place</em> ironica e ricca di colori.</p><p><a href=\"/collections/fabula-bitossi-home\" title=\"Fabula Bitossi Home\"><strong>Questa collezione firmata Bitossi Home </strong></a>è pensata per una <strong>tavola di Pasqua </strong>che dona, attraverso un piacevole connubio di colori, un’elegante e dolce atmosfera.<br/></p>",
-            "button_label": "SCOPRI LA COLLEZIONE",
-            "button_link": "shopify://collections/fabula-bitossi-home"
+            "image": "shopify://shop_images/seletti-hybrid-vaso-lfe.jpg",
+            "caption": "Seletti",
+            "heading": "Hybrid - vaso Lfe",
+            "text": "<p>La collezione <a href=\"/collections/seletti-catalogo-prodotti-hybrid\" title=\"Seletti Hybrid\"><strong>Hybrid</strong></a>, firmata <a href=\"/collections/seletti\" title=\"Seletti\"><strong>Seletti</strong></a>, attraverso un vaso mette faccia a faccia Oriente e Occidente, Nord e Sud del mondo, dando vita ad un connubio elegante e raffinato.</p><p>Un’idea regalo di Natale unica per una mamma che ama i fiori!</p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/4764-seletti-hybrid-vaso-lfe"
           }
         }
       },
       "block_order": [
         "row_QrcyLc",
         "row_Ywznn8",
-        "row_zYTcjd",
-        "row_FHYFKf"
+        "row_zYTcjd"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
@@ -335,6 +268,35 @@
         "section_color_scheme": "scheme-1",
         "row_color_scheme": "scheme-1",
         "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_DcQkgR": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "COPRI TUT",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "",
+        "products_to_show": 25,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -878,6 +840,7 @@
     "multicolumn_qNaQGY",
     "image_with_text_FqhcGf",
     "multirow_WBcUcW",
+    "featured_collection_DcQkgR",
     "image_with_text_6D7wzF",
     "multirow_gaUUHh",
     "image_with_text_et4rKW",
