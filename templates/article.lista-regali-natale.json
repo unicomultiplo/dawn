@@ -540,7 +540,7 @@
           "settings": {
             "image": "shopify://shop_images/le-guzzerie_6_1.jpg",
             "caption": "Guzzerie",
-            "heading": "Il cibo della mamma è arte!",
+            "heading": "Il Cibo è Arte!",
             "text": "<p>Con <a href=\"/collections/guzzerie\" title=\"Guzzerie\"><strong>Guzzerie</strong></a> Carbonara, pizza margherita, lasagne e tanto ancora diventano i veri <strong>capolavori</strong> da incorniciare. Lasciati conquistare dalle illustrazioni per veri buongustai, stampate su carta riciclata da agroresidui. Bellissime in cucina, in taverna o per allestire un cocktail bar nel tuo salotto! <br/><br/></p>",
             "button_label": "SCOPRILE",
             "button_link": "shopify://collections/guzzerie"
@@ -549,12 +549,12 @@
         "row_KpiUBC": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/KnIndustrie-Beyond-Basic-The-pasta_b273b162-20cd-4486-9171-3c248e7a01a5.jpg",
-            "caption": "Knindustrie",
-            "heading": "Beyond Basic - The pasta",
-            "text": "<p>Una <a href=\"/products/1732-knindustrie-beyond-basic-the-pasta\" title=\"KnIndustrie Beyond Basic The pasta\"><strong>pentola in accciao inox satinato</strong></a>, così elegante e raffinata che quasi fai fatica a sporcarla! Funzionalità e design si sposano per un connubio perfetto con questa pentola firmata <a href=\"/collections/knindustrie\" title=\"KnIndustrie\"><strong>KnIndustrie</strong></a>.</p>",
+            "image": "shopify://shop_images/knindustrie-passpartout-posata_corta.webp",
+            "caption": "KnIndustrie",
+            "heading": "Passpartout Posata da tavola",
+            "text": "<p>La <a href=\"/products/2293-knindustrie-passpartout-posata-da-tavola-corta-ice\" title=\"KnIndustrie Passpartout Posata da tavola corta\"><strong>posata Passepartout corta</strong></a> è la posata perfetta per tutti!<br/>Universale e non convenzionale.</p><p><strong>Regalala subito!</strong></p>",
             "button_label": "SCOPRILA",
-            "button_link": "shopify://products/1732-knindustrie-beyond-basic-the-pasta"
+            "button_link": "shopify://products/2293-knindustrie-passpartout-posata-da-tavola-corta-ice"
           }
         },
         "row_pHqHjt": {
