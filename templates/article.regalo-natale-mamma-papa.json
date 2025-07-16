@@ -443,22 +443,22 @@
         "heading_bcL9mj": {
           "type": "heading",
           "settings": {
-            "heading": "Scegliere le Posate per ogni portata: regole di stile e galateo",
+            "heading": "La mamma che ama la cucina",
             "heading_size": "h1"
           }
         },
         "text_GmGrm4": {
           "type": "text",
           "settings": {
-            "text": "<p>La posata giusta può fare la differenza nel trasformare un pasto quotidiano in un’esperienza culinaria da ricordare, e non vogliamo mica che il tuo menù venga svantaggiato da posate non adeguate!</p><p>Per questo ti consigliamo solo set di alta qualità per <strong>apparecchiare la tavola a Pasqua</strong>, realizzati dai migliori esperti di <em>mise-en-place</em>: <a href=\"/collections/knindustrie-catalogo-prodotti-posate\" title=\"KnIndustrie: Posate\"><strong>KnIndustrie</strong></a><strong> </strong>e <a href=\"/collections/posate-bitossi-home\" title=\"Posate Bitossi Home\"><strong>Bitossi Home</strong></a>.</p>",
+            "text": "<p>Per la tua <strong>mamma che ama la cucina </strong>scopri la nostra selezione di idee regalo utili e di design, per rendere la sua cucina ancor più efficiente e circondata d’amore, con qualcosa che è sempre li a<strong> ricordargli di te.</strong><br/></p>",
             "text_style": "body"
           }
         },
         "button_6MncmJ": {
           "type": "button",
           "settings": {
-            "button_label": "ESLPORA LA COLLEZIONE COMPLETA",
-            "button_link": "",
+            "button_label": "IDEE REGALO PER LEI",
+            "button_link": "shopify://pages/natale",
             "button_style_secondary": true
           }
         }
