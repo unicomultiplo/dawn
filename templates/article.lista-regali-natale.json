@@ -775,22 +775,22 @@
         "heading_U9QXdV": {
           "type": "heading",
           "settings": {
-            "heading": "Il papà che ama il vino",
+            "heading": "Regali di Natale per gli amanti dei viaggi",
             "heading_size": "h1"
           }
         },
         "text_hGBY3g": {
           "type": "text",
           "settings": {
-            "text": "<p>Tutti lo bevono ma pochi lo comprendono davvero!<br/>Se il tuo papà si distingue dalla massa, regalagli qualcosa di davvero speciale dalla nostra <strong>accurata selezione di gadget </strong>per veri amanti del vino!<br/></p>",
+            "text": "<p>Se la tua persona speciale, un tuo famigliare o il tuo migliore amico è sempre all’avventura in giro per il mondo, non perderti le nostre idee regalo per Natale dedicate a gli amanti dei viaggi!<br/><br/></p>",
             "text_style": "body"
           }
         },
         "button_hUJNnb": {
           "type": "button",
           "settings": {
-            "button_label": "IDEE REGALO PER LUI",
-            "button_link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici",
+            "button_label": "IDEE REGALO PER VIAGGIATORI",
+            "button_link": "shopify://collections/tempo-libero",
             "button_style_secondary": true
           }
         }
@@ -802,7 +802,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/il-papa-che-ama-il-vino_1.webp",
+        "image": "shopify://shop_images/ideeregalo-viaggio.jpg",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -817,61 +817,31 @@
         "padding_bottom": 36
       }
     },
-    "multirow_nKmn8r": {
-      "type": "multirow",
-      "blocks": {
-        "row_AHrB7f": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/Brandani-cavatappi-elettrico.jpg",
-            "caption": "Brandani Home",
-            "heading": "Cavatappi Elettrico",
-            "text": "<p>A tuo padre regala un aggeggio pratico e funzionale. Con il <a href=\"/products/285-brandani-cavatappi-cavatappi-elettrico\" title=\"Brandani Home Cavatappi Cavatappi elettrico\"><strong>cavatappi elettrico</strong></a><strong> </strong>della linea <strong>Brandani Home </strong>è possibile aprire le bottiglie in maniera pratica e veloce! Può un’amante del vino non apprezzarlo?<br/></p>",
-            "button_label": "SCOPRILO",
-            "button_link": "shopify://products/285-brandani-cavatappi-cavatappi-elettrico"
-          }
-        },
-        "row_NqyfWc": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/Bicchieri-vino-point-KnIndustrie.jpg",
-            "caption": "KnIndustrie",
-            "heading": "Point - Set 6 calici vino rosso",
-            "text": "<p>Un <strong>bicchiere </strong>di vino rosso semplice, elegante e raffinato. Non te lo immagini già? Tuo papà che gusta il suo vino preferito sul divano. Idea regalo fantastica firmato <a href=\"/products/4283-knindustrie-point-calici-vino-set-6-bicchieri\" title=\"KnIndustrie Point Calici Vino Set 6 Bicchieri\"><strong>KnIndustrie</strong></a>!<br/></p>",
-            "button_label": "SCOPRILO",
-            "button_link": "shopify://products/4283-knindustrie-point-calici-vino-set-6-bicchieri"
-          }
-        },
-        "row_kmqAmU": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/Brandani-Gourmet_-Decanter-Vino.webp",
-            "caption": "Brandani Home",
-            "heading": "Gourmet -  Decanter Vino",
-            "text": "<p>Il <a href=\"/products/2716-brandani-gourmet-decanter-decanter-vino-075-lt\" title=\"Brandani Gourmet Decanter Vino\"><strong>Decanter Gourmet</strong></a> in vetro di Brandani è il sogno di tutti coloro che amano una mise en place impeccabile. Sarà un piacere per il tuo papà servire il vino ai tuoi ospiti.<br/><br/></p>",
-            "button_label": "SCOPRILO",
-            "button_link": "shopify://products/2716-brandani-gourmet-decanter-decanter-vino-075-lt"
-          }
-        }
-      },
-      "block_order": [
-        "row_AHrB7f",
-        "row_NqyfWc",
-        "row_kmqAmU"
-      ],
-      "name": "t:sections.multirow.presets.name",
+    "featured_collection_xz6fcY": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "image_height": "small",
-        "desktop_image_width": "small",
+        "title": "",
         "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "",
-        "row_color_scheme": "",
-        "mobile_content_alignment": "left",
+        "description": "",
+        "show_description": false,
+        "description_style": "subtitle",
+        "collection": "tempo-libero",
+        "products_to_show": 25,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -1295,7 +1265,7 @@
     "multirow_YEPYXg",
     "featured_collection_CtNKRh",
     "image_with_text_jEbVKr",
-    "multirow_nKmn8r",
+    "featured_collection_xz6fcY",
     "image_with_text_c6HwnW",
     "multirow_NRXPfV",
     "image_with_text_nRTgzR",
