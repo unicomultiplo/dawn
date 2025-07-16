@@ -913,7 +913,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Bitossi-Home-Funky-Table_1.png",
+        "image": "shopify://shop_images/cosa-regalare-al-papa-che-ama-la-cucina_1.webp",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -956,6 +956,17 @@
         "row_h6kTyg": {
           "type": "row",
           "settings": {
+            "image": "shopify://shop_images/knindustrie-lady-anne-caffettiera.-black.jpg",
+            "caption": "Knindustrie",
+            "heading": "Lady Anne - Caffettiera | Black",
+            "text": "<p>La <a href=\"/collections/lady-anne-knindustrie\" title=\"Lady Anne KnIndustrie\"><strong>caffettiera di KnIndustrie</strong></a> si veste di nero! Un’oggetto elegante e funzionale per preparare e servire dell’ottimo caffè!</p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/3661-knindustrie-lady-anne-caffettiera-black"
+          }
+        },
+        "row_xEr3te": {
+          "type": "row",
+          "settings": {
             "image": "shopify://shop_images/Seletti-Hybrid-Tovaglietta-Bersabea_1.jpg",
             "caption": "Seletti",
             "heading": "\"Hybrid\" - Tovagliette dell'incontro",
@@ -968,7 +979,8 @@
       "block_order": [
         "row_8dfDDP",
         "row_4pzR4k",
-        "row_h6kTyg"
+        "row_h6kTyg",
+        "row_xEr3te"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
