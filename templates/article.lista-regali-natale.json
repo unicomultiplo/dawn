@@ -251,6 +251,80 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_489QHn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_p9w9Bh": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Definisci un budget per ogni persona che vuoi includere nella tua lista e scegli il regalo tra le proposte selezionate per prezzo: potrai tenere sotto controllo la tua spesa totale e avere la certezza di <strong>non dimenticare proprio nessuno!</strong></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hRK3Ut": {
+          "type": "column",
+          "settings": {
+            "title": "SCEGLI TRA LE NOSTRE OPZIONI!",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_dweBqF": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "SOTTO AI 50€",
+            "link": "shopify://collections/idee-regalo-economiche"
+          }
+        },
+        "column_UCLtjB": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "SOTTO AI 100€",
+            "link": "shopify://collections/idee-regalo-regali-sotto-100-euro"
+          }
+        },
+        "column_GFjhAb": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "SOTTO AI 150€",
+            "link": "shopify://collections/idee-regalo-regali-sotto-150-euro"
+          }
+        }
+      },
+      "block_order": [
+        "column_p9w9Bh",
+        "column_hRK3Ut",
+        "column_dweBqF",
+        "column_UCLtjB",
+        "column_GFjhAb"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<em>Vorresti fare un regalo senza spendere troppo?</em>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_qNaQGY": {
       "type": "multicolumn",
       "blocks": {
@@ -371,54 +445,6 @@
         "color_scheme": "scheme-2",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_6D7wzF": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_Dpgthz": {
-          "type": "heading",
-          "settings": {
-            "heading": "La mamma che ama l'arte​",
-            "heading_size": "h1"
-          }
-        },
-        "text_XAFaPV": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Per una mamma che ama l'arte, <strong>l'originalità </strong>non può mancare.</p><p>Abbiamo selezionato per te degli accessori di design con cui potrà arredare il suo ambiente preferito della casa, con uno stile che non ha eguali. <strong>Scoprili subito</strong>!</p>",
-            "text_style": "body"
-          }
-        },
-        "button_ntfc3G": {
-          "type": "button",
-          "settings": {
-            "button_label": "IDEE REGALO PER LA MAMMA",
-            "button_link": "shopify://collections/complementi-arredo-quadri-e-stampe",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_Dpgthz",
-        "text_XAFaPV",
-        "button_ntfc3G"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/mamma-che-ama-l-arte.jpg",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -1322,8 +1348,8 @@
     "multicolumn_TmkCnU",
     "multicolumn_VhzyPr",
     "multicolumn_pGrbiB",
+    "multicolumn_489QHn",
     "multicolumn_qNaQGY",
-    "image_with_text_6D7wzF",
     "multirow_gaUUHh",
     "featured_collection_DHefMh",
     "image_with_text_et4rKW",
