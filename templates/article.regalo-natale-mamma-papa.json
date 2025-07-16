@@ -502,12 +502,12 @@
         "row_trGkxn": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Bitossi-home-posate.jpg",
-            "caption": "Bitossi Home",
-            "heading": "\"Torchon\" - Posate a servire",
-            "text": "<p>La collezione <a href=\"/products/bitossi-home-torchon-set-posate-insalata-l-31-cm\" title=\"Bitossi Home Torchon Set posate insalata L 31 cm\"><strong>Torchon di Bitossi Home</strong></a><strong> </strong>propone una raffinata selezione di posate e accessori per la tavola caratterizzati da manici intrecciati ispirati al motivo “torchon” e impreziositi da piccoli<strong> dettagli in resina colorata.</strong><br/><br/>Rendi unica la<strong> tua tavola di Pasqua</strong> con la collezione <strong>Torchon di Bitossi Home:</strong> intrecci raffinati e dettagli colorati per celebrare dolci momenti in stile artigianale.<br/><br/></p>",
-            "button_label": "SCOPRI TORCHON",
-            "button_link": "shopify://products/bitossi-home-torchon-set-2-coltelli-spargi-burro-15-cm"
+            "image": "shopify://shop_images/le-guzzerie_6_1.jpg",
+            "caption": "Guzzerie",
+            "heading": "Il cibo della mamma è arte!",
+            "text": "<p>Con <a href=\"/collections/guzzerie\" title=\"Guzzerie\"><strong>Guzzerie</strong></a> Carbonara, pizza margherita, lasagne e tanto ancora diventano i veri <strong>capolavori</strong> da incorniciare. Lasciati conquistare dalle illustrazioni per veri buongustai, stampate su carta riciclata da agroresidui. Bellissime in cucina, in taverna o per allestire un cocktail bar nel tuo salotto! <br/><br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://collections/guzzerie"
           }
         },
         "row_KpiUBC": {
