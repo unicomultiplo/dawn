@@ -648,11 +648,11 @@
         "column_6fmiPA": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Brandani-piatti-natalizi-goldeneye.webp",
+            "image": "shopify://shop_images/Brandani-Natale-bicchieri-1-1.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/golden-eye-brandani"
+            "link": "shopify://collections/brandani-bicchieri-e-calici"
           }
         }
       },
@@ -769,8 +769,8 @@
         "column_HRTqFQ": {
           "type": "column",
           "settings": {
-            "title": "Colonna",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
