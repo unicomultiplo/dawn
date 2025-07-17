@@ -578,6 +578,106 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_Ydt4M8": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_LHf9WP": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Con la linea <strong>accessori per la tavola </strong>è subito Natale! Sottopiatti e bicchieri decorati minuziosamente con i colori caratteristici di questa festa. Goditi questo dolce Natale, ci pensa Brandani ad illuminare la tua tavola!</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DxehYx": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Sottopiatti",
+            "link": "shopify://collections/sottopiatti-brandani"
+          }
+        },
+        "column_NzjdVb": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Bicchieri",
+            "link": "shopify://collections/brandani-bicchieri-e-calici"
+          }
+        }
+      },
+      "block_order": [
+        "column_LHf9WP",
+        "column_DxehYx",
+        "column_NzjdVb"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Completa la tua tavola con i sottopiatti e bicchieri",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_xhzyjp": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_KCyy3t": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-piatti-natalizi-goldeneye-1.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/golden-eye-brandani"
+          }
+        },
+        "column_6fmiPA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-piatti-natalizi-goldeneye.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/golden-eye-brandani"
+          }
+        }
+      },
+      "block_order": [
+        "column_KCyy3t",
+        "column_6fmiPA"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner_8dnbxR": {
       "type": "image-banner",
       "blocks": {
@@ -732,6 +832,8 @@
     "multicolumn_jcEE6P",
     "rich_text_HYP9pw",
     "multicolumn_8cGa3c",
+    "multicolumn_Ydt4M8",
+    "multicolumn_xhzyjp",
     "image_banner_8dnbxR",
     "multicolumn_f8e7Wy",
     "multicolumn_r6wY6r"
