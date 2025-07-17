@@ -450,7 +450,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/La-mamma-che-ama-la-cucina.jpg",
+        "image": "shopify://shop_images/Fidanzata-o-moglie-che-ama-viaggiare.png",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -471,23 +471,23 @@
         "row_97RkUn": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/bitossi-home-guest-piatto-pizza12.webp",
-            "caption": "Bitossi Home",
-            "heading": "Guest - Piatto pizza",
-            "text": "<p><a href=\"/products/bitossi-home-guest-piatto-pizza-mamma-mia\" title=\"Bitossi Home Guest Piatto pizza Mamma Mia\">Il <strong>piatto pizza in ceramica “Guest </strong></a><strong>”</strong>si presenta con linee semplici, perfetto per la mamma che ama presentare la piazza in modo <strong>originale e spiritoso.</strong> Un’idea regalo di Natale elegante e di qualità per la tua mamma. <br/><br/></p>",
+            "image": "shopify://shop_images/reisenthel-carrycruiser-leo-macchiato-carrello-per-la-spesa-1.jpg",
+            "caption": "Reisenthel",
+            "heading": "Carrycruiser Leo Macchiato Carrello",
+            "text": "<p>Esplora il <a href=\"/products/reisenthel-carrycruiser-leo-mcchiato-carrello-per-la-spesa\" title=\"Reisenthel Carrycruiser Leo Macchiato Carrello per la spesa\"><strong>Carrycruiser “Frame Leo Macchiato</strong></a>” di <strong>Reisenthel, </strong>il <strong>compagno ideale per </strong>la spesa e <strong>le gite</strong>, che combina praticità ed eleganza in un design accattivante.</p><p>Dolce e premuroso pensiero di Natale per una persona che ami!<br/><br/></p>",
             "button_label": "SCOPRILO",
-            "button_link": "shopify://products/bitossi-home-guest-piatto-pizza-mamma-mia"
+            "button_link": "shopify://products/reisenthel-carrycruiser-leo-mcchiato-carrello-per-la-spesa"
           }
         },
         "row_trGkxn": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/le-guzzerie_6_1.jpg",
-            "caption": "Guzzerie",
-            "heading": "Il cibo della mamma è arte!",
-            "text": "<p>Con <a href=\"/collections/guzzerie\" title=\"Guzzerie\"><strong>Guzzerie</strong></a> Carbonara, pizza margherita, lasagne e tanto ancora diventano i veri <strong>capolavori</strong> da incorniciare. Lasciati conquistare dalle illustrazioni per veri buongustai, stampate su carta riciclata da agroresidui. Bellissime in cucina, in taverna o per allestire un cocktail bar nel tuo salotto! <br/><br/></p>",
-            "button_label": "SCOPRILE",
-            "button_link": "shopify://collections/guzzerie"
+            "image": "shopify://shop_images/crash-baggage-hard-tote-bag-1.webp",
+            "caption": "Crash Baggage",
+            "heading": "Hard Tote Bag",
+            "text": "<p><strong>Idea regalo perfetta per la viaggiatrice che ama distinguersi.</strong><br/><br/>La <a href=\"/products/crash-baggage-hard-tote-bag\" title=\"Crash Baggage Hard Tote Bag\"><em><strong>Hard Tote Bag</strong></em><strong> di Crash Baggage</strong></a> è l’accessorio ideale per una moglie o un’amica sempre in movimento: protegge il laptop (fino a 15″), resiste agli urti ed è inconfondibile grazie al design “dented” che racconta storie di viaggio. Un mix di stile, praticità e carattere – proprio come lei.<br/><br/></p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/crash-baggage-hard-tote-bag"
           }
         },
         "row_KpiUBC": {
