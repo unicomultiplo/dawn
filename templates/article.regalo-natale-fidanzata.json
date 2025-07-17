@@ -163,7 +163,7 @@
         "text_nQJj79": {
           "type": "text",
           "settings": {
-            "text": "<p>Se la tua lei è un’amante dell’estetica e del design non puoi di certo scegliere la prima cosa che trovi, solo con un’accurata selezione di oggetti di qualità, curati nei piccoli particolari puoi riuscire a sorprenderla.<br/></p><h3><strong>Trova il suo brand preferito</strong> </h3><p>Dai un’occhiata alle proposte di Natale dei nostri migliori brand per un design in linea con i suoi gusti!<br/></p>",
+            "text": "<p>Se la tua lei è un’<strong>amante dell’estetica e del design</strong> non puoi di certo scegliere la prima cosa che trovi, solo con un’accurata selezione di oggetti di qualità, curati nei piccoli particolari puoi riuscire a sorprenderla.<br/></p><h3><strong>Trova il suo brand preferito</strong> </h3><p>Dai un’occhiata alle proposte di Natale dei nostri migliori brand per un design in linea con i suoi gusti!<br/></p>",
             "text_style": "body"
           }
         },
@@ -204,10 +204,10 @@
         "row_QrcyLc": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Love-in-Bloom-Seletti_196422cc-27a4-45b1-8a92-bd393047e649.webp",
+            "image": "shopify://shop_images/Seletti-specchio-toiletpaper.jpg",
             "caption": "Seletti ",
-            "heading": "Love in Bloom - vaso cuore",
-            "text": "<p>Ricorda alla tua mamma quanto la ami con questo fantastico <a href=\"/collections/love-in-bloom-seletti\" title=\"Love in Bloom Seletti\"><strong>vaso cuore</strong> <strong>firmato Seletti</strong></a>. Da appoggiare o appendere, all’interno della confezione la tua mamma troverà un bellissimo biglietto con scritto “from me to you”.</p><p>Il tuo cuore ora è suo per sempre!</p>",
+            "heading": "Seletti toiletpaper Home - specchio medio",
+            "text": "<p>L’imperdibile <strong>specchio Toiletpaper</strong> <strong>di Seletti</strong> è un pezzo di design imperdibile, un po' quadro, un po' specchio. Ovunque lo metti fa la sua figura.</p><p>Un’idea regalo di Natale super originale!</p>",
             "button_label": "SCOPRILO",
             "button_link": "shopify://collections/bitossi-home-il-frutto-della-passione-bitossi-home"
           }
