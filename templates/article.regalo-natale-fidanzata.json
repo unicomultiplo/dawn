@@ -708,49 +708,20 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_wQhbt7": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "",
-        "products_to_show": 19,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_banner_CKVzFq": {
       "type": "image-banner",
       "blocks": {
         "heading_VARcwa": {
           "type": "heading",
           "settings": {
-            "heading": "Non hai ancora  trovato l'idea regalo giusta?",
+            "heading": "Scopri tutte le nostre idee regalo di Natale",
             "heading_size": "h1"
           }
         },
         "text_B9xRqC": {
           "type": "text",
           "settings": {
-            "text": "Per mamme e papà fuori dagli schemi: UNICI, come piace a noi... Scopri tutte le nostre idee regalo di Natale!",
+            "text": "Dai un’occhiata a tutte le nostre idee regalo di Natale, selezionate per te tra i migliori brand di alta qualità e design.",
             "text_style": "subtitle"
           }
         },
@@ -809,7 +780,6 @@
     "image_with_text_789DBP",
     "multirow_YEPYXg",
     "image_with_text_jEbVKr",
-    "featured_collection_wQhbt7",
     "image_banner_CKVzFq",
     "separator_nbNJQV"
   ]
