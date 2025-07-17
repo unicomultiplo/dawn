@@ -207,7 +207,7 @@
             "image": "shopify://shop_images/Seletti-specchio-toiletpaper.jpg",
             "caption": "Seletti ",
             "heading": "Seletti toiletpaper Home - specchio medio",
-            "text": "<p>L’imperdibile <strong>specchio Toiletpaper</strong> <strong>di Seletti</strong> è un pezzo di design imperdibile, un po' quadro, un po' specchio. Ovunque lo metti fa la sua figura.</p><p>Un’idea regalo di Natale super originale!</p>",
+            "text": "<p>L’imperdibile <a href=\"/products/3002-seletti-seletti-wears-toiletpaper-specchio-mirror-medio\" title=\"Seletti Toiletpaper Home Specchio MirrorMedio\"><strong>specchio Toiletpaper</strong></a> <strong>di Seletti</strong> è un pezzo di design imperdibile, un po' quadro, un po' specchio. Ovunque lo metti fa la sua figura.</p><p>Un’idea regalo di Natale super originale!</p>",
             "button_label": "SCOPRILO",
             "button_link": "shopify://products/3002-seletti-seletti-wears-toiletpaper-specchio-mirror-medio"
           }
@@ -237,6 +237,7 @@
         "row_e9FqrU": {
           "type": "row",
           "settings": {
+            "image": "shopify://shop_images/bitossi-home-tavola-scomposta-vassoio-tondo.png",
             "caption": "Bitossi Home",
             "heading": "La Tavola Scomposta\" - I Piattini",
             "text": "<p><a href=\"/collections/bitossi-home-i-piattini-bitossi-home\" title=\"I piattini Bitossi Home\"><strong>I Piattini di Bitossi Home</strong></a> sono pezzi decorativi dal design creativo e versatile, perfetti per aggiungere un tocco di originalità alla tua casa.</p><p>Ogni piattino è caratterizzato da dettagli distintivi e temi unici che valorizzano l’estetica di ogni ambiente.</p>",
@@ -268,57 +269,28 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_DcQkgR": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "uppercase",
-        "collection": "complementi-arredo-vasi",
-        "products_to_show": 25,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "scheme-2",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
     "image_with_text_6D7wzF": {
       "type": "image-with-text",
       "blocks": {
         "heading_Dpgthz": {
           "type": "heading",
           "settings": {
-            "heading": "La mamma che ama l'arte​",
+            "heading": "La fidanzata o moglie che ama cucinare",
             "heading_size": "h1"
           }
         },
         "text_XAFaPV": {
           "type": "text",
           "settings": {
-            "text": "<p>Per una mamma che ama l'arte, <strong>l'originalità </strong>non può mancare.</p><p>Abbiamo selezionato per te degli accessori di design con cui potrà arredare il suo ambiente preferito della casa, con uno stile che non ha eguali. <strong>Scoprili subito</strong>!</p>",
+            "text": "<p>Se la tua fidanzata o moglie passa il suo tempo in casa davanti ai fornelli, sei un uomo fortunato. Scegli qualcosa di moderno, funzionale, che la aiuti a creare piatti ancor più speciali.</p><p>Con questo regalo di Natale siamo sicuri che ci guadagnerai qualcosa anche tu quindi niente scuse!</p>",
             "text_style": "body"
           }
         },
         "button_ntfc3G": {
           "type": "button",
           "settings": {
-            "button_label": "IDEE REGALO PER LA MAMMA",
-            "button_link": "shopify://collections/complementi-arredo-quadri-e-stampe",
+            "button_label": "IDEE REGALO PER ASPIRANTI CHEF",
+            "button_link": "shopify://collections/cucina-e-tavola",
             "button_style_secondary": true
           }
         }
@@ -351,41 +323,53 @@
         "row_Qbc8RM": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/bds-e-um-personalizzazione-20-stampa-la-tua-storia.jpg",
-            "caption": "BDS e U&M",
-            "heading": "Personalizzazione 2.0 - Stampa la tua Storia",
-            "text": "<p>Racconta ricordi, momenti e sogni della tua mamma in chiave Pop illustrata con un <strong>disegno grafico </strong>che racconta il vostro <strong>amore</strong>. </p><p>Se cerchi un regalo unico, e su misura per la tua mamma, <a href=\"/products/4621-bds-e-um-personalizzazione-20-stampa-la-tua-storia\" title=\"BDS e U&M Personalizzazione 2.0 stampa la tua storia\"><strong>Personalizzazione 2.0</strong></a> è quello giusto!</p>",
+            "image": "shopify://shop_images/Brandan-_Free-Batteria-di-pentole-inox-8-pz-21.jpg",
+            "caption": "Brandani",
+            "heading": "Free Batteria di pentole inox 8 pz",
+            "text": "<p><strong>Eleganza e praticità in cucina.</strong></p><p>Ogni pezzo è dotato di manici ergonomici per una presa sicura e confortevole, mentre i coperchi in vetro temperato permettono di controllare la cottura senza sollevarli, preservando sapori e aromi all’interno della pentola.</p><p><a href=\"/products/brandani-free-batteria-di-pentole-inox-8-pz\" title=\"Brandani Free Batteria di pentole inox 8 pz\"><strong>Ottima idea regalo</strong></a><strong> di Natale per una persona che ama cucinare!</strong></p>",
             "button_label": "SCOPRILA",
-            "button_link": "shopify://collections/groove-knindustrie"
+            "button_link": "shopify://products/brandani-free-batteria-di-pentole-inox-8-pz"
           }
         },
         "row_Ptep7c": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/seletti-kintsugi-teiera-in-porcellana-e-oro_a71fa028-27e4-434b-ad35-1e7bfbc89314.webp",
-            "caption": "SELETTI",
-            "heading": "Teiera Kintsugi",
-            "text": "<p><strong>Design di Marcantonio</strong>, ideale per impreziosire la tua tavola con un accento di natura ed eleganza.</p><p>Un capolavoro in porcellana, decorato seguendo la tecnica <a href=\"/products/seletti-kintsugi-teiera-in-porcellana-e-oro\" title=\"Seletti Kintsugi Teiera In Porcellana e Oro\"><strong>Kintsugi </strong></a>con dettagli in oro.</p>",
-            "button_label": "SCOPRILA",
-            "button_link": "shopify://products/seletti-kintsugi-teiera-in-porcellana-e-oro"
+            "image": "shopify://shop_images/joseph-joseph-dash-pestello-mortaio-in-granito-con_2_1.webp",
+            "caption": "Joseph-joseph",
+            "heading": "Dash Pestello Mortaio",
+            "text": "<p><a href=\"/collections/joseph-joseph\" title=\"Joseph Joseph\"><strong>Joseph-Joseph</strong></a> Il pestello e mortaio Dash™ di Joseph Joseph, con robusto mortaio in granito e coperchio in bambù, combina funzionalità e stile raffinato alla tua cucina</p><p><strong>Regalo di Natale utile e di qualità!</strong></p>",
+            "button_label": "SCOPRILO!",
+            "button_link": "shopify://products/joseph-joseph-dash-pestello-mortaio-in-granito"
           }
         },
         "row_Gd8Geh": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/seletti-my-moon-lamp-lampada-seduta-indoor-outdoor.jpg",
-            "caption": "Seletti",
-            "heading": "My Moon Lamp - lampada seduta | indoor - outdoor",
-            "text": "<p>Per questo Natale, fai sdraiare la tua mamma su una luna gigante, perchè lei è la regina della tua vita!</p><p><a href=\"/products/5074-seletti-my-moon-lamp-lampada-seduta-indoor-outdoor\" title=\"Seletti My Moon Lamp Lampada seduta Indoor Outdoor\"><strong>My Moon Lamp</strong></a>, ideata da Marcantonio per Seletti, è un’idea regalo di Natale da invidiare.</p>",
+            "image": "shopify://shop_images/15140_2_1.webp",
+            "caption": "KnIndustrie",
+            "heading": "Gourmet Pizza Teglia",
+            "text": "<p><strong>I piatti in terracotta “</strong><a href=\"/products/2951-knindustrie-gourmet-pizza-teglia-piatto-pizza-in-terracotta\" title=\"KnIndustrie Gourmet Pizza Teglia Piatto Pizza in Terracotta\"><strong>Gourmet Pizza</strong></a><strong>” di KnIndustrie</strong> sono perfetti per valorizzare una delle pietanze simbolo dell’Italia, amata in tutto il mondo: <strong>la pizza</strong>.</p><p>Portano in tavola uno stile dal sapore artigianale, <strong>ideale per passare dal forno alla tavola con eleganza.</strong></p><p>Il tuo regalo di Natale non ha eguali!</p>",
             "button_label": "SCOPRILA",
-            "button_link": "shopify://products/5074-seletti-my-moon-lamp-lampada-seduta-indoor-outdoor"
+            "button_link": "shopify://products/2951-knindustrie-gourmet-pizza-teglia-piatto-pizza-in-terracotta"
+          }
+        },
+        "row_3NLaAG": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-be-knife-coltello-santoku.jpg",
+            "caption": "KnIndustrie",
+            "heading": "Be-Knife - Coltello Santoku",
+            "text": "<p>Dalla collaborazione tra KnIndustrie e Coltelleria Berti è nato questo <strong>coltello</strong> <strong>giapponese</strong>,<strong> il </strong><a href=\"/products/4249-knindustrie-be-knife-coltello-santoku\" title=\"KnIndustrie BE KNife Coltello Santoku\"><strong>Santoku</strong></a>, realizzato interamente in acciaio inox 18/10 con finitura satinata, per garantire uno standard elevato di qualità del taglio anche per i meno esperti.</p><p>Idea regalo di qualità per la tua lei che ama la cucina.</p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/4249-knindustrie-be-knife-coltello-santoku"
           }
         }
       },
       "block_order": [
         "row_Qbc8RM",
         "row_Ptep7c",
-        "row_Gd8Geh"
+        "row_Gd8Geh",
+        "row_3NLaAG"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
@@ -1244,7 +1228,6 @@
     "multicolumn_qNaQGY",
     "image_with_text_FqhcGf",
     "multirow_WBcUcW",
-    "featured_collection_DcQkgR",
     "image_with_text_6D7wzF",
     "multirow_gaUUHh",
     "featured_collection_DHefMh",
