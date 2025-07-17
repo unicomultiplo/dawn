@@ -406,7 +406,7 @@
         "heading_rJy7br": {
           "type": "heading",
           "settings": {
-            "heading": "Lo schiaccianoci",
+            "heading": "Lo Schiaccianoci",
             "heading_size": "h1"
           }
         },
@@ -420,7 +420,7 @@
           "type": "button",
           "settings": {
             "button_label": "Scopri Lo Schiaccianoci",
-            "button_link": "shopify://collections/brandani-tempo-di-festa",
+            "button_link": "shopify://collections/brandani-schiaccianoci",
             "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -488,6 +488,95 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_HYP9pw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_F4b7fD": {
+          "type": "heading",
+          "settings": {
+            "heading": "Golden Eye",
+            "heading_size": "h1"
+          }
+        },
+        "text_iaBnRJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dettagli dorati e motivi geometrici si uniscono al vivace rosso natalizio, creando un’atmosfera di pura eleganza. La collezione Golden Eye dona magia e raffinatezza alla tavola, lasciando i tuoi ospiti incantati. Ogni occasione si trasforma in un momento unico da vivere e condividere.</p>"
+          }
+        },
+        "button_8g4YzA": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scopri Golden Eye",
+            "button_link": "shopify://collections/golden-eye-brandani",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_F4b7fD",
+        "text_iaBnRJ",
+        "button_8g4YzA"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_8cGa3c": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_fwpkHy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-piatti-natalizi-goldeneye-1.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/golden-eye-brandani"
+          }
+        },
+        "column_4TEgGg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-piatti-natalizi-goldeneye.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/golden-eye-brandani"
+          }
+        }
+      },
+      "block_order": [
+        "column_fwpkHy",
+        "column_4TEgGg"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -501,6 +590,8 @@
     "rich_text_JTQGWm",
     "multicolumn_CJtM6f",
     "rich_text_9pKdRi",
-    "multicolumn_jcEE6P"
+    "multicolumn_jcEE6P",
+    "rich_text_HYP9pw",
+    "multicolumn_8cGa3c"
   ]
 }
