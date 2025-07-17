@@ -38,14 +38,14 @@
         "heading_XVMRbJ": {
           "type": "heading",
           "settings": {
-            "heading": "Immagine con testo",
+            "heading": "",
             "heading_size": "h1"
           }
         },
         "text_yJQVtC": {
           "type": "text",
           "settings": {
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "text": "<p><strong>Natale</strong>, una ricorrenza che ogni anno tutti noi, insieme ad amici, familiari, parenti e anche insieme ai nostri dolci animali, viviamo con tanta gioia e spensieratezza.</p><p>Quella leggera magia che respiriamo lungo le strade, nelle piazze accanto ad un albero di natale addobbato e l’inebriante profumo proveniente dalle calde tavolate apparecchiate durante i giorni di festa.</p>",
             "text_style": "body"
           }
         },
@@ -65,8 +65,9 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
+        "image": "shopify://shop_images/Tavola-Natale-Brandani-1-qvoeaezila5p3oy42iu5ty1laka5lxqy9uwk3qj2km.webp",
+        "height": "small",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
