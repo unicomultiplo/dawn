@@ -218,7 +218,7 @@
             "image": "shopify://shop_images/KnIndustrie-Matirials-Bollitore-in-acciaio-2.jpg",
             "caption": "KnIndustrie",
             "heading": "Materials - Bollitore in acciaio",
-            "text": "<p><strong>Bollitore in acciaio lucido della collezione Materials</strong> di knIndustrie: un connubio di eleganza e funzionalità in un design intramontabile, creato dai designer<strong> Matteo Thun</strong> e Antonio Rodriguez.</p><p>Accessorio di design di alta qualità che dona un tocco unico al momento del tè!</p>",
+            "text": "<p><a href=\"/products/knindustrie-matirials-bollitore-in-acciaio\" title=\"KnIndustrie Materials Bollitore in acciaio\"><strong>Bollitore in acciaio</strong></a><strong> lucido della collezione Materials</strong> di knIndustrie: un connubio di eleganza e funzionalità in un design intramontabile, creato dai designer<strong> Matteo Thun</strong> e Antonio Rodriguez.</p><p>Accessorio di design di alta qualità che dona un tocco unico al momento del tè!</p>",
             "button_label": "SCOPRILO",
             "button_link": "shopify://products/knindustrie-matirials-bollitore-pdv-nero"
           }
@@ -226,10 +226,10 @@
         "row_zYTcjd": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/seletti-hybrid-vaso-lfe.jpg",
-            "caption": "Seletti",
-            "heading": "Hybrid - vaso Lfe",
-            "text": "<p>La collezione <a href=\"/collections/seletti-catalogo-prodotti-hybrid\" title=\"Seletti Hybrid\"><strong>Hybrid</strong></a>, firmata <a href=\"/collections/seletti\" title=\"Seletti\"><strong>Seletti</strong></a>, attraverso un vaso mette faccia a faccia Oriente e Occidente, Nord e Sud del mondo, dando vita ad un connubio elegante e raffinato.</p><p>Un’idea regalo di Natale unica per una mamma che ama i fiori!</p>",
+            "image": "shopify://shop_images/knindustrie-barrique-vassoio.png",
+            "caption": "KnIndustrie",
+            "heading": "Barrique Vassoio",
+            "text": "<p>Un <a href=\"/products/494-knindustrie-barrique-vassoio\" title=\"KnIndustrie Barrique Tagliere vassoio\"><strong>tagliere-vassoio</strong> </a>o un <strong>centrotavola</strong> realizzato con legno di rovere delle bottiglie usate, con un’elegante targa serigrafata che spiega la provenienza di questo unico oggetto di design firmato Knindustrie.</p><p>Un regalo di Natale che la stupirà.</p>",
             "button_label": "SCOPRILO",
             "button_link": "shopify://products/4764-seletti-hybrid-vaso-lfe"
           }
