@@ -183,8 +183,8 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/La-mamma-che-ama-i-fiori.jpg",
-        "height": "medium",
+        "image": "shopify://shop_images/cosa-regalare-per-natale-alla-fidanzata-alla-moglie-o-unamica.webp",
+        "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "middle",
@@ -209,7 +209,7 @@
             "heading": "Seletti toiletpaper Home - specchio medio",
             "text": "<p>L’imperdibile <strong>specchio Toiletpaper</strong> <strong>di Seletti</strong> è un pezzo di design imperdibile, un po' quadro, un po' specchio. Ovunque lo metti fa la sua figura.</p><p>Un’idea regalo di Natale super originale!</p>",
             "button_label": "SCOPRILO",
-            "button_link": "shopify://products/3001-seletti-seletti-wears-toiletpaper-specchio-mirror-grande"
+            "button_link": "shopify://products/3002-seletti-seletti-wears-toiletpaper-specchio-mirror-medio"
           }
         },
         "row_Ywznn8": {
