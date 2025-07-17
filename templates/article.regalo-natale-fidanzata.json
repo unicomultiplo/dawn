@@ -397,7 +397,7 @@
         "description": "",
         "show_description": false,
         "description_style": "uppercase",
-        "collection": "complementi-arredo-quadri-e-stampe",
+        "collection": "cucina-e-tavola",
         "products_to_show": 25,
         "columns_desktop": 6,
         "full_width": true,
