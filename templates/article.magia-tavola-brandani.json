@@ -779,26 +779,59 @@
         "column_HRTqFQ": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Brandani-antipastiera-1-1-1-1293x1536.webp",
             "title": "",
             "text": "",
             "link_label": "",
             "link": ""
           }
         },
-        "column_PgBedn": {
+        "column_DWnDje": {
           "type": "column",
           "settings": {
-            "title": "Colonna",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "image": "shopify://shop_images/Brandani-barattolo-2-1-1.jpg",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
         },
-        "column_pQUNRV": {
+        "column_kW6Kqn": {
           "type": "column",
           "settings": {
-            "title": "Colonna",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "image": "shopify://shop_images/brandani-tappo-christmas-decori-e-colori-assortiti-10-2-1-1.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_tNDAtH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brandani-antipastiera-primula-porcellana-bamboo-2-1-1.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_C8q6Pk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/casseruola-cocotte-ovale-verde-ghisa-smaltata-5-ll-10-1-1-1.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_LnkrLh": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-sottopiatti_2.jpg",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -806,8 +839,11 @@
       },
       "block_order": [
         "column_HRTqFQ",
-        "column_PgBedn",
-        "column_pQUNRV"
+        "column_DWnDje",
+        "column_kW6Kqn",
+        "column_tNDAtH",
+        "column_C8q6Pk",
+        "column_LnkrLh"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -818,8 +854,8 @@
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "none",
-        "button_label": "Etichetta pulsante",
-        "button_link": "",
+        "button_label": "Scopri il brand",
+        "button_link": "shopify://collections/brandani",
         "color_scheme": "",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
