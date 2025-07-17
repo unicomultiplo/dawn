@@ -48,7 +48,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>E' arrivato il momento di scegliere il <strong>regalo di Natale</strong> per mamma e papà, le persone che più ci amano al mondo!</p><p>Se non hai già pensato a cosa acquistare non ti preoccupare, <strong>con la nostra guida al regalo di Natale perfetto</strong>, pensata per ogni tipo di mamma e papà, troverai subito il <strong>regalo giusto!</strong></p>",
+            "text": "<p>Cari uomini, questa guida è per voi. Si avvicina il <strong>Natale </strong>ed è ora di iniziare a pensare al regalo di Natale più speciale, quello <strong>per la tua lei</strong>. Pensi di cavartela quest’anno?</p><p>A quella storia lì del “<em>basta il pensiero</em>” non ci crede nessuno e non iniziare con le solite frasi del tipo “<em>la mia ragazza ha già tutto</em>”, perché le donne hanno sempre bisogno di qualcosa.</p><p>Quindi, rimbocchiamoci le maniche e troviamo il <strong>regalo perfetto </strong>che ti permetterà di <strong>superare immuni anche questa ricorrenza. </strong></p>",
             "link_label": "",
             "link": ""
           }
@@ -82,18 +82,18 @@
         "column_EQ7Vbt": {
           "type": "column",
           "settings": {
-            "title": "<strong>Idee per la mamma</strong>",
+            "title": "",
             "text": "",
-            "link_label": "",
+            "link_label": "La fidanzata o moglie che ama il design",
             "link": ""
           }
         },
         "column_VHLDbX": {
           "type": "column",
           "settings": {
-            "title": "<strong>Idee per il papà</strong>",
+            "title": "",
             "text": "",
-            "link_label": "",
+            "link_label": "La fidanzata o moglie che ama cucinare",
             "link": ""
           }
         },
@@ -102,7 +102,7 @@
           "settings": {
             "title": "",
             "text": "",
-            "link_label": "La mamma che ama i fiori",
+            "link_label": "La fidanzata o moglie che ama viaggiare",
             "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_FqhcGf"
           }
         },
@@ -111,7 +111,7 @@
           "settings": {
             "title": "",
             "text": "",
-            "link_label": "Il papà che ama il vino",
+            "link_label": "La fidanzata o moglie che ama leggere",
             "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_jEbVKr"
           }
         },
@@ -120,53 +120,8 @@
           "settings": {
             "title": "",
             "text": "",
-            "link_label": "La mamma che ama l’arte",
+            "link_label": "Idee regalo per un’amica",
             "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_6D7wzF"
-          }
-        },
-        "column_ed3JNY": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Il papà che ama la cucina",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_c6HwnW"
-          }
-        },
-        "column_PNYnwx": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "La mamma che ama la cucina",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_et4rKW"
-          }
-        },
-        "column_6UAapR": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Il papà che ama l’arte",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_nRTgzR"
-          }
-        },
-        "column_KhhkBT": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "La mamma che ama caffè, tè e tisane",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_789DBP"
-          }
-        },
-        "column_PkeJaq": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Il papà che ama caffè, tè e tisane",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_efjzUn"
           }
         }
       },
@@ -175,12 +130,7 @@
         "column_VHLDbX",
         "column_rwtmgr",
         "column_WE3MdH",
-        "column_mCa49B",
-        "column_ed3JNY",
-        "column_PNYnwx",
-        "column_6UAapR",
-        "column_KhhkBT",
-        "column_PkeJaq"
+        "column_mCa49B"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -206,22 +156,22 @@
         "heading_FtXYnR": {
           "type": "heading",
           "settings": {
-            "heading": "La mamma che ama i fiori",
+            "heading": "La fidanzata o moglie che ama il design",
             "heading_size": "h1"
           }
         },
         "text_nQJj79": {
           "type": "text",
           "settings": {
-            "text": "<p>Per la tua mamma che ama i fiori abbiamo pensato a vasi e accessori di design e di alta qualità. <a href=\"/collections/seletti\" title=\"Seletti\"><strong>Seletti</strong></a>, <a href=\"/collections/brandani\" title=\"Brandani\"><strong>Brandani</strong></a><strong> </strong>e <a href=\"/collections/bitossi-home\" title=\"Bitossi Home\"><strong>Bitossi</strong></a>. Quale sarà il preferito della tua mamma?</p><p>Questo lo sai solo tu! Scopri subito la nostra selezione e trova il regalo più in linea con i suoi gusti.</p>",
+            "text": "<p>Se la tua lei è un’amante dell’estetica e del design non puoi di certo scegliere la prima cosa che trovi, solo con un’accurata selezione di oggetti di qualità, curati nei piccoli particolari puoi riuscire a sorprenderla.<br/></p><h3><strong>Trova il suo brand preferito</strong> </h3><p>Dai un’occhiata alle proposte di Natale dei nostri migliori brand per un design in linea con i suoi gusti!<br/></p>",
             "text_style": "body"
           }
         },
         "button_QBXRxw": {
           "type": "button",
           "settings": {
-            "button_label": "IDEE REGALO PER LA MAMMA",
-            "button_link": "shopify://collections/idee-regalo-regali-per-lei",
+            "button_label": "TROVA IL BRAND",
+            "button_link": "shopify://pages/i-nostri-brand",
             "button_style_secondary": true
           }
         }
