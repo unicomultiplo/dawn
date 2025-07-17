@@ -423,22 +423,22 @@
         "heading_bcL9mj": {
           "type": "heading",
           "settings": {
-            "heading": "La mamma che ama la cucina",
+            "heading": "La fidanzata o moglie che ama viaggiare",
             "heading_size": "h1"
           }
         },
         "text_GmGrm4": {
           "type": "text",
           "settings": {
-            "text": "<p>Per la tua <strong>mamma che ama la cucina </strong>scopri la nostra selezione di idee regalo utili e di design, per rendere la sua cucina ancor più efficiente e circondata d’amore, con qualcosa che è sempre lì a<strong> ricordargli di te.</strong><br/></p>",
+            "text": "<p>Se la tua fidanza o moglie<strong> ama viaggiare</strong>, e lo fa spesso per lavoro, opta per un pensiero dolce che le ricordi sempre la tua presenza mentre è lontana, qualcosa che la faccia sentire <strong>sempre sicura e amata.</strong></p><p>Se invece vivete insieme le vostre <strong>avventure</strong>, scegli qualcosa di <strong>funzionale</strong>, per vivere i vostri viaggi in completo <strong>relax</strong>.</p>",
             "text_style": "body"
           }
         },
         "button_6MncmJ": {
           "type": "button",
           "settings": {
-            "button_label": "IDEE REGALO PER LEI",
-            "button_link": "shopify://collections/cucina-e-tavola",
+            "button_label": "IDEE REGALO",
+            "button_link": "shopify://collections/tempo-libero",
             "button_style_secondary": true
           }
         }
@@ -544,8 +544,8 @@
         "heading_size": "h1",
         "description": "",
         "show_description": false,
-        "description_style": "uppercase",
-        "collection": "cucina-e-tavola",
+        "description_style": "body",
+        "collection": "tempo-libero",
         "products_to_show": 25,
         "columns_desktop": 6,
         "full_width": true,
@@ -553,7 +553,7 @@
         "view_all_style": "outline",
         "enable_desktop_slider": true,
         "color_scheme": "scheme-2",
-        "image_ratio": "adapt",
+        "image_ratio": "portrait",
         "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
