@@ -32,50 +32,390 @@
       ],
       "settings": {}
     },
-    "image_with_text_C6NCDW": {
-      "type": "image-with-text",
+    "multicolumn_EBaRrN": {
+      "type": "multicolumn",
       "blocks": {
-        "heading_XVMRbJ": {
-          "type": "heading",
+        "column_hNjmFX": {
+          "type": "column",
           "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_yJQVtC": {
-          "type": "text",
-          "settings": {
+            "title": "",
             "text": "<p><strong>Natale</strong>, una ricorrenza che ogni anno tutti noi, insieme ad amici, familiari, parenti e anche insieme ai nostri dolci animali, viviamo con tanta gioia e spensieratezza.</p><p>Quella leggera magia che respiriamo lungo le strade, nelle piazze accanto ad un albero di natale addobbato e l’inebriante profumo proveniente dalle calde tavolate apparecchiate durante i giorni di festa.</p>",
-            "text_style": "body"
+            "link_label": "",
+            "link": ""
           }
         },
-        "button_ecAQ7p": {
-          "type": "button",
+        "column_xEgnq4": {
+          "type": "column",
           "settings": {
-            "button_label": "Etichetta pulsante",
-            "button_link": "",
-            "button_style_secondary": false
+            "image": "shopify://shop_images/Tavola-Natale-Brandani-1-qvoeaezila5p3oy42iu5ty1laka5lxqy9uwk3qj2km.webp",
+            "title": "",
+            "text": "<p>Le <strong>tavole</strong> di ogni casa sono <strong>in festa</strong>, e la bellezza con cui apparecchiamo è un’<strong>espressione di amore e cura</strong>. Come quando nonna selezionava attentamente dalla sua credenza, i piatti e i bicchieri da sfoggiare. E una preziosa tovaglia bianca ricamata, da usare solo per le grandi occasioni.</p><p>Ecco che le <strong>decorazioni</strong> e la qualità gli <strong>oggetti</strong> giocano un ruolo fondamentale. Rivivi il passato e respira la gioia di un sorriso, la magia di un’emozione inaspettata e la convivialità di condividere con i nostri cari pasti sensazioni per rendere indimenticabile anche questo Natale.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_KtdrRC": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Le nuove linee decorative di Brandani per la Tavola di Natale 2024</strong>",
+            "text": "<p>Dedicate a chi ama lo spirito natalizio e i suoi romantici colori e per chi vuole fare bella figura. Scoprile tutte!</p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "heading_XVMRbJ",
-        "text_yJQVtC",
-        "button_ecAQ7p"
+        "column_hNjmFX",
+        "column_xEgnq4",
+        "column_KtdrRC"
       ],
-      "name": "t:sections.image-with-text.presets.name",
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Tavola-Natale-Brandani-1-qvoeaezila5p3oy42iu5ty1laka5lxqy9uwk3qj2km.webp",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_8LjiAc": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_cmaCEa": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Elfomagia",
+            "link": ""
+          }
+        },
+        "column_MGhg6X": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Le Bacche",
+            "link": ""
+          }
+        },
+        "column_mkhVQi": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Batuffoli",
+            "link": ""
+          }
+        },
+        "column_jm69iH": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Connubio",
+            "link": ""
+          }
+        },
+        "column_dgmzdg": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Chicchi & Balocchi",
+            "link": ""
+          }
+        },
+        "column_LNBaLh": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Tempo di Festa",
+            "link": ""
+          }
+        },
+        "column_PnBMRP": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Tempo di Festa",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_cmaCEa",
+        "column_MGhg6X",
+        "column_mkhVQi",
+        "column_jm69iH",
+        "column_dgmzdg",
+        "column_LNBaLh",
+        "column_PnBMRP"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_BR6Mpx": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_YK3Q7G": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Il Natale con Brandani</strong>",
+            "text": "<p>Le proposte di Brandani per il Natale giocano sui colori del <strong>bianco</strong>, del <strong>rosso</strong>, del <strong>verde</strong> e dell’oro, arricchite da due nuance decisamente più tenui ma allo stesso tempo audaci, come quelle dello <strong>champagne</strong> e del <strong>tortora</strong>.</p><p>Lasciati ispirare dalle calde note di colore che decorano gli oggetti firmati Brandani. Ogni linea ci racconta la storia natalizia davvero speciale, di amore e di condivisione che questa festa sa portare nelle nostre case.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Ehd8Da": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_YK3Q7G",
+        "column_Ehd8Da"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_EntGpD": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Brandani-tavola-di-Natale-2023_2.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "",
         "image_behavior": "none",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_C86R6W": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_JGCmhM": {
+          "type": "heading",
+          "settings": {
+            "heading": "Elfomagia",
+            "heading_size": "h1"
+          }
+        },
+        "text_CjMbFB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>La <strong>magica atmosfera </strong>che porta il Natale scegli <a href=\"/products/brandani-tavola-18-pz-elfomagia-in-porcellana\" title=\"Brandani Tavola 18 pz Elfomagia in Porcellana\"><strong>Elfomagia</strong></a><strong>: </strong>la linea di piatti, dai colori verde o rosso, ha dei delicati disegni nel bordo e si abbinano ai decori del fondo piatto che raccontano un natale caldo e avvolgente impreziosito da elementi come piccoli elfi e ghirlande natalizie.<br/><br/></p>"
+          }
+        },
+        "button_bUhPUi": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scopri Elefomagia",
+            "button_link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_JGCmhM",
+        "text_CjMbFB",
+        "button_bUhPUi"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_UDHEFh": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Fqrt9z": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1024x1024_098fddfb-83c2-4707-9de9-e6676848b06c.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_TzH369": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1-1024x1024.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Fqrt9z",
+        "column_TzH369"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_JTQGWm": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PjHKLY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Elfomagia",
+            "heading_size": "h1"
+          }
+        },
+        "text_qqhdBk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>La <strong>magica atmosfera </strong>che porta il Natale scegli <a href=\"/products/brandani-tavola-18-pz-elfomagia-in-porcellana\" title=\"Brandani Tavola 18 pz Elfomagia in Porcellana\"><strong>Elfomagia</strong></a><strong>: </strong>la linea di piatti, dai colori verde o rosso, ha dei delicati disegni nel bordo e si abbinano ai decori del fondo piatto che raccontano un natale caldo e avvolgente impreziosito da elementi come piccoli elfi e ghirlande natalizie.<br/><br/></p>"
+          }
+        },
+        "button_3rkpBm": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scopri Elefomagia",
+            "button_link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PjHKLY",
+        "text_qqhdBk",
+        "button_3rkpBm"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_CJtM6f": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_A6fwaN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1024x1024_098fddfb-83c2-4707-9de9-e6676848b06c.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana"
+          }
+        },
+        "column_RWqG6R": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1-1024x1024.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana"
+          }
+        }
+      },
+      "block_order": [
+        "column_A6fwaN",
+        "column_RWqG6R"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -83,6 +423,13 @@
   },
   "order": [
     "main",
-    "image_with_text_C6NCDW"
+    "multicolumn_EBaRrN",
+    "multicolumn_8LjiAc",
+    "multicolumn_BR6Mpx",
+    "image_banner_EntGpD",
+    "rich_text_C86R6W",
+    "multicolumn_UDHEFh",
+    "rich_text_JTQGWm",
+    "multicolumn_CJtM6f"
   ]
 }
