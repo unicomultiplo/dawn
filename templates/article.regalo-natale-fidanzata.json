@@ -485,7 +485,7 @@
             "image": "shopify://shop_images/crash-baggage-hard-tote-bag-1.webp",
             "caption": "Crash Baggage",
             "heading": "Hard Tote Bag",
-            "text": "<p><strong>Idea regalo perfetta per la viaggiatrice che ama distinguersi.</strong><br/><br/>La <a href=\"/products/crash-baggage-hard-tote-bag\" title=\"Crash Baggage Hard Tote Bag\"><em><strong>Hard Tote Bag</strong></em><strong> di Crash Baggage</strong></a> è l’accessorio ideale per una moglie o un’amica sempre in movimento: protegge il laptop (fino a 15″), resiste agli urti ed è inconfondibile grazie al design “dented” che racconta storie di viaggio. Un mix di stile, praticità e carattere – proprio come lei.<br/><br/></p>",
+            "text": "<p>Idea regalo perfetta per la viaggiatrice che ama distinguersi.<br/><br/>La <a href=\"/products/crash-baggage-hard-tote-bag\" title=\"Crash Baggage Hard Tote Bag\"><em><strong>Hard Tote Bag</strong></em><strong> di Crash Baggage</strong></a> è l’accessorio ideale per una moglie o un’amica sempre in movimento: protegge il laptop (fino a 15″), resiste agli urti ed è inconfondibile grazie al design “dented” che racconta storie di viaggio. Un mix di stile, praticità e carattere – proprio come lei.<br/><br/></p>",
             "button_label": "SCOPRILA",
             "button_link": "shopify://products/crash-baggage-hard-tote-bag"
           }
@@ -493,31 +493,19 @@
         "row_KpiUBC": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/KnIndustrie-Beyond-Basic-The-pasta_b273b162-20cd-4486-9171-3c248e7a01a5.jpg",
-            "caption": "Knindustrie",
-            "heading": "Beyond Basic - The pasta",
-            "text": "<p>Una <a href=\"/products/1732-knindustrie-beyond-basic-the-pasta\" title=\"KnIndustrie Beyond Basic The pasta\"><strong>pentola in accciao inox satinato</strong></a>, così elegante e raffinata che quasi fai fatica a sporcarla! Funzionalità e design si sposano per un connubio perfetto con questa pentola firmata <a href=\"/collections/knindustrie\" title=\"KnIndustrie\"><strong>KnIndustrie</strong></a>.</p>",
-            "button_label": "SCOPRILA",
-            "button_link": "shopify://products/1732-knindustrie-beyond-basic-the-pasta"
-          }
-        },
-        "row_pHqHjt": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/bitossi-home-il-frutto-della-passione-tovaglietta-con-ricami-rosso-1_1.webp",
-            "caption": "Bitossi Home",
-            "heading": "Il Frutto della Passione Tovaglietta con ricami",
-            "text": "<p><strong>Tovaglietta della collezione</strong> Bitossi Home “<a href=\"/collections/bitossi-home-il-frutto-della-passione-bitossi-home\" title=\"Il Frutto della Passione Bitossi Home\"><strong>Il Frutto della Passione</strong></a>” è illustrata da <strong>Pangea</strong>, due creatrici: Colombine Jubert e Laetitia Rouget. La prima è stilista e la seconda è artista e ceramista. </p><p><strong>Le loro creazioni combinano arte, moda</strong> e performance. </p>",
-            "button_label": "SCOPRILA",
-            "button_link": "shopify://products/bitossi-home-il-frutto-della-passione-tovaglietta-con-ricami-rossa-amore-per-sempre"
+            "image": "shopify://shop_images/seletti-seletti-wears-toiletpaper-marsupio-waist-bag.jpg",
+            "caption": "Seletti",
+            "heading": "Seletti Wears Toiletpaper - Marsupio Waist bag",
+            "text": "<p>L’originale <a href=\"/products/4612-seletti-seletti-wears-toiletpaper-marsupio-waist-bag\" title=\"Seletti Toiletpaper Home Marsupio waist bag\"><strong>marsupio firmato Seletti</strong></a><strong> </strong>della linea Toiletpaper, realizzato in pelle sintetica e metallo, ha una cintura sfilabile e regolabile, perfetto da indossare in vita o dove si preferisce a seconda delle esigenze.</p><p>Un<strong>’ottimo accessorio da viaggio</strong> per avere sempre a portata di mano tutto il necessario!</p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/4612-seletti-seletti-wears-toiletpaper-marsupio-waist-bag"
           }
         }
       },
       "block_order": [
         "row_97RkUn",
         "row_trGkxn",
-        "row_KpiUBC",
-        "row_pHqHjt"
+        "row_KpiUBC"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
