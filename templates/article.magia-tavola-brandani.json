@@ -337,21 +337,21 @@
         "heading_PjHKLY": {
           "type": "heading",
           "settings": {
-            "heading": "Elfomagia",
+            "heading": "Tempo di Festa",
             "heading_size": "h1"
           }
         },
         "text_qqhdBk": {
           "type": "text",
           "settings": {
-            "text": "<p>La <strong>magica atmosfera </strong>che porta il Natale scegli <a href=\"/products/brandani-tavola-18-pz-elfomagia-in-porcellana\" title=\"Brandani Tavola 18 pz Elfomagia in Porcellana\"><strong>Elfomagia</strong></a><strong>: </strong>la linea di piatti, dai colori verde o rosso, ha dei delicati disegni nel bordo e si abbinano ai decori del fondo piatto che raccontano un natale caldo e avvolgente impreziosito da elementi come piccoli elfi e ghirlande natalizie.<br/><br/></p>"
+            "text": "<p><strong>Oro</strong>,<strong>bianco </strong>e <strong>rosso </strong>per una magica tavola di Natale. Cosa vuoi di più? Scegli la linea <strong>Tempo di festa </strong>di Brandani per una <em>mise en place </em>elegante e raffinata! Grazie al suo design dalle forme più ricercate che rimandano alla rappresentazione dell’alberello di natale, della campana e del vischio potrete decorare la tavola come più vi piace regalando un’atmosfera di gioia e di allegria per grandi e piccini.<br/><br/></p>"
           }
         },
         "button_3rkpBm": {
           "type": "button",
           "settings": {
-            "button_label": "Scopri Elefomagia",
-            "button_link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana",
+            "button_label": "Scopri Tempo di Festa",
+            "button_link": "shopify://collections/brandani-tempo-di-festa",
             "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -380,21 +380,21 @@
         "column_A6fwaN": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1024x1024_098fddfb-83c2-4707-9de9-e6676848b06c.jpg",
+            "image": "shopify://shop_images/Brandani-tempodifesta_3.png",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana"
+            "link": "shopify://collections/brandani-tempo-di-festa"
           }
         },
         "column_RWqG6R": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1-1024x1024.jpg",
+            "image": "shopify://shop_images/Tempodifesta-brandani_2.png",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana"
+            "link": "shopify://collections/brandani-tempo-di-festa"
           }
         }
       },
