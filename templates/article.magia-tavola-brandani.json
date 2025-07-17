@@ -99,42 +99,6 @@
             "link": ""
           }
         },
-        "column_MGhg6X": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Le Bacche",
-            "link": ""
-          }
-        },
-        "column_mkhVQi": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Batuffoli",
-            "link": ""
-          }
-        },
-        "column_jm69iH": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Connubio",
-            "link": ""
-          }
-        },
-        "column_dgmzdg": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Chicchi & Balocchi",
-            "link": ""
-          }
-        },
         "column_LNBaLh": {
           "type": "column",
           "settings": {
@@ -144,24 +108,40 @@
             "link": ""
           }
         },
-        "column_PnBMRP": {
+        "column_MGhg6X": {
           "type": "column",
           "settings": {
             "title": "",
             "text": "",
-            "link_label": "Tempo di Festa",
+            "link_label": "Lo Schiaccianoci",
+            "link": ""
+          }
+        },
+        "column_mkhVQi": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Golden Eye",
+            "link": ""
+          }
+        },
+        "column_jm69iH": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "I Bicchieri e i Sottopiatti",
             "link": ""
           }
         }
       },
       "block_order": [
         "column_cmaCEa",
+        "column_LNBaLh",
         "column_MGhg6X",
         "column_mkhVQi",
-        "column_jm69iH",
-        "column_dgmzdg",
-        "column_LNBaLh",
-        "column_PnBMRP"
+        "column_jm69iH"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -344,7 +324,7 @@
         "text_qqhdBk": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Oro</strong>,<strong>bianco </strong>e <strong>rosso </strong>per una magica tavola di Natale. Cosa vuoi di più? Scegli la linea <strong>Tempo di festa </strong>di Brandani per una <em>mise en place </em>elegante e raffinata! Grazie al suo design dalle forme più ricercate che rimandano alla rappresentazione dell’alberello di natale, della campana e del vischio potrete decorare la tavola come più vi piace regalando un’atmosfera di gioia e di allegria per grandi e piccini.<br/><br/></p>"
+            "text": "<p><strong>Oro</strong>,<strong>bianco </strong>e <strong>rosso </strong>per una magica tavola di Natale. Cosa vuoi di più? Scegli la linea <strong>Tempo di festa </strong>di Brandani per una <em>mise en place </em>elegante e raffinata! Grazie al suo design dalle forme più ricercate che rimandano alla rappresentazione dell’alberello di natale, della campana e del vischio potrete decorare la tavola come più vi piace regalando un’atmosfera di gioia e di allegria per grandi e piccini.</p>"
           }
         },
         "button_3rkpBm": {
@@ -419,6 +399,95 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_9pKdRi": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rJy7br": {
+          "type": "heading",
+          "settings": {
+            "heading": "Lo schiaccianoci",
+            "heading_size": "h1"
+          }
+        },
+        "text_KmaG7L": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Il mondo incantato degli Schiaccianoci: un’atmosfera magica dove la dolcezza della tradizione incontra la vivacità di colorati Schiaccianoci. Piatti decorati, alberi scintillanti e stelle luminose evocano tutto il fascino del Natale. Gioiosi addobbi e tonalità brillanti rendono ogni momento di festa ancora più speciale.</p>"
+          }
+        },
+        "button_mTrf7x": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scopri Lo Schiaccianoci",
+            "button_link": "shopify://collections/brandani-tempo-di-festa",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_rJy7br",
+        "text_KmaG7L",
+        "button_mTrf7x"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_jcEE6P": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_jLLEzj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-set-piatti-lo-schiaccianoci-1.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/brandani-schiaccianoci"
+          }
+        },
+        "column_GhfYLL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-set-piatti-lo-schiaccianoci.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/brandani-schiaccianoci"
+          }
+        }
+      },
+      "block_order": [
+        "column_jLLEzj",
+        "column_GhfYLL"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -430,6 +499,8 @@
     "rich_text_C86R6W",
     "multicolumn_UDHEFh",
     "rich_text_JTQGWm",
-    "multicolumn_CJtM6f"
+    "multicolumn_CJtM6f",
+    "rich_text_9pKdRi",
+    "multicolumn_jcEE6P"
   ]
 }
