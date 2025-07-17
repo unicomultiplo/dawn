@@ -130,7 +130,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_et4rKW"
           }
         },
         "column_JzFpNn": {
@@ -140,7 +140,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_PcQeC7"
           }
         },
         "column_QRyCjy": {
@@ -150,7 +150,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_789DBP"
           }
         }
       },
@@ -187,7 +187,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_jEbVKr"
           }
         },
         "column_JF9nJL": {
@@ -197,7 +197,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_c6HwnW"
           }
         },
         "column_VXiGqN": {
@@ -207,25 +207,14 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
-          }
-        },
-        "column_4ampfi": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/BANNER-ideeregalo-musicatecnologia.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_nRTgzR"
           }
         }
       },
       "block_order": [
         "column_pygxVT",
         "column_JF9nJL",
-        "column_VXiGqN",
-        "column_4ampfi"
+        "column_VXiGqN"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -233,7 +222,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 4,
+        "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
