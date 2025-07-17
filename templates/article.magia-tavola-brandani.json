@@ -608,7 +608,7 @@
       "settings": {
         "image": "shopify://shop_images/Brandani-tavola-di-Natale-2023_2.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "adapt",
+        "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -617,6 +617,60 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "multicolumn_f8e7Wy": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_LDi8BM": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Dal 1984, Brandani pone da anni al centro della sua<em>Mission</em>l’<strong>attenzione</strong>e la<strong>cura per la casa</strong>, con un particolare riguardo agli oggetti dedicati alla cucina e alla tavola. Le festività natalizie e di fine anno sono un’importante occasione, non solo per apprezzare la qualità e il design unico di Brandani, ma anche per rinnovare l’oggettistica da tavola, con stoviglie ed accessori di design. Lasciati ispirare dalle collezioni Brandani, pensate per regalare alla tua tavola la magia del Natale con dettagli e ricami che raccontano questi momenti di grande condivisione, di festa e soprattutto amore.<br/><br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_RdhH3E": {
+          "type": "column",
+          "settings": {
+            "title": "Dai un'occhiata a tutti i prodotti che abbiamo riservato a te!",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_MMYqqM": {
+          "type": "column",
+          "settings": {
+            "title": "Colonna",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_LDi8BM",
+        "column_RdhH3E",
+        "column_MMYqqM"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "La magia del Natale sulla tua tavola con le Collezioni Brandani 2025",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Etichetta pulsante",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -634,6 +688,7 @@
     "multicolumn_jcEE6P",
     "rich_text_HYP9pw",
     "multicolumn_8cGa3c",
-    "image_banner_8dnbxR"
+    "image_banner_8dnbxR",
+    "multicolumn_f8e7Wy"
   ]
 }
