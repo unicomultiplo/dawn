@@ -708,6 +708,61 @@
         "padding_bottom": 36
       }
     },
+    "collection_list_tCBgaE": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_nn6W9C": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-regali-per-lei"
+          }
+        },
+        "featured_collection_MT4zTL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-economiche"
+          }
+        },
+        "featured_collection_DDw6cn": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-regali-sotto-150-euro"
+          }
+        },
+        "featured_collection_fcTinQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-regali-sotto-100-euro"
+          }
+        },
+        "featured_collection_zaWm69": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-natale"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_nn6W9C",
+        "featured_collection_MT4zTL",
+        "featured_collection_DDw6cn",
+        "featured_collection_fcTinQ",
+        "featured_collection_zaWm69"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner_CKVzFq": {
       "type": "image-banner",
       "blocks": {
@@ -780,6 +835,7 @@
     "image_with_text_789DBP",
     "multirow_YEPYXg",
     "image_with_text_jEbVKr",
+    "collection_list_tCBgaE",
     "image_banner_CKVzFq",
     "separator_nbNJQV"
   ]
