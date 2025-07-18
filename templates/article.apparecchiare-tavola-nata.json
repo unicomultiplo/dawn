@@ -576,57 +576,28 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_p73D8b": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "uppercase",
-        "collection": "cucina-e-tavola",
-        "products_to_show": 25,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "scheme-2",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
     "image_with_text_789DBP": {
       "type": "image-with-text",
       "blocks": {
         "heading_gbbJ4D": {
           "type": "heading",
           "settings": {
-            "heading": "Regali di Natale per colleghi e conoscenti",
+            "heading": "3. I mille colori per la Tavola di Natale: idee per l'abbinamento",
             "heading_size": "h1"
           }
         },
         "text_3kG9Rq": {
           "type": "text",
           "settings": {
-            "text": "<p>“<em>Hai comprato un pensierino per Anna? Ma no, a cosa serve, lei non me lo fa di sicuro!</em>“. Ed eccoti rientrato a lavoro con un bel pacchettino regalo di Natale sulla scrivania.</p><p>Quante volte è successo? Quest’anno per non farti trovare impreparato abbiamo pensato per te a dei <strong>pensierini di Natale</strong> che ti lasceranno a bocca aperta!</p>",
+            "text": "<h4>Oro e champagne</h4><p>Colori tenui per un abbinamento che impreziosisce la tua tavola e trasmette eleganza, tranquillità e sobrietà. Scegli l’oro e lo champagne per una tavola super raffinata.</p>",
             "text_style": "body"
           }
         },
         "button_mWCY4e": {
           "type": "button",
           "settings": {
-            "button_label": "IDEE REGALO FURBE",
-            "button_link": "shopify://collections/idee-regalo-economiche",
+            "button_label": "SCOPRI HYBRID - SELETTI",
+            "button_link": "shopify://collections/seletti-catalogo-prodotti-hybrid",
             "button_style_secondary": true
           }
         }
@@ -638,7 +609,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/ideeregalo-colleghiconoscenti.jpg",
+        "image": "shopify://shop_images/KnIndustrie-3.jpg",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -659,10 +630,10 @@
         "row_TLaB9L": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/kikkerland-7-in-1-gadget-pen-penna-gadget-7-in-1-1_1.webp",
-            "caption": "Kikkerland",
-            "heading": "7-in-1 Gadget Pen – Penna",
-            "text": "<p><strong>Penna multitool 7-in-1</strong>: un accessorio versatile che combina penna, righello, cacciavite, livella, stylus, apribottiglie e supporto per smartphone. Perfetta per affrontare ogni situazione con praticità!</p><p>La <a href=\"/products/kikkerland-7-in-1-gadget-pen-penna\" title=\"Kikkerland 7-in-1 Gadget Pen - Penna\"><strong>Penna Gadget 7-in-1 di Kikkerland</strong> </a>è il compagno multifunzione ideale per chi desidera avere sempre tutto a portata di mano.</p>",
+            "image": "shopify://shop_images/Seletti-Hybrid-1.webp",
+            "caption": "",
+            "heading": "Verde e blu",
+            "text": "<p>Una tavola raffinata che ama la tradizioni. Il blu, protagonista  del Natale non convenzionale, accostato al verde, il colore della speranza, creano un connubio delicato ed elegante.<br/></p>",
             "button_label": "SCOPRILA",
             "button_link": "shopify://products/kikkerland-7-in-1-gadget-pen-penna"
           }
@@ -1230,7 +1201,6 @@
     "multicolumn_VhzyPr",
     "image_with_text_PcQeC7",
     "multirow_TGNpHm",
-    "featured_collection_p73D8b",
     "image_with_text_789DBP",
     "multirow_YEPYXg",
     "featured_collection_CtNKRh",
