@@ -484,34 +484,25 @@
         "heading_bheDry": {
           "type": "heading",
           "settings": {
-            "heading": "Regali di Natale per amici e parenti",
+            "heading": "2. La Tavola di Natale secondo il Galateo e le regole di Bon ton",
             "heading_size": "h1"
           }
         },
         "text_Hdj4EB": {
           "type": "text",
           "settings": {
-            "text": "<p>E si, anche amici e parenti vogliono il regalo a Natale! In questo caso ti consigliamo di scegliere <strong>accessori per la casa, la tavola o la cucina</strong>.</p><p>Qualcosa di utile che è sempre meglio avere.</p>",
+            "text": "<p>La tavola di Natale non fa eccezione per le regole di Bon Ton, che è sempre bene seguire.  Abbiamo raccolto per te solo le principali che, se seguite al meglio, garantiscono un risultato pazzesco!</p>",
             "text_style": "body"
-          }
-        },
-        "button_VaiTaa": {
-          "type": "button",
-          "settings": {
-            "button_label": "IDEE REGALO ORIGINALI",
-            "button_link": "shopify://collections/idee-regalo-regali-sotto-100-euro",
-            "button_style_secondary": true
           }
         }
       },
       "block_order": [
         "heading_bheDry",
-        "text_Hdj4EB",
-        "button_VaiTaa"
+        "text_Hdj4EB"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/ideeregalo-amiciparenti.jpg",
+        "image": "shopify://shop_images/Tavola-di-Natale-secondo-il-Galateo-qsvqhmqe7e4teoemb0axdbuhsgykdz1kryzibenppi.png",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -532,53 +523,41 @@
         "row_97RkUn": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Stan-Editions-Candela-Impilabile-4-Pezzi-Giallo_1.webp",
-            "caption": "Stan Editions",
-            "heading": "Candela Impilabile – 4 Pezzi Giallo",
-            "text": "<p>Il design minimalista della <strong>Stack 05</strong> si integra perfettamente in qualsiasi stile d’arredo, rendendola ideale sia per ambienti moderni che per quelli più classici. La sua modularità ti permette di sperimentare con le forme, combinandola con altre candele della collezione <a href=\"/collections/stan-editions\" title=\"Stan Editions\"><strong>CANDL Stacks</strong></a> per creare composizioni originali. Con il suo look raffinato e la cura dei dettagli, questa candela non è solo un oggetto funzionale, ma un autentico pezzo di design.<br/></p>",
-            "button_label": "SCOPRILO",
-            "button_link": "shopify://products/stan-editions-candela-impilabile-4-pezzi-giallo"
+            "image": "shopify://shop_images/Untitled-design-73.jpg",
+            "caption": "",
+            "heading": "Posate",
+            "text": "<p>Le posate vanno rigorosamente cambiate tra una portata e l’altra, e seguono la successione delle portate del menu; dall’esterno verso l’interno (in questo modo la posata più esterna sarà quella dell’antipasto). Le forchette vanno disposte sul lato sinistro del piatto e i coltelli sul lato destro con lama verso l’interno. Il cucchiaio da dessert va invece posizionato sopra il piatto con il manico rivolto verso destra.</p>",
+            "button_label": "POSATE",
+            "button_link": "shopify://collections/cucina-e-tavola-posate"
           }
         },
         "row_trGkxn": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/le-guzzerie_6_1.jpg",
-            "caption": "Guzzerie",
-            "heading": "Il Cibo è Arte!",
-            "text": "<p>Con <a href=\"/collections/guzzerie\" title=\"Guzzerie\"><strong>Guzzerie</strong></a> Carbonara, pizza margherita, lasagne e tanto ancora diventano i veri <strong>capolavori</strong> da incorniciare. Lasciati conquistare dalle illustrazioni per veri buongustai, stampate su carta riciclata da agroresidui. Bellissime in cucina, in taverna o per allestire un cocktail bar nel tuo salotto! <br/><br/></p>",
-            "button_label": "SCOPRILE",
-            "button_link": "shopify://collections/guzzerie"
+            "image": "shopify://shop_images/Bicchieri-350x215.png",
+            "caption": "",
+            "heading": "Bicchieri",
+            "text": "<p>Per quanto riguarda i bicchieri, predisponili posizionando il bicchiere dell’acqua a destra del piatto, il calice di vino bianco leggermente a destra del bicchiere dell’acqua e il flute da aperitivo alla sua sinistra. Ricorda di mettere a tavola solo i bicchieri che verranno realmente utilizzati,  ne puoi posizionare al massimo quattro.</p>",
+            "button_label": "BICCHIERI",
+            "button_link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
           }
         },
         "row_KpiUBC": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-passpartout-posata_corta.webp",
-            "caption": "KnIndustrie",
-            "heading": "Passpartout Posata da tavola",
-            "text": "<p>La <a href=\"/products/2293-knindustrie-passpartout-posata-da-tavola-corta-ice\" title=\"KnIndustrie Passpartout Posata da tavola corta\"><strong>posata Passepartout corta</strong></a> è la posata perfetta per tutti!<br/>Universale e non convenzionale.</p><p><strong>Regalala subito!</strong></p>",
-            "button_label": "SCOPRILA",
-            "button_link": "shopify://products/2293-knindustrie-passpartout-posata-da-tavola-corta-ice"
-          }
-        },
-        "row_pHqHjt": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/brandani-sveglia-bottoni-bianco-e-oro.webp",
-            "caption": "Brandani",
-            "heading": "Sveglia Bottoni",
-            "text": "<p>Un’idea molto originale da regalare ad amici e parenti a Natale è questo <a href=\"/products/brandani-sveglia-bottoni-bianco-e-oro\" title=\"Brandani Sveglia Bottoni Bianco e Oro\"><strong>sveglia a bottoni firmata Brandani</strong></a>. Munita anche di calendario è adatto al soggiorno e alla cucina.<br/><br/></p>",
-            "button_label": "SCOPRILA",
-            "button_link": "shopify://products/bitossi-home-il-frutto-della-passione-tovaglietta-con-ricami-rossa-amore-per-sempre"
+            "image": "shopify://shop_images/knIndustrie-centrotavola-vetro-bronzo.jpg",
+            "caption": "",
+            "heading": "Centrotavola",
+            "text": "<p>Per i commensali attenzione alla quantità, se prevedi più di 6 ospiti ti consigliamo di posizionarne 2, e attenzione a non coprire la visuale della persona che hai di fronte! Se diversamente non prevedi molti ospiti ti basterà posizionarne uno al centro del tavolo.</p>",
+            "button_label": "CENTROTAVOLA",
+            "button_link": "shopify://collections/centrotavola-gastronomico-knindustrie"
           }
         }
       },
       "block_order": [
         "row_97RkUn",
         "row_trGkxn",
-        "row_KpiUBC",
-        "row_pHqHjt"
+        "row_KpiUBC"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
