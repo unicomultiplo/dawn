@@ -124,6 +124,15 @@
             "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
           }
         },
+        "column_yqXbfN": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_yQbnJE": {
           "type": "column",
           "settings": {
@@ -140,6 +149,7 @@
         "column_NEyjhC",
         "column_E4fCP7",
         "column_FL38Rg",
+        "column_yqXbfN",
         "column_yQbnJE"
       ],
       "name": "t:sections.multicolumn.presets.name",
