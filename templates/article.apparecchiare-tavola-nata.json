@@ -462,7 +462,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "La tua Tavola Natale 2024 come la vuoi tu!",
+        "title": "La Tavola Natale 2024 come la vuoi tu!",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
@@ -814,53 +814,72 @@
         "padding_bottom": 36
       }
     },
-    "image_banner_CKVzFq": {
-      "type": "image-banner",
+    "multicolumn_4gW44i": {
+      "type": "multicolumn",
       "blocks": {
-        "heading_VARcwa": {
-          "type": "heading",
+        "column_JEjthA": {
+          "type": "column",
           "settings": {
-            "heading": "... Cerchi qualcosa di davvero UNICO? Scegli col cuore!",
-            "heading_size": "h1"
-          }
-        },
-        "text_B9xRqC": {
-          "type": "text",
-          "settings": {
+            "image": "shopify://shop_images/kNiNDUSTRIE.webp",
+            "title": "",
             "text": "",
-            "text_style": "subtitle"
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-foodwear"
           }
         },
-        "buttons_8cGc3R": {
-          "type": "buttons",
+        "column_PWp99t": {
+          "type": "column",
           "settings": {
-            "button_label_1": "IDEE REGALO DI NATALE!",
-            "button_link_1": "shopify://collections/idee-regalo-natale",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "image": "shopify://shop_images/Bitossi_ca3a5e56-9ce1-4b9a-8c94-95009489ea53.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-abracadabra"
+          }
+        },
+        "column_jVjnjp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-Kintsugi-1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/seletti-catalogo-prodotti-kintsugi"
+          }
+        },
+        "column_GzzMXi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/KnIndustrie-portapane-1.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie"
           }
         }
       },
       "block_order": [
-        "heading_VARcwa",
-        "text_B9xRqC",
-        "buttons_8cGc3R"
+        "column_JEjthA",
+        "column_PWp99t",
+        "column_jVjnjp",
+        "column_GzzMXi"
       ],
-      "name": "t:sections.image-banner.presets.name",
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Idee-Regalo-di-Natale_1.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "top-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "title": "5. Preparare la Tavola di Natale: foto ed esempi",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
       }
     },
     "separator_nbNJQV": {
@@ -885,7 +904,7 @@
     "multirow_YEPYXg",
     "image_with_text_jEbVKr",
     "multirow_NRXPfV",
-    "image_banner_CKVzFq",
+    "multicolumn_4gW44i",
     "separator_nbNJQV"
   ]
 }
