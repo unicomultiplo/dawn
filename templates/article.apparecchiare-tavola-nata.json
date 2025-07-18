@@ -765,13 +765,37 @@
             "button_label": "SCOPRILI",
             "button_link": "shopify://collections/cucina-e-tavola-piatti"
           }
+        },
+        "row_7XTtNf": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Le-posate-per-ogni-pietanza.png",
+            "caption": "",
+            "heading": "Le posate per ogni pietanza",
+            "text": "<p>Se il pesce è protagonista del tuo menu, non puoi utilizzare delle comuni posate: hai bisogno di coltello e forchetta da pesce. E, se hai deciso di servire aragosta o astice, non puoi non munirti di apposita forchetta per ostriche e forchetta da aragosta.</p><p>Per quanto riguarda la carne invece, hai bisogno dell’apposito coltello. Prevedi, se necessario in base al tuo menu, anche un coltello da formaggio. Arrivati al dessert, non possono mancare forchetta e coltello da frutta, e da dessert, concludendo in bellezza con l’immancabile cucchiaino da caffè.</p>",
+            "button_label": "SCOPRILE",
+            "button_link": "shopify://collections/cucina-e-tavola-posate"
+          }
+        },
+        "row_NWqVxh": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Centrotavola-e-altri-accessori.png",
+            "caption": "",
+            "heading": "Centrotavola, taglieri e altri accessori: sì, ma con attenzione",
+            "text": "<p>Se ti stai chiedendo come <strong>addobbare la tua tavola di Natale</strong>, ricorda che una tavola ben curata non è eccessiva, ma delicata ed elegante. Puoi utilizzare centrotavola  di candele profumate,  optare per un bel vaso natalizio con fiori freschi, o qualcosa di più particolare come il nostro cestino intrecciato.</p><p>Con gli accessori è facile strafare, ma non esagerare, ricorda che il troppo è come il poco. Scegli qualcosa di delicato come la nostra ghirlanda decorativa.</p>",
+            "button_label": "CENTROTAVOLA",
+            "button_link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
+          }
         }
       },
       "block_order": [
         "row_8dfDDP",
         "row_4pzR4k",
         "row_h6kTyg",
-        "row_xEr3te"
+        "row_xEr3te",
+        "row_7XTtNf",
+        "row_NWqVxh"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
