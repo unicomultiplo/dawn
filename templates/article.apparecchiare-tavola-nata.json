@@ -304,7 +304,7 @@
             "image": "shopify://shop_images/Oldani-KnIndustrie.jpg",
             "caption": "",
             "heading": "Tavola di Natale Moderna",
-            "text": "<p>La tavola moderna è pratica, pulita e raffinata. Se hai un bel tavolo dimentica pure la tovaglia e usa le <strong>tovagliette</strong>, altrimenti opta per una <strong>tovaglia in lino</strong>, semplice e delicata.</p><p>Scegli materiali nobili come piatti in porcellana, dal design semplice ed essenziale, accostati ad eleganti <strong>posate in oro</strong> e <strong>bicchieri dal design moderno.</strong> Per terminare puoi <strong>decorare la tavola di Natale in stile moderno</strong> con un <a href=\"/collections/illuminazione-candelabri-e-candele\" title=\"Candelabri e Candele\"><strong>centrotavola di candele profumate</strong>,</a> oppure un’idea originalissima sarebbe quella di utilizzare una lanterna.</p>",
+            "text": "<p>La tavola moderna è pratica, pulita e raffinata. Se hai un bel tavolo dimentica pure la tovaglia e usa le <a href=\"/collections/cucina-e-tavola-tovaglie-e-tovagliette\" title=\"Tovaglie, Tovagliette e Sottopiatti\"><strong>tovagliette</strong></a>, altrimenti opta per una <strong>tovaglia in lino</strong>, semplice e delicata.</p><p>Scegli materiali nobili come piatti in porcellana, dal design semplice ed essenziale, accostati ad eleganti <strong>posate in oro</strong> e <strong>bicchieri dal design moderno.</strong> Per terminare puoi <strong>decorare la tavola di Natale in stile moderno</strong> con un <a href=\"/collections/illuminazione-candelabri-e-candele\" title=\"Candelabri e Candele\"><strong>centrotavola di candele profumate</strong>,</a> oppure un’idea originalissima sarebbe quella di utilizzare una lanterna.</p>",
             "button_label": "SCOPRILO",
             "button_link": "shopify://collections/cucina-e-tavola-piatti"
           }
@@ -312,12 +312,12 @@
         "row_w7bEHm": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-centrotavola-gastronomico-easy-2-1.jpg",
-            "caption": "knIndustrie",
-            "heading": "Centrotavola Gastronomico ",
-            "text": "<p><strong>Un’idea molto originale</strong> di KnIndustrie, questo affascinante oggetto incentrato sui valori di condivisione e convivialità, elementi essenziali<strong>per creare una tavola accogliente e raffinata</strong>.<br/></p>",
-            "button_label": "SCOPRILO",
-            "button_link": "shopify://products/knindustrie-centrotavola-gastronomico-essenze"
+            "image": "shopify://shop_images/Tavola-Natale-Tradizionale-Brandani_1_d27af08e-3e43-4282-9e14-39281e8e85dd.jpg",
+            "caption": "",
+            "heading": "Tavola di Natale Tradizionale",
+            "text": "<p>Per una tavola tradizionale scegli un design formale con decorazioni semplici e delicate. Una <strong>tovaglia ben stirata in cotone prezioso</strong> e <strong>tovaglioli rigorosamente rossi</strong>. Scegli un set di piatti abbinati e bicchieri di cristallo o vetro colorato.</p><p>Ottima idea utilizzare posate oro. Come centrotavola puoi optare per la tradizionale ghirlanda Natalizia, candele rosse o, in alternativa, ti consigliamo il nostro cestino intrecciato dal design raffinato.</p>",
+            "button_label": "BRANDANI GIFT",
+            "button_link": "shopify://collections/brandani"
           }
         }
       },
@@ -347,115 +347,135 @@
     "multicolumn_VhzyPr": {
       "type": "multicolumn",
       "blocks": {
+        "column_LJ89XY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Knindustrie-Lunch.layers.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "KNINDUSTRIE LUNCH LAYERS",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-lunch-layers"
+          }
+        },
         "column_gmjMjE": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/BANNER-ideeregalo-personaspeciale.jpg",
+            "image": "shopify://shop_images/Bitossi-tavola-scomposta-768x768-1.jpg",
             "title": "",
             "text": "",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_et4rKW"
+            "link_label": "BITOSSI TAVOLA SCOMPOSTA",
+            "link": "shopify://collections/bitossi-home-funky-table-tavola-scomposta"
           }
         },
         "column_JzFpNn": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/BANNER-ideeregalo-amiciparenti.jpg",
+            "image": "shopify://shop_images/Seletti.Hybrid-1.jpg",
             "title": "",
             "text": "",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_PcQeC7"
+            "link_label": "SELETTI HYBRID",
+            "link": "shopify://collections/seletti-catalogo-prodotti-hybrid"
           }
         },
         "column_QRyCjy": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/BANNER-ideeregalo-colleghiconoscenti.jpg",
+            "image": "shopify://shop_images/Untitled-1000-x-1000-px-1-1024x1024.webp",
             "title": "",
             "text": "",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_789DBP"
+            "link_label": "BITOSSI FRUTTO DELLA PASSIONE",
+            "link": "shopify://collections/bitossi-home-il-frutto-della-passione-bitossi-home"
+          }
+        },
+        "column_gcreWb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-Abracadabra.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "BITOSSI ABRACADABRA",
+            "link": "shopify://collections/bitossi-home-abracadabra"
+          }
+        },
+        "column_NcHMjt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/KnIndustrie-Centrotavola.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "KNINDUSTRIE CENTROTAVOLA",
+            "link": "shopify://collections/centrotavola-gastronomico-knindustrie"
+          }
+        },
+        "column_McH8RJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Knindustrie-Brick-lane-oro.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "KNINDUSTRIE POSATE",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-posate"
+          }
+        },
+        "column_zPyPR6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-piatti-diesel-768x768-1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "SELETTI ACID",
+            "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid"
+          }
+        },
+        "column_KFFxRr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-Kintsugi-1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "SELETTI KINTSUGI",
+            "link": "shopify://collections/seletti-catalogo-prodotti-kintsugi"
+          }
+        },
+        "column_wgaWRL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-schiaccianoci.webp",
+            "title": "",
+            "text": "",
+            "link_label": "SCHIACCIANOCI",
+            "link": ""
           }
         }
       },
       "block_order": [
+        "column_LJ89XY",
         "column_gmjMjE",
         "column_JzFpNn",
-        "column_QRyCjy"
+        "column_QRyCjy",
+        "column_gcreWb",
+        "column_NcHMjt",
+        "column_McH8RJ",
+        "column_zPyPR6",
+        "column_KFFxRr",
+        "column_wgaWRL"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<em>Ancora a corto di idee? Ti aiutiamo noi! </em>Scopri i nostri consigli e le proposte selezionate per creare la tua lista di regali",
-        "heading_size": "h2",
+        "title": "La tua Tavola Natale 2024 come la vuoi tu!",
+        "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "image_ratio": "square",
+        "columns_desktop": 5,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 0
-      }
-    },
-    "multicolumn_pGrbiB": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_pygxVT": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/BANNER-ideeregalo-viaggio.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_jEbVKr"
-          }
-        },
-        "column_JF9nJL": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/BANNER-ideeregalo-cucina.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_c6HwnW"
-          }
-        },
-        "column_VXiGqN": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/BANNER-ideeregalo-happyhour.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_nRTgzR"
-          }
-        }
-      },
-      "block_order": [
-        "column_pygxVT",
-        "column_JF9nJL",
-        "column_VXiGqN"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 36
       }
     },
     "image_with_text_PcQeC7": {
@@ -1229,7 +1249,6 @@
     "image_with_text_et4rKW",
     "multirow_gaUUHh",
     "multicolumn_VhzyPr",
-    "multicolumn_pGrbiB",
     "image_with_text_PcQeC7",
     "multirow_TGNpHm",
     "featured_collection_p73D8b",
