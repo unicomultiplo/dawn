@@ -84,7 +84,7 @@
           "settings": {
             "title": "",
             "text": "",
-            "link_label": "Elegante, shabby chic, moderna o tradizionale: quale mise en place scegliere?",
+            "link_label": "1. Elegante, shabby chic, moderna o tradizionale: quale mise en place scegliere?",
             "link": "shopify://collections/cucina-e-tavola-piatti"
           }
         },
@@ -93,7 +93,7 @@
           "settings": {
             "title": "",
             "text": "",
-            "link_label": "La tavola di Natale secondo il Galateo e le regole di Bon Ton",
+            "link_label": "2. La tavola di Natale secondo il Galateo e le regole di Bon Ton",
             "link": "shopify://collections/cucina-e-tavola-posate"
           }
         },
@@ -102,7 +102,7 @@
           "settings": {
             "title": "",
             "text": "",
-            "link_label": "I mille Colori della Tavola di Natale: idee per l’abbinamento",
+            "link_label": "3. I mille Colori della Tavola di Natale: idee per l’abbinamento",
             "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
           }
         },
@@ -111,7 +111,7 @@
           "settings": {
             "title": "",
             "text": "",
-            "link_label": "Dalla vigilia al giorno di Natale: le regole da seguire",
+            "link_label": "4. Dalla vigilia al giorno di Natale: le regole da seguire",
             "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
           }
         },
@@ -120,7 +120,7 @@
           "settings": {
             "title": "",
             "text": "",
-            "link_label": "Preparare la Tavola di Natale: foto ed esempi",
+            "link_label": "5. Preparare la Tavola di Natale: foto ed esempi",
             "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
           }
         },
@@ -240,34 +240,25 @@
         "heading_bcL9mj": {
           "type": "heading",
           "settings": {
-            "heading": "Regali di Natale per una persona speciale",
+            "heading": "1. Elegante, shabby chic, moderna o tradizionale: quale mise en place scegliere?",
             "heading_size": "h1"
           }
         },
         "text_GmGrm4": {
           "type": "text",
           "settings": {
-            "text": "<p>Quest’anno per una persona speciale, regala qualcosa di speciale. Renderai felice non solo il tuo fidanzato o la tua fidanzata, ma anche un tuo caro, come può essere un tuo genitore o tuo figlio. </p><p>Tanti regali sono qui pronti che ti aspettano, scegli quello che più ti piace!</p>",
+            "text": "<p>Ti consigliamo di scegliere lo stile che più ti rappresenta per una mise en place che racconta qualcosa di te, donando allo stesso tempo una magica atmosfera alla tua tavola.<br/></p>",
             "text_style": "body"
-          }
-        },
-        "button_6MncmJ": {
-          "type": "button",
-          "settings": {
-            "button_label": "IDEE REGALO SPECIALI",
-            "button_link": "shopify://collections/idee-regalo-regali-sotto-150-euro",
-            "button_style_secondary": true
           }
         }
       },
       "block_order": [
         "heading_bcL9mj",
-        "text_GmGrm4",
-        "button_6MncmJ"
+        "text_GmGrm4"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/pexels-gustavo-fring-5522942-1024x683.jpg",
+        "image": "shopify://shop_images/WhatsApp-Image-2023-12-06-at-08.32.45-1-e1701860548965.jpg",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
