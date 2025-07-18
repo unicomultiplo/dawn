@@ -48,7 +48,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>E' arrivato il momento di scegliere il <strong>regalo di Natale</strong> per mamma e papà, le persone che più ci amano al mondo!</p><p>Se non hai già pensato a cosa acquistare non ti preoccupare, <strong>con la nostra guida al regalo di Natale perfetto</strong>, pensata per ogni tipo di mamma e papà, troverai subito il <strong>regalo giusto!</strong></p>",
+            "text": "<p>Il menu è fondamentale, ma anche la tavola vuole la sua parte soprattutto se si tratta del cenone e del pranzo di Natale. Una mise en place organizzata, e curata con il giusto design non può mancare. Se ti stai chiedendo <strong>come preparare la tavola di Natale</strong>, segui i nostri consigli per non lasciare nulla al caso.</p>",
             "link_label": "",
             "link": ""
           }
@@ -76,145 +76,71 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_TmkCnU": {
+    "multicolumn_w4WjcX": {
       "type": "multicolumn",
       "blocks": {
-        "column_8JJaCp": {
+        "column_cGXLXe": {
           "type": "column",
           "settings": {
             "title": "",
             "text": "",
+            "link_label": "Elegante, shabby chic, moderna o tradizionale: quale mise en place scegliere?",
+            "link": "shopify://collections/cucina-e-tavola-piatti"
+          }
+        },
+        "column_3UpQ7P": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "La tavola di Natale secondo il Galateo e le regole di Bon Ton",
+            "link": "shopify://collections/cucina-e-tavola-posate"
+          }
+        },
+        "column_NEyjhC": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "I mille Colori della Tavola di Natale: idee per l’abbinamento",
+            "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
+          }
+        },
+        "column_E4fCP7": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Dalla vigilia al giorno di Natale: le regole da seguire",
+            "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
+          }
+        },
+        "column_FL38Rg": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Preparare la Tavola di Natale: foto ed esempi",
+            "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
+          }
+        },
+        "column_yQbnJE": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Un Consiglio Extra</strong> ",
+            "text": "<p>Scegli uno stile che sposa anche il tuo arredamento, lo stile giusto è quello che rappresenta a pieno la tua casa!</p>",
             "link_label": "",
             "link": ""
           }
-        },
-        "column_BEk47P": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<ol><li>Come prima cosa: può anche sembrare scontato ma è ciò che determinerà il successo o meno dei tuoi regali. <strong>Scegli ogni proposta pensando ai gusti e alle necessità della persona che lo riceverà</strong> e dimentica per un attimo i tuoi. Se non conosci così bene questa persona opta per qualcosa di utile con un design non troppo particolare.</li><li><strong>Organizza tutto per tempo</strong>, non ridurti all’ultimo finendo per scegliere cose di cui non sei soddisfatto, magari spendendo anche più del dovuto. Se non hai molto tempo ti consigliamo di acquistare qualcosa online: inizia con lo scegliere i regali che preferisci che puoi aggiungere alla tua lista dei desideri, in modo da controllare se le tue scelte rispettano il budget finale.</li><li>Specialmente per amici e persone più care, è fondamentale che il regalo abbia un reale significato, al di là della cifra spesa per acquistarlo. Quindi <strong>considera prima di tutto il valore emotivo anziché quello economico</strong> nella scelta dei doni, optando per oggetti e idee che sappiano stupire e dimostrare il tuo affetto.</li></ol>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "column_8JJaCp",
-        "column_BEk47P"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Trova l'Idea Regalo Giusta in 3 Step",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
-    "multicolumn_VhzyPr": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_gmjMjE": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/BANNER-ideeregalo-personaspeciale.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_et4rKW"
-          }
-        },
-        "column_JzFpNn": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/BANNER-ideeregalo-amiciparenti.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_PcQeC7"
-          }
-        },
-        "column_QRyCjy": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/BANNER-ideeregalo-colleghiconoscenti.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_789DBP"
-          }
-        }
-      },
-      "block_order": [
-        "column_gmjMjE",
-        "column_JzFpNn",
-        "column_QRyCjy"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "<em>Ancora a corto di idee? Ti aiutiamo noi!</em>Scopri i nostri consigli e le proposte selezionate per creare la tua lista di regali",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_pGrbiB": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_pygxVT": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/BANNER-ideeregalo-viaggio.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_jEbVKr"
-          }
-        },
-        "column_JF9nJL": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/BANNER-ideeregalo-cucina.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_c6HwnW"
-          }
-        },
-        "column_VXiGqN": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/BANNER-ideeregalo-happyhour.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_nRTgzR"
-          }
-        }
-      },
-      "block_order": [
-        "column_pygxVT",
-        "column_JF9nJL",
-        "column_VXiGqN"
+        "column_cGXLXe",
+        "column_3UpQ7P",
+        "column_NEyjhC",
+        "column_E4fCP7",
+        "column_FL38Rg",
+        "column_yQbnJE"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -222,46 +148,28 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 1,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
+        "button_link": "shopify://pages/natale",
+        "color_scheme": "scheme-1",
         "columns_mobile": "1",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "padding_top": 0,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "multicolumn_489QHn": {
       "type": "multicolumn",
       "blocks": {
-        "column_p9w9Bh": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Definisci un budget per ogni persona che vuoi includere nella tua lista e scegli il regalo tra le proposte selezionate per prezzo: potrai tenere sotto controllo la tua spesa totale e avere la certezza di <strong>non dimenticare proprio nessuno!</strong></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_hRK3Ut": {
-          "type": "column",
-          "settings": {
-            "title": "SCEGLI TRA LE NOSTRE OPZIONI!",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_dweBqF": {
           "type": "column",
           "settings": {
             "title": "",
             "text": "",
-            "link_label": "SOTTO AI 50€",
-            "link": "shopify://collections/idee-regalo-economiche"
+            "link_label": "PIATTI",
+            "link": "shopify://collections/cucina-e-tavola-piatti"
           }
         },
         "column_UCLtjB": {
@@ -269,8 +177,8 @@
           "settings": {
             "title": "",
             "text": "",
-            "link_label": "SOTTO AI 100€",
-            "link": "shopify://collections/idee-regalo-regali-sotto-100-euro"
+            "link_label": "POSATE",
+            "link": "shopify://collections/cucina-e-tavola-posate"
           }
         },
         "column_GFjhAb": {
@@ -278,34 +186,42 @@
           "settings": {
             "title": "",
             "text": "",
-            "link_label": "SOTTO AI 150€",
-            "link": "shopify://collections/idee-regalo-regali-sotto-150-euro"
+            "link_label": "BICCHIERI",
+            "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
+          }
+        },
+        "column_We4V3e": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "TAVOLA NATALE 2025",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "column_p9w9Bh",
-        "column_hRK3Ut",
         "column_dweBqF",
         "column_UCLtjB",
-        "column_GFjhAb"
+        "column_GFjhAb",
+        "column_We4V3e"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<em>Vorresti fare un regalo senza spendere troppo?</em>",
+        "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
+        "columns_desktop": 4,
+        "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-1",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "image_with_text_et4rKW": {
@@ -427,32 +343,117 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_DheeNV": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
+    "multicolumn_VhzyPr": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gmjMjE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BANNER-ideeregalo-personaspeciale.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_et4rKW"
+          }
+        },
+        "column_JzFpNn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BANNER-ideeregalo-amiciparenti.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_PcQeC7"
+          }
+        },
+        "column_QRyCjy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BANNER-ideeregalo-colleghiconoscenti.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_789DBP"
+          }
+        }
+      },
+      "block_order": [
+        "column_gmjMjE",
+        "column_JzFpNn",
+        "column_QRyCjy"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<em>Ancora a corto di idee? Ti aiutiamo noi! </em>Scopri i nostri consigli e le proposte selezionate per creare la tua lista di regali",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_pGrbiB": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_pygxVT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BANNER-ideeregalo-viaggio.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_jEbVKr"
+          }
+        },
+        "column_JF9nJL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BANNER-ideeregalo-cucina.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_c6HwnW"
+          }
+        },
+        "column_VXiGqN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BANNER-ideeregalo-happyhour.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_nRTgzR"
+          }
+        }
+      },
+      "block_order": [
+        "column_pygxVT",
+        "column_JF9nJL",
+        "column_VXiGqN"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "idee-regalo-regali-sotto-150-euro",
-        "products_to_show": 17,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "scheme-2",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
@@ -1222,13 +1223,12 @@
   "order": [
     "main",
     "multicolumn_WpyCnX",
-    "multicolumn_TmkCnU",
-    "multicolumn_VhzyPr",
-    "multicolumn_pGrbiB",
+    "multicolumn_w4WjcX",
     "multicolumn_489QHn",
     "image_with_text_et4rKW",
     "multirow_gaUUHh",
-    "featured_collection_DheeNV",
+    "multicolumn_VhzyPr",
+    "multicolumn_pGrbiB",
     "image_with_text_PcQeC7",
     "multirow_TGNpHm",
     "featured_collection_p73D8b",
