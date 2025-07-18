@@ -1,0 +1,1249 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "small"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true,
+            "blog_show_author": false
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title"
+      ],
+      "settings": {}
+    },
+    "multicolumn_WpyCnX": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_JVQmDw": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_9GQxbK": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>E' arrivato il momento di scegliere il <strong>regalo di Natale</strong> per mamma e papà, le persone che più ci amano al mondo!</p><p>Se non hai già pensato a cosa acquistare non ti preoccupare, <strong>con la nostra guida al regalo di Natale perfetto</strong>, pensata per ogni tipo di mamma e papà, troverai subito il <strong>regalo giusto!</strong></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_JVQmDw",
+        "column_9GQxbK"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_TmkCnU": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_8JJaCp": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_BEk47P": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<ol><li>Come prima cosa: può anche sembrare scontato ma è ciò che determinerà il successo o meno dei tuoi regali. <strong>Scegli ogni proposta pensando ai gusti e alle necessità della persona che lo riceverà</strong> e dimentica per un attimo i tuoi. Se non conosci così bene questa persona opta per qualcosa di utile con un design non troppo particolare.</li><li><strong>Organizza tutto per tempo</strong>, non ridurti all’ultimo finendo per scegliere cose di cui non sei soddisfatto, magari spendendo anche più del dovuto. Se non hai molto tempo ti consigliamo di acquistare qualcosa online: inizia con lo scegliere i regali che preferisci che puoi aggiungere alla tua lista dei desideri, in modo da controllare se le tue scelte rispettano il budget finale.</li><li>Specialmente per amici e persone più care, è fondamentale che il regalo abbia un reale significato, al di là della cifra spesa per acquistarlo. Quindi <strong>considera prima di tutto il valore emotivo anziché quello economico</strong> nella scelta dei doni, optando per oggetti e idee che sappiano stupire e dimostrare il tuo affetto.</li></ol>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_8JJaCp",
+        "column_BEk47P"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Trova l'Idea Regalo Giusta in 3 Step",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "multicolumn_VhzyPr": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gmjMjE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BANNER-ideeregalo-personaspeciale.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_et4rKW"
+          }
+        },
+        "column_JzFpNn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BANNER-ideeregalo-amiciparenti.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_PcQeC7"
+          }
+        },
+        "column_QRyCjy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BANNER-ideeregalo-colleghiconoscenti.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_789DBP"
+          }
+        }
+      },
+      "block_order": [
+        "column_gmjMjE",
+        "column_JzFpNn",
+        "column_QRyCjy"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<em>Ancora a corto di idee? Ti aiutiamo noi!</em>Scopri i nostri consigli e le proposte selezionate per creare la tua lista di regali",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_pGrbiB": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_pygxVT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BANNER-ideeregalo-viaggio.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_jEbVKr"
+          }
+        },
+        "column_JF9nJL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BANNER-ideeregalo-cucina.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_c6HwnW"
+          }
+        },
+        "column_VXiGqN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BANNER-ideeregalo-happyhour.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista?#shopify-section-template--25591357571337__image_with_text_nRTgzR"
+          }
+        }
+      },
+      "block_order": [
+        "column_pygxVT",
+        "column_JF9nJL",
+        "column_VXiGqN"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_489QHn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_p9w9Bh": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Definisci un budget per ogni persona che vuoi includere nella tua lista e scegli il regalo tra le proposte selezionate per prezzo: potrai tenere sotto controllo la tua spesa totale e avere la certezza di <strong>non dimenticare proprio nessuno!</strong></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hRK3Ut": {
+          "type": "column",
+          "settings": {
+            "title": "SCEGLI TRA LE NOSTRE OPZIONI!",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_dweBqF": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "SOTTO AI 50€",
+            "link": "shopify://collections/idee-regalo-economiche"
+          }
+        },
+        "column_UCLtjB": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "SOTTO AI 100€",
+            "link": "shopify://collections/idee-regalo-regali-sotto-100-euro"
+          }
+        },
+        "column_GFjhAb": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "SOTTO AI 150€",
+            "link": "shopify://collections/idee-regalo-regali-sotto-150-euro"
+          }
+        }
+      },
+      "block_order": [
+        "column_p9w9Bh",
+        "column_hRK3Ut",
+        "column_dweBqF",
+        "column_UCLtjB",
+        "column_GFjhAb"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<em>Vorresti fare un regalo senza spendere troppo?</em>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_et4rKW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_bcL9mj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Regali di Natale per una persona speciale",
+            "heading_size": "h1"
+          }
+        },
+        "text_GmGrm4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Quest’anno per una persona speciale, regala qualcosa di speciale. Renderai felice non solo il tuo fidanzato o la tua fidanzata, ma anche un tuo caro, come può essere un tuo genitore o tuo figlio. </p><p>Tanti regali sono qui pronti che ti aspettano, scegli quello che più ti piace!</p>",
+            "text_style": "body"
+          }
+        },
+        "button_6MncmJ": {
+          "type": "button",
+          "settings": {
+            "button_label": "IDEE REGALO SPECIALI",
+            "button_link": "shopify://collections/idee-regalo-regali-sotto-150-euro",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_bcL9mj",
+        "text_GmGrm4",
+        "button_6MncmJ"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/pexels-gustavo-fring-5522942-1024x683.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_gaUUHh": {
+      "type": "multirow",
+      "blocks": {
+        "row_Qbc8RM": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/25302_1_1.webp",
+            "caption": "Seletti",
+            "heading": "Love in Bloom Kintsugi – Un concentrato di Amore",
+            "text": "<p>Un vero e proprio oggetto d’Arte, <strong>il vaso a forma di cuore Bloom Kintusgi </strong>firmato<strong> Seletti. </strong>Un connubio di stili, come le anime di due corpi complementari che sfociano e si intrecciano in un cuore pulsante.</p><p>Un gesto d’amore per una persona speciale!</p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/5240-seletti-love-in-bloom-kintsugi-vase-vaso-cuore"
+          }
+        },
+        "row_Ptep7c": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Miho-Candelabro-Artigianali-Finesse_1.webp",
+            "caption": "Miho",
+            "heading": "Candelabro Artigianale",
+            "text": "<p>Un<strong> candelabro artigianale </strong>dal design sofisticato e multicolore, realizzato con materiali di recupero per un tocco <strong>vintage e ricercato.<br/></strong><br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/miho-candelabro-artigianali-finesse"
+          }
+        },
+        "row_Gd8Geh": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-knbook-tagliere-in-legno-2-571x445.jpg",
+            "caption": "Knindustrie",
+            "heading": "Kn book – tagliere in legno",
+            "text": "<p>La tua lei o il tuo lui ama cucinare? Allora scegli il <strong>tagliere in legno </strong>firmato <strong>Knindustrie</strong>: corredato di un coltello in <strong>lama acciaio inox </strong>è possibile tagliare il cibo di qualsiasi tipo appoggiandolo sull’ampia superficie del legno. In rovere, frassino e noce, il tagliere ha un design innovativo ma allo stesso tempo classico perché ha la forma di un libro. <br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/3644-knindustrie-book-tagliere-in-legno"
+          }
+        },
+        "row_w7bEHm": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-centrotavola-gastronomico-easy-2-1.jpg",
+            "caption": "knIndustrie",
+            "heading": "Centrotavola Gastronomico ",
+            "text": "<p><strong>Un’idea molto originale</strong> di KnIndustrie, questo affascinante oggetto incentrato sui valori di condivisione e convivialità, elementi essenziali<strong>per creare una tavola accogliente e raffinata</strong>.<br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/knindustrie-centrotavola-gastronomico-essenze"
+          }
+        }
+      },
+      "block_order": [
+        "row_Qbc8RM",
+        "row_Ptep7c",
+        "row_Gd8Geh",
+        "row_w7bEHm"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-1",
+        "row_color_scheme": "scheme-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_DheeNV": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "idee-regalo-regali-sotto-150-euro",
+        "products_to_show": 17,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_PcQeC7": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_bheDry": {
+          "type": "heading",
+          "settings": {
+            "heading": "Regali di Natale per amici e parenti",
+            "heading_size": "h1"
+          }
+        },
+        "text_Hdj4EB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>E si, anche amici e parenti vogliono il regalo a Natale! In questo caso ti consigliamo di scegliere <strong>accessori per la casa, la tavola o la cucina</strong>.</p><p>Qualcosa di utile che è sempre meglio avere.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_VaiTaa": {
+          "type": "button",
+          "settings": {
+            "button_label": "IDEE REGALO ORIGINALI",
+            "button_link": "shopify://collections/idee-regalo-regali-sotto-100-euro",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_bheDry",
+        "text_Hdj4EB",
+        "button_VaiTaa"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/ideeregalo-amiciparenti.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_TGNpHm": {
+      "type": "multirow",
+      "blocks": {
+        "row_97RkUn": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Stan-Editions-Candela-Impilabile-4-Pezzi-Giallo_1.webp",
+            "caption": "Stan Editions",
+            "heading": "Candela Impilabile – 4 Pezzi Giallo",
+            "text": "<p>Il design minimalista della <strong>Stack 05</strong> si integra perfettamente in qualsiasi stile d’arredo, rendendola ideale sia per ambienti moderni che per quelli più classici. La sua modularità ti permette di sperimentare con le forme, combinandola con altre candele della collezione <a href=\"/collections/stan-editions\" title=\"Stan Editions\"><strong>CANDL Stacks</strong></a> per creare composizioni originali. Con il suo look raffinato e la cura dei dettagli, questa candela non è solo un oggetto funzionale, ma un autentico pezzo di design.<br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/stan-editions-candela-impilabile-4-pezzi-giallo"
+          }
+        },
+        "row_trGkxn": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/le-guzzerie_6_1.jpg",
+            "caption": "Guzzerie",
+            "heading": "Il Cibo è Arte!",
+            "text": "<p>Con <a href=\"/collections/guzzerie\" title=\"Guzzerie\"><strong>Guzzerie</strong></a> Carbonara, pizza margherita, lasagne e tanto ancora diventano i veri <strong>capolavori</strong> da incorniciare. Lasciati conquistare dalle illustrazioni per veri buongustai, stampate su carta riciclata da agroresidui. Bellissime in cucina, in taverna o per allestire un cocktail bar nel tuo salotto! <br/><br/></p>",
+            "button_label": "SCOPRILE",
+            "button_link": "shopify://collections/guzzerie"
+          }
+        },
+        "row_KpiUBC": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-passpartout-posata_corta.webp",
+            "caption": "KnIndustrie",
+            "heading": "Passpartout Posata da tavola",
+            "text": "<p>La <a href=\"/products/2293-knindustrie-passpartout-posata-da-tavola-corta-ice\" title=\"KnIndustrie Passpartout Posata da tavola corta\"><strong>posata Passepartout corta</strong></a> è la posata perfetta per tutti!<br/>Universale e non convenzionale.</p><p><strong>Regalala subito!</strong></p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/2293-knindustrie-passpartout-posata-da-tavola-corta-ice"
+          }
+        },
+        "row_pHqHjt": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/brandani-sveglia-bottoni-bianco-e-oro.webp",
+            "caption": "Brandani",
+            "heading": "Sveglia Bottoni",
+            "text": "<p>Un’idea molto originale da regalare ad amici e parenti a Natale è questo <a href=\"/products/brandani-sveglia-bottoni-bianco-e-oro\" title=\"Brandani Sveglia Bottoni Bianco e Oro\"><strong>sveglia a bottoni firmata Brandani</strong></a>. Munita anche di calendario è adatto al soggiorno e alla cucina.<br/><br/></p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/bitossi-home-il-frutto-della-passione-tovaglietta-con-ricami-rossa-amore-per-sempre"
+          }
+        }
+      },
+      "block_order": [
+        "row_97RkUn",
+        "row_trGkxn",
+        "row_KpiUBC",
+        "row_pHqHjt"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_p73D8b": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "uppercase",
+        "collection": "cucina-e-tavola",
+        "products_to_show": 25,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_789DBP": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_gbbJ4D": {
+          "type": "heading",
+          "settings": {
+            "heading": "Regali di Natale per colleghi e conoscenti",
+            "heading_size": "h1"
+          }
+        },
+        "text_3kG9Rq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>“<em>Hai comprato un pensierino per Anna? Ma no, a cosa serve, lei non me lo fa di sicuro!</em>“. Ed eccoti rientrato a lavoro con un bel pacchettino regalo di Natale sulla scrivania.</p><p>Quante volte è successo? Quest’anno per non farti trovare impreparato abbiamo pensato per te a dei <strong>pensierini di Natale</strong> che ti lasceranno a bocca aperta!</p>",
+            "text_style": "body"
+          }
+        },
+        "button_mWCY4e": {
+          "type": "button",
+          "settings": {
+            "button_label": "IDEE REGALO FURBE",
+            "button_link": "shopify://collections/idee-regalo-economiche",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_gbbJ4D",
+        "text_3kG9Rq",
+        "button_mWCY4e"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/ideeregalo-colleghiconoscenti.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_YEPYXg": {
+      "type": "multirow",
+      "blocks": {
+        "row_TLaB9L": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/kikkerland-7-in-1-gadget-pen-penna-gadget-7-in-1-1_1.webp",
+            "caption": "Kikkerland",
+            "heading": "7-in-1 Gadget Pen – Penna",
+            "text": "<p><strong>Penna multitool 7-in-1</strong>: un accessorio versatile che combina penna, righello, cacciavite, livella, stylus, apribottiglie e supporto per smartphone. Perfetta per affrontare ogni situazione con praticità!</p><p>La <a href=\"/products/kikkerland-7-in-1-gadget-pen-penna\" title=\"Kikkerland 7-in-1 Gadget Pen - Penna\"><strong>Penna Gadget 7-in-1 di Kikkerland</strong> </a>è il compagno multifunzione ideale per chi desidera avere sempre tutto a portata di mano.</p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/kikkerland-7-in-1-gadget-pen-penna"
+          }
+        },
+        "row_gQh3m9": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/brandani-set-degustazione-vino-4-pz-c-cofanetto-ba_1_521aeb2d-28a6-4266-84a5-0fc98869dfd7.webp",
+            "caption": "Brandani",
+            "heading": "Set Degustazione Vino 4 Pz Con Cofanetto",
+            "text": "<p>Il <a href=\"/products/brandani-set-degustazione-vino-4-pz-con-cofanetto\" title=\"Brandani Set Degustazione Vino 4 Pz Con Cofanetto\"><strong>Set Degustazione Vino 4 pezzi di Brandani</strong></a> è l’accessorio ideale per gli amanti del vino che vogliono servirlo con eleganza e precisione. Il set comprende un cavatappi professionale, un tappo versatore, un anello salvagoccia e un tagliacapsule, tutto custodito in un raffinato cofanetto in bamboo naturale, perfetto per aggiungere un tocco di stile alla tua collezione di accessori.<br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/brandani-set-degustazione-vino-4-pz-con-cofanetto"
+          }
+        },
+        "row_RKJaYG": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/kikkerland-terracotta-seed-sprouters-germogliatori-di-semi-in-terracotta_3.webp",
+            "caption": "Kikkerland",
+            "heading": "Germogliatori di Semi in Terracotta",
+            "text": "<p>Il <a href=\"/products/kikkerland-seed-sprouters-germogliatori-di-semi-in-terracotta\" title=\"Kikkerland Seed Sprouters - Germogliatori di Semi in Terracotta\"><strong>Germogliatore in Terracotta di Kikkerland</strong> </a>è l’accessorio perfetto per gli appassionati di giardinaggio che vogliono coltivare germogli in modo naturale ed ecologico. Grazie alle proprietà traspiranti della terracotta, crea un ambiente ideale per la crescita dei semi, mantenendo il giusto livello di umidità con il minimo sforzo.<br/><br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/kikkerland-seed-sprouters-germogliatori-di-semi-in-terracotta"
+          }
+        },
+        "row_gtPRNU": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/depressetti-disegnetti-piena-stampa.webp",
+            "caption": "Disegnetti Depressetti",
+            "heading": "Piena | Stampa",
+            "text": "<p>Per il regalo di Natale perfetto, fai il detective dei desideri: scopri quel dettaglio che, al primo sguardo, ti fa pensare a loro…<strong> e hai fatto centro.</strong><br/><br/>Con <a href=\"/collections/disegnetti-depressetti\" title=\"Disegnetti Depressetti\"><strong>Disegnetti Depressetti</strong></a> non puoi sbagliare!</p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/depressetti-disegnetti-piena-stampa"
+          }
+        }
+      },
+      "block_order": [
+        "row_TLaB9L",
+        "row_gQh3m9",
+        "row_RKJaYG",
+        "row_gtPRNU"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_CtNKRh": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "uppercase",
+        "collection": "idee-regalo-economiche",
+        "products_to_show": 25,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_jEbVKr": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_U9QXdV": {
+          "type": "heading",
+          "settings": {
+            "heading": "Regali di Natale per gli amanti dei viaggi",
+            "heading_size": "h1"
+          }
+        },
+        "text_hGBY3g": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Se la tua persona speciale, un tuo famigliare o il tuo migliore amico è sempre all’avventura in giro per il mondo, non perderti le nostre idee regalo per Natale dedicate a gli amanti dei viaggi!<br/><br/></p>",
+            "text_style": "body"
+          }
+        },
+        "button_hUJNnb": {
+          "type": "button",
+          "settings": {
+            "button_label": "IDEE REGALO PER VIAGGIATORI",
+            "button_link": "shopify://collections/tempo-libero",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_U9QXdV",
+        "text_hGBY3g",
+        "button_hUJNnb"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/ideeregalo-viaggio.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_xz6fcY": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "subtitle",
+        "collection": "tempo-libero",
+        "products_to_show": 25,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_c6HwnW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_HYMXwe": {
+          "type": "heading",
+          "settings": {
+            "heading": "Regali di Natale per amanti della cucina",
+            "heading_size": "h1"
+          }
+        },
+        "text_jWbiWR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Quanto è bella la passione per la cucina? Soprattutto quando noi siamo quelli che assaggiano! Per questo è importante assecondare sempre questa passione dei nostri cari, anche a Natale. </p><p>Scopri la nostra selezione di idee regalo per gli <strong>amanti della cucina</strong>.</p><p></p>",
+            "text_style": "body"
+          }
+        },
+        "button_EnkTAc": {
+          "type": "button",
+          "settings": {
+            "button_label": "IDEE REGALO PER ASPIRANTI CHEF",
+            "button_link": "shopify://collections/cucina-e-tavola",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_HYMXwe",
+        "text_jWbiWR",
+        "button_EnkTAc"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/ideeregalo-cucina.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_NRXPfV": {
+      "type": "multirow",
+      "blocks": {
+        "row_8dfDDP": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/brandani-grill-piastra-grill-inox.jpg",
+            "caption": "Brandani",
+            "heading": "Grill - Piastra grill inox",
+            "text": "<p>Una <strong>piastra grill </strong>apribile con doppia piastra antiaderente che garantisce il massimo delle prestazioni. Questa piastra firmata <strong>Brandani </strong>non disperde calore e mantiene una temperatura costante senza produzione di fumo. Un’idea utile e di design! <br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/4511-brandani-grill-piastra-grill-inox"
+          }
+        },
+        "row_4pzR4k": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-gourmet-pizza-teglia-piatto-pizza-in-terracotta-1.jpg",
+            "caption": "Knindustrie",
+            "heading": "Gourmet Pizza – Love Pizza",
+            "text": "<p>Gli amanti della cucina hanno sempre bisogno di un nuovo accessorio, a questo proposito non possiamo non consigliarti <a href=\"/products/2951-knindustrie-gourmet-pizza-teglia-piatto-pizza-in-terracotta\" title=\"KnIndustrie Gourmet Pizza Teglia Piatto Pizza in Terracotta\"><strong>Gourmet Pizza</strong></a>, il piatto in terracotta firmato Knindustrie per sfoggiare una pizza fragrante e croccante!<br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/2951-knindustrie-gourmet-pizza-teglia-piatto-pizza-in-terracotta"
+          }
+        },
+        "row_h6kTyg": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/brandani-casseruola-cocotte-rossa-ghisa-smaltata-4-lt_chqeqcme6cbro4b7-547x445.jpg",
+            "caption": "Brandani",
+            "heading": "Cocotte Casseruola rossa in Ghisa",
+            "text": "<p>Se l’idea è quella di fare un super regalo, ti consigliamo la<a href=\"/products/brandani-casseruola-cocotte-rossa-ghisa-smaltata-3000\" title=\"Brandani Casseruola Cocotte Rossa Ghisa Smaltata 3 L\"> <strong>casseruola cocotte rossa Brandani</strong></a>, in ghisa smaltata, è l’ideale per tutte le preparazioni di piatti ed è particolarmente consigliata per lunghe cotture a fuoco lento.<br/><br/></p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/3661-knindustrie-lady-anne-caffettiera-black"
+          }
+        },
+        "row_xEr3te": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-beyond-basic-the-saucepan-casseruola-giallo_f5609e6d-4575-42e2-a574-8adcb37033b2.png",
+            "caption": "Knindustrie",
+            "heading": "The Saucepan – Casseruola gialla",
+            "text": "<p>Oltre alla Cocotte rossa ti diamo anche quest’altra opzione:<a href=\"/products/2949-knindustrie-beyond-basic-the-saucepan-casseruola-giallo\" title=\"KnIndustrie Beyond Basic The Saucepan Casseruola\"><strong> la casseruola Saucepan </strong></a>di colore giallo firmata <strong>Knindustrie</strong>. Questa pentola da cucina ha un design molto raffinato e funzionale, ideale per cucinare succulenti pietanze da servire a tavola!<br/><br/></p>",
+            "button_label": "SCOPRILA",
+            "button_link": "shopify://products/2949-knindustrie-beyond-basic-the-saucepan-casseruola-giallo"
+          }
+        }
+      },
+      "block_order": [
+        "row_8dfDDP",
+        "row_4pzR4k",
+        "row_h6kTyg",
+        "row_xEr3te"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_nRTgzR": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_VPcq8X": {
+          "type": "heading",
+          "settings": {
+            "heading": "Regali di Natale per chi ama l'happy hour",
+            "heading_size": "h1"
+          }
+        },
+        "text_dDxAC8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Perché esiste qualcuno che non li ama?</p><p>Scopri le nostre idee regalo di Natale per chi <strong>impazzisce per gli happy hour</strong> e metti sotto l’albero un pensiero super originale!</p>",
+            "text_style": "body"
+          }
+        },
+        "button_A3rxBF": {
+          "type": "button",
+          "settings": {
+            "button_label": "IDEE REGALO PER LUI",
+            "button_link": "shopify://collections/knindustrie-catalogo-prodotti-experimental-cocktail",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_VPcq8X",
+        "text_dDxAC8",
+        "button_A3rxBF"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/ideeregalo-happyhour.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_wYNF8Q": {
+      "type": "multirow",
+      "blocks": {
+        "row_UXrq6i": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-in-taglio-1-tagliere-1.jpg",
+            "caption": "Knindustrie",
+            "heading": "In-Taglio 1 – Tagliere in Grés e Noce",
+            "text": "<p>Scegli un elegante <strong>tagliere in grès porcellanato e noce canaletto grezzo di Knindustrie</strong>. Per una persona che ama il momento dell’aperitivo è un delicato e raffinato pensiero per Natale.<br/><br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/498-knindustrie-in-taglio-1-tagliere"
+          }
+        },
+        "row_mMLtyk": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/brandani-cocktail-set-con-accessori-set-5-pz-in-inox-1.jpg",
+            "caption": "Brandani",
+            "heading": "Shaker Cocktail Set con Accessori Set 5 pz in Inox",
+            "text": "<p>Per un aperitivo con i fiocchi scegli <a href=\"/products/brandani-tavola-cocktail-set-accessori-set-5-pz\" title=\"Brandani Cocktail Set Accessori Set 5 Pz\"><strong>Brandani Cocktail</strong></a><strong>:</strong> Accessori e utensili di design da bartender per ogni cocktail.<br/><br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/brandani-cocktail-set-con-accessori-set-5-pz-in-inox"
+          }
+        },
+        "row_FVDYLi": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/brandani-matt-black-cocktail-shaker-set-3-pz-in-inox.jpg",
+            "caption": "KnIndustrie",
+            "heading": "Not Ice cubetti pietra ollare",
+            "text": "<p><strong>Un set di otto</strong> cubetti in pietra ollare che, raffreddati nel freezer, rinfrescano le tue bevande<strong>senza rilasciare liquidi. </strong></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/1558-knindustrie-not-ice-cubetti-pietra-ollare"
+          }
+        }
+      },
+      "block_order": [
+        "row_UXrq6i",
+        "row_mMLtyk",
+        "row_FVDYLi"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_efjzUn": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_iGehKd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Regali di Natale per gli amanti degli ambienti profumati e avvolgenti",
+            "heading_size": "h1"
+          }
+        },
+        "text_KFbmg3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Se il tuo lui o la tua migliore amica è alla perenne ricerca di profumi per la casa, sei nel posto giusto.</p><p>Con la nostra selezione di idee regalo di Natale per gli amanti dei profumi per ambienti  non puoi non trovare il regalo perfetto!</p>",
+            "text_style": "body"
+          }
+        },
+        "button_xemzUB": {
+          "type": "button",
+          "settings": {
+            "button_label": "IDEE REGALO PROFUMATE",
+            "button_link": "shopify://collections/complementi-arredo-fragranze-ambiente-con-bastoncini",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_iGehKd",
+        "text_KFbmg3",
+        "button_xemzUB"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/profumi-ambiente-millefiori.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_Uj6WTc": {
+      "type": "multirow",
+      "blocks": {
+        "row_CqkbKT": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/brandani-diffusore-di-fragranza-cactus-vetro-bastoncini_1.webp",
+            "caption": "Brandani",
+            "heading": "Ekol Diffusore Di Fragranza Cactus Purple Vetro Bastoncini",
+            "text": "<p>Il <a href=\"/products/brandani-ekol-diffusore-di-fragranza-cactus-purple-vetro-bastoncini\" title=\"Brandani Ekol Diffusore Di Fragranza Cactus Purple Vetro Bastoncini\"><strong>Diffusore di Fragranza Cactus</strong></a> di Brandani è un raffinato elemento di design adatto a qualsiasi ambiente.</p><p>Ottima idea regalo per questo Natale.</p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/brandani-ekol-diffusore-di-fragranza-cactus-purple-vetro-bastoncini"
+          }
+        },
+        "row_4TNpLe": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/23665_1-768x912.webp",
+            "caption": "Millefiori",
+            "heading": "Moveo Diffusore di Fragranza Portatile",
+            "text": "<p><a href=\"/products/4974-millefiori-moveo-diffusore-di-fragranza-portatile\" title=\"Millefiori Moveo Diffusore di Fragranza Portatile\"><strong>Diffusore di Fragranza Portatile Moveo di Millefiori Milano – Nero</strong>:</a> questo diffusore portatile è la soluzione moderna e stilosa per chi desidera godere delle proprie fragranze preferite in ogni ambiente. <br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/4974-millefiori-moveo-diffusore-di-fragranza-portatile"
+          }
+        },
+        "row_8w7dUh": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/millefiori-profumi-768x912.webp",
+            "caption": "Millefiori",
+            "heading": "Natural Diffusore",
+            "text": "<p>Una soluzione che si integra con stile in ogni ambiente regalando una profumazione gradevole.</p><p>La fragranza viene diffusa attraverso i bastoncini che, immersi nel liquido, la assorbono ridandola nell’ambiente.</p><p>Una selezione di fragranze sofisticate e differenti tra loro, per adattarsi al meglio ai nostri spazi: scegli il tuo diffusore in base alla tua personalità o all’ambiente a cui sarà dedicato.</p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://collections/complementi-arredo-fragranze-ambiente-con-bastoncini"
+          }
+        }
+      },
+      "block_order": [
+        "row_CqkbKT",
+        "row_4TNpLe",
+        "row_8w7dUh"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_CKVzFq": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_VARcwa": {
+          "type": "heading",
+          "settings": {
+            "heading": "... Cerchi qualcosa di davvero UNICO? Scegli col cuore!",
+            "heading_size": "h1"
+          }
+        },
+        "text_B9xRqC": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "subtitle"
+          }
+        },
+        "buttons_8cGc3R": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "IDEE REGALO DI NATALE!",
+            "button_link_1": "shopify://collections/idee-regalo-natale",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_VARcwa",
+        "text_B9xRqC",
+        "buttons_8cGc3R"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Idee-Regalo-di-Natale_1.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "top-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "separator_nbNJQV": {
+      "type": "separator",
+      "name": "Separator Line",
+      "settings": {
+        "line_thickness": 1
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multicolumn_WpyCnX",
+    "multicolumn_TmkCnU",
+    "multicolumn_VhzyPr",
+    "multicolumn_pGrbiB",
+    "multicolumn_489QHn",
+    "image_with_text_et4rKW",
+    "multirow_gaUUHh",
+    "featured_collection_DheeNV",
+    "image_with_text_PcQeC7",
+    "multirow_TGNpHm",
+    "featured_collection_p73D8b",
+    "image_with_text_789DBP",
+    "multirow_YEPYXg",
+    "featured_collection_CtNKRh",
+    "image_with_text_jEbVKr",
+    "featured_collection_xz6fcY",
+    "image_with_text_c6HwnW",
+    "multirow_NRXPfV",
+    "image_with_text_nRTgzR",
+    "multirow_wYNF8Q",
+    "image_with_text_efjzUn",
+    "multirow_Uj6WTc",
+    "image_banner_CKVzFq",
+    "separator_nbNJQV"
+  ]
+}
