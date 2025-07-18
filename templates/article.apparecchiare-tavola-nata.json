@@ -589,15 +589,15 @@
         "text_3kG9Rq": {
           "type": "text",
           "settings": {
-            "text": "<h4>Oro e champagne</h4><p>Colori tenui per un abbinamento che impreziosisce la tua tavola e trasmette eleganza, tranquillità e sobrietà. Scegli l’oro e lo champagne per una tavola super raffinata.</p>",
+            "text": "<h3>Oro e champagne</h3><p>Colori tenui per un abbinamento che impreziosisce la tua tavola e trasmette eleganza, tranquillità e sobrietà. Scegli l’oro e lo champagne per una tavola super raffinata.</p>",
             "text_style": "body"
           }
         },
         "button_mWCY4e": {
           "type": "button",
           "settings": {
-            "button_label": "SCOPRI HYBRID - SELETTI",
-            "button_link": "shopify://collections/seletti-catalogo-prodotti-hybrid",
+            "button_label": "SCOPRI LA TAVOLA KNINDUSTRIE",
+            "button_link": "shopify://collections/knindustrie-catalogo-prodotti-piatti",
             "button_style_secondary": true
           }
         }
@@ -634,49 +634,25 @@
             "caption": "",
             "heading": "Verde e blu",
             "text": "<p>Una tavola raffinata che ama la tradizioni. Il blu, protagonista  del Natale non convenzionale, accostato al verde, il colore della speranza, creano un connubio delicato ed elegante.<br/></p>",
-            "button_label": "SCOPRILA",
-            "button_link": "shopify://products/kikkerland-7-in-1-gadget-pen-penna"
+            "button_label": "SCOPRI HYBRID - SELETTI",
+            "button_link": "shopify://collections/seletti-catalogo-prodotti-hybrid"
           }
         },
         "row_gQh3m9": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/brandani-set-degustazione-vino-4-pz-c-cofanetto-ba_1_521aeb2d-28a6-4266-84a5-0fc98869dfd7.webp",
-            "caption": "Brandani",
-            "heading": "Set Degustazione Vino 4 Pz Con Cofanetto",
-            "text": "<p>Il <a href=\"/products/brandani-set-degustazione-vino-4-pz-con-cofanetto\" title=\"Brandani Set Degustazione Vino 4 Pz Con Cofanetto\"><strong>Set Degustazione Vino 4 pezzi di Brandani</strong></a> è l’accessorio ideale per gli amanti del vino che vogliono servirlo con eleganza e precisione. Il set comprende un cavatappi professionale, un tappo versatore, un anello salvagoccia e un tagliacapsule, tutto custodito in un raffinato cofanetto in bamboo naturale, perfetto per aggiungere un tocco di stile alla tua collezione di accessori.<br/></p>",
-            "button_label": "SCOPRILO",
-            "button_link": "shopify://products/brandani-set-degustazione-vino-4-pz-con-cofanetto"
-          }
-        },
-        "row_RKJaYG": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/kikkerland-terracotta-seed-sprouters-germogliatori-di-semi-in-terracotta_3.webp",
-            "caption": "Kikkerland",
-            "heading": "Germogliatori di Semi in Terracotta",
-            "text": "<p>Il <a href=\"/products/kikkerland-seed-sprouters-germogliatori-di-semi-in-terracotta\" title=\"Kikkerland Seed Sprouters - Germogliatori di Semi in Terracotta\"><strong>Germogliatore in Terracotta di Kikkerland</strong> </a>è l’accessorio perfetto per gli appassionati di giardinaggio che vogliono coltivare germogli in modo naturale ed ecologico. Grazie alle proprietà traspiranti della terracotta, crea un ambiente ideale per la crescita dei semi, mantenendo il giusto livello di umidità con il minimo sforzo.<br/><br/></p>",
-            "button_label": "SCOPRILO",
-            "button_link": "shopify://products/kikkerland-seed-sprouters-germogliatori-di-semi-in-terracotta"
-          }
-        },
-        "row_gtPRNU": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/depressetti-disegnetti-piena-stampa.webp",
-            "caption": "Disegnetti Depressetti",
-            "heading": "Piena | Stampa",
-            "text": "<p>Per il regalo di Natale perfetto, fai il detective dei desideri: scopri quel dettaglio che, al primo sguardo, ti fa pensare a loro…<strong> e hai fatto centro.</strong><br/><br/>Con <a href=\"/collections/disegnetti-depressetti\" title=\"Disegnetti Depressetti\"><strong>Disegnetti Depressetti</strong></a> non puoi sbagliare!</p>",
-            "button_label": "SCOPRILA",
-            "button_link": "shopify://products/depressetti-disegnetti-piena-stampa"
+            "image": "shopify://shop_images/BrandaniBatuffoli.png",
+            "caption": "",
+            "heading": "Bianco e oro",
+            "text": "<p>Un accostamento che profuma di Natale, il luccichio dell’oro e il candore del bianco ci ricordano le neve e la magia che circonda questo periodo dell’anno.<br/></p>",
+            "button_label": "SCOPRI BATUFFOLI BRANDANI",
+            "button_link": "shopify://products/5163-brandani-batuffoli-set-tavolo-18-pezzi-in-porcellana"
           }
         }
       },
       "block_order": [
         "row_TLaB9L",
-        "row_gQh3m9",
-        "row_RKJaYG",
-        "row_gtPRNU"
+        "row_gQh3m9"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
@@ -695,57 +671,28 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_CtNKRh": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "uppercase",
-        "collection": "idee-regalo-economiche",
-        "products_to_show": 25,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "scheme-2",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
     "image_with_text_jEbVKr": {
       "type": "image-with-text",
       "blocks": {
         "heading_U9QXdV": {
           "type": "heading",
           "settings": {
-            "heading": "Regali di Natale per gli amanti dei viaggi",
+            "heading": "4. Dalla Vigilia al giorno di Natale: le regole da seguire",
             "heading_size": "h1"
           }
         },
         "text_hGBY3g": {
           "type": "text",
           "settings": {
-            "text": "<p>Se la tua persona speciale, un tuo famigliare o il tuo migliore amico è sempre all’avventura in giro per il mondo, non perderti le nostre idee regalo per Natale dedicate a gli amanti dei viaggi!<br/><br/></p>",
+            "text": "<h3>Piegare i tovagliori</h3><p>Se hai scelto un tovagliolo di notevole qualità e vuoi risaltarne le caratteristiche scegli una <strong>piega a forma di lettera</strong>. Nel caso in cui, tu non abbia previsto un poggia posate, utilizza una <strong>piega a tasca</strong>, in modo da dare al tuo tovagliolo il duplice utilizzo di portaposate.</p>",
             "text_style": "body"
           }
         },
         "button_hUJNnb": {
           "type": "button",
           "settings": {
-            "button_label": "IDEE REGALO PER VIAGGIATORI",
-            "button_link": "shopify://collections/tempo-libero",
+            "button_label": "PORTATOVAGLIOLI",
+            "button_link": "shopify://collections/cucina-e-tavola-portatovaglioli",
             "button_style_secondary": true
           }
         }
@@ -1203,7 +1150,6 @@
     "multirow_TGNpHm",
     "image_with_text_789DBP",
     "multirow_YEPYXg",
-    "featured_collection_CtNKRh",
     "image_with_text_jEbVKr",
     "featured_collection_xz6fcY",
     "image_with_text_c6HwnW",
