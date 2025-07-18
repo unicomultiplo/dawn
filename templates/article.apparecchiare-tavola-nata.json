@@ -684,7 +684,7 @@
         "text_hGBY3g": {
           "type": "text",
           "settings": {
-            "text": "<h3>Piegare i tovagliori</h3><p>Se hai scelto un tovagliolo di notevole qualità e vuoi risaltarne le caratteristiche scegli una <strong>piega a forma di lettera</strong>. Nel caso in cui, tu non abbia previsto un poggia posate, utilizza una <strong>piega a tasca</strong>, in modo da dare al tuo tovagliolo il duplice utilizzo di portaposate.</p>",
+            "text": "<h3>Piegare i tovaglioli</h3><p>Se hai scelto un tovagliolo di notevole qualità e vuoi risaltarne le caratteristiche scegli una <strong>piega a forma di lettera</strong>. Nel caso in cui, tu non abbia previsto un poggia posate, utilizza una <strong>piega a tasca</strong>, in modo da dare al tuo tovagliolo il duplice utilizzo di portaposate.</p>",
             "text_style": "body"
           }
         },
@@ -704,84 +704,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/ideeregalo-viaggio.jpg",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "featured_collection_xz6fcY": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "subtitle",
-        "collection": "tempo-libero",
-        "products_to_show": 25,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "scheme-2",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_c6HwnW": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_HYMXwe": {
-          "type": "heading",
-          "settings": {
-            "heading": "Regali di Natale per amanti della cucina",
-            "heading_size": "h1"
-          }
-        },
-        "text_jWbiWR": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Quanto è bella la passione per la cucina? Soprattutto quando noi siamo quelli che assaggiano! Per questo è importante assecondare sempre questa passione dei nostri cari, anche a Natale. </p><p>Scopri la nostra selezione di idee regalo per gli <strong>amanti della cucina</strong>.</p><p></p>",
-            "text_style": "body"
-          }
-        },
-        "button_EnkTAc": {
-          "type": "button",
-          "settings": {
-            "button_label": "IDEE REGALO PER ASPIRANTI CHEF",
-            "button_link": "shopify://collections/cucina-e-tavola",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_HYMXwe",
-        "text_jWbiWR",
-        "button_EnkTAc"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/ideeregalo-cucina.jpg",
+        "image": "shopify://shop_images/Piegare-i-tovaglioli.png",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -802,45 +725,45 @@
         "row_8dfDDP": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/brandani-grill-piastra-grill-inox.jpg",
-            "caption": "Brandani",
-            "heading": "Grill - Piastra grill inox",
-            "text": "<p>Una <strong>piastra grill </strong>apribile con doppia piastra antiaderente che garantisce il massimo delle prestazioni. Questa piastra firmata <strong>Brandani </strong>non disperde calore e mantiene una temperatura costante senza produzione di fumo. Un’idea utile e di design! <br/></p>",
-            "button_label": "SCOPRILO",
-            "button_link": "shopify://products/4511-brandani-grill-piastra-grill-inox"
+            "image": "shopify://shop_images/Miho-Uccellino-Portatovaglioli.jpg",
+            "caption": "",
+            "heading": "Tovaglioli e dettagli",
+            "text": "<p>Molto in voga per <strong>apparecchiare la tavola la sera di Natale </strong>è l’utilizzo del <strong>nodo</strong>, in questo caso puoi sbizzarrirti inserendo insieme alle tue posate ramoscelli di abete e decori che impreziosiscono la tua mise ne place. </p>",
+            "button_label": "PORTATOVAGLIOLI",
+            "button_link": "shopify://collections/cucina-e-tavola-portatovaglioli"
           }
         },
         "row_4pzR4k": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-gourmet-pizza-teglia-piatto-pizza-in-terracotta-1.jpg",
-            "caption": "Knindustrie",
-            "heading": "Gourmet Pizza – Love Pizza",
-            "text": "<p>Gli amanti della cucina hanno sempre bisogno di un nuovo accessorio, a questo proposito non possiamo non consigliarti <a href=\"/products/2951-knindustrie-gourmet-pizza-teglia-piatto-pizza-in-terracotta\" title=\"KnIndustrie Gourmet Pizza Teglia Piatto Pizza in Terracotta\"><strong>Gourmet Pizza</strong></a>, il piatto in terracotta firmato Knindustrie per sfoggiare una pizza fragrante e croccante!<br/></p>",
-            "button_label": "SCOPRILO",
-            "button_link": "shopify://products/2951-knindustrie-gourmet-pizza-teglia-piatto-pizza-in-terracotta"
+            "image": "shopify://shop_images/Brandani-sottopiatti_2.jpg",
+            "caption": "",
+            "heading": "Scegliere i piatti",
+            "text": "<p>Vediamo insieme la tipologia di piatti a cui non puoi rinunciare; un <a href=\"/collections/cucina-e-tavola-tovaglie-e-tovagliette\" title=\"Tovaglie, Tovagliette e Sottopiatti\"><strong>sottopiatto </strong></a>per ogni commensale, il <strong>piatto piano </strong>e il piatto da antipasto. Un piatto fondo per i tradizionali tortellini in brodo, e, da buon galateo, il piattino per pane.<br/></p>",
+            "button_label": "SERVIZI PIATTI",
+            "button_link": "shopify://collections/cucina-e-tavola-piatti"
           }
         },
         "row_h6kTyg": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/brandani-casseruola-cocotte-rossa-ghisa-smaltata-4-lt_chqeqcme6cbro4b7-547x445.jpg",
-            "caption": "Brandani",
-            "heading": "Cocotte Casseruola rossa in Ghisa",
-            "text": "<p>Se l’idea è quella di fare un super regalo, ti consigliamo la<a href=\"/products/brandani-casseruola-cocotte-rossa-ghisa-smaltata-3000\" title=\"Brandani Casseruola Cocotte Rossa Ghisa Smaltata 3 L\"> <strong>casseruola cocotte rossa Brandani</strong></a>, in ghisa smaltata, è l’ideale per tutte le preparazioni di piatti ed è particolarmente consigliata per lunghe cotture a fuoco lento.<br/><br/></p>",
-            "button_label": "SCOPRILA",
-            "button_link": "shopify://products/3661-knindustrie-lady-anne-caffettiera-black"
+            "image": "shopify://shop_images/KnIndustrie-bicchieri.jpg",
+            "caption": "",
+            "heading": "I bicchieri più adatti",
+            "text": "<p>Le tipologie di bicchieri che non possono mancare sulla tavola di Natale: <a href=\"/collections/cucina-e-tavola-bicchieri-e-calici-tumbler\" title=\"Tumbler\"><strong>tumbler</strong> </a>alti e bassi per acqua e bibite, <a href=\"/collections/cucina-e-tavola-bicchieri-e-calici\" title=\"Bicchieri e Calici\"><strong>calici da vino</strong></a> bianco e/o rosso, a seconda della tipologia di vino servita, le flute per gli spumanti secchi o la coppa per i vini spumanti dolci. </p><p>Immancabili sulla tavola di Natale i bicchieri per liquori (come si fa a digerire senza?) e i <a href=\"/collections/knindustrie-catalogo-prodotti-experimental-cocktail\" title=\"Experimental Cocktail by KnIndustrie\"><strong>bicchieri per cocktail</strong></a>, dallo short drink al long drink… a Natale puoi!</p>",
+            "button_label": "SCOPRILI",
+            "button_link": "shopify://collections/knindustrie-catalogo-prodotti-experimental-cocktail"
           }
         },
         "row_xEr3te": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-beyond-basic-the-saucepan-casseruola-giallo_f5609e6d-4575-42e2-a574-8adcb37033b2.png",
-            "caption": "Knindustrie",
-            "heading": "The Saucepan – Casseruola gialla",
-            "text": "<p>Oltre alla Cocotte rossa ti diamo anche quest’altra opzione:<a href=\"/products/2949-knindustrie-beyond-basic-the-saucepan-casseruola-giallo\" title=\"KnIndustrie Beyond Basic The Saucepan Casseruola\"><strong> la casseruola Saucepan </strong></a>di colore giallo firmata <strong>Knindustrie</strong>. Questa pentola da cucina ha un design molto raffinato e funzionale, ideale per cucinare succulenti pietanze da servire a tavola!<br/><br/></p>",
-            "button_label": "SCOPRILA",
-            "button_link": "shopify://products/2949-knindustrie-beyond-basic-the-saucepan-casseruola-giallo"
+            "image": "shopify://shop_images/WhatsApp-Image-2023-12-06-at-08.32.45-1-e1701860548965.jpg",
+            "caption": "",
+            "heading": "Piatti a servire",
+            "text": "<p>Da collocare al centro del tavolo i piatti di servizio, valuta l’uso di piatti girevoli, molto pratici perchè permettono ai commensali di servirsi con facilità, ed <a href=\"/collections/cucina-e-tavola-centrotavola-e-alzate\" title=\"Centrotavola e Alzate\"><strong>eleganti alzate</strong></a><strong> </strong>con cui servire le portate a decorare la tavola. Non dimenticare i <a href=\"/collections/cucina-e-tavola-piatti-frutta-e-dessert\" title=\"Piatti Dessert e da Frutta\"><strong>piatti per dolce e frutta</strong></a>, indispensabili a Natale!</p>",
+            "button_label": "SCOPRILI",
+            "button_link": "shopify://collections/cucina-e-tavola-piatti"
           }
         }
       },
@@ -1151,8 +1074,6 @@
     "image_with_text_789DBP",
     "multirow_YEPYXg",
     "image_with_text_jEbVKr",
-    "featured_collection_xz6fcY",
-    "image_with_text_c6HwnW",
     "multirow_NRXPfV",
     "image_with_text_nRTgzR",
     "multirow_wYNF8Q",
