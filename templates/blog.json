@@ -269,63 +269,6 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_3BEnFA": {
-      "type": "image-with-text",
-      "blocks": {
-        "caption_D74NpT": {
-          "type": "caption",
-          "settings": {
-            "caption": "UNICO&MULTIPLO",
-            "text_style": "subtitle",
-            "text_size": "large"
-          }
-        },
-        "heading_WUjiUn": {
-          "type": "heading",
-          "settings": {
-            "heading": "Il tuo stile, la nostra passione.",
-            "heading_size": "h1"
-          }
-        },
-        "text_Tp6eCm": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Unico&Multiplo è idee regalo, oggetti, articoli per esprimere il tuo stile.</p><p>Dagli accessori per la tavola e la cucina alle proposte per il tempo libero, dalle lampade all’arredo giardino: rendi concrete le tue idee!</p>",
-            "text_style": "body"
-          }
-        },
-        "button_cYPbtg": {
-          "type": "button",
-          "settings": {
-            "button_label": "Vieni a trovarci →",
-            "button_link": "https://www.google.com/maps/place/Unico+%26+Multiplo/@43.308747,13.729179,17z/data=!3m1!4b1!4m6!3m5!1s0x13326d80a9120e8b:0xc646791d79cd6480!8m2!3d43.308747!4d13.729179!16s%2Fg%2F11c1wvgp8g?entry=ttu&g_ep=EgoyMDI0MDkxNS4wIKXMDSoASAFQAw%3D%3D",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "caption_D74NpT",
-        "heading_WUjiUn",
-        "text_Tp6eCm",
-        "button_cYPbtg"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/unicoemultiplo-civitanovamarche-1024x424_1.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "right",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "scheme-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
     "image_with_text_LW7ykr": {
       "type": "image-with-text",
       "blocks": {
@@ -383,6 +326,86 @@
         "padding_bottom": 36
       }
     },
+    "featured_blog_JGGm3C": {
+      "type": "featured-blog",
+      "custom_css": [
+        ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
+        "h3.card__heading {font-size: 16px;}",
+        "p.article-card__excerpt {font-size: 12px;}",
+        "h1.title--primary {display: none !important;}"
+      ],
+      "settings": {
+        "heading": "Godersi l'Aria Aperta",
+        "heading_size": "h2",
+        "blog": "godersi-laria-aperta",
+        "post_limit": 4,
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_3BEnFA": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_D74NpT": {
+          "type": "caption",
+          "settings": {
+            "caption": "UNICO&MULTIPLO",
+            "text_style": "subtitle",
+            "text_size": "large"
+          }
+        },
+        "heading_WUjiUn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Il tuo stile, la nostra passione.",
+            "heading_size": "h1"
+          }
+        },
+        "text_Tp6eCm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unico&Multiplo è idee regalo, oggetti, articoli per esprimere il tuo stile.</p><p>Dagli accessori per la tavola e la cucina alle proposte per il tempo libero, dalle lampade all’arredo giardino: rendi concrete le tue idee!</p>",
+            "text_style": "body"
+          }
+        },
+        "button_cYPbtg": {
+          "type": "button",
+          "settings": {
+            "button_label": "Vieni a trovarci →",
+            "button_link": "https://www.google.com/maps/place/Unico+%26+Multiplo/@43.308747,13.729179,17z/data=!3m1!4b1!4m6!3m5!1s0x13326d80a9120e8b:0xc646791d79cd6480!8m2!3d43.308747!4d13.729179!16s%2Fg%2F11c1wvgp8g?entry=ttu&g_ep=EgoyMDI0MDkxNS4wIKXMDSoASAFQAw%3D%3D",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "caption_D74NpT",
+        "heading_WUjiUn",
+        "text_Tp6eCm",
+        "button_cYPbtg"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/unicoemultiplo-civitanovamarche-1024x424_1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "right",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
     "newsletter_fTHXRw": {
       "type": "newsletter",
       "blocks": {
@@ -427,8 +450,9 @@
     "collection_list_pnJR63",
     "featured_blog_KyiK6b",
     "featured_blog_abHrVD",
-    "image_with_text_3BEnFA",
     "image_with_text_LW7ykr",
+    "featured_blog_JGGm3C",
+    "image_with_text_3BEnFA",
     "newsletter_fTHXRw"
   ]
 }
