@@ -61,7 +61,8 @@
         ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
         "h3.card__heading {font-size: 16px;}",
         "p.article-card__excerpt {font-size: 12px;}",
-        "h1.title--primary {display: none !important;}"
+        "h1.title--primary {display: none !important;}",
+        "a#ViewAll-template--22267420573961__featured_blog_bnjUDn {margin-top: 0 !important;}"
       ],
       "settings": {
         "heading": "Apparecchiare con Stile",
@@ -84,7 +85,8 @@
         ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
         "h3.card__heading {font-size: 16px;}",
         "p.article-card__excerpt {font-size: 12px;}",
-        "h1.title--primary {display: none !important;}"
+        "h1.title--primary {display: none !important;}",
+        "a#ViewAll-template--22267420573961__featured_blog_bnjUDn {margin-top: 0 !important;}"
       ],
       "settings": {
         "heading": "Cucina che Passione",
