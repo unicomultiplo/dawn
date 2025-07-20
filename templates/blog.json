@@ -75,7 +75,7 @@
         "show_author": false,
         "show_view_all": true,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "featured_blog_heaLnh": {
