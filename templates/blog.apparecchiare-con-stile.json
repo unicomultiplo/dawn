@@ -15,7 +15,7 @@
         "heading_eAr7dK": {
           "type": "heading",
           "settings": {
-            "heading": "APPARECCHIARE CON STILE",
+            "heading": "Apparecchiare con Stile",
             "heading_size": "h1"
           }
         },
@@ -29,6 +29,9 @@
       "block_order": [
         "heading_eAr7dK",
         "text_jDNphd"
+      ],
+      "custom_css": [
+        ".rich-text__blocks.left {width: 100% !important; max-width: 85% !important;}"
       ],
       "settings": {
         "desktop_content_position": "left",
