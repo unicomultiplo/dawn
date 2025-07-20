@@ -71,7 +71,7 @@
         "columns_desktop": 4,
         "color_scheme": "",
         "show_image": true,
-        "show_date": true,
+        "show_date": false,
         "show_author": false,
         "show_view_all": true,
         "padding_top": 36,
@@ -225,15 +225,21 @@
     },
     "featured_blog_KyiK6b": {
       "type": "featured-blog",
+      "custom_css": [
+        ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
+        "h3.card__heading {font-size: 16px;}",
+        "p.article-card__excerpt {font-size: 12px;}",
+        "h1.title--primary {display: none !important;}"
+      ],
       "settings": {
-        "heading": "Cucina che Passione",
+        "heading": "Regalare per Stupire",
         "heading_size": "h2",
-        "blog": "cucina-che-passione",
+        "blog": "regalare-per-stupire",
         "post_limit": 4,
         "columns_desktop": 4,
         "color_scheme": "",
         "show_image": true,
-        "show_date": true,
+        "show_date": false,
         "show_author": false,
         "show_view_all": true,
         "padding_top": 36,
