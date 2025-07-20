@@ -55,79 +55,17 @@
         "show_text_below": true
       }
     },
-    "newsletter_fTHXRw": {
-      "type": "newsletter",
-      "blocks": {
-        "heading_BkjmeA": {
-          "type": "heading",
-          "settings": {
-            "heading": "ISCRIVITI ALLA COMMUNITY U&M E ACCEDI A UN MONDO DI VANTAGGI!",
-            "heading_size": "h2"
-          }
-        },
-        "paragraph_mdK74k": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Consigli, idee e promozioni sempre a portata di click. <br/>Iscriviti Subito!</p><p></p>"
-          }
-        },
-        "email_form_6GweTE": {
-          "type": "email_form",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "heading_BkjmeA",
-        "paragraph_mdK74k",
-        "email_form_6GweTE"
-      ],
-      "name": "t:sections.newsletter.presets.name",
-      "settings": {
-        "color_scheme": "scheme-2",
-        "full_width": false,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "featured_blog_WP7X8m": {
-      "type": "featured-blog",
-      "settings": {
-        "heading": "Cucina che Passione",
-        "heading_size": "h1",
-        "blog": "cucina-che-passione",
-        "post_limit": 4,
-        "columns_desktop": 4,
-        "color_scheme": "",
-        "show_image": true,
-        "show_date": true,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "featured_blog_pUYENw": {
-      "type": "featured-blog",
-      "settings": {
-        "heading": "Godersi l'Aria Aperta",
-        "heading_size": "h1",
-        "blog": "godersi-laria-aperta",
-        "post_limit": 4,
-        "columns_desktop": 4,
-        "color_scheme": "",
-        "show_image": true,
-        "show_date": true,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "featured_blog_bnjUDn": {
       "type": "featured-blog",
+      "custom_css": [
+        ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
+        "h3.card__heading {font-size: 16px;}",
+        "p.article-card__excerpt {font-size: 12px;}",
+        "h1.title--primary {display: none !important;}"
+      ],
       "settings": {
-        "heading": "Apparecchiare per stupire",
-        "heading_size": "h1",
+        "heading": "Apparecchiare con Stile",
+        "heading_size": "h2",
         "blog": "apparecchiare-con-stile",
         "post_limit": 4,
         "columns_desktop": 4,
@@ -140,13 +78,18 @@
         "padding_bottom": 36
       }
     },
-    "featured_blog_AjaFzB": {
+    "featured_blog_heaLnh": {
       "type": "featured-blog",
-      "name": "t:sections.featured-blog.presets.name",
+      "custom_css": [
+        ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
+        "h3.card__heading {font-size: 16px;}",
+        "p.article-card__excerpt {font-size: 12px;}",
+        "h1.title--primary {display: none !important;}"
+      ],
       "settings": {
-        "heading": "Designer d'Eccezione",
-        "heading_size": "h1",
-        "blog": "designer-deccezione",
+        "heading": "Cucina che Passione",
+        "heading_size": "h2",
+        "blog": "cucina-che-passione",
         "post_limit": 4,
         "columns_desktop": 4,
         "color_scheme": "",
@@ -186,7 +129,7 @@
         "button_pxMX7m": {
           "type": "button",
           "settings": {
-            "button_label": "Scoprili tutti!",
+            "button_label": "Scoprili tutti →",
             "button_link": "shopify://pages/i-nostri-brand",
             "button_style_secondary": false
           }
@@ -305,7 +248,7 @@
         "button_cYPbtg": {
           "type": "button",
           "settings": {
-            "button_label": "Vieni a trovarci ->",
+            "button_label": "Vieni a trovarci →",
             "button_link": "https://www.google.com/maps/place/Unico+%26+Multiplo/@43.308747,13.729179,17z/data=!3m1!4b1!4m6!3m5!1s0x13326d80a9120e8b:0xc646791d79cd6480!8m2!3d43.308747!4d13.729179!16s%2Fg%2F11c1wvgp8g?entry=ttu&g_ep=EgoyMDI0MDkxNS4wIKXMDSoASAFQAw%3D%3D",
             "button_style_secondary": false
           }
@@ -390,19 +333,51 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "newsletter_fTHXRw": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_BkjmeA": {
+          "type": "heading",
+          "settings": {
+            "heading": "ISCRIVITI ALLA COMMUNITY U&M E ACCEDI A UN MONDO DI VANTAGGI!",
+            "heading_size": "h2"
+          }
+        },
+        "paragraph_mdK74k": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Consigli, idee e promozioni sempre a portata di click. <br/>Iscriviti Subito!</p><p></p>"
+          }
+        },
+        "email_form_6GweTE": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_BkjmeA",
+        "paragraph_mdK74k",
+        "email_form_6GweTE"
+      ],
+      "name": "t:sections.newsletter.presets.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "image_banner_dPbXBj",
-    "newsletter_fTHXRw",
-    "featured_blog_WP7X8m",
-    "featured_blog_pUYENw",
     "featured_blog_bnjUDn",
-    "featured_blog_AjaFzB",
+    "featured_blog_heaLnh",
     "image_with_text_8BeU3P",
     "collection_list_pnJR63",
     "image_with_text_3BEnFA",
-    "image_with_text_LW7ykr"
+    "image_with_text_LW7ykr",
+    "newsletter_fTHXRw"
   ]
 }
