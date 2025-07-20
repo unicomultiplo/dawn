@@ -1,0 +1,102 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "rich_text_cgyUWg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_eAr7dK": {
+          "type": "heading",
+          "settings": {
+            "heading": "Apparecchiare con Stile",
+            "heading_size": "h1"
+          }
+        },
+        "text_jDNphd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Proposte per apparecchiare con eleganza, ironia o semplicità: a te la scelta. Con Seletti, KnIndustrie, Bitossi e molto altro. Apparecchia per le feste, colora la vita di tutti i giorni… <strong>sedersi a tavola è sempre un’occasione speciale</strong>, vivila con stile!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_eAr7dK",
+        "text_jDNphd"
+      ],
+      "custom_css": [
+        ".rich-text__blocks.left {width: 100% !important; max-width: 85% !important;}"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "scheme-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "main": {
+      "type": "main-blog",
+      "custom_css": [
+        ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
+        "h3.card__heading {font-size: 16px;}",
+        "p.article-card__excerpt {font-size: 12px;}",
+        "h1.title--primary {display: none !important;}"
+      ],
+      "settings": {
+        "layout": "grid",
+        "show_image": true,
+        "image_height": "small",
+        "show_date": true,
+        "show_author": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "newsletter_G9a3Mi": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_gpXrHG": {
+          "type": "heading",
+          "settings": {
+            "heading": "ISCRIVITI ALLA COMMUNITY U&M E ACCEDI A UN MONDO DI VANTAGGI!",
+            "heading_size": "h2"
+          }
+        },
+        "paragraph_XANcxm": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Consigli, idee e promozioni sempre a portata di click. <br/>Iscriviti Subito!</p><p></p>"
+          }
+        },
+        "email_form_9W6Unk": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_gpXrHG",
+        "paragraph_XANcxm",
+        "email_form_9W6Unk"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "rich_text_cgyUWg",
+    "main",
+    "newsletter_G9a3Mi"
+  ]
+}
