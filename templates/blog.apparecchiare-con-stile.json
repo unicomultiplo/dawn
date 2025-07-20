@@ -11,8 +11,11 @@
   "sections": {
     "main": {
       "type": "main-blog",
-      "disabled": true,
-      "custom_css": [],
+      "custom_css": [
+        ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
+        "h3.card__heading {font-size: 16px;}",
+        "p.article-card__excerpt {font-size: 12px;}"
+      ],
       "settings": {
         "layout": "grid",
         "show_image": true,
@@ -53,23 +56,6 @@
         "padding_bottom": 52
       }
     },
-    "featured_blog_WP7X8m": {
-      "type": "featured-blog",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "blog": "apparecchiare-con-stile",
-        "post_limit": 4,
-        "columns_desktop": 4,
-        "color_scheme": "",
-        "show_image": true,
-        "show_date": true,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "newsletter_G9a3Mi": {
       "type": "newsletter",
       "blocks": {
@@ -102,12 +88,35 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "featured_blog_aB3dMa": {
+      "type": "featured-blog",
+      "custom_css": [
+        ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
+        "h3.card__heading {font-size: 16px;}",
+        "p.article-card__excerpt {font-size: 12px;}"
+      ],
+      "name": "t:sections.featured-blog.presets.name",
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "blog": "apparecchiare-con-stile",
+        "post_limit": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "rich_text_cgyUWg",
-    "featured_blog_WP7X8m",
+    "featured_blog_aB3dMa",
     "newsletter_G9a3Mi"
   ]
 }

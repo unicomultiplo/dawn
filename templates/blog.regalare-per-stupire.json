@@ -57,7 +57,7 @@
       "type": "featured-blog",
       "settings": {
         "heading": "",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "blog": "regalare-per-stupire",
         "post_limit": 4,
         "columns_desktop": 3,
