@@ -246,6 +246,29 @@
         "padding_bottom": 36
       }
     },
+    "featured_blog_abHrVD": {
+      "type": "featured-blog",
+      "custom_css": [
+        ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
+        "h3.card__heading {font-size: 16px;}",
+        "p.article-card__excerpt {font-size: 12px;}",
+        "h1.title--primary {display: none !important;}"
+      ],
+      "settings": {
+        "heading": "Designer d'Eccezione",
+        "heading_size": "h2",
+        "blog": "designer-deccezione",
+        "post_limit": 4,
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_3BEnFA": {
       "type": "image-with-text",
       "blocks": {
@@ -403,6 +426,7 @@
     "image_with_text_8BeU3P",
     "collection_list_pnJR63",
     "featured_blog_KyiK6b",
+    "featured_blog_abHrVD",
     "image_with_text_3BEnFA",
     "image_with_text_LW7ykr",
     "newsletter_fTHXRw"
