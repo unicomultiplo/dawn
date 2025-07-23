@@ -9,28 +9,22 @@
  */
 {
   "sections": {
-    "main": {
-      "type": "main-article",
-      "blocks": {
-        "featured_image": {
-          "type": "featured_image",
-          "settings": {
-            "image_height": "medium"
-          }
-        },
-        "title": {
-          "type": "title",
-          "settings": {
-            "blog_show_date": true,
-            "blog_show_author": false
-          }
-        }
-      },
-      "block_order": [
-        "featured_image",
-        "title"
-      ],
-      "settings": {}
+    "image_banner_PAqJha": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/come-apparecchiare-la-tavola_1.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     },
     "multicolumn_WpyCnX": {
       "type": "multicolumn",
@@ -60,7 +54,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "",
+        "title": "Come Apparecchiare la Tavola di Natale? Idee e Consigli per un Look Inconfondibile",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -888,10 +882,35 @@
       "settings": {
         "line_thickness": 1
       }
+    },
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "disabled": true,
+          "settings": {
+            "image_height": "medium"
+          }
+        },
+        "title": {
+          "type": "title",
+          "disabled": true,
+          "settings": {
+            "blog_show_date": true,
+            "blog_show_author": false
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title"
+      ],
+      "settings": {}
     }
   },
   "order": [
-    "main",
+    "image_banner_PAqJha",
     "multicolumn_WpyCnX",
     "multicolumn_w4WjcX",
     "multicolumn_489QHn",
@@ -905,6 +924,7 @@
     "image_with_text_jEbVKr",
     "multirow_NRXPfV",
     "multicolumn_4gW44i",
-    "separator_nbNJQV"
+    "separator_nbNJQV",
+    "main"
   ]
 }
