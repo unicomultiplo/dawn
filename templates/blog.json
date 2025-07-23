@@ -26,6 +26,13 @@
     "image_banner_dPbXBj": {
       "type": "image-banner",
       "blocks": {
+        "heading_e3yFHh": {
+          "type": "heading",
+          "settings": {
+            "heading": "Il Blog U&M",
+            "heading_size": "h1"
+          }
+        },
         "text_wFjeXy": {
           "type": "text",
           "settings": {
@@ -35,6 +42,7 @@
         }
       },
       "block_order": [
+        "heading_e3yFHh",
         "text_wFjeXy"
       ],
       "custom_css": [
