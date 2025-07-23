@@ -9,28 +9,22 @@
  */
 {
   "sections": {
-    "main": {
-      "type": "main-article",
-      "blocks": {
-        "featured_image": {
-          "type": "featured_image",
-          "settings": {
-            "image_height": "adapt"
-          }
-        },
-        "title": {
-          "type": "title",
-          "settings": {
-            "blog_show_date": true,
-            "blog_show_author": false
-          }
-        }
-      },
-      "block_order": [
-        "featured_image",
-        "title"
-      ],
-      "settings": {}
+    "image_banner_qyhApT": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/cosa-regalare-p-2er-natale-alla-fidanzata-alla-moglie-o-unamica_1.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     },
     "multicolumn_WpyCnX": {
       "type": "multicolumn",
@@ -60,7 +54,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "",
+        "title": "Cosa Regalare per Natale alla Fidanzata, alla Moglie o un'Amica",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -812,16 +806,26 @@
         "show_text_below": true
       }
     },
-    "separator_nbNJQV": {
-      "type": "separator",
-      "name": "Separator Line",
-      "settings": {
-        "line_thickness": 1
-      }
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "disabled": true,
+          "settings": {
+            "blog_show_date": true,
+            "blog_show_author": false
+          }
+        }
+      },
+      "block_order": [
+        "title"
+      ],
+      "settings": {}
     }
   },
   "order": [
-    "main",
+    "image_banner_qyhApT",
     "multicolumn_WpyCnX",
     "multicolumn_qNaQGY",
     "image_with_text_FqhcGf",
@@ -837,6 +841,6 @@
     "image_with_text_jEbVKr",
     "collection_list_tCBgaE",
     "image_banner_CKVzFq",
-    "separator_nbNJQV"
+    "main"
   ]
 }
