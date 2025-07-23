@@ -66,20 +66,14 @@
         "heading_bjaX3J": {
           "type": "heading",
           "settings": {
-            "heading": "Parla del tuo brand",
+            "heading": "",
             "heading_size": "h1"
-          }
-        },
-        "text_k9aUcf": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Condividi informazioni sul tuo brand con i clienti. Descrivi un prodotto, condividi gli annunci o dai il benvenuto ai clienti nel tuo negozio.</p>"
           }
         },
         "button_NtFPeM": {
           "type": "button",
           "settings": {
-            "button_label": "Il Nostro Blog",
+            "button_label": "Il Blog U&M",
             "button_link": "shopify://blogs/blog",
             "button_style_secondary": false,
             "button_label_2": "",
@@ -90,7 +84,6 @@
       },
       "block_order": [
         "heading_bjaX3J",
-        "text_k9aUcf",
         "button_NtFPeM"
       ],
       "name": "t:sections.rich-text.presets.name",
