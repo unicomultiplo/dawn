@@ -208,9 +208,7 @@
         "featured_collection_mPpNdg",
         "featured_collection_MDC4Wd"
       ],
-      "custom_css": [
-        ".card__content {display: none !important;}"
-      ],
+      "custom_css": [],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
@@ -218,7 +216,7 @@
         "image_ratio": "square",
         "columns_desktop": 6,
         "color_scheme": "",
-        "show_view_all": true,
+        "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
