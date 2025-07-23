@@ -325,7 +325,7 @@
         "text_qqhdBk": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Oro</strong>,<strong>bianco </strong>e <strong>rosso </strong>per una magica tavola di Natale. Cosa vuoi di più? Scegli la linea <strong>Tempo di festa </strong>di Brandani per una <em>mise en place </em>elegante e raffinata! Grazie al suo design dalle forme più ricercate che rimandano alla rappresentazione dell’alberello di natale, della campana e del vischio potrete decorare la tavola come più vi piace regalando un’atmosfera di gioia e di allegria per grandi e piccini.</p>"
+            "text": "<p><strong>Oro</strong>,<strong>bianco </strong>e <strong>rosso </strong>per una magica tavola di Natale. Cosa vuoi di più? Scegli la linea <a href=\"/collections/brandani-tempo-di-festa\" title=\"Tempo Di Festa Brandani\"><strong>Tempo di festa</strong></a><strong> </strong>di Brandani per una <em>mise en place </em>elegante e raffinata! Grazie al suo design dalle forme più ricercate che rimandano alla rappresentazione dell’alberello di natale, della campana e del vischio potrete decorare la tavola come più vi piace regalando un’atmosfera di gioia e di allegria per grandi e piccini.</p>"
           }
         },
         "button_3rkpBm": {
@@ -421,7 +421,7 @@
         "text_KmaG7L": {
           "type": "text",
           "settings": {
-            "text": "<p>Il mondo incantato degli Schiaccianoci: un’atmosfera magica dove la dolcezza della tradizione incontra la vivacità di colorati Schiaccianoci. Piatti decorati, alberi scintillanti e stelle luminose evocano tutto il fascino del Natale. Gioiosi addobbi e tonalità brillanti rendono ogni momento di festa ancora più speciale.</p>"
+            "text": "<p>Il mondo incantato degli <a href=\"/collections/brandani-schiaccianoci\" title=\"Lo Schiaccianoci Brandani\"><strong>Schiaccianoci</strong></a>: un’atmosfera magica dove la dolcezza della tradizione incontra la vivacità di colorati Schiaccianoci. Piatti decorati, alberi scintillanti e stelle luminose evocano tutto il fascino del Natale. Gioiosi addobbi e tonalità brillanti rendono ogni momento di festa ancora più speciale.</p>"
           }
         },
         "button_mTrf7x": {
@@ -517,7 +517,7 @@
         "text_iaBnRJ": {
           "type": "text",
           "settings": {
-            "text": "<p>Dettagli dorati e motivi geometrici si uniscono al vivace rosso natalizio, creando un’atmosfera di pura eleganza. La collezione Golden Eye dona magia e raffinatezza alla tavola, lasciando i tuoi ospiti incantati. Ogni occasione si trasforma in un momento unico da vivere e condividere.</p>"
+            "text": "<p>Dettagli dorati e motivi geometrici si uniscono al vivace rosso natalizio, creando un’atmosfera di pura eleganza. La collezione <a href=\"/collections/golden-eye-brandani\" title=\"Golden Eye Brandani\"><strong>Golden Eye</strong></a> dona magia e raffinatezza alla tavola, lasciando i tuoi ospiti incantati. Ogni occasione si trasforma in un momento unico da vivere e condividere.</p>"
           }
         },
         "button_8g4YzA": {
@@ -641,7 +641,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Con la linea <strong>accessori per la tavola </strong>è subito Natale! Sottopiatti e bicchieri decorati minuziosamente con i colori caratteristici di questa festa. Goditi questo dolce Natale, ci pensa Brandani ad illuminare la tua tavola!</p>",
+            "text": "<p>Con la linea <a href=\"/collections/cucina-e-tavola\" title=\"CUCINA & TAVOLA\"><strong>accessori per la tavola</strong></a><strong> </strong>è subito Natale! Sottopiatti e bicchieri decorati minuziosamente con i colori caratteristici di questa festa. Goditi questo dolce Natale, ci pensa Brandani ad illuminare la tua tavola!</p>",
             "link_label": "",
             "link": ""
           }
@@ -808,7 +808,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://products/brandani-barattolo-pois-rosso-vetro-grande"
+            "link": ""
           }
         },
         "column_kW6Kqn": {
@@ -818,7 +818,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://products/brandani-tappo-christmas-decori-e-colori-assortiti"
+            "link": ""
           }
         },
         "column_tNDAtH": {
@@ -828,7 +828,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://products/brandani-pirofila-bianca-con-manici-stoneware"
+            "link": ""
           }
         },
         "column_C8q6Pk": {
@@ -838,7 +838,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://products/brandani-casseruola-cocotte-ovale-verde-ghisa-5-lt"
+            "link": ""
           }
         },
         "column_LnkrLh": {
@@ -848,7 +848,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/sottopiatti-brandani"
+            "link": ""
           }
         }
       },
