@@ -63,6 +63,12 @@
     "rich_text_kz6rye": {
       "type": "rich-text",
       "blocks": {
+        "text_6EzQhr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unico & Multiplo è <strong>molto, molto più di un e-shop</strong>.<br/>In questo blog trovi approfondimenti, storie e curiosità sui prodotti e sui designer più affermati.<br/><br/></p>"
+          }
+        },
         "button_VQ99WT": {
           "type": "button",
           "settings": {
@@ -76,6 +82,7 @@
         }
       },
       "block_order": [
+        "text_6EzQhr",
         "button_VQ99WT"
       ],
       "name": "t:sections.rich-text.presets.name",
