@@ -245,7 +245,7 @@
         "show_date": false,
         "show_author": false,
         "show_view_all": true,
-        "padding_top": 16,
+        "padding_top": 36,
         "padding_bottom": 0
       }
     },
@@ -350,7 +350,7 @@
         "show_date": false,
         "show_author": false,
         "show_view_all": true,
-        "padding_top": 16,
+        "padding_top": 36,
         "padding_bottom": 0
       }
     },
