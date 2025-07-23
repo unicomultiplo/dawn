@@ -9,28 +9,22 @@
  */
 {
   "sections": {
-    "main": {
-      "type": "main-article",
-      "blocks": {
-        "featured_image": {
-          "type": "featured_image",
-          "settings": {
-            "image_height": "adapt"
-          }
-        },
-        "title": {
-          "type": "title",
-          "settings": {
-            "blog_show_date": true,
-            "blog_show_author": false
-          }
-        }
-      },
-      "block_order": [
-        "featured_image",
-        "title"
-      ],
-      "settings": {}
+    "image_banner_rrBiLJ": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Brandani-set-piatti-lo-schiaccianoci-2.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     },
     "multicolumn_EBaRrN": {
       "type": "multicolumn",
@@ -71,7 +65,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "",
+        "title": "La Magia della Tavola di Natale firmata Brandani",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -883,10 +877,27 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "disabled": true,
+          "settings": {
+            "blog_show_date": true,
+            "blog_show_author": false
+          }
+        }
+      },
+      "block_order": [
+        "title"
+      ],
+      "settings": {}
     }
   },
   "order": [
-    "main",
+    "image_banner_rrBiLJ",
     "multicolumn_EBaRrN",
     "multicolumn_8LjiAc",
     "multicolumn_BR6Mpx",
@@ -906,6 +917,7 @@
     "multicolumn_Ydt4M8",
     "multicolumn_xhzyjp",
     "multicolumn_f8e7Wy",
-    "multicolumn_r6wY6r"
+    "multicolumn_r6wY6r",
+    "main"
   ]
 }
