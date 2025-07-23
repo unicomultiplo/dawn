@@ -758,10 +758,10 @@
         "column_RdhH3E": {
           "type": "column",
           "settings": {
-            "title": "Dai un'occhiata a tutti i prodotti che abbiamo riservato a te!",
+            "title": "",
             "text": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "Dai un'occhiata a tutti i prodotti che abbiamo riservato a te!",
+            "link": "shopify://collections/brandani"
           }
         }
       },
