@@ -70,6 +70,12 @@
             "heading_size": "h1"
           }
         },
+        "text_adnDjK": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unico & Multiplo è <strong>molto, molto più di un e-shop</strong>.<br/>In questo blog trovi approfondimenti, storie e curiosità sui prodotti e sui designer più affermati.</p>"
+          }
+        },
         "button_NtFPeM": {
           "type": "button",
           "settings": {
@@ -84,6 +90,7 @@
       },
       "block_order": [
         "heading_bjaX3J",
+        "text_adnDjK",
         "button_NtFPeM"
       ],
       "name": "t:sections.rich-text.presets.name",
