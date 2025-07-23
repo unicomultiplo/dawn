@@ -60,6 +60,34 @@
         "padding_bottom": 0
       }
     },
+    "rich_text_7MErdz": {
+      "type": "rich-text",
+      "blocks": {
+        "button_wBn6Uk": {
+          "type": "button",
+          "settings": {
+            "button_label": "Il Blog U&M",
+            "button_link": "shopify://blogs/blog",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_wBn6Uk"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "newsletter_G9a3Mi": {
       "type": "newsletter",
       "blocks": {
@@ -97,6 +125,7 @@
   "order": [
     "rich_text_cgyUWg",
     "main",
+    "rich_text_7MErdz",
     "newsletter_G9a3Mi"
   ]
 }
