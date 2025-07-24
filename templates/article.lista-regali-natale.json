@@ -13,7 +13,7 @@
       "type": "image-banner",
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista.webp",
+        "image": "shopify://shop_images/santa-goes-digital.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
