@@ -13,7 +13,7 @@
       "type": "image-banner",
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/cosa-regalo-per-natale-a-mamma-e-papa-le-migliori-idee-regalo-per-i-genitori-1.webp",
+        "image": "shopify://shop_images/toddler-helps-decorate-the-christmas-tree.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -118,13 +118,13 @@
             "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_6D7wzF"
           }
         },
-        "column_ed3JNY": {
+        "column_6UAapR": {
           "type": "column",
           "settings": {
             "title": "",
             "text": "",
-            "link_label": "Il papà che ama la cucina",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_c6HwnW"
+            "link_label": "Il papà che ama l’arte",
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_nRTgzR"
           }
         },
         "column_PNYnwx": {
@@ -136,13 +136,13 @@
             "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_et4rKW"
           }
         },
-        "column_6UAapR": {
+        "column_ed3JNY": {
           "type": "column",
           "settings": {
             "title": "",
             "text": "",
-            "link_label": "Il papà che ama l’arte",
-            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_nRTgzR"
+            "link_label": "Il papà che ama la cucina",
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?#shopify-section-template--25589866037513__image_with_text_c6HwnW"
           }
         },
         "column_KhhkBT": {
@@ -170,9 +170,9 @@
         "column_rwtmgr",
         "column_WE3MdH",
         "column_mCa49B",
-        "column_ed3JNY",
-        "column_PNYnwx",
         "column_6UAapR",
+        "column_PNYnwx",
+        "column_ed3JNY",
         "column_KhhkBT",
         "column_PkeJaq"
       ],
