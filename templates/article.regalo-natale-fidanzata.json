@@ -717,16 +717,16 @@
             "collection": "idee-regalo-economiche"
           }
         },
-        "featured_collection_DDw6cn": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-regali-sotto-150-euro"
-          }
-        },
         "featured_collection_fcTinQ": {
           "type": "featured_collection",
           "settings": {
             "collection": "idee-regalo-regali-sotto-100-euro"
+          }
+        },
+        "featured_collection_DDw6cn": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-regali-sotto-150-euro"
           }
         },
         "featured_collection_zaWm69": {
@@ -739,8 +739,8 @@
       "block_order": [
         "featured_collection_nn6W9C",
         "featured_collection_MT4zTL",
-        "featured_collection_DDw6cn",
         "featured_collection_fcTinQ",
+        "featured_collection_DDw6cn",
         "featured_collection_zaWm69"
       ],
       "name": "t:sections.collection-list.presets.name",
