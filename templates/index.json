@@ -527,7 +527,6 @@
     },
     "featured_blog_k3B4yy": {
       "type": "featured-blog",
-      "disabled": true,
       "name": "t:sections.featured-blog.presets.name",
       "settings": {
         "heading": "",
@@ -546,6 +545,7 @@
     },
     "separator_cV7Bmi": {
       "type": "separator",
+      "disabled": true,
       "settings": {
         "line_thickness": 1
       }
