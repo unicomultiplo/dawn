@@ -81,7 +81,6 @@
       "block_order": [
         "buttons_6hqgbD"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/seletti_Amanita.webp",
         "image_2": "shopify://shop_images/vitamin-seletti-unico_-e-multiplo_528777c9-832a-4355-9284-2dcdf2312db2.png",
@@ -94,47 +93,6 @@
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
-        "show_text_below": true
-      }
-    },
-    "image_banner_nttVbF": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_bmFJMb": {
-          "type": "heading",
-          "settings": {
-            "heading": "Promo Seletti",
-            "heading_size": "h1"
-          }
-        },
-        "buttons_ayiD3g": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Saldi fino al 40%",
-            "button_link_1": "shopify://collections/offerte-e-promo",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_bmFJMb",
-        "buttons_ayiD3g"
-      ],
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/sconto-20-lettino-promo.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
         "show_text_below": true
       }
     },
@@ -178,7 +136,6 @@
         "text_PePwpm",
         "button_kEi6Qw"
       ],
-      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/sole-luna-seletti-arico_aee9d784-b96a-47fd-8b55-8d46e95168f1.webp",
@@ -190,63 +147,6 @@
         "content_layout": "no-overlap",
         "section_color_scheme": "scheme-1",
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_CQDLVR": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_iqNgby": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Promo Seletti</strong> - Fino al -40%",
-            "heading_size": "h1"
-          }
-        },
-        "caption_FPNtrf": {
-          "type": "caption",
-          "settings": {
-            "caption": "Solo fino al 25 luglio!",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
-        },
-        "text_Bb8ttc": {
-          "type": "text",
-          "settings": {
-            "text": "<p>È il momento perfetto per portare a casa un pezzo di design fuori dagli schemi. Nella nostra selezione in <strong>promo firmata Seletti</strong> trovi <strong>sconti fino al 40%</strong> su oggetti iconici, ironici, coloratissimi – tutti da collezionare o regalare. <br/>Dalle sdraio da spiaggia ai servizi da tavola, fino alle lampade e agli accessori per la casa più pop di sempre.<br/><br/></p><p>Puoi approfittare di queste offerte uniche <strong>solo fino al 25/07</strong>. Non lasciarti sfuggire l’occasione di dare nuova personalità ai tuoi spazi… con <strong>Seletti</strong>, ogni ambiente diventa spettacolare.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_htKChT": {
-          "type": "button",
-          "settings": {
-            "button_label": "PROMO SELETTI",
-            "button_link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending#shopify-section-template--23127397794057__product-grid",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_iqNgby",
-        "caption_FPNtrf",
-        "text_Bb8ttc",
-        "button_htKChT"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/saldi-estate-25-20-seletti-outdoor.webp",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
-        "color_scheme": "scheme-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -1109,9 +1009,7 @@
     "banner",
     "multicolumn_4fT4dH",
     "image_banner_dc8VCJ",
-    "image_banner_nttVbF",
     "image_with_text_7gxWGt",
-    "image_with_text_CQDLVR",
     "multicolumn_kp8jzB",
     "collection_list_DFkntc",
     "collection_list_LxpCcQ",
