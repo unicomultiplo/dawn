@@ -29,10 +29,29 @@
             "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_DkdEyL": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Kikkerland-sacche-viaggio.webp",
+            "heading": "Kikkerland",
+            "heading_size": "h1",
+            "subheading": "Set di buste da viaggio \"Around The World\"",
+            "button_label": "Scoprilo subito!",
+            "link": "shopify://products/kikkerland-set-4-pz-sacchetti-per-bucato-da-viaggio-mappa",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
-        "slide_HMwqmR"
+        "slide_HMwqmR",
+        "slide_DkdEyL"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -513,7 +532,7 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 0
