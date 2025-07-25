@@ -168,67 +168,98 @@
         "padding_bottom": 0
       }
     },
-    "collection_list_pnJR63": {
-      "type": "collection-list",
+    "multicolumn_p68MrB": {
+      "type": "multicolumn",
       "blocks": {
-        "featured_collection_xM4cif": {
-          "type": "featured_collection",
+        "column_N4HePN": {
+          "type": "column",
           "settings": {
-            "collection": "bitossi-home"
+            "image": "shopify://shop_images/Bitossi_-logo-250.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home"
           }
         },
-        "featured_collection_te7qeK": {
-          "type": "featured_collection",
+        "column_myJDBW": {
+          "type": "column",
           "settings": {
-            "collection": "brabantia"
+            "image": "shopify://shop_images/Brabantia.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/brabantia"
           }
         },
-        "featured_collection_WxRr9h": {
-          "type": "featured_collection",
+        "column_rdCng9": {
+          "type": "column",
           "settings": {
-            "collection": "brandani"
+            "image": "shopify://shop_images/Brandani.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/brandani"
           }
         },
-        "featured_collection_9WRYYD": {
-          "type": "featured_collection",
+        "column_zkX78e": {
+          "type": "column",
           "settings": {
-            "collection": "knindustrie"
+            "image": "shopify://shop_images/Knidustrie_d9078357-6258-44d7-93c8-9a7f783621a8.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie"
           }
         },
-        "featured_collection_mPpNdg": {
-          "type": "featured_collection",
+        "column_X7CNb8": {
+          "type": "column",
           "settings": {
-            "collection": "seletti"
+            "image": "shopify://shop_images/Seletti.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/seletti"
           }
         },
-        "featured_collection_MDC4Wd": {
-          "type": "featured_collection",
+        "column_Fz9KyH": {
+          "type": "column",
           "settings": {
-            "collection": "ichendorf-catalogo"
+            "image": "shopify://shop_images/Ichendorf.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/ichendorf-catalogo"
           }
         }
       },
       "block_order": [
-        "featured_collection_xM4cif",
-        "featured_collection_te7qeK",
-        "featured_collection_WxRr9h",
-        "featured_collection_9WRYYD",
-        "featured_collection_mPpNdg",
-        "featured_collection_MDC4Wd"
+        "column_N4HePN",
+        "column_myJDBW",
+        "column_rdCng9",
+        "column_zkX78e",
+        "column_X7CNb8",
+        "column_Fz9KyH"
       ],
-      "custom_css": [],
-      "name": "t:sections.collection-list.presets.name",
+      "custom_css": [
+        ".media--transparent img {mix-blend-mode: multiply;}",
+        ".multicolumn-card__image-wrapper {margin-left: 0px; margin-right: 0px; padding: 20px; background-color: var(--product-background-color);}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "image_ratio": "square",
+        "image_width": "full",
+        "image_ratio": "adapt",
         "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Scoprili tutti →",
+        "button_link": "shopify://pages/i-nostri-brand",
         "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "featured_blog_KyiK6b": {
@@ -458,7 +489,7 @@
     "featured_blog_bnjUDn",
     "featured_blog_heaLnh",
     "image_with_text_8BeU3P",
-    "collection_list_pnJR63",
+    "multicolumn_p68MrB",
     "featured_blog_KyiK6b",
     "featured_blog_abHrVD",
     "image_with_text_LW7ykr",
