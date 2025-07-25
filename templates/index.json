@@ -691,7 +691,7 @@
         "text_hcDaga": {
           "type": "text",
           "settings": {
-            "text": "<p>Unico & Multiplo è <em><strong>molto, molto più di un e-shop</strong></em>. In questo blog trovi approfondimenti, storie e curiosità sui prodotti e sui designer più affermati.<br/>Scopri assieme a noi <em><strong>nuove idee e ispirazioni</strong></em>, leggi le ultime novità e tutte le anticipazioni sulle tendenze del momento, coltiva l’amore e la passione per il design in ogni sua forma.<br/></p>"
+            "text": "<p><strong>Unico & Multiplo </strong>non è solo un e-shop:<strong> è un è un mondo da esplorare.<br/></strong><br/>Nel nostro blog scopri storie appassionanti, curiosità fuori dal comune e approfondimenti sui designer che stanno lasciando il segno.<br/>Tendenze, anteprime, ispirazioni freschissime: tutto ciò che serve per alimentare la tua voglia di bellezza, stile e creatività</p><p><br/><strong>Lasciati guidare, sorprenditi!</strong></p>"
           }
         }
       },
@@ -736,7 +736,7 @@
           "settings": {
             "image": "shopify://shop_images/tavolo-da-esterno.png",
             "title": "",
-            "text": "<h3><br/>Tavola all'aperto in Estate</h3><p><br/>È tornata l’estate e con lei anche<strong>i pranzi e le cene all’aperto</strong></p>",
+            "text": "<h3><br/>Tavola all'aperto</h3><p><br/>È tornata l’estate e con lei anche<strong>i pranzi e le cene all’aperto</strong></p>",
             "link_label": "Idee per Apparecchiare",
             "link": "shopify://blogs/godersi-laria-aperta/idee-tavola-estiva-in-giardino"
           }
@@ -778,7 +778,7 @@
         "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "none",
-        "button_label": "Leggi tutto",
+        "button_label": "Il Blog U&M",
         "button_link": "shopify://blogs/blog",
         "color_scheme": "scheme-1",
         "columns_mobile": "2",
