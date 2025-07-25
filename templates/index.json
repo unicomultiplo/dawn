@@ -12,24 +12,6 @@
     "slideshow_jWzjzL": {
       "type": "slideshow",
       "blocks": {
-        "slide_bzftgt": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/lettino-seletti-promo-20.webp",
-            "heading": "<strong>SUMMER PROMO SELETTI  -20%</strong>",
-            "heading_size": "h0",
-            "subheading": "<strong>SOLO FINO AL 25 LUGLIO</strong>",
-            "button_label": "VEDI ORA!",
-            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending#shopify-section-template--23127397794057__product-grid",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 40,
-            "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_HMwqmR": {
           "type": "slide",
           "settings": {
@@ -47,31 +29,10 @@
             "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
             "text_alignment_mobile": "center"
           }
-        },
-        "slide_m8wDMT": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/lettino-seletti-promo-20.webp",
-            "heading": "<strong>SPECIALE SELETTI  -40%</strong>",
-            "heading_size": "h1",
-            "subheading": "PROMO fino al 25/07/2025",
-            "button_label": "SELETTI PROMO",
-            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending#shopify-section-template--23127397794057__product-grid",
-            "button_style_secondary": false,
-            "box_align": "top-left",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
-        "slide_bzftgt",
-        "slide_HMwqmR",
-        "slide_m8wDMT"
+        "slide_HMwqmR"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -184,62 +145,6 @@
         "full_width": true,
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "multicolumn_rGUHzh": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_4PjnNt": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/Slide-sotto.3.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola"
-          }
-        },
-        "column_pkHkxr": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/Slide-sotto.4.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola"
-          }
-        }
-      },
-      "block_order": [
-        "column_4PjnNt",
-        "column_pkHkxr"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".background-none .multicolumn-card__image-wrapper {margin: unset;}",
-        ".multicolumn-list__item {position: relative;}",
-        ".multicolumn-card__info {position: absolute; top: 0em; left: 2em; padding-top: 2.5rem;}",
-        ".multicolumn-card__info h3 {color: rgb(var(--color-background)); font-size: 4em; text-shadow: 0px 0px 2em rgba(0, 0, 0, 0.2);}",
-        ".multicolumn-card__info p {font-size: 1.3em; color: rgb(var(--color-background)); text-shadow: 0px 0px 2em rgba(0, 0, 0, 0.2);}",
-        ".multicolumn-card__info > :nth-child(2) {margin-top: 0em;}"
-      ],
-      "settings": {
-        "title": "           Tutta l'originalità di Superstuff",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 20
       }
     },
     "multicolumn_pyNBEg": {
@@ -759,14 +664,6 @@
         "padding_bottom": 0
       }
     },
-    "separator_h9wzXV": {
-      "type": "separator",
-      "disabled": true,
-      "name": "Separator Line",
-      "settings": {
-        "line_thickness": 1
-      }
-    },
     "multicolumn_dQitEb": {
       "type": "multicolumn",
       "blocks": {
@@ -909,7 +806,7 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 60
@@ -958,7 +855,6 @@
     "featured_collection_zEJpm8",
     "separator_yHaRH3",
     "rich_text_3eGJVG",
-    "multicolumn_rGUHzh",
     "multicolumn_pyNBEg",
     "separator_UazLhC",
     "multicolumn_9rJCWz",
@@ -972,7 +868,6 @@
     "rich_text_3WWRXG",
     "multicolumn_w64iw4",
     "rich_text_fjc6N9",
-    "separator_h9wzXV",
     "multicolumn_dQitEb",
     "separator_RxMG4P",
     "multicolumn_mrQQRJ",
