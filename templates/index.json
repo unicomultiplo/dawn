@@ -360,20 +360,20 @@
         "image_jyQnUP": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/specchio-luminoso-supercurve-seletti.jpg"
+            "image": "shopify://shop_images/Seletti-Kintsugi-Lampada-1.webp"
           }
         },
         "product_eAykWe": {
           "type": "product",
           "settings": {
-            "product": "seletti-supercurve-specchio-con-cornice-luminosa-h185-cm",
+            "product": "seletti-kintsugi-lampada-dimmerabile-abat-jour",
             "second_image": false
           }
         },
         "product_BVWfAx": {
           "type": "product",
           "settings": {
-            "product": "seletti-supercurve-specchio-con-cornice-luminosa-cm-118-5-x-108",
+            "product": "seletti-kintsugi-set-da-te-con-tazza-e-piattino-in-porcellana-e-oro-1",
             "second_image": false
           }
         }
