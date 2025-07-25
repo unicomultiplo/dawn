@@ -716,8 +716,8 @@
           "settings": {
             "image": "shopify://shop_images/bone-china-curiosita-unico-e-multiplo.jpg",
             "title": "",
-            "text": "<h3><br/>Bone China</h3><p><br/>Ti guideremo alla <strong>scoperta della Bone China</strong>.</p>",
-            "link_label": "Scopri la Porcellana Più Elegante",
+            "text": "",
+            "link_label": "Bone China, scopri la Porcellana Più Elegante",
             "link": "shopify://pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola"
           }
         },
@@ -726,8 +726,8 @@
           "settings": {
             "image": "shopify://shop_images/knindustrie-abct-padella-wok-diametro-32-cm-bianca-1.jpg",
             "title": "",
-            "text": "<h3><br/></h3><h3>Padelle Antiaderenti<br/><br/></h3><p><strong>Guida completa</strong> per scegliere il modello giusto!</p>",
-            "link_label": "Padelle antiaderenti",
+            "text": "",
+            "link_label": "Padelle antiaderenti, guida all'acquisto",
             "link": "shopify://pages/padelle-antiaderenti-guida-completa"
           }
         },
@@ -736,8 +736,8 @@
           "settings": {
             "image": "shopify://shop_images/tavolo-da-esterno.png",
             "title": "",
-            "text": "<h3><br/>Tavola all'aperto</h3><p><br/>È tornata l’estate e con lei anche <strong>i pranzi e le cene all’aperto!</strong></p>",
-            "link_label": "Idee per Apparecchiare",
+            "text": "",
+            "link_label": "Tavola all'aperto, idee per Apparecchiare",
             "link": "shopify://blogs/godersi-laria-aperta/idee-tavola-estiva-in-giardino"
           }
         },
@@ -746,8 +746,8 @@
           "settings": {
             "image": "shopify://shop_images/seletti-piatti-melamina-giampiero-2.png",
             "title": "",
-            "text": "<h3><br/>Stoviglie in Melamina<br/><br/></h3><p><strong>Tutto ciò che vorresti sapere</strong> sulle Stoviglie in Melamina (e anche di più!)</p>",
-            "link_label": "Melamina",
+            "text": "",
+            "link_label": "Scopri tutto sulle Stoviglie in Melamina",
             "link": "shopify://blogs/apparecchiare-con-stile/tutto-cio-che-vorresti-sapere-sulle-stoviglie-in-melamina-e-anche-di-piu"
           }
         },
@@ -756,8 +756,8 @@
           "settings": {
             "image": "shopify://shop_images/IMG_1980.webp",
             "title": "",
-            "text": "<h3><br/>Bomboniere 2025</h3><p><br/>Le proposte <strong>Brandani </strong>incontrano davvero tutti i gusti!<br/></p>",
-            "link_label": "Consigli per le Tue Bomboniere",
+            "text": "",
+            "link_label": "Consigli per le Tue Bomboniere 2025",
             "link": "https://www.unicoemultiplo.com/pages/bomboniere-brandani"
           }
         }
