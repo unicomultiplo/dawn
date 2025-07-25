@@ -736,9 +736,9 @@
           "settings": {
             "image": "shopify://shop_images/tavolo-da-esterno.png",
             "title": "",
-            "text": "<h3><br/>Novità Magna Graecia<br/><br/></h3><p>Non perderti le novità Seletti in collaborazione con Antonio Aricò</p>",
-            "link_label": "Sole e Luna",
-            "link": "shopify://products/seletti-magna-graecia-wall-decoration-sole"
+            "text": "<h3><br/>Tavola all'aperto in Estate</h3><p><br/>È tornata l’estate e con lei anche<strong>i pranzi e le cene all’aperto</strong></p>",
+            "link_label": "Idee per Apparecchiare",
+            "link": "shopify://blogs/godersi-laria-aperta/idee-tavola-estiva-in-giardino"
           }
         },
         "column_Q9yHkC": {
@@ -756,7 +756,7 @@
           "settings": {
             "image": "shopify://shop_images/IMG_1980.webp",
             "title": "",
-            "text": "<h3><br/>Bomboniere 2025</h3><p><br/>Scopri tutte le novità Brandani!</p>",
+            "text": "<h3><br/>Bomboniere 2025</h3><p><br/>La <strong>nuova collezione di bomboniere</strong> Brandani incontra davvero tutti i gusti!<br/></p>",
             "link_label": "Consigli per le Tue Bomboniere",
             "link": "https://www.unicoemultiplo.com/pages/bomboniere-brandani"
           }
@@ -780,7 +780,7 @@
         "background_style": "none",
         "button_label": "Leggi tutto",
         "button_link": "shopify://blogs/blog",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
