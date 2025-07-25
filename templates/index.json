@@ -736,7 +736,7 @@
           "settings": {
             "image": "shopify://shop_images/tavolo-da-esterno.png",
             "title": "",
-            "text": "<h3><br/>Tavola all'aperto</h3><p><br/>È tornata l’estate e con lei anche<strong>i pranzi e le cene all’aperto</strong></p>",
+            "text": "<h3><br/>Tavola all'aperto</h3><p><br/>È tornata l’estate e con lei anche <strong>i pranzi e le cene all’aperto</strong></p>",
             "link_label": "Idee per Apparecchiare",
             "link": "shopify://blogs/godersi-laria-aperta/idee-tavola-estiva-in-giardino"
           }
@@ -746,7 +746,7 @@
           "settings": {
             "image": "shopify://shop_images/seletti-piatti-melamina-giampiero-2.png",
             "title": "",
-            "text": "<h3><br/>Stoviglie in Melamina<br/><br/></h3><p>Scopri tutto ciò che vorresti sapere sulle Stoviglie in Melamina (e anche di più!)</p>",
+            "text": "<h3><br/>Stoviglie in Melamina<br/><br/></h3><p>Scopri <strong>tutto ciò che vorresti sapere</strong> sulle Stoviglie in Melamina (e anche di più!)</p>",
             "link_label": "Melamina",
             "link": "shopify://blogs/apparecchiare-con-stile/tutto-cio-che-vorresti-sapere-sulle-stoviglie-in-melamina-e-anche-di-piu"
           }
