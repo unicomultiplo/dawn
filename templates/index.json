@@ -525,24 +525,6 @@
         "line_thickness": 1
       }
     },
-    "featured_blog_k3B4yy": {
-      "type": "featured-blog",
-      "name": "t:sections.featured-blog.presets.name",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "blog": "blog",
-        "post_limit": 4,
-        "columns_desktop": 4,
-        "color_scheme": "",
-        "show_image": true,
-        "show_date": true,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "separator_cV7Bmi": {
       "type": "separator",
       "disabled": true,
@@ -689,81 +671,117 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_dQitEb": {
+    "separator_MQPw9D": {
+      "type": "separator",
+      "name": "Separator Line",
+      "settings": {
+        "line_thickness": 1
+      }
+    },
+    "rich_text_f8tWty": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ezmVrW": {
+          "type": "heading",
+          "settings": {
+            "heading": "Il Blog U&M",
+            "heading_size": "h1"
+          }
+        },
+        "text_hcDaga": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unico & Multiplo è <em><strong>molto, molto più di un e-shop</strong></em>. In questo blog trovi approfondimenti, storie e curiosità sui prodotti e sui designer più affermati.<br/>Scopri assieme a noi <em><strong>nuove idee e ispirazioni</strong></em>, leggi le ultime novità e tutte le anticipazioni sulle tendenze del momento, coltiva l’amore e la passione per il design in ogni sua forma.<br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ezmVrW",
+        "text_hcDaga"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_ftmdQK": {
       "type": "multicolumn",
       "blocks": {
-        "column_fNmBMC": {
+        "column_B9rnKn": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/bone-china-curiosita-unico-e-multiplo.jpg",
             "title": "",
-            "text": "<h3><br/>Bone China<br/><br/></h3><p>Ti guideremo alla <strong>scoperta della Bone China</strong>, dalle sue origini alla manutenzione perfetta, con consigli per l'acquisto.</p>",
+            "text": "<h3><br/>Bone China</h3><p><br/>Ti guideremo alla <strong>scoperta della Bone China</strong>.</p>",
             "link_label": "Scopri la Porcellana Più Elegante",
             "link": "shopify://pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola"
           }
         },
-        "column_QyM9xD": {
+        "column_zQeJAx": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/knindustrie-abct-padella-wok-diametro-32-cm-bianca-1.jpg",
             "title": "",
-            "text": "<h3><br/>Padelle Antiaderenti<br/><br/></h3><p>Guida completa per scegliere il modello giusto per la tua cucina</p>",
+            "text": "<h3><br/></h3><h3>Padelle Antiaderenti<br/><br/></h3><p><strong>Guida completa</strong> per scegliere il modello giusto!</p>",
             "link_label": "Padelle antiaderenti",
             "link": "shopify://pages/padelle-antiaderenti-guida-completa"
           }
         },
-        "column_PY3FPe": {
+        "column_7L8tpd": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/sole-luna-seletti-arico.webp",
+            "image": "shopify://shop_images/tavolo-da-esterno.png",
             "title": "",
-            "text": "<p><br/>Novità Magna Graecia<br/><br/></p>",
+            "text": "<h3><br/>Novità Magna Graecia<br/><br/></h3><p>Non perderti le novità Seletti in collaborazione con Antonio Aricò</p>",
             "link_label": "Sole e Luna",
             "link": "shopify://products/seletti-magna-graecia-wall-decoration-sole"
           }
         },
-        "column_kzhqr6": {
+        "column_Q9yHkC": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-ivan-tresoldi.webp",
+            "image": "shopify://shop_images/seletti-piatti-melamina-giampiero-2.png",
             "title": "",
-            "text": "<p><br/>NEW<br/>KnIndustrie + Ivan<br/></p>",
-            "link_label": "KnIndustrie + Ivan",
-            "link": "shopify://products/knindustrie-storm-vassoio-stone-washed"
+            "text": "<h3><br/>Stoviglie in Melamina<br/><br/></h3><p>Scopri tutto ciò che vorresti sapere sulle Stoviglie in Melamina (e anche di più!)</p>",
+            "link_label": "Melamina",
+            "link": "shopify://blogs/apparecchiare-con-stile/tutto-cio-che-vorresti-sapere-sulle-stoviglie-in-melamina-e-anche-di-piu"
           }
         },
-        "column_Wcerxb": {
+        "column_WADJFq": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/IMG_1980.webp",
-            "title": "Bomboniere 2025",
-            "text": "",
+            "title": "",
+            "text": "<h3><br/>Bomboniere 2025</h3><p><br/>Scopri tutte le novità Brandani!</p>",
             "link_label": "Consigli per le Tue Bomboniere",
             "link": "https://www.unicoemultiplo.com/pages/bomboniere-brandani"
           }
         }
       },
       "block_order": [
-        "column_fNmBMC",
-        "column_QyM9xD",
-        "column_PY3FPe",
-        "column_kzhqr6",
-        "column_Wcerxb"
+        "column_B9rnKn",
+        "column_zQeJAx",
+        "column_7L8tpd",
+        "column_Q9yHkC",
+        "column_WADJFq"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Guida All'acquisto",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "portrait",
         "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "none",
-        "button_label": "",
-        "button_link": "",
+        "button_label": "Leggi tutto",
+        "button_link": "shopify://blogs/blog",
         "color_scheme": "scheme-2",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
@@ -890,12 +908,13 @@
     "rich_text_7Vggwn",
     "multicolumn_9TN369",
     "separator_HKUMQy",
-    "featured_blog_k3B4yy",
     "separator_cV7Bmi",
     "rich_text_3WWRXG",
     "multicolumn_w64iw4",
     "rich_text_fjc6N9",
-    "multicolumn_dQitEb",
+    "separator_MQPw9D",
+    "rich_text_f8tWty",
+    "multicolumn_ftmdQK",
     "separator_RxMG4P",
     "multicolumn_mrQQRJ",
     "newsletter_6i9tEi"
