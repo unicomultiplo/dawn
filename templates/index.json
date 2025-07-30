@@ -12,24 +12,6 @@
     "slideshow_jWzjzL": {
       "type": "slideshow",
       "blocks": {
-        "slide_HMwqmR": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/promo-estate-2025-unicoemultiplo-3_d0c336f9-1946-4cd1-9f3a-209beceafc6d.webp",
-            "heading": "<strong>SUMMER PROMO FINO AL 50%</strong>",
-            "heading_size": "h0",
-            "subheading": "",
-            "button_label": "Il momento perfetto per scegliere,  VAI!",
-            "link": "shopify://collections/offerte-e-promo",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_DkdEyL": {
           "type": "slide",
           "settings": {
@@ -47,11 +29,29 @@
             "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_HMwqmR": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/promo-estate-2025-unicoemultiplo-3_d0c336f9-1946-4cd1-9f3a-209beceafc6d.webp",
+            "heading": "<strong>SUMMER PROMO FINO AL 50%</strong>",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "Il momento perfetto per scegliere,  VAI!",
+            "link": "shopify://collections/offerte-e-promo",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
-        "slide_HMwqmR",
-        "slide_DkdEyL"
+        "slide_DkdEyL",
+        "slide_HMwqmR"
       ],
       "settings": {
         "layout": "full_bleed",
