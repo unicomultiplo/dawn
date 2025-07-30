@@ -16,7 +16,6 @@
       "blocks": {
         "announcement_fjGnw4": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Ti diamo il benvenuto nel nostro negozio",
             "link": ""
@@ -24,7 +23,6 @@
         },
         "announcement_aPLqRk": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "NEWSLETTER U&M: sconto 10% per Te!",
             "link": "shopify://pages/iscrizione"
@@ -32,7 +30,6 @@
         },
         "announcement_HJUy4B": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Spedizione gratuita da €59",
             "link": "shopify://policies/shipping-policy"
@@ -53,7 +50,7 @@
         "announcement_ktEgez"
       ],
       "settings": {
-        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "scheme-1",
         "show_line_separator": false,
         "show_social": true,
         "auto_rotate": true,
