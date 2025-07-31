@@ -142,8 +142,8 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/treccia-bitossi-home-vimini_1.png",
-        "image_2": "shopify://shop_images/treccia-bitossi-home-novita_1.jpg",
+        "image": "shopify://shop_images/treccia-bitossi-home-vimini_1_1.webp",
+        "image_2": "shopify://shop_images/treccia-bitossi-home-novita_1_2.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
