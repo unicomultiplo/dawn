@@ -85,10 +85,10 @@
         "column_PjDh4N": {
           "type": "column",
           "settings": {
-            "title": "<strong>Piatti Abracadabra Bitossi Home a -15%!</strong>",
-            "text": "<p>Linee grafiche, colori decisi e quel tocco creativo che rende ogni tavola più divertente e personale: i piatti <strong>Abracadabra</strong> firmati Bitossi Home tornano protagonisti… questa volta con <strong>uno sconto del 15%</strong> valido solo per un tempo limitato. Se li avevi adocchiati da tempo, questo è il momento giusto per portarli a casa!</p>",
-            "link_label": "👉 Scopri l’offerta e collezionali tutti",
-            "link": "shopify://collections/bitossi-home-abracadabra"
+            "title": "<strong>New 2025! Bitossi Home Treccia</strong>",
+            "text": "<p><strong>Vibe artigianale, stile super cool.</strong> Vassoi e cesti in vimini intrecciato danno <strong>personalità </strong>a tavole, picnic e angoli deco. Design che si fa notare, pratici da usare e belli da mostrare. Perfetti per chi ama <strong>mixare tradizione e mood contemporaneo</strong>.</p>",
+            "link_label": "👉 Scopri la collezione Treccia",
+            "link": "shopify://collections/treccia-bitossi-home"
           }
         },
         "column_f8NyNW": {
@@ -125,19 +125,12 @@
     "image_banner_yEDFWe": {
       "type": "image-banner",
       "blocks": {
-        "heading_dJgdnD": {
-          "type": "heading",
-          "settings": {
-            "heading": "Piatti Abracadabra Bitossi Home a -15%!",
-            "heading_size": "h1"
-          }
-        },
-        "buttons_Abd6WT": {
+        "buttons_tkcgi9": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "👉 Scopri l’offerta e collezionali tutti",
-            "button_link_1": "shopify://collections/bitossi-home-abracadabra",
-            "button_style_secondary_1": true,
+            "button_label_1": "👉 Scopri la collezione Treccia",
+            "button_link_1": "shopify://collections/treccia-bitossi-home",
+            "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -145,21 +138,21 @@
         }
       },
       "block_order": [
-        "heading_dJgdnD",
-        "buttons_Abd6WT"
+        "buttons_tkcgi9"
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Abracadabra-bitossi_home.webp",
+        "image": "shopify://shop_images/treccia-bitossi-home-vimini_1.png",
+        "image_2": "shopify://shop_images/treccia-bitossi-home-novita_1.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
+        "stack_images_on_mobile": false,
         "show_text_below": true
       }
     },
@@ -231,7 +224,7 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 40,
+        "padding_top": 20,
         "padding_bottom": 0
       }
     },
