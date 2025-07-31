@@ -58,7 +58,7 @@
       "settings": {
         "image": "shopify://shop_images/k2_Simona_Silenzi_3_1.png",
         "image_overlay_opacity": 0,
-        "image_height": "adapt",
+        "image_height": "small",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
