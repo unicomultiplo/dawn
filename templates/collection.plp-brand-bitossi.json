@@ -68,7 +68,7 @@
       "settings": {
         "image": "shopify://shop_images/bitossi-home-catalogo-offerte-promo-unico-multiplo_1_1ab661e1-726e-4660-924e-1cd4d236b0a1.png",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
