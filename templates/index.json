@@ -66,6 +66,7 @@
     },
     "featured_collection_zEJpm8": {
       "type": "featured-collection",
+      "disabled": true,
       "custom_css": [
         ".media--transparent {background-color: var(--product-background-color);}",
         ".media--transparent img {mix-blend-mode: multiply;}",
