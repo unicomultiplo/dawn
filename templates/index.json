@@ -287,40 +287,40 @@
         "column_XrjaiE": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Doiy-design-scatola.webp",
+            "image": "shopify://shop_images/Crashbaggage-valigia.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/products/doiy-sweetie-scatola-portaoggetti"
+            "link": "shopify://collections/crash-baggage"
           }
         },
         "column_XCzETy": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Doiy-design-tazza.webp",
+            "image": "shopify://shop_images/Izipizi-occhiaklidasole.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/products/doiy-sweetie-mug"
+            "link": "shopify://collections/izipizi"
           }
         },
         "column_RUzwg4": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Doy-Design-zucchewriera.webp",
+            "image": "shopify://shop_images/Take-make-brabantia.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/products/doiy-sweetie-sugar-zuccheriera"
+            "link": "shopify://collections/brabantia-brabantia-make-take"
           }
         },
         "column_qimwBB": {
           "type": "column",
           "settings": {
-            "title": "<strong>Collezione Sweetie</strong>",
-            "text": "<p>Aggiungi un tocco di dolcezza al tuo quotidiano con la collezione Sweetie. </p><p> Un design delizioso che unisce praticità e fascino giocoso.<br/><br/></p>",
+            "title": "<strong>Travel Chic</strong>",
+            "text": "<p>Porta con te la<strong> leggerezza dell’estate </strong>con accessori pratici e irresistibili  che uniscono <strong>comfort, freschezza </strong>e stile vacanziero.<br/></p>",
             "link_label": "VEDI ORA",
-            "link": "shopify://collections/doiy"
+            "link": "shopify://collections/tempo-libero"
           }
         }
       },
@@ -338,7 +338,7 @@
         ".multicolumn-list__item:last-child .multicolumn-card__info {display: flex; flex-direction: column;}"
       ],
       "settings": {
-        "title": "NUOVI ARRIVI: Doiy Design",
+        "title": "ESTATE: Valigia, Acqua, Sole",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
