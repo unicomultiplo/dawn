@@ -338,7 +338,7 @@
         ".multicolumn-list__item:last-child .multicolumn-card__info {display: flex; flex-direction: column;}"
       ],
       "settings": {
-        "title": "ESTATE: Valigia, Acqua, Sole",
+        "title": "ESTATE: Valigia, Sole, Acqua",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
