@@ -70,7 +70,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "NEW! Seletti Amanita",
-            "button_link_1": "shopify://collections/outdoor-seletti",
+            "button_link_1": "shopify://collections/amanita-seletti",
             "button_style_secondary_1": false,
             "button_label_2": "Collezione Kintsugi",
             "button_link_2": "shopify://collections/seletti-catalogo-prodotti-kintsugi",
@@ -147,7 +147,7 @@
         "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
