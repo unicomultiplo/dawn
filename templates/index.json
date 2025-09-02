@@ -185,96 +185,6 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_pyNBEg": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_kUiCKr": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Tavola.2.jpg",
-            "title": "",
-            "text": "<h4><strong>Tavola: mai uguale!</strong></h4>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola"
-          }
-        },
-        "column_RtQ7KC": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Vassoi-e-taglieri.2.jpg",
-            "title": "",
-            "text": "<h4><strong>Vassoi e Taglieri: dalla cucina alla tavola!</strong></h4>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata"
-          }
-        },
-        "column_H9PG3A": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Cucina.jpg",
-            "title": "",
-            "text": "<h4><strong>Cucina: tra utilità e Arte</strong></h4>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-pentole-padelle-tegami"
-          }
-        },
-        "column_Dc34aY": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Illuminazione.jpg",
-            "title": "",
-            "text": "<h4><strong>Illuminazione: non la solita!</strong></h4>",
-            "link_label": "",
-            "link": "shopify://collections/lampade"
-          }
-        },
-        "column_mbxQN4": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Idee-regalo_6915b911-fabf-419d-9ccd-2ac540e33078.jpg",
-            "title": "",
-            "text": "<h4><strong>Idee Regalo per sorprendere</strong></h4>",
-            "link_label": "",
-            "link": "shopify://collections/idee-regalo"
-          }
-        },
-        "column_VbCxwQ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Bagno.jpg",
-            "title": "",
-            "text": "<h4><strong>Per un Bagno funzionale</strong></h4>",
-            "link_label": "",
-            "link": "shopify://collections/complementi-arredo-bagno"
-          }
-        }
-      },
-      "block_order": [
-        "column_kUiCKr",
-        "column_RtQ7KC",
-        "column_H9PG3A",
-        "column_Dc34aY",
-        "column_mbxQN4",
-        "column_VbCxwQ"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 6,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 52,
-        "padding_bottom": 0
-      }
-    },
     "separator_UazLhC": {
       "type": "separator",
       "disabled": true,
@@ -474,6 +384,95 @@
         "padding_bottom": 32
       }
     },
+    "multicolumn_pyNBEg": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_kUiCKr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Tavola.2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Tavola: mai uguale!",
+            "link": "shopify://collections/cucina-e-tavola"
+          }
+        },
+        "column_RtQ7KC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Vassoi-e-taglieri.2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Vassoi e Taglieri: dalla cucina alla tavola!",
+            "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata"
+          }
+        },
+        "column_H9PG3A": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Cucina.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Cucina: tra utilità e Arte",
+            "link": "shopify://collections/cucina-e-tavola-pentole-padelle-tegami"
+          }
+        },
+        "column_Dc34aY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Illuminazione.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Illuminazione: non la solita!",
+            "link": "shopify://collections/lampade"
+          }
+        },
+        "column_mbxQN4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Idee-regalo_6915b911-fabf-419d-9ccd-2ac540e33078.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Idee Regalo per sorprendere",
+            "link": "shopify://collections/idee-regalo"
+          }
+        },
+        "column_VbCxwQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bagno.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Per un Bagno funzionale",
+            "link": "shopify://collections/complementi-arredo-bagno"
+          }
+        }
+      },
+      "block_order": [
+        "column_kUiCKr",
+        "column_RtQ7KC",
+        "column_H9PG3A",
+        "column_Dc34aY",
+        "column_mbxQN4",
+        "column_VbCxwQ"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn_9TN369": {
       "type": "multicolumn",
       "blocks": {
@@ -535,6 +534,7 @@
         "column_C4atBN",
         "column_7gPQEt"
       ],
+      "disabled": true,
       "custom_css": [
         ".multicolumn-card__image-wrapper {margin-left: 0px; margin-right: 0px;}",
         ".multicolumn-card__info {padding-left: 0px;}"
@@ -936,7 +936,6 @@
     "featured_collection_6FgbJX",
     "separator_yHaRH3",
     "rich_text_3eGJVG",
-    "multicolumn_pyNBEg",
     "separator_UazLhC",
     "multicolumn_9rJCWz",
     "separator_zH6Qpr",
@@ -944,6 +943,7 @@
     "collage_dNW4nf",
     "separator_jwXVJA",
     "rich_text_7Vggwn",
+    "multicolumn_pyNBEg",
     "multicolumn_9TN369",
     "separator_HKUMQy",
     "separator_cV7Bmi",
