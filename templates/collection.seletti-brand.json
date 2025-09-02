@@ -103,9 +103,9 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Non perderti le occasioni a prezzo speciale selezionate tra le collezioni <strong>Seletti</strong>: scopri le promozioni in corso! Esplora nuovi mondi celebrando la vita e la sua bellezza, dai servizi per la tavola a<strong>i curiosi oggetti </strong>per arredare con personalità. Un viaggio tra <strong>design visionario e ironia pop</strong>, nato da collaborazioni con designer nazionali e internazionali.</p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p>Dimentica l’arredo convenzionale: la collezione <strong>Superfurniture di Seletti</strong> esplode di colori, forme ironiche e carattere pop. Un mix irriverente di design e personalità, perfetto per chi vuole rompere le regole… con stile.</p>",
+            "link_label": "SCOPRI SUBITO TUTTA LA COLLEZIONE!",
+            "link": "shopify://collections/superfurniture-seletti"
           }
         },
         "column_LEpgA4": {
