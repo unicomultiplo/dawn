@@ -70,16 +70,6 @@
             "link": "shopify://collections/seletti"
           }
         },
-        "column_bXRdYJ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Outdoor-Seletti.jpg",
-            "title": "Outdoor Seletti",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://collections/arredo-giardino"
-          }
-        },
         "column_dHGQgR": {
           "type": "column",
           "settings": {
@@ -119,15 +109,25 @@
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_Qdy6e7"
           }
+        },
+        "column_bXRdYJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Outdoor-Seletti.jpg",
+            "title": "Outdoor Seletti",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/arredo-giardino"
+          }
         }
       },
       "block_order": [
         "column_8FGYCt",
-        "column_bXRdYJ",
         "column_dHGQgR",
         "column_qiB9cq",
         "column_PKtqHD",
-        "column_YmwtR8"
+        "column_YmwtR8",
+        "column_bXRdYJ"
       ],
       "settings": {
         "title": "",
