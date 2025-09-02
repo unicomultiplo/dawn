@@ -391,9 +391,9 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Tavola.2.jpg",
-            "title": "",
+            "title": "Tavola: mai uguale!",
             "text": "",
-            "link_label": "Tavola: mai uguale!",
+            "link_label": "",
             "link": "shopify://collections/cucina-e-tavola"
           }
         },
@@ -401,9 +401,9 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Vassoi-e-taglieri.2.jpg",
-            "title": "",
+            "title": "Vassoi e Taglieri: dalla cucina alla tavola!",
             "text": "",
-            "link_label": "Vassoi e Taglieri: dalla cucina alla tavola!",
+            "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata"
           }
         },
@@ -411,9 +411,9 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Cucina.jpg",
-            "title": "",
+            "title": "Cucina: tra utilità e Arte",
             "text": "",
-            "link_label": "Cucina: tra utilità e Arte",
+            "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-pentole-padelle-tegami"
           }
         },
@@ -421,9 +421,9 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Illuminazione.jpg",
-            "title": "",
+            "title": "Illuminazione: non la solita!",
             "text": "",
-            "link_label": "Illuminazione: non la solita!",
+            "link_label": "",
             "link": "shopify://collections/lampade"
           }
         },
@@ -431,9 +431,9 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Idee-regalo_6915b911-fabf-419d-9ccd-2ac540e33078.jpg",
-            "title": "",
+            "title": "Idee Regalo per sorprendere",
             "text": "",
-            "link_label": "Idee Regalo per sorprendere",
+            "link_label": "",
             "link": "shopify://collections/idee-regalo"
           }
         },
@@ -441,9 +441,9 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Bagno.jpg",
-            "title": "",
+            "title": "Per un Bagno funzionale",
             "text": "",
-            "link_label": "Per un Bagno funzionale",
+            "link_label": "",
             "link": "shopify://collections/complementi-arredo-bagno"
           }
         }
