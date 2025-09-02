@@ -63,27 +63,86 @@
         "padding_bottom": 0
       }
     },
-    "image_banner_dc8VCJ": {
+    "image_banner_HUnNNM": {
       "type": "image-banner",
       "blocks": {
-        "buttons_6hqgbD": {
+        "buttons_JLXXhx": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Selezione OUTDOOR",
+            "button_label_1": "NEW! Seletti Amanita",
             "button_link_1": "shopify://collections/outdoor-seletti",
             "button_style_secondary_1": false,
-            "button_label_2": "VITAMIN Collection",
-            "button_link_2": "shopify://collections/vitamin-seletti",
+            "button_label_2": "Collezione Kintsugi",
+            "button_link_2": "shopify://collections/seletti-catalogo-prodotti-kintsugi",
             "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "buttons_6hqgbD"
+        "buttons_JLXXhx"
       ],
       "settings": {
-        "image": "shopify://shop_images/seletti_Amanita.webp",
-        "image_2": "shopify://shop_images/vitamin-seletti-unico_-e-multiplo_528777c9-832a-4355-9284-2dcdf2312db2.png",
+        "image": "shopify://shop_images/amanita-magna-graecia-seletti.webp",
+        "image_2": "shopify://shop_images/kintsugi-lamp-seletti-new.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "multicolumn_TCmKJE": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_UieCPL": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Non perderti le occasioni a prezzo speciale selezionate tra le collezioni <strong>Seletti</strong>: scopri le promozioni in corso! Esplora nuovi mondi celebrando la vita e la sua bellezza, dai servizi per la tavola a<strong>i curiosi oggetti </strong>per arredare con personalità. Un viaggio tra <strong>design visionario e ironia pop</strong>, nato da collaborazioni con designer nazionali e internazionali.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_LEpgA4": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_UieCPL",
+        "column_LEpgA4"
+      ],
+      "settings": {
+        "title": "Seletti: NOVITA'",
+        "heading_size": "h0",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_dc8VCJ": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/seletti-forniture-new-chair-superforniture.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -136,6 +195,7 @@
         "text_PePwpm",
         "button_kEi6Qw"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/sole-luna-seletti-arico_aee9d784-b96a-47fd-8b55-8d46e95168f1.webp",
@@ -1008,6 +1068,8 @@
   "order": [
     "banner",
     "multicolumn_4fT4dH",
+    "image_banner_HUnNNM",
+    "multicolumn_TCmKJE",
     "image_banner_dc8VCJ",
     "image_with_text_7gxWGt",
     "multicolumn_kp8jzB",
