@@ -25,7 +25,7 @@
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 40,
+            "image_overlay_opacity": 20,
             "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
             "text_alignment_mobile": "center"
           }
@@ -43,7 +43,7 @@
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 40,
+            "image_overlay_opacity": 20,
             "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
             "text_alignment_mobile": "center"
           }
@@ -55,7 +55,7 @@
       ],
       "settings": {
         "layout": "full_bleed",
-        "slide_height": "medium",
+        "slide_height": "adapt_image",
         "slider_visual": "numbers",
         "auto_rotate": false,
         "change_slides_speed": 5,
