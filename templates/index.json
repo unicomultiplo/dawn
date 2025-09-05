@@ -198,40 +198,40 @@
         "column_XrjaiE": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Crashbaggage-valigia.webp",
+            "image": "shopify://shop_images/Brabantia-cucina.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/crash-baggage"
+            "link": "https://www.unicoemultiplo.com/products/brabantia-sinkstyle-organiser-set-mineral-infinite-grey"
           }
         },
         "column_XCzETy": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Izipizi-occhiaklidasole.webp",
+            "image": "shopify://shop_images/brabantia-make-take.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/izipizi"
+            "link": "https://www.unicoemultiplo.com/products/brabantia-make-take-borraccia-termica-da-0-5-l"
           }
         },
         "column_RUzwg4": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Take-make-brabantia.webp",
+            "image": "shopify://shop_images/brabantia-bragno.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/brabantia-brabantia-make-take"
+            "link": "https://www.unicoemultiplo.com/collections/complementi-arredo-bagno"
           }
         },
         "column_qimwBB": {
           "type": "column",
           "settings": {
-            "title": "<strong>Travel Chic</strong>",
-            "text": "<p>Porta con te la<strong> leggerezza dell’estate </strong>con accessori pratici e irresistibili  che uniscono <strong>comfort, freschezza </strong>e stile vacanziero.<br/></p>",
+            "title": "<strong>Daily Reset</strong>",
+            "text": "<p>Porta <strong>leggerezza e armonia nel ritorno </strong>alla routine con accessori smart che uniscono <strong>funzionalità e cura di sé</strong>, dalla cucina alla scrivania fino al bagno.</p>",
             "link_label": "VEDI ORA",
-            "link": "shopify://collections/tempo-libero"
+            "link": "https://www.unicoemultiplo.com/collections/brabantia"
           }
         }
       },
@@ -249,7 +249,7 @@
         ".multicolumn-list__item:last-child .multicolumn-card__info {display: flex; flex-direction: column;}"
       ],
       "settings": {
-        "title": "ESTATE: Valigia, Sole, Acqua",
+        "title": "SETTEMBRE: Casa, Ufficio, Benessere",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
