@@ -11,6 +11,34 @@
   "name": "t:sections.header.name",
   "type": "header",
   "sections": {
+    "header": {
+      "type": "header",
+      "custom_css": [
+        ".mega-menu__list {display: flex; flex-wrap: wrap;}",
+        ".mega-menu__list > li {width: 10em;}",
+        ".list-menu__item {font-size: 1.3rem;}",
+        ".list-menu__item .icon-caret {top: calc(50% - 0.4rem);}",
+        "#HeaderMenu-promo span,#HeaderDrawer-promo {color: #000 !important; background: var(--highlight-color);}",
+        "#HeaderMenu-promo span {border-radius: 20px; padding: 6px 15px 4px 15px; margin: -5px;}",
+        "#HeaderDrawer-san-valentino span,#HeaderMenu-san-valentino span {color: #bb587c !important; font-weight: 700; text-shadow: 0 0 15px #bb587c, 0 0 50px rgba(11, 65, 100, 0.2);}"
+      ],
+      "settings": {
+        "logo_position": "top-left",
+        "menu": "main-menu",
+        "menu_type_desktop": "mega",
+        "sticky_header_type": "none",
+        "show_line_separator": true,
+        "color_scheme": "scheme-1",
+        "menu_color_scheme": "scheme-1",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "enable_customer_avatar": true,
+        "mobile_logo_position": "left",
+        "margin_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
@@ -58,38 +86,10 @@
         "enable_country_selector": false,
         "enable_language_selector": false
       }
-    },
-    "header": {
-      "type": "header",
-      "custom_css": [
-        ".mega-menu__list {display: flex; flex-wrap: wrap;}",
-        ".mega-menu__list > li {width: 10em;}",
-        ".list-menu__item {font-size: 1.3rem;}",
-        ".list-menu__item .icon-caret {top: calc(50% - 0.4rem);}",
-        "#HeaderMenu-promo span,#HeaderDrawer-promo {color: #000 !important; background: var(--highlight-color);}",
-        "#HeaderMenu-promo span {border-radius: 20px; padding: 6px 15px 4px 15px; margin: -5px;}",
-        "#HeaderDrawer-san-valentino span,#HeaderMenu-san-valentino span {color: #bb587c !important; font-weight: 700; text-shadow: 0 0 15px #bb587c, 0 0 50px rgba(11, 65, 100, 0.2);}"
-      ],
-      "settings": {
-        "logo_position": "top-left",
-        "menu": "main-menu",
-        "menu_type_desktop": "mega",
-        "sticky_header_type": "none",
-        "show_line_separator": true,
-        "color_scheme": "scheme-1",
-        "menu_color_scheme": "scheme-1",
-        "enable_country_selector": false,
-        "enable_language_selector": false,
-        "enable_customer_avatar": true,
-        "mobile_logo_position": "left",
-        "margin_bottom": 0,
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
     }
   },
   "order": [
-    "announcement-bar",
-    "header"
+    "header",
+    "announcement-bar"
   ]
 }

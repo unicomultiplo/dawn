@@ -95,6 +95,7 @@
         "column_EMQ8ey",
         "column_thtXjU"
       ],
+      "disabled": true,
       "settings": {
         "title": "Brandani: Novità e Proposte del momento",
         "heading_size": "h1",
@@ -112,37 +113,9 @@
         "padding_bottom": 0
       }
     },
-    "featured_collection_EihEex": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "heading_size": "h0",
-        "description": "",
-        "show_description": false,
-        "description_style": "subtitle",
-        "collection": "superfurniture-seletti",
-        "products_to_show": 8,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "scheme-2",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 24,
-        "padding_bottom": 24
-      }
-    },
     "image_banner_qREnQ4": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/oceano_1_2.webp",
         "image_2": "shopify://shop_images/evergreen-melamina-brandani.webp",
@@ -171,14 +144,14 @@
         "text_b3CnpN": {
           "type": "text",
           "settings": {
-            "text": "<p>dddcdcdcdc</p>",
-            "text_style": "body"
+            "text": "<p>Con <strong>Calipso</strong> la tavola si veste di emozione: toni morbidi, design autentico e quella calda eleganza che trasforma ogni gesto in un piccolo rito!</p>",
+            "text_style": "subtitle"
           }
         },
         "button_BkhTAt": {
           "type": "button",
           "settings": {
-            "button_label": "Scoprilo subito",
+            "button_label": "Scopri Calipso",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -189,10 +162,9 @@
         "text_b3CnpN",
         "button_BkhTAt"
       ],
-      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/brandani-tavolo-pieghevole-outdoor.webp",
-        "height": "small",
+        "image": "shopify://shop_images/tazzina-caffe-calipso-cipria-set-2-pz-stoneware_1.webp",
+        "height": "large",
         "desktop_image_width": "large",
         "layout": "image_first",
         "desktop_content_position": "top",
@@ -459,6 +431,7 @@
         "featured_collection_BxxeNg",
         "featured_collection_VJRMde"
       ],
+      "disabled": true,
       "settings": {
         "title": "Stoviglie in Melamina",
         "heading_size": "h1",
@@ -916,7 +889,6 @@
     "multicolumn_4fT4dH",
     "image_banner_dc8VCJ",
     "multicolumn_gaht3W",
-    "featured_collection_EihEex",
     "image_banner_qREnQ4",
     "image_with_text_Xdma7m",
     "multicolumn_tdPnkh",
