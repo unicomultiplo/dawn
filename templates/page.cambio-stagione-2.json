@@ -1,0 +1,1158 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "custom_css": [],
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_xxGrrA": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Tp6qBM": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DhWp9r": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Come orientarsi nella giungla di materiali e rivestimenti per scegliere la padella perfetta, </strong>sicura e duratura?",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Tp6qBM",
+        "column_DhWp9r"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "multicolumn_6fXjNw": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_LnRFgT": {
+          "type": "column",
+          "settings": {
+            "title": "Come riconoscere una padella antiaderente di qualità",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/pages/padelle-antiaderenti-guida-completa?#shopify-section-template--25351687733513__multicolumn_FjffwH"
+          }
+        },
+        "column_fkMzE8": {
+          "type": "column",
+          "settings": {
+            "title": "Qual è il miglior rivestimento antiaderente per le tue esigenze?",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/pages/padelle-antiaderenti-guida-completa?#shopify-section-template--25351687733513__collapsible_content_dqtXmG"
+          }
+        },
+        "column_bN6gr3": {
+          "type": "column",
+          "settings": {
+            "title": "Padelle antiaderenti e salute: cosa c’è da sapere davvero",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/pages/padelle-antiaderenti-guida-completa?#shopify-section-template--25351687733513__multicolumn_qjWjLF"
+          }
+        },
+        "column_Ey4w4m": {
+          "type": "column",
+          "settings": {
+            "title": "Come far durare più a lungo una padella antiaderente",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/pages/padelle-antiaderenti-guida-completa?#shopify-section-template--25351687733513__image_with_text_QcgJTF"
+          }
+        },
+        "column_bnrgcr": {
+          "type": "column",
+          "settings": {
+            "title": "Domande frequenti e falsi miti sulle padelle antiaderenti",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/pages/padelle-antiaderenti-guida-completa?#shopify-section-template--25351687733513__collapsible_content_7AGHFD"
+          }
+        }
+      },
+      "block_order": [
+        "column_LnRFgT",
+        "column_fkMzE8",
+        "column_bN6gr3",
+        "column_Ey4w4m",
+        "column_bnrgcr"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "shopify://collections/piatti-in-bone-china",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 40
+      }
+    },
+    "multicolumn_Anyn8K": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_y9zNeh": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_y9zNeh"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_FjffwH": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_kxz9kV": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Wd4gi7": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7yaUAU": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>✔️ <strong>Materiale del corpo. </strong><em> Evita padelle troppo sottili: si deformano facilmente con il calore.</em><br/>Alluminio forgiato o acciaio inox multistrato offrono una distribuzione uniforme del calore e una buona resistenza nel tempo.<br/><br/>✔️ <strong>Rivestimento antiaderente. </strong>Cerca padelle con 2 o 3 strati: durano di più e resistono meglio all’usura. PTFE (spesso senza PFOA), ceramica e titanio sono i più comuni. <br/><br/>✔️ <strong>Compatibilità con l’induzione. </strong>Un fondo irregolare riduce l’efficienza e può danneggiare il piano.<br/>Il fondo deve essere piatto per garantire il corretto contatto con il piano a induzione. <br/><br/>✔️ <strong>Peso e maneggevolezza. </strong>Troppo leggera = instabile. Troppo pesante = scomoda.<br/>Una padella ben bilanciata è più sicura e comoda da usare. <br/></p><p>✔️ <strong>Rivenditore affidabile. </strong>Acquistare da brand trasparenti e affidabili offre più garanzie su sicurezza, materiali e assistenza.<br/><br/>❌ <strong>Attenzione ai prezzi troppo bassi. </strong>Un prezzo molto basso può indicare materiali scadenti o rivestimenti non sicuri. <em>Meglio spendere qualcosa in più per un prodotto che dura davvero.</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Tk9def": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-pans-pots-collection.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_kxz9kV",
+        "column_Wd4gi7",
+        "column_7yaUAU",
+        "column_Tk9def"
+      ],
+      "settings": {
+        "title": "<strong>Come riconoscere una padella antiaderente di qualità?</strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_mLQVrD": {
+      "type": "rich-text",
+      "blocks": {
+        "text_FA4ibg": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Per cucinare meglio, più a lungo, con stile e consapevolezza →</strong></p>"
+          }
+        },
+        "button_ceX9GD": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scopri la collezione ceramica",
+            "button_link": "shopify://collections/knindustrie-catalogo-prodotti-black",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_FA4ibg",
+        "button_ceX9GD"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "multicolumn_VR4EHF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_7QAYWz": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><em>🎯 </em><em><strong>Scegliere la padella antiaderente giusta</strong></em><em> è un investimento per la tua salute e per cucinare con piacere ogni giorno: massima antiaderenza, zero stress, sicurezza garantita e lunga durata!<br/></em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_7QAYWz"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_BtLArj": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_hrjUBp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Padelle-antiaderenti-1.jpg",
+            "title": "",
+            "text": "<p></p><p></p><p></p><p></p><p><strong>Il rivestimento è tutto:</strong> una vera padella antiaderente ha più strati (almeno 3), che garantiscono resistenza, distribuzione uniforme del calore e massima antiaderenza. Più strati = migliore performance.</p><p></p><p></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_EffmEg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Padelle-antiaderenti-2.jpg",
+            "title": "",
+            "text": "<p><strong>Come viene applicato conta:</strong> il rivestimento spruzzato è più economico ma meno duraturo. Quello applicato a caldo (a fusione) aderisce meglio al corpo della padella, offrendo una superficie più resistente e uniforme.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_9Kq9Ny": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/abct-knindustrei-padelle.webp",
+            "title": "",
+            "text": "<p><strong>Durata nel tempo:</strong> una buona padella mantiene le sue proprietà antiaderenti per anni, se usata e pulita correttamente. Diffida dai miracoli promessi: se la performance dura solo pochi mesi, era solo marketing.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_hrjUBp",
+        "column_EffmEg",
+        "column_9Kq9Ny"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<strong>Quali caratteristiche rendono una padella davvero antiaderente (e cosa invece è solo marketing)</strong>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_rUYVXT": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_zVUbWn": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p> <strong>Osserva i dettagli fisici:</strong> una padella di qualità ha un certo peso (non troppo leggera), uno spessore uniforme, materiali solidi. Se sembra fragile… probabilmente lo è.</p><p> <strong>Controlla le certificazioni:</strong> diciture come <em>PFOA free</em> o marchi di qualità garantiscono l’assenza di sostanze tossiche e un rivestimento sicuro per la salute.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_iTpFyz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/LOGO-PADELLE-ANTIADERENTI.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_RF4CRn": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>...Infine, per un acquisto davvero oculato, <strong>vi consigliamo vivamente di verificare attentamente il brand che produce le padelle e, cosa altrettanto importante, di consultare le recensioni di altri clienti.</strong></p><p> Le esperienze di chi ha già utilizzato quella specifica padella possono offrire indicazioni preziose sulla sua reale qualità, sulla sua durata nel tempo e sulle sue effettive prestazioni in cucina. Un marchio affidabile e recensioni positive sono spesso un ottimo segnale di un investimento ben fatto.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_zVUbWn",
+        "column_iTpFyz",
+        "column_RF4CRn"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<strong>Come distinguere a colpo d’occhio una </strong><em><strong>VERA</strong></em><strong> padella antiaderente</strong>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_7pqqwm": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3d3Ayz": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>Quali caratteristiche rendono una padella davvero antiaderente (e cosa invece è solo marketing)</strong></h3><h3></h3><p><strong>Il rivestimento è tutto:</strong> una vera padella antiaderente ha più strati (almeno 3), che garantiscono resistenza, distribuzione uniforme del calore e massima antiaderenza. Più strati = migliore performance.</p><p><strong>Come viene applicato conta:</strong> il rivestimento spruzzato è più economico ma meno duraturo. Quello applicato a caldo (a fusione) aderisce meglio al corpo della padella, offrendo una superficie più resistente e uniforme.</p><p><strong>Durata nel tempo:</strong> una buona padella mantiene le sue proprietà antiaderenti per anni, se usata e pulita correttamente. Diffida dai miracoli promessi: se la performance dura solo pochi mesi, era solo marketing.</p><h3></h3><h3></h3>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_FWHacW": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>Come distinguere a colpo d’occhio una </strong><em><strong>VERA</strong></em><strong> padella antiaderente</strong></h3><p> <strong>Osserva i dettagli fisici:</strong> una padella di qualità ha un certo peso (non troppo leggera), uno spessore uniforme, materiali solidi. Se sembra fragile… probabilmente lo è.</p><p> <strong>Controlla le certificazioni:</strong> diciture come <em>PFOA free</em> o marchi di qualità garantiscono l’assenza di sostanze tossiche e un rivestimento sicuro per la salute.</p><p><br/>...Infine, per un acquisto davvero oculato, <strong>vi consigliamo vivamente di verificare attentamente il brand che produce le padelle e, cosa altrettanto importante, di consultare le recensioni di altri clienti.</strong> Le esperienze di chi ha già utilizzato quella specifica padella possono offrire indicazioni preziose sulla sua reale qualità, sulla sua durata nel tempo e sulle sue effettive prestazioni in cucina. Un marchio affidabile e recensioni positive sono spesso un ottimo segnale di un investimento ben fatto.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_3d3Ayz",
+        "column_FWHacW"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collapsible_content_38zbhc": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_EXxPA8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Differenza tra Rivestimento Antiaderente spruzzato e Rivestimento Antiaderente a Caldo",
+            "icon": "eye",
+            "row_content": "<h3><strong>Rivestimento Antiaderente Spruzzato (Spray Coating)</strong></h3><p>Questo è il metodo più comune e solitamente il più economico per applicare il rivestimento antiaderente sulle padelle.</p><ul><li><strong>Come Funziona</strong>: Il materiale antiaderente (spesso PTFE o una miscela ceramica) viene nebulizzato e spruzzato sulla superficie della padella, proprio come si dipinge a spruzzo. Di solito, vengono applicati più strati molto sottili, uno alla volta, con una cottura intermedia per consolidare ogni strato.</li><li><strong>Caratteristiche</strong>:</li><li><strong>Pro</strong>: È un processo flessibile, adatto a diverse forme di padelle. Permette di ottenere superfici lisce e un'antiaderenza immediata.</li><li><strong>Contro</strong>: Gli strati sono generalmente meno spessi e meno densi. Questo può rendere il rivestimento <strong>più vulnerabile a graffi e usura</strong>, portando a una durata minore rispetto ad altri metodi, specialmente con un uso intensivo o utensili metallici. È più facile che si stacchi o si rovini nel tempo.</li><li><strong>Uso Tipico</strong>: Si trova spesso su padelle di fascia media o economica.</li></ul><h3><strong>Rivestimento Antiaderente a Caldo (Roller Coating / Coil Coating / Roll-to-Roll)</strong></h3><p>Questo metodo è più complesso e costoso, ma offre risultati di qualità superiore in termini di durata e resistenza. A volte viene anche chiamato \"a rullo\" o \"industriale\".</p><ul><li><strong>Come Funziona</strong>: Il rivestimento antiaderente viene applicato su grandi fogli di metallo (alluminio o acciaio) prima che questi vengano stampati e formati per diventare padelle. Il foglio di metallo passa attraverso rulli che applicano il rivestimento in modo estremamente uniforme e controllato. Successivamente, il metallo rivestito viene sottoposto a temperature molto alte, che \"fondono\" il rivestimento al metallo, creando un legame estremamente forte e duraturo. Solo dopo questo processo di \"cottura\" e adesione, i fogli vengono tagliati e modellati per creare le padelle.</li><li><strong>Caratteristiche</strong>:</li><li><strong>Pro</strong>: Il rivestimento è <strong>molto più spesso, uniforme e compatto</strong>. Il legame con il metallo sottostante è eccezionalmente forte, rendendo la padella <strong>molto più resistente a graffi, abrasioni e distacco del rivestimento</strong>. La durata complessiva della padella è notevolmente maggiore.</li><li><strong>Contro</strong>: È un processo più costoso e meno flessibile per quanto riguarda le forme complesse della padella (poiché il rivestimento viene applicato su un foglio piatto).</li><li><strong>Uso Tipico</strong>: Si trova su padelle di fascia alta e professionale, dove la durabilità è una priorità assoluta. Alcuni brand di alta qualità utilizzano questo metodo per garantire prestazioni superiori.</li></ul><p><br/><br/></p><h3><strong>Perché la Differenza Conta </strong></h3><p>Capire questa differenza ti permette di fare una scelta più consapevole:</p><ul><li>Se cerchi una padella economica per un uso occasionale o per \"testare\" un tipo di rivestimento, una padella con rivestimento a spruzzo potrebbe andare bene.</li><li>Se desideri un prodotto che duri nel tempo, resista all'uso quotidiano (anche con utensili non perfetti) e mantenga le sue proprietà antiaderenti a lungo, è <strong>fondamentale investire in padelle con rivestimenti applicati con metodi più robusti come quello a caldo</strong>. Spesso le aziende che usano questi metodi ne fanno un vanto e lo specificano nelle descrizioni dei prodotti.</li></ul><p></p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_LR9aTQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "L'Antiaderente CERAMICO KNINDUSTRIE: Qualità, Ecosostenibilità e Tecnologia Nanometrica",
+            "icon": "eye",
+            "row_content": "<p><br/>Le padelle antiaderenti in ceramica di <a href=\"/collections/knindustrie-catalogo-prodotti-abct\" title=\"ABCT by KnIndustrie\"><strong>KNINDUSTRIE</strong></a> sono all'avanguardia, grazie a un rivestimento nanotecnologico di alta qualità che beneficia del processo a caldo. Questa applicazione, che fissa lo strato in modo più resistente rispetto allo spruzzo, sfrutta le proprietà uniche della materia a livello nanometrico per garantire prestazioni superiori.<br/><br/></p><h3><strong>Cosa significa \"nanotecnologico\"?</strong></h3><p>Il prefisso \"nano-\" si riferisce a una scala di grandezza: un nanometro (nm) è un miliardesimo di metro (10^-9 metri). Per darti un'idea, un capello umano ha uno spessore di circa 80.000-100.000 nanometri.</p><p>Un trattamento nanotecnologico implica l'uso di <strong>nanoparticelle</strong> o la creazione di <strong>strutture a livello nanometrico</strong> sulla superficie del materiale. Queste dimensioni infinitesimali conferiscono ai materiali proprietà fisiche e chimiche uniche, diverse da quelle che gli stessi materiali avrebbero a dimensioni macroscopiche.</p><h3><strong>Come funziona il trattamento nanotecnologico per l'antiaderenza?</strong></h3><p></p><ol><li><strong>Creare superfici estremamente lisce o con micro-strutture specifiche:</strong> le nanoparticelle riducono drasticamente l'area di contatto tra il cibo e la pentola. Meno contatto significa meno adesione, quindi più antiaderenza.</li><li><strong>Aumentare l'idrorepellenza e l'oleorepellenza:</strong> i  rivestimenti nanotecnologici sono progettati per respingere acqua (idrorepellenza) e oli/grassi (oleorepellenza). Questo significa che i liquidi e i residui di cibo scivolano via più facilmente, rendendo la superficie \"antiaderente\" e facile da pulire. È un po' come l'effetto \"foglia di loto\", dove le gocce d'acqua rotolano via senza bagnare la superficie.</li><li><strong>Migliorare la durezza e la resistenza all'abrasione:</strong> Integrando nanoparticelle di materiali molto duri (come ceramiche o ossidi metallici) all'interno del rivestimento, si può aumentare significativamente la sua resistenza a graffi e abrasioni. Questo è un punto cruciale, perché la durabilità è spesso il tallone d'Achille dei rivestimenti antiaderenti tradizionali.</li><li><strong>Creare legami più forti con il substrato:</strong> Le tecniche di applicazione nanotecnologiche possono favorire un legame più intimo e resistente tra il rivestimento e il substrato (l'alluminio della pentola), riducendo il rischio di sfaldamento o distacco nel tempo.</li></ol><p>.</p><h3><strong>Vantaggi dei rivestimenti nanotecnologici antiaderenti:</strong></h3><ul><li><strong>Antiaderenza migliorata:</strong> maggiore facilità nel cucinare e nel pulire.</li><li><strong>Maggiore durata:</strong> resistenza superiore a graffi, abrasioni e usura.</li><li><strong>Resistenza alle alte temperature:</strong> spesso più elevata rispetto ai tradizionali rivestimenti in PTFE.</li><li><strong>Minore utilizzo di oli/grassi:</strong> contribuisce a una cucina più sana.</li><li><strong>Facilità di pulizia:</strong> riduce la necessità di detergenti aggressivi.</li><li><strong>Assenza di PFAS/PFOA:</strong> molti di questi rivestimenti sono promossi come \"PTFE-free\" e \"PFOA-free\", il che li rende attraenti per chi è preoccupato per queste sostanze chimiche.</li></ul><p>In sintesi, il \"trattamento nanotecnologico\" per l'antiaderenza si riferisce a una categoria di rivestimenti avanzati (spesso ceramici) che utilizzano la scienza dei materiali a scala nanometrica per offrire prestazioni superiori in termini di antiaderenza, durata e sicurezza.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_EXxPA8",
+        "collapsible_row_LR9aTQ"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_T79FP8": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_K74rHL": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><em> 🔍 </em><em><strong>Lo sapevi?</strong></em><em> Le padelle antiaderenti in ceramica, oltre a essere sicure e resistenti, sono anche eco-friendly e rispettose dell’ambiente.<br/></em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_K74rHL"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_dqtXmG": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_mwf3Yf": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Scegliere la padella antiaderente giusta richiede attenzione",
+            "icon": "none",
+            "row_content": "<p>È importante puntare su prodotti sicuri per la salute, ma anche efficienti e durevoli. I due aspetti chiave da valutare sono la <strong>conducibilità termica</strong> e i <strong>materiali</strong> che assicurano una cottura uniforme. Le padelle migliori? Quelle più spesse: offrono prestazioni superiori e un eccellente rapporto qualità-prezzo.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_7zUNY3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Padelle in teflon: pro, contro e quando conviene davvero usarle",
+            "icon": "check_mark",
+            "row_content": "<p>Le padelle in teflon spiccano per la loro eccezionale antiaderenza, ideale per cotture delicate come uova o pesce, e per la facilità di pulizia. Tuttavia, sono meno resistenti ai graffi e alle alte temperature rispetto ad altre tipologie (evitare il surriscaldamento oltre i 260°C<strong>) </strong>, in passato, la presenza di PFOA durante la produzione sollevava preoccupazioni per la salute (oggi risolte in molti prodotti). Conviene usarle per specifiche preparazioni a fuoco medio-basso dove l'antiaderenza è prioritaria.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_T8ckV7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Padelle in ceramica: cosa offrono e quando sono la scelta migliore",
+            "icon": "check_mark",
+            "row_content": "<p>Le padelle in ceramica offrono una buona anti aderenza, notevole resistenza ai graffi e alle alte temperature, e sono realizzate senza PFOA, risultando una scelta più sicura ed ecosostenibile. La loro facilità di pulizia, anche con prodotti non delicati, è un altro vantaggio. Sono la scelta migliore per un uso quotidiano versatile, cotture a temperature medie e alte, e per chi cerca una soluzione durevole e attenta alla salute.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_XXcX9D": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Titanio, Marmo, Granito: quando la resistenza fa la differenza",
+            "icon": "check_mark",
+            "row_content": "<p>Questi rivestimenti rinforzati offrono maggiore resistenza all'usura e ai graffi rispetto al Teflon e alla ceramica base. Il <strong>titanio</strong> è ideale per un uso frequente e alta durabilità, mentre i rivestimenti <strong>marmo/granito</strong> offrono un buon compromesso tra prestazioni e prezzo per un uso più intenso.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_mwf3Yf",
+        "collapsible_row_7zUNY3",
+        "collapsible_row_T8ckV7",
+        "collapsible_row_XXcX9D"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "<strong>Qual è il miglior rivestimento antiaderente per le tue esigenze?</strong>",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "scheme-1",
+        "container_color_scheme": "scheme-1",
+        "open_first_collapsible_row": true,
+        "image": "shopify://shop_images/knindustrie-abct-handle-video.gif",
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_HrqFVy": {
+      "type": "rich-text",
+      "blocks": {
+        "text_4XQFD3": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>👉 Cerchi la soluzione migliore per cucinare in modo sano, duraturo e senza sostanze nocive?<br/><br/>Scopri la nostra selezione di padelle in ceramica </strong></p>"
+          }
+        },
+        "button_KL9zeD": {
+          "type": "button",
+          "settings": {
+            "button_label": "[Vedi la collezione]",
+            "button_link": "shopify://collections/knindustrie-catalogo-prodotti-abct",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_4XQFD3",
+        "button_KL9zeD"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_zULC3p": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<style>\n  .table-wrapper {\n    overflow-x: auto;\n    -webkit-overflow-scrolling: touch;\n  }\n\n  .comparison-table {\n    display: grid;\n    grid-template-columns: auto auto auto auto auto;\n    gap: 8px;\n    font-size: 14px;\n    min-width: max-content;\n    margin: 20px auto;\n    word-break: break-word;\n  }\n\n  .comparison-table .header {\n    font-weight: bold;\n    background-color: #f3f3f3;\n    padding: 8px;\n    border-bottom: 2px solid #ccc;\n    text-align: center;\n    white-space: nowrap;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n  }\n\n  .comparison-table .cell {\n    padding: 8px;\n    background-color: #fff;\n    border-bottom: 1px solid #ddd;\n    text-align: center;\n    white-space: nowrap;\n  }\n\n  .highlight {\n    background-color: #e6ffe6;\n    font-weight: bold;\n  }\n</style>\n\n<div class=\"table-wrapper\">\n  <div class=\"comparison-table\">\n    <div class=\"header\">Materiale</div>\n    <div class=\"header\">Antiaderenza</div>\n    <div class=\"header\">Durata</div>\n    <div class=\"header\">Sostenibilità</div>\n    <div class=\"header\">Facilità di pulizia</div>\n\n    <div class=\"cell\">Teflon (PTFE)</div>\n    <div class=\"cell\">⭐ ⭐ ⭐ ⭐ ☆</div>\n    <div class=\"cell\">Media</div>\n    <div class=\"cell\">Bassa</div>\n    <div class=\"cell\">⭐ ⭐ ⭐ ⭐ ⭐</div>\n\n    <div class=\"cell\">Titanio</div>\n    <div class=\"cell\">⭐ ⭐ ⭐ ⭐ ⭐</div>\n    <div class=\"cell\">Alta</div>\n    <div class=\"cell\">Media</div>\n    <div class=\"cell\">⭐ ⭐ ⭐ ⭐ ☆</div>\n\n    <div class=\"cell highlight\">Ceramica</div>\n    <div class=\"cell highlight\">⭐ ⭐ ⭐ ⭐ ⭐</div>\n    <div class=\"cell highlight\">Alta</div>\n    <div class=\"cell highlight\">Alta</div>\n    <div class=\"cell highlight\">⭐ ⭐ ⭐ ⭐ ⭐</div>\n\n    <div class=\"cell\">Acciaio inox</div>\n    <div class=\"cell\">⭐ ⭐ ☆ ☆ ☆</div>\n    <div class=\"cell\">Molto alta</div>\n    <div class=\"cell\">Alta</div>\n    <div class=\"cell\">⭐ ⭐ ⭐ ☆ ☆</div>\n  </div>\n</div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_q4GCUK": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_TDQY7d": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_bnJdmz": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>Design pulito, anima green: ecco perché scegliamo la ceramica!<br/></strong></h3><p><br/>Abbiamo selezionato  brand che utilizzano <strong>rivestimenti ceramici di alta qualità</strong>, perché crediamo in una cucina più sana, facile da pulire e attenta all’ambiente.<br/>La ceramica che proponiamo è <strong>resistente, sicura e bella da vedere</strong>, in perfetto equilibrio tra <strong>funzionalità, estetica e sostenibilità</strong>.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_TDQY7d",
+        "column_bnJdmz"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "shopify://collections/piatti-in-bone-china",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_9eEVfW": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gmWXNr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brandani-shuttle-antiaderente.webp",
+            "title": "<strong>BRANDANI </strong>Rivestimento ceramico antiaderente <strong>ILAG XERADUR 3</strong>",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/shuttle-brandani"
+          }
+        },
+        "column_e7DdPQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-beyond-basic-the-saucepan-casseruola-giallo-1.jpg",
+            "title": "<strong>KNINDUSTRIE </strong>Corpo in <strong>acciaio</strong> con rivestimento<strong> antiaderente ceramico</strong>",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/2949-knindustrie-beyond-basic-the-saucepan-casseruola-giallo"
+          }
+        },
+        "column_LceAPg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/the-omelette.webp",
+            "title": "<strong>KNINDUSTRIE Antiaderente rinforzato</strong>  con<strong> cristalli di diamante</strong>",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/2470-knindustrie-the-omelette-beyond-basic-padella-frittata"
+          }
+        },
+        "column_TzFJt9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/KnIndustrie-ABCT-Casseruola-Bianca_16-cm-2.jpg",
+            "title": "<strong>KNINDUSTRIE</strong> La collezione <strong>ABCT </strong>alluminio,  antiaderente<strong> ceramico</strong>",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-abct"
+          }
+        },
+        "column_mCCchC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Black_mood_1_1.jpg",
+            "title": "<strong>KNINDUSTRIE</strong> La collezione Black <strong>alluminio</strong>, <strong>antiaderente ceramico</strong>",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-black"
+          }
+        }
+      },
+      "block_order": [
+        "column_gmWXNr",
+        "column_e7DdPQ",
+        "column_LceAPg",
+        "column_TzFJt9",
+        "column_mCCchC"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_bEDH9B": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_qiUGK3": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>🟢 La padella in ceramica <strong>Shuttle Brandani </strong>è già progettata per durare: resistente ai graffi, senza PFOA, bella da vedere.<br/><br/><a href=\"/collections/shuttle-brandani\" title=\"Shuttle Brandani\"><strong>→ Provala ora</strong></a></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_qiUGK3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_qjWjLF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_EnYmWU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/padelle-antiaderenti-migliori-3.jpg",
+            "title": "",
+            "text": "<h3><strong>Le padelle antiaderenti moderne sono sicure?</strong></h3><p><strong>Assolutamente si.</strong> Grazie all’eliminazione del PFOA e alle rigorose normative europee, i prodotti attuali sono sicuri per l’uso alimentare. Le ricerche confermano che le padelle di buona qualità non rappresentano un rischio, a patto che vengano utilizzate correttamente: è importante non superare i 260°C, soprattutto nel caso del Teflon. È cruciale <strong>distinguere tra una padella 'sicura' e una padella 'non danneggiata'</strong>. La sicurezza si riferisce all'assenza di rilascio di sostanze nocive durante la cottura, mentre l'integrità fisica ('non danneggiata') riguarda l'assenza di graffi profondi o deformazioni che ne comprometterebbero la funzionalità. </p><p></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3ChXTK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Come-capire-se-e-il-momento-di-cambiare-le-padelle.webp",
+            "title": "",
+            "text": "<h3><strong>Quando una padella antiaderente può diventare dannosa</strong></h3><p>Se il rivestimento antiaderente è gravemente danneggiato o la padella è stata surriscaldata più volte, può diventare pericolosa. In queste condizioni, infatti, potrebbe rilasciare particelle o fumi durante la cottura, potenzialmente nocivi per la salute. In casi del genere, la scelta più sicura è sostituire la padella senza esitazioni.</p><p></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_bcCJfe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BLACK_mood_1_1.webp",
+            "title": "",
+            "text": "<h3><strong>Come usare correttamente una padella antiaderente senza rischi</strong></h3><p>Trattare bene una padella antiaderente significa garantirle <strong>lunga vita e prestazioni ottimali</strong>. Oltre a non surriscaldarla e a usare utensili adeguati, evita di <strong>tagliare il cibo direttamente nella padella</strong>, per non danneggiare la superficie.<br/>Anche nella cottura quotidiana, basta <strong>un po' di attenzione</strong> per evitare danni: un uso consapevole riduce i rischi per la salute e mantiene l'efficacia del rivestimento.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_EnYmWU",
+        "column_3ChXTK",
+        "column_bcCJfe"
+      ],
+      "settings": {
+        "title": "<strong>Padelle antiaderenti e salute: cosa c’è da sapere davvero  </strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "shopify://collections/piatti-in-bone-china",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_wVxtVr": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_VMLw8R": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>📌 <strong>Il segreto delle pentole antiaderenti?</strong> Zero grassi, niente cibo che si attacca e pulizia facile: più gusto, meno fatica!</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_VMLw8R"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_aAFBXa": {
+      "type": "rich-text",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_QcgJTF": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_aAYjVx": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Come far durare più a lungo una padella antiaderente</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_brtDXa": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Buone pratiche d’uso per proteggere il rivestimento</strong></h3><p>Per prolungare la durata del rivestimento antiaderente, utilizza <strong>utensili in silicone, legno o plastica resistente al calore</strong>, evitando quelli in metallo che possono graffiare la superficie.</p><p>Non surriscaldare mai la padella a vuoto: le <strong>alte temperature</strong> danneggiano il rivestimento e possono causare il rilascio di sostanze nocive. È buona abitudine <strong>scaldarla gradualmente</strong>, magari con un filo d’olio o con gli ingredienti già inseriti.</p><p>Evita lo <strong>shock termico</strong>: non mettere la padella calda sotto l’acqua fredda. Aspetta qualche minuto prima di lavarla per non comprometterne la forma e il rivestimento.</p><p></p><h3><strong>Come pulire e conservare correttamente una padella antiaderente</strong></h3><p>Lava la padella con <strong>spugne morbide e detergenti delicati</strong>. Evita spugne abrasive, pagliette metalliche e, se possibile, la lavastoviglie, perché i cicli aggressivi ne riducono la durata.<br/>In caso di sporco ostinato, lasciala in ammollo qualche minuto prima di lavare.<br/>Dopo il lavaggio, <strong>asciugala bene</strong> e <strong>non impilarla direttamente con altre padelle</strong>: usa un panno o un separatore per evitare graffi.<br/>Conservala con cura e <strong>non trascurare l’asciugatura</strong>: piccole attenzioni quotidiane mantengono la tua padella antiaderente in perfette condizioni più a lungo.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_aAYjVx",
+        "text_brtDXa"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Padelle-Antiaderenti-guida-completa-per-scegliere-il-modello-giusto-per-la-tua-cucina-6.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_XJgk3d": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_iNndq6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brabantia-Utensili-da-cucina-in-legno-Set-di-3-4_1.webp",
+            "title": "Utensili ideali per le padelle antiaderenti!",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/brabantia-profile-utensili-da-cucina-in-legno-set-di-3"
+          }
+        },
+        "column_3PGefL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/25259_1.jpg",
+            "title": "Leccapentole Brabantia, il silicone che ama le tue pentole.",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/5236-brabantia-asty-leccapiatti-in-silicone"
+          }
+        },
+        "column_QDXRTj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brandani-nebulizzatore-techno-collection-ricarica-usb.webp",
+            "title": "Solo il velo d’olio che serve: l’antiaderente ringrazia!",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/brandani-nebulizzatore-techno-collection-ricarica-usb"
+          }
+        },
+        "column_mQaWke": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brabantia-set-3-panni-imbottiti-per-pulizia-in-mic-mixed-colours-mixed-colours_d8c4d86e-0eea-4958-a55d-e11d2f0de14f.jpg",
+            "title": "Spugne in microfibra, per lavare con delicatezza!",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/brabantia-food-set-3-panni-imbottiti-per-pulizia-mixed-colours"
+          }
+        },
+        "column_HVVEGN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brabantia-pannino-sinkside-panno-in-microfibra-bianco-2_41f88308-462a-4ba9-8ffe-8da1c4b700ea.jpg",
+            "title": "Un panno in microfibra morbido e antigraffio",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/3140-brabantia-pannino-sinkside-panno-in-microfibra-bianco"
+          }
+        },
+        "column_XRPgez": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brabantia-tappetino-scolapiatti-in-silicone-jade-green.webp",
+            "title": "Per far asciugare dolcemente le tue padelle!",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/brabantia-food-tappetino-scolapiatti-in-silicone-jade-green"
+          }
+        }
+      },
+      "block_order": [
+        "column_iNndq6",
+        "column_3PGefL",
+        "column_QDXRTj",
+        "column_mQaWke",
+        "column_HVVEGN",
+        "column_XRPgez"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<strong>Utensili e accessori per la cura delle tue padelle</strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_tim6dE": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_cXMp4H": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><em><strong>🔧 Consigli dell’Esperto: Cura delle padelle Antiaderenti</strong></em><br/>Usa utensili in <strong>silicone</strong>, non scaldarla a vuoto, lasciala raffreddare prima di lavarla. Pulisci con <strong>detergenti delicati</strong> e spugne morbide, asciugala bene e <strong>proteggila se la impili.</strong></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_cXMp4H"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_7AGHFD": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_bzUMeg": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Cosa succede se si graffia una padella antiaderente?",
+            "icon": "fire",
+            "row_content": "<p>Quando una padella antiaderente si graffia, il rivestimento in Teflon (PTFE) può deteriorarsi, riducendo l’efficacia antiaderente e causando l’adesione dei cibi durante la cottura. Sebbene l'ingestione occasionale di piccole particelle di Teflon non sia ritenuta pericolosa, poiché il materiale è chimicamente inerte e non viene assorbito dall’organismo, i graffi profondi possono esporre il metallo sottostante, come l’alluminio, che potrebbe interagire con gli alimenti.<br/></p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_GgNqhi": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Qual è la vera differenza tra padelle in teflon e padelle in ceramica?",
+            "icon": "fire",
+            "row_content": "<p>La principale differenza tra una padella antiaderente in ceramica e una in teflon (PTFE) riguarda il tipo di rivestimento e il comportamento durante l’uso. <strong>Le padelle in ceramica hanno un rivestimento a base di materiali naturali</strong>, privo di PTFE e PFOA, e sono spesso considerate <strong>un’alternativa più ecologica.</strong> Resistono a temperature più elevate, fino a circa 400°C, ma tendono a perdere più rapidamente la loro capacità antiaderente con l’uso.</p><p>Le padelle in teflon, invece, utilizzano un polimero sintetico estremamente scivoloso che garantisce un’ottima antiaderenza nel tempo, a patto che non vengano surriscaldate oltre i 260°C. Se usate correttamente, durano più a lungo e mantengono buone prestazioni. Oggi, grazie all’eliminazione del PFOA, sono considerate sicure per l’uso alimentare. In sintesi, la ceramica è ideale per chi cerca una soluzione più naturale e resistente al calore, mentre il teflon è perfetto per chi desidera massima antiaderenza e semplicità d’uso, purché vengano rispettate alcune accortezze.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_4fNCdJ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quali sono le padelle più sane per cucinare ogni giorno?",
+            "icon": "fire",
+            "row_content": "<p>Le padelle considerate più sicure e salutari per l’uso quotidiano sono quelle realizzate con materiali atossici, resistenti e privi di sostanze nocive come PFOA o metalli pesanti. Tra le migliori opzioni ci sono:</p><ul><li> realizzate con rivestimenti naturali, sono prive di PTFE e PFOA, ideali per chi cerca un'alternativa ecologica e salutare.<br/></li><li>prive di rivestimenti, non rilasciano sostanze chimiche, ma richiedono un po’ più di attenzione per evitare che il cibo si attacchi.<br/></li><li>naturali e prive di rivestimenti, garantiscono una cottura uniforme e arricchiscono gli alimenti con piccole quantità di ferro.<br/></li><li> se usate correttamente, sono sicure e pratiche per l’uso quotidiano.<br/></li></ul>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_UBEqJr": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quali padelle è meglio evitare (e per quale motivo)",
+            "icon": "fire",
+            "row_content": "<p>Le padelle e le pentole di alta qualità oggi disponibili sul mercato sono realizzate con materiali selezionati per garantire non solo prestazioni elevate in cucina, ma anche il rispetto delle proprietà naturali degli alimenti. Alcuni di questi materiali affondano le radici nella tradizione, come la ghisa o la ceramica, ma sono stati perfezionati grazie alla tecnologia per essere più sicuri, resistenti e durevoli. Altri, invece, sono materiali innovativi che hanno trovato nuova applicazione nel mondo della cucina per offrire praticità e salute.</p><p>Scegliere le pentole giuste significa migliorare la propria esperienza ai fornelli e contribuire al proprio benessere. Che si tratti della solidità della ghisa o della praticità dell’antiaderente, è fondamentale fare una scelta consapevole, che risponda alle esigenze personali senza compromettere la salute.</p><p><strong>In generale, è bene evitare utensili con rivestimenti antiaderenti non certificati o contenenti sostanze potenzialmente nocive come BPA, PTFE, PFOA, PFAS, nichel o alluminio non schermato</strong>. Al contrario, è consigliabile orientarsi verso materiali sicuri e affidabili come acciaio inox, ghisa, pyrex, ceramica, titanio o altri materiali tecnologicamente avanzati progettati per essere sani e durevoli nel tempo.</p><p></p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_bzUMeg",
+        "collapsible_row_GgNqhi",
+        "collapsible_row_4fNCdJ",
+        "collapsible_row_UBEqJr"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "<strong>Domande frequenti e falsi miti sulle padelle antiaderenti</strong>",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image": "shopify://shop_images/Padelle-antiaderenti-knindustrie-1.webp",
+        "image_ratio": "small",
+        "desktop_layout": "image_first",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multicolumn_xxGrrA",
+    "multicolumn_6fXjNw",
+    "multicolumn_Anyn8K",
+    "multicolumn_FjffwH",
+    "rich_text_mLQVrD",
+    "multicolumn_VR4EHF",
+    "multicolumn_BtLArj",
+    "multicolumn_rUYVXT",
+    "multicolumn_7pqqwm",
+    "collapsible_content_38zbhc",
+    "multicolumn_T79FP8",
+    "collapsible_content_dqtXmG",
+    "rich_text_HrqFVy",
+    "custom_liquid_zULC3p",
+    "multicolumn_q4GCUK",
+    "multicolumn_9eEVfW",
+    "multicolumn_bEDH9B",
+    "multicolumn_qjWjLF",
+    "multicolumn_wVxtVr",
+    "rich_text_aAFBXa",
+    "image_with_text_QcgJTF",
+    "multicolumn_XJgk3d",
+    "multicolumn_tim6dE",
+    "collapsible_content_7AGHFD"
+  ]
+}
