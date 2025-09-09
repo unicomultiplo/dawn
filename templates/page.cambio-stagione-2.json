@@ -17,6 +17,60 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_FjffwH": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_kxz9kV": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Tk9def": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/come-organizzare-l-armadio-accessori.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7yaUAU": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Il cambio di armadio è uno di quei momenti dell’anno che quasi nessuno ama davvero<strong>: un misto di fatica, ordine e, diciamocelo, un po' di caos</strong> Aprire l’armadio, svuotare tutto, decidere cosa tenere e cosa no, piegare, sistemare... </p><p><strong>Ma come si può fare il cambio di stagione senza ritrovarsi con una montagna di vestiti e la sensazione di non aver mai abbastanza spazio?</strong></p><p>C<strong>on gli strumenti giusti, tutto può diventare più semplice, veloce e persino... soddisfacente.</strong></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_kxz9kV",
+        "column_Tk9def",
+        "column_7yaUAU"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn_xxGrrA": {
       "type": "multicolumn",
       "blocks": {
@@ -32,7 +86,7 @@
         "column_DhWp9r": {
           "type": "column",
           "settings": {
-            "title": "<strong>Come orientarsi nella giungla di materiali e rivestimenti per scegliere la padella perfetta, </strong>sicura e duratura?",
+            "title": "In questa <strong>guida </strong>trovi alcuni <strong>consigli</strong>, <strong>idee pratiche </strong>e <strong>prodotti </strong>utili per affrontare il <strong>cambio di stagione</strong> senza impazzire, con uno sguardo al design e alla qualità – come piace a noi di <span style=\"text-decoration:underline\"><em>Unico & Multiplo.</em></span>",
             "text": "",
             "link_label": "",
             "link": ""
@@ -66,25 +120,25 @@
         "column_LnRFgT": {
           "type": "column",
           "settings": {
-            "title": "Come riconoscere una padella antiaderente di qualità",
+            "title": "<strong>1. Come cominciare?</strong>",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/pages/padelle-antiaderenti-guida-completa?#shopify-section-template--25351687733513__multicolumn_FjffwH"
+            "link": ""
           }
         },
         "column_fkMzE8": {
           "type": "column",
           "settings": {
-            "title": "Qual è il miglior rivestimento antiaderente per le tue esigenze?",
+            "title": "<strong>2. Usa le scatole da armadio, tue alleate per un cambio di stagione perfetto!</strong>",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/pages/padelle-antiaderenti-guida-completa?#shopify-section-template--25351687733513__collapsible_content_dqtXmG"
+            "link": ""
           }
         },
         "column_bN6gr3": {
           "type": "column",
           "settings": {
-            "title": "Padelle antiaderenti e salute: cosa c’è da sapere davvero",
+            "title": "<strong>3. Organizza l'armadio con intelligenza</strong>",
             "text": "",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/pages/padelle-antiaderenti-guida-completa?#shopify-section-template--25351687733513__multicolumn_qjWjLF"
@@ -93,7 +147,7 @@
         "column_Ey4w4m": {
           "type": "column",
           "settings": {
-            "title": "Come far durare più a lungo una padella antiaderente",
+            "title": "<strong>5. Uno stendino salvaspazio fa la differenza</strong>",
             "text": "",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/pages/padelle-antiaderenti-guida-completa?#shopify-section-template--25351687733513__image_with_text_QcgJTF"
@@ -102,7 +156,7 @@
         "column_bnrgcr": {
           "type": "column",
           "settings": {
-            "title": "Domande frequenti e falsi miti sulle padelle antiaderenti",
+            "title": "<strong>6. Il dettaglio che fa la differenza? Una buona lavanderia da casa</strong>",
             "text": "",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/pages/padelle-antiaderenti-guida-completa?#shopify-section-template--25351687733513__collapsible_content_7AGHFD"
@@ -166,103 +220,22 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_FjffwH": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_kxz9kV": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_Wd4gi7": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_7yaUAU": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>✔️ <strong>Materiale del corpo. </strong><em> Evita padelle troppo sottili: si deformano facilmente con il calore.</em><br/>Alluminio forgiato o acciaio inox multistrato offrono una distribuzione uniforme del calore e una buona resistenza nel tempo.<br/><br/>✔️ <strong>Rivestimento antiaderente. </strong>Cerca padelle con 2 o 3 strati: durano di più e resistono meglio all’usura. PTFE (spesso senza PFOA), ceramica e titanio sono i più comuni. <br/><br/>✔️ <strong>Compatibilità con l’induzione. </strong>Un fondo irregolare riduce l’efficienza e può danneggiare il piano.<br/>Il fondo deve essere piatto per garantire il corretto contatto con il piano a induzione. <br/><br/>✔️ <strong>Peso e maneggevolezza. </strong>Troppo leggera = instabile. Troppo pesante = scomoda.<br/>Una padella ben bilanciata è più sicura e comoda da usare. <br/></p><p>✔️ <strong>Rivenditore affidabile. </strong>Acquistare da brand trasparenti e affidabili offre più garanzie su sicurezza, materiali e assistenza.<br/><br/>❌ <strong>Attenzione ai prezzi troppo bassi. </strong>Un prezzo molto basso può indicare materiali scadenti o rivestimenti non sicuri. <em>Meglio spendere qualcosa in più per un prodotto che dura davvero.</em></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_Tk9def": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-pans-pots-collection.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_kxz9kV",
-        "column_Wd4gi7",
-        "column_7yaUAU",
-        "column_Tk9def"
-      ],
+    "video_nVJMEL": {
+      "type": "video",
+      "custom_css": [],
+      "name": "t:sections.video.presets.name",
       "settings": {
-        "title": "<strong>Come riconoscere una padella antiaderente di qualità?</strong>",
+        "heading": "",
         "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "enable_video_looping": false,
+        "video": "shopify://files/videos/50055_eclipse_screen_airer_ecru (1080p).mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "cover_image": "shopify://shop_images/Stendibiancheria-Eclipse-3ripiani-ecru-con-schermo-joseph-joseph.webp",
+        "description": "Joseph Joseph Eclipse Stendibiancheria 3 ripiani con schermo Ecrù",
+        "full_width": false,
+        "color_scheme": "scheme-1",
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "rich_text_mLQVrD": {
-      "type": "rich-text",
-      "blocks": {
-        "text_FA4ibg": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Per cucinare meglio, più a lungo, con stile e consapevolezza →</strong></p>"
-          }
-        },
-        "button_ceX9GD": {
-          "type": "button",
-          "settings": {
-            "button_label": "Scopri la collezione ceramica",
-            "button_link": "shopify://collections/knindustrie-catalogo-prodotti-black",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "text_FA4ibg",
-        "button_ceX9GD"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-1",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 20
       }
     },
     "multicolumn_VR4EHF": {
@@ -453,50 +426,6 @@
         "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "collapsible_content_38zbhc": {
-      "type": "collapsible-content",
-      "blocks": {
-        "collapsible_row_EXxPA8": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Differenza tra Rivestimento Antiaderente spruzzato e Rivestimento Antiaderente a Caldo",
-            "icon": "eye",
-            "row_content": "<h3><strong>Rivestimento Antiaderente Spruzzato (Spray Coating)</strong></h3><p>Questo è il metodo più comune e solitamente il più economico per applicare il rivestimento antiaderente sulle padelle.</p><ul><li><strong>Come Funziona</strong>: Il materiale antiaderente (spesso PTFE o una miscela ceramica) viene nebulizzato e spruzzato sulla superficie della padella, proprio come si dipinge a spruzzo. Di solito, vengono applicati più strati molto sottili, uno alla volta, con una cottura intermedia per consolidare ogni strato.</li><li><strong>Caratteristiche</strong>:</li><li><strong>Pro</strong>: È un processo flessibile, adatto a diverse forme di padelle. Permette di ottenere superfici lisce e un'antiaderenza immediata.</li><li><strong>Contro</strong>: Gli strati sono generalmente meno spessi e meno densi. Questo può rendere il rivestimento <strong>più vulnerabile a graffi e usura</strong>, portando a una durata minore rispetto ad altri metodi, specialmente con un uso intensivo o utensili metallici. È più facile che si stacchi o si rovini nel tempo.</li><li><strong>Uso Tipico</strong>: Si trova spesso su padelle di fascia media o economica.</li></ul><h3><strong>Rivestimento Antiaderente a Caldo (Roller Coating / Coil Coating / Roll-to-Roll)</strong></h3><p>Questo metodo è più complesso e costoso, ma offre risultati di qualità superiore in termini di durata e resistenza. A volte viene anche chiamato \"a rullo\" o \"industriale\".</p><ul><li><strong>Come Funziona</strong>: Il rivestimento antiaderente viene applicato su grandi fogli di metallo (alluminio o acciaio) prima che questi vengano stampati e formati per diventare padelle. Il foglio di metallo passa attraverso rulli che applicano il rivestimento in modo estremamente uniforme e controllato. Successivamente, il metallo rivestito viene sottoposto a temperature molto alte, che \"fondono\" il rivestimento al metallo, creando un legame estremamente forte e duraturo. Solo dopo questo processo di \"cottura\" e adesione, i fogli vengono tagliati e modellati per creare le padelle.</li><li><strong>Caratteristiche</strong>:</li><li><strong>Pro</strong>: Il rivestimento è <strong>molto più spesso, uniforme e compatto</strong>. Il legame con il metallo sottostante è eccezionalmente forte, rendendo la padella <strong>molto più resistente a graffi, abrasioni e distacco del rivestimento</strong>. La durata complessiva della padella è notevolmente maggiore.</li><li><strong>Contro</strong>: È un processo più costoso e meno flessibile per quanto riguarda le forme complesse della padella (poiché il rivestimento viene applicato su un foglio piatto).</li><li><strong>Uso Tipico</strong>: Si trova su padelle di fascia alta e professionale, dove la durabilità è una priorità assoluta. Alcuni brand di alta qualità utilizzano questo metodo per garantire prestazioni superiori.</li></ul><p><br/><br/></p><h3><strong>Perché la Differenza Conta </strong></h3><p>Capire questa differenza ti permette di fare una scelta più consapevole:</p><ul><li>Se cerchi una padella economica per un uso occasionale o per \"testare\" un tipo di rivestimento, una padella con rivestimento a spruzzo potrebbe andare bene.</li><li>Se desideri un prodotto che duri nel tempo, resista all'uso quotidiano (anche con utensili non perfetti) e mantenga le sue proprietà antiaderenti a lungo, è <strong>fondamentale investire in padelle con rivestimenti applicati con metodi più robusti come quello a caldo</strong>. Spesso le aziende che usano questi metodi ne fanno un vanto e lo specificano nelle descrizioni dei prodotti.</li></ul><p></p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_LR9aTQ": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "L'Antiaderente CERAMICO KNINDUSTRIE: Qualità, Ecosostenibilità e Tecnologia Nanometrica",
-            "icon": "eye",
-            "row_content": "<p><br/>Le padelle antiaderenti in ceramica di <a href=\"/collections/knindustrie-catalogo-prodotti-abct\" title=\"ABCT by KnIndustrie\"><strong>KNINDUSTRIE</strong></a> sono all'avanguardia, grazie a un rivestimento nanotecnologico di alta qualità che beneficia del processo a caldo. Questa applicazione, che fissa lo strato in modo più resistente rispetto allo spruzzo, sfrutta le proprietà uniche della materia a livello nanometrico per garantire prestazioni superiori.<br/><br/></p><h3><strong>Cosa significa \"nanotecnologico\"?</strong></h3><p>Il prefisso \"nano-\" si riferisce a una scala di grandezza: un nanometro (nm) è un miliardesimo di metro (10^-9 metri). Per darti un'idea, un capello umano ha uno spessore di circa 80.000-100.000 nanometri.</p><p>Un trattamento nanotecnologico implica l'uso di <strong>nanoparticelle</strong> o la creazione di <strong>strutture a livello nanometrico</strong> sulla superficie del materiale. Queste dimensioni infinitesimali conferiscono ai materiali proprietà fisiche e chimiche uniche, diverse da quelle che gli stessi materiali avrebbero a dimensioni macroscopiche.</p><h3><strong>Come funziona il trattamento nanotecnologico per l'antiaderenza?</strong></h3><p></p><ol><li><strong>Creare superfici estremamente lisce o con micro-strutture specifiche:</strong> le nanoparticelle riducono drasticamente l'area di contatto tra il cibo e la pentola. Meno contatto significa meno adesione, quindi più antiaderenza.</li><li><strong>Aumentare l'idrorepellenza e l'oleorepellenza:</strong> i  rivestimenti nanotecnologici sono progettati per respingere acqua (idrorepellenza) e oli/grassi (oleorepellenza). Questo significa che i liquidi e i residui di cibo scivolano via più facilmente, rendendo la superficie \"antiaderente\" e facile da pulire. È un po' come l'effetto \"foglia di loto\", dove le gocce d'acqua rotolano via senza bagnare la superficie.</li><li><strong>Migliorare la durezza e la resistenza all'abrasione:</strong> Integrando nanoparticelle di materiali molto duri (come ceramiche o ossidi metallici) all'interno del rivestimento, si può aumentare significativamente la sua resistenza a graffi e abrasioni. Questo è un punto cruciale, perché la durabilità è spesso il tallone d'Achille dei rivestimenti antiaderenti tradizionali.</li><li><strong>Creare legami più forti con il substrato:</strong> Le tecniche di applicazione nanotecnologiche possono favorire un legame più intimo e resistente tra il rivestimento e il substrato (l'alluminio della pentola), riducendo il rischio di sfaldamento o distacco nel tempo.</li></ol><p>.</p><h3><strong>Vantaggi dei rivestimenti nanotecnologici antiaderenti:</strong></h3><ul><li><strong>Antiaderenza migliorata:</strong> maggiore facilità nel cucinare e nel pulire.</li><li><strong>Maggiore durata:</strong> resistenza superiore a graffi, abrasioni e usura.</li><li><strong>Resistenza alle alte temperature:</strong> spesso più elevata rispetto ai tradizionali rivestimenti in PTFE.</li><li><strong>Minore utilizzo di oli/grassi:</strong> contribuisce a una cucina più sana.</li><li><strong>Facilità di pulizia:</strong> riduce la necessità di detergenti aggressivi.</li><li><strong>Assenza di PFAS/PFOA:</strong> molti di questi rivestimenti sono promossi come \"PTFE-free\" e \"PFOA-free\", il che li rende attraenti per chi è preoccupato per queste sostanze chimiche.</li></ul><p>In sintesi, il \"trattamento nanotecnologico\" per l'antiaderenza si riferisce a una categoria di rivestimenti avanzati (spesso ceramici) che utilizzano la scienza dei materiali a scala nanometrica per offrire prestazioni superiori in termini di antiaderenza, durata e sicurezza.</p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_row_EXxPA8",
-        "collapsible_row_LR9aTQ"
-      ],
-      "name": "t:sections.collapsible_content.presets.name",
-      "settings": {
-        "caption": "",
-        "heading": "",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "row",
-        "color_scheme": "",
-        "container_color_scheme": "",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "multicolumn_T79FP8": {
@@ -1130,16 +1059,15 @@
   },
   "order": [
     "main",
+    "multicolumn_FjffwH",
     "multicolumn_xxGrrA",
     "multicolumn_6fXjNw",
     "multicolumn_Anyn8K",
-    "multicolumn_FjffwH",
-    "rich_text_mLQVrD",
+    "video_nVJMEL",
     "multicolumn_VR4EHF",
     "multicolumn_BtLArj",
     "multicolumn_rUYVXT",
     "multicolumn_7pqqwm",
-    "collapsible_content_38zbhc",
     "multicolumn_T79FP8",
     "collapsible_content_dqtXmG",
     "rich_text_HrqFVy",
