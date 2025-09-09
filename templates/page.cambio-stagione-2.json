@@ -20,15 +20,6 @@
     "multicolumn_FjffwH": {
       "type": "multicolumn",
       "blocks": {
-        "column_kxz9kV": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_Tk9def": {
           "type": "column",
           "settings": {
@@ -43,14 +34,13 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Il cambio di armadio è uno di quei momenti dell’anno che quasi nessuno ama davvero<strong>: un misto di fatica, ordine e, diciamocelo, un po' di caos</strong> Aprire l’armadio, svuotare tutto, decidere cosa tenere e cosa no, piegare, sistemare... </p><p><strong>Ma come si può fare il cambio di stagione senza ritrovarsi con una montagna di vestiti e la sensazione di non aver mai abbastanza spazio?</strong></p><p>C<strong>on gli strumenti giusti, tutto può diventare più semplice, veloce e persino... soddisfacente.</strong></p>",
+            "text": "<p>Il cambio di armadio è uno di quei momenti dell’anno che quasi nessuno ama davvero: un misto di fatica, ordine e, diciamocelo, un po' di caos Aprire l’armadio, svuotare tutto, decidere cosa tenere e cosa no, piegare, sistemare... Ma come si può fare il cambio di stagione senza ritrovarsi con una montagna di vestiti e la sensazione di non aver mai abbastanza spazio?Con gli strumenti giusti, tutto può diventare più semplice, veloce e persino... soddisfacente.</p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "column_kxz9kV",
         "column_Tk9def",
         "column_7yaUAU"
       ],
@@ -59,16 +49,16 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 1,
+        "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "",
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 28,
+        "padding_bottom": 20
       }
     },
     "multicolumn_xxGrrA": {
@@ -141,7 +131,7 @@
             "title": "<strong>3. Organizza l'armadio con intelligenza</strong>",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/pages/padelle-antiaderenti-guida-completa?#shopify-section-template--25351687733513__multicolumn_qjWjLF"
+            "link": ""
           }
         },
         "column_Ey4w4m": {
@@ -150,7 +140,7 @@
             "title": "<strong>5. Uno stendino salvaspazio fa la differenza</strong>",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/pages/padelle-antiaderenti-guida-completa?#shopify-section-template--25351687733513__image_with_text_QcgJTF"
+            "link": ""
           }
         },
         "column_bnrgcr": {
@@ -159,7 +149,7 @@
             "title": "<strong>6. Il dettaglio che fa la differenza? Una buona lavanderia da casa</strong>",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/pages/padelle-antiaderenti-guida-completa?#shopify-section-template--25351687733513__collapsible_content_7AGHFD"
+            "link": ""
           }
         }
       },
@@ -245,7 +235,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><em>🎯 </em><em><strong>Scegliere la padella antiaderente giusta</strong></em><em> è un investimento per la tua salute e per cucinare con piacere ogni giorno: massima antiaderenza, zero stress, sicurezza garantita e lunga durata!<br/></em></p>",
+            "text": "<p><em>🎯 </em>Il segreto per un cambio di stagione efficace non è solo spostare i vestiti, ma <strong>fare una selezione</strong>.<em><br/></em></p>",
             "link_label": "",
             "link": ""
           }
@@ -274,58 +264,45 @@
     "multicolumn_BtLArj": {
       "type": "multicolumn",
       "blocks": {
-        "column_hrjUBp": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Padelle-antiaderenti-1.jpg",
-            "title": "",
-            "text": "<p></p><p></p><p></p><p></p><p><strong>Il rivestimento è tutto:</strong> una vera padella antiaderente ha più strati (almeno 3), che garantiscono resistenza, distribuzione uniforme del calore e massima antiaderenza. Più strati = migliore performance.</p><p></p><p></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_EffmEg": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Padelle-antiaderenti-2.jpg",
-            "title": "",
-            "text": "<p><strong>Come viene applicato conta:</strong> il rivestimento spruzzato è più economico ma meno duraturo. Quello applicato a caldo (a fusione) aderisce meglio al corpo della padella, offrendo una superficie più resistente e uniforme.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_9Kq9Ny": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/abct-knindustrei-padelle.webp",
             "title": "",
-            "text": "<p><strong>Durata nel tempo:</strong> una buona padella mantiene le sue proprietà antiaderenti per anni, se usata e pulita correttamente. Diffida dai miracoli promessi: se la performance dura solo pochi mesi, era solo marketing.</p>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qJfQG6": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Prima di tutto: non rimettere tutto dentro l’armadio in modo automatico. Questo è il momento perfetto per decidere cosa tenere, cosa donare e cosa buttare. Meno cose avrai da riporre, più facile sarà il lavoro e più spazio guadagnerai!</p><p>Il segreto per un cambio di stagione efficace non è solo spostare i vestiti, ma <strong>fare una selezione</strong>. Prima di iniziare, prenditi del tempo per esaminare ogni capo.<br/></p><p> Chiediti</p><ul><li>Ho indossato questo capo nell’ultimo anno?<br/><br/></li><li>Mi sta ancora bene? Mi fa sentire a mio agio?<br/><br/></li><li>È integro o ha bisogno di essere sistemato?<br/><br/></li></ul>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "column_hrjUBp",
-        "column_EffmEg",
-        "column_9Kq9Ny"
+        "column_9Kq9Ny",
+        "column_qJfQG6"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>Quali caratteristiche rendono una padella davvero antiaderente (e cosa invece è solo marketing)</strong>",
+        "title": "<strong>Come cominciare?</strong>",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 1,
         "column_alignment": "left",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "multicolumn_rUYVXT": {
