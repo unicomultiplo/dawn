@@ -20,6 +20,15 @@
     "multicolumn_FjffwH": {
       "type": "multicolumn",
       "blocks": {
+        "column_7yaUAU": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Il cambio di armadio è uno di quei momenti dell’anno che quasi nessuno ama davvero: un misto di fatica, ordine e, diciamocelo, un po' di caos. </p><p>Aprire l’armadio, svuotare tutto, decidere cosa tenere e cosa no, piegare, sistemare... ma come si può fare il cambio di stagione senza ritrovarsi con una montagna di vestiti e la sensazione di non aver mai abbastanza spazio? </p><p>Con gli strumenti giusti, tutto può diventare più semplice, veloce e persino... soddisfacente.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_Tk9def": {
           "type": "column",
           "settings": {
@@ -29,20 +38,11 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_7yaUAU": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Il cambio di armadio è uno di quei momenti dell’anno che quasi nessuno ama davvero: un misto di fatica, ordine e, diciamocelo, un po' di caos. </p><p>Aprire l’armadio, svuotare tutto, decidere cosa tenere e cosa no, piegare, sistemare... ma come si può fare il cambio di stagione senza ritrovarsi con una montagna di vestiti e la sensazione di non aver mai abbastanza spazio? </p><p>Con gli strumenti giusti, tutto può diventare più semplice, veloce e persino... soddisfacente.</p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "column_Tk9def",
-        "column_7yaUAU"
+        "column_7yaUAU",
+        "column_Tk9def"
       ],
       "settings": {
         "title": "",
@@ -479,7 +479,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/reisenthel-scatole-armadio_-_AI.jpg",
+        "image": "shopify://shop_images/Scatole-armadio-Reisenthel-_1_-_1.webp",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -587,11 +587,11 @@
         "color_scheme": "scheme-1",
         "container_color_scheme": "scheme-1",
         "open_first_collapsible_row": true,
-        "image": "shopify://shop_images/Scatole-armadio-Reisenthel-_1_-_1.webp",
-        "image_ratio": "large",
+        "image": "shopify://shop_images/reisenthel-scatole-armadio_-_cambio-di-stagione.png",
+        "image_ratio": "adapt",
         "desktop_layout": "image_first",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "featured_collection_q8jCYY": {
@@ -840,12 +840,91 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_cdCAzB": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_AhUrmf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brabantia-borsa-per-bucato-pepper-black-55-litri.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_aFXKiR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brabantia-stackable-portabiancheria-impilabile-grey-linn2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3KmqnV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/joseph-joseph-tota-90l-laundry-basket-ecru-_13.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_adq6Vw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/joseph-joseph-Cesto-portabiancheria-pieghevole-Hold-All.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_NG6h9t": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brabantia-cesto-per-la-biancheria-pieghevole-6.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_AhUrmf",
+        "column_aFXKiR",
+        "column_3KmqnV",
+        "column_adq6Vw",
+        "column_NG6h9t"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
     "featured_collection_CJ7bQY": {
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "title": "",
-        "heading_size": "h1",
+        "title": "👉 Guarda la nostra selezione di accessori per lavanderia",
+        "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
@@ -990,7 +1069,7 @@
         "column_LR9Q3E": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/joseph-joseph-Cesto-portabiancheria-pieghevole-Hold-All.webp",
+            "image": "shopify://shop_images/a-woman-holding-a-dress-browses-her-bedroom-clothing-rack.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -1005,8 +1084,8 @@
       "settings": {
         "title": "<strong>📝 Conclusione:</strong>",
         "heading_size": "h2",
-        "image_width": "half",
-        "image_ratio": "circle",
+        "image_width": "full",
+        "image_ratio": "adapt",
         "columns_desktop": 2,
         "column_alignment": "center",
         "background_style": "none",
@@ -1040,6 +1119,7 @@
     "multicolumn_WHMTNF",
     "video_nVJMEL",
     "image_with_text_RUebzm",
+    "multicolumn_cdCAzB",
     "featured_collection_CJ7bQY",
     "image_banner_pwcbca",
     "multicolumn_XJgk3d",
