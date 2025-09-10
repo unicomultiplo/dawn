@@ -116,28 +116,19 @@
             "link": ""
           }
         },
-        "column_fkMzE8": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>2. Usa le scatole da armadio, tue alleate per un cambio di stagione perfetto!</strong>",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_bN6gr3": {
           "type": "column",
           "settings": {
-            "title": "<strong>3. Organizza l'armadio con intelligenza</strong>",
+            "title": "<strong>2. Organizza l'armadio con intelligenza</strong>",
             "text": "",
             "link_label": "",
             "link": ""
           }
         },
-        "column_48EAhi": {
+        "column_fkMzE8": {
           "type": "column",
           "settings": {
-            "title": "<strong>4. Rinfresca i tessuti prima di riporli</strong>",
+            "title": "<strong>3. Usa le scatole da armadio, tue alleate per un cambio di stagione perfetto!</strong>",
             "text": "",
             "link_label": "",
             "link": ""
@@ -146,7 +137,7 @@
         "column_Ey4w4m": {
           "type": "column",
           "settings": {
-            "title": "<strong>5. Uno stendino salvaspazio fa la differenza</strong>",
+            "title": "<strong>4. Uno stendino salvaspazio fa la differenza</strong>",
             "text": "",
             "link_label": "",
             "link": ""
@@ -155,7 +146,16 @@
         "column_bnrgcr": {
           "type": "column",
           "settings": {
-            "title": "<strong>6. Il dettaglio che fa la differenza? Una buona lavanderia da casa</strong>",
+            "title": "<strong>5. Il dettaglio che fa la differenza? Una buona lavanderia da casa</strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_48EAhi": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>6. Rinfresca i tessuti prima di riporli: stiro verticale </strong>",
             "text": "",
             "link_label": "",
             "link": ""
@@ -164,11 +164,11 @@
       },
       "block_order": [
         "column_LnRFgT",
-        "column_fkMzE8",
         "column_bN6gr3",
-        "column_48EAhi",
+        "column_fkMzE8",
         "column_Ey4w4m",
-        "column_bnrgcr"
+        "column_bnrgcr",
+        "column_48EAhi"
       ],
       "settings": {
         "title": "",
@@ -342,13 +342,117 @@
         "padding_bottom": 0
       }
     },
+    "image_with_text_CM6mRN": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_VzREwc": {
+          "type": "heading",
+          "settings": {
+            "heading": "2. Organizza l'armadio con intelligenza",
+            "heading_size": "h1"
+          }
+        },
+        "text_XbVWhK": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Una volta che hai selezionato i capi da tenere per la nuova stagione, è il momento di sistemarli. Le <strong>grucce</strong> non sono tutte uguali! Usa grucce sottili e uniformi per recuperare spazio prezioso nel tuo armadio e creare un look ordinato e coerente. Raggruppa i capi per tipologia (giacche, camicie, pantaloni) e poi per colore: renderai il tuo armadio non solo funzionale, ma anche visivamente appagante.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_icWmT4": {
+          "type": "button",
+          "settings": {
+            "button_label": "Grucce coordinate = Armadio ordinato",
+            "button_link": "shopify://collections/complementi-arredo-appendiabiti-e-grucce",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_VzREwc",
+        "text_XbVWhK",
+        "button_icWmT4"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/brabantia-appendiabiti-linn.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_qjWjLF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_EnYmWU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brabantia-gruccia-set-4-grucce-in-alluminio-linn-1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Con le grucce giuste eviti che gli abiti scivolino o si deformino",
+            "link": "shopify://products/3150-brabantia-gruccia-set-4-grucce-in-alluminio-nero-linn"
+          }
+        },
+        "column_3ChXTK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brabantia-gruccia-set-4-grucce-in-alluminio-linn-6.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Con le grucce coordinate risparmi spazio",
+            "link": "shopify://collections/complementi-arredo-appendiabiti-e-grucce"
+          }
+        },
+        "column_bcCJfe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brabantia-laundry-set-3-grucce-soft-touch-rivestite-in-tessuto.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Con un appendiabiti dai un tocco da boutique al tuo guardaroba",
+            "link": "shopify://collections/complementi-arredo-appendiabiti-e-grucce"
+          }
+        }
+      },
+      "block_order": [
+        "column_EnYmWU",
+        "column_3ChXTK",
+        "column_bcCJfe"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "shopify://collections/piatti-in-bone-china",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
     "image_with_text_AxkmYJ": {
       "type": "image-with-text",
       "blocks": {
         "heading_YtcjtD": {
           "type": "heading",
           "settings": {
-            "heading": "2. Usa le scatole da armadio, tue alleate per un cambio di stagione perfetto!",
+            "heading": "3. Usa le scatole da armadio, tue alleate per un cambio di stagione perfetto!",
             "heading_size": "h1"
           }
         },
@@ -378,7 +482,7 @@
         "image": "shopify://shop_images/reisenthel-scatole-armadio_-_AI.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -485,7 +589,7 @@
         "open_first_collapsible_row": true,
         "image": "shopify://shop_images/Scatole-armadio-Reisenthel-_1_-_1.webp",
         "image_ratio": "large",
-        "desktop_layout": "image_second",
+        "desktop_layout": "image_first",
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -554,110 +658,6 @@
         "padding_bottom": 0
       }
     },
-    "image_with_text_CM6mRN": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_VzREwc": {
-          "type": "heading",
-          "settings": {
-            "heading": "3: Organizza l'armadio con intelligenza",
-            "heading_size": "h1"
-          }
-        },
-        "text_XbVWhK": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Una volta che hai selezionato i capi da tenere per la nuova stagione, è il momento di sistemarli. Le <strong>grucce</strong> non sono tutte uguali! Usa grucce sottili e uniformi per recuperare spazio prezioso nel tuo armadio e creare un look ordinato e coerente. Raggruppa i capi per tipologia (giacche, camicie, pantaloni) e poi per colore: renderai il tuo armadio non solo funzionale, ma anche visivamente appagante.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_icWmT4": {
-          "type": "button",
-          "settings": {
-            "button_label": "Grucce coordinate = Armadio ordinato",
-            "button_link": "shopify://collections/complementi-arredo-appendiabiti-e-grucce",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_VzREwc",
-        "text_XbVWhK",
-        "button_icWmT4"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/brabantia-appendiabiti-linn.webp",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_qjWjLF": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_EnYmWU": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brabantia-gruccia-set-4-grucce-in-alluminio-linn-1.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Con le grucce giuste eviti che gli abiti scivolino o si deformino",
-            "link": "shopify://products/3150-brabantia-gruccia-set-4-grucce-in-alluminio-nero-linn"
-          }
-        },
-        "column_3ChXTK": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brabantia-gruccia-set-4-grucce-in-alluminio-linn-6.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Con le grucce coordinate risparmi spazio",
-            "link": "shopify://collections/complementi-arredo-appendiabiti-e-grucce"
-          }
-        },
-        "column_bcCJfe": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brabantia-laundry-set-3-grucce-soft-touch-rivestite-in-tessuto.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Con un appendiabiti dai un tocco da boutique al tuo guardaroba",
-            "link": "shopify://collections/complementi-arredo-appendiabiti-e-grucce"
-          }
-        }
-      },
-      "block_order": [
-        "column_EnYmWU",
-        "column_3ChXTK",
-        "column_bcCJfe"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "portrait",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "shopify://collections/piatti-in-bone-china",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
     "rich_text_aAFBXa": {
       "type": "rich-text",
       "settings": {
@@ -669,13 +669,213 @@
         "padding_bottom": 0
       }
     },
+    "image_with_text_XzbxJQ": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_UwMkBV": {
+          "type": "heading",
+          "settings": {
+            "heading": "4. Uno stendino salvaspazio fa la differenza",
+            "heading_size": "h1"
+          }
+        },
+        "text_jgbUwJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Durante il cambio stagione si lavano tanti capi. Uno stendino solido, funzionale e salvaspazio è essenziale, soprattutto se non hai molto spazio in casa. Considera:</p><ul><li><em>stendini da parete<br/></em></li><li><em>modelli pieghevoli o estensibili<br/></em></li><li><em>materiali resistenti all'umidità.</em></li></ul><p>Perfetti anche per piccoli appartamenti.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_RfAVWH": {
+          "type": "button",
+          "settings": {
+            "button_label": "👉 Scopri i nostri [stendini da muro e modelli compatti]",
+            "button_link": "shopify://collections/stendibiancheria-e-portabiancheria-brabantia",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_UwMkBV",
+        "text_jgbUwJ",
+        "button_RfAVWH"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Stendibiancheria-Eclipse-3ripiani-ecru-con-schermo-joseph-joseph.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_WHMTNF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_a8fkeT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brabantia-385766-appendiabiti-a-muro.webp",
+            "title": "",
+            "text": "",
+            "link_label": "Stendino da parete Brabantia",
+            "link": "shopify://products/brabantia-appendiabiti-linn"
+          }
+        },
+        "column_ca8NVN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/joseph-joseph-stendibiancheria.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Modelli pieghevoli o estensibili",
+            "link": ""
+          }
+        },
+        "column_3EgEtM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brabantia-t-model-stendibiancheria-con-ali-regolabili-6.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Materiali resistenti all'umidità",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_a8fkeT",
+        "column_ca8NVN",
+        "column_3EgEtM"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "video_nVJMEL": {
+      "type": "video",
+      "custom_css": [],
+      "name": "t:sections.video.presets.name",
+      "settings": {
+        "heading": "<a href=\"/products/joseph-joseph-eclipse-stendibiancheria-3-ripiani-con-schermo-ecru\" title=\"Joseph Joseph Eclipse Stendibiancheria 3 ripiani con schermo Ecrù\">👉 Scopri Joseph Joseph Eclipse Stendibiancheria 3 ripiani con schermo Ecrù</a>",
+        "heading_size": "h2",
+        "enable_video_looping": true,
+        "video": "shopify://files/videos/50055_eclipse_screen_airer_ecru (1080p).mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "cover_image": "shopify://shop_images/Stendibiancheria-Eclipse-3ripiani-ecru-con-schermo-joseph-joseph.webp",
+        "description": "Joseph Joseph Eclipse Stendibiancheria 3 ripiani con schermo Ecrù",
+        "full_width": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_RUebzm": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_jEyPcL": {
+          "type": "heading",
+          "settings": {
+            "heading": "5. Il dettaglio che fa la differenza? Una buona lavanderia da casa",
+            "heading_size": "h1"
+          }
+        },
+        "text_8PrNhr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Completa il kit con una tavola da stiro ben progettata: ti aiuta non solo durante il cambio stagione ma in ogni momento dell’anno. Se poi la abbini a una sacca portabiancheria e a dei contenitori profumati... hai appena trasformato un noioso dovere in un piccolo rituale di benessere domestico.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_t4afDf": {
+          "type": "button",
+          "settings": {
+            "button_label": "👉 Guarda la nostra selezione di accessori per lavanderia",
+            "button_link": "shopify://collections/stendibiancheria-e-portabiancheria-brabantia",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_jEyPcL",
+        "text_8PrNhr",
+        "button_t4afDf"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/5000015-joseph-joseph-Cesto-portabiancheria-pieghevole-Hold-All-Ecru-35litri.webp",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_CJ7bQY": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "stendibiancheria-e-portabiancheria-brabantia",
+        "products_to_show": 13,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "link",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner_pwcbca": {
       "type": "image-banner",
       "blocks": {
         "heading_idrxLD": {
           "type": "heading",
           "settings": {
-            "heading": "4. Rinfresca i tessuti prima di riporli",
+            "heading": "6. Rinfresca i tessuti prima di riporli",
             "heading_size": "h1"
           }
         },
@@ -775,206 +975,6 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_XzbxJQ": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_UwMkBV": {
-          "type": "heading",
-          "settings": {
-            "heading": "5. Uno stendino salvaspazio fa la differenza",
-            "heading_size": "h1"
-          }
-        },
-        "text_jgbUwJ": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Durante il cambio stagione si lavano tanti capi. Uno stendino solido, funzionale e salvaspazio è essenziale, soprattutto se non hai molto spazio in casa. Considera:</p><ul><li><em>stendini da parete<br/></em></li><li><em>modelli pieghevoli o estensibili<br/></em></li><li><em>materiali resistenti all'umidità.</em></li></ul><p>Perfetti anche per piccoli appartamenti.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_RfAVWH": {
-          "type": "button",
-          "settings": {
-            "button_label": "👉 Scopri i nostri [stendini da muro e modelli compatti]",
-            "button_link": "shopify://collections/stendibiancheria-e-portabiancheria-brabantia",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_UwMkBV",
-        "text_jgbUwJ",
-        "button_RfAVWH"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/Stendibiancheria-Eclipse-3ripiani-ecru-con-schermo-joseph-joseph.webp",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn_WHMTNF": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_a8fkeT": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brabantia-385766-appendiabiti-a-muro.webp",
-            "title": "",
-            "text": "",
-            "link_label": "Stendino da parete Brabantia",
-            "link": "shopify://products/brabantia-appendiabiti-linn"
-          }
-        },
-        "column_ca8NVN": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/joseph-joseph-stendibiancheria.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Modelli pieghevoli o estensibili",
-            "link": ""
-          }
-        },
-        "column_3EgEtM": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brabantia-t-model-stendibiancheria-con-ali-regolabili-6.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Materiali resistenti all'umidità",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_a8fkeT",
-        "column_ca8NVN",
-        "column_3EgEtM"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
-    "video_nVJMEL": {
-      "type": "video",
-      "custom_css": [],
-      "name": "t:sections.video.presets.name",
-      "settings": {
-        "heading": "<a href=\"/products/joseph-joseph-eclipse-stendibiancheria-3-ripiani-con-schermo-ecru\" title=\"Joseph Joseph Eclipse Stendibiancheria 3 ripiani con schermo Ecrù\">👉 Scopri Joseph Joseph Eclipse Stendibiancheria 3 ripiani con schermo Ecrù</a>",
-        "heading_size": "h2",
-        "enable_video_looping": true,
-        "video": "shopify://files/videos/50055_eclipse_screen_airer_ecru (1080p).mp4",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "cover_image": "shopify://shop_images/Stendibiancheria-Eclipse-3ripiani-ecru-con-schermo-joseph-joseph.webp",
-        "description": "Joseph Joseph Eclipse Stendibiancheria 3 ripiani con schermo Ecrù",
-        "full_width": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "image_with_text_RUebzm": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_jEyPcL": {
-          "type": "heading",
-          "settings": {
-            "heading": "6. Il dettaglio che fa la differenza? Una buona lavanderia da casa",
-            "heading_size": "h1"
-          }
-        },
-        "text_8PrNhr": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Completa il kit con una tavola da stiro ben progettata: ti aiuta non solo durante il cambio stagione ma in ogni momento dell’anno. Se poi la abbini a una sacca portabiancheria e a dei contenitori profumati... hai appena trasformato un noioso dovere in un piccolo rituale di benessere domestico.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_t4afDf": {
-          "type": "button",
-          "settings": {
-            "button_label": "👉 Guarda la nostra selezione di accessori per lavanderia",
-            "button_link": "shopify://collections/stendibiancheria-e-portabiancheria-brabantia",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_jEyPcL",
-        "text_8PrNhr",
-        "button_t4afDf"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/5000015-joseph-joseph-Cesto-portabiancheria-pieghevole-Hold-All-Ecru-35litri.webp",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "featured_collection_CJ7bQY": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "stendibiancheria-e-portabiancheria-brabantia",
-        "products_to_show": 13,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "link",
-        "enable_desktop_slider": true,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn_tim6dE": {
       "type": "multicolumn",
       "blocks": {
@@ -982,7 +982,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><br/>Il cambio di stagione non deve essere una maratona faticosa. Con pochi prodotti scelti con cura e un minimo di organizzazione, puoi renderlo un’occasione per prenderti cura del tuo spazio, dei tuoi vestiti e (perché no?) anche di te stessa.Noi di Unico & Multiplo ti aiutiamo a farlo con stile, funzionalità e un pizzico di bellezza.<br/><br/></p>",
+            "text": "<p><br/>Il cambio di stagione non deve essere una maratona faticosa. Con pochi prodotti scelti con cura e un minimo di organizzazione, puoi renderlo un’occasione per prenderti cura del tuo spazio, dei tuoi vestiti e (perché no?) anche di te stessa.</p><p>Noi di Unico & Multiplo ti aiutiamo a farlo con stile, funzionalità e un pizzico di bellezza.<br/><br/></p>",
             "link_label": "",
             "link": ""
           }
@@ -1029,20 +1029,20 @@
     "multicolumn_VR4EHF",
     "multicolumn_BtLArj",
     "multicolumn_7pqqwm",
+    "image_with_text_CM6mRN",
+    "multicolumn_qjWjLF",
     "image_with_text_AxkmYJ",
     "collapsible_content_dqtXmG",
     "featured_collection_q8jCYY",
     "rich_text_HrqFVy",
-    "image_with_text_CM6mRN",
-    "multicolumn_qjWjLF",
     "rich_text_aAFBXa",
-    "image_banner_pwcbca",
-    "multicolumn_XJgk3d",
     "image_with_text_XzbxJQ",
     "multicolumn_WHMTNF",
     "video_nVJMEL",
     "image_with_text_RUebzm",
     "featured_collection_CJ7bQY",
+    "image_banner_pwcbca",
+    "multicolumn_XJgk3d",
     "multicolumn_tim6dE"
   ]
 }
