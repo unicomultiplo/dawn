@@ -943,6 +943,35 @@
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_CJ7bQY": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "stendibiancheria-e-portabiancheria-brabantia",
+        "products_to_show": 13,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "link",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -1013,6 +1042,7 @@
     "multicolumn_WHMTNF",
     "video_nVJMEL",
     "image_with_text_RUebzm",
+    "featured_collection_CJ7bQY",
     "multicolumn_tim6dE"
   ]
 }
