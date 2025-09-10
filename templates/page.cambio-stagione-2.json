@@ -386,7 +386,7 @@
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -582,7 +582,7 @@
         "caption": "",
         "heading": "Scatole da armadio con cerniere e coperchi: i vantaggi!",
         "heading_size": "h2",
-        "heading_alignment": "left",
+        "heading_alignment": "center",
         "layout": "none",
         "color_scheme": "scheme-1",
         "container_color_scheme": "scheme-1",
@@ -619,7 +619,7 @@
         "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
