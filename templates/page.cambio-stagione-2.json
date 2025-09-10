@@ -269,7 +269,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Prima di tutto: non rimettere tutto dentro l’armadio in modo automatico. Questo è il momento perfetto per <strong>decidere cosa tenere, cosa donare e cosa buttare.</strong> Meno cose avrai da riporre,<strong> più facile</strong> sarà il lavoro e più spazio guadagnerai!</p><p>Il segreto per un cambio di stagione efficace non è solo spostare i vestiti, ma fare una selezione. Prima di iniziare, prenditi del tempo per <strong>esaminare ogni capo. </strong>Chiediti:<br/><br/></p><ol><li><em><strong>Ho indossato questo capo nell’ultimo anno?<br/><br/></strong></em></li><li><em><strong>Mi sta ancora bene? Mi fa sentire a mio agio?<br/><br/></strong></em></li><li><em><strong>È integro o ha bisogno di essere sistemato?</strong></em></li></ol>",
+            "text": "<p>Prima di tutto: non rimettere tutto dentro l’armadio in modo automatico. Questo è il momento perfetto per <strong>decidere cosa tenere, cosa donare e cosa buttare.</strong> Meno cose avrai da riporre,<strong> più facile</strong> sarà il lavoro e più spazio guadagnerai!</p><p>Il segreto per un cambio di stagione efficace non è solo spostare i vestiti, ma fare una selezione. Prima di iniziare, prenditi del tempo per <strong>esaminare ogni capo. </strong>Chiediti:<br/><br/></p><ol><li><em><strong>Ho indossato questo capo nell’ultimo anno?<br/><br/></strong></em></li><li><em><strong>Mi sta ancora bene? Mi fa sentire a mio agio?<br/><br/></strong></em></li><li><em><strong>È integro o ha bisogno di essere sistemato?</strong></em><br/><br/></li></ol><p>Se la risposta è no, donalo o mettilo da parte.</p>",
             "link_label": "",
             "link": ""
           }
@@ -466,7 +466,7 @@
         "button_ctDdfX": {
           "type": "button",
           "settings": {
-            "button_label": "La nostra proposta",
+            "button_label": "Le nostre proposte",
             "button_link": "shopify://collections/complementi-arredo-scatole-armadio",
             "button_style_secondary": true
           }
@@ -594,35 +594,6 @@
         "padding_bottom": 20
       }
     },
-    "featured_collection_q8jCYY": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
-      "settings": {
-        "title": "Scopri le nostre scatole da armadio in tessuto tecnico ideali per proteggere con stile.",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "complementi-arredo-scatole-armadio",
-        "products_to_show": 25,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
     "rich_text_HrqFVy": {
       "type": "rich-text",
       "blocks": {
@@ -658,6 +629,35 @@
         "padding_bottom": 0
       }
     },
+    "featured_collection_q8jCYY": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "Scopri le nostre scatole da armadio in tessuto tecnico ideali per proteggere con stile.",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "complementi-arredo-scatole-armadio",
+        "products_to_show": 25,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "rich_text_aAFBXa": {
       "type": "rich-text",
       "settings": {
@@ -669,24 +669,69 @@
         "padding_bottom": 0
       }
     },
-    "image_with_text_XzbxJQ": {
+    "multicolumn_6t3PtW": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_kwipJ8": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><br/>Qui serve una soluzione altrettanto intelligente. Il nostro consiglio è <strong>Shoecase di Joseph Joseph</strong>: una <strong>scatola modulare per scarpe</strong> con apertura frontale ventilata e design impilabile, perfetta per proteggere sneakers, stivaletti o décolleté anche fuori stagione<br/><br/></p>",
+            "link_label": "Shoecase di Joseph Joseph",
+            "link": "shopify://products/joseph-joseph-shoecase-premium-shoe-storage-box"
+          }
+        },
+        "column_hNy6An": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Add_a_heading_9.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/joseph-joseph-shoecase-premium-shoe-storage-box"
+          }
+        }
+      },
+      "block_order": [
+        "column_kwipJ8",
+        "column_hNy6An"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<strong>E per le scarpe? </strong>Shoecase di Joseph Joseph ti cambia la vita: impilabile, ventilato, elegante.",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_PWDdLC": {
       "type": "image-with-text",
       "blocks": {
-        "heading_UwMkBV": {
+        "heading_qCEpLi": {
           "type": "heading",
           "settings": {
             "heading": "4. Uno stendino salvaspazio fa la differenza",
             "heading_size": "h1"
           }
         },
-        "text_jgbUwJ": {
+        "text_cdJtez": {
           "type": "text",
           "settings": {
             "text": "<p>Durante il cambio stagione si lavano tanti capi. Uno stendino solido, funzionale e salvaspazio è essenziale, soprattutto se non hai molto spazio in casa. Considera:</p><ul><li><em>stendini da parete<br/></em></li><li><em>modelli pieghevoli o estensibili<br/></em></li><li><em>materiali resistenti all'umidità.</em></li></ul><p>Perfetti anche per piccoli appartamenti.</p>",
             "text_style": "body"
           }
         },
-        "button_RfAVWH": {
+        "button_tEkbTL": {
           "type": "button",
           "settings": {
             "button_label": "👉 Scopri i nostri [stendini da muro e modelli compatti]",
@@ -696,16 +741,16 @@
         }
       },
       "block_order": [
-        "heading_UwMkBV",
-        "text_jgbUwJ",
-        "button_RfAVWH"
+        "heading_qCEpLi",
+        "text_cdJtez",
+        "button_tEkbTL"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/Stendibiancheria-Eclipse-3ripiani-ecru-con-schermo-joseph-joseph.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -828,7 +873,7 @@
         "image": "shopify://shop_images/5000015-joseph-joseph-Cesto-portabiancheria-pieghevole-Hold-All-Ecru-35litri.webp",
         "height": "adapt",
         "desktop_image_width": "small",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -1066,32 +1111,31 @@
             "link": ""
           }
         },
-        "column_LR9Q3E": {
+        "column_GeCJP4": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/a-woman-holding-a-dress-browses-her-bedroom-clothing-rack.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/complementi-arredo-appendiabiti-e-grucce"
+            "link": ""
           }
         }
       },
       "block_order": [
         "column_cXMp4H",
-        "column_LR9Q3E"
+        "column_GeCJP4"
       ],
       "settings": {
         "title": "<strong>📝 Conclusione:</strong>",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "center",
+        "columns_desktop": 1,
+        "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -1112,10 +1156,11 @@
     "multicolumn_qjWjLF",
     "image_with_text_AxkmYJ",
     "collapsible_content_dqtXmG",
-    "featured_collection_q8jCYY",
     "rich_text_HrqFVy",
+    "featured_collection_q8jCYY",
     "rich_text_aAFBXa",
-    "image_with_text_XzbxJQ",
+    "multicolumn_6t3PtW",
+    "image_with_text_PWDdLC",
     "multicolumn_WHMTNF",
     "video_nVJMEL",
     "image_with_text_RUebzm",
