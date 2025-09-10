@@ -195,6 +195,12 @@
         "featured_collection_zCtEyV": {
           "type": "featured_collection",
           "settings": {
+            "collection": "steamone"
+          }
+        },
+        "featured_collection_RXfTxn": {
+          "type": "featured_collection",
+          "settings": {
             "collection": "superstuff"
           }
         },
@@ -218,6 +224,7 @@
         "featured_collection_UTeQM7",
         "featured_collection_fDRgn4",
         "featured_collection_zCtEyV",
+        "featured_collection_RXfTxn",
         "featured_collection_XD3ryH"
       ],
       "name": "t:sections.collection-list.presets.name",
