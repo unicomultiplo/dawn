@@ -1046,14 +1046,14 @@
     "multicolumn_XJgk3d": {
       "type": "multicolumn",
       "blocks": {
-        "column_iNndq6": {
+        "column_RnGM4c": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Steam_Clothes_Hanger_Pepper_Black_-_8710755231780_Brabantia.webp",
+            "image": "shopify://shop_images/SteamOne_Foldable-seealto-stiro-verticale.webp",
             "title": "",
             "text": "",
-            "link_label": "Brabantia Appendiabiti Linn",
-            "link": "shopify://products/brabantia-appendiabiti-linn"
+            "link_label": "SeeAlto Stiro Verticale SteamOne",
+            "link": ""
           }
         },
         "column_f4Mmcm": {
@@ -1066,21 +1066,21 @@
             "link": ""
           }
         },
-        "column_RnGM4c": {
+        "column_iNndq6": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/SteamOne_Foldable-seealto-stiro-verticale.webp",
+            "image": "shopify://shop_images/Steam_Clothes_Hanger_Pepper_Black_-_8710755231780_Brabantia.webp",
             "title": "",
             "text": "",
-            "link_label": "SeeAlto Stiro Verticale SteamOne",
-            "link": ""
+            "link_label": "Brabantia Appendiabiti Linn",
+            "link": "shopify://products/brabantia-appendiabiti-linn"
           }
         }
       },
       "block_order": [
-        "column_iNndq6",
+        "column_RnGM4c",
         "column_f4Mmcm",
-        "column_RnGM4c"
+        "column_iNndq6"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
