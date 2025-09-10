@@ -210,24 +210,6 @@
         "padding_bottom": 0
       }
     },
-    "video_nVJMEL": {
-      "type": "video",
-      "custom_css": [],
-      "name": "t:sections.video.presets.name",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video": "shopify://files/videos/50055_eclipse_screen_airer_ecru (1080p).mp4",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "cover_image": "shopify://shop_images/Stendibiancheria-Eclipse-3ripiani-ecru-con-schermo-joseph-joseph.webp",
-        "description": "Joseph Joseph Eclipse Stendibiancheria 3 ripiani con schermo Ecrù",
-        "full_width": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "multicolumn_VR4EHF": {
       "type": "multicolumn",
       "blocks": {
@@ -235,7 +217,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><em>🎯 </em>Il segreto per un cambio di stagione efficace non è solo spostare i vestiti, ma <strong>fare una selezione</strong>.<em><br/></em></p>",
+            "text": "<p><em>🎯 </em>Il segreto per un cambio di stagione efficace non è solo spostare i vestiti, ma <strong>fare una selezione : Decluttering!</strong><em><br/></em></p>",
             "link_label": "",
             "link": ""
           }
@@ -277,7 +259,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Prima di tutto: non rimettere tutto dentro l’armadio in modo automatico. Questo è il momento perfetto per decidere cosa tenere, cosa donare e cosa buttare. Meno cose avrai da riporre, più facile sarà il lavoro e più spazio guadagnerai!</p><p>Il segreto per un cambio di stagione efficace non è solo spostare i vestiti, ma <strong>fare una selezione</strong>. Prima di iniziare, prenditi del tempo per esaminare ogni capo.<br/></p><p> Chiediti</p><ul><li>Ho indossato questo capo nell’ultimo anno?<br/><br/></li><li>Mi sta ancora bene? Mi fa sentire a mio agio?<br/><br/></li><li>È integro o ha bisogno di essere sistemato?<br/><br/></li></ul>",
+            "text": "<p>Prima di tutto: non rimettere tutto dentro l’armadio in modo automatico. Questo è il momento perfetto per <strong>decidere cosa tenere, cosa donare e cosa buttare.</strong> Meno cose avrai da riporre,<strong> più facile</strong> sarà il lavoro e più spazio guadagnerai!</p><p>Il segreto per un cambio di stagione efficace non è solo spostare i vestiti, ma fare una selezione. Prima di iniziare, prenditi del tempo per <strong>esaminare ogni capo. </strong><br/><br/>Chiediti:<br/><br/></p><ol><li><em>Ho indossato questo capo nell’ultimo anno?<br/><br/></em></li><li><em>Mi sta ancora bene? Mi fa sentire a mio agio?<br/><br/></em></li><li><em>È integro o ha bisogno di essere sistemato?</em><br/><br/></li></ol>",
             "link_label": "",
             "link": ""
           }
@@ -289,8 +271,8 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>Come cominciare?</strong>",
-        "heading_size": "h2",
+        "title": "1. Come cominciare?",
+        "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
@@ -300,62 +282,58 @@
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 0
       }
     },
-    "multicolumn_rUYVXT": {
+    "video_nVJMEL": {
+      "type": "video",
+      "custom_css": [],
+      "name": "t:sections.video.presets.name",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video": "shopify://files/videos/50055_eclipse_screen_airer_ecru (1080p).mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "cover_image": "shopify://shop_images/Stendibiancheria-Eclipse-3ripiani-ecru-con-schermo-joseph-joseph.webp",
+        "description": "Joseph Joseph Eclipse Stendibiancheria 3 ripiani con schermo Ecrù",
+        "full_width": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_mH6Etq": {
       "type": "multicolumn",
       "blocks": {
-        "column_zVUbWn": {
+        "column_RAiAnA": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p> <strong>Osserva i dettagli fisici:</strong> una padella di qualità ha un certo peso (non troppo leggera), uno spessore uniforme, materiali solidi. Se sembra fragile… probabilmente lo è.</p><p> <strong>Controlla le certificazioni:</strong> diciture come <em>PFOA free</em> o marchi di qualità garantiscono l’assenza di sostanze tossiche e un rivestimento sicuro per la salute.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_iTpFyz": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/LOGO-PADELLE-ANTIADERENTI.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_RF4CRn": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>...Infine, per un acquisto davvero oculato, <strong>vi consigliamo vivamente di verificare attentamente il brand che produce le padelle e, cosa altrettanto importante, di consultare le recensioni di altri clienti.</strong></p><p> Le esperienze di chi ha già utilizzato quella specifica padella possono offrire indicazioni preziose sulla sua reale qualità, sulla sua durata nel tempo e sulle sue effettive prestazioni in cucina. Un marchio affidabile e recensioni positive sono spesso un ottimo segnale di un investimento ben fatto.</p>",
+            "text": "<p><em>🎯 </em>Il segreto per un cambio di stagione efficace non è solo spostare i vestiti, ma <strong>fare una selezione : Decluttering!</strong><em><br/></em></p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "column_zVUbWn",
-        "column_iTpFyz",
-        "column_RF4CRn"
+        "column_RAiAnA"
       ],
-      "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>Come distinguere a colpo d’occhio una </strong><em><strong>VERA</strong></em><strong> padella antiaderente</strong>",
-        "heading_size": "h2",
+        "title": "",
+        "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "left",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
         "columns_mobile": "1",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -405,35 +383,50 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_T79FP8": {
-      "type": "multicolumn",
+    "image_with_text_AxkmYJ": {
+      "type": "image-with-text",
       "blocks": {
-        "column_K74rHL": {
-          "type": "column",
+        "heading_YtcjtD": {
+          "type": "heading",
           "settings": {
-            "title": "",
-            "text": "<p><em> 🔍 </em><em><strong>Lo sapevi?</strong></em><em> Le padelle antiaderenti in ceramica, oltre a essere sicure e resistenti, sono anche eco-friendly e rispettose dell’ambiente.<br/></em></p>",
-            "link_label": "",
-            "link": ""
+            "heading": "2. Usa le scatole da armadio, tue alleate per un cambio di stagione perfetto!",
+            "heading_size": "h1"
+          }
+        },
+        "text_r8DwMF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Per un'organizzazione impeccabile, le <strong>scatole da armadio</strong> sono le tue migliori amiche. Non sono semplici contenitori, ma strumenti strategici per ottimizzare ogni angolo del tuo spazio. Scegli  quelle con etichette per una catalogazione ordinata. Puoi usarle per maglie, t-shirt, accessori e persino per le tue <strong>scarpe</strong> estive.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_ctDdfX": {
+          "type": "button",
+          "settings": {
+            "button_label": "La nostra proposta",
+            "button_link": "shopify://collections/complementi-arredo-scatole-armadio",
+            "button_style_secondary": true
           }
         }
       },
       "block_order": [
-        "column_K74rHL"
+        "heading_YtcjtD",
+        "text_r8DwMF",
+        "button_ctDdfX"
       ],
+      "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "image": "shopify://shop_images/reisenthel-scatole-armadio_-_AI.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -444,9 +437,9 @@
         "collapsible_row_mwf3Yf": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Scegliere la padella antiaderente giusta richiede attenzione",
-            "icon": "none",
-            "row_content": "<p>È importante puntare su prodotti sicuri per la salute, ma anche efficienti e durevoli. I due aspetti chiave da valutare sono la <strong>conducibilità termica</strong> e i <strong>materiali</strong> che assicurano una cottura uniforme. Le padelle migliori? Quelle più spesse: offrono prestazioni superiori e un eccellente rapporto qualità-prezzo.</p>",
+            "heading": "Scatole traspiranti e pieghevoli:",
+            "icon": "check_mark",
+            "row_content": "<p>Il vantaggio delle scatole pieghevoli è che, durante il cambio di stagione, se ne avanza qualcuna puoi semplicemente piegarla e riporla occupando il minimo spazio.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -454,9 +447,9 @@
         "collapsible_row_7zUNY3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Padelle in teflon: pro, contro e quando conviene davvero usarle",
+            "heading": "Protezione completa",
             "icon": "check_mark",
-            "row_content": "<p>Le padelle in teflon spiccano per la loro eccezionale antiaderenza, ideale per cotture delicate come uova o pesce, e per la facilità di pulizia. Tuttavia, sono meno resistenti ai graffi e alle alte temperature rispetto ad altre tipologie (evitare il surriscaldamento oltre i 260°C<strong>) </strong>, in passato, la presenza di PFOA durante la produzione sollevava preoccupazioni per la salute (oggi risolte in molti prodotti). Conviene usarle per specifiche preparazioni a fuoco medio-basso dove l'antiaderenza è prioritaria.</p>",
+            "row_content": "<p>Il coperchio con cerniera mantiene il contenuto al riparo da polvere, umidità e sporco, garantendo vestiti sempre puliti e ordinati.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -464,9 +457,9 @@
         "collapsible_row_T8ckV7": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Padelle in ceramica: cosa offrono e quando sono la scelta migliore",
+            "heading": "Praticità d’uso",
             "icon": "check_mark",
-            "row_content": "<p>Le padelle in ceramica offrono una buona anti aderenza, notevole resistenza ai graffi e alle alte temperature, e sono realizzate senza PFOA, risultando una scelta più sicura ed ecosostenibile. La loro facilità di pulizia, anche con prodotti non delicati, è un altro vantaggio. Sono la scelta migliore per un uso quotidiano versatile, cotture a temperature medie e alte, e per chi cerca una soluzione durevole e attenta alla salute.</p>",
+            "row_content": "<p>La cerniera consente di aprire e chiudere facilmente la scatola, senza doverla smontare o spostare.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -474,9 +467,39 @@
         "collapsible_row_XXcX9D": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Titanio, Marmo, Granito: quando la resistenza fa la differenza",
+            "heading": "Ordine e organizzazione",
             "icon": "check_mark",
-            "row_content": "<p>Questi rivestimenti rinforzati offrono maggiore resistenza all'usura e ai graffi rispetto al Teflon e alla ceramica base. Il <strong>titanio</strong> è ideale per un uso frequente e alta durabilità, mentre i rivestimenti <strong>marmo/granito</strong> offrono un buon compromesso tra prestazioni e prezzo per un uso più intenso.</p>",
+            "row_content": "<p>Perfette per suddividere capi e accessori per stagione o tipologia, aiutano a mantenere l’armadio sempre ordinato.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_ANxgah": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Salvaspazio",
+            "icon": "check_mark",
+            "row_content": "<p>Grazie alla forma rettangolare e ai coperchi, le scatole si impilano in modo stabile, sfruttando al meglio lo spazio disponibile.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_XQDTce": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Versatilità",
+            "icon": "check_mark",
+            "row_content": "<p>Ideali non solo per l’armadio, ma anche per ripostigli, mensole o sotto letto.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_hAPrqz": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Estetica curata",
+            "icon": "check_mark",
+            "row_content": "<p>Disponibili in diversi colori, rendono l’organizzazione più gradevole anche alla vista.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -486,23 +509,55 @@
         "collapsible_row_mwf3Yf",
         "collapsible_row_7zUNY3",
         "collapsible_row_T8ckV7",
-        "collapsible_row_XXcX9D"
+        "collapsible_row_XXcX9D",
+        "collapsible_row_ANxgah",
+        "collapsible_row_XQDTce",
+        "collapsible_row_hAPrqz"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
         "caption": "",
-        "heading": "<strong>Qual è il miglior rivestimento antiaderente per le tue esigenze?</strong>",
-        "heading_size": "h1",
+        "heading": "Scatole con cerniere e coperchi, i vantaggi:",
+        "heading_size": "h2",
         "heading_alignment": "left",
         "layout": "none",
         "color_scheme": "scheme-1",
         "container_color_scheme": "scheme-1",
         "open_first_collapsible_row": true,
-        "image": "shopify://shop_images/knindustrie-abct-handle-video.gif",
+        "image": "shopify://shop_images/Scatole-armadio-Reisenthel-_1_-_1.webp",
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 0
+      }
+    },
+    "featured_collection_q8jCYY": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "Scopri le nostre scatole da armadio in tessuto tecnico ideali per proteggere con stile.",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "complementi-arredo-scatole-armadio",
+        "products_to_show": 25,
+        "columns_desktop": 6,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "rich_text_HrqFVy": {
@@ -511,14 +566,14 @@
         "text_4XQFD3": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>👉 Cerchi la soluzione migliore per cucinare in modo sano, duraturo e senza sostanze nocive?<br/><br/>Scopri la nostra selezione di padelle in ceramica </strong></p>"
+            "text": "<p><strong>👉 </strong> <strong>Disponibili in diversi colori, rendono l’organizzazione più gradevole anche alla vista</strong></p>"
           }
         },
         "button_KL9zeD": {
           "type": "button",
           "settings": {
             "button_label": "[Vedi la collezione]",
-            "button_link": "shopify://collections/knindustrie-catalogo-prodotti-abct",
+            "button_link": "shopify://collections/complementi-arredo-scatole-armadio",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -1040,13 +1095,14 @@
     "multicolumn_xxGrrA",
     "multicolumn_6fXjNw",
     "multicolumn_Anyn8K",
-    "video_nVJMEL",
     "multicolumn_VR4EHF",
     "multicolumn_BtLArj",
-    "multicolumn_rUYVXT",
+    "video_nVJMEL",
+    "multicolumn_mH6Etq",
     "multicolumn_7pqqwm",
-    "multicolumn_T79FP8",
+    "image_with_text_AxkmYJ",
     "collapsible_content_dqtXmG",
+    "featured_collection_q8jCYY",
     "rich_text_HrqFVy",
     "custom_liquid_zULC3p",
     "multicolumn_q4GCUK",
