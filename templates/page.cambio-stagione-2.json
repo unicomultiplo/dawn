@@ -517,7 +517,7 @@
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
         "caption": "",
-        "heading": "Scatole con cerniere e coperchi, i vantaggi:",
+        "heading": "Scatole da armadio con cerniere e coperchi: i vantaggi!",
         "heading_size": "h2",
         "heading_alignment": "left",
         "layout": "none",
@@ -574,7 +574,7 @@
           "settings": {
             "button_label": "[Vedi la collezione]",
             "button_link": "shopify://collections/complementi-arredo-scatole-armadio",
-            "button_style_secondary": false,
+            "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
