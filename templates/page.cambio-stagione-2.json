@@ -134,6 +134,15 @@
             "link": ""
           }
         },
+        "column_48EAhi": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>4. Rinfresca i tessuti prima di riporli</strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_Ey4w4m": {
           "type": "column",
           "settings": {
@@ -157,6 +166,7 @@
         "column_LnRFgT",
         "column_fkMzE8",
         "column_bN6gr3",
+        "column_48EAhi",
         "column_Ey4w4m",
         "column_bnrgcr"
       ],
@@ -305,39 +315,6 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_mH6Etq": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_RAiAnA": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p><em>🎯 </em>Il segreto per un cambio di stagione efficace non è solo spostare i vestiti, ma <strong>fare una selezione : Decluttering!</strong><em><br/></em></p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_RAiAnA"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn_7pqqwm": {
       "type": "multicolumn",
       "blocks": {
@@ -381,6 +358,39 @@
         "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "multicolumn_nQ9rq3": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_NHytMy": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_NHytMy"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "image_with_text_AxkmYJ": {
@@ -595,138 +605,6 @@
         "padding_bottom": 0
       }
     },
-    "custom_liquid_zULC3p": {
-      "type": "custom-liquid",
-      "name": "t:sections.custom-liquid.presets.name",
-      "settings": {
-        "custom_liquid": "<style>\n  .table-wrapper {\n    overflow-x: auto;\n    -webkit-overflow-scrolling: touch;\n  }\n\n  .comparison-table {\n    display: grid;\n    grid-template-columns: auto auto auto auto auto;\n    gap: 8px;\n    font-size: 14px;\n    min-width: max-content;\n    margin: 20px auto;\n    word-break: break-word;\n  }\n\n  .comparison-table .header {\n    font-weight: bold;\n    background-color: #f3f3f3;\n    padding: 8px;\n    border-bottom: 2px solid #ccc;\n    text-align: center;\n    white-space: nowrap;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n  }\n\n  .comparison-table .cell {\n    padding: 8px;\n    background-color: #fff;\n    border-bottom: 1px solid #ddd;\n    text-align: center;\n    white-space: nowrap;\n  }\n\n  .highlight {\n    background-color: #e6ffe6;\n    font-weight: bold;\n  }\n</style>\n\n<div class=\"table-wrapper\">\n  <div class=\"comparison-table\">\n    <div class=\"header\">Materiale</div>\n    <div class=\"header\">Antiaderenza</div>\n    <div class=\"header\">Durata</div>\n    <div class=\"header\">Sostenibilità</div>\n    <div class=\"header\">Facilità di pulizia</div>\n\n    <div class=\"cell\">Teflon (PTFE)</div>\n    <div class=\"cell\">⭐ ⭐ ⭐ ⭐ ☆</div>\n    <div class=\"cell\">Media</div>\n    <div class=\"cell\">Bassa</div>\n    <div class=\"cell\">⭐ ⭐ ⭐ ⭐ ⭐</div>\n\n    <div class=\"cell\">Titanio</div>\n    <div class=\"cell\">⭐ ⭐ ⭐ ⭐ ⭐</div>\n    <div class=\"cell\">Alta</div>\n    <div class=\"cell\">Media</div>\n    <div class=\"cell\">⭐ ⭐ ⭐ ⭐ ☆</div>\n\n    <div class=\"cell highlight\">Ceramica</div>\n    <div class=\"cell highlight\">⭐ ⭐ ⭐ ⭐ ⭐</div>\n    <div class=\"cell highlight\">Alta</div>\n    <div class=\"cell highlight\">Alta</div>\n    <div class=\"cell highlight\">⭐ ⭐ ⭐ ⭐ ⭐</div>\n\n    <div class=\"cell\">Acciaio inox</div>\n    <div class=\"cell\">⭐ ⭐ ☆ ☆ ☆</div>\n    <div class=\"cell\">Molto alta</div>\n    <div class=\"cell\">Alta</div>\n    <div class=\"cell\">⭐ ⭐ ⭐ ☆ ☆</div>\n  </div>\n</div>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "multicolumn_q4GCUK": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_TDQY7d": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_bnJdmz": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h3><strong>Design pulito, anima green: ecco perché scegliamo la ceramica!<br/></strong></h3><p><br/>Abbiamo selezionato  brand che utilizzano <strong>rivestimenti ceramici di alta qualità</strong>, perché crediamo in una cucina più sana, facile da pulire e attenta all’ambiente.<br/>La ceramica che proponiamo è <strong>resistente, sicura e bella da vedere</strong>, in perfetto equilibrio tra <strong>funzionalità, estetica e sostenibilità</strong>.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_TDQY7d",
-        "column_bnJdmz"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "shopify://collections/piatti-in-bone-china",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_9eEVfW": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_gmWXNr": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brandani-shuttle-antiaderente.webp",
-            "title": "<strong>BRANDANI </strong>Rivestimento ceramico antiaderente <strong>ILAG XERADUR 3</strong>",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://collections/shuttle-brandani"
-          }
-        },
-        "column_e7DdPQ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-beyond-basic-the-saucepan-casseruola-giallo-1.jpg",
-            "title": "<strong>KNINDUSTRIE </strong>Corpo in <strong>acciaio</strong> con rivestimento<strong> antiaderente ceramico</strong>",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://products/2949-knindustrie-beyond-basic-the-saucepan-casseruola-giallo"
-          }
-        },
-        "column_LceAPg": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/the-omelette.webp",
-            "title": "<strong>KNINDUSTRIE Antiaderente rinforzato</strong>  con<strong> cristalli di diamante</strong>",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://products/2470-knindustrie-the-omelette-beyond-basic-padella-frittata"
-          }
-        },
-        "column_TzFJt9": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/KnIndustrie-ABCT-Casseruola-Bianca_16-cm-2.jpg",
-            "title": "<strong>KNINDUSTRIE</strong> La collezione <strong>ABCT </strong>alluminio,  antiaderente<strong> ceramico</strong>",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-abct"
-          }
-        },
-        "column_mCCchC": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Black_mood_1_1.jpg",
-            "title": "<strong>KNINDUSTRIE</strong> La collezione Black <strong>alluminio</strong>, <strong>antiaderente ceramico</strong>",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-black"
-          }
-        }
-      },
-      "block_order": [
-        "column_gmWXNr",
-        "column_e7DdPQ",
-        "column_LceAPg",
-        "column_TzFJt9",
-        "column_mCCchC"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn_bEDH9B": {
       "type": "multicolumn",
       "blocks": {
@@ -734,7 +612,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>🟢 La padella in ceramica <strong>Shuttle Brandani </strong>è già progettata per durare: resistente ai graffi, senza PFOA, bella da vedere.<br/><br/><a href=\"/collections/shuttle-brandani\" title=\"Shuttle Brandani\"><strong>→ Provala ora</strong></a></p>",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -760,37 +638,85 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_CM6mRN": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_VzREwc": {
+          "type": "heading",
+          "settings": {
+            "heading": "3: Organizza l'armadio con intelligenza",
+            "heading_size": "h1"
+          }
+        },
+        "text_XbVWhK": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Una volta che hai selezionato i capi da tenere per la nuova stagione, è il momento di sistemarli. Le <strong>grucce</strong> non sono tutte uguali! Usa grucce sottili e uniformi per recuperare spazio prezioso nel tuo armadio e creare un look ordinato e coerente. Raggruppa i capi per tipologia (giacche, camicie, pantaloni) e poi per colore: renderai il tuo armadio non solo funzionale, ma anche visivamente appagante.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_icWmT4": {
+          "type": "button",
+          "settings": {
+            "button_label": "Grucce coordinate = Armadio ordinato",
+            "button_link": "shopify://collections/complementi-arredo-appendiabiti-e-grucce",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_VzREwc",
+        "text_XbVWhK",
+        "button_icWmT4"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/brabantia-appendiabiti-linn.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_qjWjLF": {
       "type": "multicolumn",
       "blocks": {
         "column_EnYmWU": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/padelle-antiaderenti-migliori-3.jpg",
+            "image": "shopify://shop_images/brabantia-gruccia-set-4-grucce-in-alluminio-linn-1.jpg",
             "title": "",
-            "text": "<h3><strong>Le padelle antiaderenti moderne sono sicure?</strong></h3><p><strong>Assolutamente si.</strong> Grazie all’eliminazione del PFOA e alle rigorose normative europee, i prodotti attuali sono sicuri per l’uso alimentare. Le ricerche confermano che le padelle di buona qualità non rappresentano un rischio, a patto che vengano utilizzate correttamente: è importante non superare i 260°C, soprattutto nel caso del Teflon. È cruciale <strong>distinguere tra una padella 'sicura' e una padella 'non danneggiata'</strong>. La sicurezza si riferisce all'assenza di rilascio di sostanze nocive durante la cottura, mentre l'integrità fisica ('non danneggiata') riguarda l'assenza di graffi profondi o deformazioni che ne comprometterebbero la funzionalità. </p><p></p>",
-            "link_label": "",
-            "link": ""
+            "text": "",
+            "link_label": "Con le grucce giuste eviti che gli abiti scivolino o si deformino",
+            "link": "shopify://products/3150-brabantia-gruccia-set-4-grucce-in-alluminio-nero-linn"
           }
         },
         "column_3ChXTK": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Come-capire-se-e-il-momento-di-cambiare-le-padelle.webp",
+            "image": "shopify://shop_images/brabantia-gruccia-set-4-grucce-in-alluminio-linn-6.jpg",
             "title": "",
-            "text": "<h3><strong>Quando una padella antiaderente può diventare dannosa</strong></h3><p>Se il rivestimento antiaderente è gravemente danneggiato o la padella è stata surriscaldata più volte, può diventare pericolosa. In queste condizioni, infatti, potrebbe rilasciare particelle o fumi durante la cottura, potenzialmente nocivi per la salute. In casi del genere, la scelta più sicura è sostituire la padella senza esitazioni.</p><p></p>",
-            "link_label": "",
-            "link": ""
+            "text": "",
+            "link_label": "Con le grucce coordinate risparmi spazio",
+            "link": "shopify://collections/complementi-arredo-appendiabiti-e-grucce"
           }
         },
         "column_bcCJfe": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/BLACK_mood_1_1.webp",
+            "image": "shopify://shop_images/brabantia-laundry-set-3-grucce-soft-touch-rivestite-in-tessuto.jpg",
             "title": "",
-            "text": "<h3><strong>Come usare correttamente una padella antiaderente senza rischi</strong></h3><p>Trattare bene una padella antiaderente significa garantirle <strong>lunga vita e prestazioni ottimali</strong>. Oltre a non surriscaldarla e a usare utensili adeguati, evita di <strong>tagliare il cibo direttamente nella padella</strong>, per non danneggiare la superficie.<br/>Anche nella cottura quotidiana, basta <strong>un po' di attenzione</strong> per evitare danni: un uso consapevole riduce i rischi per la salute e mantiene l'efficacia del rivestimento.</p>",
-            "link_label": "",
-            "link": ""
+            "text": "",
+            "link_label": "Con un appendiabiti dai un tocco da boutique al tuo guardaroba",
+            "link": "shopify://collections/complementi-arredo-appendiabiti-e-grucce"
           }
         }
       },
@@ -800,10 +726,10 @@
         "column_bcCJfe"
       ],
       "settings": {
-        "title": "<strong>Padelle antiaderenti e salute: cosa c’è da sapere davvero  </strong>",
-        "heading_size": "h1",
+        "title": "",
+        "heading_size": "h2",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "portrait",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "none",
@@ -823,9 +749,9 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>📌 <strong>Il segreto delle pentole antiaderenti?</strong> Zero grassi, niente cibo che si attacca e pulizia facile: più gusto, meno fatica!</p>",
-            "link_label": "",
-            "link": ""
+            "text": "",
+            "link_label": "👉 Dai un'occhiata alla nostra selezione di grucce eleganti e funzionali",
+            "link": "shopify://collections/complementi-arredo-appendiabiti-e-grucce"
           }
         }
       },
@@ -1098,16 +1024,14 @@
     "multicolumn_VR4EHF",
     "multicolumn_BtLArj",
     "video_nVJMEL",
-    "multicolumn_mH6Etq",
     "multicolumn_7pqqwm",
+    "multicolumn_nQ9rq3",
     "image_with_text_AxkmYJ",
     "collapsible_content_dqtXmG",
     "featured_collection_q8jCYY",
     "rich_text_HrqFVy",
-    "custom_liquid_zULC3p",
-    "multicolumn_q4GCUK",
-    "multicolumn_9eEVfW",
     "multicolumn_bEDH9B",
+    "image_with_text_CM6mRN",
     "multicolumn_qjWjLF",
     "multicolumn_wVxtVr",
     "rich_text_aAFBXa",
