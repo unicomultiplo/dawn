@@ -898,6 +898,54 @@
         "padding_bottom": 0
       }
     },
+    "image_with_text_RUebzm": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_jEyPcL": {
+          "type": "heading",
+          "settings": {
+            "heading": "6. Il dettaglio che fa la differenza? Una buona lavanderia da casa",
+            "heading_size": "h1"
+          }
+        },
+        "text_8PrNhr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Completa il kit con una tavola da stiro ben progettata: ti aiuta non solo durante il cambio stagione ma in ogni momento dell’anno. Se poi la abbini a una sacca portabiancheria e a dei contenitori profumati... hai appena trasformato un noioso dovere in un piccolo rituale di benessere domestico.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_t4afDf": {
+          "type": "button",
+          "settings": {
+            "button_label": "👉 Guarda la nostra selezione di accessori per lavanderia",
+            "button_link": "shopify://collections/stendibiancheria-e-portabiancheria-brabantia",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_jEyPcL",
+        "text_8PrNhr",
+        "button_t4afDf"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/5000015-joseph-joseph-Cesto-portabiancheria-pieghevole-Hold-All-Ecru-35litri.webp",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_tim6dE": {
       "type": "multicolumn",
       "blocks": {
@@ -964,6 +1012,7 @@
     "image_with_text_XzbxJQ",
     "multicolumn_WHMTNF",
     "video_nVJMEL",
+    "image_with_text_RUebzm",
     "multicolumn_tim6dE"
   ]
 }
