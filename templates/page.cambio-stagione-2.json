@@ -896,7 +896,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify://products/brabantia-borsa-per-bucato-pepper-black-55-litri"
           }
         },
         "column_aFXKiR": {
@@ -906,7 +906,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify://products/3147-brabantia-stackable-portabiancheria-impilabile-pepper-black-linn"
           }
         },
         "column_3KmqnV": {
@@ -916,7 +916,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify://products/joseph-joseph-tota-90l-portabiancheria-laundry-basket-ecru"
           }
         },
         "column_adq6Vw": {
@@ -926,7 +926,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify://products/joseph-joseph-hold-all-cesto-portabiancheria-pieghevole-35-litri-ecru"
           }
         },
         "column_NG6h9t": {
@@ -936,7 +936,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify://products/brabantia-cesto-per-la-biancheria-pieghevole"
           }
         }
       },
@@ -1015,8 +1015,8 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Stiro Verticale",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
+            "button_link_1": "shopify://products/steamone-karl-xl-steamer-stiratore-verticale",
+            "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -1053,7 +1053,7 @@
             "title": "",
             "text": "",
             "link_label": "SeeAlto Stiro Verticale SteamOne",
-            "link": ""
+            "link": "shopify://products/steamone-karl-xl-steamer-stiratore-verticale"
           }
         },
         "column_f4Mmcm": {
