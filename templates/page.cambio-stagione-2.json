@@ -788,7 +788,7 @@
         "text_jgbUwJ": {
           "type": "text",
           "settings": {
-            "text": "<p>Durante il cambio stagione si lavano tanti capi. Uno stendino solido, funzionale e salvaspazio è essenziale, soprattutto se non hai molto spazio in casa. Considera:</p><ul><li>stendini da parete<br/></li><li>modelli pieghevoli o estensibili<br/></li><li>materiali resistenti all'umidità.</li></ul><p>Perfetti anche per piccoli appartamenti.</p>",
+            "text": "<p>Durante il cambio stagione si lavano tanti capi. Uno stendino solido, funzionale e salvaspazio è essenziale, soprattutto se non hai molto spazio in casa. Considera:</p><ul><li><em>stendini da parete<br/></em></li><li><em>modelli pieghevoli o estensibili<br/></em></li><li><em>materiali resistenti all'umidità.</em></li></ul><p>Perfetti anche per piccoli appartamenti.</p>",
             "text_style": "body"
           }
         },
@@ -994,7 +994,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/complementi-arredo-appendiabiti-e-grucce"
           }
         }
       },
