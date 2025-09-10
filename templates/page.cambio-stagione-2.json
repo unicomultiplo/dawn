@@ -269,7 +269,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Prima di tutto: non rimettere tutto dentro l’armadio in modo automatico. Questo è il momento perfetto per <strong>decidere cosa tenere, cosa donare e cosa buttare.</strong> Meno cose avrai da riporre,<strong> più facile</strong> sarà il lavoro e più spazio guadagnerai!</p><p>Il segreto per un cambio di stagione efficace non è solo spostare i vestiti, ma fare una selezione. Prima di iniziare, prenditi del tempo per <strong>esaminare ogni capo. </strong><br/><br/>Chiediti:<br/><br/></p><ol><li><em>Ho indossato questo capo nell’ultimo anno?<br/><br/></em></li><li><em>Mi sta ancora bene? Mi fa sentire a mio agio?<br/><br/></em></li><li><em>È integro o ha bisogno di essere sistemato?</em><br/><br/></li></ol>",
+            "text": "<p>Prima di tutto: non rimettere tutto dentro l’armadio in modo automatico. Questo è il momento perfetto per <strong>decidere cosa tenere, cosa donare e cosa buttare.</strong> Meno cose avrai da riporre,<strong> più facile</strong> sarà il lavoro e più spazio guadagnerai!</p><p>Il segreto per un cambio di stagione efficace non è solo spostare i vestiti, ma fare una selezione. Prima di iniziare, prenditi del tempo per <strong>esaminare ogni capo. </strong>Chiediti:<br/><br/></p><ol><li><em><strong>Ho indossato questo capo nell’ultimo anno?<br/><br/></strong></em></li><li><em><strong>Mi sta ancora bene? Mi fa sentire a mio agio?<br/><br/></strong></em></li><li><em><strong>È integro o ha bisogno di essere sistemato?</strong></em><br/><br/></li></ol>",
             "link_label": "",
             "link": ""
           }
@@ -294,24 +294,6 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "video_nVJMEL": {
-      "type": "video",
-      "custom_css": [],
-      "name": "t:sections.video.presets.name",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video": "shopify://files/videos/50055_eclipse_screen_airer_ecru (1080p).mp4",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "cover_image": "shopify://shop_images/Stendibiancheria-Eclipse-3ripiani-ecru-con-schermo-joseph-joseph.webp",
-        "description": "Joseph Joseph Eclipse Stendibiancheria 3 ripiani con schermo Ecrù",
-        "full_width": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -428,7 +410,7 @@
       "settings": {
         "image": "shopify://shop_images/reisenthel-scatole-armadio_-_AI.jpg",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -535,7 +517,7 @@
         "container_color_scheme": "scheme-1",
         "open_first_collapsible_row": true,
         "image": "shopify://shop_images/Scatole-armadio-Reisenthel-_1_-_1.webp",
-        "image_ratio": "adapt",
+        "image_ratio": "large",
         "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 0
@@ -553,7 +535,7 @@
         "collection": "complementi-arredo-scatole-armadio",
         "products_to_show": 25,
         "columns_desktop": 6,
-        "full_width": false,
+        "full_width": true,
         "show_view_all": false,
         "view_all_style": "solid",
         "enable_desktop_slider": true,
@@ -582,7 +564,7 @@
         "button_KL9zeD": {
           "type": "button",
           "settings": {
-            "button_label": "[Vedi la collezione]",
+            "button_label": "[Vedi la collezione scatole armadio]",
             "button_link": "shopify://collections/complementi-arredo-scatole-armadio",
             "button_style_secondary": true,
             "button_label_2": "",
@@ -827,28 +809,30 @@
         "column_iNndq6": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Steam_Clothes_Hanger_-_Pepper_Black_-_8710755231780_Brabantia_96dpi_1000x1000px_7_NR-35326.png",
-            "title": "Utensili ideali per le padelle antiaderenti!",
+            "image": "shopify://shop_images/Steam_Clothes_Hanger_Pepper_Black_-_8710755231780_Brabantia.webp",
+            "title": "",
             "text": "",
-            "link_label": "",
-            "link": "shopify://products/brabantia-profile-utensili-da-cucina-in-legno-set-di-3"
+            "link_label": "Brabantia Appendiabiti Linn",
+            "link": "shopify://products/brabantia-appendiabiti-linn"
           }
         },
         "column_f4Mmcm": {
           "type": "column",
           "settings": {
-            "title": "Colonna",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "link_label": "",
+            "image": "shopify://shop_images/Steam_Clothes_Hanger_-_Pepper_Black_8710755231780_Brabantia.webp",
+            "title": "",
+            "text": "",
+            "link_label": "Grucce per stiro verticale",
             "link": ""
           }
         },
         "column_RnGM4c": {
           "type": "column",
           "settings": {
-            "title": "Colonna",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "link_label": "",
+            "image": "shopify://shop_images/SteamOne_Foldable-seealto-stiro-verticale.webp",
+            "title": "",
+            "text": "",
+            "link_label": "SeeAlto Stiro Verticale SteamOne",
             "link": ""
           }
         }
@@ -874,6 +858,24 @@
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 36
+      }
+    },
+    "video_nVJMEL": {
+      "type": "video",
+      "custom_css": [],
+      "name": "t:sections.video.presets.name",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video": "shopify://files/videos/50055_eclipse_screen_airer_ecru (1080p).mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "cover_image": "shopify://shop_images/Stendibiancheria-Eclipse-3ripiani-ecru-con-schermo-joseph-joseph.webp",
+        "description": "Joseph Joseph Eclipse Stendibiancheria 3 ripiani con schermo Ecrù",
+        "full_width": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multicolumn_tim6dE": {
