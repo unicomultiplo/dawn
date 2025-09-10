@@ -744,20 +744,6 @@
     },
     "multicolumn_wVxtVr": {
       "type": "multicolumn",
-      "blocks": {
-        "column_VMLw8R": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "👉 Dai un'occhiata alla nostra selezione di grucce eleganti e funzionali",
-            "link": "shopify://collections/complementi-arredo-appendiabiti-e-grucce"
-          }
-        }
-      },
-      "block_order": [
-        "column_VMLw8R"
-      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -786,42 +772,53 @@
         "padding_bottom": 0
       }
     },
-    "image_with_text_QcgJTF": {
-      "type": "image-with-text",
+    "image_banner_pwcbca": {
+      "type": "image-banner",
       "blocks": {
-        "heading_aAYjVx": {
+        "heading_idrxLD": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Come far durare più a lungo una padella antiaderente</strong>",
+            "heading": "<strong>4. Rinfresca i tessuti prima di riporli</strong>",
             "heading_size": "h1"
           }
         },
-        "text_brtDXa": {
+        "text_EpaPBm": {
           "type": "text",
           "settings": {
-            "text": "<h3><strong>Buone pratiche d’uso per proteggere il rivestimento</strong></h3><p>Per prolungare la durata del rivestimento antiaderente, utilizza <strong>utensili in silicone, legno o plastica resistente al calore</strong>, evitando quelli in metallo che possono graffiare la superficie.</p><p>Non surriscaldare mai la padella a vuoto: le <strong>alte temperature</strong> danneggiano il rivestimento e possono causare il rilascio di sostanze nocive. È buona abitudine <strong>scaldarla gradualmente</strong>, magari con un filo d’olio o con gli ingredienti già inseriti.</p><p>Evita lo <strong>shock termico</strong>: non mettere la padella calda sotto l’acqua fredda. Aspetta qualche minuto prima di lavarla per non comprometterne la forma e il rivestimento.</p><p></p><h3><strong>Come pulire e conservare correttamente una padella antiaderente</strong></h3><p>Lava la padella con <strong>spugne morbide e detergenti delicati</strong>. Evita spugne abrasive, pagliette metalliche e, se possibile, la lavastoviglie, perché i cicli aggressivi ne riducono la durata.<br/>In caso di sporco ostinato, lasciala in ammollo qualche minuto prima di lavare.<br/>Dopo il lavaggio, <strong>asciugala bene</strong> e <strong>non impilarla direttamente con altre padelle</strong>: usa un panno o un separatore per evitare graffi.<br/>Conservala con cura e <strong>non trascurare l’asciugatura</strong>: piccole attenzioni quotidiane mantengono la tua padella antiaderente in perfette condizioni più a lungo.</p>",
+            "text": "E’ importante che i capi da riporre siano ben puliti e freschi prima di finire in una scatola. Anche un rapido colpo di stiro verticale o di vaporizzatore portatile può fare la differenza.",
             "text_style": "body"
+          }
+        },
+        "buttons_VWxDXC": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Stiro Verticale",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading_aAYjVx",
-        "text_brtDXa"
+        "heading_idrxLD",
+        "text_EpaPBm",
+        "buttons_VWxDXC"
       ],
+      "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Padelle-Antiaderenti-guida-completa-per-scegliere-il-modello-giusto-per-la-tua-cucina-6.webp",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
+        "image": "shopify://shop_images/a-woman-holding-a-dress-browses-her-bedroom-clothing-rack.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "",
         "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "multicolumn_XJgk3d": {
@@ -830,79 +827,44 @@
         "column_iNndq6": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Brabantia-Utensili-da-cucina-in-legno-Set-di-3-4_1.webp",
+            "image": "shopify://shop_images/Steam_Clothes_Hanger_-_Pepper_Black_-_8710755231780_Brabantia_96dpi_1000x1000px_7_NR-35326.png",
             "title": "Utensili ideali per le padelle antiaderenti!",
             "text": "",
             "link_label": "",
             "link": "shopify://products/brabantia-profile-utensili-da-cucina-in-legno-set-di-3"
           }
         },
-        "column_3PGefL": {
+        "column_f4Mmcm": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/25259_1.jpg",
-            "title": "Leccapentole Brabantia, il silicone che ama le tue pentole.",
-            "text": "",
+            "title": "Colonna",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
             "link_label": "",
-            "link": "shopify://products/5236-brabantia-asty-leccapiatti-in-silicone"
+            "link": ""
           }
         },
-        "column_QDXRTj": {
+        "column_RnGM4c": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/brandani-nebulizzatore-techno-collection-ricarica-usb.webp",
-            "title": "Solo il velo d’olio che serve: l’antiaderente ringrazia!",
-            "text": "",
+            "title": "Colonna",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
             "link_label": "",
-            "link": "shopify://products/brandani-nebulizzatore-techno-collection-ricarica-usb"
-          }
-        },
-        "column_mQaWke": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brabantia-set-3-panni-imbottiti-per-pulizia-in-mic-mixed-colours-mixed-colours_d8c4d86e-0eea-4958-a55d-e11d2f0de14f.jpg",
-            "title": "Spugne in microfibra, per lavare con delicatezza!",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://products/brabantia-food-set-3-panni-imbottiti-per-pulizia-mixed-colours"
-          }
-        },
-        "column_HVVEGN": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brabantia-pannino-sinkside-panno-in-microfibra-bianco-2_41f88308-462a-4ba9-8ffe-8da1c4b700ea.jpg",
-            "title": "Un panno in microfibra morbido e antigraffio",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://products/3140-brabantia-pannino-sinkside-panno-in-microfibra-bianco"
-          }
-        },
-        "column_XRPgez": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brabantia-tappetino-scolapiatti-in-silicone-jade-green.webp",
-            "title": "Per far asciugare dolcemente le tue padelle!",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://products/brabantia-food-tappetino-scolapiatti-in-silicone-jade-green"
+            "link": ""
           }
         }
       },
       "block_order": [
         "column_iNndq6",
-        "column_3PGefL",
-        "column_QDXRTj",
-        "column_mQaWke",
-        "column_HVVEGN",
-        "column_XRPgez"
+        "column_f4Mmcm",
+        "column_RnGM4c"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>Utensili e accessori per la cura delle tue padelle</strong>",
-        "heading_size": "h1",
+        "title": "👉 I nostri accessori per lo stiro verticale sono ideali per ravvivare tessuti delicati senza l’ingombro del ferro da stiro",
+        "heading_size": "h2",
         "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 6,
+        "image_ratio": "square",
+        "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
@@ -921,23 +883,34 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><em><strong>🔧 Consigli dell’Esperto: Cura delle padelle Antiaderenti</strong></em><br/>Usa utensili in <strong>silicone</strong>, non scaldarla a vuoto, lasciala raffreddare prima di lavarla. Pulisci con <strong>detergenti delicati</strong> e spugne morbide, asciugala bene e <strong>proteggila se la impili.</strong></p>",
+            "text": "<p><br/>Il cambio di stagione non deve essere una maratona faticosa. Con pochi prodotti scelti con cura e un minimo di organizzazione, puoi renderlo un’occasione per prenderti cura del tuo spazio, dei tuoi vestiti e (perché no?) anche di te stessa.Noi di Unico & Multiplo ti aiutiamo a farlo con stile, funzionalità e un pizzico di bellezza.<br/><br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_LR9Q3E": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/pi-luminosa-e-meno-triste.png",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "column_cXMp4H"
+        "column_cXMp4H",
+        "column_LR9Q3E"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
+        "title": "<strong>📝 Conclusione:</strong>",
+        "heading_size": "h2",
+        "image_width": "half",
+        "image_ratio": "circle",
+        "columns_desktop": 2,
         "column_alignment": "center",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
@@ -945,73 +918,6 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "collapsible_content_7AGHFD": {
-      "type": "collapsible-content",
-      "blocks": {
-        "collapsible_row_bzUMeg": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Cosa succede se si graffia una padella antiaderente?",
-            "icon": "fire",
-            "row_content": "<p>Quando una padella antiaderente si graffia, il rivestimento in Teflon (PTFE) può deteriorarsi, riducendo l’efficacia antiaderente e causando l’adesione dei cibi durante la cottura. Sebbene l'ingestione occasionale di piccole particelle di Teflon non sia ritenuta pericolosa, poiché il materiale è chimicamente inerte e non viene assorbito dall’organismo, i graffi profondi possono esporre il metallo sottostante, come l’alluminio, che potrebbe interagire con gli alimenti.<br/></p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_GgNqhi": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Qual è la vera differenza tra padelle in teflon e padelle in ceramica?",
-            "icon": "fire",
-            "row_content": "<p>La principale differenza tra una padella antiaderente in ceramica e una in teflon (PTFE) riguarda il tipo di rivestimento e il comportamento durante l’uso. <strong>Le padelle in ceramica hanno un rivestimento a base di materiali naturali</strong>, privo di PTFE e PFOA, e sono spesso considerate <strong>un’alternativa più ecologica.</strong> Resistono a temperature più elevate, fino a circa 400°C, ma tendono a perdere più rapidamente la loro capacità antiaderente con l’uso.</p><p>Le padelle in teflon, invece, utilizzano un polimero sintetico estremamente scivoloso che garantisce un’ottima antiaderenza nel tempo, a patto che non vengano surriscaldate oltre i 260°C. Se usate correttamente, durano più a lungo e mantengono buone prestazioni. Oggi, grazie all’eliminazione del PFOA, sono considerate sicure per l’uso alimentare. In sintesi, la ceramica è ideale per chi cerca una soluzione più naturale e resistente al calore, mentre il teflon è perfetto per chi desidera massima antiaderenza e semplicità d’uso, purché vengano rispettate alcune accortezze.</p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_4fNCdJ": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Quali sono le padelle più sane per cucinare ogni giorno?",
-            "icon": "fire",
-            "row_content": "<p>Le padelle considerate più sicure e salutari per l’uso quotidiano sono quelle realizzate con materiali atossici, resistenti e privi di sostanze nocive come PFOA o metalli pesanti. Tra le migliori opzioni ci sono:</p><ul><li> realizzate con rivestimenti naturali, sono prive di PTFE e PFOA, ideali per chi cerca un'alternativa ecologica e salutare.<br/></li><li>prive di rivestimenti, non rilasciano sostanze chimiche, ma richiedono un po’ più di attenzione per evitare che il cibo si attacchi.<br/></li><li>naturali e prive di rivestimenti, garantiscono una cottura uniforme e arricchiscono gli alimenti con piccole quantità di ferro.<br/></li><li> se usate correttamente, sono sicure e pratiche per l’uso quotidiano.<br/></li></ul>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_UBEqJr": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Quali padelle è meglio evitare (e per quale motivo)",
-            "icon": "fire",
-            "row_content": "<p>Le padelle e le pentole di alta qualità oggi disponibili sul mercato sono realizzate con materiali selezionati per garantire non solo prestazioni elevate in cucina, ma anche il rispetto delle proprietà naturali degli alimenti. Alcuni di questi materiali affondano le radici nella tradizione, come la ghisa o la ceramica, ma sono stati perfezionati grazie alla tecnologia per essere più sicuri, resistenti e durevoli. Altri, invece, sono materiali innovativi che hanno trovato nuova applicazione nel mondo della cucina per offrire praticità e salute.</p><p>Scegliere le pentole giuste significa migliorare la propria esperienza ai fornelli e contribuire al proprio benessere. Che si tratti della solidità della ghisa o della praticità dell’antiaderente, è fondamentale fare una scelta consapevole, che risponda alle esigenze personali senza compromettere la salute.</p><p><strong>In generale, è bene evitare utensili con rivestimenti antiaderenti non certificati o contenenti sostanze potenzialmente nocive come BPA, PTFE, PFOA, PFAS, nichel o alluminio non schermato</strong>. Al contrario, è consigliabile orientarsi verso materiali sicuri e affidabili come acciaio inox, ghisa, pyrex, ceramica, titanio o altri materiali tecnologicamente avanzati progettati per essere sani e durevoli nel tempo.</p><p></p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_row_bzUMeg",
-        "collapsible_row_GgNqhi",
-        "collapsible_row_4fNCdJ",
-        "collapsible_row_UBEqJr"
-      ],
-      "name": "t:sections.collapsible_content.presets.name",
-      "settings": {
-        "caption": "",
-        "heading": "<strong>Domande frequenti e falsi miti sulle padelle antiaderenti</strong>",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "row",
-        "color_scheme": "",
-        "container_color_scheme": "",
-        "open_first_collapsible_row": false,
-        "image": "shopify://shop_images/Padelle-antiaderenti-knindustrie-1.webp",
-        "image_ratio": "small",
-        "desktop_layout": "image_first",
-        "padding_top": 0,
-        "padding_bottom": 0
       }
     }
   },
@@ -1023,7 +929,6 @@
     "multicolumn_Anyn8K",
     "multicolumn_VR4EHF",
     "multicolumn_BtLArj",
-    "video_nVJMEL",
     "multicolumn_7pqqwm",
     "multicolumn_nQ9rq3",
     "image_with_text_AxkmYJ",
@@ -1035,9 +940,9 @@
     "multicolumn_qjWjLF",
     "multicolumn_wVxtVr",
     "rich_text_aAFBXa",
-    "image_with_text_QcgJTF",
+    "image_banner_pwcbca",
     "multicolumn_XJgk3d",
-    "multicolumn_tim6dE",
-    "collapsible_content_7AGHFD"
+    "video_nVJMEL",
+    "multicolumn_tim6dE"
   ]
 }
