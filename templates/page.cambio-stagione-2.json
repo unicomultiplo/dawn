@@ -760,7 +760,7 @@
         "heading_idrxLD": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>4. Rinfresca i tessuti prima di riporli</strong>",
+            "heading": "4. Rinfresca i tessuti prima di riporli",
             "heading_size": "h1"
           }
         },
@@ -860,14 +860,138 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_z6MmTy": {
+      "type": "multicolumn",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_XzbxJQ": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_UwMkBV": {
+          "type": "heading",
+          "settings": {
+            "heading": "5. Uno stendino salvaspazio fa la differenza",
+            "heading_size": "h1"
+          }
+        },
+        "text_jgbUwJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Durante il cambio stagione si lavano tanti capi. Uno stendino solido, funzionale e salvaspazio è essenziale, soprattutto se non hai molto spazio in casa. Considera:</p><ul><li>stendini da parete<br/></li><li>modelli pieghevoli o estensibili<br/></li><li>materiali resistenti all'umidità.</li></ul><p>Perfetti anche per piccoli appartamenti.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_RfAVWH": {
+          "type": "button",
+          "settings": {
+            "button_label": "👉 Scopri i nostri [stendini da muro e modelli compatti]",
+            "button_link": "shopify://collections/stendibiancheria-e-portabiancheria-brabantia",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_UwMkBV",
+        "text_jgbUwJ",
+        "button_RfAVWH"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Stendibiancheria-Eclipse-3ripiani-ecru-con-schermo-joseph-joseph.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_WHMTNF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_a8fkeT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Steam_Clothes_Hanger_Pepper_Black_-_8710755231780_Brabantia.webp",
+            "title": "",
+            "text": "",
+            "link_label": "Stendini da parete",
+            "link": "shopify://products/brabantia-appendiabiti-linn"
+          }
+        },
+        "column_ca8NVN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/joseph-joseph-stendibiancheria.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Modelli pieghevoli o estensibili",
+            "link": ""
+          }
+        },
+        "column_3EgEtM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brabantia-t-model-stendibiancheria-con-ali-regolabili-6.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Materiali resistenti all'umidità",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_a8fkeT",
+        "column_ca8NVN",
+        "column_3EgEtM"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
     "video_nVJMEL": {
       "type": "video",
       "custom_css": [],
       "name": "t:sections.video.presets.name",
       "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
+        "heading": "<a href=\"/products/joseph-joseph-eclipse-stendibiancheria-3-ripiani-con-schermo-ecru\" title=\"Joseph Joseph Eclipse Stendibiancheria 3 ripiani con schermo Ecrù\">👉 Scopri i nostri [stendini da muro e modelli compatti] perfetti anche per piccoli appartamenti.</a>",
+        "heading_size": "h2",
+        "enable_video_looping": true,
         "video": "shopify://files/videos/50055_eclipse_screen_airer_ecru (1080p).mp4",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "cover_image": "shopify://shop_images/Stendibiancheria-Eclipse-3ripiani-ecru-con-schermo-joseph-joseph.webp",
@@ -944,6 +1068,9 @@
     "rich_text_aAFBXa",
     "image_banner_pwcbca",
     "multicolumn_XJgk3d",
+    "multicolumn_z6MmTy",
+    "image_with_text_XzbxJQ",
+    "multicolumn_WHMTNF",
     "video_nVJMEL",
     "multicolumn_tim6dE"
   ]
