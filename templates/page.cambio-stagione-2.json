@@ -1007,7 +1007,7 @@
         "text_EpaPBm": {
           "type": "text",
           "settings": {
-            "text": "E’ importante che i capi da riporre siano ben<strong> puliti e freschi </strong>prima di finire in una scatola. Anche un rapido colpo di stiro verticale o di vaporizzatore portatile può <strong>fare la differenza</strong>.",
+            "text": "E’ importante che i capi da riporre siano ben<strong> puliti e freschi </strong>prima di finire in una scatola. Anche un rapido colpo di <strong>stiro verticale </strong>o di vaporizzatore portatile può <strong>fare la differenza</strong>.",
             "text_style": "body"
           }
         },
