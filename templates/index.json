@@ -15,7 +15,7 @@
         "slide_DkdEyL": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Bicchieri-lime-lane-knindustrie-lara-caffi-1.webp",
+            "image": "shopify://shop_images/Lara-Caffi-Knindustrie-lime-line.webp",
             "heading": "Lime Line Ambra",
             "heading_size": "h0",
             "subheading": "<strong>\"Bicchieri creati con materiali naturali e artigianato contemporaneo”</strong>",
@@ -112,7 +112,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "tempo-libero",
+        "collection": "complementi-arredo-scatole-armadio",
         "products_to_show": 23,
         "columns_desktop": 6,
         "full_width": true,
