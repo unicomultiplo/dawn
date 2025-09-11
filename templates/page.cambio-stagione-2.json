@@ -1112,6 +1112,15 @@
             "link": ""
           }
         },
+        "column_MDH6iz": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "🧰 Kit perfetto per il cambio stagione?",
+            "link": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual"
+          }
+        },
         "column_GeCJP4": {
           "type": "column",
           "settings": {
@@ -1124,6 +1133,7 @@
       },
       "block_order": [
         "column_cXMp4H",
+        "column_MDH6iz",
         "column_GeCJP4"
       ],
       "settings": {
