@@ -24,7 +24,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Il cambio di armadio è uno di quei momenti dell’anno che quasi nessuno ama davvero: un misto di fatica, ordine e, diciamocelo, un po' di caos. </p><p>Aprire l’armadio, svuotare tutto, decidere cosa tenere e cosa no, piegare, sistemare... ma come si può fare il cambio di stagione senza ritrovarsi con una montagna di vestiti e la sensazione di non aver mai abbastanza spazio? </p><p>Con gli strumenti giusti, tutto può diventare più semplice, veloce e persino... soddisfacente.</p>",
+            "text": "<p>Il <strong>cambio di armadio</strong> è uno di quei momenti dell’anno che quasi nessuno ama davvero: un misto di fatica, ordine e, diciamocelo, un po' di caos. <br/><br/>Aprire l’armadio, svuotare tutto, decidere cosa tenere e cosa no, piegare, sistemare... ma come si può fare il cambio di stagione senza ritrovarsi con una montagna di vestiti e la sensazione di non aver mai abbastanza spazio? <br/><br/><strong>Con gli strumenti giusti</strong>, tutto può diventare più <strong>semplice</strong>, <strong>veloce </strong>e persino... <strong>soddisfacente</strong>.</p>",
             "link_label": "",
             "link": ""
           }
@@ -270,7 +270,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Prima di tutto: non rimettere tutto dentro l’armadio in modo automatico. Questo è il momento perfetto per <strong>decidere cosa tenere, cosa donare e cosa buttare.</strong> Meno cose avrai da riporre,<strong> più facile</strong> sarà il lavoro e più spazio guadagnerai!</p><p>Il segreto per un cambio di stagione efficace non è solo spostare i vestiti, ma fare una selezione. Prima di iniziare, prenditi del tempo per <strong>esaminare ogni capo. </strong>Chiediti:<br/><br/></p><ol><li><em><strong>Ho indossato questo capo nell’ultimo anno?<br/><br/></strong></em></li><li><em><strong>Mi sta ancora bene? Mi fa sentire a mio agio?<br/><br/></strong></em></li><li><em><strong>È integro o ha bisogno di essere sistemato?</strong></em><br/><br/></li></ol><p>Se la risposta è no, donalo o mettilo da parte.</p>",
+            "text": "<p>Prima di tutto: non rimettere tutto dentro l’armadio in modo automatico. Questo è il momento perfetto per <strong>decidere cosa tenere, cosa donare e cosa buttare.</strong> Meno cose avrai da riporre,<strong> più facile</strong> sarà il lavoro e più spazio guadagnerai!<br/><br/>Il segreto per un cambio di stagione efficace non è solo spostare i vestiti, ma fare una selezione. Prima di iniziare, prenditi del tempo per <strong>esaminare ogni capo. </strong>Chiediti:<br/><br/></p><ol><li><em><strong>Ho indossato questo capo nell’ultimo anno?<br/><br/></strong></em></li><li><em><strong>Mi sta ancora bene? Mi fa sentire a mio agio?<br/><br/></strong></em></li><li><em><strong>È integro o ha bisogno di essere sistemato?</strong></em><br/><br/></li></ol><p>Se la risposta è no, donalo o mettilo da parte.</p>",
             "link_label": "",
             "link": ""
           }
@@ -356,7 +356,7 @@
         "text_XbVWhK": {
           "type": "text",
           "settings": {
-            "text": "<p>Una volta che hai selezionato i capi da tenere per la nuova stagione, è il momento di sistemarli. Le <strong>grucce</strong> non sono tutte uguali! Usa grucce sottili e uniformi per recuperare spazio prezioso nel tuo armadio e creare un look ordinato e coerente. Raggruppa i capi per tipologia (giacche, camicie, pantaloni) e poi per colore: renderai il tuo armadio non solo funzionale, ma anche visivamente appagante.</p>",
+            "text": "<p>Una volta che hai <strong>selezionato </strong>i capi da tenere per la nuova stagione, è il momento di <strong>sistemarli</strong>.<br/><br/> Le <strong>grucce</strong> non sono tutte uguali! Usa grucce sottili e uniformi per recuperare spazio prezioso nel tuo armadio e creare un<strong> look ordinato e coerente</strong>.<br/><br/> Raggruppa i capi per <strong>tipologia </strong>(giacche, camicie, pantaloni) e poi per <strong>colore</strong>: renderai il tuo armadio non solo <strong>funzionale</strong>, ma anche visivamente appagante.</p>",
             "text_style": "body"
           }
         },
@@ -460,7 +460,7 @@
         "text_r8DwMF": {
           "type": "text",
           "settings": {
-            "text": "<p>Per un'organizzazione impeccabile, le <strong>scatole da armadio</strong> sono le tue migliori amiche. Non sono semplici contenitori, ma strumenti strategici per ottimizzare ogni angolo del tuo spazio. Scegli  quelle con etichette per una catalogazione ordinata. Puoi usarle per maglie, t-shirt, accessori e persino per le tue <strong>scarpe</strong> estive.</p>",
+            "text": "<p>Per un'organizzazione impeccabile, le <strong>scatole da armadio</strong> sono le tue migliori amiche. Non sono semplici contenitori, ma strumenti strategici per<strong> ottimizzare ogni angolo</strong> del tuo spazio. <br/><br/>Scegli  quelle con <strong>etichette </strong>per una <strong>catalogazione ordinata e immediata</strong>. Puoi usarle per maglie, t-shirt, accessori e persino per le tue <strong>scarpe</strong> estive.</p>",
             "text_style": "body"
           }
         },
@@ -708,11 +708,11 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 36
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "image_with_text_PWDdLC": {
@@ -728,7 +728,7 @@
         "text_cdJtez": {
           "type": "text",
           "settings": {
-            "text": "<p>Durante il cambio stagione si lavano tanti capi. Uno stendino solido, funzionale e salvaspazio è essenziale, soprattutto se non hai molto spazio in casa. Considera:</p><ul><li><em>stendini da parete<br/></em></li><li><em>modelli pieghevoli o estensibili<br/></em></li><li><em>materiali resistenti all'umidità.</em></li></ul><p>Perfetti anche per piccoli appartamenti.</p>",
+            "text": "<p>Durante il <strong>cambio stagione </strong>si lavano tanti capi. Uno <strong>stendino </strong>solido, funzionale e salvaspazio è essenziale, soprattutto se non hai molto spazio in casa. Considera:</p><ul><li><em>stendini da parete<br/></em></li><li><em>modelli pieghevoli o estensibili<br/></em></li><li><em>materiali resistenti all'umidità.</em></li></ul><p>Perfetti anche per <strong>piccoli appartamenti</strong>.</p>",
             "text_style": "body"
           }
         },
@@ -851,7 +851,7 @@
         "text_8PrNhr": {
           "type": "text",
           "settings": {
-            "text": "<p>Completa il kit con una tavola da stiro ben progettata: ti aiuta non solo durante il cambio stagione ma in ogni momento dell’anno. Se poi la abbini a una sacca portabiancheria e a dei contenitori profumati... hai appena trasformato un noioso dovere in un piccolo rituale di benessere domestico.</p>",
+            "text": "<p><strong>Completa il kit con una tavola da stiro </strong>ben progettata: ti aiuta non solo durante il cambio stagione ma in ogni momento dell’anno. Se poi la abbini a una sacca portabiancheria e a dei contenitori profumati... hai appena trasformato un noioso dovere in un piccolo rituale di <strong>benessere domestico</strong>.</p>",
             "text_style": "body"
           }
         },
@@ -1007,7 +1007,7 @@
         "text_EpaPBm": {
           "type": "text",
           "settings": {
-            "text": "E’ importante che i capi da riporre siano ben puliti e freschi prima di finire in una scatola. Anche un rapido colpo di stiro verticale o di vaporizzatore portatile può fare la differenza.",
+            "text": "E’ importante che i capi da riporre siano ben<strong> puliti e freschi </strong>prima di finire in una scatola. Anche un rapido colpo di stiro verticale o di vaporizzatore portatile può <strong>fare la differenza</strong>.",
             "text_style": "body"
           }
         },
@@ -1107,7 +1107,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><br/>Il cambio di stagione non deve essere una maratona faticosa. Con pochi prodotti scelti con cura e un minimo di organizzazione, puoi renderlo un’occasione per prenderti cura del tuo spazio, dei tuoi vestiti e (perché no?) anche di te stessa.</p><p>Noi di Unico & Multiplo ti aiutiamo a farlo con stile, funzionalità e un pizzico di bellezza.<br/><br/></p>",
+            "text": "<p>Il <strong>cambio di stagione </strong>non deve essere una maratona faticosa. Con<strong> pochi prodotti</strong> scelti con cura e un minimo di <strong>organizzazione</strong>, puoi renderlo un’occasione per prenderti cura del tuo spazio, dei tuoi vestiti e (perché no?) anche di te stessa.</p><p>Noi di <em>Unico & Multiplo</em> ti aiutiamo a farlo con <strong>stile, funzionalità e un pizzico di bellezza.</strong></p>",
             "link_label": "",
             "link": ""
           }
