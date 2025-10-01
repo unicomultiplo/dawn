@@ -302,7 +302,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/wrapping-gifts.jpg",
+        "image": "shopify://shop_images/Natale-idee-regalo.png",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -335,25 +335,25 @@
         "featured_collection_mNe8fM": {
           "type": "featured_collection",
           "settings": {
-            "collection": "the-storm-collection-knindustrie"
+            "collection": "idee-regalo-laurea-e-diploma"
           }
         },
         "featured_collection_Tjd3fK": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bitossi-home-il-frutto-della-passione-bitossi-home"
+            "collection": "idee-regalo-sposi"
           }
         },
         "featured_collection_wENUBK": {
           "type": "featured_collection",
           "settings": {
-            "collection": "monsters-seletti"
+            "collection": "idee-regalo-pasqua"
           }
         },
         "featured_collection_XLK4qT": {
           "type": "featured_collection",
           "settings": {
-            "collection": "con-amore-bitossi-home"
+            "collection": "idee-regalo-san-valentino"
           }
         }
       },
