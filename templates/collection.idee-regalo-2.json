@@ -525,6 +525,105 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_qyWyUE": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_R6zxJ4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Idee regalo online, rapide e senza stress",
+            "heading_size": "h1"
+          }
+        },
+        "text_PcLTtG": {
+          "type": "text",
+          "settings": {
+            "text": "<p><br/>Comprare online un regalo non è mai stato così semplice: ampia scelta, consegne veloci e zero complicazioni. Su Unico & Multiplo puoi trovare in pochi clic l’idea giusta, senza dover correre da un negozio all’altro.<br/><br/></p>"
+          }
+        },
+        "button_Uc8nUp": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_R6zxJ4",
+        "text_PcLTtG",
+        "button_Uc8nUp"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "multirow_C73Yin": {
+      "type": "multirow",
+      "blocks": {
+        "row_wEJck8": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Regali last-minute e confezione regalo",
+            "text": "<p><br/>Se hai poco tempo, non preoccuparti: le nostre proposte arrivano rapidamente e con packaging curato, pronte per essere donate senza pensieri. Così anche un regalo last-minute si trasforma in un gesto elegante e personalizzato.<br/><br/></p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
+          }
+        },
+        "row_BLNEXB": {
+          "type": "row",
+          "settings": {
+            "caption": "Didascalia",
+            "heading": "Riga",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
+          }
+        },
+        "row_fxzVxN": {
+          "type": "row",
+          "settings": {
+            "caption": "Didascalia",
+            "heading": "Riga",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_wEJck8",
+        "row_BLNEXB",
+        "row_fxzVxN"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -538,6 +637,8 @@
     "image_with_text_jMezDe",
     "collection_list_6Wn6Ec",
     "multicolumn_RW9UrF",
-    "collection_list_NjQXhb"
+    "collection_list_NjQXhb",
+    "rich_text_qyWyUE",
+    "multirow_C73Yin"
   ]
 }
