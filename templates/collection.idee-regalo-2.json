@@ -412,7 +412,6 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/mr-and-mrs-sign-on-table-of-honor.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
