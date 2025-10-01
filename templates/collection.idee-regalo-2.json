@@ -97,7 +97,7 @@
         "show_view_all": true,
         "view_all_style": "outline",
         "enable_desktop_slider": true,
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": true,
@@ -172,7 +172,7 @@
         "text_m4H4XU": {
           "type": "text",
           "settings": {
-            "text": "<p>Ci sono doni che parlano da soli grazie alla loro eleganza. Regali raffinati, di qualità, che uniscono estetica e funzionalità: perfetti per chi apprezza il design in ogni dettaglio. Oggetti che non sono solo belli, ma anche capaci di raccontare uno stile di vita.<br/></p><h3><strong>Oggetti iconici che non passano di moda</strong><br/></h3><p>Dal pezzo intramontabile al complemento che arreda con stile, questi regali diventano ricordi preziosi.<br/><strong>Design pick!</strong><br/></p><h3><strong>Materiali e dettagli che fanno la differenza</strong><br/></h3><p>Legno, vetro, metallo, finiture ricercate: i materiali raccontano storie di qualità e passione. Scopri i brand e le collezioni che hanno fatto del dettaglio il loro punto di forza.<br/></p>",
+            "text": "<p>Ci sono doni che parlano da soli. Un dono di design è qualcosa che non si limita a stupire al primo sguardo: resta, si fa notare ogni giorno, diventa parte dei ricordi più belli. Per questo un regalo con stile non è mai banale, ma è un segno di attenzione che racconta chi sei e cosa vuoi trasmettere.<br/></p><h3><strong>Oggetti iconici che non passano di moda</strong></h3><p>Ci sono pezzi che non invecchiano mai: nascono da idee audaci e diventano simboli di creatività.<br/>Gli oggetti  visionari e irriverenti di <strong>Seletti </strong>, le collezioni colorate e senza tempo di <strong>Bitossi</strong>, o le linee essenziali firmate per <strong>KnIndustrie</strong>: oggetti che parlano di sogni, ironia e bellezza. Un regalo così non è solo un pensiero: è una storia che continua nel tempo.<br/></p><h3><strong>Materiali e dettagli che fanno la differenza</strong><br/></h3><p>Un vero dono si riconosce nei dettagli. La delicatezza della <strong>bone china</strong>, il calore autentico del <strong>legno</strong>, la leggerezza quasi magica del <strong>vetro borosilicato</strong>: materiali scelti con cura che trasformano ogni oggetto in qualcosa di speciale. Non servono tecnicismi: basta il piacere di regalare qualcosa che, al tatto e allo sguardo, trasmette qualità e unicità.<br/><br/><br/></p>",
             "text_style": "body"
           }
         },
@@ -207,29 +207,62 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_9kwU8w": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
+    "collection_list_WFPANW": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_akDRPm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-catalogo-prodotti-marcantonio"
+          }
+        },
+        "featured_collection_UUEjMN": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-catalogo-prodotti-lara-caffi"
+          }
+        },
+        "featured_collection_Qrdpih": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-il-frutto-della-passione-bitossi-home"
+          }
+        },
+        "featured_collection_HFFiNP": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "monsters-seletti"
+          }
+        },
+        "featured_collection_BeWzqW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-storm-collection-knindustrie"
+          }
+        },
+        "featured_collection_xUyqLz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "con-amore-bitossi-home"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_akDRPm",
+        "featured_collection_UUEjMN",
+        "featured_collection_Qrdpih",
+        "featured_collection_HFFiNP",
+        "featured_collection_BeWzqW",
+        "featured_collection_xUyqLz"
+      ],
+      "name": "t:sections.collection-list.presets.name",
       "settings": {
-        "title": "<strong>Design pick!</strong>",
+        "title": "Scopri la nostra selezione <em>Design Pick</em>: una raccolta di oggetti iconici scelti per chi ama distinguersi.",
         "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "idee-regalo",
-        "products_to_show": 25,
+        "image_ratio": "square",
         "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
+        "color_scheme": "scheme-2",
+        "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
@@ -283,68 +316,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "collection_list_WFPANW": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_akDRPm": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-compleanno"
-          }
-        },
-        "featured_collection_UUEjMN": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-laurea-e-diploma"
-          }
-        },
-        "featured_collection_Qrdpih": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-pasqua"
-          }
-        },
-        "featured_collection_HFFiNP": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-sposi"
-          }
-        },
-        "featured_collection_BeWzqW": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-economiche"
-          }
-        },
-        "featured_collection_xUyqLz": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-san-valentino"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_akDRPm",
-        "featured_collection_UUEjMN",
-        "featured_collection_Qrdpih",
-        "featured_collection_HFFiNP",
-        "featured_collection_BeWzqW",
-        "featured_collection_xUyqLz"
-      ],
-      "name": "t:sections.collection-list.presets.name",
-      "settings": {
-        "title": "Trova l’idea regalo giusta per ogni evento -  CREARE NUOVE COLLEZIONI",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "color_scheme": "scheme-2",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -354,8 +325,7 @@
     "featured_collection_qHiKjR",
     "image_banner_3zqppy",
     "image_with_text_TWa4dW",
-    "featured_collection_9kwU8w",
-    "image_with_text_jMezDe",
-    "collection_list_WFPANW"
+    "collection_list_WFPANW",
+    "image_with_text_jMezDe"
   ]
 }
