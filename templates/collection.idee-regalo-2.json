@@ -394,7 +394,7 @@
         "column_dKRiaD": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/teal-gift-wrap-with-white-ribbon.jpg",
+            "image": "shopify://shop_images/teal-gift-idee-regalo.webp",
             "title": "<strong>Idee regalo per lei e per lui, in pochi clic</strong>",
             "text": "",
             "link_label": "",
@@ -405,7 +405,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><strong>Per lei</strong>: scegli un dono che sappia sorprendere, un piccolo gesto che combina bellezza e utilità. Dalle creazioni raffinate ai dettagli inaspettati, ogni regalo diventa un modo per dire “ti conosco davvero”.<br/><br/></p>",
+            "text": "<p><strong>Per lei</strong>: scegli un dono che sappia sorprendere, un piccolo gesto che combina bellezza e utilità. Dalle creazioni raffinate ai dettagli inaspettati, ogni regalo diventa un modo per dire “ti conosco davvero”.</p>",
             "link_label": "Idee Regalo per Lei",
             "link": "shopify://collections/idee-regalo-regali-per-lei"
           }
@@ -414,9 +414,18 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><strong>Per lei</strong>: scegli un dono che sappia sorprendere, un piccolo gesto che combina bellezza e utilità. Dalle creazioni raffinate ai dettagli inaspettati, ogni regalo diventa un modo per dire “ti conosco davvero”.<br/><br/></p>",
-            "link_label": "Idee Regalo per Lei",
-            "link": ""
+            "text": "<p><strong>Per lui</strong>: un dono che unisce funzionalità ed eleganza, con oggetti dal design essenziale e distintivo. Un pensiero che resta, perfetto per chi apprezza qualità e stile in ogni dettaglio.</p>",
+            "link_label": "Idee Regalo per Lui",
+            "link": "shopify://collections/idee-regalo-regali-per-lui"
+          }
+        },
+        "column_M67Cyc": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Regali per chi ama il tempo libero</strong>",
+            "text": "<p><br/>Ci sono doni che accompagnano chi li riceve nei suoi momenti più autentici: un hobby coltivato con passione, un viaggio sognato da tempo, un rituale quotidiano che diventa speciale. Sono regali che non si limitano a stupire, ma trasformano il tempo libero in un’esperienza da vivere, condividere e ricordare.<br/></p>",
+            "link_label": "Regali perfetti per relax, viaggi e passioni",
+            "link": "shopify://collections/tempo-libero"
           }
         }
       },
@@ -424,7 +433,8 @@
         "column_NhmYPh",
         "column_dKRiaD",
         "column_JTDJX8",
-        "column_qWFeze"
+        "column_qWFeze",
+        "column_M67Cyc"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -435,13 +445,13 @@
         "columns_desktop": 1,
         "column_alignment": "left",
         "background_style": "none",
-        "button_label": "Etichetta pulsante",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     }
   },
