@@ -117,7 +117,7 @@
           "type": "heading",
           "settings": {
             "heading": "Natale 2025, non il solito regalo",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "text_cyQACb": {
@@ -302,7 +302,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Natale-idee-regalo_78e16b28-27e2-472e-bc55-371e8d2062cc.webp",
+        "image": "shopify://shop_images/wrapping-gifts.jpg",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
