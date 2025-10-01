@@ -9,6 +9,58 @@
  */
 {
   "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        "a {color: #598db2;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
+      }
+    },
+    "image_banner_Q6rBiY": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_n4AJPP": {
+          "type": "heading",
+          "settings": {
+            "heading": "Natale 2025",
+            "heading_size": "h1"
+          }
+        },
+        "buttons_CmixbY": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Scopri la Nostra Selezione Idee Regalo",
+            "button_link_1": "shopify://collections/idee-regalo-natale",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_n4AJPP",
+        "buttons_CmixbY"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/cosa-regalo-per-natale-mamma-e-papa_94b5f652-5dae-4023-808f-52ec2622ae7c.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -29,20 +81,40 @@
         "padding_bottom": 36
       }
     },
-    "banner": {
-      "type": "main-collection-banner",
-      "custom_css": [
-        "a {color: #598db2;}"
-      ],
+    "featured_collection_qHiKjR": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "show_collection_description": true,
-        "show_collection_image": false,
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
+        "title": "H2: Idee regalo originali e divertenti",
+        "heading_size": "h1",
+        "description": "<p>Chi ha detto che i regali devono essere seri? A volte il dono migliore è quello che fa ridere, spiazza e resta impresso. In questa collezione trovi <em><strong>sorprese inaspettate, oggetti fuori dagli schemi e chicche utili ma con un twist divertente</strong></em><strong>.</strong><br/><br/>Dimentica i regali noiosi e prevedibili: qui si parla di trovate creative che fanno sorridere ancora prima di essere scartate. Il bello? Sono regali utili, solo con una <strong>marcia in più</strong>.<br/><br/>Le nostre <em>idee regalo originali e divertenti</em> nascono per <strong>sorprendere </strong>chi ha già visto di tutto: accessori creativi, oggetti <strong>insoliti </strong>e proposte utili che si distinguono dai soliti cliché.<br/></p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "idee-regalo-natale",
+        "products_to_show": 20,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
+    "banner",
+    "image_banner_Q6rBiY",
     "product-grid",
-    "banner"
+    "featured_collection_qHiKjR"
   ]
 }
