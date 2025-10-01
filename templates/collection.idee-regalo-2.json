@@ -87,7 +87,7 @@
       "settings": {
         "title": "Idee regalo originali e divertenti",
         "heading_size": "h1",
-        "description": "<p>Chi ha detto che i regali devono essere seri? A volte il dono migliore è quello che fa <strong>ridere, spiazza e resta impresso</strong>. In questa collezione trovi sorprese inaspettate, oggetti <strong>fuori dagli schemi</strong> e chicche utili ma con un<strong> twist divertente.</strong><br/><br/>Dimentica i regali noiosi e prevedibili: qui si parla di trovate creative che fanno sorridere ancora prima di essere scartate. Il bello? Sono <strong>regali utili, solo con una marcia in più</strong>.<br/><br/>Le nostre idee regalo originali e divertenti nascono per sorprendere chi ha già visto di tutto: <strong>accessori creativi, oggetti insoliti e proposte utili che si distinguono dai soliti cliché.</strong><br/><br/></p><h3><strong>Regali divertenti che fanno sorridere!<br/></strong></h3><p>Scegli un dono che sorprende e diverte, perfetto per amici e parenti con la battuta pronta o lo spirito giocoso. <strong>Fun & Wow!</strong><br/><br/><br/><br/><br/></p>",
+        "description": "<p>Chi ha detto che i regali devono essere seri? A volte il dono migliore è quello che fa <strong>ridere, spiazza e resta impresso</strong>. In questa collezione trovi sorprese inaspettate, oggetti <strong>fuori dagli schemi</strong> e chicche utili ma con un<strong> twist divertente.</strong><br/><br/>Dimentica i regali noiosi e prevedibili: qui si parla di trovate creative che fanno sorridere ancora prima di essere scartate. Il bello? Sono <strong>regali utili, solo con una marcia in più</strong>.<br/>Le nostre idee regalo originali e divertenti nascono per sorprendere chi ha già visto di tutto: <strong>accessori creativi, oggetti insoliti e proposte utili che si distinguono dai soliti cliché.</strong><br/><br/></p><h3><strong>Regali divertenti che fanno sorridere!<br/></strong></h3><p>Scegli un dono che sorprende e diverte, perfetto per amici e parenti con la battuta pronta o lo spirito giocoso. <strong>Fun & Wow!</strong><br/><br/><br/><br/><br/></p>",
         "show_description": false,
         "description_style": "body",
         "collection": "idee-regalo-natale",
@@ -120,6 +120,13 @@
             "heading_size": "h2"
           }
         },
+        "text_cyQACb": {
+          "type": "text",
+          "settings": {
+            "text": "Un Natale diverso inizia dal regalo che non ti aspetti: originale, memorabile, con un tocco di creatività che rompe la tradizione.",
+            "text_style": "body"
+          }
+        },
         "buttons_8NqUpV": {
           "type": "buttons",
           "settings": {
@@ -134,6 +141,7 @@
       },
       "block_order": [
         "heading_FeBWeB",
+        "text_cyQACb",
         "buttons_8NqUpV"
       ],
       "name": "t:sections.image-banner.presets.name",
@@ -150,6 +158,193 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "image_with_text_TWa4dW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_rjAfFq": {
+          "type": "heading",
+          "settings": {
+            "heading": "Idee regalo con un tocco di design",
+            "heading_size": "h1"
+          }
+        },
+        "text_m4H4XU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ci sono doni che parlano da soli grazie alla loro eleganza. Regali raffinati, di qualità, che uniscono estetica e funzionalità: perfetti per chi apprezza il design in ogni dettaglio.</p><h3><strong>Oggetti iconici che non passano di moda</strong><br/></h3><p>Dal pezzo intramontabile al complemento che arreda con stile, questi regali diventano ricordi preziosi.<br/><strong>Design pick!</strong><br/></p><h3><strong>Materiali e dettagli che fanno la differenza</strong><br/></h3><p>Legno, vetro, metallo, finiture ricercate: i materiali raccontano storie di qualità e passione. Scopri i brand e le collezioni che hanno fatto del dettaglio il loro punto di forza.<br/></p>",
+            "text_style": "body"
+          }
+        },
+        "button_Nrp8zN": {
+          "type": "button",
+          "settings": {
+            "button_label": "I Nostri Brand",
+            "button_link": "shopify://pages/i-nostri-brand",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_rjAfFq",
+        "text_m4H4XU",
+        "button_Nrp8zN"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/seletti-marcantonio-lampada-inner-glow-2.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_9kwU8w": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "<strong>Design pick!</strong>",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "idee-regalo",
+        "products_to_show": 25,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_jMezDe": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_E8qUfe": {
+          "type": "heading",
+          "settings": {
+            "heading": "Idee regalo per ogni occasione",
+            "heading_size": "h1"
+          }
+        },
+        "text_DU4CtL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Compleanni, anniversari, feste e ricorrenze: c’è sempre un buon motivo per fare un regalo speciale. Questa sezione ti guida nella scelta con spunti e collegamenti rapidi.<br/></p><h3><strong>Natale, il momento più atteso dell’anno</strong><br/></h3><p>Atmosfera magica, attese, luci e sorprese: rendi unico il tuo Natale con un regalo che stupisce davvero.<br/></p>",
+            "text_style": "body"
+          }
+        },
+        "button_RaJVLy": {
+          "type": "button",
+          "settings": {
+            "button_label": "Idee Regalo Natale",
+            "button_link": "shopify://collections/idee-regalo-natale",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_E8qUfe",
+        "text_DU4CtL",
+        "button_RaJVLy"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Natale-idee-regalo_78e16b28-27e2-472e-bc55-371e8d2062cc.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collection_list_WFPANW": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_akDRPm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-compleanno"
+          }
+        },
+        "featured_collection_UUEjMN": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-laurea-e-diploma"
+          }
+        },
+        "featured_collection_Qrdpih": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-pasqua"
+          }
+        },
+        "featured_collection_HFFiNP": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-sposi"
+          }
+        },
+        "featured_collection_BeWzqW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-economiche"
+          }
+        },
+        "featured_collection_xUyqLz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-san-valentino"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_akDRPm",
+        "featured_collection_UUEjMN",
+        "featured_collection_Qrdpih",
+        "featured_collection_HFFiNP",
+        "featured_collection_BeWzqW",
+        "featured_collection_xUyqLz"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "Trova l’idea regalo giusta per ogni evento -  CREARE NUOVE COLLEZIONI",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -157,6 +352,10 @@
     "image_banner_Q6rBiY",
     "product-grid",
     "featured_collection_qHiKjR",
-    "image_banner_3zqppy"
+    "image_banner_3zqppy",
+    "image_with_text_TWa4dW",
+    "featured_collection_9kwU8w",
+    "image_with_text_jMezDe",
+    "collection_list_WFPANW"
   ]
 }
