@@ -282,14 +282,14 @@
         "text_DU4CtL": {
           "type": "text",
           "settings": {
-            "text": "<p>Compleanni, anniversari, feste e ricorrenze: c’è sempre un buon motivo per fare un regalo speciale. Questa sezione ti guida nella scelta con spunti e collegamenti rapidi.<br/></p><h3><strong>Natale, il momento più atteso dell’anno</strong><br/></h3><p>Atmosfera magica, attese, luci e sorprese: rendi unico il tuo Natale con un regalo che stupisce davvero.<br/></p>",
+            "text": "<p>Ogni ricorrenza merita un pensiero speciale. Che si tratti di un compleanno da festeggiare, di un anniversario indimenticabile o di una festa che unisce tutta la famiglia, il regalo giusto c’è sempre. Questa sezione è il tuo punto di partenza: un luogo dove trovare ispirazione e trasformare ogni evento in un momento unico da ricordare.<br/><br/>Lasciati guidare dalle nostre ispirazioni: troverai sempre il percorso giusto per trasformare un’occasione in un momento indimenticabile.<br/></p><h3><strong>Natale, il momento più atteso dell’anno</strong><br/></h3><p>Il Natale è magia: luci che brillano, atmosfere che scaldano il cuore, sorrisi che si accendono con un dono inaspettato.<br/>Rendi questo momento ancora più speciale con regali che parlano di originalità e affetto sincero: un gesto che stupisce, emoziona e resta nel tempo.<br/></p>",
             "text_style": "body"
           }
         },
         "button_RaJVLy": {
           "type": "button",
           "settings": {
-            "button_label": "Idee Regalo Natale",
+            "button_label": "Idee Regalo - La Magia del Natale",
             "button_link": "shopify://collections/idee-regalo-natale",
             "button_style_secondary": true
           }
@@ -316,6 +316,68 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "collection_list_6Wn6Ec": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_My83R8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-compleanno"
+          }
+        },
+        "featured_collection_GU3RQ3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-economiche"
+          }
+        },
+        "featured_collection_mNe8fM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-storm-collection-knindustrie"
+          }
+        },
+        "featured_collection_Tjd3fK": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-il-frutto-della-passione-bitossi-home"
+          }
+        },
+        "featured_collection_wENUBK": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "monsters-seletti"
+          }
+        },
+        "featured_collection_XLK4qT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "con-amore-bitossi-home"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_My83R8",
+        "featured_collection_GU3RQ3",
+        "featured_collection_mNe8fM",
+        "featured_collection_Tjd3fK",
+        "featured_collection_wENUBK",
+        "featured_collection_XLK4qT"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "Ogni occasione ha il suo linguaggio, e il regalo è il modo più bello per raccontarlo.",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "scheme-2",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -326,6 +388,7 @@
     "image_banner_3zqppy",
     "image_with_text_TWa4dW",
     "collection_list_WFPANW",
-    "image_with_text_jMezDe"
+    "image_with_text_jMezDe",
+    "collection_list_6Wn6Ec"
   ]
 }
