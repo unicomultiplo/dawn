@@ -419,6 +419,15 @@
             "link": "shopify://collections/idee-regalo-regali-per-lui"
           }
         },
+        "column_fezaXt": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_M67Cyc": {
           "type": "column",
           "settings": {
@@ -434,6 +443,7 @@
         "column_dKRiaD",
         "column_JTDJX8",
         "column_qWFeze",
+        "column_fezaXt",
         "column_M67Cyc"
       ],
       "name": "t:sections.multicolumn.presets.name",
@@ -443,7 +453,7 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
