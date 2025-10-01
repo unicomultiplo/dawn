@@ -378,6 +378,71 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multicolumn_RW9UrF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_NhmYPh": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Ogni persona è un mondo a sé, con gusti, passioni e desideri diversi. E ogni dono, per essere davvero speciale, deve saper parlare di chi lo riceve. Che tu stia cercando un regalo pensato per lei, per lui, per un amico che coltiva un hobby particolare o semplicemente un dono che rispetti il tuo budget, qui troverai sempre l’ispirazione giusta. Perché non conta solo il prezzo, ma l’emozione che il tuo regalo riuscirà a trasmettere.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_dKRiaD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/teal-gift-wrap-with-white-ribbon.jpg",
+            "title": "<strong>Idee regalo per lei e per lui, in pochi clic</strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JTDJX8": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><strong>Per lei</strong>: scegli un dono che sappia sorprendere, un piccolo gesto che combina bellezza e utilità. Dalle creazioni raffinate ai dettagli inaspettati, ogni regalo diventa un modo per dire “ti conosco davvero”.<br/><br/></p>",
+            "link_label": "Idee Regalo per Lei",
+            "link": "shopify://collections/idee-regalo-regali-per-lei"
+          }
+        },
+        "column_qWFeze": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><strong>Per lei</strong>: scegli un dono che sappia sorprendere, un piccolo gesto che combina bellezza e utilità. Dalle creazioni raffinate ai dettagli inaspettati, ogni regalo diventa un modo per dire “ti conosco davvero”.<br/><br/></p>",
+            "link_label": "Idee Regalo per Lei",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_NhmYPh",
+        "column_dKRiaD",
+        "column_JTDJX8",
+        "column_qWFeze"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Idee regalo uniche per ogni passione e ogni budget",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Etichetta pulsante",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -389,6 +454,7 @@
     "image_with_text_TWa4dW",
     "collection_list_WFPANW",
     "image_with_text_jMezDe",
-    "collection_list_6Wn6Ec"
+    "collection_list_6Wn6Ec",
+    "multicolumn_RW9UrF"
   ]
 }
