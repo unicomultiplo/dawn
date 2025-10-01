@@ -432,17 +432,17 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Kikkerland-sacche-viaggio.png",
-            "title": "<strong>Regali per chi ama il tempo libero</strong>",
+            "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/tempo-libero"
           }
         },
         "column_M67Cyc": {
           "type": "column",
           "settings": {
-            "title": "",
-            "text": "<p>Ci sono doni che accompagnano chi li riceve nei suoi momenti più autentici: un hobby coltivato con passione, un viaggio sognato da tempo, un rituale quotidiano che diventa speciale. Sono regali che non si limitano a stupire, ma trasformano il tempo libero in un’esperienza da vivere, condividere e ricordare.<br/></p>",
+            "title": "<strong>Regali per chi ama il tempo libero</strong>",
+            "text": "<p><br/>Ci sono doni che accompagnano chi li riceve nei suoi momenti più autentici: un hobby coltivato con passione, un viaggio sognato da tempo, un rituale quotidiano che diventa speciale. Sono regali che non si limitano a stupire, ma trasformano il tempo libero in un’esperienza da vivere, condividere e ricordare.<br/></p>",
             "link_label": "Regali perfetti per relax, viaggi e passioni",
             "link": "shopify://collections/tempo-libero"
           }
