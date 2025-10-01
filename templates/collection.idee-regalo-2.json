@@ -87,7 +87,7 @@
       "settings": {
         "title": "Idee regalo originali e divertenti",
         "heading_size": "h1",
-        "description": "<p>Chi ha detto che i regali devono essere seri? A volte il dono migliore è quello che fa <strong>ridere, spiazza e resta impresso</strong>. In questa collezione trovi sorprese inaspettate, oggetti <strong>fuori dagli schemi</strong> e chicche utili ma con un<strong> twist divertente.</strong><br/><br/>Dimentica i regali noiosi e prevedibili: qui si parla di trovate creative che fanno sorridere ancora prima di essere scartate. Il bello? Sono <strong>regali utili, solo con una marcia in più</strong>.<br/>Le nostre idee regalo originali e divertenti nascono per sorprendere chi ha già visto di tutto: <strong>accessori creativi, oggetti insoliti e proposte utili che si distinguono dai soliti cliché.</strong><br/><br/></p><h3><strong>Regali divertenti che fanno sorridere!<br/></strong></h3><p>Scegli un dono che sorprende e diverte, perfetto per amici e parenti con la battuta pronta o lo spirito giocoso. <strong>Fun & Wow!</strong><br/><br/><br/><br/><br/></p>",
+        "description": "<p>Chi ha detto che i regali devono essere seri? A volte il dono migliore è quello che fa <strong>ridere, spiazza e resta impresso</strong>. In questa collezione trovi sorprese inaspettate, oggetti <strong>fuori dagli schemi</strong> e chicche utili ma con un<strong> twist divertente.</strong><br/><br/>Dimentica i regali noiosi e prevedibili: qui si parla di trovate creative che fanno sorridere ancora prima di essere scartate. Il bello? Sono <strong>regali utili, solo con una marcia in più</strong>.<br/>Le nostre idee regalo originali e divertenti nascono per sorprendere chi ha già visto di tutto: <strong>accessori creativi, oggetti insoliti e proposte utili che si distinguono dai soliti cliché.</strong><br/><br/></p><h3><strong>Regali divertenti che fanno sorridere!<br/></strong></h3><p>Scegli un dono che sorprende e diverte, perfetto per amici e parenti con la battuta pronta o lo spirito giocoso. <strong>Fun & Wow!</strong><br/></p>",
         "show_description": false,
         "description_style": "body",
         "collection": "idee-regalo-natale",
@@ -222,6 +222,12 @@
             "collection": "knindustrie-catalogo-prodotti-lara-caffi"
           }
         },
+        "featured_collection_BeWzqW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-storm-collection-knindustrie"
+          }
+        },
         "featured_collection_Qrdpih": {
           "type": "featured_collection",
           "settings": {
@@ -234,12 +240,6 @@
             "collection": "monsters-seletti"
           }
         },
-        "featured_collection_BeWzqW": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "the-storm-collection-knindustrie"
-          }
-        },
         "featured_collection_xUyqLz": {
           "type": "featured_collection",
           "settings": {
@@ -250,9 +250,9 @@
       "block_order": [
         "featured_collection_akDRPm",
         "featured_collection_UUEjMN",
+        "featured_collection_BeWzqW",
         "featured_collection_Qrdpih",
         "featured_collection_HFFiNP",
-        "featured_collection_BeWzqW",
         "featured_collection_xUyqLz"
       ],
       "name": "t:sections.collection-list.presets.name",
