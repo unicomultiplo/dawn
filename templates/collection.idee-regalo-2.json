@@ -90,7 +90,7 @@
             "title": "",
             "text": "",
             "link_label": "1. Idee regalo originali e divertenti",
-            "link": ""
+            "link": "#idee-regalo-featured"
           }
         },
         "column_R6fwag": {
@@ -162,6 +162,19 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_fmWX9W": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "#idee-regalo-featured {scroll-margin-top: 90px;}"
+      ],
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -827,7 +840,7 @@
           "settings": {
             "heading": "Originale o utile? Trova l’equilibrio",
             "icon": "star",
-            "row_content": "<p><strong>Il nostro consiglio:</strong> se la persona è pratica, prediligi un oggetto utile con un <strong>dettaglio divertente</strong> o un colore acceso. Se è più giocosa, scegli un gadget stravagante, purché abbia una minima funzione (anche solo quella di liberare dallo stress!).</p>",
+            "row_content": "<p><strong>Il nostro consiglio:</strong> Se la persona è pratica, prediligi un oggetto utile con un <strong>dettaglio divertente</strong> o un colore acceso. Se è più giocosa, scegli un gadget stravagante, purché abbia una minima funzione (anche solo quella di liberare dallo stress!).</p>",
             "page": "",
             "liquid_content": "<div class=\"tabella-regali\">\n    <table>\n      <thead>\n        <tr>\n          <th>Destinatario / Occasione</th>\n          <th>Priorità</th>\n          <th>Esempi di Regalo</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td><strong>Amico stretto/Partner:</strong> (Compleanno, Anniversario)</td>\n          <td>Emozione + Personalità</td>\n          <td>Un'esperienza, un oggetto legato a una battuta interna.</td>\n        </tr>\n        <tr>\n          <td><strong> Collega/Conoscente:</strong>  (Secret Santa, Pensierino)</td>\n          <td>Divertimento + Utilità Leggera</td>\n          <td>Un gadget da scrivania simpatico, una tazza ironica.</td>\n        </tr>\n        <tr>\n          <td><strong> Parenti/Persone Pratiche:</strong>  (Natale, Inaugurazione Casa)</td>\n          <td>Utilità + Design</td>\n          <td>Accessori per la cucina, organizer intelligenti.</td>\n        </tr>\n        <tr>\n          <td><strong> Laurea/Eventi Importanti:</strong> </td>\n          <td>Valore (anche simbolico)</td>\n          <td>Un oggetto che facilita la vita da adulto o un'esperienza di crescita.</td>\n        </tr>\n      </tbody>\n    </table>\n  </div>"
           }
@@ -837,7 +850,7 @@
           "settings": {
             "heading": "Regali divertenti senza cadere nel banale",
             "icon": "star",
-            "row_content": "<p>Un regalo spiritoso è una scommessa vinta, ma solo se è di <strong>buon gusto</strong> e dimostra che conosci chi lo riceve. Evita il \"regalo da bancarella\" e punta sull'ironia intelligente.</p><ul><li><a href=\"/collections/cucina-e-tavola-tazze-tazzine-mug\" title=\"Tazze, Tazzine e Mug\"><strong>Tazze, Bicchieri</strong></a><strong>:</strong> una tazza con una forma e disegno originale, un calice o bicchiere dal design che non ti aspetti,<a href=\"/collections/piatti-pizza-bitossi-home\" title=\"Piatti Pizza Bitossi Home\"><strong> piatti pizza</strong></a> con scritte irriverenti</li><li><strong>Accessori tecno-spiritosi</strong>: un power bank dalle forme e dai colori originali, una cassa che si trasforma all’occorrenza in karaoke per divertirsi con gli amici, oppure una sveglia dal design sorprendente che sa far sorridere o riportare indietro nel tempo.</li></ul>",
+            "row_content": "<p>Un regalo spiritoso è una scommessa vinta, ma solo se è di <strong>buon gusto</strong> e dimostra che conosci chi lo riceve. Evita il \"regalo da bancarella\" e punta sull'ironia intelligente.</p><ul><li><a href=\"/collections/cucina-e-tavola-tazze-tazzine-mug\" title=\"Tazze, Tazzine e Mug\"><strong>Tazze, Bicchieri</strong></a><strong> e piatti pizza con Carattere:</strong> una tazza con una forma e disegno originale, un calice o bicchiere dal design che non ti aspetti,<a href=\"/collections/piatti-pizza-bitossi-home\" title=\"Piatti Pizza Bitossi Home\"><strong> piatti pizza</strong></a> con scritte irriverenti</li><li><strong>Accessori tecno-spiritosi</strong>: un power bank dalle forme e dai colori originali, una cassa che si trasforma all’occorrenza in karaoke per divertirsi con gli amici, oppure una sveglia dal design sorprendente che sa far sorridere o riportare indietro nel tempo.</li></ul>",
             "page": "",
             "liquid_content": ""
           }
@@ -932,6 +945,7 @@
     "image_banner_Q6rBiY",
     "product-grid",
     "multicolumn_MEiyUc",
+    "custom_liquid_fmWX9W",
     "featured_collection_qHiKjR",
     "image_banner_3zqppy",
     "image_with_text_TWa4dW",
