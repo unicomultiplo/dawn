@@ -89,7 +89,7 @@
           "settings": {
             "title": "",
             "text": "",
-            "link_label": "Idee regalo originali e divertenti",
+            "link_label": "1. Idee regalo originali e divertenti",
             "link": ""
           }
         },
@@ -98,7 +98,7 @@
           "settings": {
             "title": "",
             "text": "",
-            "link_label": "Idee regalo con un tocco di design",
+            "link_label": "2. Idee regalo con un tocco di design",
             "link": ""
           }
         },
@@ -107,7 +107,7 @@
           "settings": {
             "title": "",
             "text": "",
-            "link_label": "Idee regalo per ogni occasione",
+            "link_label": "3. Idee regalo per ogni occasione",
             "link": ""
           }
         },
@@ -116,7 +116,7 @@
           "settings": {
             "title": "",
             "text": "",
-            "link_label": "Idee regalo uniche per ogni passione e ogni budget",
+            "link_label": "4. Idee regalo uniche per ogni passione e ogni budget",
             "link": ""
           }
         },
@@ -125,7 +125,7 @@
           "settings": {
             "title": "",
             "text": "",
-            "link_label": "Idee regalo online, rapide e senza stress",
+            "link_label": "5. Idee regalo online, rapide e senza stress",
             "link": ""
           }
         },
@@ -134,7 +134,7 @@
           "settings": {
             "title": "",
             "text": "",
-            "link_label": "Consigli e spunti per scegliere il regalo giusto",
+            "link_label": "6. Consigli e spunti per scegliere il regalo giusto",
             "link": ""
           }
         }
@@ -321,7 +321,7 @@
         "featured_collection_HFFiNP": {
           "type": "featured_collection",
           "settings": {
-            "collection": "monsters-seletti"
+            "collection": "seletti-catalogo-prodotti-toiletpaper"
           }
         },
         "featured_collection_xUyqLz": {
@@ -479,7 +479,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Ogni persona è un mondo a sé, con gusti, passioni e desideri diversi. E ogni dono, per essere davvero speciale, deve saper parlare di chi lo riceve. Che tu stia cercando un regalo pensato per lei, per lui, per un amico che coltiva un hobby particolare o semplicemente un dono che rispetti il tuo budget, qui troverai sempre l’ispirazione giusta. Perché non conta solo il prezzo, ma l’emozione che il tuo regalo riuscirà a trasmettere.</p>",
+            "text": "<p>Ogni persona è un mondo a sé, con gusti, passioni e desideri diversi. E ogni <strong>dono</strong>, per essere davvero <strong>speciale</strong>, deve saper parlare di chi lo riceve. Che tu stia cercando un regalo pensato <strong>per lei, per lui, per un amico che coltiva un hobby particolare o semplicemente un dono che rispetti il tuo budget,</strong> qui troverai sempre l’ispirazione giusta. Perché non conta solo il prezzo, ma l’emozione che il tuo regalo riuscirà a trasmettere.</p>",
             "link_label": "",
             "link": ""
           }
@@ -496,7 +496,7 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
-        "column_alignment": "center",
+        "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
@@ -569,7 +569,7 @@
         "text_TggLKE": {
           "type": "text",
           "settings": {
-            "text": "<h3><strong>Regali per chi ama il tempo libero</strong><br/></h3><p>Ci sono doni che accompagnano chi li riceve nei suoi momenti più autentici: un hobby coltivato con passione, un viaggio sognato da tempo, un rituale quotidiano che diventa speciale. Sono regali che non si limitano a stupire, ma trasformano il tempo libero in un’esperienza da vivere, condividere e ricordare.<br/></p>",
+            "text": "<h3><strong>Regali per chi ama il tempo libero</strong><br/></h3><p>Ci sono doni che <strong>accompagnano chi li riceve</strong> nei suoi momenti più autentici: un hobby coltivato con passione, un viaggio sognato da tempo, un rituale quotidiano che diventa speciale. Sono <strong>regali </strong>che non si limitano a stupire, ma trasformano il tempo libero in un’<strong>esperienza da vivere</strong>, condividere e ricordare.<br/></p>",
             "text_style": "body"
           }
         },
@@ -620,7 +620,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3><strong>Idee regalo per fascia di prezzo, da 50€ a 150€</strong><br/></h3><p><br/>Scegliere un regalo diventa più semplice quando sai già qual è il budget: non si tratta solo di una cifra, ma di <strong>un modo diverso di raccontare attenzione e affetto</strong>.<br/>Che tu stia cercando un pensiero leggero, un dono dal giusto equilibrio o un oggetto speciale per un’occasione importante, troverai sempre un’idea originale pronta a sorprendere.<br/>Ecco tre soglie di prezzo pensate per guidarti, senza rinunciare all’originalità.</p>",
+            "text": "<h3><strong>Idee regalo per fascia di prezzo, da 50€ a 150€</strong><br/></h3><p><br/>Scegliere un regalo diventa più semplice quando sai già qual è il budget: non si tratta solo di una cifra, ma di <strong>un modo diverso di raccontare attenzione e affetto</strong>.<br/>Che tu stia cercando un pensiero leggero, un dono dal giusto equilibrio o un oggetto speciale per un’occasione importante, troverai sempre un’idea originale pronta a sorprendere.<em> Ecco tre soglie di prezzo pensate per guidarti, senza rinunciare all’originalità.</em></p>",
             "link_label": "",
             "link": ""
           }
@@ -629,7 +629,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ol><li>Regali smart e accessibili, perfetti per sorprendere senza complicazioni. Idee leggere ma ricche di significato.</li></ol>",
+            "text": "<ol><li><strong>Regali smart e accessibili</strong>, perfetti per sorprendere senza complicazioni. Idee leggere ma ricche di significato.</li></ol>",
             "link_label": "Piccoli gesti, grandi sorrisi",
             "link": "shopify://collections/idee-regalo-economiche"
           }
@@ -638,7 +638,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>2. La giusta via di mezzo tra convenienza e impatto: regali che colpiscono, restano impressi e raccontano attenzione autentica.</p>",
+            "text": "<p>2.<strong> La giusta via di mezzo</strong> tra convenienza e impatto: regali che colpiscono, restano impressi e raccontano attenzione autentica.</p>",
             "link_label": "Equilibrio perfetto",
             "link": "shopify://collections/idee-regalo-regali-sotto-100-euro"
           }
@@ -647,7 +647,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>3. Doni più importanti, scelti per celebrare momenti che meritano di essere ricordati con qualcosa di unico e speciale.</p>",
+            "text": "<p>3.<strong> Doni più importanti,</strong> scelti per celebrare momenti che meritano di essere ricordati con qualcosa di unico e speciale.</p>",
             "link_label": "Il valore delle grandi occasioni",
             "link": "shopify://collections/idee-regalo-regali-sotto-150-euro"
           }
@@ -771,7 +771,7 @@
             "image": "shopify://shop_images/IMG_6489.jpg",
             "caption": "",
             "heading": "",
-            "text": "<h3><strong>Regali last-minute e confezione regalo</strong></h3><p>Hai poco tempo ma non vuoi rinunciare a stupire? Con noi non è un problema: puoi contare su spedizioni rapide e sulla possibilità di <a href=\"/policies/contact-information\" title=\"Contact Information\"><strong>ritiro in negozio sempre attiva</strong></a>, così il tuo regalo è subito nelle tue mani.<br/><br/>E se desideri un tocco in più, la <strong>confezione regalo è sempre disponibile</strong>: curata nei dettagli, elegante e pronta per essere donata.<br/><br/>Per qualsiasi esigenza speciale, basta <a href=\"/policies/contact-information\" title=\"Contact Information\"><strong>scriverci: </strong></a>amiamo il rapporto<strong> con i nostri clienti</strong>, perché ogni regalo merita attenzione personale e la certezza di essere perfetto.</p>",
+            "text": "<h3><strong>Regali last-minute e confezione regalo</strong></h3><p>Hai poco tempo ma non vuoi rinunciare a stupire? Con noi non è un problema: puoi contare su spedizioni rapide e sulla possibilità di <a href=\"/policies/contact-information\" title=\"Contact Information\"><strong>ritiro in negozio sempre attiva</strong></a>, così il tuo regalo è subito nelle tue mani.<br/><br/>E se desideri un tocco in più, la <strong>confezione regalo è sempre disponibile</strong>: curata nei dettagli, elegante e pronta per essere donata.<br/><br/>Per qualsiasi esigenza speciale, basta <a href=\"/policies/contact-information\" title=\"Contact Information\"><strong>scriverci</strong></a>: amiamo il rapporto<strong> con i nostri clienti</strong>, perché ogni regalo merita attenzione personale e la certezza di essere perfetto.</p>",
             "button_label": "Scrivici su WhatsApp!",
             "button_link": "https://api.whatsapp.com/send?phone=390733810100&text=&source=&data=&app_absent="
           }
@@ -807,6 +807,25 @@
         "mobile_content_alignment": "left",
         "padding_top": 0,
         "padding_bottom": 36
+      }
+    },
+    "1759397952ce975801": {
+      "type": "apps",
+      "blocks": {
+        "feedaty_official_carousel_widget_XMPgQ8": {
+          "type": "shopify://apps/feedaty-official/blocks/carousel-widget/1597c10b-7e15-4dee-9287-4aa2114f0e9c",
+          "settings": {
+            "merchant_code": "Il tuo codice merchant",
+            "data_variant": "carosello-1",
+            "data_id": "selettore1"
+          }
+        }
+      },
+      "block_order": [
+        "feedaty_official_carousel_widget_XMPgQ8"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "collapsible_content_Hpi7c6": {
@@ -846,10 +865,10 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Idee regalo per chi ama casa e cucina",
-            "icon": "check_mark",
-            "row_content": "",
+            "icon": "star",
+            "row_content": "<p>Per l'<strong>Home&Cooking</strong> l'utile si sposa perfettamente con il design e la creatività. Qui l'obiettivo è regalare un oggetto che inviti a sperimentare o a vivere lo spazio in modo più confortevole e bello.</p><ul><li><strong>Gli Strumenti Intelligenti:</strong> Un set <strong>di posate per la colazione</strong> di design, un set di <strong>cubetti refrigeranti</strong> in metallo o pietra (per non annacquare i drink) o un dosatore per l'olio celebra l’eleganza della semplicità.</li><li><strong>Per l'Organizzazione con Stile:</strong> Organizer da cassetto geniali, accessori per lo Smart Working che riducono il disordine o la comodissima <strong>Un appendiabiti compatto </strong>che promette di sfruttare i piccoli spazi.</li><li><strong>L'Angolo Relax (Zen):</strong> Una lampada da scrivania o un oggetto luminoso che crea atmosfera e scalda un angolo della casa,  candele profumate in confezioni che sembrano opere d'arte.</li><li><strong>Per gli Amanti del Caffè/Tè:</strong> Un bollitore elettrico, o un elegante set di tazze con forme particolari e capaci di farti sognare Dai libero sfogo alla creatività! Un regalo non è solo un oggetto, ma un messaggio<strong><br/></strong></li><li>Decorazioni per la casa: tessili ricercati, piante candelabri artigianali, tappeti con scritte irriverenti, sedute insolite. </li></ul><p><strong>👉</strong> Dai un’occhiata alle nostre collezioni di accessori per la casa e ai brand di cucina più amati per trovare l’idea giusta.<br/></p>",
             "page": "",
-            "liquid_content": ""
+            "liquid_content": "<div class=\"tabella-regali\">\n  <table>\n    <thead>\n      <tr>\n        <th>Ambito / Esigenza</th>\n        <th>Priorità</th>\n        <th>Esempi di Regalo</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr>\n        <td><strong>Home &amp; Cooking</strong></td>\n        <td>Utilità + Design</td>\n        <td>\n          Strumenti intelligenti che invitano a sperimentare e rendono la cucina più bella e comoda:\n          <br>• set di posate per la colazione dal design curato\n          <br>• <em>cubetti refrigeranti</em> in metallo o pietra (drink senza annacquare)\n          <br>• dosatore per l’olio, eleganza della semplicità\n        </td>\n      </tr>\n\n      <tr>\n        <td><strong>Organizzazione con stile</strong></td>\n        <td>Ordine + Funzionalità</td>\n        <td>\n          Soluzioni furbe che liberano spazio e riducono il disordine:\n          <br>• organizer da cassetto “geniali”\n          <br>• accessori per lo smart working\n          <br>• appendiabiti compatto per piccoli ambienti\n        </td>\n      </tr>\n\n      <tr>\n        <td><strong>Angolo Relax (Zen)</strong></td>\n        <td>Atmosfera + Benessere</td>\n        <td>\n          Luce e profumo per creare un rifugio accogliente:\n          <br>• lampada da scrivania o oggetto luminoso d’atmosfera\n          <br>• candele profumate in confezioni “da collezione”\n        </td>\n      </tr>\n\n      <tr>\n        <td><strong>Amanti del Caffè / Tè</strong></td>\n        <td>Rituale + Piacere quotidiano</td>\n        <td>\n          Oggetti che elevano il rito:\n          <br>• bollitore elettrico\n          <br>• set di tazze dalle forme particolari, “capaci di far sognare”\n        </td>\n      </tr>\n\n      <tr>\n        <td><strong>Decorazioni per la casa</strong></td>\n        <td>Stile + Personalità</td>\n        <td>\n          Tocchi d’autore che raccontano chi sei:\n          <br>• tessili ricercati, piante, candelabri artigianali\n          <br>• tappeti con scritte irriverenti, sedute insolite\n        </td>\n      </tr>\n    </tbody>\n  </table>\n\n  <p class=\"cta-accessori-brand\">\n    {% assign acc_coll = collections['accessori-per-la-casa'] %}\n    {% assign brands_page = pages['brand-di-cucina'] %}\n    {% assign brands_coll = collections['brand-di-cucina'] %}\n    👉 Dai un’occhiata alle nostre\n    {% if acc_coll %}<a href=\"{{ acc_coll.url }}\">collezioni di accessori per la casa</a>{% else %}collezioni di accessori per la casa{% endif %}\n    e ai\n    {% if brands_page %}<a href=\"{{ brands_page.url }}\">brand di cucina più amati</a>\n    {% elsif brands_coll %}<a href=\"{{ brands_coll.url }}\">brand di cucina più amati</a>\n    {% else %}brand di cucina più amati{% endif %}\n    per trovare l’idea giusta.\n  </p>\n</div>"
           }
         }
       },
@@ -945,6 +964,7 @@
     "collection_list_NjQXhb",
     "rich_text_qyWyUE",
     "multirow_i9bgYb",
+    "1759397952ce975801",
     "collapsible_content_Hpi7c6",
     "image_banner_xBTzGC"
   ]
