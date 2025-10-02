@@ -874,7 +874,9 @@
         "collapsible_row_K4xFQJ",
         "collapsible_row_Yf4JnL"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "#consigli-e-spunti {scroll-margin-top: 100px; /* adatta al tuo header */}"
+      ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
         "caption": "",
