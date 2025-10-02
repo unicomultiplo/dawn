@@ -836,8 +836,8 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Regali divertenti senza cadere nel banale",
-            "icon": "check_mark",
-            "row_content": "",
+            "icon": "star",
+            "row_content": "<p>Un regalo spiritoso è una scommessa vinta, ma solo se è di <strong>buon gusto</strong> e dimostra che conosci chi lo riceve. Evita il \"regalo da bancarella\" e punta sull'ironia intelligente.</p><ul><li><a href=\"/collections/cucina-e-tavola-tazze-tazzine-mug\" title=\"Tazze, Tazzine e Mug\"><strong>Tazze, Bicchieri</strong></a><strong> e piatti pizza con Carattere:</strong> una tazza con una forma e disegno originale, un calice o bicchiere dal design che non ti aspetti,<a href=\"/collections/piatti-pizza-bitossi-home\" title=\"Piatti Pizza Bitossi Home\"><strong> piatti pizza</strong></a> con scritte irriverenti</li><li><strong>Accessori tecno-spiritosi</strong>: un power bank dalle forme e dai colori originali, una cassa che si trasforma all’occorrenza in karaoke per divertirsi con gli amici, oppure una sveglia dal design sorprendente che sa far sorridere o riportare indietro nel tempo.</li></ul>",
             "page": "",
             "liquid_content": ""
           }
