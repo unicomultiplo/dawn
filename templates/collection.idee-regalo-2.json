@@ -135,7 +135,7 @@
             "title": "",
             "text": "",
             "link_label": "6. Consigli e spunti per scegliere il regalo giusto",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo?#shopify-section-template--25730824438025__collapsible_content_Hpi7c6"
+            "link": "#consigli-e-spunti"
           }
         }
       },
@@ -167,9 +167,7 @@
     },
     "featured_collection_qHiKjR": {
       "type": "featured-collection",
-      "custom_css": [
-        "#idee-regalo {scroll-margin-top: 90px;}"
-      ],
+      "custom_css": [],
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "title": "Idee regalo originali e divertenti",
@@ -864,6 +862,9 @@
         "collapsible_row_qXygba",
         "collapsible_row_K4xFQJ",
         "collapsible_row_Yf4JnL"
+      ],
+      "custom_css": [
+        "#consigli-e-spunti {scroll-margin-top: 400px;}"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
