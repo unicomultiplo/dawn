@@ -451,7 +451,7 @@
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
-        "title": "Ogni occasione ha il suo linguaggio, e il regalo è il modo più bello per raccontarlo.",
+        "title": "<strong>Trova l’idea regalo giusta per ogni evento</strong>",
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 6,
@@ -562,14 +562,14 @@
         "heading_xAJCLb": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Regali per chi ama il tempo libero</strong>",
+            "heading": "",
             "heading_size": "h2"
           }
         },
         "text_TggLKE": {
           "type": "text",
           "settings": {
-            "text": "<p>Ci sono doni che accompagnano chi li riceve nei suoi momenti più autentici: un hobby coltivato con passione, un viaggio sognato da tempo, un rituale quotidiano che diventa speciale. Sono regali che non si limitano a stupire, ma trasformano il tempo libero in un’esperienza da vivere, condividere e ricordare.<br/></p>",
+            "text": "<h3><strong>Regali per chi ama il tempo libero</strong><br/></h3><p>Ci sono doni che accompagnano chi li riceve nei suoi momenti più autentici: un hobby coltivato con passione, un viaggio sognato da tempo, un rituale quotidiano che diventa speciale. Sono regali che non si limitano a stupire, ma trasformano il tempo libero in un’esperienza da vivere, condividere e ricordare.<br/></p>",
             "text_style": "body"
           }
         },
@@ -620,15 +620,45 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3><strong>Idee regalo per fascia di prezzo, da 50€ a 150€</strong><br/></h3><p><br/>Scegliere un regalo diventa più semplice quando sai già qual è il budget: non si tratta solo di una cifra, ma di <strong>un modo diverso di raccontare attenzione e affetto</strong>.<br/>Che tu stia cercando un pensiero leggero, un dono dal giusto equilibrio o un oggetto speciale per un’occasione importante, troverai sempre un’idea originale pronta a sorprendere.<br/>Ecco tre soglie di prezzo pensate per guidarti, senza rinunciare all’originalità.<br/><br/></p><ol><li><a href=\"/collections/idee-regalo-economiche\" title=\"Idee Regalo Economiche sotto i 50€\"><strong>Piccoli gesti, grandi sorrisi </strong>Regali smart e accessibili, perfetti per sorprendere senza complicazioni. Idee leggere ma ricche di significato.</a><a href=\"/collections/idee-regalo-regali-sotto-100-euro\" title=\"Regali a Meno di 100€\"><br/><br/></a></li><li><a href=\"/collections/idee-regalo-regali-sotto-100-euro\" title=\"Regali a Meno di 100€\"><strong>Equilibrio perfetto</strong>: La giusta via di mezzo tra<strong> </strong>convenienza e impatto: regali che colpiscono, restano impressi e raccontano attenzione autentica.</a><br/><br/></li><li><a href=\"/collections/idee-regalo-regali-sotto-150-euro\" title=\"Regali a Meno di 150€\"><strong>Il valore delle grandi occasioni </strong>Doni più importanti, scelti per celebrare momenti che meritano di essere ricordati con qualcosa di unico e speciale.</a></li></ol>",
+            "text": "<h3><strong>Idee regalo per fascia di prezzo, da 50€ a 150€</strong><br/></h3><p><br/>Scegliere un regalo diventa più semplice quando sai già qual è il budget: non si tratta solo di una cifra, ma di <strong>un modo diverso di raccontare attenzione e affetto</strong>.<br/>Che tu stia cercando un pensiero leggero, un dono dal giusto equilibrio o un oggetto speciale per un’occasione importante, troverai sempre un’idea originale pronta a sorprendere.<br/>Ecco tre soglie di prezzo pensate per guidarti, senza rinunciare all’originalità.</p>",
             "link_label": "",
             "link": ""
+          }
+        },
+        "column_FrEbJ9": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<ul><li>Regali smart e accessibili, perfetti per sorprendere senza complicazioni. Idee leggere ma ricche di significato.</li></ul>",
+            "link_label": "Piccoli gesti, grandi sorrisi",
+            "link": "shopify://collections/idee-regalo-economiche"
+          }
+        },
+        "column_H9aEHa": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<ul><li>La giusta via di mezzo tra convenienza e impatto: regali che colpiscono, restano impressi e raccontano attenzione autentica.</li></ul>",
+            "link_label": "Equilibrio perfetto",
+            "link": "shopify://collections/idee-regalo-regali-sotto-100-euro"
+          }
+        },
+        "column_zhwjTV": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<ul><li>Doni più importanti, scelti per celebrare momenti che meritano di essere ricordati con qualcosa di unico e speciale.</li></ul>",
+            "link_label": "Il valore delle grandi occasioni",
+            "link": "shopify://collections/idee-regalo-regali-sotto-150-euro"
           }
         }
       },
       "block_order": [
         "column_HExQwD",
-        "column_D8yJni"
+        "column_D8yJni",
+        "column_FrEbJ9",
+        "column_H9aEHa",
+        "column_zhwjTV"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -637,11 +667,11 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 0,
@@ -681,11 +711,11 @@
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 3,
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
