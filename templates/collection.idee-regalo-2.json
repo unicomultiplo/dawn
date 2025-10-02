@@ -813,6 +813,17 @@
         "padding_bottom": 36
       }
     },
+    "custom_liquid_ahjVBf": {
+      "type": "custom-liquid",
+      "custom_css": [],
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div id=\"consigli-e-spunti\"></div>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "collapsible_content_Hpi7c6": {
       "type": "collapsible-content",
       "blocks": {
@@ -863,9 +874,7 @@
         "collapsible_row_K4xFQJ",
         "collapsible_row_Yf4JnL"
       ],
-      "custom_css": [
-        "#consigli-e-spunti {scroll-margin-top: 400px;}"
-      ],
+      "custom_css": [],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
         "caption": "",
@@ -952,6 +961,7 @@
     "collection_list_NjQXhb",
     "rich_text_qyWyUE",
     "multirow_i9bgYb",
+    "custom_liquid_ahjVBf",
     "collapsible_content_Hpi7c6",
     "image_banner_xBTzGC"
   ]
