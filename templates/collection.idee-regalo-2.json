@@ -90,7 +90,7 @@
             "title": "",
             "text": "",
             "link_label": "1. Idee regalo originali e divertenti",
-            "link": "#idee-regalo-featured"
+            "link": "#idee-regalo"
           }
         },
         "column_R6fwag": {
@@ -99,7 +99,7 @@
             "title": "",
             "text": "",
             "link_label": "2. Idee regalo con un tocco di design",
-            "link": ""
+            "link": "#idee-regalo-design"
           }
         },
         "column_EKG7zN": {
@@ -165,21 +165,11 @@
         "padding_bottom": 0
       }
     },
-    "custom_liquid_fmWX9W": {
-      "type": "custom-liquid",
-      "custom_css": [
-        "#idee-regalo-featured {scroll-margin-top: 9px;}"
-      ],
-      "name": "t:sections.custom-liquid.presets.name",
-      "settings": {
-        "custom_liquid": "",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "featured_collection_qHiKjR": {
       "type": "featured-collection",
+      "custom_css": [
+        "#idee-regalo {scroll-margin-top: 90px;}"
+      ],
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "title": "Idee regalo originali e divertenti",
@@ -286,6 +276,9 @@
         "heading_rjAfFq",
         "text_m4H4XU",
         "button_Nrp8zN"
+      ],
+      "custom_css": [
+        "#idee-regalo-design {scroll-margin-top: 90px; /* offset per header fisso */}"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
@@ -850,7 +843,7 @@
           "settings": {
             "heading": "Regali divertenti senza cadere nel banale",
             "icon": "star",
-            "row_content": "<p>Un regalo spiritoso è una scommessa vinta, ma solo se è di <strong>buon gusto</strong> e dimostra che conosci chi lo riceve. Evita il \"regalo da bancarella\" e punta sull'ironia intelligente.</p><ul><li><a href=\"/collections/cucina-e-tavola-tazze-tazzine-mug\" title=\"Tazze, Tazzine e Mug\"><strong>Tazze, Bicchieri</strong></a><strong> e piatti pizza con carattere:</strong> una tazza con una forma e disegno originale, un calice o bicchiere dal design che non ti aspetti,<a href=\"/collections/piatti-pizza-bitossi-home\" title=\"Piatti Pizza Bitossi Home\"><strong> piatti pizza</strong></a> con scritte irriverenti</li><li><strong>Accessori tecno-spiritosi</strong>: un power bank dalle forme e dai colori originali, una cassa che si trasforma all’occorrenza in karaoke per divertirsi con gli amici, oppure una sveglia dal design originale o riportare indietro nel tempo.</li></ul>",
+            "row_content": "<p>Un regalo spiritoso è una scommessa vinta, ma solo se è di <strong>buon gusto</strong> e dimostra che conosci chi lo riceve. Evita il \"regalo da bancarella\" e punta sull'ironia intelligente.</p><ul><li><a href=\"/collections/cucina-e-tavola-tazze-tazzine-mug\" title=\"Tazze, Tazzine e Mug\"><strong>Tazze, Bicchieri</strong></a><strong> e piatti pizza con Carattere:</strong> una tazza con una forma e disegno originale, un calice o bicchiere dal design che non ti aspetti,<a href=\"/collections/piatti-pizza-bitossi-home\" title=\"Piatti Pizza Bitossi Home\"><strong> piatti pizza</strong></a> con scritte irriverenti</li><li><strong>Accessori tecno-spiritosi</strong>: un power bank dalle forme e dai colori originali, una cassa che si trasforma all’occorrenza in karaoke per divertirsi con gli amici, oppure una sveglia dal design sorprendente che sa far sorridere o riportare indietro nel tempo.</li></ul>",
             "page": "",
             "liquid_content": ""
           }
@@ -860,7 +853,7 @@
           "settings": {
             "heading": "Idee regalo per chi ama casa e cucina",
             "icon": "star",
-            "row_content": "<p>Per l'<strong>Home&Cooking</strong> l'utile si sposa perfettamente con il design e la creatività. Qui l'obiettivo è regalare un oggetto che inviti a sperimentare o a vivere lo spazio in modo più confortevole e bello.</p><ul><li><strong>Gli Strumenti Intelligenti:</strong> un set <strong>di posate per la colazione</strong>, un set di <strong>cubetti refrigeranti</strong> in metallo o pietra (per non annacquare i drink) o un dosatore per l'olio che celebra l’eleganza della semplicità.</li><li><strong>Per l'Organizzazione con Stile:</strong> Organizer da cassetto geniali, accessori per lo Smart Working che riducono il disordine o la comodissima u<strong>n appendiabiti compatto </strong>che promette di sfruttare i piccoli spazi.</li><li><strong>L'Angolo Relax (Zen):</strong> Una lampada da scrivania o un oggetto luminoso che crea atmosfera e scalda un angolo della casa,  candele profumate in confezioni che sembrano opere d'arte.</li><li><strong>Per gli Amanti del Caffè/Tè:</strong> un bollitore elettrico, o un elegante set di tazze con forme particolari, capaci di farti sognare. Dai libero sfogo alla creatività! Un regalo non è solo un oggetto, ma un messaggio.<strong><br/></strong></li><li>Decorazioni per la casa: tessili ricercati, piante candelabri artigianali, tappeti con scritte irriverenti, sedute insolite. </li></ul><p><strong>👉</strong> Dai un’occhiata alle nostre collezioni di accessori per la casa e ai brand di cucina più amati per trovare l’idea giusta.<br/></p>",
+            "row_content": "<p>Per l'<strong>Home&Cooking</strong> l'utile si sposa perfettamente con il design e la creatività. Qui l'obiettivo è regalare un oggetto che inviti a sperimentare o a vivere lo spazio in modo più confortevole e bello.</p><ul><li><strong>Gli Strumenti Intelligenti:</strong> Un set <strong>di posate per la colazione</strong> di design, un set di <strong>cubetti refrigeranti</strong> in metallo o pietra (per non annacquare i drink) o un dosatore per l'olio celebra l’eleganza della semplicità.</li><li><strong>Per l'Organizzazione con Stile:</strong> Organizer da cassetto geniali, accessori per lo Smart Working che riducono il disordine o la comodissima <strong>Un appendiabiti compatto </strong>che promette di sfruttare i piccoli spazi.</li><li><strong>L'Angolo Relax (Zen):</strong> Una lampada da scrivania o un oggetto luminoso che crea atmosfera e scalda un angolo della casa,  candele profumate in confezioni che sembrano opere d'arte.</li><li><strong>Per gli Amanti del Caffè/Tè:</strong> Un bollitore elettrico, o un elegante set di tazze con forme particolari e capaci di farti sognare Dai libero sfogo alla creatività! Un regalo non è solo un oggetto, ma un messaggio<strong><br/></strong></li><li>Decorazioni per la casa: tessili ricercati, piante candelabri artigianali, tappeti con scritte irriverenti, sedute insolite. </li></ul><p><strong>👉</strong> Dai un’occhiata alle nostre collezioni di accessori per la casa e ai brand di cucina più amati per trovare l’idea giusta.<br/></p>",
             "page": "",
             "liquid_content": ""
           }
@@ -945,7 +938,6 @@
     "image_banner_Q6rBiY",
     "product-grid",
     "multicolumn_MEiyUc",
-    "custom_liquid_fmWX9W",
     "featured_collection_qHiKjR",
     "image_banner_3zqppy",
     "image_with_text_TWa4dW",
