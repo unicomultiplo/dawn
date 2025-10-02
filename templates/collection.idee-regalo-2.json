@@ -81,6 +81,60 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_MEiyUc": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_jwtrFM": {
+          "type": "column",
+          "settings": {
+            "title": "Colonna",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_R6fwag": {
+          "type": "column",
+          "settings": {
+            "title": "Colonna",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_EKG7zN": {
+          "type": "column",
+          "settings": {
+            "title": "Colonna",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_jwtrFM",
+        "column_R6fwag",
+        "column_EKG7zN"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Multicolonna",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Etichetta pulsante",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection_qHiKjR": {
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
@@ -539,7 +593,7 @@
         "text_PcLTtG": {
           "type": "text",
           "settings": {
-            "text": "<p><br/>Comprare online un regalo non è mai stato così semplice: ampia scelta, consegne veloci e zero complicazioni. Su Unico & Multiplo puoi trovare in pochi clic l’idea giusta, senza dover correre da un negozio all’altro.<br/><br/></p>"
+            "text": "<p>Comprare online un regalo non è mai stato così semplice: ampia scelta, consegne veloci e zero complicazioni. Con <em><strong>Unico & Multiplo</strong></em> puoi trovare in pochi clic l’idea giusta, senza dover correre da un negozio all’altro, e riceverla comodamente a casa o ritirarla direttamente in negozio.</p>"
           }
         },
         "button_Uc8nUp": {
@@ -575,11 +629,12 @@
         "row_wEJck8": {
           "type": "row",
           "settings": {
+            "image": "shopify://shop_images/IMG_6489.jpg",
             "caption": "",
-            "heading": "Regali last-minute e confezione regalo",
-            "text": "<p><br/>Se hai poco tempo, non preoccuparti: le nostre proposte arrivano rapidamente e con packaging curato, pronte per essere donate senza pensieri. Così anche un regalo last-minute si trasforma in un gesto elegante e personalizzato.<br/><br/></p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
+            "heading": "",
+            "text": "<h3><strong>Regali last-minute e confezione regalo</strong></h3><p>Hai poco tempo ma non vuoi rinunciare a stupire? Con noi non è un problema: puoi contare su spedizioni rapide e sulla possibilità di <a href=\"/policies/contact-information\" title=\"Contact Information\"><strong>ritiro in negozio sempre attiva</strong></a>, così il tuo regalo è subito nelle tue mani.<br/><br/>E se desideri un tocco in più, la <strong>confezione regalo è sempre disponibile</strong>: curata nei dettagli, elegante e pronta per essere donata.<br/><br/>Per qualsiasi esigenza speciale, basta <a href=\"/policies/contact-information\" title=\"Contact Information\"><strong>scriverci: </strong></a>amiamo il rapporto<strong> con i nostri clienti</strong>, perché ogni regalo merita attenzione personale e la certezza di essere perfetto.</p>",
+            "button_label": "Scrivici su WhatsApp!",
+            "button_link": "https://api.whatsapp.com/send?phone=390733810100&text=&source=&data=&app_absent="
           }
         },
         "row_BLNEXB": {
@@ -621,7 +676,7 @@
         "section_color_scheme": "",
         "row_color_scheme": "",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     }
@@ -630,6 +685,7 @@
     "banner",
     "image_banner_Q6rBiY",
     "product-grid",
+    "multicolumn_MEiyUc",
     "featured_collection_qHiKjR",
     "image_banner_3zqppy",
     "image_with_text_TWa4dW",
