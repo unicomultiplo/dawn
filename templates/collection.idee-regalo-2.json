@@ -87,27 +87,54 @@
         "column_jwtrFM": {
           "type": "column",
           "settings": {
-            "title": "Colonna",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "link_label": "",
+            "title": "",
+            "text": "",
+            "link_label": "Idee regalo originali e divertenti",
             "link": ""
           }
         },
         "column_R6fwag": {
           "type": "column",
           "settings": {
-            "title": "Colonna",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "link_label": "",
+            "title": "",
+            "text": "",
+            "link_label": "Idee regalo con un tocco di design",
             "link": ""
           }
         },
         "column_EKG7zN": {
           "type": "column",
           "settings": {
-            "title": "Colonna",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "link_label": "",
+            "title": "",
+            "text": "",
+            "link_label": "Idee regalo per ogni occasione",
+            "link": ""
+          }
+        },
+        "column_AgqKdm": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Idee regalo uniche per ogni passione e ogni budget",
+            "link": ""
+          }
+        },
+        "column_ynpyaf": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Idee regalo online, rapide e senza stress",
+            "link": ""
+          }
+        },
+        "column_iwTyqr": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "Consigli e spunti per scegliere il regalo giusto",
             "link": ""
           }
         }
@@ -115,24 +142,27 @@
       "block_order": [
         "column_jwtrFM",
         "column_R6fwag",
-        "column_EKG7zN"
+        "column_EKG7zN",
+        "column_AgqKdm",
+        "column_ynpyaf",
+        "column_iwTyqr"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Guida",
+        "title": "Guida ai regali",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 1,
+        "columns_desktop": 2,
         "column_alignment": "left",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 40,
+        "padding_bottom": 0
       }
     },
     "featured_collection_qHiKjR": {
@@ -151,7 +181,7 @@
         "show_view_all": true,
         "view_all_style": "outline",
         "enable_desktop_slider": true,
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": true,
@@ -655,8 +685,8 @@
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
+        "image_height": "small",
+        "desktop_image_width": "small",
         "heading_size": "h1",
         "text_style": "body",
         "button_style": "secondary",
@@ -676,24 +706,24 @@
         "heading_8q43gJ": {
           "type": "heading",
           "settings": {
-            "heading": "Immagine banner",
+            "heading": "Consigli e spunti per scegliere il regalo giusto",
             "heading_size": "h1"
           }
         },
         "text_TtH4Wh": {
           "type": "text",
           "settings": {
-            "text": "Fornisci ai clienti dettagli sulle immagini del banner o sul contenuto del modello.",
+            "text": "Indeciso su cosa regalare? Questa sezione è pensata per guidarti, con idee pratiche e spunti creativi che ti aiutano a trovare il dono perfetto per ogni persona e occasione.",
             "text_style": "body"
           }
         },
         "buttons_7iDeBq": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Etichetta pulsante",
+            "button_label_1": "Idee regalo per chi ama casa e cucina",
             "button_link_1": "",
             "button_style_secondary_1": false,
-            "button_label_2": "Etichetta pulsante",
+            "button_label_2": "Guida all'acquisto",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -706,6 +736,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
+        "image": "shopify://shop_images/gift-wrapping-supplies_1.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
