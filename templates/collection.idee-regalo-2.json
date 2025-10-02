@@ -119,14 +119,14 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Multicolonna",
+        "title": "Guida",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Etichetta pulsante",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
@@ -505,7 +505,7 @@
           "type": "column",
           "settings": {
             "title": "<strong>Idee regalo per fascia di prezzo, da 50€ a 150€</strong>",
-            "text": "<p><br/>Scegliere un regalo diventa più semplice quando sai già qual è il budget: non si tratta solo di una cifra, ma di <strong>un modo diverso di raccontare attenzione e affetto</strong>.<br/>Che tu stia cercando un pensiero leggero, un dono dal giusto equilibrio o un oggetto speciale per un’occasione importante, troverai sempre un’idea originale pronta a sorprendere.<br/>Ecco tre soglie di prezzo pensate per guidarti, senza rinunciare all’originalità.<br/><br/></p><ol><li><a href=\"/collections/idee-regalo-economiche\" title=\"Idee Regalo Economiche sotto i 50€\"><strong>Piccoli gesti, grandi sorrisi </strong>Regali smart e accessibili, perfetti per sorprendere senza complicazioni. Idee leggere ma ricche di significato.</a><a href=\"/collections/idee-regalo-regali-sotto-100-euro\" title=\"Regali a Meno di 100€\"><br/><br/></a></li><li><a href=\"/collections/idee-regalo-regali-sotto-100-euro\" title=\"Regali a Meno di 100€\">Equilibrio perfetto: La giusta via di mezzo tra<strong> convenienza e impatto</strong>: regali che colpiscono, restano impressi e raccontano attenzione autentica.</a><br/><br/></li><li><a href=\"/collections/idee-regalo-regali-sotto-150-euro\" title=\"Regali a Meno di 150€\"><strong>Il valore delle grandi occasioni </strong>Doni più importanti, scelti per celebrare momenti che meritano di essere ricordati con qualcosa di unico e speciale.</a></li></ol>",
+            "text": "<p><br/>Scegliere un regalo diventa più semplice quando sai già qual è il budget: non si tratta solo di una cifra, ma di <strong>un modo diverso di raccontare attenzione e affetto</strong>.<br/>Che tu stia cercando un pensiero leggero, un dono dal giusto equilibrio o un oggetto speciale per un’occasione importante, troverai sempre un’idea originale pronta a sorprendere.<br/>Ecco tre soglie di prezzo pensate per guidarti, senza rinunciare all’originalità.<br/><br/></p><ol><li><a href=\"/collections/idee-regalo-economiche\" title=\"Idee Regalo Economiche sotto i 50€\"><strong>Piccoli gesti, grandi sorrisi </strong>Regali smart e accessibili, perfetti per sorprendere senza complicazioni. Idee leggere ma ricche di significato.</a><a href=\"/collections/idee-regalo-regali-sotto-100-euro\" title=\"Regali a Meno di 100€\"><br/><br/></a></li><li><a href=\"/collections/idee-regalo-regali-sotto-100-euro\" title=\"Regali a Meno di 100€\"><strong>Equilibrio perfetto</strong>: La giusta via di mezzo tra<strong> </strong>convenienza e impatto: regali che colpiscono, restano impressi e raccontano attenzione autentica.</a><br/><br/></li><li><a href=\"/collections/idee-regalo-regali-sotto-150-euro\" title=\"Regali a Meno di 150€\"><strong>Il valore delle grandi occasioni </strong>Doni più importanti, scelti per celebrare momenti che meritano di essere ricordati con qualcosa di unico e speciale.</a></li></ol>",
             "link_label": "",
             "link": ""
           }
@@ -640,28 +640,18 @@
         "row_BLNEXB": {
           "type": "row",
           "settings": {
-            "caption": "Didascalia",
-            "heading": "Riga",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
-          }
-        },
-        "row_fxzVxN": {
-          "type": "row",
-          "settings": {
-            "caption": "Didascalia",
-            "heading": "Riga",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
+            "image": "shopify://shop_images/logo-unico-e-multiplo_698f486d-399f-47b4-9525-c0f0a67a6fd8.webp",
+            "caption": "",
+            "heading": "",
+            "text": "<h3><strong>Regali sicuri, con reso e cambi semplici</strong></h3><p><br/>Fare un regalo è ancora più piacevole se lo fai in totale tranquillità. Con Unico & Multiplo hai la certezza di acquistare senza pensieri: le nostre <strong>politiche di reso e cambio</strong> sono semplici, trasparenti e veloci.<br/><br/>Se il regalo non è perfetto o c’è bisogno di un cambio, ti seguiamo passo dopo passo fino alla soluzione, perché la tua esperienza deve essere serena tanto quanto il sorriso di chi riceve il dono.<br/><br/>In più, hai sempre la <strong>spedizione gratuita sopra i 59€</strong>, così sorprendere chi ami diventa ancora più conveniente.</p>",
+            "button_label": "Scopri tutti i dettagli nella nostra policy di spedizione, reso e cambi",
+            "button_link": "shopify://policies/shipping-policy"
           }
         }
       },
       "block_order": [
         "row_wEJck8",
-        "row_BLNEXB",
-        "row_fxzVxN"
+        "row_BLNEXB"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
@@ -679,6 +669,54 @@
         "padding_top": 0,
         "padding_bottom": 36
       }
+    },
+    "image_banner_xBTzGC": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_8q43gJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Immagine banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_TtH4Wh": {
+          "type": "text",
+          "settings": {
+            "text": "Fornisci ai clienti dettagli sulle immagini del banner o sul contenuto del modello.",
+            "text_style": "body"
+          }
+        },
+        "buttons_7iDeBq": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Etichetta pulsante",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Etichetta pulsante",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_8q43gJ",
+        "text_TtH4Wh",
+        "buttons_7iDeBq"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -695,6 +733,7 @@
     "multicolumn_RW9UrF",
     "collection_list_NjQXhb",
     "rich_text_qyWyUE",
-    "multirow_C73Yin"
+    "multirow_C73Yin",
+    "image_banner_xBTzGC"
   ]
 }
