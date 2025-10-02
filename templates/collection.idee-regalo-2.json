@@ -386,7 +386,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Natale-idee-regalo.png",
+        "image": "shopify://shop_images/Natale-idee-regalo_1.jpg",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -809,25 +809,6 @@
         "padding_bottom": 36
       }
     },
-    "1759397952ce975801": {
-      "type": "apps",
-      "blocks": {
-        "feedaty_official_carousel_widget_XMPgQ8": {
-          "type": "shopify://apps/feedaty-official/blocks/carousel-widget/1597c10b-7e15-4dee-9287-4aa2114f0e9c",
-          "settings": {
-            "merchant_code": "Il tuo codice merchant",
-            "data_variant": "carosello-1",
-            "data_id": "selettore1"
-          }
-        }
-      },
-      "block_order": [
-        "feedaty_official_carousel_widget_XMPgQ8"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "collapsible_content_Hpi7c6": {
       "type": "collapsible-content",
       "blocks": {
@@ -964,7 +945,6 @@
     "collection_list_NjQXhb",
     "rich_text_qyWyUE",
     "multirow_i9bgYb",
-    "1759397952ce975801",
     "collapsible_content_Hpi7c6",
     "image_banner_xBTzGC"
   ]
