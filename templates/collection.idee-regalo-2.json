@@ -815,10 +815,13 @@
     },
     "custom_liquid_ahjVBf": {
       "type": "custom-liquid",
-      "custom_css": [],
+      "custom_css": [
+        "#consigli-e-spunti {scroll-margin-top: 100px; }",
+        " /* regola 100px all'altezza del tuo header */"
+      ],
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<div id=\"consigli-e-spunti\" style=\"position:relative;\"></div>",
+        "custom_liquid": "<div id=\"consigli-e-spunti\"></div>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
@@ -874,9 +877,7 @@
         "collapsible_row_K4xFQJ",
         "collapsible_row_Yf4JnL"
       ],
-      "custom_css": [
-        "#consigli-e-spunti {scroll-margin-top: 100px; /* adatta al tuo header */}"
-      ],
+      "custom_css": [],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
         "caption": "",
