@@ -809,6 +809,73 @@
         "padding_bottom": 36
       }
     },
+    "collapsible_content_Hpi7c6": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_dDchUM": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "",
+            "icon": "none",
+            "row_content": "<p>Trovare il <strong>regalo perfetto</strong> non è sempre semplice: vuoi sorprendere, ma senza esagerare, e soprattutto vuoi che chi lo riceve lo apprezzi davvero. <strong>Ecco qualche consiglio</strong> per orientarti nella scelta, tra regali che strappano un sorriso e quelli che semplificano davvero la vita.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_qXygba": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Originale o utile? Trova l’equilibrio",
+            "icon": "star",
+            "row_content": "<p><strong>Il nostro consiglio:</strong> Se la persona è pratica, prediligi un oggetto utile con un <strong>dettaglio divertente</strong> o un colore acceso. Se è più giocosa, scegli un gadget stravagante, purché abbia una minima funzione (anche solo quella di liberare dallo stress!).</p>",
+            "page": "",
+            "liquid_content": "<div class=\"tabella-regali\">\n    <table>\n      <thead>\n        <tr>\n          <th>Destinatario / Occasione</th>\n          <th>Priorità</th>\n          <th>Esempi di Regalo</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td><strong>Amico stretto/Partner:</strong> (Compleanno, Anniversario)</td>\n          <td>Emozione + Personalità</td>\n          <td>Un'esperienza, un oggetto legato a una battuta interna.</td>\n        </tr>\n        <tr>\n          <td><strong> Collega/Conoscente:</strong>  (Secret Santa, Pensierino)</td>\n          <td>Divertimento + Utilità Leggera</td>\n          <td>Un gadget da scrivania simpatico, una tazza ironica.</td>\n        </tr>\n        <tr>\n          <td><strong> Parenti/Persone Pratiche:</strong>  (Natale, Inaugurazione Casa)</td>\n          <td>Utilità + Design</td>\n          <td>Accessori per la cucina, organizer intelligenti.</td>\n        </tr>\n        <tr>\n          <td><strong> Laurea/Eventi Importanti:</strong> </td>\n          <td>Valore (anche simbolico)</td>\n          <td>Un oggetto che facilita la vita da adulto o un'esperienza di crescita.</td>\n        </tr>\n      </tbody>\n    </table>\n  </div>"
+          }
+        },
+        "collapsible_row_K4xFQJ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Regali divertenti senza cadere nel banale",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_Yf4JnL": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Idee regalo per chi ama casa e cucina",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "",
+            "liquid_content": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_dDchUM",
+        "collapsible_row_qXygba",
+        "collapsible_row_K4xFQJ",
+        "collapsible_row_Yf4JnL"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "Consigli e spunti per scegliere il regalo giusto",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": true,
+        "image": "shopify://shop_images/gift-wrapping-supplies_1.webp",
+        "image_ratio": "small",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner_xBTzGC": {
       "type": "image-banner",
       "blocks": {
@@ -843,6 +910,7 @@
         "text_TtH4Wh",
         "buttons_7iDeBq"
       ],
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/gift-wrapping-supplies_1.webp",
@@ -877,6 +945,7 @@
     "collection_list_NjQXhb",
     "rich_text_qyWyUE",
     "multirow_i9bgYb",
+    "collapsible_content_Hpi7c6",
     "image_banner_xBTzGC"
   ]
 }
