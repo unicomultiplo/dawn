@@ -135,7 +135,7 @@
             "title": "",
             "text": "",
             "link_label": "6. Consigli e spunti per scegliere il regalo giusto",
-            "link": "/collections/idee-regalo#consigli-e-spunti"
+            "link": "#consigli-e-spunti"
           }
         }
       },
@@ -816,7 +816,7 @@
     "custom_liquid_ahjVBf": {
       "type": "custom-liquid",
       "custom_css": [
-        "#consigli-e-spunti {scroll-margin-top: 100px; }",
+        "#consigli-e-spunti {scroll-margin-top: 100px;}",
         " /* regola 100px all'altezza del tuo header */"
       ],
       "name": "t:sections.custom-liquid.presets.name",
