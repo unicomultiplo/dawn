@@ -818,7 +818,7 @@
       "custom_css": [],
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<div id=\"consigli-e-spunti\"></div>",
+        "custom_liquid": "<div id=\"consigli-e-spunti\" style=\"position:relative;\"></div>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
