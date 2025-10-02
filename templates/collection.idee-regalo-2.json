@@ -207,7 +207,7 @@
         "text_cyQACb": {
           "type": "text",
           "settings": {
-            "text": "Un Natale diverso inizia dal regalo che non ti aspetti: originale, memorabile, con un tocco di creatività che rompe la tradizione.",
+            "text": "Un <strong>Natale diverso </strong>inizia dal regalo che non ti aspetti: originale, memorabile, con un tocco di creatività che <strong>rompe la tradizione</strong>.",
             "text_style": "body"
           }
         },
@@ -256,7 +256,7 @@
         "text_m4H4XU": {
           "type": "text",
           "settings": {
-            "text": "<p>Ci sono doni che parlano da soli. Un dono di design è qualcosa che non si limita a stupire al primo sguardo: resta, si fa notare ogni giorno, diventa parte dei ricordi più belli. Per questo un regalo con stile non è mai banale, ma è un segno di attenzione che racconta chi sei e cosa vuoi trasmettere.<br/></p><h3><strong>Oggetti iconici che non passano di moda</strong></h3><p>Ci sono pezzi che non invecchiano mai: nascono da idee audaci e diventano simboli di creatività.<br/>Gli oggetti  visionari e irriverenti di <strong>Seletti </strong>, le collezioni colorate e senza tempo di <strong>Bitossi</strong>, o le linee essenziali firmate per <strong>KnIndustrie</strong>: oggetti che parlano di sogni, ironia e bellezza. Un regalo così non è solo un pensiero: è una storia che continua nel tempo.<br/></p><h3><strong>Materiali e dettagli che fanno la differenza</strong><br/></h3><p>Un vero dono si riconosce nei dettagli. La delicatezza della <strong>bone china</strong>, il calore autentico del <strong>legno</strong>, la leggerezza quasi magica del <strong>vetro borosilicato</strong>: materiali scelti con cura che trasformano ogni oggetto in qualcosa di speciale. Non servono tecnicismi: basta il piacere di regalare qualcosa che, al tatto e allo sguardo, trasmette qualità e unicità.<br/><br/><br/></p>",
+            "text": "<p>Ci sono doni che parlano da soli. Un dono di design è qualcosa che non si limita a stupire al primo sguardo: resta, si fa notare ogni giorno, diventa parte dei ricordi più belli. Per questo un regalo con stile non è mai banale, ma è un segno di attenzione che racconta chi sei e cosa vuoi trasmettere.<br/></p><h3><strong>Oggetti iconici che non passano di moda</strong></h3><p>Ci sono pezzi che non invecchiano mai: nascono da idee audaci e diventano simboli di creatività.<br/>Gli oggetti  visionari e irriverenti di <a href=\"/collections/seletti\" title=\"Seletti\"><strong>Seletti</strong></a>, le collezioni colorate e senza tempo di <a href=\"/collections/bitossi-home\" title=\"Bitossi Home\"><strong>Bitossi</strong>,</a> o le linee essenziali firmate per <a href=\"/collections/knindustrie\" title=\"KnIndustrie\"><strong>KnIndustrie</strong>:</a> oggetti che parlano di sogni, ironia e bellezza. Un regalo così non è solo un pensiero: è una storia che continua nel tempo.<br/></p><h3><strong>Materiali e dettagli che fanno la differenza</strong><br/></h3><p>Un vero dono si riconosce nei dettagli. La delicatezza della <a href=\"/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola\" title=\"Bone China: Scopri la Porcellana Più Elegante per la Tua Tavola\"><strong>bone china</strong>,</a> il calore autentico del <a href=\"/collections/cucina-e-tavola-taglieri\" title=\"Taglieri da Cucina\"><strong>legno</strong></a>, la leggerezza quasi magica del <a href=\"/collections/cucina-e-tavola-bicchieri-e-calici\" title=\"Bicchieri e Calici\"><strong>vetro borosilicato</strong></a>: materiali scelti con cura che trasformano ogni oggetto in qualcosa di speciale. Non servono tecnicismi: basta il piacere di regalare qualcosa che, al tatto e allo sguardo, trasmette qualità e unicità.<br/></p>",
             "text_style": "body"
           }
         },
@@ -366,7 +366,7 @@
         "text_DU4CtL": {
           "type": "text",
           "settings": {
-            "text": "<p>Ogni ricorrenza merita un pensiero speciale. Che si tratti di un compleanno da festeggiare, di un anniversario indimenticabile o di una festa che unisce tutta la famiglia, il regalo giusto c’è sempre. Questa sezione è il tuo punto di partenza: un luogo dove trovare ispirazione e trasformare ogni evento in un momento unico da ricordare.<br/><br/>Lasciati guidare dalle nostre ispirazioni: troverai sempre il percorso giusto per trasformare un’occasione in un momento indimenticabile.<br/></p><h3><strong>Natale, il momento più atteso dell’anno</strong><br/></h3><p>Il Natale è magia: luci che brillano, atmosfere che scaldano il cuore, sorrisi che si accendono con un dono inaspettato.<br/>Rendi questo momento ancora più speciale con regali che parlano di originalità e affetto sincero: un gesto che stupisce, emoziona e resta nel tempo.<br/></p>",
+            "text": "<p>Ogni ricorrenza merita un pensiero speciale. Che si tratti di un <strong>compleanno</strong> da festeggiare, di un <strong>anniversario</strong> indimenticabile o di una festa che unisce tutta la famiglia, il regalo giusto c’è sempre. Questa sezione è il tuo punto di partenza: un luogo dove trovare ispirazione e trasformare ogni evento in un momento unico da ricordare.<br/><br/><strong>Lasciati guidare dalle nostre ispirazioni</strong>: troverai sempre il percorso giusto per trasformare un’occasione in un momento indimenticabile.<br/></p><h3><strong>Natale, il momento più atteso dell’anno</strong><br/></h3><p>Il Natale è magia: luci che brillano, atmosfere che scaldano il cuore, sorrisi che si accendono con un dono inaspettato.<br/><strong>Rendi questo momento ancora più speciale con regali che parlano di originalità e affetto sincero: </strong>un gesto che stupisce, emoziona e resta nel tempo.<br/></p>",
             "text_style": "body"
           }
         },
@@ -629,7 +629,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>Regali smart e accessibili, perfetti per sorprendere senza complicazioni. Idee leggere ma ricche di significato.</li></ul>",
+            "text": "<ol><li>Regali smart e accessibili, perfetti per sorprendere senza complicazioni. Idee leggere ma ricche di significato.</li></ol>",
             "link_label": "Piccoli gesti, grandi sorrisi",
             "link": "shopify://collections/idee-regalo-economiche"
           }
@@ -638,7 +638,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>La giusta via di mezzo tra convenienza e impatto: regali che colpiscono, restano impressi e raccontano attenzione autentica.</li></ul>",
+            "text": "<p>2. La giusta via di mezzo tra convenienza e impatto: regali che colpiscono, restano impressi e raccontano attenzione autentica.</p>",
             "link_label": "Equilibrio perfetto",
             "link": "shopify://collections/idee-regalo-regali-sotto-100-euro"
           }
@@ -647,7 +647,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>Doni più importanti, scelti per celebrare momenti che meritano di essere ricordati con qualcosa di unico e speciale.</li></ul>",
+            "text": "<p>3. Doni più importanti, scelti per celebrare momenti che meritano di essere ricordati con qualcosa di unico e speciale.</p>",
             "link_label": "Il valore delle grandi occasioni",
             "link": "shopify://collections/idee-regalo-regali-sotto-150-euro"
           }
