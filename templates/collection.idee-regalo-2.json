@@ -168,7 +168,7 @@
     "custom_liquid_fmWX9W": {
       "type": "custom-liquid",
       "custom_css": [
-        "#idee-regalo-featured {scroll-margin-top: 90px;}"
+        "#idee-regalo-featured {scroll-margin-top: 9px;}"
       ],
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
