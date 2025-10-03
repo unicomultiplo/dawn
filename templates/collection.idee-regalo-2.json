@@ -896,6 +896,68 @@
         "padding_bottom": 36
       }
     },
+    "collection_list_Mf3YzU": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_jPhpDT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home"
+          }
+        },
+        "featured_collection_tWLVxx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti"
+          }
+        },
+        "featured_collection_RaNffq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie"
+          }
+        },
+        "featured_collection_TpYfxM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "disegnetti-depressetti"
+          }
+        },
+        "featured_collection_KczQLm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "doiy"
+          }
+        },
+        "featured_collection_iURccB": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kikkerland"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_jPhpDT",
+        "featured_collection_tWLVxx",
+        "featured_collection_RaNffq",
+        "featured_collection_TpYfxM",
+        "featured_collection_KczQLm",
+        "featured_collection_iURccB"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner_xBTzGC": {
       "type": "image-banner",
       "blocks": {
@@ -967,6 +1029,7 @@
     "multirow_i9bgYb",
     "custom_liquid_ahjVBf",
     "collapsible_content_Hpi7c6",
+    "collection_list_Mf3YzU",
     "image_banner_xBTzGC"
   ]
 }
