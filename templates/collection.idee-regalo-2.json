@@ -46,7 +46,6 @@
         "heading_n4AJPP",
         "buttons_CmixbY"
       ],
-      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/cosa-regalo-per-natale-mamma-e-papa_94b5f652-5dae-4023-808f-52ec2622ae7c.png",
@@ -136,7 +135,7 @@
             "title": "",
             "text": "",
             "link_label": "6. Consigli e spunti per scegliere il regalo giusto",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo?#shopify-section-template--25730824438025__collapsible_content_Hpi7c6"
+            "link": "#consigli-e-spunti"
           }
         }
       },
@@ -173,7 +172,7 @@
       "settings": {
         "title": "Idee regalo originali e divertenti",
         "heading_size": "h1",
-        "description": "<p>Chi ha detto che i regali devono essere seri? A volte il dono migliore è quello che fa <strong>ridere, spiazza e resta impresso</strong>. In questa collezione trovi sorprese inaspettate, oggetti <strong>fuori dagli schemi</strong> e chicche utili ma con un<strong> twist divertente.</strong><br/><br/>Dimentica i regali noiosi e prevedibili: qui si parla di trovate creative che fanno sorridere ancora prima di essere scartate. Il bello? Sono <strong>regali utili, solo con una marcia in più</strong>.<br/>Le nostre idee regalo originali e divertenti nascono per sorprendere chi ha già visto di tutto: <strong>accessori creativi, oggetti insoliti e proposte utili che si distinguono dai soliti cliché.</strong><br/><br/></p><h3><strong>Regali divertenti che fanno sorridere!<br/></strong></h3><p>Scegli un dono che sorprende e diverte, perfetto per amici e parenti con la battuta pronta o lo spirito giocoso. <strong>Fun & Wow!</strong><br/></p>",
+        "description": "<p>Chi ha detto che i regali devono essere seri? A volte il dono migliore è quello che fa <strong>ridere, spiazza e resta impresso</strong>. In questa collezione trovi sorprese inaspettate, oggetti <strong>fuori dagli schemi</strong> e chicche utili ma con un<strong> twist divertente.</strong><br/><br/>Dimentica i regali noiosi e prevedibili: qui si parla di trovate creative che fanno sorridere ancora prima di essere scartate. Il bello? Sono <strong>regali utili, e con una marcia in più</strong>.<br/>Le nostre idee regalo originali e divertenti nascono per sorprendere chi ha già visto di tutto: <strong>accessori creativi, oggetti insoliti e proposte utili che si distinguono dai soliti cliché.</strong><br/><br/></p><h3><strong>Regali che fanno sorridere!<br/></strong></h3><p>Scegli un dono che sorprende e diverte, perfetto per amici e parenti con la battuta pronta o lo spirito giocoso. <strong>Fun & Wow!</strong><br/></p>",
         "show_description": false,
         "description_style": "body",
         "collection": "kikkerland",
@@ -258,7 +257,7 @@
         "text_m4H4XU": {
           "type": "text",
           "settings": {
-            "text": "<p>Ci sono doni che parlano da soli. Un dono di design è qualcosa che non si limita a stupire al primo sguardo: resta, si fa notare ogni giorno, diventa parte dei ricordi più belli. Per questo un regalo con stile non è mai banale, ma è un segno di attenzione che racconta chi sei e cosa vuoi trasmettere.<br/></p><h3><strong>Oggetti iconici che non passano di moda</strong></h3><p>Ci sono pezzi che non invecchiano mai: nascono da idee audaci e diventano simboli di creatività.<br/>Gli oggetti  visionari e irriverenti di <a href=\"/collections/seletti\" title=\"Seletti\"><strong>Seletti</strong></a>, le collezioni colorate e senza tempo di <a href=\"/collections/bitossi-home\" title=\"Bitossi Home\"><strong>Bitossi</strong>,</a> o le linee essenziali firmate per <a href=\"/collections/knindustrie\" title=\"KnIndustrie\"><strong>KnIndustrie</strong>:</a> oggetti che parlano di sogni, ironia e bellezza. Un regalo così non è solo un pensiero: è una storia che continua nel tempo.<br/></p><h3><strong>Materiali e dettagli che fanno la differenza</strong><br/></h3><p>Un vero dono si riconosce nei dettagli. La delicatezza della <a href=\"/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola\" title=\"Bone China: Scopri la Porcellana Più Elegante per la Tua Tavola\"><strong>bone china</strong>,</a> il calore autentico del <a href=\"/collections/cucina-e-tavola-taglieri\" title=\"Taglieri da Cucina\"><strong>legno</strong></a>, la leggerezza quasi magica del <a href=\"/collections/cucina-e-tavola-bicchieri-e-calici\" title=\"Bicchieri e Calici\"><strong>vetro borosilicato</strong></a>: materiali scelti con cura che trasformano ogni oggetto in qualcosa di speciale. Non servono tecnicismi: basta il piacere di regalare qualcosa che, al tatto e allo sguardo, trasmette qualità e unicità.<br/></p>",
+            "text": "<p>Ci sono doni che parlano da soli. Un dono di design è qualcosa che non si limita a stupire al primo sguardo: resta, si fa notare ogni giorno, diventa parte dei ricordi più belli. Per questo un regalo con stile non è mai banale, ma è un segno di attenzione che racconta chi sei e cosa vuoi trasmettere.<br/></p><h3><strong>Oggetti iconici che non passano di moda</strong></h3><p>Ci sono pezzi che non invecchiano mai: nascono da idee audaci e diventano simboli di creatività.<br/>Gli oggetti  visionari e irriverenti di <a href=\"/collections/seletti\" title=\"Seletti\"><strong>Seletti</strong></a>, le collezioni colorate e senza tempo di <a href=\"/collections/bitossi-home\" title=\"Bitossi Home\"><strong>Bitossi</strong>,</a> o le linee essenziali firmate per <a href=\"/collections/knindustrie\" title=\"KnIndustrie\"><strong>KnIndustrie</strong>:</a> oggetti che parlano di sogni, ironia e bellezza. Un regalo così non è solo un pensiero: è una storia che continua nel tempo.<br/></p><h3><strong>Materiali e dettagli che fanno la differenza</strong><br/></h3><p>Un vero dono si riconosce nei dettagli. La delicatezza della B<a href=\"/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola\" title=\"Bone China: Scopri la Porcellana Più Elegante per la Tua Tavola\"><strong>one China</strong>,</a> il calore autentico del <a href=\"/collections/cucina-e-tavola-taglieri\" title=\"Taglieri da Cucina\"><strong>legno</strong></a>, la leggerezza quasi magica del <a href=\"/collections/cucina-e-tavola-bicchieri-e-calici\" title=\"Bicchieri e Calici\"><strong>vetro borosilicato</strong></a>: materiali scelti con cura che trasformano ogni oggetto in qualcosa di speciale. Non servono tecnicismi: basta il piacere di regalare qualcosa che, al tatto e allo sguardo, trasmette qualità e unicità.<br/></p>",
             "text_style": "body"
           }
         },
@@ -831,12 +830,12 @@
     "collapsible_content_Hpi7c6": {
       "type": "collapsible-content",
       "blocks": {
-        "collapsible_row_ay8Yhr": {
+        "collapsible_row_dDchUM": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "",
+            "icon": "none",
+            "row_content": "<p>Trovare il <strong>regalo perfetto</strong> non è sempre semplice: vuoi sorprendere, ma senza esagerare, e soprattutto vuoi che chi lo riceve lo apprezzi davvero. <strong>Ecco qualche consiglio</strong> per orientarti nella scelta, tra regali che strappano un sorriso e quelli che semplificano davvero la vita.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -846,7 +845,7 @@
           "settings": {
             "heading": "Originale o utile? Trova l’equilibrio",
             "icon": "star",
-            "row_content": "<p><strong>Il nostro consiglio:</strong> Se la persona è pratica, prediligi un oggetto utile con un <strong>dettaglio divertente</strong> o un colore acceso. Se è più giocosa, scegli un gadget stravagante, purché abbia una minima funzione (anche solo quella di liberare dallo stress!).</p>",
+            "row_content": "<p><strong>Il nostro consiglio:</strong> se la persona è pratica, prediligi un oggetto utile con un <strong>dettaglio divertente</strong> o un colore acceso. Se è più giocosa, scegli un gadget stravagante, purché abbia una minima funzione (anche solo quella di liberare dallo stress!).</p>",
             "page": "",
             "liquid_content": "<div class=\"tabella-regali\">\n    <table>\n      <thead>\n        <tr>\n          <th>Destinatario / Occasione</th>\n          <th>Priorità</th>\n          <th>Esempi di Regalo</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td><strong>Amico stretto/Partner:</strong> (Compleanno, Anniversario)</td>\n          <td>Emozione + Personalità</td>\n          <td>Un'esperienza, un oggetto legato a una battuta interna.</td>\n        </tr>\n        <tr>\n          <td><strong> Collega/Conoscente:</strong>  (Secret Santa, Pensierino)</td>\n          <td>Divertimento + Utilità Leggera</td>\n          <td>Un gadget da scrivania simpatico, una tazza ironica.</td>\n        </tr>\n        <tr>\n          <td><strong> Parenti/Persone Pratiche:</strong>  (Natale, Inaugurazione Casa)</td>\n          <td>Utilità + Design</td>\n          <td>Accessori per la cucina, organizer intelligenti.</td>\n        </tr>\n        <tr>\n          <td><strong> Laurea/Eventi Importanti:</strong> </td>\n          <td>Valore (anche simbolico)</td>\n          <td>Un oggetto che facilita la vita da adulto o un'esperienza di crescita.</td>\n        </tr>\n      </tbody>\n    </table>\n  </div>"
           }
@@ -856,7 +855,7 @@
           "settings": {
             "heading": "Regali divertenti senza cadere nel banale",
             "icon": "star",
-            "row_content": "<p>Un regalo spiritoso è una scommessa vinta, ma solo se è di <strong>buon gusto</strong> e dimostra che conosci chi lo riceve. Evita il \"regalo da bancarella\" e punta sull'ironia intelligente.</p><ul><li><a href=\"/collections/cucina-e-tavola-tazze-tazzine-mug\" title=\"Tazze, Tazzine e Mug\"><strong>Tazze</strong></a><strong>, Bicchieri e piatti pizza con carattere:</strong> una tazza con una forma e disegno originale, un <a href=\"/collections/cucina-e-tavola-bicchieri-e-calici\" title=\"Bicchieri e Calici\"><strong>calice o bicchiere</strong></a> dal design che non ti aspetti, <a href=\"/collections/piatti-pizza-bitossi-home\" title=\"Piatti Pizza Bitossi Home\"><strong>piatti pizza</strong></a> con scritte irriverenti</li><li><strong>Accessori tecno-spiritosi</strong>: un power bank dalle forme e dai colori originali, una cassa che si trasforma all’occorrenza in karaoke per divertirsi con gli amici, oppure una sveglia dal design sorprendente che sa far sorridere o riportare indietro nel tempo.</li></ul>",
+            "row_content": "<p>Un regalo spiritoso è una scommessa vinta, ma solo se è di <strong>buon gusto</strong> e dimostra che conosci chi lo riceve. Evita il \"regalo da bancarella\" e punta sull'ironia intelligente.</p><ul><li><a href=\"/collections/cucina-e-tavola-tazze-tazzine-mug\" title=\"Tazze, Tazzine e Mug\"><strong>Tazze, Bicchieri</strong></a><strong> e piatti pizza con Carattere:</strong> una tazza con una forma e disegno originale, un calice o bicchiere dal design che non ti aspetti,<a href=\"/collections/piatti-pizza-bitossi-home\" title=\"Piatti Pizza Bitossi Home\"><strong> piatti pizza</strong></a> con scritte irriverenti</li><li><strong>Accessori tecno-spiritosi</strong>: un power bank dalle forme e dai colori originali, una cassa che si trasforma all’occorrenza in karaoke per divertirsi con gli amici, oppure una sveglia dal design sorprendente che sa far sorridere o riportare indietro nel tempo.</li></ul>",
             "page": "",
             "liquid_content": ""
           }
@@ -866,14 +865,14 @@
           "settings": {
             "heading": "Idee regalo per chi ama casa e cucina",
             "icon": "star",
-            "row_content": "<p>Per l'<strong>Home&Cooking</strong> l'utile si sposa perfettamente con il design e la creatività. Qui l'obiettivo è regalare un oggetto che inviti a sperimentare o a vivere lo spazio in modo più confortevole e bello.</p><ul><li><strong>Gli Strumenti Intelligenti:</strong> Un set <strong>di posate per la colazione</strong> di design, un set di <strong>cubetti refrigeranti</strong> in metallo o pietra (per non annacquare i drink) o un dosatore per l'olio celebra l’eleganza della semplicità.</li><li><strong>Per l'Organizzazione con Stile:</strong> Organizer da cassetto geniali, accessori per lo Smart Working che riducono il disordine o la comodissima <strong>Un appendiabiti compatto </strong>che promette di sfruttare i piccoli spazi.</li><li><strong>L'Angolo Relax (Zen):</strong> Una lampada da scrivania o un oggetto luminoso che crea atmosfera e scalda un angolo della casa,  candele profumate in confezioni che sembrano opere d'arte.</li><li><strong>Per gli Amanti del Caffè/Tè:</strong> Un bollitore elettrico, o un elegante set di tazze con forme particolari e capaci di farti sognare Dai libero sfogo alla creatività! Un regalo non è solo un oggetto, ma un messaggio<strong><br/></strong></li><li>Decorazioni per la casa: tessili ricercati, piante candelabri artigianali, tappeti con scritte irriverenti, sedute insolite. </li></ul><p><strong>👉</strong> Dai un’occhiata alle nostre collezioni di <a href=\"/collections/cucina-e-tavola\" title=\"CUCINA & TAVOLA\"><strong>accessori per la casa</strong></a> e ai brand di cucina più amati per trovare l’idea giusta.<br/></p>",
+            "row_content": "<p>Per l'<strong>Home&Cooking</strong> l'utile si sposa perfettamente con il design e la creatività. Qui l'obiettivo è regalare un oggetto che inviti a sperimentare o a vivere lo spazio in modo più confortevole e bello.</p><ul><li><strong>Gli Strumenti Intelligenti:</strong> Un set <strong>di posate per la colazione</strong> di design, un set di <strong>cubetti refrigeranti</strong> in metallo o pietra (per non annacquare i drink) o un dosatore per l'olio celebra l’eleganza della semplicità.</li><li><strong>Per l'Organizzazione con Stile:</strong> Organizer da cassetto geniali, accessori per lo Smart Working che riducono il disordine o la comodissima <strong>Un appendiabiti compatto </strong>che promette di sfruttare i piccoli spazi.</li><li><strong>L'Angolo Relax (Zen):</strong> Una lampada da scrivania o un oggetto luminoso che crea atmosfera e scalda un angolo della casa,  candele profumate in confezioni che sembrano opere d'arte.</li><li><strong>Per gli Amanti del Caffè/Tè:</strong> Un bollitore elettrico, o un elegante set di tazze con forme particolari e capaci di farti sognare Dai libero sfogo alla creatività! Un regalo non è solo un oggetto, ma un messaggio<strong><br/></strong></li><li>Decorazioni per la casa: tessili ricercati, piante candelabri artigianali, tappeti con scritte irriverenti, sedute insolite. </li></ul><p><strong>👉</strong> Dai un’occhiata alle nostre collezioni di accessori per la casa e ai brand di cucina più amati per trovare l’idea giusta.<br/></p>",
             "page": "",
             "liquid_content": ""
           }
         }
       },
       "block_order": [
-        "collapsible_row_ay8Yhr",
+        "collapsible_row_dDchUM",
         "collapsible_row_qXygba",
         "collapsible_row_K4xFQJ",
         "collapsible_row_Yf4JnL"
@@ -896,155 +895,54 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_EH9BdA": {
-      "type": "multicolumn",
+    "image_banner_xBTzGC": {
+      "type": "image-banner",
       "blocks": {
-        "column_ADmprT": {
-          "type": "column",
+        "heading_8q43gJ": {
+          "type": "heading",
           "settings": {
-            "image": "shopify://shop_images/close-up-of-lucky-cat-cookies.jpg",
-            "title": "CAT LOVER",
-            "text": "",
-            "link_label": "Per chi vive tra fusa e graffi... con amore!",
-            "link": "https://www.unicoemultiplo.com/search?q=gatt"
+            "heading": "Consigli e spunti per scegliere il regalo giusto",
+            "heading_size": "h1"
           }
         },
-        "column_x6XeHT": {
-          "type": "column",
+        "text_TtH4Wh": {
+          "type": "text",
           "settings": {
-            "image": "shopify://shop_images/santa-fixes-the-bow-on-a-gift.jpg",
-            "title": "SECRET SANTA",
-            "text": "",
-            "link_label": "Sorprendi il tuo collega, anche quello che non conosci!",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=0&filter.v.price.lte=35&sort_by=manual"
+            "text": "Indeciso su cosa regalare? Questa sezione è pensata per guidarti, con idee pratiche e spunti creativi che ti aiutano a trovare il dono perfetto per ogni persona e occasione.",
+            "text_style": "body"
           }
         },
-        "column_EfX9ij": {
-          "type": "column",
+        "buttons_7iDeBq": {
+          "type": "buttons",
           "settings": {
-            "image": "shopify://shop_images/person-holds-a-glass-bottle-and-carrots-by-their-tops.jpg",
-            "title": "Per gli CHEF",
-            "text": "",
-            "link_label": "Anche se bruciano tutto, meritano il meglio in cucina",
-            "link": "shopify://collections/knindustrie"
-          }
-        },
-        "column_FbCpW9": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/boy-on-climbing-web.jpg",
-            "title": "BAMBINI CURIOSI",
-            "text": "",
-            "link_label": "Per chi smonta tutto… e crea nuovi mondi!",
-            "link": "shopify://collections/kikkerland"
-          }
-        },
-        "column_ejkNDE": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/egg-white-cocktail.jpg",
-            "title": "BAR TENDER",
-            "text": "",
-            "link_label": "Shaker o chiacchiere?",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
-          }
-        },
-        "column_eyB3yA": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/depressetti-disegnetti-piena-stampa.webp",
-            "title": "DEPRESSETTI?",
-            "text": "",
-            "link_label": "L’ironia che (forse) ti salverà la giornata ",
-            "link": "shopify://collections/marinette-saint-tropez"
+            "button_label_1": "Idee regalo per chi ama casa e cucina",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Guida all'acquisto",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "column_ADmprT",
-        "column_x6XeHT",
-        "column_EfX9ij",
-        "column_FbCpW9",
-        "column_ejkNDE",
-        "column_eyB3yA"
+        "heading_8q43gJ",
+        "text_TtH4Wh",
+        "buttons_7iDeBq"
       ],
+      "disabled": true,
+      "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 16,
-        "padding_bottom": 16
-      }
-    },
-    "collection_list_rHDiEK": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_q6rCEe": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home"
-          }
-        },
-        "featured_collection_jNHMeb": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti"
-          }
-        },
-        "featured_collection_8gWKp7": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "knindustrie"
-          }
-        },
-        "featured_collection_wpgRRx": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "disegnetti-depressetti"
-          }
-        },
-        "featured_collection_VUDB7q": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "doiy"
-          }
-        },
-        "featured_collection_qeMMMA": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "kikkerland"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_q6rCEe",
-        "featured_collection_jNHMeb",
-        "featured_collection_8gWKp7",
-        "featured_collection_wpgRRx",
-        "featured_collection_VUDB7q",
-        "featured_collection_qeMMMA"
-      ],
-      "name": "t:sections.collection-list.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 6,
+        "image": "shopify://shop_images/gift-wrapping-supplies_1.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     }
   },
@@ -1068,7 +966,6 @@
     "multirow_i9bgYb",
     "custom_liquid_ahjVBf",
     "collapsible_content_Hpi7c6",
-    "multicolumn_EH9BdA",
-    "collection_list_rHDiEK"
+    "image_banner_xBTzGC"
   ]
 }
