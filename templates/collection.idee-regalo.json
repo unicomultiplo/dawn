@@ -20,59 +20,6 @@
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
       }
     },
-    "multicolumn_38PWQd": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_yqLKq7": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>SECRET SANTA</strong>",
-            "text": "<h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=&filter.v.price.lte=12&sort_by=manual\" title=\"Idee fino a 10€\">Fino a  10€</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=8&filter.v.price.lte=22&sort_by=manual\" title=\"Idee fino a 20€\">Fino a 20€</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=18&filter.v.price.lte=32&sort_by=manual\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=18&filter.v.price.lte=32&sort_by=manual\">Fino a 30€<br/><br/></a></h4><h4><a href=\"/collections/idee-regalo-regali-per-lei\" title=\"Idee Regalo per Lei\"><strong>IDEE REGALO PER LEI</strong></a></h4>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_UprEta": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>BUDGET </strong>",
-            "text": "<h2></h2><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=0&filter.v.price.lte=19&page=2&sort_by=price-ascending\" title=\"Piccoli doni\">Piccolo doni →</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=18&filter.v.price.lte=52&sort_by=price-ascending\" title=\"Idee sotto i 50€\">Idee sotto ai 50€ →</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=40&filter.v.price.lte=105&sort_by=price-ascending\" title=\"Idee sotto i 100€\">Idee sotto i 100€ →</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=90&filter.v.price.lte=180&sort_by=price-ascending\" title=\"Idee sotto i 150€\">Idee sotto i 150€ →</a></h4><h4></h4>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_yfQL9J": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>BRAND</strong>",
-            "text": "<h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Bitossi+Home&sort_by=manual\" title=\"Idee Bitossi Home\">Bitossi Home</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=manual\" title=\"Idee  Brandani\">Brandani</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=manual\" title=\"Idee Seletti\">Seletti</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Kikkerland&sort_by=manual\" title=\"Idee Kikkerland\">Kikkerland</a></h4>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_yqLKq7",
-        "column_UprEta",
-        "column_yfQL9J"
-      ],
-      "settings": {
-        "title": "<strong>Acquista per</strong>",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 8,
-        "padding_bottom": 8
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -93,20 +40,10 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_87rNGP": {
+    "multicolumn_ekRxfr": {
       "type": "multicolumn",
       "blocks": {
-        "column_KqQBPm": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/close-up-of-lucky-cat-cookies.jpg",
-            "title": "CAT LOVER",
-            "text": "<p>Per chi vive tra fusa e graffi... con amore!</p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/search?q=gatt"
-          }
-        },
-        "column_rTjgmV": {
+        "column_eLkAbK": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/santa-fixes-the-bow-on-a-gift.jpg",
@@ -116,7 +53,7 @@
             "link": "https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=0&filter.v.price.lte=35&sort_by=manual"
           }
         },
-        "column_XTTeGg": {
+        "column_fccAdj": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/person-holds-a-glass-bottle-and-carrots-by-their-tops.jpg",
@@ -126,7 +63,7 @@
             "link": "shopify://collections/knindustrie"
           }
         },
-        "column_QMRb4R": {
+        "column_3DPqYn": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/boy-on-climbing-web.jpg",
@@ -136,7 +73,7 @@
             "link": "shopify://collections/kikkerland"
           }
         },
-        "column_haG6Nb": {
+        "column_WBYfbH": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/egg-white-cocktail.jpg",
@@ -146,30 +83,40 @@
             "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
           }
         },
-        "column_PFXNne": {
+        "column_jHRm4f": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/woman-in-beauty-rest-mask-in-pillow.jpg",
-            "title": "i love PISOLINO",
-            "text": "<p>Per chi vive in modalità riposo</p>",
+            "image": "shopify://shop_images/doiy-rainbow-reggilibri-4.webp",
+            "title": "COLOUR LOVER",
+            "text": "<p>Design pop e ironico, a tutta cromia</p>",
             "link_label": "",
-            "link": "shopify://collections/marinette-saint-tropez"
+            "link": "shopify://collections/doiy"
+          }
+        },
+        "column_qjrWV7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/depressetti-disegnetti-piena-stampa.webp",
+            "title": "DISEGNETTI DEPRESSETTI",
+            "text": "<p>L’ironia che <em>(forse)</em> salverà la giornata </p>",
+            "link_label": "",
+            "link": "shopify://collections/disegnetti-depressetti"
           }
         }
       },
       "block_order": [
-        "column_KqQBPm",
-        "column_rTjgmV",
-        "column_XTTeGg",
-        "column_QMRb4R",
-        "column_haG6Nb",
-        "column_PFXNne"
+        "column_eLkAbK",
+        "column_fccAdj",
+        "column_3DPqYn",
+        "column_WBYfbH",
+        "column_jHRm4f",
+        "column_qjrWV7"
       ],
       "custom_css": [
-        "a {color: white; text-decoration: none;"
+        "a {color: black; text-decoration: none;}"
       ],
       "settings": {
-        "title": "Guida ai regali",
+        "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
@@ -178,7 +125,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-4",
+        "color_scheme": "scheme-2",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 16,
@@ -188,8 +135,7 @@
   },
   "order": [
     "banner",
-    "multicolumn_38PWQd",
     "product-grid",
-    "multicolumn_87rNGP"
+    "multicolumn_ekRxfr"
   ]
 }
