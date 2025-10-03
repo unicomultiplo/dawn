@@ -969,7 +969,7 @@
         "column_8MKFgC"
       ],
       "custom_css": [
-        "a {color: black; text-decoration: none; }"
+        "a {color: black; text-decoration: none;}"
       ],
       "settings": {
         "title": "Guida ai regali",
@@ -1045,8 +1045,8 @@
         "columns_desktop": 6,
         "color_scheme": "",
         "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
