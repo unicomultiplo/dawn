@@ -46,6 +46,7 @@
         "heading_n4AJPP",
         "buttons_CmixbY"
       ],
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/cosa-regalo-per-natale-mamma-e-papa_94b5f652-5dae-4023-808f-52ec2622ae7c.png",
@@ -135,7 +136,7 @@
             "title": "",
             "text": "",
             "link_label": "6. Consigli e spunti per scegliere il regalo giusto",
-            "link": "#consigli-e-spunti"
+            "link": "https://www.unicoemultiplo.com/collections/idee-regalo?#shopify-section-template--25730824438025__collapsible_content_Hpi7c6"
           }
         }
       },
