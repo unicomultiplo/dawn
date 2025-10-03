@@ -899,16 +899,6 @@
     "multicolumn_LcVAky": {
       "type": "multicolumn",
       "blocks": {
-        "column_Vpkfpb": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/close-up-of-lucky-cat-cookies.jpg",
-            "title": "CAT LOVER",
-            "text": "<p>Per chi vive tra fusa e graffi... con amore!</p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/search?q=gatt"
-          }
-        },
         "column_zVwnq7": {
           "type": "column",
           "settings": {
@@ -949,6 +939,16 @@
             "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
           }
         },
+        "column_Vpkfpb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/doiy-rainbow-reggilibri-4.webp",
+            "title": "COLOUR LOVER",
+            "text": "<p>Design pop e ironico, a tutta cromia</p>",
+            "link_label": "",
+            "link": "shopify://collections/doiy"
+          }
+        },
         "column_8MKFgC": {
           "type": "column",
           "settings": {
@@ -961,11 +961,11 @@
         }
       },
       "block_order": [
-        "column_Vpkfpb",
         "column_zVwnq7",
         "column_eG89je",
         "column_BYGjTA",
         "column_9qtFdi",
+        "column_Vpkfpb",
         "column_8MKFgC"
       ],
       "custom_css": [
