@@ -896,6 +896,95 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_LcVAky": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Vpkfpb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/close-up-of-lucky-cat-cookies.jpg",
+            "title": "CAT LOVER",
+            "text": "<p>Per chi vive tra fusa e graffi... con amore!</p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/search?q=gatt"
+          }
+        },
+        "column_zVwnq7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/santa-fixes-the-bow-on-a-gift.jpg",
+            "title": "SECRET SANTA",
+            "text": "<p>Sorprendi il tuo collega, anche quello che non conosci!</p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=0&filter.v.price.lte=35&sort_by=manual"
+          }
+        },
+        "column_eG89je": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/person-holds-a-glass-bottle-and-carrots-by-their-tops.jpg",
+            "title": "Per gli CHEF",
+            "text": "<p>Anche se bruciano tutto, meritano il meglio in cucina</p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie"
+          }
+        },
+        "column_BYGjTA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/boy-on-climbing-web.jpg",
+            "title": "BAMBINI CURIOSI",
+            "text": "<p>Per chi smonta tutto… e crea nuovi mondi!</p>",
+            "link_label": "",
+            "link": "shopify://collections/kikkerland"
+          }
+        },
+        "column_9qtFdi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/egg-white-cocktail.jpg",
+            "title": "BAR TENDER",
+            "text": "<p>Shaker o chiacchiere?</p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
+          }
+        },
+        "column_8MKFgC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/woman-in-beauty-rest-mask-in-pillow.jpg",
+            "title": "i love PISOLINO",
+            "text": "<p>Per chi vive in modalità riposo</p>",
+            "link_label": "",
+            "link": "shopify://collections/marinette-saint-tropez"
+          }
+        }
+      },
+      "block_order": [
+        "column_Vpkfpb",
+        "column_zVwnq7",
+        "column_eG89je",
+        "column_BYGjTA",
+        "column_9qtFdi",
+        "column_8MKFgC"
+      ],
+      "settings": {
+        "title": "Guida ai regali",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
     "collection_list_Mf3YzU": {
       "type": "collection-list",
       "blocks": {
@@ -944,6 +1033,7 @@
         "featured_collection_KczQLm",
         "featured_collection_iURccB"
       ],
+      "custom_css": [],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
@@ -1029,6 +1119,7 @@
     "multirow_i9bgYb",
     "custom_liquid_ahjVBf",
     "collapsible_content_Hpi7c6",
+    "multicolumn_LcVAky",
     "collection_list_Mf3YzU",
     "image_banner_xBTzGC"
   ]
