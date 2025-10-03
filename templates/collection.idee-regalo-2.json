@@ -895,56 +895,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "image_banner_xBTzGC": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_8q43gJ": {
-          "type": "heading",
-          "settings": {
-            "heading": "Consigli e spunti per scegliere il regalo giusto",
-            "heading_size": "h1"
-          }
-        },
-        "text_TtH4Wh": {
-          "type": "text",
-          "settings": {
-            "text": "Indeciso su cosa regalare? Questa sezione è pensata per guidarti, con idee pratiche e spunti creativi che ti aiutano a trovare il dono perfetto per ogni persona e occasione.",
-            "text_style": "body"
-          }
-        },
-        "buttons_7iDeBq": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Idee regalo per chi ama casa e cucina",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Guida all'acquisto",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_8q43gJ",
-        "text_TtH4Wh",
-        "buttons_7iDeBq"
-      ],
-      "disabled": true,
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/gift-wrapping-supplies_1.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
@@ -966,7 +916,6 @@
     "rich_text_qyWyUE",
     "multirow_i9bgYb",
     "custom_liquid_ahjVBf",
-    "collapsible_content_Hpi7c6",
-    "image_banner_xBTzGC"
+    "collapsible_content_Hpi7c6"
   ]
 }
