@@ -831,12 +831,12 @@
     "collapsible_content_Hpi7c6": {
       "type": "collapsible-content",
       "blocks": {
-        "collapsible_row_dDchUM": {
+        "collapsible_row_ay8Yhr": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "",
-            "icon": "none",
-            "row_content": "<p>Trovare il <strong>regalo perfetto</strong> non è sempre semplice: vuoi sorprendere, ma senza esagerare, e soprattutto vuoi che chi lo riceve lo apprezzi davvero. <strong>Ecco qualche consiglio</strong> per orientarti nella scelta, tra regali che strappano un sorriso e quelli che semplificano davvero la vita.</p>",
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
             "page": "",
             "liquid_content": ""
           }
@@ -873,7 +873,7 @@
         }
       },
       "block_order": [
-        "collapsible_row_dDchUM",
+        "collapsible_row_ay8Yhr",
         "collapsible_row_qXygba",
         "collapsible_row_K4xFQJ",
         "collapsible_row_Yf4JnL"
@@ -892,6 +892,157 @@
         "image": "shopify://shop_images/gift-wrapping-supplies_1.webp",
         "image_ratio": "small",
         "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_EH9BdA": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ADmprT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/close-up-of-lucky-cat-cookies.jpg",
+            "title": "CAT LOVER",
+            "text": "",
+            "link_label": "Per chi vive tra fusa e graffi... con amore!",
+            "link": "https://www.unicoemultiplo.com/search?q=gatt"
+          }
+        },
+        "column_x6XeHT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/santa-fixes-the-bow-on-a-gift.jpg",
+            "title": "SECRET SANTA",
+            "text": "",
+            "link_label": "Sorprendi il tuo collega, anche quello che non conosci!",
+            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=0&filter.v.price.lte=35&sort_by=manual"
+          }
+        },
+        "column_EfX9ij": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/person-holds-a-glass-bottle-and-carrots-by-their-tops.jpg",
+            "title": "Per gli CHEF",
+            "text": "",
+            "link_label": "Anche se bruciano tutto, meritano il meglio in cucina",
+            "link": "shopify://collections/knindustrie"
+          }
+        },
+        "column_FbCpW9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/boy-on-climbing-web.jpg",
+            "title": "BAMBINI CURIOSI",
+            "text": "",
+            "link_label": "Per chi smonta tutto… e crea nuovi mondi!",
+            "link": "shopify://collections/kikkerland"
+          }
+        },
+        "column_ejkNDE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/egg-white-cocktail.jpg",
+            "title": "BAR TENDER",
+            "text": "",
+            "link_label": "Shaker o chiacchiere?",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
+          }
+        },
+        "column_eyB3yA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/depressetti-disegnetti-piena-stampa.webp",
+            "title": "DEPRESSETTI?",
+            "text": "",
+            "link_label": "L’ironia che (forse) ti salverà la giornata ",
+            "link": "shopify://collections/marinette-saint-tropez"
+          }
+        }
+      },
+      "block_order": [
+        "column_ADmprT",
+        "column_x6XeHT",
+        "column_EfX9ij",
+        "column_FbCpW9",
+        "column_ejkNDE",
+        "column_eyB3yA"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "collection_list_rHDiEK": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_q6rCEe": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home"
+          }
+        },
+        "featured_collection_jNHMeb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti"
+          }
+        },
+        "featured_collection_8gWKp7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie"
+          }
+        },
+        "featured_collection_wpgRRx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "disegnetti-depressetti"
+          }
+        },
+        "featured_collection_VUDB7q": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "doiy"
+          }
+        },
+        "featured_collection_qeMMMA": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kikkerland"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_q6rCEe",
+        "featured_collection_jNHMeb",
+        "featured_collection_8gWKp7",
+        "featured_collection_wpgRRx",
+        "featured_collection_VUDB7q",
+        "featured_collection_qeMMMA"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -916,6 +1067,8 @@
     "rich_text_qyWyUE",
     "multirow_i9bgYb",
     "custom_liquid_ahjVBf",
-    "collapsible_content_Hpi7c6"
+    "collapsible_content_Hpi7c6",
+    "multicolumn_EH9BdA",
+    "collection_list_rHDiEK"
   ]
 }
