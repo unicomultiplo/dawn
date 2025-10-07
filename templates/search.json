@@ -11,6 +11,11 @@
   "sections": {
     "main": {
       "type": "main-search",
+      "custom_css": [
+        ".media--transparent {background-color: var(--product-background-color);}",
+        ".media--transparent img {mix-blend-mode: multiply;}",
+        ".card__content,.card__information {padding-left: 0px;}"
+      ],
       "settings": {
         "columns_desktop": 5,
         "image_ratio": "square",
