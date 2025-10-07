@@ -64,6 +64,11 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "custom_css": [
+        ".media--transparent {background-color: var(--product-background-color);}",
+        ".media--transparent img {mix-blend-mode: multiply;}",
+        ".card__content,.card__information {padding-left: 0px;}"
+      ],
       "settings": {
         "products_per_page": 36,
         "columns_desktop": 4,
