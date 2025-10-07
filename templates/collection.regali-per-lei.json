@@ -84,7 +84,8 @@
             "heading": "Budget",
             "icon": "apple",
             "row_content": "<p><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=0&filter.v.price.lte=19&page=2&sort_by=price-ascending\" title=\"Piccoli doni\">Piccolo doni →</a></p><p><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=18&filter.v.price.lte=52&page=1&sort_by=price-ascending\" title=\"Idee sotto i 50€\">Idee sotto ai 50€ →</a></p><p>Idee sotto i 100€ →</p><p>Idee sotto i 150€ →</p>",
-            "page": ""
+            "page": "",
+            "liquid_content": ""
           }
         },
         "collapsible_row_4PHbF3": {
@@ -93,7 +94,8 @@
             "heading": "Riga comprimibile",
             "icon": "check_mark",
             "row_content": "",
-            "page": ""
+            "page": "",
+            "liquid_content": ""
           }
         },
         "collapsible_row_TJn6HU": {
@@ -102,7 +104,8 @@
             "heading": "Riga comprimibile",
             "icon": "check_mark",
             "row_content": "",
-            "page": ""
+            "page": "",
+            "liquid_content": ""
           }
         }
       },
@@ -188,10 +191,10 @@
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
         "image_ratio": "square",
         "image_shape": "default",
-        "show_secondary_image": false,
+        "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": true,
-        "quick_add": "standard",
+        "quick_add": "none",
         "enable_filtering": true,
         "filter_type": "drawer",
         "enable_sorting": true,
