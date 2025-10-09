@@ -50,6 +50,106 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_jEaAiD": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gM9GAP": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qUMMa4": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Il regalo giusto parla di chi lo riceve. Pensa ai suoi gusti, ai piccoli rituali, a ciò che lo fa sorridere: qui trovi idee pensate <strong>su misura</strong>, per sorprendere con qualcosa che racconta attenzione vera.<br/>Che tu stia cercando un’idea elegante, utile o semplicemente capace di strappare un sorriso, qui trovi <strong>proposte su misura per ogni persona speciale</strong> della tua vita — da chi ami ogni giorno a chi non ti aspetti di stupire.<br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_gM9GAP",
+        "column_qUMMa4"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Regali di Natale per ogni persona speciale",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_ijxfDd": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gVDYNL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/red-gift-regali-per-lei.jpg",
+            "title": "<strong>Sorprese natalizie per lei</strong>",
+            "text": "<p><br/>Per lei, il regalo perfetto è quello che emoziona e parla di cura.<br/><br/>Dai <strong>dettagli per la casa</strong> che illuminano ogni stanza agli <strong>oggetti di design per la tavola e la cucina</strong>, ogni scelta è pensata per unire bellezza e funzionalità.<br/><br/>Regali raffinati ma non scontati, che mescolano estetica e sentimento: piccoli gesti che sanno dire <em>“ti conosco davvero”</em> senza bisogno di parole.<br/><br/>Che sia la compagna, la mamma, la sorella o un’amica speciale, qui troverai l’idea giusta per rendere il suo Natale indimenticabile.<br/><br/></p>",
+            "link_label": "Scopri la collezione",
+            "link": "shopify://collections/idee-regalo-regali-per-lei"
+          }
+        },
+        "column_De6nq7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/teal-gift-idee-regalo.png",
+            "title": "<strong>Idee regalo dedicate a lui</strong>",
+            "text": "<p><br/>Per lui, l’idea giusta è quella che sorprende con semplicità e carattere.<br/><br/>Scegli tra <strong>accessori per il tempo libero</strong>,  idee per la casa o per l’ufficio: ogni articolo è pensato per chi ama oggetti pratici, intelligenti e con personalità.<br/><br/>Dal regalo ironico a quello più elegante, passando per soluzioni tech o per la cucina, troverai spunti che uniscono <strong>stile e autenticità.</strong><br/><br/>Un dono che lascia il segno, pensato per raccontare attenzione vera — anche senza troppi giri di parole, perfetto per valorizzare il suo mondo<br/><br/></p>",
+            "link_label": "Scopri la collezione",
+            "link": "shopify://collections/idee-regalo-regali-per-lui"
+          }
+        },
+        "column_3D8fEh": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_gVDYNL",
+        "column_De6nq7",
+        "column_3D8fEh"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_ekRxfr": {
       "type": "multicolumn",
       "blocks": {
@@ -147,6 +247,8 @@
     "banner",
     "custom_liquid_YVhqVc",
     "product-grid",
+    "multicolumn_jEaAiD",
+    "multicolumn_ijxfDd",
     "multicolumn_ekRxfr"
   ]
 }
