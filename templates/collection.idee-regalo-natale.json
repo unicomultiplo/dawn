@@ -25,7 +25,7 @@
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
         "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Natale\">\n  <nav class=\"xmas-quick-links\">\n    <a href=\"https://www.unicoemultiplo.com/collections/seletti-natale\" class=\"button button--primary button--small\">Natale con Seletti</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/bitossi-home-natale\" class=\"button button--primary button--small\">Natale con Bitossi</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/knindustrie\" class=\"button button--primary button--small\">Natale con KNIndustrie</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-economiche\" class=\"button button--primary button--small\">Idee regalo sotto 50€</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-sotto-100-euro\" class=\"button button--primary button--small\">Idee regalo 100€</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-sotto-150-euro\" class=\"button button--primary button--small\">Idee regalo 150€</a>\n  </nav>\n</div>\n\n<style>\n  .xmas-quick-links {\n    display:flex;\n    flex-wrap:wrap;\n    gap:.5rem;\n    margin:.5rem 0 1rem;\n  }\n  /* Optional: bottoni a tutta larghezza su mobile */\n  @media (max-width: 749px) {\n    .xmas-quick-links a {\n      width: 100%;\n      justify-content: center;\n    }\n  }\n</style>",
-        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "scheme-1",
         "padding_top": 40,
         "padding_bottom": 52
       }
