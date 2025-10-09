@@ -529,7 +529,10 @@
       "body {font-family: var(--font-body-family); line-height: 1.5;}",
       "pickup-availability,.product__tax {display: none;}",
       ".collection-hero__description {max-width: 100% !important;}",
-      "a,a:link,a:visited,a * {text-decoration-color: rgb(var(--color-link));}"
+      "a,a:link,a:visited,a * {text-decoration-color: rgb(var(--color-link));}",
+      ".collection .media--transparent {background-color: var(--product-background-color);}",
+      ".collection .media--transparent img {mix-blend-mode: multiply;}",
+      ".collection .card__content,.collection .card__information {padding-left: 0px;}"
     ]
   }
 }
