@@ -20,6 +20,16 @@
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
       }
     },
+    "custom_liquid_YVhqVc": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div class=\"xmas-quick-links\" style=\"display:flex; flex-wrap:wrap; gap:.75rem; margin:1rem 0;\">\n  <a href=\"https://www.unicoemultiplo.com/collections/seletti-natale\" class=\"x-btn\">Natale con Seletti</a>\n  <a href=\"https://www.unicoemultiplo.com/collections/bitossi-home-natale\" class=\"x-btn\">Natale con Bitossi</a>\n  <a href=\"https://www.unicoemultiplo.com/collections/knindustrie\" class=\"x-btn\">Natale con KNIndustrie</a>\n  <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-economiche\" class=\"x-btn\">Idee regalo sotto 50€</a>\n  <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-sotto-100-euro\" class=\"x-btn\">Idee regalo 100€</a>\n  <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-sotto-150-euro\" class=\"x-btn\">Idee regalo 150€</a>\n</div>",
+        "color_scheme": "scheme-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -135,6 +145,7 @@
   },
   "order": [
     "banner",
+    "custom_liquid_YVhqVc",
     "product-grid",
     "multicolumn_ekRxfr"
   ]
