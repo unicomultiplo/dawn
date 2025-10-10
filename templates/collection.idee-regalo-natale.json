@@ -166,7 +166,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Quando il <strong>Natale si avvicina</strong>, scegliere un regalo diventa un modo per raccontare qualcosa di sé e per celebrare le persone che amiamo. Le proposte dei<strong> brand più iconici </strong>trasformano il gesto del dono in un’esperienza di stile: eleganza, estetica raffinata e qualità si fondono in oggetti che<strong> sanno emozionare</strong>.<br/><br/>Dai dettagli curati alle finiture pregiate, ogni creazione è pensata per chi desidera un Natale fatto di <strong>bellezza, armonia e design</strong>. Scopri collezioni esclusive che uniscono tradizione e contemporaneità, per un <strong>regalo </strong>capace di<strong> distinguersi e lasciare il segno</strong>.</p>",
+            "text": "<p>Quando il <strong>Natale si avvicina</strong>, scegliere un regalo diventa un modo per raccontare qualcosa di sé e per celebrare le persone che amiamo. Le proposte dei<strong> brand più iconici </strong>trasformano il gesto del dono in un’esperienza di stile: eleganza, estetica raffinata e qualità si fondono in oggetti che<strong> sanno emozionare</strong>.<br/>Dai dettagli curati alle finiture pregiate, ogni creazione è pensata per chi desidera un Natale fatto di <strong>bellezza, armonia e design</strong>. Scopri collezioni esclusive che uniscono tradizione e contemporaneità, per un <strong>regalo </strong>capace di<strong> distinguersi e lasciare il segno</strong>.</p>",
             "link_label": "",
             "link": ""
           }
@@ -236,7 +236,7 @@
         "title": "",
         "heading_size": "h2",
         "image_ratio": "square",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
@@ -294,13 +294,57 @@
         "title": "",
         "heading_size": "h2",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 4,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 36
+      }
+    },
+    "multicolumn_THxWLM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_8mJ44f": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YeKzQN": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Per lui, l’idea giusta è quella ch<br/>Anche i piccoli pensieri possono lasciare il segno. In questa sezione trovi idee regalo per tutte le occasioni, per amici, colleghi o per chi desidera sorprendere con semplicità e gusto.<br/><br/>Piccoli pensieri natalizi che fanno la differenza<br/><br/>Una selezione di regali accessibili ma di grande effetto: oggetti utili, decorativi o simpatici per ogni tipo di destinatario.<br/>Abbiamo selezionato per te le proposte più interessanti e convenienti per questo Natale.<br/><br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_8mJ44f",
+        "column_YeKzQN"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Idee regalo di Natale economiche ma d’effetto",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
       }
     },
     "multicolumn_ekRxfr": {
@@ -407,6 +451,7 @@
     "collection_list_CjcJUK",
     "custom_liquid_7bEyFU",
     "collection_list_DrQ6yE",
+    "multicolumn_THxWLM",
     "multicolumn_ekRxfr"
   ]
 }
