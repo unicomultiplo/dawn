@@ -101,8 +101,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/red-gift-regali-per-lei.jpg",
-            "title": "<strong>Sorprese natalizie per lei</strong>",
-            "text": "<p><br/>Per lei, il regalo perfetto è quello che emoziona e parla di cura.<br/><br/>Dai <strong>dettagli per la casa</strong> che illuminano ogni stanza agli <strong>oggetti di design per la tavola e la cucina</strong>, ogni scelta è pensata per unire bellezza e funzionalità.<br/><br/>Regali raffinati ma non scontati, che mescolano estetica e sentimento: piccoli gesti che sanno dire <em>“ti conosco davvero”</em> senza bisogno di parole.<br/><br/>Che sia la compagna, la mamma, la sorella o un’amica speciale, qui troverai l’idea giusta per rendere il suo Natale indimenticabile.<br/><br/></p>",
+            "title": "",
+            "text": "<p><br/><br/>Per lei, il regalo perfetto è quello che emoziona e parla di cura.<br/><br/>Dai <strong>dettagli per la casa</strong> che illuminano ogni stanza agli <strong>oggetti di design per la tavola e la cucina</strong>, ogni scelta è pensata per unire bellezza e funzionalità.<br/><br/>Regali raffinati ma non scontati, che mescolano estetica e sentimento: piccoli gesti che sanno dire <em>“ti conosco davvero”</em> senza bisogno di parole.<br/><br/>Che sia la compagna, la mamma, la sorella o un’amica speciale, qui troverai l’idea giusta per rendere il suo Natale indimenticabile.<br/><br/></p>",
             "link_label": "Scopri la collezione",
             "link": "shopify://collections/idee-regalo-regali-per-lei"
           }
