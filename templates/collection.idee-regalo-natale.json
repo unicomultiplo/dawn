@@ -166,7 +166,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Il regalo giusto parla di chi lo riceve. Pensa ai suoi gusti, ai piccoli rituali, a ciò che lo fa sorridere: qui trovi idee pensate <strong>su misura</strong>, per sorprendere con qualcosa che racconta attenzione vera.<br/>Che tu stia cercando un’idea elegante, utile o semplicemente capace di strappare un sorriso, qui trovi <strong>proposte su misura per ogni persona speciale</strong> della tua vita — da chi ami ogni giorno a chi non ti aspetti di stupire.<br/></p>",
+            "text": "<p>Quando il <strong>Natale si avvicina</strong>, scegliere un regalo diventa un modo per raccontare qualcosa di sé e per celebrare le persone che amiamo. Le proposte dei<strong> brand più iconici </strong>trasformano il gesto del dono in un’esperienza di stile: eleganza, estetica raffinata e qualità si fondono in oggetti che<strong> sanno emozionare</strong>.<br/><br/>Dai dettagli curati alle finiture pregiate, ogni creazione è pensata per chi desidera un Natale fatto di <strong>bellezza, armonia e design</strong>. Scopri collezioni esclusive che uniscono tradizione e contemporaneità, per un <strong>regalo </strong>capace di<strong> distinguersi e lasciare il segno</strong>.</p>",
             "link_label": "",
             "link": ""
           }
@@ -198,7 +198,7 @@
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<div class=\"collection-list-wrapper page-width\"> <div class=\"title-wrapper-with-link\"> <h3 class=\"title h3\"><strong>Oggettistica di Design per Stupire e Ispirare</strong></h3> </div> <div class=\"rte\"> <p> Scopri tutte le nostre collezioni pensate per ispirarti in ogni occasione: dal design per la casa alle idee regalo più originali. Ogni selezione è curata con attenzione per offrirti stile, qualità e quel tocco di unicità firmato <strong>Unico &amp; Multiplo</strong>. </p> </div> </div>",
+        "custom_liquid": "<div class=\"collection-list-wrapper page-width\"> <div class=\"title-wrapper-with-link\"> <h3 class=\"title h3\"><strong>Oggettistica di Design per Stupire e Ispirare</strong></h3> </div> <div class=\"rte\"> <p> Un regalo di Natale di design è un pensiero che parla di gusto, personalità e ricerca estetica. <strong>Le collezioni di Seletti, Bitossi, knIndustrie e Brandani</strong> reinterpretano l’atmosfera natalizia con ironia e raffinatezza, offrendo oggetti decorativi e funzionali che non passano inosservati.\n<strong>Dalle sculture pop e colorate ai complementi d’arredo più sofisticati,</strong>  ogni proposta diventa un’idea regalo originale per sorprendere chi ama lo stile e la creatività. Perfetti per donare un tocco artistico alla casa o per stupire con un regalo che unisce estetica e design, questi oggetti rappresentano l’<strong>essenza del Natale contemporaneo</strong>. </p> </div> </div>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
@@ -224,26 +224,19 @@
           "settings": {
             "collection": "knindustrie"
           }
-        },
-        "featured_collection_BzyY3n": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani"
-          }
         }
       },
       "block_order": [
         "featured_collection_FPQkCg",
         "featured_collection_pTJHhh",
-        "featured_collection_tiqaxE",
-        "featured_collection_BzyY3n"
+        "featured_collection_tiqaxE"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
         "heading_size": "h2",
         "image_ratio": "square",
-        "columns_desktop": 4,
+        "columns_desktop": 3,
         "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
@@ -256,7 +249,7 @@
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<div class=\"collection-list-wrapper page-width\"> <div class=\"title-wrapper-with-link\"> <h3 class=\"title h3\"><strong>Idee Regalo Utili e Creative per  la Tavola e la Cucina</strong></h3> </div> <div class=\"rte\"> <p> Scopri tutte le nostre collezioni pensate per ispirarti in ogni occasione: dal design per la casa alle idee regalo più originali. Ogni selezione è curata con attenzione per offrirti stile, qualità e quel tocco di unicità firmato <strong>Unico &amp; Multiplo</strong>. </p> </div> </div>",
+        "custom_liquid": "<div class=\"collection-list-wrapper page-width\"> <div class=\"title-wrapper-with-link\"> <h3 class=\"title h3\"><strong>Idee Regalo Utili e Creative per  la Tavola e la Cucina</strong></h3> </div> <div class=\"rte\"> <p> La tavola delle feste è il cuore del Natale: un momento di condivisione e calore da celebrare con oggetti belli e funzionali. <strong>Le collezioni di Joseph Joseph, Brandani, Brabantia e Doiy offrono idee regalo originali che uniscono design e praticità.</strong> Dagli utensili intelligenti e salvaspazio ai complementi per la tavola dal gusto italiano, fino agli accessori ironici e contemporanei, ogni proposta porta stile e creatività in cucina. \n</br>\n<strong>Regali utili, di qualità e perfetti per sorprendere chi ama la casa</strong> e la convivialità con un tocco di design.</p> </div> </div>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
@@ -268,26 +261,33 @@
         "featured_collection_UACQm9": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "joseph-joseph"
           }
         },
         "featured_collection_j4r9kj": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "brabantia"
           }
         },
-        "featured_collection_KbrpYX": {
+        "featured_collection_HGzpHC": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "brandani"
+          }
+        },
+        "featured_collection_dgC96H": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "doiy"
           }
         }
       },
       "block_order": [
         "featured_collection_UACQm9",
         "featured_collection_j4r9kj",
-        "featured_collection_KbrpYX"
+        "featured_collection_HGzpHC",
+        "featured_collection_dgC96H"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
