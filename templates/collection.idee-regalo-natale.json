@@ -244,12 +244,22 @@
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 4,
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
+      }
+    },
+    "custom_liquid_7bEyFU": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div class=\"collection-list-wrapper page-width\"> <div class=\"title-wrapper-with-link\"> <h3 class=\"title h3\"><strong>Idee Regalo Utili e Creative per  la Tavola e la Cucina</strong></h3> </div> <div class=\"rte\"> <p> Scopri tutte le nostre collezioni pensate per ispirarti in ogni occasione: dal design per la casa alle idee regalo più originali. Ogni selezione è curata con attenzione per offrirti stile, qualità e quel tocco di unicità firmato <strong>Unico &amp; Multiplo</strong>. </p> </div> </div>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "collection_list_DrQ6yE": {
@@ -281,15 +291,15 @@
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
-        "title": "Oggetistica di Design per Stupire e Ispirare",
+        "title": "",
         "heading_size": "h2",
         "image_ratio": "square",
-        "columns_desktop": 3,
+        "columns_desktop": 6,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
@@ -395,6 +405,7 @@
     "multicolumn_D3LPdN",
     "custom_liquid_zX3hKP",
     "collection_list_CjcJUK",
+    "custom_liquid_7bEyFU",
     "collection_list_DrQ6yE",
     "multicolumn_ekRxfr"
   ]
