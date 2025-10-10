@@ -150,6 +150,142 @@
         "padding_bottom": 20
       }
     },
+    "multicolumn_D3LPdN": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Agkdkj": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_dxLePV": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Il regalo giusto parla di chi lo riceve. Pensa ai suoi gusti, ai piccoli rituali, a ciò che lo fa sorridere: qui trovi idee pensate <strong>su misura</strong>, per sorprendere con qualcosa che racconta attenzione vera.<br/>Che tu stia cercando un’idea elegante, utile o semplicemente capace di strappare un sorriso, qui trovi <strong>proposte su misura per ogni persona speciale</strong> della tua vita — da chi ami ogni giorno a chi non ti aspetti di stupire.<br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Agkdkj",
+        "column_dxLePV"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Le Proposte di Natale dei Brand più Ionici",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_zX3hKP": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div class=\"page-width\">\n  <div class=\"title-wrapper-with-link\">\n    <!-- H3 semantico che usa lo stile visivo H2 del tema -->\n    <h3 class=\"title h2\">Oggettistica di Design per Stupire e Ispirare</h3>\n  </div>\n\n  <div class=\"rte\">\n    <p>\n      Scopri tutte le nostre collezioni pensate per ispirarti in ogni occasione:\n      dal design per la casa alle idee regalo più originali. Ogni selezione è curata\n      con attenzione per offrirti stile, qualità e quel tocco di unicità firmato\n      <strong>Unico &amp; Multiplo</strong>.\n    </p>\n  </div>\n</div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "collection_list_CjcJUK": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_FPQkCg": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_pTJHhh": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_tiqaxE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_FPQkCg",
+        "featured_collection_pTJHhh",
+        "featured_collection_tiqaxE"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collection_list_DrQ6yE": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_UACQm9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_j4r9kj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_KbrpYX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_UACQm9",
+        "featured_collection_j4r9kj",
+        "featured_collection_KbrpYX"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "Oggetistica di Design per Stupire e Ispirare",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_ekRxfr": {
       "type": "multicolumn",
       "blocks": {
@@ -249,6 +385,10 @@
     "product-grid",
     "multicolumn_jEaAiD",
     "multicolumn_ijxfDd",
+    "multicolumn_D3LPdN",
+    "custom_liquid_zX3hKP",
+    "collection_list_CjcJUK",
+    "collection_list_DrQ6yE",
     "multicolumn_ekRxfr"
   ]
 }
