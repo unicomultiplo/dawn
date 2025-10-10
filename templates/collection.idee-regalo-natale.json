@@ -102,7 +102,7 @@
           "settings": {
             "image": "shopify://shop_images/red-gift-regali-per-lei.jpg",
             "title": "",
-            "text": "<p><br/><br/>Per lei, il regalo perfetto è quello che emoziona e parla di cura.<br/><br/>Dai <strong>dettagli per la casa</strong> che illuminano ogni stanza agli <strong>oggetti di design per la tavola e la cucina</strong>, ogni scelta è pensata per unire bellezza e funzionalità.<br/><br/>Regali raffinati ma non scontati, che mescolano estetica e sentimento: piccoli gesti che sanno dire <em>“ti conosco davvero”</em> senza bisogno di parole.<br/><br/>Che sia la compagna, la mamma, la sorella o un’amica speciale, qui troverai l’idea giusta per rendere il suo Natale indimenticabile.<br/><br/></p>",
+            "text": "<h3><strong><br/>Idee Regalo per Lei<br/></strong></h3><p><br/>Per lei, il regalo perfetto è quello che emoziona e parla di cura.<br/>Dai <strong>dettagli per la casa</strong> che illuminano ogni stanza agli <strong>oggetti di design per la tavola e la cucina</strong>, ogni scelta è pensata per unire bellezza e funzionalità.<br/><br/>Regali raffinati ma non scontati, che mescolano estetica e sentimento: piccoli gesti che sanno dire <em>“ti conosco davvero”</em> senza bisogno di parole.<br/><br/>Che sia la compagna, la mamma, la sorella o un’amica speciale, qui troverai l’idea giusta per rendere il suo Natale indimenticabile.<br/><br/></p>",
             "link_label": "Scopri la collezione",
             "link": "shopify://collections/idee-regalo-regali-per-lei"
           }
@@ -111,8 +111,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/teal-gift-idee-regalo.png",
-            "title": "<strong>Idee regalo dedicate a lui</strong>",
-            "text": "<p><br/>Per lui, l’idea giusta è quella che sorprende con semplicità e carattere.<br/><br/>Scegli tra <strong>accessori per il tempo libero</strong>,  idee per la casa o per l’ufficio: ogni articolo è pensato per chi ama oggetti pratici, intelligenti e con personalità.<br/><br/>Dal regalo ironico a quello più elegante, passando per soluzioni tech o per la cucina, troverai spunti che uniscono <strong>stile e autenticità.</strong><br/><br/>Un dono che lascia il segno, pensato per raccontare attenzione vera — anche senza troppi giri di parole, perfetto per valorizzare il suo mondo<br/><br/></p>",
+            "title": "",
+            "text": "<h3><strong><br/>Idee Regalo dedicate a lui<br/></strong></h3><p><br/>Per lui, l’idea giusta è quella che sorprende con semplicità e carattere.<br/>Scegli tra <strong>accessori per il tempo libero</strong>,  idee per la casa o per l’ufficio: ogni articolo è pensato per chi ama oggetti pratici, intelligenti e con personalità.<br/><br/>Dal regalo ironico a quello più elegante, passando per soluzioni tech o per la cucina, troverai spunti che uniscono <strong>stile e autenticità.</strong><br/><br/>Un dono che lascia il segno, pensato per raccontare attenzione vera — anche senza troppi giri di parole, perfetto per valorizzare il suo mondo<br/><br/></p>",
             "link_label": "Scopri la collezione",
             "link": "shopify://collections/idee-regalo-regali-per-lui"
           }
