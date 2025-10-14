@@ -102,7 +102,7 @@
           "settings": {
             "image": "shopify://shop_images/red-gift-regali-per-lei.jpg",
             "title": "",
-            "text": "<h3><strong><br/>Sorprese natalizie per lei<br/></strong></h3><p><br/>Per lei, il regalo perfetto è quello che emoziona e parla di unicità.<br/>Dai <strong>dettagli per la casa</strong> che illuminano ogni stanza agli <strong>oggetti di design per la tavola e la cucina</strong>, ogni scelta è pensata per unire bellezza e funzionalità.<br/><br/>Regali raffinati ma non scontati, che mescolano estetica e sentimento: piccoli gesti che sanno dire <em>“ti conosco davvero”</em> senza bisogno di parole.<br/><br/>Che sia la compagna, la mamma, la sorella o un’amica speciale, qui troverai l’idea giusta per rendere il suo Natale indimenticabile. Ispirazioni uniche per ogni tipo di donna!<br/><br/></p>",
+            "text": "<h3><strong><br/>Sorprese natalizie per lei<br/></strong></h3><p><br/>Per lei, il regalo perfetto è quello che emoziona e parla di unicità.<br/>Dai <strong>dettagli per la casa</strong> che illuminano ogni stanza agli <strong>oggetti di design per la tavola e la cucina</strong>, ogni scelta è pensata per unire bellezza e funzionalità.<br/><br/>Che sia la compagna, la mamma, la sorella o un’amica speciale, qui troverai l’idea giusta per rendere il suo Natale indimenticabile. Ispirazioni uniche per ogni tipo di donna!<br/><br/></p>",
             "link_label": "Idee per Lei",
             "link": "shopify://collections/idee-regalo-regali-per-lei"
           }
@@ -112,7 +112,7 @@
           "settings": {
             "image": "shopify://shop_images/teal-gift-idee-regalo.png",
             "title": "",
-            "text": "<h3><strong><br/>Idee Regalo dedicate a lui<br/></strong></h3><p><br/>Per lui, l’idea giusta è quella che sorprende con semplicità e carattere.<br/>Scegli tra <strong>accessori per il tempo libero</strong>,  idee per la casa o per l’ufficio: ogni articolo è pensato per chi ama oggetti pratici, intelligenti e con personalità.<br/><br/>Dal regalo ironico a quello più elegante, passando per soluzioni tech o per la casa, troverai spunti che uniscono <strong>stile e autenticità.</strong><br/><br/>Che tu stia cercando <strong>idee regalo per il fidanzato</strong>, un <strong>regalo originale per un amico</strong>, o un pensiero speciale per il <strong>marito, il fratello o il suocero</strong>, qui trovi spunti per un dono che lascia il segno, pensato per valorizzare il suo mondo.<br/><br/></p>",
+            "text": "<h3><strong><br/>Idee Regalo dedicate a lui<br/></strong></h3><p><br/>Per lui, l’idea giusta è quella che sorprende con semplicità e carattere.<br/>Scegli tra <strong>accessori per il tempo libero</strong>,  idee per la casa o per l’ufficio: ogni articolo è pensato per chi ama oggetti pratici, intelligenti e con personalità.<br/><br/>Che tu stia cercando <strong>idee regalo per il fidanzato</strong>, un <strong>regalo originale per un amico</strong>, o un pensiero speciale per il <strong>marito, il fratello o il suocero</strong>, qui trovi spunti per un dono che lascia il segno, pensato per valorizzare il suo mondo.<br/><br/></p>",
             "link_label": "Idee per Lui",
             "link": "shopify://collections/idee-regalo-regali-per-lui"
           }
@@ -368,16 +368,6 @@
             "link": "https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=0&filter.v.price.lte=35&sort_by=manual"
           }
         },
-        "column_3DPqYn": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/boy-on-climbing-web.jpg",
-            "title": "BAMBINI CURIOSI",
-            "text": "<p>Per chi smonta tutto… e crea nuovi mondi!</p>",
-            "link_label": "",
-            "link": "shopify://collections/kikkerland"
-          }
-        },
         "column_WBYfbH": {
           "type": "column",
           "settings": {
@@ -407,14 +397,24 @@
             "link_label": "",
             "link": "shopify://collections/disegnetti-depressetti"
           }
+        },
+        "column_3DPqYn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/boy-on-climbing-web.jpg",
+            "title": "BAMBINI CURIOSI",
+            "text": "<p>Per chi smonta tutto… e crea nuovi mondi!</p>",
+            "link_label": "",
+            "link": "shopify://collections/kikkerland"
+          }
         }
       },
       "block_order": [
         "column_eLkAbK",
-        "column_3DPqYn",
         "column_WBYfbH",
         "column_jHRm4f",
-        "column_qjrWV7"
+        "column_qjrWV7",
+        "column_3DPqYn"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -435,6 +435,107 @@
         "padding_top": 16,
         "padding_bottom": 16
       }
+    },
+    "multicolumn_KpgrDw": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_dnfNBE": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DiwW7x": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>A volte trovare il regalo giusto è la parte più difficile del Natale: troppe idee, poco tempo e la voglia di non sbagliare.<br/>Questa sezione nasce per <strong>guidarti passo dopo passo</strong> con suggerimenti pratici, ispirazioni e piccoli trucchi per scegliere con leggerezza e stupire con stile.<br/><br/>Perché il regalo perfetto non è quello più costoso, ma<strong> quello che sa parlare di te e di chi lo riceve.</strong></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_dnfNBE",
+        "column_DiwW7x"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Consigli per rendere speciale il Natale, il tuo e quello di chi ami",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multirow_c3DGJh": {
+      "type": "multirow",
+      "blocks": {
+        "row_GLrVUe": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Come-scegliere-i-Regali-di-Natale-organizzare-la-tua-Lista_1.webp",
+            "caption": "REGALARE PER STUPIRE",
+            "heading": "",
+            "text": "<h3><strong>Come scegliere il regalo perfetto a Natale</strong></h3><p>Organizzare la lista dei regali non deve essere uno stress: basta partire da chi ami davvero.<br/><br/>Pensare ai <strong>gusti, agli hobby e ai momenti della giornata</strong> di chi riceverà il dono ti aiuta a trovare l’equilibrio giusto tra originalità e utilità.<br/><br/>Che sia un regalo per la casa, un oggetto di design o un’idea divertente, ciò che conta è il significato che trasmette.</p>",
+            "button_label": "Leggi la guida completa",
+            "button_link": "shopify://blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista"
+          }
+        },
+        "row_9NQAgr": {
+          "type": "row",
+          "settings": {
+            "caption": "Didascalia",
+            "heading": "Riga",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
+          }
+        },
+        "row_Xn6UJn": {
+          "type": "row",
+          "settings": {
+            "caption": "Didascalia",
+            "heading": "Riga",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_GLrVUe",
+        "row_9NQAgr",
+        "row_Xn6UJn"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -449,6 +550,8 @@
     "custom_liquid_7bEyFU",
     "collection_list_DrQ6yE",
     "multicolumn_THxWLM",
-    "multicolumn_ekRxfr"
+    "multicolumn_ekRxfr",
+    "multicolumn_KpgrDw",
+    "multirow_c3DGJh"
   ]
 }
