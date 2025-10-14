@@ -153,15 +153,6 @@
     "multicolumn_D3LPdN": {
       "type": "multicolumn",
       "blocks": {
-        "column_Agkdkj": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_dxLePV": {
           "type": "column",
           "settings": {
@@ -170,11 +161,21 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_Agkdkj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/idee-regalo-natale-2025-unico-e-multiplo.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "column_Agkdkj",
-        "column_dxLePV"
+        "column_dxLePV",
+        "column_Agkdkj"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
