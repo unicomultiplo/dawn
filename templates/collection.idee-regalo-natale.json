@@ -497,21 +497,23 @@
         "row_9NQAgr": {
           "type": "row",
           "settings": {
-            "caption": "Didascalia",
-            "heading": "Riga",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
+            "image": "shopify://shop_images/toddler-helps-decorate-the-christmas-tree_1.webp",
+            "caption": "REGALARE PER STUPIRE",
+            "heading": "",
+            "text": "<h3><strong>Cosa regalare ai genitori per Natale</strong></h3><p>Per i genitori, il regalo giusto è un gesto che <strong>emoziona e semplifica la vita</strong>.<br/><br/>Pensa a idee per la casa o la cucina, che rendano più piacevoli i momenti quotidiani, o a dettagli che evocano ricordi condivisi.<br/><br/>Un dono utile ma pieno di significato, che racconta gratitudine e affetto sincero.</p>",
+            "button_label": "Scopri i consigli",
+            "button_link": "shopify://blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale"
           }
         },
         "row_Xn6UJn": {
           "type": "row",
           "settings": {
-            "caption": "Didascalia",
-            "heading": "Riga",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
+            "image": "shopify://shop_images/cosa-regalare-p-2er-natale-alla-fidanzata-alla-moglie-o-unamica_1_ac2876f2-cee9-46e2-ae07-088ce89c1d81.png",
+            "caption": "REGALARE PER STUPIRE",
+            "heading": "",
+            "text": "<h3><strong>Le migliori idee regalo per la moglie, la fidanzata, l’amica</strong></h3><p>Quando si tratta di lei, conta l’effetto sorpresa — ma anche la cura.<br/><br/>Dalle <strong>idee eleganti</strong> per la casa e la tavola ai <strong>regali più originali e creativi</strong>, ogni proposta è pensata per farla sentire davvero speciale.<br/><br/>Scegli qualcosa che unisca <strong>bellezza e pensiero</strong>, per dire <em>“ti conosco davvero”</em> anche con un piccolo gesto.</p>",
+            "button_label": "Leggi il blog post dedicato",
+            "button_link": "shopify://blogs/regalare-per-stupire/cosa-regalare-per-natale-alla-fidanzata-alla-moglie-o-unamica"
           }
         }
       },
@@ -522,8 +524,8 @@
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
+        "image_height": "small",
+        "desktop_image_width": "small",
         "heading_size": "h1",
         "text_style": "body",
         "button_style": "secondary",
