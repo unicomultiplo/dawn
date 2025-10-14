@@ -225,25 +225,32 @@
           "settings": {
             "collection": "knindustrie"
           }
+        },
+        "featured_collection_cfFWgH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ichendorf-catalogo"
+          }
         }
       },
       "block_order": [
         "featured_collection_FPQkCg",
         "featured_collection_pTJHhh",
-        "featured_collection_tiqaxE"
+        "featured_collection_tiqaxE",
+        "featured_collection_cfFWgH"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
         "heading_size": "h2",
         "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "scheme-1",
+        "columns_desktop": 4,
+        "color_scheme": "scheme-2",
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 36
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "custom_liquid_7bEyFU": {
@@ -296,12 +303,12 @@
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 4,
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 36
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "multicolumn_THxWLM": {
@@ -361,16 +368,6 @@
             "link": "https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=0&filter.v.price.lte=35&sort_by=manual"
           }
         },
-        "column_fccAdj": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/person-holds-a-glass-bottle-and-carrots-by-their-tops.jpg",
-            "title": "Per gli CHEF",
-            "text": "<p>Anche se bruciano tutto, meritano il meglio in cucina</p>",
-            "link_label": "",
-            "link": "shopify://collections/knindustrie"
-          }
-        },
         "column_3DPqYn": {
           "type": "column",
           "settings": {
@@ -414,7 +411,6 @@
       },
       "block_order": [
         "column_eLkAbK",
-        "column_fccAdj",
         "column_3DPqYn",
         "column_WBYfbH",
         "column_jHRm4f",
@@ -428,7 +424,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
