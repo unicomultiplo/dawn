@@ -286,28 +286,72 @@
         "padding_bottom": 36
       }
     },
-    "featured_blog_abHrVD": {
-      "type": "featured-blog",
-      "custom_css": [
-        ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
-        "h3.card__heading {font-size: 16px;}",
-        "p.article-card__excerpt {font-size: 12px;}",
-        "h1.title--primary {display: none !important;}",
-        "a#ViewAll-template--22267420573961__featured_blog_bnjUDn {margin-top: 0 !important;}"
+    "multicolumn_xYAXka": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gPqQMV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/come-organizzare-l-armadio-accessori-cambio-di-stagione.png",
+            "title": "",
+            "text": "",
+            "link_label": "Cambio di stagione, guida completa",
+            "link": "shopify://pages/il-grande-classico-come-fare-il-cambio-di-stagione-e-non-impazzire"
+          }
+        },
+        "column_KmWNfm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bone-china-curiosita-unico-e-multiplo.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Bone China, scopri la Porcellana Più Elegante",
+            "link": "shopify://pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola"
+          }
+        },
+        "column_hxikiy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-abct-padella-wok-diametro-32-cm-bianca-1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Padelle antiaderenti, guida all'acquisto",
+            "link": "shopify://pages/padelle-antiaderenti-guida-completa"
+          }
+        },
+        "column_C3bNqP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1980.webp",
+            "title": "",
+            "text": "",
+            "link_label": "Consigli per le Tue Bomboniere 2025",
+            "link": "https://www.unicoemultiplo.com/pages/bomboniere-brandani"
+          }
+        }
+      },
+      "block_order": [
+        "column_gPqQMV",
+        "column_KmWNfm",
+        "column_hxikiy",
+        "column_C3bNqP"
       ],
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "heading": "<strong>Designer d'Eccezione</strong>",
+        "title": "<strong>Approfondimenti, guide e curiosità</strong>",
         "heading_size": "h2",
-        "blog": "designer-deccezione",
-        "post_limit": 4,
-        "columns_desktop": 3,
-        "color_scheme": "",
-        "show_image": true,
-        "show_date": false,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 16,
-        "padding_bottom": 0
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "shopify://blogs/blog",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "image_with_text_LW7ykr": {
@@ -367,72 +411,28 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_xYAXka": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_gPqQMV": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/come-organizzare-l-armadio-accessori-cambio-di-stagione.png",
-            "title": "",
-            "text": "",
-            "link_label": "Cambio di stagione, guida completa",
-            "link": "shopify://pages/il-grande-classico-come-fare-il-cambio-di-stagione-e-non-impazzire"
-          }
-        },
-        "column_KmWNfm": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/bone-china-curiosita-unico-e-multiplo.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Bone China, scopri la Porcellana Più Elegante",
-            "link": "shopify://pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola"
-          }
-        },
-        "column_hxikiy": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-abct-padella-wok-diametro-32-cm-bianca-1.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Padelle antiaderenti, guida all'acquisto",
-            "link": "shopify://pages/padelle-antiaderenti-guida-completa"
-          }
-        },
-        "column_C3bNqP": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/IMG_1980.webp",
-            "title": "",
-            "text": "",
-            "link_label": "Consigli per le Tue Bomboniere 2025",
-            "link": "https://www.unicoemultiplo.com/pages/bomboniere-brandani"
-          }
-        }
-      },
-      "block_order": [
-        "column_gPqQMV",
-        "column_KmWNfm",
-        "column_hxikiy",
-        "column_C3bNqP"
+    "featured_blog_abHrVD": {
+      "type": "featured-blog",
+      "custom_css": [
+        ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
+        "h3.card__heading {font-size: 16px;}",
+        "p.article-card__excerpt {font-size: 12px;}",
+        "h1.title--primary {display: none !important;}",
+        "a#ViewAll-template--22267420573961__featured_blog_bnjUDn {margin-top: 0 !important;}"
       ],
-      "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>Approfondimenti, guide e curiosità</strong>",
+        "heading": "<strong>Designer d'Eccezione</strong>",
         "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "portrait",
-        "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "shopify://blogs/blog",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "blog": "designer-deccezione",
+        "post_limit": 4,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 16,
+        "padding_bottom": 0
       }
     },
     "featured_blog_JGGm3C": {
