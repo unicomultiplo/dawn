@@ -253,13 +253,20 @@
           "settings": {
             "collection": "vanilla-fly"
           }
+        },
+        "featured_collection_APeCpT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "very-goods-studio"
+          }
         }
       },
       "block_order": [
         "featured_collection_tDFKDH",
         "featured_collection_4nHVpt",
         "featured_collection_XjBFQc",
-        "featured_collection_rUqiVW"
+        "featured_collection_rUqiVW",
+        "featured_collection_APeCpT"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
