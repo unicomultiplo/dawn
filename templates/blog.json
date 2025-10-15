@@ -50,9 +50,9 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/knindustrie-accessori-tavola-unico-e-multiplo_1.png",
+        "image": "shopify://shop_images/knindustrie-accessori-tavola-unico-e-multiplo_1_1_1.webp",
         "image_overlay_opacity": 0,
-        "image_height": "small",
+        "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
