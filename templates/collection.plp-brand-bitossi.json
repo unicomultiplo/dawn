@@ -85,8 +85,8 @@
         "column_PjDh4N": {
           "type": "column",
           "settings": {
-            "title": "<strong>New 2025! Bitossi Home Treccia</strong>",
-            "text": "<p><strong>Vibe artigianale, stile super cool.</strong> Vassoi e cesti in vimini intrecciato danno <strong>personalità </strong>a tavole, picnic e angoli deco. Design che si fa notare, pratici da usare e belli da mostrare. Perfetti per chi ama <strong>mixare tradizione e mood contemporaneo</strong>.</p>",
+            "title": "<strong>Torchon Bitossi Home</strong>",
+            "text": "<p><br/>Stile <strong>artigianale</strong>, anima <strong>contemporanea</strong>. La collezione Torchon mescola linee essenziali e dettagli preziosi per portare in tavola <strong>carattere e originalità.</strong> Oggetti che sembrano usciti da un bistrot francese, ma pensati per la quotidianità di chi ama ricevere con gusto. Design che cattura lo sguardo, perfetti per dare personalità a ogni mise en place, dal <strong>brunch informale alla cena più curata.</strong></p>",
             "link_label": "👉 Scopri la collezione Torchon",
             "link": "shopify://collections/treccia-bitossi-home"
           }
@@ -458,7 +458,7 @@
         "featured_collection_zpThKP": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "torchon-bitossi-home"
           }
         }
       },
