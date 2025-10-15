@@ -378,12 +378,22 @@
             "link": "shopify://collections/kikkerland"
           }
         },
+        "column_3DPqYn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/superstuff-idee-regalo-natale.webp",
+            "title": "SUPERSTUFF",
+            "text": "<p>Creatività stampata 3D, sorpresa garantita!</p>",
+            "link_label": "",
+            "link": "shopify://collections/superstuff"
+          }
+        },
         "column_jHRm4f": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/doiy-rainbow-reggilibri-4.webp",
             "title": "COLOUR LOVER",
-            "text": "<p>Design pop e ironico, a tutta cromia</p>",
+            "text": "<p>Design pop e ironico, a tutta cromia!</p>",
             "link_label": "",
             "link": "shopify://collections/doiy"
           }
@@ -393,28 +403,18 @@
           "settings": {
             "image": "shopify://shop_images/depressetti-disegnetti-piena-stampa.webp",
             "title": "DISEGNETTI DEPRESSETTI",
-            "text": "<p>L’ironia che <em>(forse)</em> salverà la giornata </p>",
+            "text": "<p>L’ironia che <em>(forse)</em> salverà la giornata.</p>",
             "link_label": "",
             "link": "shopify://collections/disegnetti-depressetti"
-          }
-        },
-        "column_3DPqYn": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/boy-on-climbing-web.jpg",
-            "title": "BAMBINI CURIOSI",
-            "text": "<p>Per chi smonta tutto… e crea nuovi mondi!</p>",
-            "link_label": "",
-            "link": "shopify://collections/kikkerland"
           }
         }
       },
       "block_order": [
         "column_eLkAbK",
         "column_WBYfbH",
+        "column_3DPqYn",
         "column_jHRm4f",
-        "column_qjrWV7",
-        "column_3DPqYn"
+        "column_qjrWV7"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -452,7 +452,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>A volte trovare il regalo giusto è la parte più difficile del Natale: troppe idee, poco tempo e la voglia di non sbagliare.<br/>Questa sezione nasce per <strong>guidarti passo dopo passo</strong> con suggerimenti pratici, ispirazioni e piccoli trucchi per scegliere con leggerezza e stupire con stile.<br/><br/>Perché il regalo perfetto non è quello più costoso, ma<strong> quello che sa parlare di te e di chi lo riceve.</strong></p>",
+            "text": "<p>A volte trovare il regalo giusto è la parte più difficile del Natale: troppe idee, poco tempo e la voglia di non sbagliare.<br/>Questa sezione nasce per <strong>guidarti passo dopo passo</strong> con suggerimenti pratici, ispirazioni e piccoli trucchi per scegliere con leggerezza e stupire con stile.<br/>Perché il regalo perfetto non è quello più costoso, ma<strong> quello che sa parlare di te e di chi lo riceve.</strong></p>",
             "link_label": "",
             "link": ""
           }
