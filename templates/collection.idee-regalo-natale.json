@@ -132,6 +132,12 @@
         "column_De6nq7",
         "column_3D8fEh"
       ],
+      "custom_css": [
+        ".link {color: rgb(var(--color-link)); text-decoration: underline; font-weight: 500; transition: color 0.2s;}",
+        ".link:hover {color: rgb(var(--color-link-hover));}",
+        ".animate-arrow .icon-wrap {display: inline-block; transition: transform 0.2s; margin-left: 0.25rem;}",
+        ".animate-arrow:hover .icon-wrap {transform: translateX(4px);}"
+      ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
