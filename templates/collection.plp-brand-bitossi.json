@@ -66,9 +66,9 @@
     "image_banner_dc8VCJ": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/bitossi-home-catalogo-offerte-promo-unico-multiplo_1_1ab661e1-726e-4660-924e-1cd4d236b0a1.png",
+        "image": "shopify://shop_images/bitossi-home-novita_2.webp",
         "image_overlay_opacity": 0,
-        "image_height": "small",
+        "image_height": "medium",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
@@ -87,7 +87,7 @@
           "settings": {
             "title": "<strong>New 2025! Bitossi Home Treccia</strong>",
             "text": "<p><strong>Vibe artigianale, stile super cool.</strong> Vassoi e cesti in vimini intrecciato danno <strong>personalità </strong>a tavole, picnic e angoli deco. Design che si fa notare, pratici da usare e belli da mostrare. Perfetti per chi ama <strong>mixare tradizione e mood contemporaneo</strong>.</p>",
-            "link_label": "👉 Scopri la collezione Treccia",
+            "link_label": "👉 Scopri la collezione Torchon",
             "link": "shopify://collections/treccia-bitossi-home"
           }
         },
@@ -142,8 +142,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/treccia-bitossi-home-vimini_1_1.webp",
-        "image_2": "shopify://shop_images/treccia-bitossi-home-novita_1_2.webp",
+        "image": "shopify://shop_images/torchon-bitossi-home-novita-posate.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -455,6 +454,12 @@
           "settings": {
             "collection": "sogno-bitossi-home"
           }
+        },
+        "featured_collection_zpThKP": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
         }
       },
       "block_order": [
@@ -462,13 +467,14 @@
         "featured_collection_7rXDL8",
         "featured_collection_8KLp93",
         "featured_collection_7RkzQg",
-        "featured_collection_Uptirf"
+        "featured_collection_Uptirf",
+        "featured_collection_zpThKP"
       ],
       "settings": {
         "title": "Gli Accessori da Tavola",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
