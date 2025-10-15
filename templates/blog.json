@@ -367,31 +367,6 @@
         "padding_bottom": 36
       }
     },
-    "featured_blog_JGGm3C": {
-      "type": "featured-blog",
-      "disabled": true,
-      "custom_css": [
-        ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
-        "h3.card__heading {font-size: 16px;}",
-        "p.article-card__excerpt {font-size: 12px;}",
-        "h1.title--primary {display: none !important;}",
-        "a#ViewAll-template--22267420573961__featured_blog_bnjUDn {margin-top: 0 !important;}"
-      ],
-      "settings": {
-        "heading": "Godersi l'Aria Aperta",
-        "heading_size": "h2",
-        "blog": "godersi-laria-aperta",
-        "post_limit": 4,
-        "columns_desktop": 3,
-        "color_scheme": "",
-        "show_image": true,
-        "show_date": false,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
     "multicolumn_xYAXka": {
       "type": "multicolumn",
       "blocks": {
@@ -458,6 +433,31 @@
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "featured_blog_JGGm3C": {
+      "type": "featured-blog",
+      "disabled": true,
+      "custom_css": [
+        ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
+        "h3.card__heading {font-size: 16px;}",
+        "p.article-card__excerpt {font-size: 12px;}",
+        "h1.title--primary {display: none !important;}",
+        "a#ViewAll-template--22267420573961__featured_blog_bnjUDn {margin-top: 0 !important;}"
+      ],
+      "settings": {
+        "heading": "Godersi l'Aria Aperta",
+        "heading_size": "h2",
+        "blog": "godersi-laria-aperta",
+        "post_limit": 4,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 0
       }
     },
     "image_with_text_3BEnFA": {
@@ -560,10 +560,10 @@
     "featured_blog_heaLnh",
     "image_with_text_8BeU3P",
     "multicolumn_p68MrB",
-    "featured_blog_abHrVD",
-    "image_with_text_LW7ykr",
-    "featured_blog_JGGm3C",
     "multicolumn_xYAXka",
+    "image_with_text_LW7ykr",
+    "featured_blog_abHrVD",
+    "featured_blog_JGGm3C",
     "image_with_text_3BEnFA",
     "newsletter_fTHXRw"
   ]
