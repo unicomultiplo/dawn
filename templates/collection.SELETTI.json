@@ -77,7 +77,7 @@
             "title": "TABLEWARE - Arte della Tavola",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_DFkntc"
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_pekHrY"
           }
         },
         "column_qiB9cq": {
@@ -87,7 +87,7 @@
             "title": "FURNITURE - Arredo",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_kdtLc8"
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_jLjhzz"
           }
         },
         "column_PKtqHD": {
@@ -97,7 +97,7 @@
             "title": "OBJECTS - Idee Regalo",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_qKDHQy"
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_ky7KpY"
           }
         },
         "column_YmwtR8": {
@@ -107,17 +107,17 @@
             "title": "LIGHTING - Oggetti Luce",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_Qdy6e7"
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_ky7KpY"
           }
         },
-        "column_bXRdYJ": {
+        "column_TYP7jw": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Outdoor-Seletti.jpg",
-            "title": "Outdoor Seletti",
+            "image": "shopify://shop_images/seletti-natale-christmas-gift-idee-regalo.webp",
+            "title": "",
             "text": "",
-            "link_label": "",
-            "link": "shopify://collections/arredo-giardino"
+            "link_label": "Natale con Seletti",
+            "link": "shopify://collections/seletti-natale"
           }
         }
       },
@@ -127,7 +127,7 @@
         "column_qiB9cq",
         "column_PKtqHD",
         "column_YmwtR8",
-        "column_bXRdYJ"
+        "column_TYP7jw"
       ],
       "settings": {
         "title": "",
