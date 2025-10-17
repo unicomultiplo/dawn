@@ -261,11 +261,11 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "custom_liquid_7bEyFU": {
@@ -278,52 +278,75 @@
         "padding_bottom": 0
       }
     },
-    "collection_list_DrQ6yE": {
-      "type": "collection-list",
+    "multicolumn_wzJiT7": {
+      "type": "multicolumn",
       "blocks": {
-        "featured_collection_UACQm9": {
-          "type": "featured_collection",
+        "column_FgL4eL": {
+          "type": "column",
           "settings": {
-            "collection": "joseph-joseph"
+            "image": "shopify://shop_images/josephjoseph-natale.webp",
+            "title": "",
+            "text": "<p>JosephJoseph</p>",
+            "link_label": "",
+            "link": "shopify://collections/joseph-joseph"
           }
         },
-        "featured_collection_j4r9kj": {
-          "type": "featured_collection",
+        "column_76ybtJ": {
+          "type": "column",
           "settings": {
-            "collection": "brabantia"
+            "image": "shopify://shop_images/Brandani-senzatempo-blog-768x407_1.webp",
+            "title": "",
+            "text": "<p>Brandani</p>",
+            "link_label": "",
+            "link": "shopify://collections/brandani"
           }
         },
-        "featured_collection_HGzpHC": {
-          "type": "featured_collection",
+        "column_aQqci4": {
+          "type": "column",
           "settings": {
-            "collection": "brandani"
+            "image": "shopify://shop_images/make-_-Take-brabantia_1.png",
+            "title": "",
+            "text": "<p>Brabantia</p>",
+            "link_label": "",
+            "link": "shopify://collections/brabantia"
           }
         },
-        "featured_collection_dgC96H": {
-          "type": "featured_collection",
+        "column_rEmaep": {
+          "type": "column",
           "settings": {
-            "collection": "doiy"
+            "image": "shopify://shop_images/Doiy-design-tazza.webp",
+            "title": "",
+            "text": "<p>Doiy</p>",
+            "link_label": "",
+            "link": "shopify://collections/doiy"
           }
         }
       },
       "block_order": [
-        "featured_collection_UACQm9",
-        "featured_collection_j4r9kj",
-        "featured_collection_HGzpHC",
-        "featured_collection_dgC96H"
+        "column_FgL4eL",
+        "column_76ybtJ",
+        "column_aQqci4",
+        "column_rEmaep"
       ],
-      "name": "t:sections.collection-list.presets.name",
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
-        "heading_size": "h2",
+        "heading_size": "h1",
+        "image_width": "full",
         "image_ratio": "square",
         "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "scheme-2",
-        "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 12,
-        "padding_bottom": 12
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "multicolumn_THxWLM": {
@@ -565,7 +588,7 @@
     "custom_liquid_zX3hKP",
     "multicolumn_XzNAAH",
     "custom_liquid_7bEyFU",
-    "collection_list_DrQ6yE",
+    "multicolumn_wzJiT7",
     "multicolumn_THxWLM",
     "multicolumn_ekRxfr",
     "multicolumn_KpgrDw",
