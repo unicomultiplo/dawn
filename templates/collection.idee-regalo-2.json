@@ -33,7 +33,7 @@
         "buttons_CmixbY": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Scopri la Nostra Selezione Idee Regalo",
+            "button_label_1": "Scopri la Nostra Selezione Idee Regalo Natale",
             "button_link_1": "shopify://collections/idee-regalo-natale",
             "button_style_secondary_1": false,
             "button_label_2": "Guida ai regali",
