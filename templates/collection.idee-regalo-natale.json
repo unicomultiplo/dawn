@@ -218,19 +218,19 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/bitossi-natale-idee-regalo.webp",
-            "title": "",
+            "title": "Idee Regalo Bitossi Home",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "https://www.unicoemultiplo.com/collections/bitossi-home/?#shopify-section-template--24628389380361__multicolumn_Webjiz"
           }
         },
         "column_eWhFdX": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/seletti-natale-christmas-gift-idee-regalo.webp",
-            "title": "",
+            "title": "Idee Regalo Seletti",
             "text": "",
-            "link_label": "Idee Regalo Seletti",
+            "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_qftGfx"
           }
         },
@@ -238,10 +238,10 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/k7_beatrice_rossetti-knindustrie-idee-natale.webp",
-            "title": "",
+            "title": "Idee Regalo KnIndustrie",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "https://www.unicoemultiplo.com/collections/knindustrie/?#shopify-section-template--25423978430729__multicolumn_gaht3W"
           }
         }
       },
