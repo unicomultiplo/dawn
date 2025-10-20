@@ -12,24 +12,6 @@
     "slideshow_jWzjzL": {
       "type": "slideshow",
       "blocks": {
-        "slide_HMwqmR": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/organizzare-l-armadio-accessori-cambio-stagione-decluttering.webp",
-            "heading": "<strong>CAMBIO DI STAGIONE</strong>",
-            "heading_size": "h0",
-            "subheading": "",
-            "button_label": "Scopri la nostra Guida Completa!",
-            "link": "shopify://pages/il-grande-classico-come-fare-il-cambio-di-stagione-e-non-impazzire",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 20,
-            "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_DkdEyL": {
           "type": "slide",
           "settings": {
@@ -50,7 +32,6 @@
         }
       },
       "block_order": [
-        "slide_HMwqmR",
         "slide_DkdEyL"
       ],
       "settings": {
@@ -112,7 +93,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "complementi-arredo-scatole-armadio",
+        "collection": "lime-line-knindustrie",
         "products_to_show": 23,
         "columns_desktop": 6,
         "full_width": true,
