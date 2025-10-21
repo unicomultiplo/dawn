@@ -24,7 +24,7 @@
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Natale\">\n  <nav class=\"xmas-quick-links\">\n    <a href=\"https://www.unicoemultiplo.com/collections/seletti-natale\" class=\"button button--primary button--small\">Natale con Seletti</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/bitossi-home-natale\" class=\"button button--primary button--small\">Natale con Bitossi</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/knindustrie\" class=\"button button--primary button--small\">Natale con KNIndustrie</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-economiche\" class=\"button button--primary button--small\">Idee regalo sotto 50€</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-sotto-100-euro\" class=\"button button--primary button--small\">Idee regalo 100€</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-sotto-150-euro\" class=\"button button--primary button--small\">Idee regalo 150€</a>\n  </nav>\n</div>\n\n<style>\n  .xmas-quick-links {\n    display:flex;\n    flex-wrap:wrap;\n    gap:.5rem;\n    margin:.5rem 0 1rem;\n  }\n  /* Optional: bottoni a tutta larghezza su mobile */\n  @media (max-width: 749px) {\n    .xmas-quick-links a {\n      width: 100%;\n      justify-content: center;\n    }\n  }\n</style>",
+        "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Natale\">\n  <nav class=\"xmas-quick-links\">\n    <a href=\"https://www.unicoemultiplo.com/collections/seletti-natale\" class=\"button button--primary button--small\">Natale con Seletti</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/bitossi-home-natale\" class=\"button button--primary button--small\">Natale con Bitossi</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/knindustrie\" class=\"button button--primary button--small\">Natale con KnIndustrie</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-economiche\" class=\"button button--primary button--small\">Idee regalo sotto 50€</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-sotto-100-euro\" class=\"button button--primary button--small\">Idee regalo sotto 100€</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-sotto-150-euro\" class=\"button button--primary button--small\">Idee regalo sotto 150€</a>\n  </nav>\n</div>\n\n<style>\n  .xmas-quick-links {\n    display:flex;\n    flex-wrap:wrap;\n    gap:.5rem;\n    margin:.5rem 0 1rem;\n  }\n  /* Optional: bottoni a tutta larghezza su mobile */\n  @media (max-width: 749px) {\n    .xmas-quick-links a {\n      width: 100%;\n      justify-content: center;\n    }\n  }\n</style>",
         "color_scheme": "scheme-1",
         "padding_top": 40,
         "padding_bottom": 52
@@ -218,8 +218,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/bitossi-natale-idee-regalo.webp",
-            "title": "Idee Regalo Bitossi Home",
-            "text": "",
+            "title": "",
+            "text": "<p><strong>Idee Regalo Bitossi Home</strong></p>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/bitossi-home/?#shopify-section-template--24628389380361__multicolumn_Webjiz"
           }
@@ -228,8 +228,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/seletti-natale-christmas-gift-idee-regalo.webp",
-            "title": "Idee Regalo Seletti",
-            "text": "",
+            "title": "",
+            "text": "<p><strong>Idee Regalo Seletti</strong></p>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_qftGfx"
           }
@@ -238,8 +238,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/k7_beatrice_rossetti-knindustrie-idee-natale.webp",
-            "title": "Idee Regalo KnIndustrie",
-            "text": "",
+            "title": "",
+            "text": "<p><strong>Idee Regalo KnIndustrie</strong></p>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/knindustrie/?#shopify-section-template--25423978430729__multicolumn_gaht3W"
           }
@@ -260,7 +260,7 @@
         "image_width": "full",
         "image_ratio": "square",
         "columns_desktop": 3,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
@@ -289,7 +289,7 @@
           "settings": {
             "image": "shopify://shop_images/josephjoseph-natale.webp",
             "title": "",
-            "text": "<p>JosephJoseph</p>",
+            "text": "<p><strong>JosephJoseph</strong></p>",
             "link_label": "",
             "link": "shopify://collections/joseph-joseph"
           }
@@ -299,7 +299,7 @@
           "settings": {
             "image": "shopify://shop_images/Brandani-senzatempo-blog-768x407_1.webp",
             "title": "",
-            "text": "<p>Brandani</p>",
+            "text": "<p><strong>Brandani</strong></p>",
             "link_label": "",
             "link": "shopify://collections/brandani"
           }
@@ -309,7 +309,7 @@
           "settings": {
             "image": "shopify://shop_images/make-_-Take-brabantia_1.png",
             "title": "",
-            "text": "<p>Brabantia</p>",
+            "text": "<p><strong>Brabantia</strong></p>",
             "link_label": "",
             "link": "shopify://collections/brabantia"
           }
@@ -319,7 +319,7 @@
           "settings": {
             "image": "shopify://shop_images/Doiy-design-tazza.webp",
             "title": "",
-            "text": "<p>Doiy</p>",
+            "text": "<p><strong>Doiy</strong></p>",
             "link_label": "",
             "link": "shopify://collections/doiy"
           }
@@ -341,7 +341,7 @@
         "image_width": "full",
         "image_ratio": "square",
         "columns_desktop": 4,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
@@ -403,8 +403,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/santa-fixes-the-bow-on-a-gift.jpg",
-            "title": "SECRET SANTA",
-            "text": "<p>Sorprendi il tuo collega, anche quello che non conosci!</p>",
+            "title": "",
+            "text": "<h3><strong>SECRET SANTA</strong></h3><p>Sorprendi il tuo collega, anche quello che non conosci!</p>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=0&filter.v.price.lte=35&sort_by=manual"
           }
@@ -413,8 +413,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/kikkerland-feline-fire-stress-balls-palline-antistress-gatto.webp",
-            "title": "EFFETTO \"WOW\"",
-            "text": "<p>Idee regalo che lasciano il segno.</p>",
+            "title": "",
+            "text": "<h3><strong>EFFETTO \"WOW</strong></h3><p>Idee regalo che lasciano il segno.</p>",
             "link_label": "",
             "link": "shopify://collections/kikkerland"
           }
@@ -423,8 +423,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/superstuff-idee-regalo-natale.webp",
-            "title": "SUPERSTUFF",
-            "text": "<p>Creatività stampata 3D, sorpresa garantita!</p>",
+            "title": "",
+            "text": "<h3><strong>SUPERSTUFF</strong></h3><p>Creatività stampata 3D, sorpresa garantita!</p>",
             "link_label": "",
             "link": "shopify://collections/superstuff"
           }
@@ -433,8 +433,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/doiy-rainbow-reggilibri-4.webp",
-            "title": "COLOUR LOVER",
-            "text": "<p>Design pop e ironico, a tutta cromia!</p>",
+            "title": "",
+            "text": "<h3><strong>COLOUR LOVER</strong></h3><p>Design pop e ironico, a tutta cromia!</p>",
             "link_label": "",
             "link": "shopify://collections/doiy"
           }
@@ -443,8 +443,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/depressetti-disegnetti-piena-stampa.webp",
-            "title": "DISEGNETTI DEPRESSETTI",
-            "text": "<p>L’ironia che <em>(forse)</em> salverà la giornata.</p>",
+            "title": "",
+            "text": "<h3><strong>DISEGNETTI DEPRESSETTI</strong></h3><p>L’ironia che <em>(forse)</em> salverà la giornata.</p>",
             "link_label": "",
             "link": "shopify://collections/disegnetti-depressetti"
           }
