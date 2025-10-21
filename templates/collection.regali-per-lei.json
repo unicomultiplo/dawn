@@ -543,13 +543,54 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
-        "column_alignment": "center",
+        "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_Qm7mgD": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_TyHqnN": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-economiche"
+          }
+        },
+        "featured_collection_ppC7G6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-regali-sotto-100-euro"
+          }
+        },
+        "featured_collection_y4zVJE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-regali-sotto-150-euro"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_TyHqnN",
+        "featured_collection_ppC7G6",
+        "featured_collection_y4zVJE"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -617,6 +658,7 @@
     "multicolumn_LjNpMM",
     "featured_collection_jaVaFN",
     "multicolumn_hMt3Yz",
+    "collection_list_Qm7mgD",
     "image_banner_Y4zkTQ"
   ]
 }
