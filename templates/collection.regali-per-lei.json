@@ -20,167 +20,14 @@
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
       }
     },
-    "multicolumn_MxLddP": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_PgEVHi": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h4><a href=\"/collections/seletti-diesel-living-seletti-classics-on-acid\" title=\"Seletti Classics on Acid\">NEW! Classics on Acid</a></h4><h4><a href=\"/collections/seletti-seletti-magna-graecia\" title=\"Seletti Magna Graecia\">NEW! Magna Graecia</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-hybrid\" title=\"Seletti Hybrid\">Collezione Hybrid</a></h4><h4><a href=\"/collections/seletti-hybrid-piatti\" title=\"Seletti Piatti Hybrid\">Piatti Hybrid</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-marcantonio\" title=\"Seletti Marcantonio\">Seletti + Marcantonio</a></h4>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_pqxUGY": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h4><a href=\"/collections/seletti-catalogo-prodotti-estetico-quotidiano\" title=\"Seletti estetico quotidiano\">Estetico Quotidiano</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-i-wares\" title=\"Seletti I-Wares\">I-Wares</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-diesel-living\" title=\"Seletti Diesel Living\">Diesel Living</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-toiletpaper\" title=\"Toiletpaper Seletti\">Seletti wears Toiletpaper</a></h4>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_gPeEtt": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h4><a href=\"/collections/seletti-catalogo-prodotti-kintsugi\" title=\"Seletti Kintsugi\">Kintsugi</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-seletti-marcantonio-memorabilia\" title=\"Memorabilia Mvsevm Seletti\">Memorabilia</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-seletti-marcantonio-sending-animals\" title=\"Sending Animals by Seletti\">Sanding Animals</a></h4><h4><a href=\"/collections/seletti-catalogo-prodotti-blow-by-job\" title=\"Seletti Blow by Job\">Blow by Job</a></h4><h4><a href=\"/collections/seletti-natale\" title=\"Natale Con Seletti\">Natale Con Seletti</a></h4>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_PgEVHi",
-        "column_pqxUGY",
-        "column_gPeEtt"
-      ],
-      "disabled": true,
-      "custom_css": [],
+    "custom_liquid_V4d3KX": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "title": "Scopri tutte le Collezioni Seletti",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
-    "collapsible_content_pkhEjg": {
-      "type": "collapsible-content",
-      "blocks": {
-        "collapsible_row_YYXGEf": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Budget",
-            "icon": "apple",
-            "row_content": "<p><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=0&filter.v.price.lte=19&page=2&sort_by=price-ascending\" title=\"Piccoli doni\">Piccolo doni →</a></p><p><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=18&filter.v.price.lte=52&page=1&sort_by=price-ascending\" title=\"Idee sotto i 50€\">Idee sotto ai 50€ →</a></p><p>Idee sotto i 100€ →</p><p>Idee sotto i 150€ →</p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_4PHbF3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_TJn6HU": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": "",
-            "liquid_content": ""
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_row_YYXGEf",
-        "collapsible_row_4PHbF3",
-        "collapsible_row_TJn6HU"
-      ],
-      "disabled": true,
-      "settings": {
-        "caption": "",
-        "heading": "Acquista per",
-        "heading_size": "h2",
-        "heading_alignment": "left",
-        "layout": "section",
-        "color_scheme": "",
-        "container_color_scheme": "",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_38PWQd": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_yqLKq7": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>LEI CHE AMA..</strong>",
-            "text": "<h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Kikkerland&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Kikkerland&sort_by=created-ascending\">Fai da te </a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Kikkerland&filter.p.vendor=Reisenthel&filter.p.vendor=Rollink&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Kikkerland&filter.p.vendor=Reisenthel&filter.p.vendor=Rollink&sort_by=created-ascending\">Viaggiare</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Tessili+per+la+Casa&sort_by=title-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Tessili+per+la+Casa&sort_by=title-ascending\">Dormire</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=CUCINA+%26+TAVOLA&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=CUCINA+%26+TAVOLA&sort_by=created-ascending\">Mangiare</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Joseph+Joseph&filter.p.vendor=joseph+joseph&filter.p.vendor=KnIndustrie&filter.p.vendor=Rivsalt&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Joseph+Joseph&filter.p.vendor=joseph+joseph&filter.p.vendor=KnIndustrie&filter.p.vendor=Rivsalt&sort_by=created-ascending\">Cucinare</a></h4><h4></h4>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_UprEta": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>BUDGET </strong>",
-            "text": "<h2></h2><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=0&filter.v.price.lte=30&sort_by=price-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=0&filter.v.price.lte=30&sort_by=price-ascending\">Piccolo doni →</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=0&filter.v.price.lte=50&page=1&sort_by=title-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=0&filter.v.price.lte=50&page=1&sort_by=title-ascending\">Idee sotto ai 50€ →</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=40&filter.v.price.lte=110&sort_by=title-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=40&filter.v.price.lte=110&sort_by=title-ascending\">Idee sotto i 100€ →</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=80&filter.v.price.lte=160&sort_by=title-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=80&filter.v.price.lte=160&sort_by=title-ascending\">Idee sotto i 150€ →</a></h4><h4></h4>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_yfQL9J": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>BRAND</strong>",
-            "text": "<h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Bitossi+Home&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Bitossi+Home&sort_by=created-ascending\">Bitossi Home</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=created-ascending\">Brandani</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=created-ascending\">Seletti</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=KnIndustrie&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=KnIndustrie&sort_by=created-ascending\">KnIndustrie</a></h4><h4><a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Kikkerland&sort_by=created-ascending\" title=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Kikkerland&sort_by=created-ascending\">Kikkerland</a></h4>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_yqLKq7",
-        "column_UprEta",
-        "column_yfQL9J"
-      ],
-      "settings": {
-        "title": "<strong>Acquista per</strong>",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 8,
-        "padding_bottom": 8
+        "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Natale\">\n  <nav class=\"xmas-quick-links\">\n    <a href=\"https://www.unicoemultiplo.com/collections/seletti-natale\" class=\"button button--primary button--small\">Idee Regalo Compleanno</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-compleanno\" class=\"button button--primary button--small\">Idee Regalo Anniversario</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-sposi\" class=\"button button--primary button--small\">Idee Regalo San Valentino</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-san-valentino\" class=\"button button--primary button--small\">Idee Regalo Sotto 50€</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-sotto-100-euro\" class=\"button button--primary button--small\">Idee Regalo Sotto 100€</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-sotto-150-euro\" class=\"button button--primary button--small\">Idee Regalo Sotto 150€</a>\n  </nav>\n</div>\n\n<style>\n  .xmas-quick-links {\n    display:flex;\n    flex-wrap:wrap;\n    gap:.5rem;\n    margin:.5rem 0 1rem;\n  }\n  /* Optional: bottoni a tutta larghezza su mobile */\n  @media (max-width: 749px) {\n    .xmas-quick-links a {\n      width: 100%;\n      justify-content: center;\n    }\n  }\n</style>",
+        "color_scheme": "scheme-1",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "product-grid": {
@@ -206,9 +53,7 @@
   },
   "order": [
     "banner",
-    "multicolumn_MxLddP",
-    "collapsible_content_pkhEjg",
-    "multicolumn_38PWQd",
+    "custom_liquid_V4d3KX",
     "product-grid"
   ]
 }
