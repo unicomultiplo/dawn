@@ -406,6 +406,153 @@
         "padding_top": 16,
         "padding_bottom": 16
       }
+    },
+    "multicolumn_LjNpMM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_wwXbEw": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Scegliere un regalo in base al budget <strong>non significa rinunciare al gusto o alla personalità</strong>.<br/>A volte basta un piccolo pensiero curato nei dettagli per trasmettere affetto, altre volte un dono importante per celebrare un momento speciale.<br/>In ogni fascia di prezzo c’è spazio per creatività, originalità e stile: scopri come sorprendere con equilibrio e senza eccessi.<br/><br/></p><h3><strong>Piccoli pensieri scelti con cura per lei</strong><br/></h3><p>I regali più belli non sempre sono i più costosi.<br/>Un oggetto scelto con cuore e attenzione può diventare un ricordo prezioso.<br/>Scopri <strong>idee regalo accessibili ma ricercate</strong>, perfette per un pensiero affettuoso, un ringraziamento o una sorpresa improvvisa.<br/>Dalle <strong>tazze illustrate e piccoli oggetti di design</strong>, alle <strong>candele profumate e accessori decorativi</strong>, ogni proposta è pensata per dire “ti ho pensata” con semplicità e stile.<br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wJ9JHV": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_wwXbEw",
+        "column_wJ9JHV"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Idee regalo per lei, per fascia di prezzo",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_jaVaFN": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "idee-regalo-economiche",
+        "products_to_show": 25,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_hMt3Yz": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_dATfYx": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_a3fNUy": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>Cosa regalare a una donna con meno di 50, 100 o 150 euro</strong><br/></h3><p><br/>Trovare l’equilibrio tra spesa e valore è possibile: basta scegliere con gusto. In questa guida ti aiutiamo a orientarti tra <strong>idee regalo per donna sotto i 50, 100 e 150 euro</strong>, tutte selezionate per stupire con eleganza.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_h8aERm": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<ol><li><strong>Regali smart e accessibili</strong>, perfetti per sorprendere senza complicazioni. Idee leggere ma ricche di significato.</li></ol>",
+            "link_label": "Piccoli gesti, grandi sorrisi",
+            "link": "shopify://collections/idee-regalo-economiche"
+          }
+        },
+        "column_eXaJin": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>2.<strong> La giusta via di mezzo</strong> tra convenienza e impatto: regali che colpiscono, restano impressi e raccontano attenzione autentica.</p>",
+            "link_label": "Equilibrio perfetto",
+            "link": "shopify://collections/idee-regalo-regali-sotto-100-euro"
+          }
+        },
+        "column_edK8fN": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>3.<strong> Doni più importanti,</strong> scelti per celebrare momenti che meritano di essere ricordati con qualcosa di unico e speciale.</p>",
+            "link_label": "Il valore delle grandi occasioni",
+            "link": "shopify://collections/idee-regalo-regali-sotto-150-euro"
+          }
+        }
+      },
+      "block_order": [
+        "column_dATfYx",
+        "column_a3fNUy",
+        "column_h8aERm",
+        "column_eXaJin",
+        "column_edK8fN"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
@@ -417,6 +564,9 @@
     "image_with_text_KGfyjb",
     "multicolumn_AYtpXd",
     "multicolumn_nx7Xxp",
-    "multicolumn_gzzEF9"
+    "multicolumn_gzzEF9",
+    "multicolumn_LjNpMM",
+    "featured_collection_jaVaFN",
+    "multicolumn_hMt3Yz"
   ]
 }
