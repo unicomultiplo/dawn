@@ -87,7 +87,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -193,6 +193,16 @@
     "multicolumn_AYtpXd": {
       "type": "multicolumn",
       "blocks": {
+        "column_kWrcdV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/kikkerland-memo-magnets-magneti-per-memo_6e8c0fd6-40ee-4326-831c-a7558d3a1c85.webp",
+            "title": "",
+            "text": "<p><strong>LIFESTYLE</strong></p><p>Sempre di corsa, ma con stile.</p>",
+            "link_label": "",
+            "link": "shopify://collections/tempo-libero"
+          }
+        },
         "column_TWqyNA": {
           "type": "column",
           "settings": {
@@ -208,7 +218,7 @@
           "settings": {
             "image": "shopify://shop_images/kikkerland-decorate-your-own-cup-kit-kit-decora-la-tua-tazza_1.webp",
             "title": "",
-            "text": "<p><strong>EFFETTO \"WOW</strong></p><p>Idee regalo che lasciano il segno.</p>",
+            "text": "<p><strong>EFFETTO \"WOW\"</strong></p><p>Idee regalo che lasciano il segno.</p>",
             "link_label": "",
             "link": "shopify://collections/kikkerland"
           }
@@ -242,25 +252,15 @@
             "link_label": "",
             "link": "shopify://collections/printworks"
           }
-        },
-        "column_kWrcdV": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/kikkerland-memo-magnets-magneti-per-memo_6e8c0fd6-40ee-4326-831c-a7558d3a1c85.webp",
-            "title": "",
-            "text": "<p><strong>LIFESTYLE</strong></p><p>Sempre di corsa, ma con stile.</p>",
-            "link_label": "",
-            "link": "shopify://collections/tempo-libero"
-          }
         }
       },
       "block_order": [
+        "column_kWrcdV",
         "column_TWqyNA",
         "column_pwpce8",
         "column_9FBxwU",
         "column_dBWiUb",
-        "column_xRN3iJ",
-        "column_kWrcdV"
+        "column_xRN3iJ"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -281,6 +281,131 @@
         "padding_top": 16,
         "padding_bottom": 16
       }
+    },
+    "multicolumn_nx7Xxp": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_xNGhAX": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_kjXNnf": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Ogni evento ha il suo dono ideale: dai momenti romantici alle grandi ricorrenze.<br/>Che si tratti di <strong>un anniversario, un compleanno o una cerimonia</strong>, qui trovi spunti per celebrare ogni tappa della sua storia con gusto e originalità.</p><h3><br/><strong>Regalo per fidanzata o moglie, tra emozione e design<br/></strong></h3><p>Romantico sì, ma mai banale! Scegli tra <strong>idee che raccontano amore con stile</strong>: oggetti di design, accessori eleganti o piccoli gesti simbolici che fanno emozionare.<br/>Regali che uniscono cuore ed estetica, perfetti per chi ama <strong>sorprendere con raffinatezza</strong>.</p><h3><br/><strong>Idee regalo compleanno donna per ogni età e personalità<br/></strong></h3><p>Ogni compleanno merita un’idea su misura: per la ragazza piena di energia, la donna elegante o la creativa sempre in movimento. Dalle proposte più ironiche a quelle raffinate, troverai <strong>regali che rispecchiano la sua personalità</strong>.<br/></p><h3><br/><strong>Regali per damigelle, testimoni e amiche per l’addio al nubilato<br/></strong></h3><p>Piccoli pensieri coordinati per ringraziare chi condivide con lei momenti unici.<strong> Oggetti simbolici, divertenti o utili </strong>che restano come ricordo di un giorno speciale.<br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_xNGhAX",
+        "column_kjXNnf"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Idee regalo pensate su misura per lei",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_gzzEF9": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3TqetN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/San-Valentino-Amore-e-Tenerezza.jpg",
+            "title": "",
+            "text": "<p><strong>SAN VALENTINO</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-san-valentino"
+          }
+        },
+        "column_kHGzxE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/san-valentino-idee-regalo.webp",
+            "title": "",
+            "text": "<p><strong>ANNIVERSARIO</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-sposi"
+          }
+        },
+        "column_xj8dtt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Come-scegliere-i-Regali-di-Natale-organizzare-la-tua-Lista_1.webp",
+            "title": "",
+            "text": "<p><strong>NATALE</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-natale"
+          }
+        },
+        "column_UDxhRD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/wrapping-gifts-compleanno.webp",
+            "title": "",
+            "text": "<p><strong>COMPLEANNO</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-compleanno"
+          }
+        },
+        "column_C76yDx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/a-group-of-women-take-a-moment-to-admire-the-drink-menu.jpg",
+            "title": "",
+            "text": "<p><strong>DAMIGELLE</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-economiche"
+          }
+        }
+      },
+      "block_order": [
+        "column_3TqetN",
+        "column_kHGzxE",
+        "column_xj8dtt",
+        "column_UDxhRD",
+        "column_C76yDx"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
     }
   },
   "order": [
@@ -290,6 +415,8 @@
     "multicolumn_nEp8EE",
     "image_with_text_bkAqWb",
     "image_with_text_KGfyjb",
-    "multicolumn_AYtpXd"
+    "multicolumn_AYtpXd",
+    "multicolumn_nx7Xxp",
+    "multicolumn_gzzEF9"
   ]
 }
