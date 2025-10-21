@@ -505,7 +505,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ol><li><strong>Regali smart e accessibili</strong>, perfetti per sorprendere senza complicazioni. Idee leggere ma ricche di significato.</li></ol>",
+            "text": "<p>1. Piccoli oggetti <strong>intelligenti e creativi</strong>: perfetti per amiche, colleghe o occasioni leggere.</p>",
             "link_label": "Piccoli gesti, grandi sorrisi",
             "link": "shopify://collections/idee-regalo-economiche"
           }
@@ -514,7 +514,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>2.<strong> La giusta via di mezzo</strong> tra convenienza e impatto: regali che colpiscono, restano impressi e raccontano attenzione autentica.</p>",
+            "text": "<p>2.<strong> </strong>Il <strong>compromesso ideale</strong> tra praticità e design: regali che colpiscono senza esagerare e restano nella quotidianità.</p>",
             "link_label": "Equilibrio perfetto",
             "link": "shopify://collections/idee-regalo-regali-sotto-100-euro"
           }
@@ -523,7 +523,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>3.<strong> Doni più importanti,</strong> scelti per celebrare momenti che meritano di essere ricordati con qualcosa di unico e speciale.</p>",
+            "text": "<p>3.<strong> </strong>Scelte <strong>raffinate</strong> per momenti speciali: oggetti di design e dettagli curati per chi ama estetica e qualità.</p>",
             "link_label": "Il valore delle grandi occasioni",
             "link": "shopify://collections/idee-regalo-regali-sotto-150-euro"
           }
@@ -553,6 +553,55 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "image_banner_Y4zkTQ": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_apWKXJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cerchi ispirazione? Alcune idee regalo per lei fuori dai soliti schemi",
+            "heading_size": "h1"
+          }
+        },
+        "text_4VB6mP": {
+          "type": "text",
+          "settings": {
+            "text": "A volte serve solo uno spunto per trasformare un pensiero in un’emozione.Se sei indeciso o vuoi stupire con qualcosa di diverso, lasciati ispirare dalle nostre selezioni: regali <strong>originali, ironici, poetici o semplicemente sorprendenti</strong>, perfetti anche per chi sembra già avere tutto.Qui la creatività incontra il design, e ogni oggetto diventa un modo per raccontare affetto e personalità.",
+            "text_style": "body"
+          }
+        },
+        "buttons_h43rUr": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Regalare per Stupire",
+            "button_link_1": "shopify://blogs/regalare-per-stupire",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_apWKXJ",
+        "text_4VB6mP",
+        "buttons_h43rUr"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Regali-a-Meno-di-100-_-1.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -567,6 +616,7 @@
     "multicolumn_gzzEF9",
     "multicolumn_LjNpMM",
     "featured_collection_jaVaFN",
-    "multicolumn_hMt3Yz"
+    "multicolumn_hMt3Yz",
+    "image_banner_Y4zkTQ"
   ]
 }
