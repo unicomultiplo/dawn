@@ -198,7 +198,7 @@
           "settings": {
             "image": "shopify://shop_images/marinette-saint-tropez-plaid-pisolino-10.webp",
             "title": "",
-            "text": "<h3><strong>MARINETTE</strong></h3><p>Per le vere amanti del pisolino!</p>",
+            "text": "<p><strong>MARINETTE</strong></p><p>Per le vere amanti del pisolino!</p>",
             "link_label": "",
             "link": "shopify://collections/marinette-saint-tropez"
           }
@@ -208,7 +208,7 @@
           "settings": {
             "image": "shopify://shop_images/kikkerland-decorate-your-own-cup-kit-kit-decora-la-tua-tazza_1.webp",
             "title": "",
-            "text": "<h3><strong>EFFETTO \"WOW</strong></h3><p>Idee regalo che lasciano il segno.</p>",
+            "text": "<p><strong>EFFETTO \"WOW</strong></p><p>Idee regalo che lasciano il segno.</p>",
             "link_label": "",
             "link": "shopify://collections/kikkerland"
           }
@@ -218,7 +218,7 @@
           "settings": {
             "image": "shopify://shop_images/Doiy-design-scatola_6fad84bf-3209-4700-8a2a-a9fe73f2a740.webp",
             "title": "",
-            "text": "<h3><strong>COLOUR LOVER</strong></h3><p>Design pop e ironico, a tutta cromia!</p>",
+            "text": "<p><strong>COLOUR LOVER</strong></p><p>Design pop e ironico, a tutta cromia!</p>",
             "link_label": "",
             "link": "shopify://collections/doiy"
           }
@@ -228,7 +228,7 @@
           "settings": {
             "image": "shopify://shop_images/Disegnetti-depressetti-portachiavi-AI.jpg",
             "title": "",
-            "text": "<h3><strong>DISEGNETTI </strong></h3><p>L’ironia che <em>(forse)</em> salverà la giornata.</p>",
+            "text": "<p><strong>DISEGNETTI DEPRESSETTI</strong></p><p>L’ironia che <em>(forse)</em> salverà la giornata.</p>",
             "link_label": "",
             "link": "shopify://collections/disegnetti-depressetti"
           }
@@ -238,7 +238,7 @@
           "settings": {
             "image": "shopify://shop_images/printwork-happily-ever-after-album-fotp-1.webp",
             "title": "",
-            "text": "<h3><strong>PRINTWORKS</strong></h3><p>idee regalo da ricordare</p>",
+            "text": "<p><strong>PRINTWORKS</strong></p><p>idee regalo da ricordare!</p>",
             "link_label": "",
             "link": "shopify://collections/printworks"
           }
@@ -248,7 +248,7 @@
           "settings": {
             "image": "shopify://shop_images/kikkerland-memo-magnets-magneti-per-memo_6e8c0fd6-40ee-4326-831c-a7558d3a1c85.webp",
             "title": "",
-            "text": "<h3><strong>LIFESTYLE</strong></h3><p>Sempre di corsa, ma con stile.</p>",
+            "text": "<p><strong>LIFESTYLE</strong></p><p>Sempre di corsa, ma con stile.</p>",
             "link_label": "",
             "link": "shopify://collections/tempo-libero"
           }
@@ -261,6 +261,9 @@
         "column_dBWiUb",
         "column_xRN3iJ",
         "column_kWrcdV"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
       ],
       "settings": {
         "title": "",
