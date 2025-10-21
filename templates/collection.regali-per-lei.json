@@ -49,11 +49,154 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multicolumn_nEp8EE": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_LPw6bA": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_jCfNXF": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><strong>Ogni donna è unica</strong>, e anche il suo regalo dovrebbe esserlo.<br/>Il dono giusto nasce da <strong>attenzione, affetto e conoscenza</strong>: valorizza gusti, passioni e piccole abitudini quotidiane, raccontando il legame che vi unisce.<br/>Che si tratti di un <strong>pensiero per un’amica, di un regalo per la mamma o di un gesto d’amore per la tua compagna</strong>, qui trovi ispirazioni adatte a ogni tipo di relazione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_LPw6bA",
+        "column_jCfNXF"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Idee regalo pensate su misura per lei",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_bkAqWb": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_DzJgYi": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_beWgtQ": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Regali affettuosi per un’amica speciale o una sorella</strong></h3><p>Ci sono regali che sanno far ridere, commuovere o semplicemente dire: <em>“questo è proprio da noi”</em>.<br/>Scegli tra <strong>oggetti ironici, colorati e originali</strong>, perfetti per condividere momenti e ricordi con leggerezza.<br/>Un piccolo pensiero, ma pieno di personalità.<br/></p><h3><strong>Un regalo per la mamma che parli anche un po’ di te</strong></h3><p>Per la mamma, ogni regalo è un modo per dire <em>“grazie”</em>.<br/>Scegli oggetti belli e utili che trasmettono <strong>cura, affetto e attenzione</strong>, come un complemento per la casa, un set per la tavola o un accessorio raffinato che la accompagni ogni giorno. Idee pensate per emozionare e rendere omaggio a chi sa donare amore incondizionato.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_LfpcHc": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scopri i Nostri  Consigli",
+            "button_link": "shopify://blogs/regalare-per-stupire",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_DzJgYi",
+        "text_beWgtQ",
+        "button_LfpcHc"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/regalare-per_stupire-amica-moglie-collega.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_KGfyjb": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_KyPfWQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_LWe9UV": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Idee regalo per la casa e la cucina adatte al suo stile di vita</strong></h3><p>Per le donne che amano vivere la casa con stile, il regalo perfetto è <strong>bello, funzionale e curato nei dettagli</strong>.<br/>Scopri proposte per la cucina, la tavola e il living: oggetti che accompagnano i gesti di ogni giorno e trasformano la routine in piacere.</p><h3><strong>Cosa regalare alla suocera, alla cognata o alla zia senza essere banali</strong></h3><p>Trovare il giusto equilibrio tra eleganza e simpatia non è facile, ma ci sono idee che mettono tutti d’accordo.<br/>Punta su <strong>soluzioni raffinate, intelligenti o ironiche</strong>, che sanno adattarsi a ogni personalità e occasione: dal piccolo complemento decorativo a un accessorio utile e di design.<br/><br/></p>",
+            "text_style": "body"
+          }
+        },
+        "button_azT8cf": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scopri la collezione Idee Regalo per Casa e Cucina",
+            "button_link": "shopify://collections/idee-regalo-per-casa-e-cucina",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_KyPfWQ",
+        "text_LWe9UV",
+        "button_azT8cf"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/idee-regalo-per-lei-casa-cucina.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "banner",
     "custom_liquid_V4d3KX",
-    "product-grid"
+    "product-grid",
+    "multicolumn_nEp8EE",
+    "image_with_text_bkAqWb",
+    "image_with_text_KGfyjb"
   ]
 }
