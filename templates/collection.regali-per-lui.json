@@ -205,6 +205,83 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_berWQ6": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_efQWGY": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_PRVmpp": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Regali affettuosi per un amico speciale o un fratello</strong></h3><p>Per chi condivide momenti e risate con te, scegli <strong>idee leggere ma memorabili</strong>: un gadget tecnologico, un accessorio lifestyle o un piccolo oggetto ironico ma di qualità.<br/>Sono <strong>regali pensati per stupire senza prendersi troppo sul serio</strong>, perfetti per dire “ti voglio bene” con spontaneità.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_yJcbNF": {
+          "type": "button",
+          "settings": {
+            "button_label": "Idee Regalo",
+            "button_link": "shopify://collections/tempo-libero",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_efQWGY",
+        "text_PRVmpp",
+        "button_yJcbNF"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/regalo-per-fratello-amico-idee-originali.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_GhNmpq": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "kikkerland",
+        "products_to_show": 15,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_KGfyjb": {
       "type": "image-with-text",
       "blocks": {
@@ -724,6 +801,8 @@
     "product-grid",
     "multicolumn_nEp8EE",
     "image_with_text_bkAqWb",
+    "image_with_text_berWQ6",
+    "featured_collection_GhNmpq",
     "image_with_text_KGfyjb",
     "multicolumn_AYtpXd",
     "multicolumn_nx7Xxp",
