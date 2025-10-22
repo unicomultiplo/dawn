@@ -550,47 +550,16 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3><strong>Cosa regalare a una donna con meno di 50, 100 o 150 euro</strong><br/></h3><p><br/>Trovare l’equilibrio tra spesa e valore è possibile: basta scegliere con gusto. In questa guida ti aiutiamo a orientarti tra <strong>idee regalo per donna sotto i 50, 100 e 150 euro</strong>, tutte selezionate per stupire con eleganza.</p>",
+            "text": "<h2><strong>Idee regalo per lui, suddivise per fascia di prezzo</strong></h2><p><br/>Non serve spendere una fortuna per fare bella figura: ciò che conta è <strong>l’attenzione con cui scegli</strong>. Ecco alcune idee ordinate per budget, per aiutarti a trovare il giusto equilibrio tra valore e originalità.</p>",
             "link_label": "",
             "link": ""
-          }
-        },
-        "column_h8aERm": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>1. Piccoli oggetti <strong>intelligenti e creativi</strong>: perfetti per amiche, colleghe o occasioni leggere.</p>",
-            "link_label": "Piccoli gesti, grandi sorrisi",
-            "link": "shopify://collections/idee-regalo-economiche"
-          }
-        },
-        "column_eXaJin": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>2.<strong> </strong>Il <strong>compromesso ideale</strong> tra praticità e design: regali che colpiscono senza esagerare e restano nella quotidianità.</p>",
-            "link_label": "Equilibrio perfetto",
-            "link": "shopify://collections/idee-regalo-regali-sotto-100-euro"
-          }
-        },
-        "column_edK8fN": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>3.<strong> </strong>Scelte <strong>raffinate</strong> per momenti speciali: oggetti di design e dettagli curati per chi ama estetica e qualità.</p>",
-            "link_label": "Il valore delle grandi occasioni",
-            "link": "shopify://collections/idee-regalo-regali-sotto-150-euro"
           }
         }
       },
       "block_order": [
         "column_dATfYx",
-        "column_a3fNUy",
-        "column_h8aERm",
-        "column_eXaJin",
-        "column_edK8fN"
+        "column_a3fNUy"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -636,7 +605,6 @@
         "featured_collection_ppC7G6",
         "featured_collection_y4zVJE"
       ],
-      "disabled": true,
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
