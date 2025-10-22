@@ -66,7 +66,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><strong>Ogni donna è unica</strong>, e anche il suo regalo dovrebbe esserlo.<br/>Il dono giusto nasce da <strong>attenzione, affetto e conoscenza</strong>: valorizza gusti, passioni e piccole abitudini quotidiane, raccontando il legame che vi unisce.<br/>Che si tratti di un <strong>pensiero per un’amica, di un regalo per la mamma o di un gesto d’amore per la tua compagna</strong>, qui trovi ispirazioni adatte a ogni tipo di relazione.</p>",
+            "text": "<p>Ogni uomo<strong> ha il suo stile, i suoi interessi</strong> e un’idea diversa di cosa sia “utile” o “speciale”. Scegliere un regalo davvero azzeccato significa partire da <strong>chi è</strong>, dal suo modo di vivere e dal valore che dà alle cose.</p>",
             "link_label": "",
             "link": ""
           }
@@ -78,7 +78,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Idee regalo pensate su misura per lei",
+        "title": "Idee regalo pensate su misura per lui",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -107,15 +107,15 @@
         "text_beWgtQ": {
           "type": "text",
           "settings": {
-            "text": "<h3><strong>Regali affettuosi per un’amica speciale o una sorella</strong></h3><p>Ci sono regali che sanno far ridere, commuovere o semplicemente dire: <em>“questo è proprio da noi”</em>.<br/>Scegli tra <strong>oggetti ironici, colorati e originali</strong>, perfetti per condividere momenti e ricordi con leggerezza.<br/>Un piccolo pensiero, ma pieno di personalità.<br/></p><h3><strong>Un regalo per la mamma che parli anche un po’ di te</strong></h3><p>Per la mamma, ogni regalo è un modo per dire <em>“grazie”</em>.<br/>Scegli oggetti belli e utili che trasmettono <strong>cura, affetto e attenzione</strong>, come un complemento per la casa, un set per la tavola o un accessorio raffinato che la accompagni ogni giorno. Idee pensate per emozionare e rendere omaggio a chi sa donare amore incondizionato.</p>",
+            "text": "<h3><strong>Un regalo per il fidanzato o per il marito che non sia mai banale</strong></h3><p>Sorprendere chi ami ogni volta è possibile, basta puntare su oggetti che uniscano <strong>design, significato e cura del dettaglio</strong>.<br/>Pensa ad un accessorio con un dettaglio simbolico, a un orologio dal fascino senza tempo, o a un’esperienza da condividere: il regalo perfetto è quello che racconta la vostra storia.<br/></p>",
             "text_style": "body"
           }
         },
         "button_LfpcHc": {
           "type": "button",
           "settings": {
-            "button_label": "Scopri i Nostri  Consigli",
-            "button_link": "shopify://blogs/regalare-per-stupire",
+            "button_label": "Regali Romantici",
+            "button_link": "shopify://collections/idee-regalo-san-valentino",
             "button_style_secondary": true
           }
         }
@@ -127,7 +127,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/regalare-per_stupire-amica-moglie-collega.webp",
+        "image": "shopify://shop_images/regali-per-lui-romantici-idee-originali.webp",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -173,6 +173,7 @@
         "text_LWe9UV",
         "button_azT8cf"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/idee-regalo-per-lei-casa-cucina.webp",
@@ -262,6 +263,7 @@
         "column_dBWiUb",
         "column_xRN3iJ"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -308,6 +310,7 @@
         "column_xNGhAX",
         "column_kjXNnf"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Idee regalo pensate su misura per lei",
@@ -387,6 +390,7 @@
         "column_UDxhRD",
         "column_C76yDx"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -433,6 +437,7 @@
         "column_wwXbEw",
         "column_wJ9JHV"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Idee regalo per lei, per fascia di prezzo",
@@ -453,6 +458,7 @@
     },
     "featured_collection_jaVaFN": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "title": "",
@@ -536,6 +542,7 @@
         "column_eXaJin",
         "column_edK8fN"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -581,6 +588,7 @@
         "featured_collection_ppC7G6",
         "featured_collection_y4zVJE"
       ],
+      "disabled": true,
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
@@ -629,6 +637,7 @@
         "text_4VB6mP",
         "buttons_h43rUr"
       ],
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/Regali-a-Meno-di-100-_-1.webp",
