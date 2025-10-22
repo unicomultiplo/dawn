@@ -361,7 +361,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Ogni momento importante merita un pensiero costruito su misura. Che sia una <strong>ricorrenza romantica</strong> o un <strong>evento da festeggiare</strong>, un regalo ben scelto diventa un ricordo.</p><h3><strong><br/>Compleanno o onomastico: le migliori idee regalo per lui<br/></strong></h3><p>Per il collega, l’amico di sempre o il papà, <strong>scegli qualcosa che rispecchi la sua personalità</strong>: un accessorio elegante per il tempo libero, un set per la cura personale o un gadget originale. Regalare <strong>con gusto</strong> significa conoscere chi hai davanti.<br/><br/></p><h3><strong>Regali uomo per San Valentino o un anniversario da non dimenticare<br/></strong></h3><p>Quando il regalo deve dire qualcosa in più, punta su un pensiero <strong>emozionale e personale</strong>.<br/>Un oggetto personalizzato, un’esperienza da vivere insieme o un dettaglio simbolico diventano il modo migliore per celebrare <strong>l’amore e la complicità</strong>.</p>",
+            "text": "<p>Ogni momento importante merita un pensiero costruito su misura. Che sia una <strong>ricorrenza romantica</strong> o un <strong>evento da festeggiare</strong>, un regalo ben scelto diventa un ricordo. Ciò che conta davvero è <strong>l’attenzione con cui scegli</strong>, la capacità di trovare un dono che racconti qualcosa di personale e autentico.</p><h3><strong><br/>Compleanno o onomastico: le migliori idee regalo per lui<br/></strong></h3><p>Per il collega, l’amico di sempre o il papà, <strong>scegli qualcosa che rispecchi la sua personalità</strong>: un accessorio elegante per il tempo libero, un set per la cura personale o un gadget originale. Regalare <strong>con gusto</strong> significa conoscere chi hai davanti.<br/><br/></p><h3><strong>Regali uomo per San Valentino o un anniversario da non dimenticare<br/></strong></h3><p>Quando il regalo deve dire qualcosa in più, punta su un pensiero <strong>emozionale e personale</strong>.<br/>Un oggetto personalizzato, un’esperienza da vivere insieme o un dettaglio simbolico diventano il modo migliore per celebrare <strong>l’amore e la complicità</strong>.</p>",
             "link_label": "",
             "link": ""
           }
@@ -397,7 +397,7 @@
           "settings": {
             "image": "shopify://shop_images/San-Valentino-Amore-e-Tenerezza.jpg",
             "title": "",
-            "text": "<p><strong>SAN VALENTINO</strong></p>",
+            "text": "<p>SAN VALENTINO</p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-san-valentino"
           }
@@ -407,7 +407,7 @@
           "settings": {
             "image": "shopify://shop_images/san-valentino-idee-regalo.webp",
             "title": "",
-            "text": "<p><strong>ANNIVERSARIO</strong></p>",
+            "text": "<p>ANNIVERSARIO</p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-sposi"
           }
@@ -417,7 +417,7 @@
           "settings": {
             "image": "shopify://shop_images/wrapping-gifts-compleanno.webp",
             "title": "",
-            "text": "<p><strong>COMPLEANNO</strong></p>",
+            "text": "<p>COMPLEANNO</p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-compleanno"
           }
@@ -427,7 +427,7 @@
           "settings": {
             "image": "shopify://shop_images/Come-scegliere-i-Regali-di-Natale-organizzare-la-tua-Lista_1.webp",
             "title": "",
-            "text": "<p><strong>NATALE</strong></p>",
+            "text": "<p>NATALE</p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-natale"
           }
@@ -466,7 +466,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Non serve spendere una fortuna per fare bella figura: ciò che conta è <strong>l’attenzione con cui scegli</strong>. Ecco alcune idee ordinate per budget, per aiutarti a trovare il giusto equilibrio tra valore e originalità.<br/>Dalle <strong>idee regalo utili</strong> per tutti i giorni, agli oggetti di design, ai <strong>regali originali e personalizzati</strong> per sorprendere con stile: lasciati ispirare e scopri quanto può essere facile scegliere <strong>il regalo perfetto per lui</strong>, anche con un budget contenuto.</p>",
+            "text": "<p>Non serve spendere una fortuna per fare bella figura: ciò che conta è <strong>l’attenzione con cui scegli</strong>. Ecco alcune idee ordinate per budget, per aiutarti a trovare il giusto equilibrio tra valore e originalità.<br/>Che tu stia cercando <strong>un’idea regalo economica per un uomo</strong>, un pensiero sotto i 50€, o un regalo più importante ma sempre accessibile, qui trovi <strong>proposte suddivise per fascia di prezzo</strong>, studiate per aiutarti a trovare il giusto equilibrio tra <strong>valore, gusto e originalità</strong>.<br/>Dalle <strong>idee regalo utili</strong> per tutti i giorni, agli oggetti di design, ai <strong>regali originali e personalizzati</strong> per sorprendere con stile: lasciati ispirare e scopri quanto può essere facile scegliere <strong>il regalo perfetto per lui</strong>, anche con un budget contenuto.</p>",
             "link_label": "",
             "link": ""
           }
@@ -600,7 +600,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -613,29 +613,29 @@
         "column_bRMHqc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/kikkerland-memo-magnets-magneti-per-memo_6e8c0fd6-40ee-4326-831c-a7558d3a1c85.webp",
+            "image": "shopify://shop_images/very-goods-studio-restore-candela-di-colza.jpg",
             "title": "",
-            "text": "<p><strong>LIFESTYLE</strong></p><p>Sempre di corsa, ma con stile.</p>",
+            "text": "<p><strong>CANDELE</strong><br/>Scaldano ambienti (e umori).</p>",
             "link_label": "",
-            "link": "shopify://collections/tempo-libero"
+            "link": "shopify://collections/illuminazione-candelabri-e-candele"
           }
         },
         "column_fjrXxP": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Marinette_c696c502-67c7-4d57-95b8-fa921a0b1d97.webp",
+            "image": "shopify://shop_images/superstuff-idee-uomo.webp",
             "title": "",
-            "text": "<p><strong>MARINETTE</strong></p><p>Per i veri amanti del pisolino!</p>",
+            "text": "<p><strong>SUPERSTUFF</strong></p><p>Oggetti inutilmente irresistibili.</p>",
             "link_label": "",
-            "link": "shopify://collections/marinette-saint-tropez"
+            "link": "shopify://collections/superstuff"
           }
         },
         "column_kJdGya": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/kikkerland-make-your-own-ukulele-crea-il-tuo-ukulele.jpg",
+            "image": "shopify://shop_images/IZIPIZI-occhiali-da-sole-idee-regalo.webp",
             "title": "",
-            "text": "<p><strong>EFFETTO \"WOW\"</strong></p><p>Idee regalo che lasciano il segno.</p>",
+            "text": "<p><strong>IZIPIZI</strong><br/>Proteggono dagli sguardi... e dal troppo buon gusto! </p>",
             "link_label": "",
             "link": "shopify://collections/kikkerland"
           }
@@ -643,31 +643,21 @@
         "column_Ea9f4F": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/egg-white-cocktail.jpg",
+            "image": "shopify://shop_images/Brainwash-Seletti.webp",
             "title": "",
-            "text": "<p><strong>BARTENDER</strong><br/>Creatività servita ghiacciata!</p>",
+            "text": "<h3><strong>SELETTI</strong></h3><p>Regali che non passano inosservati (mai).</p>",
             "link_label": "",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-experimental-cocktail"
-          }
-        },
-        "column_mptEX6": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/telo-mare-mi-devo-calmare-disegnetti-depressetti.png",
-            "title": "",
-            "text": "<p><strong>DISEGNETTI DEPRESSETTI</strong></p><p>L’ironia che <em>(forse)</em> salverà la giornata.</p>",
-            "link_label": "",
-            "link": "shopify://collections/disegnetti-depressetti"
+            "link": "shopify://collections/oggetto-decorativo-regalo-seletti"
           }
         },
         "column_Uj6UcT": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/printwork-chess-clouds-scacchiera-da-tavolo-4.webp",
+            "image": "shopify://shop_images/Bitossi-home-tazze-e-tazzine.webp",
             "title": "",
-            "text": "<p><strong>PRINTWORKS</strong></p><p>idee regalo da ricordare!</p>",
+            "text": "<h3><strong>TÈ & CAFFÈ</strong></h3><p>Rituali quotidiani, gustati con stile.</p>",
             "link_label": "",
-            "link": "shopify://collections/printworks"
+            "link": "shopify://collections/cucina-e-tavola-tazze-tazzine-mug"
           }
         }
       },
@@ -676,7 +666,6 @@
         "column_fjrXxP",
         "column_kJdGya",
         "column_Ea9f4F",
-        "column_mptEX6",
         "column_Uj6UcT"
       ],
       "custom_css": [
@@ -687,12 +676,12 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 16,
