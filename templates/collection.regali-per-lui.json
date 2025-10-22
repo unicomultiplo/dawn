@@ -504,39 +504,18 @@
         "padding_bottom": 0
       }
     },
-    "featured_collection_jaVaFN": {
-      "type": "featured-collection",
-      "disabled": true,
-      "name": "t:sections.featured-collection.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "idee-regalo-economiche",
-        "products_to_show": 25,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "multicolumn_hMt3Yz": {
       "type": "multicolumn",
       "blocks": {
+        "column_a3fNUy": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Non serve spendere una fortuna per fare bella figura: ciò che conta è <strong>l’attenzione con cui scegli</strong>. Ecco alcune idee ordinate per budget, per aiutarti a trovare il giusto equilibrio tra valore e originalità.<br/>Dalle <strong>idee regalo utili</strong> per tutti i giorni, agli oggetti di design, ai <strong>regali originali e personalizzati</strong> per sorprendere con stile: lasciati ispirare e scopri quanto può essere facile scegliere <strong>il regalo perfetto per lui</strong>, anche con un budget contenuto.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_dATfYx": {
           "type": "column",
           "settings": {
@@ -545,24 +524,15 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_a3fNUy": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h2><strong>Idee regalo per lui, suddivise per fascia di prezzo</strong></h2><p><br/>Non serve spendere una fortuna per fare bella figura: ciò che conta è <strong>l’attenzione con cui scegli</strong>. Ecco alcune idee ordinate per budget, per aiutarti a trovare il giusto equilibrio tra valore e originalità.</p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "column_dATfYx",
-        "column_a3fNUy"
+        "column_a3fNUy",
+        "column_dATfYx"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "",
+        "title": "Idee regalo per lui, suddivise per fascia di prezzo",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -571,92 +541,51 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 0,
+        "padding_top": 24,
         "padding_bottom": 0
       }
     },
-    "collection_list_Qm7mgD": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_TyHqnN": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-economiche"
-          }
-        },
-        "featured_collection_ppC7G6": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-regali-sotto-100-euro"
-          }
-        },
-        "featured_collection_y4zVJE": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-regali-sotto-150-euro"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_TyHqnN",
-        "featured_collection_ppC7G6",
-        "featured_collection_y4zVJE"
-      ],
-      "name": "t:sections.collection-list.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_jRHWJ7": {
+    "multicolumn_8GyJR6": {
       "type": "multicolumn",
       "blocks": {
-        "column_EADE49": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Natale-idee-regalo_1.jpg",
-            "title": "",
-            "text": "<p>Piccoli oggetti <strong>intelligenti e creativi</strong>: perfetti per amiche, colleghe o occasioni leggere.<br/><br/><strong>Piccoli gesti, grandi sorrisi →</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/idee-regalo-economiche"
-          }
-        },
-        "column_MqjUkT": {
+        "column_e8kLBb": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Idee-Regalo-Economiche-sotto.webp",
             "title": "",
-            "text": "<p><strong> </strong>Il <strong>compromesso ideale</strong> tra praticità e design: regali che colpiscono senza esagerare.<br/><br/><strong>Equilibrio perfetto →</strong></p>",
+            "text": "<p>Oggetti pensati per la quotidianità, che uniscono <strong>funzionalità e design contemporaneo</strong>. Piccole attenzioni che fanno la differenza.<br/><strong><br/>Regali sotto i 50€ →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-economiche"
+          }
+        },
+        "column_qK8FFJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Regali-a-Meno-di-100.webp",
+            "title": "",
+            "text": "<p>Proposte pensate per chi ama <strong>regalare emozioni e design</strong>, restando in una fascia di prezzo accessibile.<strong> <br/><br/>Regali sotto i 100€ →</strong></p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-regali-sotto-100-euro"
           }
         },
-        "column_FfzVLx": {
+        "column_HxiTxx": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/red-gift-regali-per-lei-1.webp",
+            "image": "shopify://shop_images/Regali-a-Meno-di-150.webp",
             "title": "",
-            "text": "<p>Scelte <strong>raffinate</strong> per momenti speciali: oggetti di design  per chi ama estetica e qualità.<br/><br/><strong>Il valore delle grandi occasioni →</strong></p>",
+            "text": "<p>Accessori lifestyle, complementi d’arredo e pezzi di design selezionati <strong>per chi ama le cose belle</strong>, pratiche e di valore.<strong> <br/><br/>Regali sotto i 150 € →</strong></p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-regali-sotto-150-euro"
           }
         }
       },
       "block_order": [
-        "column_EADE49",
-        "column_MqjUkT",
-        "column_FfzVLx"
+        "column_e8kLBb",
+        "column_qK8FFJ",
+        "column_HxiTxx"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -692,7 +621,7 @@
         "text_4VB6mP": {
           "type": "text",
           "settings": {
-            "text": "Non sempre è facile trovare qualcosa di davvero diverso. Questa sezione è pensata per chi vuole uscire dal cliché e fare un dono che sorprenda davvero. Hai a che fare con una persona che sembra avere tutto? Nessun problema.Abbiamo selezionato <strong>idee regalo creative, esperienziali o simboliche</strong> perfette per stupire anche gli uomini più difficili da sorprendere.",
+            "text": "Non sempre è facile trovare qualcosa di davvero diverso. Questa sezione è pensata per chi vuole uscire dal cliché e fare un dono che sorprenda davvero. <strong>Spunti originali per sorprendere anche chi ha già tutto. </strong>Hai a che fare con una persona che sembra avere tutto? Nessun problema. Abbiamo selezionato <strong>idee regalo creative, esperienziali o simboliche</strong> perfette per stupire anche gli uomini più difficili da sorprendere.",
             "text_style": "body"
           }
         },
@@ -741,10 +670,8 @@
     "multicolumn_nx7Xxp",
     "multicolumn_gzzEF9",
     "multicolumn_LjNpMM",
-    "featured_collection_jaVaFN",
     "multicolumn_hMt3Yz",
-    "collection_list_Qm7mgD",
-    "multicolumn_jRHWJ7",
+    "multicolumn_8GyJR6",
     "image_banner_Y4zkTQ"
   ]
 }
