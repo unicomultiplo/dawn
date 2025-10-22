@@ -657,14 +657,14 @@
         "heading_apWKXJ": {
           "type": "heading",
           "settings": {
-            "heading": "Cerchi ispirazione? Alcune idee regalo per lei fuori dai soliti schemi",
+            "heading": "Cerchi ispirazione? Alcune idee regalo per lui fuori dai soliti schemi",
             "heading_size": "h1"
           }
         },
         "text_4VB6mP": {
           "type": "text",
           "settings": {
-            "text": "A volte serve solo uno spunto per trasformare un pensiero in un’emozione.Se sei indeciso o vuoi stupire con qualcosa di diverso, lasciati ispirare dalle nostre selezioni: regali <strong>originali, ironici, poetici o semplicemente sorprendenti</strong>, perfetti anche per chi sembra già avere tutto.Qui la creatività incontra il design, e ogni oggetto diventa un modo per raccontare affetto e personalità.",
+            "text": "Non sempre è facile trovare qualcosa di davvero diverso. Questa sezione è pensata per chi vuole uscire dal cliché e fare un dono che sorprenda davvero. Hai a che fare con una persona che sembra avere tutto? Nessun problema.Abbiamo selezionato <strong>idee regalo creative, esperienziali o simboliche</strong> perfette per stupire anche gli uomini più difficili da sorprendere.",
             "text_style": "body"
           }
         },
@@ -685,7 +685,6 @@
         "text_4VB6mP",
         "buttons_h43rUr"
       ],
-      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/Regali-a-Meno-di-100-_-1.webp",
