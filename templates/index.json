@@ -258,14 +258,14 @@
         "heading_KpdUcP": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Reisenthel Storage Box</strong>",
+            "heading": "Il profumo del Natale da vivere insieme",
             "heading_size": "h1"
           }
         },
         "text_g7kVVF": {
           "type": "text",
           "settings": {
-            "text": "<p>Le <strong>Storage Box di Reisenthel</strong> uniscono praticità e design: pieghevoli, robuste, traspiranti e belle da vedere. Perfette per il cambio stagione, <strong>ideali tutto l’anno.</strong></p>"
+            "text": "<p>Il Natale è calore, condivisione e piccoli momenti di felicità. Abbiamo trasformato quella sensazione in una fragranza che scalda il cuore e riempie la casa di magia.</p>"
           }
         }
       },
@@ -289,20 +289,20 @@
         "image_jyQnUP": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/reisenthel-scatole-armadio_-_AI_16850822-1bff-45f4-8348-a61e2f039b4b.jpg"
+            "image": "shopify://shop_images/verygoods-candela.jpg"
           }
         },
         "product_eAykWe": {
           "type": "product",
           "settings": {
-            "product": "reisenthel-storage-box-l-scatola-twist-coffee",
+            "product": "very-good-studio-heavy-petal-reed-diffusore-di-fragranza",
             "second_image": false
           }
         },
         "product_BVWfAx": {
           "type": "product",
           "settings": {
-            "product": "reisenthel-storage-box-scatola-bassa-twist-coffee",
+            "product": "very-goods-studio-home-coming-candela-di-colza",
             "second_image": false
           }
         }
