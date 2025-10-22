@@ -397,7 +397,7 @@
           "settings": {
             "image": "shopify://shop_images/San-Valentino-Amore-e-Tenerezza.jpg",
             "title": "",
-            "text": "<p><strong>SAN VALENTINO</strong></p>",
+            "text": "<p>SAN VALENTINO</p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-san-valentino"
           }
@@ -407,7 +407,7 @@
           "settings": {
             "image": "shopify://shop_images/san-valentino-idee-regalo.webp",
             "title": "",
-            "text": "<p><strong>ANNIVERSARIO</strong></p>",
+            "text": "<p>ANNIVERSARIO</p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-sposi"
           }
@@ -417,7 +417,7 @@
           "settings": {
             "image": "shopify://shop_images/Come-scegliere-i-Regali-di-Natale-organizzare-la-tua-Lista_1.webp",
             "title": "",
-            "text": "<p><strong>NATALE</strong></p>",
+            "text": "<p>NATALE</p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-natale"
           }
@@ -427,7 +427,7 @@
           "settings": {
             "image": "shopify://shop_images/wrapping-gifts-compleanno.webp",
             "title": "",
-            "text": "<p><strong>COMPLEANNO</strong></p>",
+            "text": "<p>COMPLEANNO</p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-compleanno"
           }
@@ -437,7 +437,7 @@
           "settings": {
             "image": "shopify://shop_images/damigelle-idee-regalo.webp",
             "title": "",
-            "text": "<p><strong>DAMIGELLE</strong></p>",
+            "text": "<p>DAMIGELLE</p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-economiche"
           }
@@ -595,8 +595,8 @@
           "settings": {
             "image": "shopify://shop_images/Natale-idee-regalo_1.jpg",
             "title": "",
-            "text": "<p><br/>Piccoli oggetti <strong>intelligenti e creativi</strong>: perfetti per amiche, colleghe o occasioni leggere.</p>",
-            "link_label": "Piccoli gesti, grandi sorrisi",
+            "text": "<p>Piccoli oggetti <strong>intelligenti e creativi</strong>: perfetti per amiche, colleghe o occasioni leggere.<br/><br/>Piccoli gesti, grandi sorrisi </p>",
+            "link_label": "",
             "link": "shopify://collections/idee-regalo-economiche"
           }
         },
@@ -605,8 +605,8 @@
           "settings": {
             "image": "shopify://shop_images/Idee-Regalo-Economiche-sotto.webp",
             "title": "",
-            "text": "<p><strong><br/> </strong>Il <strong>compromesso ideale</strong> tra praticità e design: regali che colpiscono senza esagerare.</p>",
-            "link_label": "Equilibrio perfetto",
+            "text": "<p><strong> </strong>Il <strong>compromesso ideale</strong> tra praticità e design: regali che colpiscono senza esagerare.<br/><br/>Equilibrio perfetto<br/><br/></p>",
+            "link_label": "",
             "link": "shopify://collections/idee-regalo-regali-sotto-100-euro"
           }
         },
@@ -615,8 +615,8 @@
           "settings": {
             "image": "shopify://shop_images/red-gift-regali-per-lei-1.webp",
             "title": "",
-            "text": "<p><br/>Scelte <strong>raffinate</strong> per momenti speciali: oggetti di design  per chi ama estetica e qualità.</p>",
-            "link_label": "Il valore delle grandi occasioni",
+            "text": "<p>Scelte <strong>raffinate</strong> per momenti speciali: oggetti di design  per chi ama estetica e qualità.<br/><br/>Il valore delle grandi occasioni<br/><br/></p>",
+            "link_label": "",
             "link": "shopify://collections/idee-regalo-regali-sotto-150-euro"
           }
         }
@@ -625,6 +625,9 @@
         "column_WrDKkn",
         "column_4TknP7",
         "column_eDMtPP"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
