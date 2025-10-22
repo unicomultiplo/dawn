@@ -619,6 +619,66 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_jRHWJ7": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_EADE49": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Natale-idee-regalo_1.jpg",
+            "title": "",
+            "text": "<p>Piccoli oggetti <strong>intelligenti e creativi</strong>: perfetti per amiche, colleghe o occasioni leggere.<br/><br/><strong>Piccoli gesti, grandi sorrisi →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-economiche"
+          }
+        },
+        "column_MqjUkT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Idee-Regalo-Economiche-sotto.webp",
+            "title": "",
+            "text": "<p><strong> </strong>Il <strong>compromesso ideale</strong> tra praticità e design: regali che colpiscono senza esagerare.<br/><br/><strong>Equilibrio perfetto →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-regali-sotto-100-euro"
+          }
+        },
+        "column_FfzVLx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/red-gift-regali-per-lei-1.webp",
+            "title": "",
+            "text": "<p>Scelte <strong>raffinate</strong> per momenti speciali: oggetti di design  per chi ama estetica e qualità.<br/><br/><strong>Il valore delle grandi occasioni →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-regali-sotto-150-euro"
+          }
+        }
+      },
+      "block_order": [
+        "column_EADE49",
+        "column_MqjUkT",
+        "column_FfzVLx"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
     "image_banner_Y4zkTQ": {
       "type": "image-banner",
       "blocks": {
@@ -684,6 +744,7 @@
     "featured_collection_jaVaFN",
     "multicolumn_hMt3Yz",
     "collection_list_Qm7mgD",
+    "multicolumn_jRHWJ7",
     "image_banner_Y4zkTQ"
   ]
 }
