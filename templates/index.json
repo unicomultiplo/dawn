@@ -747,7 +747,7 @@
           "settings": {
             "image": "shopify://shop_images/idee-regalo-economiche-1.png",
             "title": "",
-            "text": "<p>Come scegliere i Regali di Natale? Ecco alcuni consigli</p>",
+            "text": "<p>Come scegliere i Regali di Natale? Ecco alcuni consigli <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista"
           }
@@ -757,7 +757,7 @@
           "settings": {
             "image": "shopify://shop_images/cool-santa-idee-regalo-moglie-amica-fidanzata.png",
             "title": "",
-            "text": "<p>Cosa Regalare per Natale alla Fidanzata, alla Moglie o un'Amica</p>",
+            "text": "<p>Cosa Regalare per Natale alla Fidanzata, alla Moglie o un'Amica <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://blogs/cucina-che-passione/tajine-cibo-e-cultura-in-una-pentola"
           }
@@ -767,7 +767,7 @@
           "settings": {
             "image": "shopify://shop_images/bone-china-curiosita-unico-e-multiplo.jpg",
             "title": "",
-            "text": "<p>Bone China, scopri la Porcellana Più Elegante</p>",
+            "text": "<p>Bone China, scopri la Porcellana Più Elegante <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola"
           }
@@ -777,7 +777,7 @@
           "settings": {
             "image": "shopify://shop_images/knindustrie-abct-padella-wok-diametro-32-cm-bianca-1.jpg",
             "title": "",
-            "text": "<p>Padelle antiaderenti, guida all'acquisto</p>",
+            "text": "<p>Padelle antiaderenti, guida all'acquisto <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://pages/padelle-antiaderenti-guida-completa"
           }
@@ -787,7 +787,7 @@
           "settings": {
             "image": "shopify://shop_images/IMG_1980.webp",
             "title": "",
-            "text": "<p>Consigli per le Tue Bomboniere 2025</p>",
+            "text": "<p>Consigli per le Tue Bomboniere 2025 <strong>→</strong></p>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/pages/bomboniere-brandani"
           }
@@ -812,9 +812,9 @@
         "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "none",
-        "button_label": "Il Blog U&M",
+        "button_label": "Il Blog U&M →",
         "button_link": "shopify://blogs/blog",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
