@@ -459,51 +459,6 @@
         "padding_bottom": 16
       }
     },
-    "multicolumn_LjNpMM": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_wwXbEw": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Scegliere un regalo in base al budget <strong>non significa rinunciare al gusto o alla personalità</strong>.<br/>A volte basta un piccolo pensiero curato nei dettagli per trasmettere affetto, altre volte un dono importante per celebrare un momento speciale.<br/>In ogni fascia di prezzo c’è spazio per creatività, originalità e stile: scopri come sorprendere con equilibrio e senza eccessi.<br/><br/></p><h3><strong>Piccoli pensieri scelti con cura per lei</strong><br/></h3><p>I regali più belli non sempre sono i più costosi.<br/>Un oggetto scelto con cuore e attenzione può diventare un ricordo prezioso.<br/>Scopri <strong>idee regalo accessibili ma ricercate</strong>, perfette per un pensiero affettuoso, un ringraziamento o una sorpresa improvvisa.<br/>Dalle <strong>tazze illustrate e piccoli oggetti di design</strong>, alle <strong>candele profumate e accessori decorativi</strong>, ogni proposta è pensata per dire “ti ho pensata” con semplicità e stile.<br/></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_wJ9JHV": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_wwXbEw",
-        "column_wJ9JHV"
-      ],
-      "disabled": true,
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Idee regalo per lei, per fascia di prezzo",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
     "multicolumn_hMt3Yz": {
       "type": "multicolumn",
       "blocks": {
@@ -605,7 +560,143 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 0,
-        "padding_bottom": 36
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_LjNpMM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_wJ9JHV": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wwXbEw": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Un <strong>regalo economico per uomo</strong> può essere semplice solo nel prezzo, non nell’effetto. L’importante è scegliere un oggetto con <strong>carattere, qualità e un tocco di originalità</strong>, come quelli che trovi nella selezione di <strong>Unico & Multiplo</strong>.<br/>Dalle <strong>fragranze d’ambiente</strong> ai <strong>piccoli oggetti di design</strong>, dagli <strong>accessori da scrivania</strong> ai <strong>dettagli decorativi per la casa</strong>: ogni proposta nasce per essere apprezzata, indipendentemente dal costo.<br/>Regalare bene, infatti, significa <strong>scegliere con gusto e attenzione</strong> ciò che rappresenta chi riceve il dono</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_wJ9JHV",
+        "column_wwXbEw"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Regali economici per lui che fanno comunque una gran figura",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_dNWMPk": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_bRMHqc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/kikkerland-memo-magnets-magneti-per-memo_6e8c0fd6-40ee-4326-831c-a7558d3a1c85.webp",
+            "title": "",
+            "text": "<p><strong>LIFESTYLE</strong></p><p>Sempre di corsa, ma con stile.</p>",
+            "link_label": "",
+            "link": "shopify://collections/tempo-libero"
+          }
+        },
+        "column_fjrXxP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Marinette_c696c502-67c7-4d57-95b8-fa921a0b1d97.webp",
+            "title": "",
+            "text": "<p><strong>MARINETTE</strong></p><p>Per i veri amanti del pisolino!</p>",
+            "link_label": "",
+            "link": "shopify://collections/marinette-saint-tropez"
+          }
+        },
+        "column_kJdGya": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/kikkerland-make-your-own-ukulele-crea-il-tuo-ukulele.jpg",
+            "title": "",
+            "text": "<p><strong>EFFETTO \"WOW\"</strong></p><p>Idee regalo che lasciano il segno.</p>",
+            "link_label": "",
+            "link": "shopify://collections/kikkerland"
+          }
+        },
+        "column_Ea9f4F": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/egg-white-cocktail.jpg",
+            "title": "",
+            "text": "<p><strong>BARTENDER</strong><br/>Creatività servita ghiacciata!</p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-experimental-cocktail"
+          }
+        },
+        "column_mptEX6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/telo-mare-mi-devo-calmare-disegnetti-depressetti.png",
+            "title": "",
+            "text": "<p><strong>DISEGNETTI DEPRESSETTI</strong></p><p>L’ironia che <em>(forse)</em> salverà la giornata.</p>",
+            "link_label": "",
+            "link": "shopify://collections/disegnetti-depressetti"
+          }
+        },
+        "column_Uj6UcT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/printwork-chess-clouds-scacchiera-da-tavolo-4.webp",
+            "title": "",
+            "text": "<p><strong>PRINTWORKS</strong></p><p>idee regalo da ricordare!</p>",
+            "link_label": "",
+            "link": "shopify://collections/printworks"
+          }
+        }
+      },
+      "block_order": [
+        "column_bRMHqc",
+        "column_fjrXxP",
+        "column_kJdGya",
+        "column_Ea9f4F",
+        "column_mptEX6",
+        "column_Uj6UcT"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "image_banner_Y4zkTQ": {
@@ -669,9 +760,10 @@
     "multicolumn_AYtpXd",
     "multicolumn_nx7Xxp",
     "multicolumn_gzzEF9",
-    "multicolumn_LjNpMM",
     "multicolumn_hMt3Yz",
     "multicolumn_8GyJR6",
+    "multicolumn_LjNpMM",
+    "multicolumn_dNWMPk",
     "image_banner_Y4zkTQ"
   ]
 }
