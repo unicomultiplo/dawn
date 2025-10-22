@@ -267,11 +267,23 @@
           "settings": {
             "text": "<p>L'Autunno è calore, condivisione e piccoli momenti di felicità. Abbiamo trasformato quella sensazione in una fragranza che scalda il cuore e riempie la casa di profumo e di magia.</p>"
           }
+        },
+        "button_EJNjYr": {
+          "type": "button",
+          "settings": {
+            "button_label": "Very Goods Studio",
+            "button_link": "shopify://collections/very-goods-studio",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
         "heading_KpdUcP",
-        "text_g7kVVF"
+        "text_g7kVVF",
+        "button_EJNjYr"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
@@ -314,11 +326,10 @@
       ],
       "custom_css": [
         ".media--transparent img {mix-blend-mode: multiply;}",
-        ".media,.card {background-color: var(--product-background-color);}",
-        ".section-template--22267420311817__collage_dNW4nf-padding {position: relative; cursor: pointer;}"
+        ".media,.card {background-color: var(--product-background-color);}"
       ],
       "settings": {
-        "heading": "<a href=\"/collections/very-goods-studio\" title=\"Very Goods Studio\">Very Goods Studio</a>",
+        "heading": "",
         "heading_size": "h1",
         "desktop_layout": "left",
         "mobile_layout": "collage",
