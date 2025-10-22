@@ -595,7 +595,7 @@
           "settings": {
             "image": "shopify://shop_images/Natale-idee-regalo_1.jpg",
             "title": "",
-            "text": "<p>Piccoli oggetti <strong>intelligenti e creativi</strong>: perfetti per amiche, colleghe o occasioni leggere.<br/><br/>Piccoli gesti, grandi sorrisi </p>",
+            "text": "<p>Piccoli oggetti <strong>intelligenti e creativi</strong>: perfetti per amiche, colleghe o occasioni leggere.<br/><br/><strong>Piccoli gesti, grandi sorrisi →</strong></p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-economiche"
           }
@@ -605,7 +605,7 @@
           "settings": {
             "image": "shopify://shop_images/Idee-Regalo-Economiche-sotto.webp",
             "title": "",
-            "text": "<p><strong> </strong>Il <strong>compromesso ideale</strong> tra praticità e design: regali che colpiscono senza esagerare.<br/><br/>Equilibrio perfetto<br/><br/></p>",
+            "text": "<p><strong> </strong>Il <strong>compromesso ideale</strong> tra praticità e design: regali che colpiscono senza esagerare.<br/><br/><strong>Equilibrio perfetto →</strong></p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-regali-sotto-100-euro"
           }
@@ -615,7 +615,7 @@
           "settings": {
             "image": "shopify://shop_images/red-gift-regali-per-lei-1.webp",
             "title": "",
-            "text": "<p>Scelte <strong>raffinate</strong> per momenti speciali: oggetti di design  per chi ama estetica e qualità.<br/><br/>Il valore delle grandi occasioni<br/><br/></p>",
+            "text": "<p>Scelte <strong>raffinate</strong> per momenti speciali: oggetti di design  per chi ama estetica e qualità.<br/><br/><strong>Il valore delle grandi occasioni →</strong></p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-regali-sotto-150-euro"
           }
