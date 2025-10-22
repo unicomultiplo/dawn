@@ -179,7 +179,7 @@
         "column_XrjaiE": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi-16.png",
+            "image": "shopify://shop_images/bitossi-home-novita_2_31ea4ec4-a00c-48fa-b572-94a64078ca2b.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -193,7 +193,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/products/brabantia-make-take-borraccia-termica-da-0-5-l"
+            "link": "shopify://products/seletti-pixel-mirror-specchio-con-cornice-in-mdf-heart"
           }
         },
         "column_RUzwg4": {
@@ -203,16 +203,16 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/complementi-arredo-bagno"
+            "link": "shopify://collections/marinette-saint-tropez"
           }
         },
         "column_qimwBB": {
           "type": "column",
           "settings": {
             "title": "<strong>Daily Reset</strong>",
-            "text": "<p>Porta <strong>leggerezza e armonia nel ritorno </strong>alla routine con accessori smart che uniscono <strong>funzionalità e cura di sé</strong>, dalla cucina alla scrivania fino al bagno.</p>",
+            "text": "<p>Riscopri il piacere della routine <strong>autunnale</strong> con accessori che<strong> scaldano la casa,</strong> ispirano il lavoro e regalano momenti di <strong>puro benessere.</strong></p>",
             "link_label": "VEDI ORA",
-            "link": "https://www.unicoemultiplo.com/collections/brabantia"
+            "link": "shopify://collections/complementi-arredo"
           }
         }
       },
@@ -230,7 +230,7 @@
         ".multicolumn-list__item:last-child .multicolumn-card__info {display: flex; flex-direction: column;}"
       ],
       "settings": {
-        "title": "Calore, Colore, Comfort",
+        "title": "Autunno: Calore, Colore, Comfort",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
@@ -239,7 +239,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 0,
@@ -258,14 +258,14 @@
         "heading_KpdUcP": {
           "type": "heading",
           "settings": {
-            "heading": "Il profumo del Natale da vivere insieme",
+            "heading": "Il profumo dell'Autunno da vivere insieme",
             "heading_size": "h1"
           }
         },
         "text_g7kVVF": {
           "type": "text",
           "settings": {
-            "text": "<p>Il Natale è calore, condivisione e piccoli momenti di felicità. Abbiamo trasformato quella sensazione in una fragranza che scalda il cuore e riempie la casa di magia.</p>"
+            "text": "<p>L'Autunno è calore, condivisione e piccoli momenti di felicità. Abbiamo trasformato quella sensazione in una fragranza che scalda il cuore e riempie la casa di profumo e di magia.</p>"
           }
         }
       },
