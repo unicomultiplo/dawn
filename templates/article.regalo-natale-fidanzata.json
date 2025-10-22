@@ -711,6 +711,18 @@
             "collection": "idee-regalo-regali-per-lei"
           }
         },
+        "featured_collection_3XhTTC": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-san-valentino"
+          }
+        },
+        "featured_collection_zaWm69": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-natale"
+          }
+        },
         "featured_collection_MT4zTL": {
           "type": "featured_collection",
           "settings": {
@@ -728,27 +740,22 @@
           "settings": {
             "collection": "idee-regalo-regali-sotto-150-euro"
           }
-        },
-        "featured_collection_zaWm69": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-natale"
-          }
         }
       },
       "block_order": [
         "featured_collection_nn6W9C",
+        "featured_collection_3XhTTC",
+        "featured_collection_zaWm69",
         "featured_collection_MT4zTL",
         "featured_collection_fcTinQ",
-        "featured_collection_DDw6cn",
-        "featured_collection_zaWm69"
+        "featured_collection_DDw6cn"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "2",
