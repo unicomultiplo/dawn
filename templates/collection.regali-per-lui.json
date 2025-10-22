@@ -253,33 +253,96 @@
         "padding_bottom": 0
       }
     },
-    "featured_collection_GhNmpq": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
+    "multicolumn_AYtpXd": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_kWrcdV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/kikkerland-memo-magnets-magneti-per-memo_6e8c0fd6-40ee-4326-831c-a7558d3a1c85.webp",
+            "title": "",
+            "text": "<p><strong>LIFESTYLE</strong></p><p>Sempre di corsa, ma con stile.</p>",
+            "link_label": "",
+            "link": "shopify://collections/tempo-libero"
+          }
+        },
+        "column_TWqyNA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Marinette_c696c502-67c7-4d57-95b8-fa921a0b1d97.webp",
+            "title": "",
+            "text": "<p><strong>MARINETTE</strong></p><p>Per i veri amanti del pisolino!</p>",
+            "link_label": "",
+            "link": "shopify://collections/marinette-saint-tropez"
+          }
+        },
+        "column_pwpce8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/kikkerland-make-your-own-ukulele-crea-il-tuo-ukulele.jpg",
+            "title": "",
+            "text": "<p><strong>EFFETTO \"WOW\"</strong></p><p>Idee regalo che lasciano il segno.</p>",
+            "link_label": "",
+            "link": "shopify://collections/kikkerland"
+          }
+        },
+        "column_9FBxwU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/egg-white-cocktail.jpg",
+            "title": "",
+            "text": "<p><strong>BARTENDER</strong><br/>Creatività servita ghiacciata!</p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-experimental-cocktail"
+          }
+        },
+        "column_dBWiUb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/telo-mare-mi-devo-calmare-disegnetti-depressetti.png",
+            "title": "",
+            "text": "<p><strong>DISEGNETTI DEPRESSETTI</strong></p><p>L’ironia che <em>(forse)</em> salverà la giornata.</p>",
+            "link_label": "",
+            "link": "shopify://collections/disegnetti-depressetti"
+          }
+        },
+        "column_xRN3iJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/printwork-chess-clouds-scacchiera-da-tavolo-4.webp",
+            "title": "",
+            "text": "<p><strong>PRINTWORKS</strong></p><p>idee regalo da ricordare!</p>",
+            "link_label": "",
+            "link": "shopify://collections/printworks"
+          }
+        }
+      },
+      "block_order": [
+        "column_kWrcdV",
+        "column_TWqyNA",
+        "column_pwpce8",
+        "column_9FBxwU",
+        "column_dBWiUb",
+        "column_xRN3iJ"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
       "settings": {
         "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "kikkerland",
-        "products_to_show": 15,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "scheme-1",
+        "heading_size": "h2",
+        "image_width": "full",
         "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "image_with_text_KGfyjb": {
@@ -329,99 +392,6 @@
         "mobile_content_alignment": "left",
         "padding_top": 0,
         "padding_bottom": 36
-      }
-    },
-    "multicolumn_AYtpXd": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_kWrcdV": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/kikkerland-memo-magnets-magneti-per-memo_6e8c0fd6-40ee-4326-831c-a7558d3a1c85.webp",
-            "title": "",
-            "text": "<p><strong>LIFESTYLE</strong></p><p>Sempre di corsa, ma con stile.</p>",
-            "link_label": "",
-            "link": "shopify://collections/tempo-libero"
-          }
-        },
-        "column_TWqyNA": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/marinette-saint-tropez-plaid-pisolino-10.webp",
-            "title": "",
-            "text": "<p><strong>MARINETTE</strong></p><p>Per le vere amanti del pisolino!</p>",
-            "link_label": "",
-            "link": "shopify://collections/marinette-saint-tropez"
-          }
-        },
-        "column_pwpce8": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/kikkerland-decorate-your-own-cup-kit-kit-decora-la-tua-tazza_1.webp",
-            "title": "",
-            "text": "<p><strong>EFFETTO \"WOW\"</strong></p><p>Idee regalo che lasciano il segno.</p>",
-            "link_label": "",
-            "link": "shopify://collections/kikkerland"
-          }
-        },
-        "column_9FBxwU": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Doiy-design-scatola_6fad84bf-3209-4700-8a2a-a9fe73f2a740.webp",
-            "title": "",
-            "text": "<p><strong>COLOUR LOVER</strong></p><p>Design pop e ironico, a tutta cromia!</p>",
-            "link_label": "",
-            "link": "shopify://collections/doiy"
-          }
-        },
-        "column_dBWiUb": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Disegnetti-depressetti-portachiavi-AI.jpg",
-            "title": "",
-            "text": "<p><strong>DISEGNETTI DEPRESSETTI</strong></p><p>L’ironia che <em>(forse)</em> salverà la giornata.</p>",
-            "link_label": "",
-            "link": "shopify://collections/disegnetti-depressetti"
-          }
-        },
-        "column_xRN3iJ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/printwork-happily-ever-after-album-fotp-1.webp",
-            "title": "",
-            "text": "<p><strong>PRINTWORKS</strong></p><p>idee regalo da ricordare!</p>",
-            "link_label": "",
-            "link": "shopify://collections/printworks"
-          }
-        }
-      },
-      "block_order": [
-        "column_kWrcdV",
-        "column_TWqyNA",
-        "column_pwpce8",
-        "column_9FBxwU",
-        "column_dBWiUb",
-        "column_xRN3iJ"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 16,
-        "padding_bottom": 16
       }
     },
     "multicolumn_nx7Xxp": {
@@ -802,9 +772,8 @@
     "multicolumn_nEp8EE",
     "image_with_text_bkAqWb",
     "image_with_text_berWQ6",
-    "featured_collection_GhNmpq",
-    "image_with_text_KGfyjb",
     "multicolumn_AYtpXd",
+    "image_with_text_KGfyjb",
     "multicolumn_nx7Xxp",
     "multicolumn_gzzEF9",
     "multicolumn_LjNpMM",
