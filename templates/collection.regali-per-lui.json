@@ -345,55 +345,6 @@
         "padding_bottom": 16
       }
     },
-    "image_with_text_KGfyjb": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_KyPfWQ": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_LWe9UV": {
-          "type": "text",
-          "settings": {
-            "text": "<h3><strong>Idee regalo per la casa e la cucina adatte al suo stile di vita</strong></h3><p>Per le donne che amano vivere la casa con stile, il regalo perfetto è <strong>bello, funzionale e curato nei dettagli</strong>.<br/>Scopri proposte per la cucina, la tavola e il living: oggetti che accompagnano i gesti di ogni giorno e trasformano la routine in piacere.</p><h3><strong>Cosa regalare alla suocera, alla cognata o alla zia senza essere banali</strong></h3><p>Trovare il giusto equilibrio tra eleganza e simpatia non è facile, ma ci sono idee che mettono tutti d’accordo.<br/>Punta su <strong>soluzioni raffinate, intelligenti o ironiche</strong>, che sanno adattarsi a ogni personalità e occasione: dal piccolo complemento decorativo a un accessorio utile e di design.<br/><br/></p>",
-            "text_style": "body"
-          }
-        },
-        "button_azT8cf": {
-          "type": "button",
-          "settings": {
-            "button_label": "Scopri la collezione Idee Regalo per Casa e Cucina",
-            "button_link": "shopify://collections/idee-regalo-per-casa-e-cucina",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_KyPfWQ",
-        "text_LWe9UV",
-        "button_azT8cf"
-      ],
-      "disabled": true,
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/idee-regalo-per-lei-casa-cucina.webp",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn_nx7Xxp": {
       "type": "multicolumn",
       "blocks": {
@@ -410,7 +361,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Ogni evento ha il suo dono ideale: dai momenti romantici alle grandi ricorrenze.<br/>Che si tratti di <strong>un anniversario, un compleanno o una cerimonia</strong>, qui trovi spunti per celebrare ogni tappa della sua storia con gusto e originalità.</p><h3><br/><strong>Regalo per fidanzata o moglie, tra emozione e design<br/></strong></h3><p>Romantico sì, ma mai banale! Scegli tra <strong>idee che raccontano amore con stile</strong>: oggetti di design, accessori eleganti o piccoli gesti simbolici che fanno emozionare.<br/>Regali che uniscono cuore ed estetica, perfetti per chi ama <strong>sorprendere con raffinatezza</strong>.</p><h3><br/><strong>Idee regalo compleanno donna per ogni età e personalità<br/></strong></h3><p>Ogni compleanno merita un’idea su misura: per la ragazza piena di energia, la donna elegante o la creativa sempre in movimento. Dalle proposte più ironiche a quelle raffinate, troverai <strong>regali che rispecchiano la sua personalità</strong>.<br/></p><h3><br/><strong>Regali per damigelle, testimoni e amiche per l’addio al nubilato<br/></strong></h3><p>Piccoli pensieri coordinati per ringraziare chi condivide con lei momenti unici.<strong> Oggetti simbolici, divertenti o utili </strong>che restano come ricordo di un giorno speciale.<br/></p>",
+            "text": "<p>Ogni momento importante merita un pensiero costruito su misura. Che sia una <strong>ricorrenza romantica</strong> o un <strong>evento da festeggiare</strong>, un regalo ben scelto diventa un ricordo.</p><h3><strong><br/>Regalo per fidanzata o moglie, tra emozione e design<br/></strong></h3><p>Romantico sì, ma mai banale! Scegli tra <strong>idee che raccontano amore con stile</strong>: oggetti di design, accessori eleganti o piccoli gesti simbolici che fanno emozionare.<br/>Regali che uniscono cuore ed estetica, perfetti per chi ama <strong>sorprendere con raffinatezza</strong>.</p><h3><br/><strong>Idee regalo compleanno donna per ogni età e personalità<br/></strong></h3><p>Ogni compleanno merita un’idea su misura: per la ragazza piena di energia, la donna elegante o la creativa sempre in movimento. Dalle proposte più ironiche a quelle raffinate, troverai <strong>regali che rispecchiano la sua personalità</strong>.<br/></p><h3><br/><strong>Regali per damigelle, testimoni e amiche per l’addio al nubilato<br/></strong></h3><p>Piccoli pensieri coordinati per ringraziare chi condivide con lei momenti unici.<strong> Oggetti simbolici, divertenti o utili </strong>che restano come ricordo di un giorno speciale.<br/></p>",
             "link_label": "",
             "link": ""
           }
@@ -420,10 +371,9 @@
         "column_xNGhAX",
         "column_kjXNnf"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Idee regalo pensate su misura per lei",
+        "title": "Idee regalo per lui adatte a ogni occasione",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -462,16 +412,6 @@
             "link": "shopify://collections/idee-regalo-sposi"
           }
         },
-        "column_xj8dtt": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Come-scegliere-i-Regali-di-Natale-organizzare-la-tua-Lista_1.webp",
-            "title": "",
-            "text": "<p><strong>NATALE</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/idee-regalo-natale"
-          }
-        },
         "column_UDxhRD": {
           "type": "column",
           "settings": {
@@ -482,25 +422,23 @@
             "link": "shopify://collections/idee-regalo-compleanno"
           }
         },
-        "column_C76yDx": {
+        "column_xj8dtt": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/damigelle-idee-regalo.webp",
+            "image": "shopify://shop_images/Come-scegliere-i-Regali-di-Natale-organizzare-la-tua-Lista_1.webp",
             "title": "",
-            "text": "<p><strong>DAMIGELLE</strong></p>",
+            "text": "<p><strong>NATALE</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/idee-regalo-economiche"
+            "link": "shopify://collections/idee-regalo-natale"
           }
         }
       },
       "block_order": [
         "column_3TqetN",
         "column_kHGzxE",
-        "column_xj8dtt",
         "column_UDxhRD",
-        "column_C76yDx"
+        "column_xj8dtt"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -509,7 +447,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
@@ -773,7 +711,6 @@
     "image_with_text_bkAqWb",
     "image_with_text_berWQ6",
     "multicolumn_AYtpXd",
-    "image_with_text_KGfyjb",
     "multicolumn_nx7Xxp",
     "multicolumn_gzzEF9",
     "multicolumn_LjNpMM",
