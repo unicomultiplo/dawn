@@ -13,10 +13,10 @@
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "",
+        "custom_liquid": "<section class=\"page-width\">\n<h1>{{ collection.title }}</h1>\n</div>\n</section>",
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "custom_liquid_V4d3KX": {
