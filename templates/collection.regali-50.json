@@ -76,6 +76,7 @@
         "column_gM9GAP",
         "column_qUMMa4"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Regali di Natale per ogni persona speciale",
@@ -132,6 +133,7 @@
         "column_De6nq7",
         "column_3D8fEh"
       ],
+      "disabled": true,
       "custom_css": [
         ".link {color: rgb(var(--color-link)); text-decoration: underline; font-weight: 500; transition: color 0.2s;}",
         ".link:hover {color: rgb(var(--color-link-hover));}",
@@ -183,6 +185,7 @@
         "column_dxLePV",
         "column_Agkdkj"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Le Proposte di Natale dei Brand più Ionici",
@@ -203,6 +206,7 @@
     },
     "custom_liquid_zX3hKP": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
         "custom_liquid": "<div class=\"collection-list-wrapper page-width\"> <div class=\"title-wrapper-with-link\"> <h3 class=\"title h3\"><strong>Oggettistica di Design per Stupire e Ispirare</strong></h3> </div> <div class=\"rte\"> <p> Un regalo di Natale di design è un pensiero che parla di gusto, personalità e ricerca estetica. <strong>Le collezioni di Seletti, Bitossi, knIndustrie e Brandani</strong> reinterpretano l’atmosfera natalizia con ironia e raffinatezza, offrendo oggetti decorativi e funzionali che non passano inosservati.\n<strong>Dalle sculture pop e colorate ai complementi d’arredo più sofisticati,</strong>  ogni proposta diventa un’idea regalo originale per sorprendere chi ama lo stile e la creatività. Perfetti per donare un tocco artistico alla casa o per stupire con un regalo che unisce estetica e design, questi oggetti rappresentano l’<strong>essenza del Natale contemporaneo</strong>. </p> </div> </div>",
@@ -250,6 +254,7 @@
         "column_eWhFdX",
         "column_7376Y9"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -273,6 +278,7 @@
     },
     "custom_liquid_7bEyFU": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
         "custom_liquid": "<div class=\"collection-list-wrapper page-width\"> <div class=\"title-wrapper-with-link\"> <h3 class=\"title h3\"><strong>Idee Regalo Utili e Creative per  la Tavola e la Cucina</strong></h3> </div> <div class=\"rte\"> <p> La tavola delle feste è il cuore del Natale: un momento di condivisione e calore da celebrare con oggetti belli e funzionali. <strong>Le collezioni di Joseph Joseph, Brandani, Brabantia e Doiy offrono idee regalo originali che uniscono design e praticità.</strong> Dagli utensili intelligenti e salvaspazio ai complementi per la tavola dal gusto italiano, fino agli accessori ironici e contemporanei, ogni proposta porta stile e creatività in cucina. \n</br>\n<strong>Regali utili, di qualità e perfetti per sorprendere chi ama la casa</strong> e la convivialità con un tocco di design.</p> </div> </div>",
@@ -331,6 +337,7 @@
         "column_aQqci4",
         "column_rEmaep"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -378,6 +385,7 @@
         "column_8mJ44f",
         "column_YeKzQN"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Idee regalo di Natale economiche ma d’effetto",
@@ -457,6 +465,7 @@
         "column_jHRm4f",
         "column_qjrWV7"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -503,6 +512,7 @@
         "column_dnfNBE",
         "column_DiwW7x"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Consigli per rendere speciale il Natale, il tuo e quello di chi ami",
@@ -563,6 +573,7 @@
         "row_9NQAgr",
         "row_Xn6UJn"
       ],
+      "disabled": true,
       "name": "t:sections.multirow.presets.name",
       "settings": {
         "image_height": "small",
