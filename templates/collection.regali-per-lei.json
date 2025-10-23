@@ -530,39 +530,49 @@
         "column_BDT8cY": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/superstuff-idee-uomo.webp",
+            "image": "shopify://shop_images/seletti-superfurniture-specchio-da-bagno-supermirror-terrazzo.jpg",
             "title": "",
-            "text": "<p><strong>SUPERSTUFF</strong></p><p>Oggetti inutilmente irresistibili.</p>",
+            "text": "<p><strong>SPECCHI</strong></p><p>Lei che sa già quanto vale (ma ami ricordarglielo).</p>",
             "link_label": "",
-            "link": "shopify://collections/superstuff"
+            "link": "shopify://collections/complementi-arredo-specchi-da-parete"
           }
         },
         "column_iXnLgd": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/IZIPIZI-occhiali-da-sole-idee-regalo.webp",
+            "image": "shopify://shop_images/Alzata_in_vetro_arancio_mood_1.webp",
             "title": "",
-            "text": "<p><strong>IZIPIZI</strong><br/>Proteggono dagli sguardi... e dal troppo buon gusto! </p>",
+            "text": "<p><strong>CENTROTAVOLA E ALZATE</strong><br/>Il centro dell’attenzione, sempre.</p>",
             "link_label": "",
-            "link": "shopify://collections/kikkerland"
+            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
+          }
+        },
+        "column_BqDxQq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/5245-kintsugi-vase-medium-vaso.webp",
+            "title": "",
+            "text": "<p><strong>VASI</strong><br/>Scuse perfette per comprarle fiori.</p>",
+            "link_label": "",
+            "link": "shopify://collections/complementi-arredo-vasi"
           }
         },
         "column_ytJUPY": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Brainwash-Seletti.webp",
+            "image": "shopify://shop_images/knindustrie-oliera-acetiera-3.jpg",
             "title": "",
-            "text": "<h3><strong>SELETTI</strong></h3><p>Regali che non passano inosservati (mai).</p>",
+            "text": "<p><strong>OLIERE</strong><br/>Gocce di stile in ogni piatto.</p>",
             "link_label": "",
-            "link": "shopify://collections/oggetto-decorativo-regalo-seletti"
+            "link": "shopify://collections/cucina-e-tavola-set-olio-aceto-sale-pepe"
           }
         },
         "column_mUGNbc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Piatti_Classics_on_Acid-Seletti.jpg",
+            "image": "shopify://shop_images/Bitossi-home-tazze-e-tazzine.webp",
             "title": "",
-            "text": "<h3><strong>TÈ & CAFFÈ</strong></h3><p>Rituali quotidiani, gustati con stile.</p>",
+            "text": "<h3><strong>TÈ & CAFFÈ</strong></h3><p>Sveglia il suo sorriso, una tazza alla volta.</p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-tazze-tazzine-mug"
           }
@@ -572,6 +582,7 @@
         "column_Qg4ntg",
         "column_BDT8cY",
         "column_iXnLgd",
+        "column_BqDxQq",
         "column_ytJUPY",
         "column_mUGNbc"
       ],
@@ -583,13 +594,13 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-2",
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 16,
         "padding_bottom": 16
