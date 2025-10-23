@@ -178,7 +178,7 @@
           "type": "button",
           "settings": {
             "button_label": "Scopri i Nostri  Consigli",
-            "button_link": "shopify://blogs/regalare-per-stupire",
+            "button_link": "shopify://blogs/regalare-per-stupire/cosa-regalare-per-natale-alla-fidanzata-alla-moglie-o-unamica",
             "button_style_secondary": true
           }
         }
@@ -514,33 +514,85 @@
         "padding_bottom": 0
       }
     },
-    "featured_collection_jaVaFN": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
+    "multicolumn_TUCLxM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Qg4ntg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/verygoods-candela-1.jpg",
+            "title": "",
+            "text": "<p><strong>CANDELE</strong><br/>Accendono atmosfere (e sorrisi)</p>",
+            "link_label": "",
+            "link": "shopify://collections/illuminazione-candelabri-e-candele"
+          }
+        },
+        "column_BDT8cY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/superstuff-idee-uomo.webp",
+            "title": "",
+            "text": "<p><strong>SUPERSTUFF</strong></p><p>Oggetti inutilmente irresistibili.</p>",
+            "link_label": "",
+            "link": "shopify://collections/superstuff"
+          }
+        },
+        "column_iXnLgd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IZIPIZI-occhiali-da-sole-idee-regalo.webp",
+            "title": "",
+            "text": "<p><strong>IZIPIZI</strong><br/>Proteggono dagli sguardi... e dal troppo buon gusto! </p>",
+            "link_label": "",
+            "link": "shopify://collections/kikkerland"
+          }
+        },
+        "column_ytJUPY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brainwash-Seletti.webp",
+            "title": "",
+            "text": "<h3><strong>SELETTI</strong></h3><p>Regali che non passano inosservati (mai).</p>",
+            "link_label": "",
+            "link": "shopify://collections/oggetto-decorativo-regalo-seletti"
+          }
+        },
+        "column_mUGNbc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Piatti_Classics_on_Acid-Seletti.jpg",
+            "title": "",
+            "text": "<h3><strong>TÈ & CAFFÈ</strong></h3><p>Rituali quotidiani, gustati con stile.</p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-tazze-tazzine-mug"
+          }
+        }
+      },
+      "block_order": [
+        "column_Qg4ntg",
+        "column_BDT8cY",
+        "column_iXnLgd",
+        "column_ytJUPY",
+        "column_mUGNbc"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
       "settings": {
         "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "idee-regalo-economiche",
-        "products_to_show": 25,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "",
+        "heading_size": "h2",
+        "image_width": "full",
         "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "multicolumn_hMt3Yz": {
@@ -709,7 +761,7 @@
     "multicolumn_nx7Xxp",
     "multicolumn_gzzEF9",
     "multicolumn_LjNpMM",
-    "featured_collection_jaVaFN",
+    "multicolumn_TUCLxM",
     "multicolumn_hMt3Yz",
     "multicolumn_DYHtJg",
     "image_banner_Y4zkTQ"
