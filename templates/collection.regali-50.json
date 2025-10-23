@@ -1,0 +1,600 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        "a {color: #598db2;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
+      }
+    },
+    "custom_liquid_YVhqVc": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Natale\">\n  <nav class=\"xmas-quick-links\">\n    <a href=\"https://www.unicoemultiplo.com/collections/seletti-natale\" class=\"button button--primary button--small\">Natale con Seletti</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/bitossi-home-natale\" class=\"button button--primary button--small\">Natale con Bitossi</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/knindustrie\" class=\"button button--primary button--small\">Natale con KnIndustrie</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-economiche\" class=\"button button--primary button--small\">Idee regalo sotto 50€</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-sotto-100-euro\" class=\"button button--primary button--small\">Idee regalo sotto 100€</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-sotto-150-euro\" class=\"button button--primary button--small\">Idee regalo sotto 150€</a>\n  </nav>\n</div>\n\n<style>\n  .xmas-quick-links {\n    display:flex;\n    flex-wrap:wrap;\n    gap:.5rem;\n    margin:.5rem 0 1rem;\n  }\n  /* Optional: bottoni a tutta larghezza su mobile */\n  @media (max-width: 749px) {\n    .xmas-quick-links a {\n      width: 100%;\n      justify-content: center;\n    }\n  }\n</style>",
+        "color_scheme": "scheme-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 36,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "none",
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_jEaAiD": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gM9GAP": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qUMMa4": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Il regalo giusto parla di chi lo riceve. Pensa ai suoi gusti, ai piccoli rituali, a ciò che lo fa sorridere: qui trovi idee pensate <strong>su misura</strong>, per sorprendere con qualcosa che racconta attenzione vera.<br/>Che tu stia cercando un’idea elegante, utile o semplicemente capace di strappare un sorriso, qui trovi <strong>proposte su misura per ogni persona speciale</strong> della tua vita — da chi ami ogni giorno a chi non ti aspetti di stupire.<br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_gM9GAP",
+        "column_qUMMa4"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Regali di Natale per ogni persona speciale",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_ijxfDd": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gVDYNL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/red-gift-regali-per-lei.jpg",
+            "title": "",
+            "text": "<h3><strong><br/>Sorprese natalizie per lei<br/></strong></h3><p><br/>Per lei, il regalo perfetto è quello che emoziona e parla di unicità.<br/>Dai <strong>dettagli per la casa</strong> che illuminano ogni stanza agli <strong>oggetti di design per la tavola e la cucina</strong>, ogni scelta è pensata per unire bellezza e funzionalità.<br/><br/>Che sia la compagna, la mamma, la sorella o un’amica speciale, qui troverai l’idea giusta per rendere il suo Natale indimenticabile. Ispirazioni uniche per ogni tipo di donna!<br/><br/></p>",
+            "link_label": "Idee per Lei",
+            "link": "shopify://collections/idee-regalo-regali-per-lei"
+          }
+        },
+        "column_De6nq7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/teal-gift-idee-regalo.png",
+            "title": "",
+            "text": "<h3><strong><br/>Idee Regalo dedicate a lui<br/></strong></h3><p><br/>Per lui, l’idea giusta è quella che sorprende con semplicità e carattere. Scegli tra <strong>accessori per il tempo libero</strong>,  idee per la casa o per l’ufficio: ogni articolo è pensato per chi ama oggetti pratici, intelligenti e con personalità.<br/><br/>Che tu stia cercando <strong>idee regalo per il fidanzato</strong>, un <strong>regalo originale per un amico</strong>, o un pensiero speciale per il <strong>marito, il fratello o il suocero</strong>, qui trovi spunti per un dono che lascia il segno.<br/><br/></p>",
+            "link_label": "Idee per Lui",
+            "link": "shopify://collections/idee-regalo-regali-per-lui"
+          }
+        },
+        "column_3D8fEh": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_gVDYNL",
+        "column_De6nq7",
+        "column_3D8fEh"
+      ],
+      "custom_css": [
+        ".link {color: rgb(var(--color-link)); text-decoration: underline; font-weight: 500; transition: color 0.2s;}",
+        ".link:hover {color: rgb(var(--color-link-hover));}",
+        ".animate-arrow .icon-wrap {display: inline-block; transition: transform 0.2s; margin-left: 0.25rem;}",
+        ".animate-arrow:hover .icon-wrap {transform: translateX(4px);}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_D3LPdN": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_dxLePV": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Quando il <strong>Natale si avvicina</strong>, scegliere un regalo diventa un modo per raccontare qualcosa di sé e per celebrare le persone che amiamo. Le proposte dei<strong> brand più iconici </strong>trasformano il gesto del dono in un’esperienza di stile: eleganza, estetica raffinata e qualità si fondono in oggetti che<strong> sanno emozionare</strong>.<br/>Dai dettagli curati alle finiture pregiate, ogni creazione è pensata per chi desidera un Natale fatto di <strong>bellezza, armonia e design</strong>. Scopri collezioni esclusive che uniscono tradizione e contemporaneità, per un <strong>regalo </strong>capace di<strong> distinguersi e lasciare il segno</strong>.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Agkdkj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/idee-regalo-natale-2025-unico-e-multiplo.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_dxLePV",
+        "column_Agkdkj"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Le Proposte di Natale dei Brand più Ionici",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_zX3hKP": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div class=\"collection-list-wrapper page-width\"> <div class=\"title-wrapper-with-link\"> <h3 class=\"title h3\"><strong>Oggettistica di Design per Stupire e Ispirare</strong></h3> </div> <div class=\"rte\"> <p> Un regalo di Natale di design è un pensiero che parla di gusto, personalità e ricerca estetica. <strong>Le collezioni di Seletti, Bitossi, knIndustrie e Brandani</strong> reinterpretano l’atmosfera natalizia con ironia e raffinatezza, offrendo oggetti decorativi e funzionali che non passano inosservati.\n<strong>Dalle sculture pop e colorate ai complementi d’arredo più sofisticati,</strong>  ogni proposta diventa un’idea regalo originale per sorprendere chi ama lo stile e la creatività. Perfetti per donare un tocco artistico alla casa o per stupire con un regalo che unisce estetica e design, questi oggetti rappresentano l’<strong>essenza del Natale contemporaneo</strong>. </p> </div> </div>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_XzNAAH": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3weYLE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-natale-idee-regalo.webp",
+            "title": "",
+            "text": "<p><strong>Idee Regalo Bitossi Home</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/bitossi-home/?#shopify-section-template--24628389380361__multicolumn_Webjiz"
+          }
+        },
+        "column_eWhFdX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-natale-christmas-gift-idee-regalo.webp",
+            "title": "",
+            "text": "<p><strong>Idee Regalo Seletti</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_qftGfx"
+          }
+        },
+        "column_7376Y9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/k7_beatrice_rossetti-knindustrie-idee-natale.webp",
+            "title": "",
+            "text": "<p><strong>Idee Regalo KnIndustrie</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/knindustrie/?#shopify-section-template--25423978430729__multicolumn_gaht3W"
+          }
+        }
+      },
+      "block_order": [
+        "column_3weYLE",
+        "column_eWhFdX",
+        "column_7376Y9"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "custom_liquid_7bEyFU": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div class=\"collection-list-wrapper page-width\"> <div class=\"title-wrapper-with-link\"> <h3 class=\"title h3\"><strong>Idee Regalo Utili e Creative per  la Tavola e la Cucina</strong></h3> </div> <div class=\"rte\"> <p> La tavola delle feste è il cuore del Natale: un momento di condivisione e calore da celebrare con oggetti belli e funzionali. <strong>Le collezioni di Joseph Joseph, Brandani, Brabantia e Doiy offrono idee regalo originali che uniscono design e praticità.</strong> Dagli utensili intelligenti e salvaspazio ai complementi per la tavola dal gusto italiano, fino agli accessori ironici e contemporanei, ogni proposta porta stile e creatività in cucina. \n</br>\n<strong>Regali utili, di qualità e perfetti per sorprendere chi ama la casa</strong> e la convivialità con un tocco di design.</p> </div> </div>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_wzJiT7": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_FgL4eL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/josephjoseph-natale.webp",
+            "title": "",
+            "text": "<p><strong>JosephJoseph</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/joseph-joseph"
+          }
+        },
+        "column_76ybtJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-senzatempo-blog-768x407_1.webp",
+            "title": "",
+            "text": "<p><strong>Brandani</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/brandani"
+          }
+        },
+        "column_aQqci4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/make-_-Take-brabantia_1.png",
+            "title": "",
+            "text": "<p><strong>Brabantia</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/brabantia"
+          }
+        },
+        "column_rEmaep": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Doiy-design-tazza.webp",
+            "title": "",
+            "text": "<p><strong>Doiy</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/doiy"
+          }
+        }
+      },
+      "block_order": [
+        "column_FgL4eL",
+        "column_76ybtJ",
+        "column_aQqci4",
+        "column_rEmaep"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "multicolumn_THxWLM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_8mJ44f": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YeKzQN": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Anche i piccoli pensieri possono lasciare il segno. In questa sezione trovi idee regalo per tutte le occasioni, per amici, colleghi o per chi desidera sorprendere con semplicità e gusto. Abbiamo selezionato per te le proposte più interessanti e convenienti per questo Natale.<br/><br/></p><h3><strong>Piccoli Pensieri che fanno la Differenza</strong></h3><p>Una selezione di regali accessibili ma di grande effetto: oggetti utili, decorativi o simpatici per ogni tipo di destinatario.<br/>Abbiamo selezionato per te le proposte più interessanti e convenienti per questo Natale.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_8mJ44f",
+        "column_YeKzQN"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Idee regalo di Natale economiche ma d’effetto",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_ekRxfr": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_eLkAbK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/santa-fixes-the-bow-on-a-gift.jpg",
+            "title": "",
+            "text": "<h3><strong>SECRET SANTA</strong></h3><p>Sorprendi il tuo collega, anche quello che non conosci!</p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=0&filter.v.price.lte=35&sort_by=manual"
+          }
+        },
+        "column_WBYfbH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/kikkerland-feline-fire-stress-balls-palline-antistress-gatto.webp",
+            "title": "",
+            "text": "<h3><strong>EFFETTO \"WOW</strong></h3><p>Idee regalo che lasciano il segno.</p>",
+            "link_label": "",
+            "link": "shopify://collections/kikkerland"
+          }
+        },
+        "column_3DPqYn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/superstuff-idee-regalo-natale.webp",
+            "title": "",
+            "text": "<h3><strong>SUPERSTUFF</strong></h3><p>Creatività stampata 3D, sorpresa garantita!</p>",
+            "link_label": "",
+            "link": "shopify://collections/superstuff"
+          }
+        },
+        "column_jHRm4f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/doiy-rainbow-reggilibri-4.webp",
+            "title": "",
+            "text": "<h3><strong>COLOUR LOVER</strong></h3><p>Design pop e ironico, a tutta cromia!</p>",
+            "link_label": "",
+            "link": "shopify://collections/doiy"
+          }
+        },
+        "column_qjrWV7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/depressetti-disegnetti-piena-stampa.webp",
+            "title": "",
+            "text": "<h3><strong>DISEGNETTI DEPRESSETTI</strong></h3><p>L’ironia che <em>(forse)</em> salverà la giornata.</p>",
+            "link_label": "",
+            "link": "shopify://collections/disegnetti-depressetti"
+          }
+        }
+      },
+      "block_order": [
+        "column_eLkAbK",
+        "column_WBYfbH",
+        "column_3DPqYn",
+        "column_jHRm4f",
+        "column_qjrWV7"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "multicolumn_KpgrDw": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_dnfNBE": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DiwW7x": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>A volte trovare il regalo giusto è la parte più difficile del Natale: troppe idee, poco tempo e la voglia di non sbagliare.<br/>Questa sezione nasce per <strong>guidarti passo dopo passo</strong> con suggerimenti pratici, ispirazioni e piccoli trucchi per scegliere con leggerezza e stupire con stile.<br/>Perché il regalo perfetto non è quello più costoso, ma<strong> quello che sa parlare di te e di chi lo riceve.</strong></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_dnfNBE",
+        "column_DiwW7x"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Consigli per rendere speciale il Natale, il tuo e quello di chi ami",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multirow_c3DGJh": {
+      "type": "multirow",
+      "blocks": {
+        "row_GLrVUe": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Come-scegliere-i-Regali-di-Natale-organizzare-la-tua-Lista_1.webp",
+            "caption": "REGALARE PER STUPIRE",
+            "heading": "",
+            "text": "<h3><strong>Come scegliere il regalo perfetto a Natale</strong></h3><p>Organizzare la lista dei regali non deve essere uno stress: basta partire da chi ami davvero.<br/><br/>Pensare ai <strong>gusti, agli hobby e ai momenti della giornata</strong> di chi riceverà il dono ti aiuta a trovare l’equilibrio giusto tra originalità e utilità.<br/><br/>Che sia un regalo per la casa, un oggetto di design o un’idea divertente, ciò che conta è il significato che trasmette.</p>",
+            "button_label": "Leggi la guida completa",
+            "button_link": "shopify://blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista"
+          }
+        },
+        "row_9NQAgr": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/toddler-helps-decorate-the-christmas-tree_1.webp",
+            "caption": "REGALARE PER STUPIRE",
+            "heading": "",
+            "text": "<h3><strong>Cosa regalare ai genitori per Natale</strong></h3><p>Per i genitori, il regalo giusto è un gesto che <strong>emoziona e semplifica la vita</strong>.<br/><br/>Pensa a idee per la casa o la cucina, che rendano più piacevoli i momenti quotidiani, o a dettagli che evocano ricordi condivisi.<br/><br/>Un dono utile ma pieno di significato, che racconta gratitudine e affetto sincero.</p>",
+            "button_label": "Scopri i consigli",
+            "button_link": "shopify://blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale"
+          }
+        },
+        "row_Xn6UJn": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/cool-santa-idee-regalo-moglie-amica-fidanzata.webp",
+            "caption": "REGALARE PER STUPIRE",
+            "heading": "",
+            "text": "<h3><strong>Le migliori idee regalo per la moglie, la fidanzata, l’amica</strong></h3><p>Quando si tratta di lei, conta l’effetto sorpresa — ma anche la cura.<br/><br/>Dalle <strong>idee eleganti</strong> per la casa e la tavola ai <strong>regali più originali e creativi</strong>, ogni proposta è pensata per farla sentire davvero speciale.<br/><br/>Scegli qualcosa che unisca <strong>bellezza e pensiero</strong>, per dire <em>“ti conosco davvero”</em> anche con un piccolo gesto.</p>",
+            "button_label": "Leggi il blog post dedicato",
+            "button_link": "shopify://blogs/regalare-per-stupire/cosa-regalare-per-natale-alla-fidanzata-alla-moglie-o-unamica"
+          }
+        }
+      },
+      "block_order": [
+        "row_GLrVUe",
+        "row_9NQAgr",
+        "row_Xn6UJn"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "custom_liquid_YVhqVc",
+    "product-grid",
+    "multicolumn_jEaAiD",
+    "multicolumn_ijxfDd",
+    "multicolumn_D3LPdN",
+    "custom_liquid_zX3hKP",
+    "multicolumn_XzNAAH",
+    "custom_liquid_7bEyFU",
+    "multicolumn_wzJiT7",
+    "multicolumn_THxWLM",
+    "multicolumn_ekRxfr",
+    "multicolumn_KpgrDw",
+    "multirow_c3DGJh"
+  ]
+}
