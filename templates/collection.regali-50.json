@@ -67,7 +67,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Il regalo giusto parla di chi lo riceve. Pensa ai suoi gusti, ai piccoli rituali, a ciò che lo fa sorridere: qui trovi idee pensate <strong>su misura</strong>, per sorprendere con qualcosa che racconta attenzione vera.<br/>Che tu stia cercando un’idea elegante, utile o semplicemente capace di strappare un sorriso, qui trovi <strong>proposte su misura per ogni persona speciale</strong> della tua vita — da chi ami ogni giorno a chi non ti aspetti di stupire.<br/></p>",
+            "text": "<p>Anche con un <strong>budget contenuto</strong> si può fare una <strong>bella figura</strong> e celebrare momenti importanti con stile.<br/><strong>Ogni occasione merita il pensiero giusto</strong>, e con le nostre idee regalo economiche trovarlo diventa facile.</p>",
             "link_label": "",
             "link": ""
           }
@@ -79,74 +79,11 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Regali di Natale per ogni persona speciale",
+        "title": "Regali economici sotto i 50 euro per occasioni speciali",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_ijxfDd": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_gVDYNL": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/red-gift-regali-per-lei.jpg",
-            "title": "",
-            "text": "<h3><strong><br/>Sorprese natalizie per lei<br/></strong></h3><p><br/>Per lei, il regalo perfetto è quello che emoziona e parla di unicità.<br/>Dai <strong>dettagli per la casa</strong> che illuminano ogni stanza agli <strong>oggetti di design per la tavola e la cucina</strong>, ogni scelta è pensata per unire bellezza e funzionalità.<br/><br/>Che sia la compagna, la mamma, la sorella o un’amica speciale, qui troverai l’idea giusta per rendere il suo Natale indimenticabile. Ispirazioni uniche per ogni tipo di donna!<br/><br/></p>",
-            "link_label": "Idee per Lei",
-            "link": "shopify://collections/idee-regalo-regali-per-lei"
-          }
-        },
-        "column_De6nq7": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/teal-gift-idee-regalo.png",
-            "title": "",
-            "text": "<h3><strong><br/>Idee Regalo dedicate a lui<br/></strong></h3><p><br/>Per lui, l’idea giusta è quella che sorprende con semplicità e carattere. Scegli tra <strong>accessori per il tempo libero</strong>,  idee per la casa o per l’ufficio: ogni articolo è pensato per chi ama oggetti pratici, intelligenti e con personalità.<br/><br/>Che tu stia cercando <strong>idee regalo per il fidanzato</strong>, un <strong>regalo originale per un amico</strong>, o un pensiero speciale per il <strong>marito, il fratello o il suocero</strong>, qui trovi spunti per un dono che lascia il segno.<br/><br/></p>",
-            "link_label": "Idee per Lui",
-            "link": "shopify://collections/idee-regalo-regali-per-lui"
-          }
-        },
-        "column_3D8fEh": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_gVDYNL",
-        "column_De6nq7",
-        "column_3D8fEh"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".link {color: rgb(var(--color-link)); text-decoration: underline; font-weight: 500; transition: color 0.2s;}",
-        ".link:hover {color: rgb(var(--color-link-hover));}",
-        ".animate-arrow .icon-wrap {display: inline-block; transition: transform 0.2s; margin-left: 0.25rem;}",
-        ".animate-arrow:hover .icon-wrap {transform: translateX(4px);}"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
@@ -597,7 +534,6 @@
     "custom_liquid_YVhqVc",
     "product-grid",
     "multicolumn_jEaAiD",
-    "multicolumn_ijxfDd",
     "multicolumn_D3LPdN",
     "custom_liquid_zX3hKP",
     "multicolumn_XzNAAH",
