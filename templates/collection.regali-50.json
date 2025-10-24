@@ -88,7 +88,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 0,
@@ -349,6 +349,142 @@
         "padding_top": 0,
         "padding_bottom": 36
       }
+    },
+    "multicolumn_8Dt9UY": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_n79hQr": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_M6iqF3": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Anche con un budget sotto i 50€, puoi scegliere <strong>oggetti belli, utili e mai scontati</strong>. Il segreto è puntare su design, colore e idee intelligenti: piccoli gesti che fanno grande effetto. Per stupire senza spendere troppo, scegli <strong>pezzi dal carattere deciso.</strong></p><p><strong>Oggetti multiuso</strong> o con dettagli inaspettati, che uniscono estetica e praticità: Sono pensieri dal prezzo leggero, ma dallo <strong>stile che lascia il segno</strong>.<br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_n79hQr",
+        "column_M6iqF3"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Regali economici che sorprendono per originalità e buon gusto",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_wDET3k": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ggxnNz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/13132_2.jpg",
+            "title": "",
+            "text": "<p><strong>MIHO</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/miho?filter.v.price.gte=&filter.v.price.lte=55&sort_by=manual"
+          }
+        },
+        "column_cQLFkJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/kikkerland-decorate-your-own-cup-kit-kit-decora-la-tua-tazza_1.webp",
+            "title": "",
+            "text": "<p><strong>EFFETTO \"WOW\"</strong></p><p>Idee regalo che lasciano il segno.</p>",
+            "link_label": "",
+            "link": "shopify://collections/kikkerland"
+          }
+        },
+        "column_CWEJdV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Doiy-design-scatola_6fad84bf-3209-4700-8a2a-a9fe73f2a740.webp",
+            "title": "",
+            "text": "<p><strong>COLOUR LOVER</strong></p><p>Design pop e ironico, a tutta cromia!</p>",
+            "link_label": "",
+            "link": "shopify://collections/doiy"
+          }
+        },
+        "column_Yafq3C": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/josephjoseph-natale.webp",
+            "title": "",
+            "text": "<p><strong>JOSEPHJOSEPH</strong></p><p>Colorati, utili, irresistibili</p>",
+            "link_label": "",
+            "link": "shopify://collections/disegnetti-depressetti"
+          }
+        },
+        "column_mPJdWC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/printwork-happily-ever-after-album-fotp-1.webp",
+            "title": "",
+            "text": "<p><strong>PRINTWORKS</strong></p><p>idee regalo da ricordare!</p>",
+            "link_label": "",
+            "link": "shopify://collections/printworks"
+          }
+        },
+        "column_7Xkjqn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-home-tazze-e-tazzine.webp",
+            "title": "",
+            "text": "<h3><strong>TÈ & CAFFÈ</strong></h3><p>Sveglia il suo sorriso, una tazza alla volta.</p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-tazze-tazzine-mug"
+          }
+        }
+      },
+      "block_order": [
+        "column_ggxnNz",
+        "column_cQLFkJ",
+        "column_CWEJdV",
+        "column_Yafq3C",
+        "column_mPJdWC",
+        "column_7Xkjqn"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
     }
   },
   "order": [
@@ -359,6 +495,8 @@
     "multirow_c3DGJh",
     "multicolumn_rEpzeR",
     "multicolumn_CY3JEF",
-    "multicolumn_NT6a7n"
+    "multicolumn_NT6a7n",
+    "multicolumn_8Dt9UY",
+    "multicolumn_wDET3k"
   ]
 }

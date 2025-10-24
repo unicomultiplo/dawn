@@ -88,7 +88,7 @@
             "title": "<strong>Torchon Bitossi Home</strong>",
             "text": "<p><br/>Stile <strong>artigianale</strong>, anima <strong>contemporanea</strong>. La collezione Torchon mescola linee essenziali e dettagli preziosi per portare in tavola <strong>carattere e originalità.</strong> Oggetti che sembrano usciti da un bistrot francese, ma pensati per la quotidianità di chi ama ricevere con gusto. Design che cattura lo sguardo, perfetti per dare personalità a ogni mise en place, dal <strong>brunch informale alla cena più curata.</strong></p>",
             "link_label": "👉 Scopri la collezione Torchon",
-            "link": "shopify://collections/treccia-bitossi-home"
+            "link": "shopify://collections/torchon-bitossi-home"
           }
         },
         "column_f8NyNW": {
@@ -129,7 +129,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "👉 Scopri la collezione Posate",
-            "button_link_1": "shopify://collections/posate-bitossi-home",
+            "button_link_1": "shopify://collections/torchon-bitossi-home",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
