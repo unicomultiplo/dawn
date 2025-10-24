@@ -236,10 +236,10 @@
         "image_ratio": "square",
         "columns_desktop": 6,
         "column_alignment": "center",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 16,
@@ -476,14 +476,63 @@
         "image_ratio": "square",
         "columns_desktop": 6,
         "column_alignment": "center",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 16,
         "padding_bottom": 16
+      }
+    },
+    "image_banner_iRzdG6": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_LDHWyc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ispirazioni e consigli per regali economici ma mai scontati",
+            "heading_size": "h1"
+          }
+        },
+        "text_UwXjBM": {
+          "type": "text",
+          "settings": {
+            "text": "Fare bella figura non richiede grandi spese: basta <strong>scegliere con cuore e un pizzico di creatività</strong>. Questa sezione è pensata per chi vuole stupire con poco, trovando<strong> ispirazioni </strong>reali e facili da mettere in pratica. Anche un regalo economico può diventare <strong>speciale</strong>, se racconta qualcosa di personale. Ecco qualche spunto per scegliere con gusto!",
+            "text_style": "body"
+          }
+        },
+        "buttons_iKXmUK": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Guide e idee per sorprendere anche con un piccolo budget",
+            "button_link_1": "shopify://blogs/regalare-per-stupire",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_LDHWyc",
+        "text_UwXjBM",
+        "buttons_iKXmUK"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/idee-regalo-economiche.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     }
   },
@@ -497,6 +546,7 @@
     "multicolumn_CY3JEF",
     "multicolumn_NT6a7n",
     "multicolumn_8Dt9UY",
-    "multicolumn_wDET3k"
+    "multicolumn_wDET3k",
+    "image_banner_iRzdG6"
   ]
 }
