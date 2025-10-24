@@ -420,9 +420,9 @@
         "column_CWEJdV": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Doiy-design-scatola_6fad84bf-3209-4700-8a2a-a9fe73f2a740.webp",
+            "image": "shopify://shop_images/doiy-rainbow-reggilibri-4.webp",
             "title": "",
-            "text": "<p><strong>COLOUR LOVER</strong></p><p>Design pop e ironico, a tutta cromia!</p>",
+            "text": "<p><strong>DOIY</strong></p>",
             "link_label": "",
             "link": "shopify://collections/doiy"
           }
@@ -430,31 +430,31 @@
         "column_Yafq3C": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/josephjoseph-natale.webp",
+            "image": "shopify://shop_images/seletti-toiletpaper-tappeto-bagno-shit-sagomato-2.jpg",
             "title": "",
-            "text": "<p><strong>JOSEPHJOSEPH</strong></p><p>Colorati, utili, irresistibili</p>",
+            "text": "<p><strong>SELETTI</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/disegnetti-depressetti"
+            "link": "https://www.unicoemultiplo.com/collections/tappeti-e-tappetini-seletti?filter.v.price.gte=&filter.v.price.lte=60&sort_by=created-descending"
           }
         },
         "column_mPJdWC": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/printwork-happily-ever-after-album-fotp-1.webp",
+            "image": "shopify://shop_images/knindustrie-not-ice-cubetti-pietra-ollare-4.jpg",
             "title": "",
-            "text": "<p><strong>PRINTWORKS</strong></p><p>idee regalo da ricordare!</p>",
+            "text": "<p><strong>KNINDUSTRIE</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/printworks"
+            "link": "shopify://products/1558-knindustrie-not-ice-cubetti-pietra-ollare"
           }
         },
         "column_7Xkjqn": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi-home-tazze-e-tazzine.webp",
+            "image": "shopify://shop_images/printwork-chess-play-scacchiera-da-tavolo-4.webp",
             "title": "",
-            "text": "<h3><strong>TÈ & CAFFÈ</strong></h3><p>Sveglia il suo sorriso, una tazza alla volta.</p>",
+            "text": "<p><strong>PRINTWORKS</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-tazze-tazzine-mug"
+            "link": "shopify://products/printwork-chess-play-scacchiera-da-tavolo"
           }
         }
       },
