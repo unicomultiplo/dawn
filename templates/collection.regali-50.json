@@ -95,379 +95,6 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_D3LPdN": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_dxLePV": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Quando il <strong>Natale si avvicina</strong>, scegliere un regalo diventa un modo per raccontare qualcosa di sé e per celebrare le persone che amiamo. Le proposte dei<strong> brand più iconici </strong>trasformano il gesto del dono in un’esperienza di stile: eleganza, estetica raffinata e qualità si fondono in oggetti che<strong> sanno emozionare</strong>.<br/>Dai dettagli curati alle finiture pregiate, ogni creazione è pensata per chi desidera un Natale fatto di <strong>bellezza, armonia e design</strong>. Scopri collezioni esclusive che uniscono tradizione e contemporaneità, per un <strong>regalo </strong>capace di<strong> distinguersi e lasciare il segno</strong>.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_Agkdkj": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/idee-regalo-natale-2025-unico-e-multiplo.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_dxLePV",
-        "column_Agkdkj"
-      ],
-      "disabled": true,
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Le Proposte di Natale dei Brand più Ionici",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "custom_liquid_zX3hKP": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "name": "t:sections.custom-liquid.presets.name",
-      "settings": {
-        "custom_liquid": "<div class=\"collection-list-wrapper page-width\"> <div class=\"title-wrapper-with-link\"> <h3 class=\"title h3\"><strong>Oggettistica di Design per Stupire e Ispirare</strong></h3> </div> <div class=\"rte\"> <p> Un regalo di Natale di design è un pensiero che parla di gusto, personalità e ricerca estetica. <strong>Le collezioni di Seletti, Bitossi, knIndustrie e Brandani</strong> reinterpretano l’atmosfera natalizia con ironia e raffinatezza, offrendo oggetti decorativi e funzionali che non passano inosservati.\n<strong>Dalle sculture pop e colorate ai complementi d’arredo più sofisticati,</strong>  ogni proposta diventa un’idea regalo originale per sorprendere chi ama lo stile e la creatività. Perfetti per donare un tocco artistico alla casa o per stupire con un regalo che unisce estetica e design, questi oggetti rappresentano l’<strong>essenza del Natale contemporaneo</strong>. </p> </div> </div>",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_XzNAAH": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_3weYLE": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/bitossi-natale-idee-regalo.webp",
-            "title": "",
-            "text": "<p><strong>Idee Regalo Bitossi Home</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/bitossi-home/?#shopify-section-template--24628389380361__multicolumn_Webjiz"
-          }
-        },
-        "column_eWhFdX": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-natale-christmas-gift-idee-regalo.webp",
-            "title": "",
-            "text": "<p><strong>Idee Regalo Seletti</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_qftGfx"
-          }
-        },
-        "column_7376Y9": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/k7_beatrice_rossetti-knindustrie-idee-natale.webp",
-            "title": "",
-            "text": "<p><strong>Idee Regalo KnIndustrie</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/knindustrie/?#shopify-section-template--25423978430729__multicolumn_gaht3W"
-          }
-        }
-      },
-      "block_order": [
-        "column_3weYLE",
-        "column_eWhFdX",
-        "column_7376Y9"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 16,
-        "padding_bottom": 16
-      }
-    },
-    "custom_liquid_7bEyFU": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "name": "t:sections.custom-liquid.presets.name",
-      "settings": {
-        "custom_liquid": "<div class=\"collection-list-wrapper page-width\"> <div class=\"title-wrapper-with-link\"> <h3 class=\"title h3\"><strong>Idee Regalo Utili e Creative per  la Tavola e la Cucina</strong></h3> </div> <div class=\"rte\"> <p> La tavola delle feste è il cuore del Natale: un momento di condivisione e calore da celebrare con oggetti belli e funzionali. <strong>Le collezioni di Joseph Joseph, Brandani, Brabantia e Doiy offrono idee regalo originali che uniscono design e praticità.</strong> Dagli utensili intelligenti e salvaspazio ai complementi per la tavola dal gusto italiano, fino agli accessori ironici e contemporanei, ogni proposta porta stile e creatività in cucina. \n</br>\n<strong>Regali utili, di qualità e perfetti per sorprendere chi ama la casa</strong> e la convivialità con un tocco di design.</p> </div> </div>",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_wzJiT7": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_FgL4eL": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/josephjoseph-natale.webp",
-            "title": "",
-            "text": "<p><strong>JosephJoseph</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/joseph-joseph"
-          }
-        },
-        "column_76ybtJ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Brandani-senzatempo-blog-768x407_1.webp",
-            "title": "",
-            "text": "<p><strong>Brandani</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/brandani"
-          }
-        },
-        "column_aQqci4": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/make-_-Take-brabantia_1.png",
-            "title": "",
-            "text": "<p><strong>Brabantia</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/brabantia"
-          }
-        },
-        "column_rEmaep": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Doiy-design-tazza.webp",
-            "title": "",
-            "text": "<p><strong>Doiy</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/doiy"
-          }
-        }
-      },
-      "block_order": [
-        "column_FgL4eL",
-        "column_76ybtJ",
-        "column_aQqci4",
-        "column_rEmaep"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 16,
-        "padding_bottom": 16
-      }
-    },
-    "multicolumn_THxWLM": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_8mJ44f": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_YeKzQN": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Anche i piccoli pensieri possono lasciare il segno. In questa sezione trovi idee regalo per tutte le occasioni, per amici, colleghi o per chi desidera sorprendere con semplicità e gusto. Abbiamo selezionato per te le proposte più interessanti e convenienti per questo Natale.<br/><br/></p><h3><strong>Piccoli Pensieri che fanno la Differenza</strong></h3><p>Una selezione di regali accessibili ma di grande effetto: oggetti utili, decorativi o simpatici per ogni tipo di destinatario.<br/>Abbiamo selezionato per te le proposte più interessanti e convenienti per questo Natale.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_8mJ44f",
-        "column_YeKzQN"
-      ],
-      "disabled": true,
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Idee regalo di Natale economiche ma d’effetto",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_ekRxfr": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_eLkAbK": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/santa-fixes-the-bow-on-a-gift.jpg",
-            "title": "",
-            "text": "<h3><strong>SECRET SANTA</strong></h3><p>Sorprendi il tuo collega, anche quello che non conosci!</p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=0&filter.v.price.lte=35&sort_by=manual"
-          }
-        },
-        "column_WBYfbH": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/kikkerland-feline-fire-stress-balls-palline-antistress-gatto.webp",
-            "title": "",
-            "text": "<h3><strong>EFFETTO \"WOW</strong></h3><p>Idee regalo che lasciano il segno.</p>",
-            "link_label": "",
-            "link": "shopify://collections/kikkerland"
-          }
-        },
-        "column_3DPqYn": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/superstuff-idee-regalo-natale.webp",
-            "title": "",
-            "text": "<h3><strong>SUPERSTUFF</strong></h3><p>Creatività stampata 3D, sorpresa garantita!</p>",
-            "link_label": "",
-            "link": "shopify://collections/superstuff"
-          }
-        },
-        "column_jHRm4f": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/doiy-rainbow-reggilibri-4.webp",
-            "title": "",
-            "text": "<h3><strong>COLOUR LOVER</strong></h3><p>Design pop e ironico, a tutta cromia!</p>",
-            "link_label": "",
-            "link": "shopify://collections/doiy"
-          }
-        },
-        "column_qjrWV7": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/depressetti-disegnetti-piena-stampa.webp",
-            "title": "",
-            "text": "<h3><strong>DISEGNETTI DEPRESSETTI</strong></h3><p>L’ironia che <em>(forse)</em> salverà la giornata.</p>",
-            "link_label": "",
-            "link": "shopify://collections/disegnetti-depressetti"
-          }
-        }
-      },
-      "block_order": [
-        "column_eLkAbK",
-        "column_WBYfbH",
-        "column_3DPqYn",
-        "column_jHRm4f",
-        "column_qjrWV7"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 16,
-        "padding_bottom": 16
-      }
-    },
-    "multicolumn_KpgrDw": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_dnfNBE": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_DiwW7x": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>A volte trovare il regalo giusto è la parte più difficile del Natale: troppe idee, poco tempo e la voglia di non sbagliare.<br/>Questa sezione nasce per <strong>guidarti passo dopo passo</strong> con suggerimenti pratici, ispirazioni e piccoli trucchi per scegliere con leggerezza e stupire con stile.<br/>Perché il regalo perfetto non è quello più costoso, ma<strong> quello che sa parlare di te e di chi lo riceve.</strong></p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_dnfNBE",
-        "column_DiwW7x"
-      ],
-      "disabled": true,
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Consigli per rendere speciale il Natale, il tuo e quello di chi ami",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
     "multirow_c3DGJh": {
       "type": "multirow",
       "blocks": {
@@ -526,6 +153,98 @@
         "padding_top": 0,
         "padding_bottom": 36
       }
+    },
+    "multicolumn_rEpzeR": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ti8DtJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/verygoods-candela-1.jpg",
+            "title": "",
+            "text": "<p><strong>CANDELE</strong><br/>Accendono atmosfere (e sorrisi)</p>",
+            "link_label": "",
+            "link": "shopify://collections/illuminazione-candelabri-e-candele"
+          }
+        },
+        "column_K6dApD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/kikkerland-decorate-your-own-cup-kit-kit-decora-la-tua-tazza_1.webp",
+            "title": "",
+            "text": "<p><strong>EFFETTO \"WOW\"</strong></p><p>Idee regalo che lasciano il segno.</p>",
+            "link_label": "",
+            "link": "shopify://collections/kikkerland"
+          }
+        },
+        "column_r7fJtT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Doiy-design-scatola_6fad84bf-3209-4700-8a2a-a9fe73f2a740.webp",
+            "title": "",
+            "text": "<p><strong>COLOUR LOVER</strong></p><p>Design pop e ironico, a tutta cromia!</p>",
+            "link_label": "",
+            "link": "shopify://collections/doiy"
+          }
+        },
+        "column_NWwBQe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/josephjoseph-natale.webp",
+            "title": "",
+            "text": "<p><strong>JOSEPHJOSEPH</strong></p><p>Colorati, utili, irresistibili</p>",
+            "link_label": "",
+            "link": "shopify://collections/disegnetti-depressetti"
+          }
+        },
+        "column_WGCFK9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/printwork-happily-ever-after-album-fotp-1.webp",
+            "title": "",
+            "text": "<p><strong>PRINTWORKS</strong></p><p>idee regalo da ricordare!</p>",
+            "link_label": "",
+            "link": "shopify://collections/printworks"
+          }
+        },
+        "column_ApnEdY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-home-tazze-e-tazzine.webp",
+            "title": "",
+            "text": "<h3><strong>TÈ & CAFFÈ</strong></h3><p>Sveglia il suo sorriso, una tazza alla volta.</p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-tazze-tazzine-mug"
+          }
+        }
+      },
+      "block_order": [
+        "column_ti8DtJ",
+        "column_K6dApD",
+        "column_r7fJtT",
+        "column_NWwBQe",
+        "column_WGCFK9",
+        "column_ApnEdY"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
     }
   },
   "order": [
@@ -533,14 +252,7 @@
     "custom_liquid_YVhqVc",
     "product-grid",
     "multicolumn_jEaAiD",
-    "multicolumn_D3LPdN",
-    "custom_liquid_zX3hKP",
-    "multicolumn_XzNAAH",
-    "custom_liquid_7bEyFU",
-    "multicolumn_wzJiT7",
-    "multicolumn_THxWLM",
-    "multicolumn_ekRxfr",
-    "multicolumn_KpgrDw",
-    "multirow_c3DGJh"
+    "multirow_c3DGJh",
+    "multicolumn_rEpzeR"
   ]
 }
