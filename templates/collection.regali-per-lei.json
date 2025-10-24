@@ -16,7 +16,7 @@
         "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h1>{{ collection.title }}</h1>\n</div>\n</section>",
         "color_scheme": "",
         "padding_top": 20,
-        "padding_bottom": 0
+        "padding_bottom": 20
       }
     },
     "custom_liquid_V4d3KX": {
