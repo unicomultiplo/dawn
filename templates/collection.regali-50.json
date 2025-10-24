@@ -245,6 +245,110 @@
         "padding_top": 16,
         "padding_bottom": 16
       }
+    },
+    "multicolumn_CY3JEF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_8HmMqd": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pHDQ4g": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Un buon regalo non si misura dal prezzo, ma dall’<strong>attenzione con cui viene scelto</strong>. Anche con meno di 50€, puoi trovare oggetti che raccontano una storia, fanno sorridere o diventano davvero utili nella vita quotidiana.<br/>Conoscere chi riceverà il regalo è la chiave: basta un dettaglio — un colore, un’abitudine, una passione — per fare centro. Che si tratti di un pensiero per lui, per lei o per chi ama la casa, ecco alcune idee concrete e “furbe” per <strong>regalare bene anche con un piccolo budget</strong>.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_8HmMqd",
+        "column_pHDQ4g"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Idee regalo economiche ma pensate per la persona giusta",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_NT6a7n": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_fnCG6f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/kikkerland-maps-idea-regalo-natale-ciRHFm3Kd-transformed_1.jpg",
+            "title": "",
+            "text": "<h3><strong>Regali economici per lui, pratici e senza fronzoli</strong></h3><p><br/>Per amici, fratelli, colleghi o partner: <strong>idee sotto i 50€</strong> che uniscono utilità e stile, oggetti <strong>concreti ma mai banali</strong><br/>Piccoli oggetti <strong>intelligenti e creativi</strong>: perfetti per amiche, colleghe o occasioni leggere.<br/><br/><strong>IDEE PER LUI →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-economiche"
+          }
+        },
+        "column_fLrJCK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/kikkerland-maps-idea-regalo-natale-ciRHFm3Kd-transformed_1.jpg",
+            "title": "",
+            "text": "<h3><strong>Regali economici per lui, pratici e senza fronzoli</strong></h3><p><br/>Per amici, fratelli, colleghi o partner: <strong>idee sotto i 50€</strong> che uniscono utilità e stile, oggetti <strong>concreti ma mai banali</strong><br/>Piccoli oggetti <strong>intelligenti e creativi</strong>: perfetti per amiche, colleghe o occasioni leggere.<br/><br/><strong>IDEE PER LUI →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-economiche"
+          }
+        },
+        "column_L8VdTy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/kikkerland-maps-idea-regalo-natale-ciRHFm3Kd-transformed_1.jpg",
+            "title": "",
+            "text": "<h3><strong>Regali economici per lui, pratici e senza fronzoli</strong></h3><p><br/>Per amici, fratelli, colleghi o partner: <strong>idee sotto i 50€</strong> che uniscono utilità e stile, oggetti <strong>concreti ma mai banali</strong><br/>Piccoli oggetti <strong>intelligenti e creativi</strong>: perfetti per amiche, colleghe o occasioni leggere.<br/><br/><strong>IDEE PER LUI →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-economiche"
+          }
+        }
+      },
+      "block_order": [
+        "column_fnCG6f",
+        "column_fLrJCK",
+        "column_L8VdTy"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -253,6 +357,8 @@
     "product-grid",
     "multicolumn_jEaAiD",
     "multirow_c3DGJh",
-    "multicolumn_rEpzeR"
+    "multicolumn_rEpzeR",
+    "multicolumn_CY3JEF",
+    "multicolumn_NT6a7n"
   ]
 }
