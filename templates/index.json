@@ -95,7 +95,7 @@
         "description_style": "body",
         "collection": "pixel-mirrors-seletti",
         "products_to_show": 23,
-        "columns_desktop": 5,
+        "columns_desktop": 4,
         "full_width": true,
         "show_view_all": true,
         "view_all_style": "outline",
