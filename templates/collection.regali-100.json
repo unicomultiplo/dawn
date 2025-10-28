@@ -67,7 +67,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Anche con un <strong>budget contenuto</strong> si può fare una <strong>bella figura</strong> e celebrare momenti importanti con stile. Quando il budget è definito, la chiave è <strong>selezionare bene.</strong><br/>In questa pagina trovi <strong>idee regalo economiche</strong> pensate per risultare utili, curate e originali: piccoli oggetti di design, accessori per la casa, proposte lifestyle e “pensierini” intelligenti che non sembrano affatto low cost.<br/><strong>Ogni occasione merita il pensiero giusto</strong>, e con le nostre idee regalo economiche trovarlo diventa facile.</p>",
+            "text": "<p>Quando il momento è importante, questa fascia di spesa permette di scegliere con attenzione e senza compromessi.<br/>Con un budget sotto i 100€, puoi trovare <strong>oggetti di valore, eleganti e simbolici</strong>, capaci di accompagnare ogni tipo di ricorrenza con il giusto equilibrio tra <strong>raffinatezza e semplicità</strong>.<br/></p>",
             "link_label": "",
             "link": ""
           }
@@ -79,7 +79,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Regali economici sotto i 50 euro per occasioni speciali",
+        "title": "Proposte regalo fino a 100€ per occasioni e ricorrenze importanti",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -104,7 +104,7 @@
             "image": "shopify://shop_images/idee-regalo-compleanno-economiche.webp",
             "caption": "",
             "heading": "",
-            "text": "<h3><strong>Un pensierino per il compleanno, semplice ma azzeccato</strong></h3><p>A volte basta un piccolo gesto per trasformare un compleanno in un momento speciale.<br/>Evita le solite “idee jolly” e scegli qualcosa che rispecchi <strong>interessi o abitudini</strong> della persona:</p><ul><li>Per l’amico o collega d’ufficio → una <a href=\"/collections/illuminazione-candelabri-e-candele\" title=\"Candelabri e Candele\"><strong>candela profumata</strong></a> dal design minimal o una <a href=\"/collections/cucina-e-tavola-tazze-tazzine-mug\" title=\"Tazze, Tazzine e Mug\"><strong>tazza in ceramica</strong></a>: oggetti che restano sulla scrivania e scaldano l’ambiente.<br/></li><li>Per chi ama organizzare aperitivi → un <a href=\"/collections/cucina-e-tavola-bicchieri-e-calici\" title=\"Bicchieri e Calici\"><strong>set di bicchieri colorati</strong>, <strong>calici per vino</strong></a> o un mini shaker per cocktail casalinghi.<br/></li><li>Per chi ha già tutto → un <a href=\"/collections/superstuff\" title=\"Superstuff\"><strong>oggetto ironico o Superstuff</strong></a>: inutile, forse, ma irresistibile.<br/></li></ul><p><a href=\"/collections/disegnetti-depressetti\" title=\"Disegnetti Depressetti\"><strong>Aggiungi un biglietto scritto a mano:</strong> </a>con pochi euro, moltiplichi il valore emotivo.</p>",
+            "text": "<h3><strong>Regali compleanno e diciottesimo che lasciano il segno</strong></h3><p>A volte basta un piccolo gesto per trasformare un compleanno in un momento speciale.<br/>Evita le solite “idee jolly” e scegli qualcosa che rispecchi <strong>interessi o abitudini</strong> della persona:</p><ul><li>Per l’amico o collega d’ufficio → una <a href=\"/collections/illuminazione-candelabri-e-candele\" title=\"Candelabri e Candele\"><strong>candela profumata</strong></a> dal design minimal o una <a href=\"/collections/cucina-e-tavola-tazze-tazzine-mug\" title=\"Tazze, Tazzine e Mug\"><strong>tazza in ceramica</strong></a>: oggetti che restano sulla scrivania e scaldano l’ambiente.<br/></li><li>Per chi ama organizzare aperitivi → un <a href=\"/collections/cucina-e-tavola-bicchieri-e-calici\" title=\"Bicchieri e Calici\"><strong>set di bicchieri colorati</strong>, <strong>calici per vino</strong></a> o un mini shaker per cocktail casalinghi.<br/></li><li>Per chi ha già tutto → un <a href=\"/collections/superstuff\" title=\"Superstuff\"><strong>oggetto ironico o Superstuff</strong></a>: inutile, forse, ma irresistibile.<br/></li></ul><p><a href=\"/collections/disegnetti-depressetti\" title=\"Disegnetti Depressetti\"><strong>Aggiungi un biglietto scritto a mano:</strong> </a>con pochi euro, moltiplichi il valore emotivo.</p>",
             "button_label": "Idee Regalo Compleanno",
             "button_link": "https://www.unicoemultiplo.com/collections/idee-regalo-compleanno?filter.v.price.gte=&filter.v.price.lte=60&sort_by=manual"
           }
@@ -130,13 +130,36 @@
             "button_label": "Idee Regalo per la Casa",
             "button_link": "https://www.unicoemultiplo.com/collections/idee-regalo-per-casa-e-cucina?filter.v.price.gte=&filter.v.price.lte=60&sort_by=manual"
           }
+        },
+        "row_LTJhEF": {
+          "type": "row",
+          "settings": {
+            "caption": "Didascalia",
+            "heading": "Riga",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
+          }
+        },
+        "row_gKpTy3": {
+          "type": "row",
+          "settings": {
+            "caption": "Didascalia",
+            "heading": "Riga",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
         "row_GLrVUe",
         "row_9NQAgr",
-        "row_Xn6UJn"
+        "row_Xn6UJn",
+        "row_LTJhEF",
+        "row_gKpTy3"
       ],
+      "disabled": true,
       "name": "t:sections.multirow.presets.name",
       "settings": {
         "image_height": "small",
@@ -159,6 +182,7 @@
       "blocks": {
         "column_ti8DtJ": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/verygoods-candela-1.jpg",
             "title": "",
@@ -272,6 +296,7 @@
         "column_8HmMqd",
         "column_pHDQ4g"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Idee regalo economiche ma pensate per la persona giusta",
@@ -329,6 +354,7 @@
         "column_fLrJCK",
         "column_L8VdTy"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -376,6 +402,7 @@
         "column_n79hQr",
         "column_M6iqF3"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Regali economici che sorprendono per originalità e buon gusto",
@@ -466,6 +493,7 @@
         "column_mPJdWC",
         "column_7Xkjqn"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -492,14 +520,14 @@
         "heading_LDHWyc": {
           "type": "heading",
           "settings": {
-            "heading": "Ispirazioni e consigli per regali economici ma mai scontati",
+            "heading": "Ispirazioni per chi cerca regali entro 100€ fuori dall’ordinario",
             "heading_size": "h1"
           }
         },
         "text_UwXjBM": {
           "type": "text",
           "settings": {
-            "text": "Fare bella figura non richiede grandi spese: basta <strong>scegliere con cuore e un pizzico di creatività</strong>. Questa sezione è pensata per chi vuole stupire con poco, trovando<strong> ispirazioni </strong>reali e facili da mettere in pratica. Anche un regalo economico può diventare <strong>speciale</strong>, se racconta qualcosa di personale. Ecco qualche spunto per scegliere con gusto!",
+            "text": "Non tutti i regali devono seguire le regole.Per chi ama sorprendere e uscire dagli schemi, abbiamo selezionato <strong>idee creative e originali</strong> sotto i 100 €, perfette per chi “ha già tutto”. Oggetti dal design ironico, accessori smart, articoli per la casa o piccoli pensieri che fanno sorridere e restano nel tempo.",
             "text_style": "body"
           }
         },
@@ -522,7 +550,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/idee-regalo-economiche.webp",
+        "image": "shopify://shop_images/idee-regalo-economiche.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
