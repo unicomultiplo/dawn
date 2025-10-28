@@ -1,0 +1,552 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        "a {color: #598db2;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
+      }
+    },
+    "custom_liquid_YVhqVc": {
+      "type": "custom-liquid",
+      "custom_css": [],
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Natale\">\n  <nav class=\"xmas-quick-links\">\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=55&sort_by=manual\" class=\"button button--primary button--small\">Idee Regalo per Lei</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lui?filter.v.price.gte=&filter.v.price.lte=55&sort_by=created-descending\" class=\"button button--primary button--small\">Idee Regalo per Lui</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-per-casa-e-cucina?filter.v.price.gte=&filter.v.price.lte=55&sort_by=manual\" class=\"button button--primary button--small\">Idee Regalo per Casa e Cucina</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-compleanno?filter.v.price.gte=&filter.v.price.lte=55&sort_by=manual\" class=\"button button--primary button--small\">Idee regalo Compleanno</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-laurea-e-diploma?filter.v.price.gte=&filter.v.price.lte=55&sort_by=created-descending\" class=\"button button--primary button--small\">Idee regalo Laurea e Diploma</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-san-valentino?filter.v.price.gte=&filter.v.price.lte=55&sort_by=manual\" class=\"button button--primary button--small\">Idee regalo Romantiche</a>\n  </nav>\n</div>\n\n<style>\n  .xmas-quick-links {\n    display:flex;\n    flex-wrap:wrap;\n    gap:.5rem;\n    margin:.5rem 0 1rem;\n  }\n  /* Optional: bottoni a tutta larghezza su mobile */\n  @media (max-width: 749px) {\n    .xmas-quick-links a {\n      width: 100%;\n      justify-content: center;\n    }\n  }\n</style>",
+        "color_scheme": "scheme-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 36,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "none",
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_jEaAiD": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gM9GAP": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qUMMa4": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Anche con un <strong>budget contenuto</strong> si può fare una <strong>bella figura</strong> e celebrare momenti importanti con stile. Quando il budget è definito, la chiave è <strong>selezionare bene.</strong><br/>In questa pagina trovi <strong>idee regalo economiche</strong> pensate per risultare utili, curate e originali: piccoli oggetti di design, accessori per la casa, proposte lifestyle e “pensierini” intelligenti che non sembrano affatto low cost.<br/><strong>Ogni occasione merita il pensiero giusto</strong>, e con le nostre idee regalo economiche trovarlo diventa facile.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_gM9GAP",
+        "column_qUMMa4"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Regali economici sotto i 50 euro per occasioni speciali",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multirow_c3DGJh": {
+      "type": "multirow",
+      "blocks": {
+        "row_GLrVUe": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/idee-regalo-compleanno-economiche.webp",
+            "caption": "",
+            "heading": "",
+            "text": "<h3><strong>Un pensierino per il compleanno, semplice ma azzeccato</strong></h3><p>A volte basta un piccolo gesto per trasformare un compleanno in un momento speciale.<br/>Evita le solite “idee jolly” e scegli qualcosa che rispecchi <strong>interessi o abitudini</strong> della persona:</p><ul><li>Per l’amico o collega d’ufficio → una <a href=\"/collections/illuminazione-candelabri-e-candele\" title=\"Candelabri e Candele\"><strong>candela profumata</strong></a> dal design minimal o una <a href=\"/collections/cucina-e-tavola-tazze-tazzine-mug\" title=\"Tazze, Tazzine e Mug\"><strong>tazza in ceramica</strong></a>: oggetti che restano sulla scrivania e scaldano l’ambiente.<br/></li><li>Per chi ama organizzare aperitivi → un <a href=\"/collections/cucina-e-tavola-bicchieri-e-calici\" title=\"Bicchieri e Calici\"><strong>set di bicchieri colorati</strong>, <strong>calici per vino</strong></a> o un mini shaker per cocktail casalinghi.<br/></li><li>Per chi ha già tutto → un <a href=\"/collections/superstuff\" title=\"Superstuff\"><strong>oggetto ironico o Superstuff</strong></a>: inutile, forse, ma irresistibile.<br/></li></ul><p><a href=\"/collections/disegnetti-depressetti\" title=\"Disegnetti Depressetti\"><strong>Aggiungi un biglietto scritto a mano:</strong> </a>con pochi euro, moltiplichi il valore emotivo.</p>",
+            "button_label": "Idee Regalo Compleanno",
+            "button_link": "https://www.unicoemultiplo.com/collections/idee-regalo-compleanno?filter.v.price.gte=&filter.v.price.lte=60&sort_by=manual"
+          }
+        },
+        "row_9NQAgr": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/idee-regalo-diploma-e-laurea.webp",
+            "caption": "",
+            "heading": "",
+            "text": "<h3><strong>Idee regalo economiche per laurea, diploma o piccole celebrazioni</strong></h3><p>Anche una laurea o un diploma meritano un pensiero simbolico, che resti nel tempo.<br/><strong>Non servono grandi budget: conta il messaggio.</strong><br/>Un piccolo gesto può racchiudere un grande traguardo: la fine di un percorso, l’inizio di una nuova avventura.<br/><br/>Anche con meno di 50€, puoi scegliere un regalo che <strong>commuove, resta e racconta</strong>.</p><ul><li><a href=\"/collections/disegnetti-depressetti\" title=\"Disegnetti Depressetti\"><strong>Un biglietto scritto a mano</strong> </a>è il punto di partenza perfetto: autentico, personale, sempre apprezzato. Puoi abbinarlo a un piccolo oggetto simbolico, come una candela o un portachiavi portafortuna.<br/></li><li><a href=\"/collections/printworks\" title=\"Printworks\"><strong>Un album o un quaderno dei ricordi</strong></a> è un’idea dal valore affettivo altissimo: lasciale spazio per raccogliere foto, pensieri e ricordi di questo momento importante. Un dono semplice, ma che nel tempo diventa un vero tesoro.</li></ul>",
+            "button_label": "Idee Regalo Laurea e Diploma",
+            "button_link": "https://www.unicoemultiplo.com/collections/idee-regalo-laurea-e-diploma?filter.v.price.gte=&filter.v.price.lte=60&sort_by=created-descending"
+          }
+        },
+        "row_Xn6UJn": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/invito-a-cena-idee-regalo.webp",
+            "caption": "",
+            "heading": "",
+            "text": "<h3><strong>Soluzioni low cost per una cena, un invito o un gesto improvviso</strong></h3><p>Per un invito a cena o un incontro last minute, la regola è semplice: <strong>non arrivare mai a mani vuote,</strong> ma nemmeno con qualcosa di impegnativo.</p><ul><li>Porta una bottiglia di olio d’oliva pregiato accompagnata da una <a href=\"/collections/cucina-e-tavola-set-olio-aceto-sale-pepe\" title=\"Set Olio Aceto Sale Pepe\"><strong>oliera elegante</strong></a>: utile e scenografica.<br/></li><li>Un <a href=\"/collections/cucina-e-tavola-tazze-tazzine-mug\" title=\"Tazze, Tazzine e Mug\"><strong>set da tè o caffè</strong></a> in porcellana bianca è un’idea raffinata, perfetta per chi ama le coccole quotidiane.<br/></li><li>Una <a href=\"/collections/illuminazione-candelabri-e-candele\" title=\"Candelabri e Candele\"><strong>candela profumata</strong></a><strong> </strong>da tavolo crea sempre un bel momento e scalda l'atmosfera.</li></ul>",
+            "button_label": "Idee Regalo per la Casa",
+            "button_link": "https://www.unicoemultiplo.com/collections/idee-regalo-per-casa-e-cucina?filter.v.price.gte=&filter.v.price.lte=60&sort_by=manual"
+          }
+        }
+      },
+      "block_order": [
+        "row_GLrVUe",
+        "row_9NQAgr",
+        "row_Xn6UJn"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_rEpzeR": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ti8DtJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/verygoods-candela-1.jpg",
+            "title": "",
+            "text": "<p><strong>CANDELE</strong><br/>Accendono atmosfere (e sorrisi)</p>",
+            "link_label": "",
+            "link": "shopify://collections/illuminazione-candelabri-e-candele"
+          }
+        },
+        "column_K6dApD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/kikkerland-decorate-your-own-cup-kit-kit-decora-la-tua-tazza_1.webp",
+            "title": "",
+            "text": "<p><strong>EFFETTO \"WOW\"</strong></p><p>Idee regalo che lasciano il segno.</p>",
+            "link_label": "",
+            "link": "shopify://collections/kikkerland"
+          }
+        },
+        "column_r7fJtT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Doiy-design-scatola_6fad84bf-3209-4700-8a2a-a9fe73f2a740.webp",
+            "title": "",
+            "text": "<p><strong>COLOUR LOVER</strong></p><p>Design pop e ironico, a tutta cromia!</p>",
+            "link_label": "",
+            "link": "shopify://collections/doiy"
+          }
+        },
+        "column_NWwBQe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/josephjoseph-natale.webp",
+            "title": "",
+            "text": "<p><strong>JOSEPHJOSEPH</strong></p><p>Colorati, utili, irresistibili</p>",
+            "link_label": "",
+            "link": "shopify://collections/disegnetti-depressetti"
+          }
+        },
+        "column_WGCFK9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/printwork-happily-ever-after-album-fotp-1.webp",
+            "title": "",
+            "text": "<p><strong>PRINTWORKS</strong></p><p>idee regalo da ricordare!</p>",
+            "link_label": "",
+            "link": "shopify://collections/printworks"
+          }
+        },
+        "column_ApnEdY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-home-tazze-e-tazzine.webp",
+            "title": "",
+            "text": "<h3><strong>TÈ & CAFFÈ</strong></h3><p>Sveglia il suo sorriso, una tazza alla volta.</p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-tazze-tazzine-mug"
+          }
+        }
+      },
+      "block_order": [
+        "column_ti8DtJ",
+        "column_K6dApD",
+        "column_r7fJtT",
+        "column_NWwBQe",
+        "column_WGCFK9",
+        "column_ApnEdY"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "multicolumn_CY3JEF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_8HmMqd": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pHDQ4g": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Un buon regalo non si misura dal prezzo, ma dall’<strong>attenzione con cui viene scelto</strong>. Anche con meno di 50€, puoi trovare oggetti che raccontano una storia, fanno sorridere o diventano davvero utili nella vita quotidiana.<br/>Conoscere chi riceverà il regalo è la chiave: basta un dettaglio — un colore, un’abitudine, una passione — per fare centro. Che si tratti di un pensiero per lui, per lei o per chi ama la casa, ecco alcune idee concrete e “furbe” per <strong>regalare bene anche con un piccolo budget</strong>.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_8HmMqd",
+        "column_pHDQ4g"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Idee regalo economiche ma pensate per la persona giusta",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_NT6a7n": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_fnCG6f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/kikkerland-maps-idea-regalo-natale-ciRHFm3Kd-transformed_1.jpg",
+            "title": "",
+            "text": "<h3><strong>Regali economici per lui, pratici e senza fronzoli</strong></h3><p><br/>Per amici, fratelli, colleghi o partner: <strong>idee sotto i 50€</strong> che uniscono utilità e stile, oggetti <strong>concreti ma mai banali</strong><br/>Piccoli oggetti <strong>intelligenti e creativi</strong>: perfetti per amiche, colleghe o occasioni leggere.<br/><br/><strong>IDEE PER LUI →</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lui?filter.v.price.gte=&filter.v.price.lte=55&sort_by=created-descending"
+          }
+        },
+        "column_fLrJCK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/damigelle-idee-regalo.webp",
+            "title": "",
+            "text": "<h3><strong>Regali low cost per lei, curati nei dettagli</strong></h3><p><br/>Piccole attenzioni che parlano di gusto e personalità.<br/>Tra <strong>candele, vasi  e tazze</strong> trovi pensieri sotto i 50€ che sanno sorprendere con eleganza.<br/>Perfetti per <strong>sorelle, amiche o colleghe</strong> che amano i dettagli.<br/><br/><strong>IDEE PER LEI →</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=55&sort_by=manual"
+          }
+        },
+        "column_L8VdTy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/k7_beatrice_rossetti-knindustrie-idee-natale.webp",
+            "title": "",
+            "text": "<h3><strong>Idee regalo per chi ama la casa, anche con un piccolo budget</strong></h3><p><br/>Accessori e oggettistica funzionale per chi vuole <strong>rendere accogliente ogni spazio senza spendere troppo</strong>.<br/>Ogni idea è pensata per portare calore alla vita di tutti i giorni.<br/><br/><strong>IDEE PER  LA CASA →</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-per-casa-e-cucina?filter.v.price.gte=&filter.v.price.lte=55&sort_by=manual"
+          }
+        }
+      },
+      "block_order": [
+        "column_fnCG6f",
+        "column_fLrJCK",
+        "column_L8VdTy"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_8Dt9UY": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_n79hQr": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_M6iqF3": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Anche con un budget sotto i 50€, puoi scegliere <strong>oggetti belli, utili e mai scontati</strong>. Il segreto è puntare su design, colore e idee intelligenti: piccoli gesti che fanno grande effetto. Per stupire senza spendere troppo, scegli <strong>pezzi dal carattere deciso.</strong></p><p><strong>Oggetti multiuso</strong> o con dettagli inaspettati, che uniscono estetica e praticità: Sono pensieri dal prezzo leggero, ma dallo <strong>stile che lascia il segno</strong>.<br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_n79hQr",
+        "column_M6iqF3"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Regali economici che sorprendono per originalità e buon gusto",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_wDET3k": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ggxnNz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/13132_2.jpg",
+            "title": "",
+            "text": "<p><strong>MIHO</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/miho?filter.v.price.gte=&filter.v.price.lte=55&sort_by=manual"
+          }
+        },
+        "column_cQLFkJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-home-torchon-posate.png",
+            "title": "",
+            "text": "<p><strong>BITOSSI HOME</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/torchon-bitossi-home"
+          }
+        },
+        "column_CWEJdV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/doiy-rainbow-reggilibri-4.webp",
+            "title": "",
+            "text": "<p><strong>DOIY</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/doiy"
+          }
+        },
+        "column_Yafq3C": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-toiletpaper-tappeto-bagno-shit-sagomato-2.jpg",
+            "title": "",
+            "text": "<p><strong>SELETTI</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/tappeti-e-tappetini-seletti?filter.v.price.gte=&filter.v.price.lte=60&sort_by=created-descending"
+          }
+        },
+        "column_mPJdWC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-not-ice-cubetti-pietra-ollare-4.jpg",
+            "title": "",
+            "text": "<p><strong>KNINDUSTRIE</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/1558-knindustrie-not-ice-cubetti-pietra-ollare"
+          }
+        },
+        "column_7Xkjqn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/printwork-chess-play-scacchiera-da-tavolo-4.webp",
+            "title": "",
+            "text": "<p><strong>PRINTWORKS</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/printwork-chess-play-scacchiera-da-tavolo"
+          }
+        }
+      },
+      "block_order": [
+        "column_ggxnNz",
+        "column_cQLFkJ",
+        "column_CWEJdV",
+        "column_Yafq3C",
+        "column_mPJdWC",
+        "column_7Xkjqn"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "image_banner_iRzdG6": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_LDHWyc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ispirazioni e consigli per regali economici ma mai scontati",
+            "heading_size": "h1"
+          }
+        },
+        "text_UwXjBM": {
+          "type": "text",
+          "settings": {
+            "text": "Fare bella figura non richiede grandi spese: basta <strong>scegliere con cuore e un pizzico di creatività</strong>. Questa sezione è pensata per chi vuole stupire con poco, trovando<strong> ispirazioni </strong>reali e facili da mettere in pratica. Anche un regalo economico può diventare <strong>speciale</strong>, se racconta qualcosa di personale. Ecco qualche spunto per scegliere con gusto!",
+            "text_style": "body"
+          }
+        },
+        "buttons_iKXmUK": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Guide e idee per sorprendere anche con un piccolo budget",
+            "button_link_1": "shopify://blogs/regalare-per-stupire",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_LDHWyc",
+        "text_UwXjBM",
+        "buttons_iKXmUK"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/idee-regalo-economiche.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "custom_liquid_YVhqVc",
+    "product-grid",
+    "multicolumn_jEaAiD",
+    "multirow_c3DGJh",
+    "multicolumn_rEpzeR",
+    "multicolumn_CY3JEF",
+    "multicolumn_NT6a7n",
+    "multicolumn_8Dt9UY",
+    "multicolumn_wDET3k",
+    "image_banner_iRzdG6"
+  ]
+}
