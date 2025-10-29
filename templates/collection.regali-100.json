@@ -95,6 +95,68 @@
         "padding_bottom": 0
       }
     },
+    "collection_list_iFXbG7": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_WiqGxF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-compleanno"
+          }
+        },
+        "featured_collection_kEYTAb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-laurea-e-diploma"
+          }
+        },
+        "featured_collection_jH3rGH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-sposi"
+          }
+        },
+        "featured_collection_QdGCEm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-pasqua"
+          }
+        },
+        "featured_collection_fAbW4U": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-san-valentino"
+          }
+        },
+        "featured_collection_XYdHKm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-per-casa-e-cucina"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_WiqGxF",
+        "featured_collection_kEYTAb",
+        "featured_collection_jH3rGH",
+        "featured_collection_QdGCEm",
+        "featured_collection_fAbW4U",
+        "featured_collection_XYdHKm"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "<strong>Trova l’idea regalo giusta per ogni evento</strong>",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multirow_c3DGJh": {
       "type": "multirow",
       "blocks": {
@@ -268,68 +330,6 @@
         "swipe_on_mobile": true,
         "padding_top": 16,
         "padding_bottom": 16
-      }
-    },
-    "collection_list_iFXbG7": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_WiqGxF": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-compleanno"
-          }
-        },
-        "featured_collection_kEYTAb": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-laurea-e-diploma"
-          }
-        },
-        "featured_collection_jH3rGH": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-sposi"
-          }
-        },
-        "featured_collection_QdGCEm": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-pasqua"
-          }
-        },
-        "featured_collection_fAbW4U": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-san-valentino"
-          }
-        },
-        "featured_collection_XYdHKm": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-per-casa-e-cucina"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_WiqGxF",
-        "featured_collection_kEYTAb",
-        "featured_collection_jH3rGH",
-        "featured_collection_QdGCEm",
-        "featured_collection_fAbW4U",
-        "featured_collection_XYdHKm"
-      ],
-      "name": "t:sections.collection-list.presets.name",
-      "settings": {
-        "title": "<strong>Trova l’idea regalo giusta per ogni evento</strong>",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "color_scheme": "scheme-2",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "multicolumn_CY3JEF": {
@@ -631,9 +631,9 @@
     "custom_liquid_YVhqVc",
     "product-grid",
     "multicolumn_jEaAiD",
+    "collection_list_iFXbG7",
     "multirow_c3DGJh",
     "multicolumn_rEpzeR",
-    "collection_list_iFXbG7",
     "multicolumn_CY3JEF",
     "multicolumn_NT6a7n",
     "multicolumn_8Dt9UY",
