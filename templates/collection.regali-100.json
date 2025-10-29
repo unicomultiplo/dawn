@@ -341,8 +341,8 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/knindustrie-oliera-acetiera-4.webp",
-        "height": "adapt",
-        "desktop_image_width": "medium",
+        "height": "small",
+        "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -452,7 +452,7 @@
             "title": "",
             "text": "<h3><strong>Idee Regalo per il tuo lui</strong></h3><p><br/>Per amici, fratelli, colleghi o partner: <strong>idee sotto i 100€</strong> che uniscono utilità e stile, oggetti <strong>concreti ma mai banali.</strong><br/><br/><strong>IDEE PER LUI →</strong></p>",
             "link_label": "",
-            "link": ""
+            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lui?filter.v.price.gte=40&filter.v.price.lte=110&sort_by=created-descending"
           }
         },
         "column_fLrJCK": {
@@ -462,7 +462,7 @@
             "title": "",
             "text": "<h3><strong>Idee Regalo per la tua lei</strong></h3><p><br/>Piccole attenzioni che parlano di gusto e personalità.<br/>Perfetti per <strong>sorelle, amiche, colleghe </strong>che amano i dettagli.<br/><br/><strong>IDEE PER LEI →</strong></p>",
             "link_label": "",
-            "link": ""
+            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=40&filter.v.price.lte=110&sort_by=manual"
           }
         },
         "column_L8VdTy": {
@@ -472,7 +472,7 @@
             "title": "",
             "text": "<h3><strong>Regali per i colleghi</strong></h3><p><br/>Per colleghi, collaboratori o capi che apprezzano lo stile sobrio ma ricercato trova il tuo <strong>regalo sotto i 100€.</strong><br/><br/><strong>IDEE PER COLLEGHI →</strong></p>",
             "link_label": "",
-            "link": ""
+            "link": "https://www.unicoemultiplo.com/collections/tempo-libero?filter.v.price.gte=40&filter.v.price.lte=110&sort_by=manual"
           }
         }
       },
@@ -574,6 +574,7 @@
         "column_mPJdWC",
         "column_7Xkjqn"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
