@@ -67,7 +67,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Quando il momento è importante, questa fascia di spesa permette di scegliere con attenzione e senza compromessi.<br/>Con un budget sotto i 100€, puoi trovare <strong>oggetti di valore, eleganti e simbolici</strong>, capaci di accompagnare ogni tipo di ricorrenza con il giusto equilibrio tra <strong>raffinatezza e semplicità</strong>.<br/></p>",
+            "text": "<p><em>Quando l'evento è speciale, la fascia dei 150€ permette di scegliere doni simbolici e di valore.<br/></em>Con un budget di 150 €, puoi scegliere <strong>regali simbolici e di valore</strong>, perfetti per dire grazie, augurare fortuna o celebrare chi ami con eleganza. Puoi spaziare tra <strong>marchi iconici e collezioni di tendenza</strong> — come <em>Seletti</em>, <em>KnIndustrie</em> e <em>Bitossi</em> — per trovare <strong>regali raffinati, ironici o funzionali</strong> in base all’occasione e al legame che vuoi celebrare.<br/>Un anniversario, una laurea o una nuova casa diventano il momento ideale per regalare qualcosa che resti nel tempo, curato nei dettagli e nel pensiero.</p>",
             "link_label": "",
             "link": ""
           }
@@ -77,10 +77,9 @@
         "column_gM9GAP",
         "column_qUMMa4"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Proposte regalo fino a 100€ per occasioni e ricorrenze importanti",
+        "title": "Momenti e ricorrenze da celebrare con un regalo che conta",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
