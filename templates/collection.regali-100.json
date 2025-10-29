@@ -95,66 +95,48 @@
         "padding_bottom": 0
       }
     },
-    "collection_list_iFXbG7": {
-      "type": "collection-list",
+    "multicolumn_qLLKQj": {
+      "type": "multicolumn",
       "blocks": {
-        "featured_collection_WiqGxF": {
-          "type": "featured_collection",
+        "column_746nNM": {
+          "type": "column",
           "settings": {
-            "collection": "idee-regalo-compleanno"
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         },
-        "featured_collection_kEYTAb": {
-          "type": "featured_collection",
+        "column_PGkWma": {
+          "type": "column",
           "settings": {
-            "collection": "idee-regalo-laurea-e-diploma"
-          }
-        },
-        "featured_collection_jH3rGH": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-sposi"
-          }
-        },
-        "featured_collection_QdGCEm": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-pasqua"
-          }
-        },
-        "featured_collection_fAbW4U": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-san-valentino"
-          }
-        },
-        "featured_collection_XYdHKm": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-per-casa-e-cucina"
+            "title": "",
+            "text": "<p><br/>Scegliere un oggetto che unisce <strong>funzionalità, estetica e qualità</strong> significa fare un dono che verrà davvero utilizzato, e ricordato nel tempo. Con un budget sotto i 100 €, puoi trovare <strong>idee regalo di design </strong>che portano eleganza nella quotidianità: accessori intelligenti, articoli per la casa e la cucina, oggetti per l’ufficio o per il relax domestico.<br/>Sia che tu stia cercando un <strong>pensiero </strong>per una <strong>nuova casa, un compleanno o una ricorrenza speciale</strong>, qui trovi proposte che sanno sorprendere con discrezione e buon gusto.</p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "featured_collection_WiqGxF",
-        "featured_collection_kEYTAb",
-        "featured_collection_jH3rGH",
-        "featured_collection_QdGCEm",
-        "featured_collection_fAbW4U",
-        "featured_collection_XYdHKm"
+        "column_746nNM",
+        "column_PGkWma"
       ],
-      "name": "t:sections.collection-list.presets.name",
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>Trova l’idea regalo giusta per ogni evento</strong>",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "title": "Proposte regalo fino a 100€ per occasioni e ricorrenze importanti",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 32,
+        "padding_bottom": 0
       }
     },
     "multirow_c3DGJh": {
@@ -312,6 +294,7 @@
         "column_WGCFK9",
         "column_ApnEdY"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -330,6 +313,68 @@
         "swipe_on_mobile": true,
         "padding_top": 16,
         "padding_bottom": 16
+      }
+    },
+    "collection_list_iFXbG7": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_WiqGxF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-compleanno"
+          }
+        },
+        "featured_collection_kEYTAb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-laurea-e-diploma"
+          }
+        },
+        "featured_collection_jH3rGH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-sposi"
+          }
+        },
+        "featured_collection_QdGCEm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-pasqua"
+          }
+        },
+        "featured_collection_fAbW4U": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-san-valentino"
+          }
+        },
+        "featured_collection_XYdHKm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-per-casa-e-cucina"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_WiqGxF",
+        "featured_collection_kEYTAb",
+        "featured_collection_jH3rGH",
+        "featured_collection_QdGCEm",
+        "featured_collection_fAbW4U",
+        "featured_collection_XYdHKm"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "<strong>Trova l’idea regalo giusta per ogni evento</strong>",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn_CY3JEF": {
@@ -631,9 +676,10 @@
     "custom_liquid_YVhqVc",
     "product-grid",
     "multicolumn_jEaAiD",
-    "collection_list_iFXbG7",
+    "multicolumn_qLLKQj",
     "multirow_c3DGJh",
     "multicolumn_rEpzeR",
+    "collection_list_iFXbG7",
     "multicolumn_CY3JEF",
     "multicolumn_NT6a7n",
     "multicolumn_8Dt9UY",
