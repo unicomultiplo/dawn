@@ -178,67 +178,6 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_NT6a7n": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_fnCG6f": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/kikkerland-maps-idea-regalo-natale-ciRHFm3Kd-transformed_1.jpg",
-            "title": "",
-            "text": "<h3><strong>Regali economici per lui, pratici e senza fronzoli</strong></h3><p><br/>Per amici, fratelli, colleghi o partner: <strong>idee sotto i 50€</strong> che uniscono utilità e stile, oggetti <strong>concreti ma mai banali</strong><br/>Piccoli oggetti <strong>intelligenti e creativi</strong>: perfetti per amiche, colleghe o occasioni leggere.<br/><br/><strong>IDEE PER LUI →</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lui?filter.v.price.gte=&filter.v.price.lte=55&sort_by=created-descending"
-          }
-        },
-        "column_fLrJCK": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/damigelle-idee-regalo.webp",
-            "title": "",
-            "text": "<h3><strong>Regali low cost per lei, curati nei dettagli</strong></h3><p><br/>Piccole attenzioni che parlano di gusto e personalità.<br/>Tra <strong>candele, vasi  e tazze</strong> trovi pensieri sotto i 50€ che sanno sorprendere con eleganza.<br/>Perfetti per <strong>sorelle, amiche o colleghe</strong> che amano i dettagli.<br/><br/><strong>IDEE PER LEI →</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=55&sort_by=manual"
-          }
-        },
-        "column_L8VdTy": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/k7_beatrice_rossetti-knindustrie-idee-natale.webp",
-            "title": "",
-            "text": "<h3><strong>Idee regalo per chi ama la casa, anche con un piccolo budget</strong></h3><p><br/>Accessori e oggettistica funzionale per chi vuole <strong>rendere accogliente ogni spazio senza spendere troppo</strong>.<br/>Ogni idea è pensata per portare calore alla vita di tutti i giorni.<br/><br/><strong>IDEE PER  LA CASA →</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-per-casa-e-cucina?filter.v.price.gte=&filter.v.price.lte=55&sort_by=manual"
-          }
-        }
-      },
-      "block_order": [
-        "column_fnCG6f",
-        "column_fLrJCK",
-        "column_L8VdTy"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn_rEpzeR": {
       "type": "multicolumn",
       "blocks": {
@@ -311,6 +250,7 @@
         "column_WGCFK9",
         "column_ApnEdY"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -375,6 +315,193 @@
         "padding_bottom": 0
       }
     },
+    "image_with_text_pCmiAe": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_7rmG4q": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Idee regalo per la casa e la cucina</strong></h3><p>Le nostre <strong>idee regalo sotto i 100 € per la casa e la cucina</strong> spaziano dagli <strong>utensili funzionali di design</strong> agli <strong>accessori decorativi contemporanei</strong>, fino ai <strong>profumatori e alle candele artigianali</strong> che creano atmosfere accoglienti.</p><p>Scegli tra:</p><ul><li><strong>Articoli per la tavola e la mise en place</strong> – bicchieri, tazze, piatti e vassoi che combinano design e convivialità.<br/></li><li><strong>Accessori per la cucina smart</strong> – soluzioni intelligenti come gli utensili <em>Joseph Joseph</em>, perfetti per chi ama cucinare con praticità e stile.<br/></li><li><strong>Complementi d’arredo</strong> – oggetti <em>Seletti</em> o <em>Printworks</em> dal carattere unico, per dare personalità agli ambienti.<br/></li><li><strong>Candele e fragranze d’ambiente</strong> – idee raffinate che trasformano ogni stanza in uno spazio più intimo e piacevole.<br/></li></ul><p>Sono regali pensati per chi apprezza il design funzionale e per chi crede che <strong>anche i gesti quotidiani possano avere bellezza</strong>.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_YCTLkn": {
+          "type": "button",
+          "settings": {
+            "button_label": "Idee Regalo Casa e Cucina",
+            "button_link": "shopify://collections/idee-regalo-per-casa-e-cucina",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "text_7rmG4q",
+        "button_YCTLkn"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/knindustrie-oliera-acetiera-4.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_H9k83a": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_GHqMQJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Buoni regalo e Gift Card U&M da 100€",
+            "heading_size": "h2"
+          }
+        },
+        "text_UadaJa": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Quando la scelta diventa difficile, la soluzione più elegante è lasciare libertà.</em><br/><br/>Le <strong>Gift Card Unico & Multiplo</strong> rappresentano un dono versatile, adatto a ogni età e occasione.<br/>Con un buono regalo da 100 €, offri la possibilità di <strong>scegliere tra design, accessori e oggetti d’autore</strong>, mantenendo intatto il piacere di ricevere qualcosa di pensato.</p>"
+          }
+        },
+        "button_bh33Gd": {
+          "type": "button",
+          "settings": {
+            "button_label": "Gift Card da 100€",
+            "button_link": "shopify://products/gift-card-u-m-carta-regalo-32",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_GHqMQJ",
+        "text_UadaJa",
+        "button_bh33Gd"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_HVEdWC": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_47i7Ak": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_46wGzw": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Nella fascia di prezzo sotto i 100 €, trovi una selezione di <strong>idee regalo personalizzate e significative</strong>, pensate per adattarsi ai diversi legami che contano davvero: l’amore, l’amicizia, la famiglia, la riconoscenza.<br/><br/>Scegliere con attenzione è il modo più autentico per dire <em>“ti conosco, ti apprezzo, ti ho pensato”</em>.</p><p>Non serve cercare l’oggetto perfetto, ma quello giusto per la persona giusta: un profumo d’ambiente per chi ama la casa, un accessorio per chi vive di dettagli, un piccolo oggetto di design per chi apprezza l’ironia e la creatività.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_47i7Ak",
+        "column_46wGzw"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Regali fino a 100€ pensati per la persona giusta",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 32,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_NT6a7n": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_fnCG6f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/kikkerland-maps-idea-regalo-natale-ciRHFm3Kd-transformed_1.jpg",
+            "title": "",
+            "text": "<h3><strong>Regali economici per lui, pratici e senza fronzoli</strong></h3><p><br/>Per amici, fratelli, colleghi o partner: <strong>idee sotto i 50€</strong> che uniscono utilità e stile, oggetti <strong>concreti ma mai banali</strong><br/>Piccoli oggetti <strong>intelligenti e creativi</strong>: perfetti per amiche, colleghe o occasioni leggere.<br/><br/><strong>IDEE PER LUI →</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lui?filter.v.price.gte=&filter.v.price.lte=55&sort_by=created-descending"
+          }
+        },
+        "column_fLrJCK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/damigelle-idee-regalo.webp",
+            "title": "",
+            "text": "<h3><strong>Regali low cost per lei, curati nei dettagli</strong></h3><p><br/>Piccole attenzioni che parlano di gusto e personalità.<br/>Tra <strong>candele, vasi  e tazze</strong> trovi pensieri sotto i 50€ che sanno sorprendere con eleganza.<br/>Perfetti per <strong>sorelle, amiche o colleghe</strong> che amano i dettagli.<br/><br/><strong>IDEE PER LEI →</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=55&sort_by=manual"
+          }
+        },
+        "column_L8VdTy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/k7_beatrice_rossetti-knindustrie-idee-natale.webp",
+            "title": "",
+            "text": "<h3><strong>Idee regalo per chi ama la casa, anche con un piccolo budget</strong></h3><p><br/>Accessori e oggettistica funzionale per chi vuole <strong>rendere accogliente ogni spazio senza spendere troppo</strong>.<br/>Ogni idea è pensata per portare calore alla vita di tutti i giorni.<br/><br/><strong>IDEE PER  LA CASA →</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-per-casa-e-cucina?filter.v.price.gte=&filter.v.price.lte=55&sort_by=manual"
+          }
+        }
+      },
+      "block_order": [
+        "column_fnCG6f",
+        "column_fLrJCK",
+        "column_L8VdTy"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_wDET3k": {
       "type": "multicolumn",
       "blocks": {
@@ -391,11 +518,11 @@
         "column_cQLFkJ": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/bitossi-home-torchon-posate.png",
+            "image": "shopify://shop_images/bitossi-home-la-tavola-scomposta-piattino-ti-amo.jpg",
             "title": "",
             "text": "<p><strong>BITOSSI HOME</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/torchon-bitossi-home"
+            "link": "shopify://collections/bitossi-home-i-piattini-bitossi-home"
           }
         },
         "column_CWEJdV": {
@@ -415,7 +542,7 @@
             "title": "",
             "text": "<p><strong>SELETTI</strong></p>",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/tappeti-e-tappetini-seletti?filter.v.price.gte=&filter.v.price.lte=60&sort_by=created-descending"
+            "link": "shopify://collections/seletti-catalogo-prodotti-toiletpaper"
           }
         },
         "column_mPJdWC": {
@@ -425,7 +552,7 @@
             "title": "",
             "text": "<p><strong>KNINDUSTRIE</strong></p>",
             "link_label": "",
-            "link": "shopify://products/1558-knindustrie-not-ice-cubetti-pietra-ollare"
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
           }
         },
         "column_7Xkjqn": {
@@ -523,9 +650,12 @@
     "product-grid",
     "multicolumn_jEaAiD",
     "multirow_c3DGJh",
-    "multicolumn_NT6a7n",
     "multicolumn_rEpzeR",
     "multicolumn_qLLKQj",
+    "image_with_text_pCmiAe",
+    "rich_text_H9k83a",
+    "multicolumn_HVEdWC",
+    "multicolumn_NT6a7n",
     "multicolumn_wDET3k",
     "image_banner_iRzdG6"
   ]
