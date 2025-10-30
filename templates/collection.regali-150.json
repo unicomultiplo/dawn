@@ -210,50 +210,6 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_cVegTa": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_wH383f": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_4mWVUt": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Un regalo scelto bene non è questione di prezzo, ma di intenzione. Con 150 € puoi dedicare qualcosa di bello, utile e duraturo alle persone più importanti: <strong>partner, genitori, amici o colleghi speciali</strong>.<br/>Che si tratti di un pensiero per il partner, per un genitore o per un amico speciale, un regalo sotto i 150 € diventa <strong>un modo autentico per comunicare affetto e riconoscenza</strong>.Sono proposte pensate per ogni tipo di legame - dall’amore alla gratitudine, dall’amicizia alla stima - accomunate da una stessa idea: <strong>regalare bene, con stile e senza eccessi</strong>.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_wH383f",
-        "column_4mWVUt"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Regali fino a 150€ per le persone più importanti",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 32,
-        "padding_bottom": 0
-      }
-    },
     "multicolumn_NT6a7n": {
       "type": "multicolumn",
       "blocks": {
@@ -301,6 +257,50 @@
         "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 36
+      }
+    },
+    "multicolumn_cVegTa": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_wH383f": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_4mWVUt": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Un regalo scelto bene non è questione di prezzo, ma di intenzione. Con 150 € puoi dedicare qualcosa di bello, utile e duraturo alle persone più importanti: <strong>partner, genitori, amici o colleghi speciali</strong>.<br/>Che si tratti di un pensiero per il partner, per un genitore o per un amico speciale, un regalo sotto i 150 € diventa <strong>un modo autentico per comunicare affetto e riconoscenza</strong>.Sono proposte pensate per ogni tipo di legame - dall’amore alla gratitudine, dall’amicizia alla stima - accomunate da una stessa idea: <strong>regalare bene, con stile e senza eccessi</strong>.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_wH383f",
+        "column_4mWVUt"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Regali fino a 150€ per le persone più importanti",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 32,
+        "padding_bottom": 0
       }
     },
     "multicolumn_wDET3k": {
@@ -416,7 +416,7 @@
         "buttons_iKXmUK": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Guide e idee per sorprendere anche con un piccolo budget",
+            "button_label_1": "Regalare per Stupire",
             "button_link_1": "shopify://blogs/regalare-per-stupire",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -453,8 +453,8 @@
     "multicolumn_jEaAiD",
     "multirow_c3DGJh",
     "multicolumn_HVEdWC",
-    "multicolumn_cVegTa",
     "multicolumn_NT6a7n",
+    "multicolumn_cVegTa",
     "multicolumn_wDET3k",
     "image_banner_iRzdG6"
   ]
