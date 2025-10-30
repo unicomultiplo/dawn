@@ -275,7 +275,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Un regalo scelto bene non è questione di prezzo, ma di intenzione. Con 150 € puoi dedicare qualcosa di bello, utile e duraturo alle persone più importanti: <strong>partner, genitori, amici o colleghi speciali</strong>.<br/>Che si tratti di un pensiero per il partner, per un genitore o per un amico speciale, un regalo sotto i 150 € diventa <strong>un modo autentico per comunicare affetto e riconoscenza</strong>.Sono proposte pensate per ogni tipo di legame - dall’amore alla gratitudine, dall’amicizia alla stima - accomunate da una stessa idea: <strong>regalare bene, con stile e senza eccessi</strong>.</p>",
+            "text": "<p>Se cerchi un regalo che sorprenda, il design è la risposta giusta.<br/>Le nostre <strong>idee regalo sotto i 150 €</strong> includono <strong>lampade artistiche, vasi scultorei, complementi d’arredo ironici o raffinati, accessori lifestyle e oggetti decorativi unici</strong>, perfetti per chi ama distinguersi.<br/>Dalle linee divertenti e pop di <em>Seletti</em> alla sobrietà elegante di <em>KnIndustrie</em>, fino alle nuance artistiche di <em>Bitossi</em>, ogni oggetto è <strong>una piccola opera d’arte da vivere ogni giorno</strong>.</p>",
             "link_label": "",
             "link": ""
           }
@@ -287,7 +287,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Regali fino a 150€ per le persone più importanti",
+        "title": "Regali di design e oggetti particolari sotto i 150€",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -396,6 +396,103 @@
         "padding_bottom": 16
       }
     },
+    "image_banner_46BVie": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_N7HrfG": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Regali di design e oggetti particolari sotto i 150€</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_XaakUe": {
+          "type": "text",
+          "settings": {
+            "text": "Le nostre <strong>idee regalo sotto i 150 €</strong> includono <strong>lampade artistiche, vasi scultorei, complementi d’arredo ironici o raffinati, accessori lifestyle e oggetti decorativi unici</strong>, perfetti per chi ama distinguersi.Dalle linee divertenti e pop di <em>Seletti</em> alla sobrietà elegante di <em>KnIndustrie</em>, fino alle nuance artistiche di <em>Bitossi</em>, ogni oggetto è <strong>una piccola opera d’arte da vivere ogni giorno</strong>.",
+            "text_style": "body"
+          }
+        },
+        "buttons_qyXqBH": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Oggetti di design",
+            "button_link_1": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=80&filter.v.price.lte=160&filter.p.tag=Natale+2025&sort_by=manual",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_N7HrfG",
+        "text_XaakUe",
+        "buttons_qyXqBH"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/seletti-forniture-new-chair-superforniture.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_with_text_QpGaP9": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_VqyA9m": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_7zBPJX": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Proposte per la Casa o per iniziare una Nuova Attività</strong></h3><p>Un nuovo spazio, una nuova vita, un nuovo inizio: ogni cambiamento merita un oggetto che lo accompagni!<br/><br/>I <strong>regali sotto i 150 € per la casa o per una nuova attività</strong> sono perfetti per chi vuole unire <strong>praticità e stile</strong>, scegliendo <strong>accessori d’arredo, set da cucina o articoli decorativi</strong> che portano armonia negli ambienti.<br/><br/>Ideali per una <strong>coppia che inizia una convivenza</strong>, per un <strong>amico che apre un’attività</strong> o per chi ama <strong>rinnovare i propri spazi</strong> con oggetti che non passano inosservati.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_rMbGpE": {
+          "type": "button",
+          "settings": {
+            "button_label": "Idee Regalo Casa & Cucina",
+            "button_link": "https://www.unicoemultiplo.com/collections/idee-regalo-per-casa-e-cucina?filter.v.price.gte=80&filter.v.price.lte=160&sort_by=manual",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_VqyA9m",
+        "text_7zBPJX",
+        "button_rMbGpE"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/idee-regalo-casa-nuova-cucina-150-euro-unico-e-multiplo.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner_iRzdG6": {
       "type": "image-banner",
       "blocks": {
@@ -434,7 +531,7 @@
       "settings": {
         "image": "shopify://shop_images/cosa-regalare-per-diciottesimo-compleanno.webp",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -456,6 +553,8 @@
     "multicolumn_NT6a7n",
     "multicolumn_cVegTa",
     "multicolumn_wDET3k",
+    "image_banner_46BVie",
+    "image_with_text_QpGaP9",
     "image_banner_iRzdG6"
   ]
 }
