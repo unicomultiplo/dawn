@@ -166,99 +166,6 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_rEpzeR": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_ti8DtJ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/verygoods-candela-1.jpg",
-            "title": "",
-            "text": "<p><strong>CANDELE</strong><br/>Accendono atmosfere (e sorrisi)</p>",
-            "link_label": "",
-            "link": "shopify://collections/illuminazione-candelabri-e-candele"
-          }
-        },
-        "column_K6dApD": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/kikkerland-decorate-your-own-cup-kit-kit-decora-la-tua-tazza_1.webp",
-            "title": "",
-            "text": "<p><strong>EFFETTO \"WOW\"</strong></p><p>Idee regalo che lasciano il segno.</p>",
-            "link_label": "",
-            "link": "shopify://collections/kikkerland"
-          }
-        },
-        "column_r7fJtT": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Doiy-design-scatola_6fad84bf-3209-4700-8a2a-a9fe73f2a740.webp",
-            "title": "",
-            "text": "<p><strong>COLOUR LOVER</strong></p><p>Design pop e ironico, a tutta cromia!</p>",
-            "link_label": "",
-            "link": "shopify://collections/doiy"
-          }
-        },
-        "column_NWwBQe": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/bitossi-home-torchon-formaggi-posate_feb622f1-a39e-4178-afcc-1f2d056a348b.webp",
-            "title": "",
-            "text": "<p><strong>BITOSSI <br/></strong></p><p>Colorati, utili, irresistibili</p>",
-            "link_label": "",
-            "link": "shopify://collections/disegnetti-depressetti"
-          }
-        },
-        "column_WGCFK9": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/printwork-happily-ever-after-album-fotp-1.webp",
-            "title": "",
-            "text": "<p><strong>PRINTWORKS</strong></p><p>idee regalo da ricordare!</p>",
-            "link_label": "",
-            "link": "shopify://collections/printworks"
-          }
-        },
-        "column_ApnEdY": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Bitossi-home-tazze-e-tazzine.webp",
-            "title": "",
-            "text": "<h3><strong>TÈ & CAFFÈ</strong></h3><p>Sveglia il suo sorriso, una tazza alla volta.</p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-tazze-tazzine-mug"
-          }
-        }
-      },
-      "block_order": [
-        "column_ti8DtJ",
-        "column_K6dApD",
-        "column_r7fJtT",
-        "column_NWwBQe",
-        "column_WGCFK9",
-        "column_ApnEdY"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 16,
-        "padding_bottom": 16
-      }
-    },
     "multicolumn_qLLKQj": {
       "type": "multicolumn",
       "blocks": {
@@ -285,7 +192,6 @@
         "column_746nNM",
         "column_PGkWma"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Regali utili e di design sotto i 100€",
@@ -327,7 +233,6 @@
         "text_7rmG4q",
         "button_YCTLkn"
       ],
-      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/knindustrie-oliera-acetiera-4.webp",
@@ -378,7 +283,6 @@
         "text_UadaJa",
         "button_bh33Gd"
       ],
-      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
@@ -405,7 +309,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Nella fascia di prezzo sotto i 100 €, trovi una selezione di <strong>idee regalo personalizzate e significative</strong>, pensate per adattarsi ai diversi legami che contano davvero: l’amore, l’amicizia, la famiglia, la riconoscenza.<br/><br/>Scegliere con attenzione è il modo più autentico per dire <em>“ti conosco, ti apprezzo, ti ho pensato”</em>.</p><p>Non serve cercare l’oggetto perfetto, ma quello giusto per la persona giusta: un profumo d’ambiente per chi ama la casa, un accessorio per chi vive di dettagli, un piccolo oggetto di design per chi apprezza l’ironia e la creatività.</p>",
+            "text": "<p>Un regalo scelto bene non è questione di prezzo, ma di intenzione. Con 150 € puoi dedicare qualcosa di bello, utile e duraturo alle persone più importanti: <strong>partner, genitori, amici o colleghi speciali</strong>.<br/>Che si tratti di un pensiero per il partner, per un genitore o per un amico speciale, un regalo sotto i 150 € diventa <strong>un modo autentico per comunicare affetto e riconoscenza</strong>.Sono proposte pensate per ogni tipo di legame - dall’amore alla gratitudine, dall’amicizia alla stima - accomunate da una stessa idea: <strong>regalare bene, con stile e senza eccessi</strong>.</p>",
             "link_label": "",
             "link": ""
           }
@@ -415,10 +319,9 @@
         "column_47i7Ak",
         "column_46wGzw"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Regali fino a 100€ pensati per la persona giusta",
+        "title": "Regali fino a 150€ per le persone più importanti",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -473,14 +376,13 @@
         "column_fLrJCK",
         "column_L8VdTy"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "",
-        "heading_size": "h1",
+        "title": "<strong>Regali per lei e per lui, dal partner agli amici più vicini</strong>",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
         "columns_desktop": 3,
@@ -567,7 +469,6 @@
         "column_mPJdWC",
         "column_7Xkjqn"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -594,14 +495,14 @@
         "heading_LDHWyc": {
           "type": "heading",
           "settings": {
-            "heading": "Ispirazioni per chi cerca regali entro 100€ fuori dall’ordinario",
+            "heading": "Ispirazioni e consigli per regali fino a 150€",
             "heading_size": "h1"
           }
         },
         "text_UwXjBM": {
           "type": "text",
           "settings": {
-            "text": "Non tutti i regali devono seguire le regole.Per chi ama sorprendere e uscire dagli schemi, abbiamo selezionato <strong>idee creative e originali</strong> sotto i 100 €, perfette per chi “ha già tutto”. Oggetti dal design ironico, accessori smart, articoli per la casa o piccoli pensieri che fanno sorridere e restano nel tempo.",
+            "text": "Hai ancora dubbi su cosa scegliere?Lasciati ispirare da <strong>idee fuori dagli schemi</strong>, da regali creativi e raffinati che uniscono gusto e originalità.In questa sezione editoriale trovi suggerimenti per <strong>ogni occasione e ogni persona</strong>, dal Natale alla Festa della Mamma o del Papà, fino ai diciottesimi e alle ricorrenze più particolari.",
             "text_style": "body"
           }
         },
@@ -622,10 +523,9 @@
         "text_UwXjBM",
         "buttons_iKXmUK"
       ],
-      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/idee-regalo-economiche.jpg",
+        "image": "shopify://shop_images/unico-e-multiplo-regali.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -645,7 +545,6 @@
     "product-grid",
     "multicolumn_jEaAiD",
     "multirow_c3DGJh",
-    "multicolumn_rEpzeR",
     "multicolumn_qLLKQj",
     "image_with_text_pCmiAe",
     "rich_text_H9k83a",
