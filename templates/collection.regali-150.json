@@ -166,133 +166,6 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_qLLKQj": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_746nNM": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_PGkWma": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Scegliere un oggetto che unisce <strong>funzionalità, estetica e qualità</strong> significa fare un dono che verrà davvero utilizzato, e ricordato nel tempo. Con un budget sotto i 100 €, puoi trovare <strong>idee regalo di design </strong>che portano eleganza nella quotidianità: accessori intelligenti, articoli per la casa e la cucina, oggetti per l’ufficio o per il relax domestico.<br/>Sia che tu stia cercando un <strong>pensiero </strong>per una <strong>nuova casa, un compleanno o una ricorrenza speciale</strong>, qui trovi proposte che sanno sorprendere con discrezione e buon gusto.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_746nNM",
-        "column_PGkWma"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Regali utili e di design sotto i 100€",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 32,
-        "padding_bottom": 0
-      }
-    },
-    "image_with_text_pCmiAe": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_7rmG4q": {
-          "type": "text",
-          "settings": {
-            "text": "<h3><strong>Idee regalo per la casa e la cucina</strong></h3><p>Le nostre <strong>idee regalo sotto i 100 € per la casa e la cucina</strong> spaziano dagli <strong>utensili funzionali di design</strong> agli <strong>accessori decorativi contemporanei</strong>, fino ai <strong>profumatori e alle candele artigianali</strong> che creano atmosfere accoglienti.</p><p>Scegli tra:</p><ul><li><strong>Articoli per la tavola e la mise en place</strong> – bicchieri, tazze, piatti e vassoi che combinano design e convivialità.<br/></li><li><strong>Accessori per la cucina smart</strong> – soluzioni intelligenti come gli utensili <em>Joseph Joseph</em>, perfetti per chi ama cucinare con praticità e stile.<br/></li><li><strong>Complementi d’arredo</strong> – oggetti <em>Seletti</em> o <em>Printworks</em> dal carattere unico, per dare personalità agli ambienti.<br/></li><li><strong>Candele e fragranze d’ambiente</strong> – idee raffinate che trasformano ogni stanza in uno spazio più intimo e piacevole.<br/></li></ul><p>Sono regali pensati per chi apprezza il design funzionale e per chi crede che <strong>anche i gesti quotidiani possano avere bellezza</strong>.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_YCTLkn": {
-          "type": "button",
-          "settings": {
-            "button_label": "Idee Regalo Casa e Cucina",
-            "button_link": "shopify://collections/idee-regalo-per-casa-e-cucina",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "text_7rmG4q",
-        "button_YCTLkn"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/knindustrie-oliera-acetiera-4.webp",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "rich_text_H9k83a": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_GHqMQJ": {
-          "type": "heading",
-          "settings": {
-            "heading": "Buoni regalo e Gift Card U&M da 100€",
-            "heading_size": "h2"
-          }
-        },
-        "text_UadaJa": {
-          "type": "text",
-          "settings": {
-            "text": "<p><em>Quando la scelta diventa difficile, la soluzione più elegante è lasciare libertà.</em><br/><br/>Le <strong>Gift Card Unico & Multiplo</strong> rappresentano un dono versatile, adatto a ogni età e occasione.<br/>Con un buono regalo da 100 €, offri la possibilità di <strong>scegliere tra design, accessori e oggetti d’autore</strong>, mantenendo intatto il piacere di ricevere qualcosa di pensato.</p>"
-          }
-        },
-        "button_bh33Gd": {
-          "type": "button",
-          "settings": {
-            "button_label": "Gift Card da 100€",
-            "button_link": "shopify://products/gift-card-u-m-carta-regalo-32",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_GHqMQJ",
-        "text_UadaJa",
-        "button_bh33Gd"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "multicolumn_HVEdWC": {
       "type": "multicolumn",
       "blocks": {
@@ -343,38 +216,27 @@
         "column_fnCG6f": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/IZIPIZI-occhiali-da-sole-idee-regalo.webp",
+            "image": "shopify://shop_images/unico-e-multiplo-regali-originali.webp",
             "title": "",
-            "text": "<h3><strong>Idee Regalo per il tuo lui</strong></h3><p><br/>Per amici, fratelli, colleghi o partner: <strong>idee sotto i 100€</strong> che uniscono utilità e stile, oggetti <strong>concreti ma mai banali.</strong><br/><br/><strong>IDEE PER LUI →</strong></p>",
+            "text": "<h3><strong>Idee Regalo per il tuo lui</strong></h3><p><br/>Perfetti per partner, fratelli, colleghi o amici che apprezzano regali <strong>curati, di qualità e con personalità</strong>.<br/><strong>Idee regalo sotto i 150€</strong> che uniscono funzionalità ed estetica.<br/><br/><strong>IDEE PER LUI →</strong></p>",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lui?filter.v.price.gte=40&filter.v.price.lte=110&sort_by=created-descending"
+            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lui?filter.v.price.gte=80&filter.v.price.lte=160&sort_by=created-descending"
           }
         },
         "column_fLrJCK": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/verygoods-candela-1.jpg",
+            "image": "shopify://shop_images/unico-e-multiplo-idee-regalo-natale.webp",
             "title": "",
-            "text": "<h3><strong>Idee Regalo per la tua lei</strong></h3><p><br/>Piccole attenzioni che parlano di gusto e personalità.<br/>Perfetti per <strong>sorelle, amiche, colleghe </strong>che amano i dettagli.<br/><br/><strong>IDEE PER LEI →</strong></p>",
+            "text": "<h3><strong>Idee Regalo per la tua lei</strong></h3><p><br/>Perfette per compagne, sorelle, amiche o colleghe che amano la bellezza autentica e i gesti pensati con cura.<br/>Idee sotto i 150€ ideali per chi ama il design e le piccole attenzioni quotidiane.<br/><br/><strong>IDEE PER LEI →</strong></p>",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=40&filter.v.price.lte=110&sort_by=manual"
-          }
-        },
-        "column_L8VdTy": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/kikkerland-memo-idea-regalo-natale-cnydKuYmO-transformed_1.jpg",
-            "title": "",
-            "text": "<h3><strong>Regali per i colleghi</strong></h3><p><br/>Per colleghi, collaboratori o capi che apprezzano lo stile sobrio ma ricercato trova il tuo <strong>regalo sotto i 100€.</strong><br/><br/><strong>IDEE PER COLLEGHI →</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/tempo-libero?filter.v.price.gte=40&filter.v.price.lte=110&sort_by=manual"
+            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=80&filter.v.price.lte=160&sort_by=manual"
           }
         }
       },
       "block_order": [
         "column_fnCG6f",
-        "column_fLrJCK",
-        "column_L8VdTy"
+        "column_fLrJCK"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -385,7 +247,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
@@ -469,6 +331,7 @@
         "column_mPJdWC",
         "column_7Xkjqn"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -545,9 +408,6 @@
     "product-grid",
     "multicolumn_jEaAiD",
     "multirow_c3DGJh",
-    "multicolumn_qLLKQj",
-    "image_with_text_pCmiAe",
-    "rich_text_H9k83a",
     "multicolumn_HVEdWC",
     "multicolumn_NT6a7n",
     "multicolumn_wDET3k",
