@@ -303,99 +303,6 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_wDET3k": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_ggxnNz": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/13132_2.jpg",
-            "title": "",
-            "text": "<p><strong>MIHO</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/miho?filter.v.price.gte=&filter.v.price.lte=55&sort_by=manual"
-          }
-        },
-        "column_cQLFkJ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/bitossi-home-la-tavola-scomposta-piattino-ti-amo.jpg",
-            "title": "",
-            "text": "<p><strong>BITOSSI HOME</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/bitossi-home-i-piattini-bitossi-home"
-          }
-        },
-        "column_CWEJdV": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/doiy-rainbow-reggilibri-4.webp",
-            "title": "",
-            "text": "<p><strong>DOIY</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/doiy"
-          }
-        },
-        "column_Yafq3C": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-toiletpaper-tappeto-bagno-shit-sagomato-2.jpg",
-            "title": "",
-            "text": "<p><strong>SELETTI</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-toiletpaper"
-          }
-        },
-        "column_mPJdWC": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-not-ice-cubetti-pietra-ollare-4.jpg",
-            "title": "",
-            "text": "<p><strong>KNINDUSTRIE</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
-          }
-        },
-        "column_7Xkjqn": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/printwork-chess-play-scacchiera-da-tavolo-4.webp",
-            "title": "",
-            "text": "<p><strong>PRINTWORKS</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/printworks"
-          }
-        }
-      },
-      "block_order": [
-        "column_ggxnNz",
-        "column_cQLFkJ",
-        "column_CWEJdV",
-        "column_Yafq3C",
-        "column_mPJdWC",
-        "column_7Xkjqn"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 16,
-        "padding_bottom": 16
-      }
-    },
     "image_banner_46BVie": {
       "type": "image-banner",
       "blocks": {
@@ -493,6 +400,98 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_wDET3k": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ggxnNz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/13132_2.jpg",
+            "title": "",
+            "text": "<p><strong>MIHO</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/miho?filter.v.price.gte=&filter.v.price.lte=55&sort_by=manual"
+          }
+        },
+        "column_cQLFkJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-home-la-tavola-scomposta-piattino-ti-amo.jpg",
+            "title": "",
+            "text": "<p><strong>BITOSSI HOME</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-i-piattini-bitossi-home"
+          }
+        },
+        "column_CWEJdV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/doiy-rainbow-reggilibri-4.webp",
+            "title": "",
+            "text": "<p><strong>DOIY</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/doiy"
+          }
+        },
+        "column_Yafq3C": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-toiletpaper-tappeto-bagno-shit-sagomato-2.jpg",
+            "title": "",
+            "text": "<p><strong>SELETTI</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-catalogo-prodotti-toiletpaper"
+          }
+        },
+        "column_mPJdWC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-not-ice-cubetti-pietra-ollare-4.jpg",
+            "title": "",
+            "text": "<p><strong>KNINDUSTRIE</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
+          }
+        },
+        "column_7Xkjqn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/printwork-chess-play-scacchiera-da-tavolo-4.webp",
+            "title": "",
+            "text": "<p><strong>PRINTWORKS</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/printworks"
+          }
+        }
+      },
+      "block_order": [
+        "column_ggxnNz",
+        "column_cQLFkJ",
+        "column_CWEJdV",
+        "column_Yafq3C",
+        "column_mPJdWC",
+        "column_7Xkjqn"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "<strong>Idee regalo utili ma belle, entro i 150€</strong>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
     "image_banner_iRzdG6": {
       "type": "image-banner",
       "blocks": {
@@ -552,9 +551,9 @@
     "multicolumn_HVEdWC",
     "multicolumn_NT6a7n",
     "multicolumn_cVegTa",
-    "multicolumn_wDET3k",
     "image_banner_46BVie",
     "image_with_text_QpGaP9",
+    "multicolumn_wDET3k",
     "image_banner_iRzdG6"
   ]
 }
