@@ -472,6 +472,7 @@
         "column_mPJdWC",
         "column_7Xkjqn"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
