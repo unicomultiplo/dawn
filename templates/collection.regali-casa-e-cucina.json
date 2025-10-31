@@ -20,6 +20,16 @@
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
       }
     },
+    "custom_liquid_TGPL4x": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Natale\">\n  <nav class=\"xmas-quick-links\">\n    <a href=\"https://www.unicoemultiplo.com/collections/seletti\" class=\"button button--primary button--small\">Idee Regalo Seletti</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/knindustrie\" class=\"button button--primary button--small\">Idee Regalo KnIndustrie</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/bitossi-home\" class=\"button button--primary button--small\">Idee Regalo Bitossi Home</a> \n<a href=\"https://www.unicoemultiplo.com/collections/brabantia\" class=\"button button--primary button--small\">Idee regalo Brabantia</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-sposi\" class=\"button button--primary button--small\">Idee regalo Sposi</a>\n    <a href=\"https://www.unicoemultiplo.com/products/gift-card-u-m-carta-regalo-32\" class=\"button button--primary button--small\">Gift Card e Buoni Regali</a>\n  </nav>\n</div>\n\n<style>\n  .xmas-quick-links {\n    display:flex;\n    flex-wrap:wrap;\n    gap:.5rem;\n    margin:.5rem 0 1rem;\n  }\n  /* Optional: bottoni a tutta larghezza su mobile */\n  @media (max-width: 749px) {\n    .xmas-quick-links a {\n      width: 100%;\n      justify-content: center;\n    }\n  }\n</style>",
+        "color_scheme": "scheme-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image_banner_Q6rBiY": {
       "type": "image-banner",
       "blocks": {
@@ -82,92 +92,9 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_MEiyUc": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_jwtrFM": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "1. Idee regalo originali e divertenti",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo?#shopify-section-template--25730824438025__featured_collection_qHiKjR"
-          }
-        },
-        "column_R6fwag": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "2. Idee regalo con un tocco di design",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo?#shopify-section-template--25730824438025__image_with_text_TWa4dW"
-          }
-        },
-        "column_EKG7zN": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "3. Idee regalo per ogni occasione",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo?#shopify-section-template--25730824438025__image_with_text_jMezDe"
-          }
-        },
-        "column_AgqKdm": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "4. Idee regalo uniche per ogni passione e ogni budget",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo?#shopify-section-template--25730824438025__multicolumn_RW9UrF"
-          }
-        },
-        "column_ynpyaf": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "5. Idee regalo online, rapide e senza stress",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo?#shopify-section-template--25730824438025__rich_text_qyWyUE"
-          }
-        },
-        "column_iwTyqr": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "6. Consigli e spunti per scegliere il regalo giusto",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo?#shopify-section-template--25730824438025__collapsible_content_Hpi7c6"
-          }
-        }
-      },
-      "block_order": [
-        "column_jwtrFM",
-        "column_R6fwag",
-        "column_EKG7zN",
-        "column_AgqKdm",
-        "column_ynpyaf",
-        "column_iwTyqr"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Guida ai regali",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
     "featured_collection_qHiKjR": {
       "type": "featured-collection",
+      "disabled": true,
       "custom_css": [],
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
@@ -230,6 +157,7 @@
         "text_cyQACb",
         "buttons_8NqUpV"
       ],
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/cosa-regalo-per-natale-mamma-e-papa_94b5f652-5dae-4023-808f-52ec2622ae7c.png",
@@ -276,6 +204,7 @@
         "text_m4H4XU",
         "button_Nrp8zN"
       ],
+      "disabled": true,
       "custom_css": [
         "#idee-regalo-design {scroll-margin-top: 90px; /* offset per header fisso */}"
       ],
@@ -344,6 +273,7 @@
         "featured_collection_HFFiNP",
         "featured_collection_xUyqLz"
       ],
+      "disabled": true,
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "Scopri la nostra selezione <em>Design Pick</em>: una raccolta di oggetti iconici scelti per chi ama distinguersi.",
@@ -389,6 +319,7 @@
         "text_DU4CtL",
         "button_RaJVLy"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/Natale-idee-regalo_1.jpg",
@@ -454,6 +385,7 @@
         "featured_collection_XLK4qT",
         "featured_collection_GU3RQ3"
       ],
+      "disabled": true,
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "<strong>Trova l’idea regalo giusta per ogni evento</strong>",
@@ -494,6 +426,7 @@
         "column_VXgAwd",
         "column_NhmYPh"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Idee regalo uniche per ogni passione e ogni budget",
@@ -546,6 +479,7 @@
         "text_W7UX9j",
         "buttons_ARdBAn"
       ],
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/teal-gift-idee-regalo.webp",
@@ -592,6 +526,7 @@
         "text_TggLKE",
         "button_ayA6t3"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/ideeregalo-viaggio.jpg",
@@ -665,6 +600,7 @@
         "column_H9aEHa",
         "column_zhwjTV"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -710,6 +646,7 @@
         "featured_collection_PQURCe",
         "featured_collection_4fgwWW"
       ],
+      "disabled": true,
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
@@ -757,6 +694,7 @@
         "text_PcLTtG",
         "button_Uc8nUp"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
@@ -797,6 +735,7 @@
         "row_BKimXB",
         "row_eUAMi3"
       ],
+      "disabled": true,
       "name": "t:sections.multirow.presets.name",
       "settings": {
         "image_height": "small",
@@ -816,6 +755,7 @@
     },
     "custom_liquid_ahjVBf": {
       "type": "custom-liquid",
+      "disabled": true,
       "custom_css": [
         "#consigli-e-spunti {scroll-margin-top: 100px;}",
         " /* regola 100px all'altezza del tuo header */"
@@ -878,6 +818,7 @@
         "collapsible_row_K4xFQJ",
         "collapsible_row_Yf4JnL"
       ],
+      "disabled": true,
       "custom_css": [],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
@@ -968,6 +909,7 @@
         "column_Vpkfpb",
         "column_8MKFgC"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -1036,6 +978,7 @@
         "featured_collection_KczQLm",
         "featured_collection_iURccB"
       ],
+      "disabled": true,
       "custom_css": [],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
@@ -1104,9 +1047,9 @@
   },
   "order": [
     "banner",
+    "custom_liquid_TGPL4x",
     "image_banner_Q6rBiY",
     "product-grid",
-    "multicolumn_MEiyUc",
     "featured_collection_qHiKjR",
     "image_banner_3zqppy",
     "image_with_text_TWa4dW",
