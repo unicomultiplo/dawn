@@ -427,109 +427,10 @@
         "padding_bottom": 16
       }
     },
-    "image_banner_tmJB93": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_c6KCpb": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Idee regalo per lei e per lui, in pochi clic</strong>",
-            "heading_size": "h2"
-          }
-        },
-        "text_W7UX9j": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>Per lei</strong>: scegli un dono che sappia sorprendere, un piccolo gesto che combina bellezza e utilità. Dalle creazioni raffinate ai dettagli inaspettati, ogni regalo diventa un modo per dire “<em>ti conosco davvero</em>”.  <strong>Per lui</strong>: un dono che unisce <em>funzionalità ed eleganza</em>, con oggetti dal design essenziale e distintivo. Un pensiero che resta, perfetto per chi apprezza qualità e stile in ogni dettaglio.",
-            "text_style": "body"
-          }
-        },
-        "buttons_ARdBAn": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Idee Regalo per Lei",
-            "button_link_1": "shopify://collections/idee-regalo-regali-per-lei",
-            "button_style_secondary_1": false,
-            "button_label_2": "Idee Regalo per Lui",
-            "button_link_2": "shopify://collections/idee-regalo-regali-per-lui",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_c6KCpb",
-        "text_W7UX9j",
-        "buttons_ARdBAn"
-      ],
-      "disabled": true,
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/teal-gift-idee-regalo.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "image_with_text_naHbji": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_xAJCLb": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h2"
-          }
-        },
-        "text_TggLKE": {
-          "type": "text",
-          "settings": {
-            "text": "<h3><strong>Regali per chi ama il tempo libero</strong><br/></h3><p>Ci sono doni che <strong>accompagnano chi li riceve</strong> nei suoi momenti più autentici: un hobby coltivato con passione, un viaggio sognato da tempo, un rituale quotidiano che diventa speciale. Sono <strong>regali </strong>che non si limitano a stupire, ma trasformano il tempo libero in un’<strong>esperienza da vivere</strong>, condividere e ricordare.<br/></p>",
-            "text_style": "body"
-          }
-        },
-        "button_ayA6t3": {
-          "type": "button",
-          "settings": {
-            "button_label": "Regali perfetti per relax, viaggi e passioni!",
-            "button_link": "shopify://collections/tempo-libero",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_xAJCLb",
-        "text_TggLKE",
-        "button_ayA6t3"
-      ],
-      "disabled": true,
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/ideeregalo-viaggio.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_r8Dm68": {
+    "multicolumn_nw6mnq": {
       "type": "multicolumn",
       "blocks": {
-        "column_HExQwD": {
+        "column_mYCQz7": {
           "type": "column",
           "settings": {
             "title": "",
@@ -538,399 +439,36 @@
             "link": ""
           }
         },
-        "column_D8yJni": {
+        "column_QHA9Kk": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3><strong>Idee regalo per fascia di prezzo, da 50€ a 150€</strong><br/></h3><p><br/>Scegliere un regalo diventa più semplice quando sai già qual è il budget: non si tratta solo di una cifra, ma di <strong>un modo diverso di raccontare attenzione e affetto</strong>.<br/>Che tu stia cercando un pensiero leggero, un dono dal giusto equilibrio o un oggetto speciale per un’occasione importante, troverai sempre un’idea originale pronta a sorprendere.<em> Ecco tre soglie di prezzo pensate per guidarti, senza rinunciare all’originalità.</em></p>",
+            "text": "<p><br/>I <strong>migliori brand di design per la casa e la cucina</strong> selezionati da <em>Unico & Multiplo</em> rappresentano l’equilibrio perfetto tra <strong>innovazione, ironia e tradizione</strong>: oggetti pensati per vivere, per sorprendere e per durare. Che si tratti di un set da tavola, di un complemento d’arredo o di un elemento decorativo, ogni creazione è pensata per <strong>valorizzare la quotidianità con un tocco d’autore</strong>.<br/>Scegliere un dono firmato da un marchio iconico significa regalare <strong>qualità, bellezza e originalità</strong>, ma anche trasmettere un’idea precisa di gusto e attenzione.</p>",
             "link_label": "",
             "link": ""
-          }
-        },
-        "column_FrEbJ9": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<ol><li><strong>Regali smart e accessibili</strong>, perfetti per sorprendere senza complicazioni. Idee leggere ma ricche di significato.</li></ol>",
-            "link_label": "Piccoli gesti, grandi sorrisi",
-            "link": "shopify://collections/idee-regalo-economiche"
-          }
-        },
-        "column_H9aEHa": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>2.<strong> La giusta via di mezzo</strong> tra convenienza e impatto: regali che colpiscono, restano impressi e raccontano attenzione autentica.</p>",
-            "link_label": "Equilibrio perfetto",
-            "link": "shopify://collections/idee-regalo-regali-sotto-100-euro"
-          }
-        },
-        "column_zhwjTV": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>3.<strong> Doni più importanti,</strong> scelti per celebrare momenti che meritano di essere ricordati con qualcosa di unico e speciale.</p>",
-            "link_label": "Il valore delle grandi occasioni",
-            "link": "shopify://collections/idee-regalo-regali-sotto-150-euro"
           }
         }
       },
       "block_order": [
-        "column_HExQwD",
-        "column_D8yJni",
-        "column_FrEbJ9",
-        "column_H9aEHa",
-        "column_zhwjTV"
+        "column_mYCQz7",
+        "column_QHA9Kk"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "",
+        "title": "<strong>I migliori brand di design da regalare per casa e cucina</strong>",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
-        "column_alignment": "center",
+        "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 20,
-        "padding_bottom": 0
-      }
-    },
-    "collection_list_NjQXhb": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_htXfnH": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-economiche"
-          }
-        },
-        "featured_collection_PQURCe": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-regali-sotto-100-euro"
-          }
-        },
-        "featured_collection_4fgwWW": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-regali-sotto-150-euro"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_htXfnH",
-        "featured_collection_PQURCe",
-        "featured_collection_4fgwWW"
-      ],
-      "disabled": true,
-      "name": "t:sections.collection-list.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "rich_text_qyWyUE": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_R6zxJ4": {
-          "type": "heading",
-          "settings": {
-            "heading": "Idee regalo online, rapide e senza stress",
-            "heading_size": "h1"
-          }
-        },
-        "text_PcLTtG": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Comprare online un regalo non è mai stato così semplice: ampia scelta, consegne veloci e zero complicazioni. Con <em><strong>Unico & Multiplo</strong></em> puoi trovare in pochi clic l’idea giusta, senza dover correre da un negozio all’altro, e riceverla comodamente a casa o ritirarla direttamente in negozio.</p>"
-          }
-        },
-        "button_Uc8nUp": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_R6zxJ4",
-        "text_PcLTtG",
-        "button_Uc8nUp"
-      ],
-      "disabled": true,
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
         "padding_top": 36,
-        "padding_bottom": 20
-      }
-    },
-    "multirow_i9bgYb": {
-      "type": "multirow",
-      "blocks": {
-        "row_BKimXB": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/IMG_6489.jpg",
-            "caption": "",
-            "heading": "",
-            "text": "<h3><strong>Regali last-minute e confezione regalo</strong></h3><p>Hai poco tempo ma non vuoi rinunciare a stupire? Con noi non è un problema: puoi contare su spedizioni rapide e sulla possibilità di <a href=\"/policies/contact-information\" title=\"Contact Information\"><strong>ritiro in negozio sempre attiva</strong></a>, così il tuo regalo è subito nelle tue mani.<br/><br/>E se desideri un tocco in più, la <strong>confezione regalo è sempre disponibile</strong>: curata nei dettagli, elegante e pronta per essere donata.<br/><br/>Per qualsiasi esigenza speciale, basta <a href=\"/policies/contact-information\" title=\"Contact Information\"><strong>scriverci</strong></a>: amiamo il rapporto<strong> con i nostri clienti</strong>, perché ogni regalo merita attenzione personale e la certezza di essere perfetto.</p>",
-            "button_label": "Scrivici su WhatsApp!",
-            "button_link": "https://api.whatsapp.com/send?phone=390733810100&text=&source=&data=&app_absent="
-          }
-        },
-        "row_eUAMi3": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/logo-unico-e-multiplo_698f486d-399f-47b4-9525-c0f0a67a6fd8.webp",
-            "caption": "",
-            "heading": "",
-            "text": "<h3><strong>Regali sicuri, con reso e cambi semplici</strong></h3><p><br/>Fare un regalo è ancora più piacevole se lo fai in totale tranquillità. Con Unico & Multiplo hai la certezza di acquistare senza pensieri: le nostre <a href=\"/policies/shipping-policy\" title=\"Shipping Policy\"><strong>politiche di reso e cambio</strong></a> sono semplici, trasparenti e veloci.<br/><br/>Se il regalo non è perfetto o c’è bisogno di un cambio, ti seguiamo passo dopo passo fino alla soluzione, perché la tua esperienza deve essere serena tanto quanto il sorriso di chi riceve il dono.<br/><br/>In più, hai sempre la <strong>spedizione gratuita sopra i 59€</strong>, così sorprendere chi ami diventa ancora più conveniente.</p>",
-            "button_label": "Scopri tutti i dettagli nella nostra policy di spedizione, reso e cambi",
-            "button_link": "shopify://policies/shipping-policy"
-          }
-        }
-      },
-      "block_order": [
-        "row_BKimXB",
-        "row_eUAMi3"
-      ],
-      "disabled": true,
-      "name": "t:sections.multirow.presets.name",
-      "settings": {
-        "image_height": "small",
-        "desktop_image_width": "small",
-        "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "",
-        "row_color_scheme": "",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
-    "custom_liquid_ahjVBf": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "custom_css": [
-        "#consigli-e-spunti {scroll-margin-top: 100px;}",
-        " /* regola 100px all'altezza del tuo header */"
-      ],
-      "name": "t:sections.custom-liquid.presets.name",
-      "settings": {
-        "custom_liquid": "<div id=\"consigli-e-spunti\"></div>",
-        "color_scheme": "",
-        "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "collapsible_content_Hpi7c6": {
-      "type": "collapsible-content",
-      "blocks": {
-        "collapsible_row_dDchUM": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "",
-            "icon": "none",
-            "row_content": "<p>Trovare il <strong>regalo perfetto</strong> non è sempre semplice: vuoi sorprendere, ma senza esagerare, e soprattutto vuoi che chi lo riceve lo apprezzi davvero. <strong>Ecco qualche consiglio</strong> per orientarti nella scelta, tra regali che strappano un sorriso e quelli che semplificano davvero la vita.</p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_qXygba": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Originale o utile? Trova l’equilibrio",
-            "icon": "star",
-            "row_content": "<p>Un dono speciale nasce dall’armonia tra sorpresa e significato: qualcosa che colpisca il cuore con la sua originalità, ma che sappia anche accompagnare la vita di tutti i giorni. L’equilibrio perfetto si trova pensando a chi lo riceverà e al momento che si vuole celebrare.</p><p><strong>Ogni regalo è un’emozione da toccare.</strong><br/><br/>Per un<a href=\"/collections/idee-regalo-regali-per-lui\" title=\"Idee Regalo per Lui\"> <strong>amico o un partner</strong> </a>diventa un ricordo vivo: un’esperienza da condividere, un oggetto che custodisce sorrisi e battute segrete.<br/><br/><a href=\"/collections/idee-regalo-economiche\" title=\"Idee Regalo Economiche sotto i 50€\"><strong>Per i colleghi</strong></a> è leggerezza: un piccolo gesto che sorprende, un dettaglio ironico che illumina la giornata.<br/><br/><a href=\"/collections/idee-regalo-per-casa-e-cucina\" title=\"Idee Regalo per Casa e Cucina\">Per chi ama la <strong>praticità</strong>,</a> il dono giusto unisce bellezza e funzione: il calore del legno, la trasparenza del vetro, linee che semplificano la vita quotidiana.<br/><br/>E nei <strong>momenti che contano davvero</strong>, come una laurea, il regalo si fa simbolo: memoria di un passaggio, promessa di nuovi inizi.<br/><br/></p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_K4xFQJ": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Regali divertenti senza cadere nel banale",
-            "icon": "star",
-            "row_content": "<p>Un regalo spiritoso è una scommessa vinta, ma solo se è di <strong>buon gusto</strong> e dimostra che conosci chi lo riceve. Evita il \"regalo da bancarella\" e punta sull'ironia intelligente.</p><ul><li><a href=\"/collections/cucina-e-tavola-tazze-tazzine-mug\" title=\"Tazze, Tazzine e Mug\"><strong>Tazze, Bicchieri</strong></a><strong> e piatti pizza con Carattere:</strong> una tazza con una forma e disegno originale, un calice o bicchiere dal design che non ti aspetti,<a href=\"/collections/piatti-pizza-bitossi-home\" title=\"Piatti Pizza Bitossi Home\"><strong> piatti pizza</strong></a> con scritte irriverenti</li><li><a href=\"/collections/tempo-libero\" title=\"LIFESTYLE\"><strong>Accessori tecno-spiritosi</strong></a>: un power bank dalle forme e dai colori originali, una cassa che si trasforma all’occorrenza in karaoke per divertirsi con gli amici, oppure una sveglia dal design sorprendente che sa far sorridere o riportare indietro nel tempo.</li></ul>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_Yf4JnL": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Idee regalo per chi ama casa e cucina",
-            "icon": "star",
-            "row_content": "<p>Per l'<strong>Home&Cooking</strong> l'utile si sposa perfettamente con il design e la creatività. Qui l'obiettivo è regalare un oggetto che inviti a sperimentare o a vivere lo spazio in modo più confortevole e bello.</p><ul><li><strong>Gli Strumenti Intelligenti:</strong> un set <strong>di posate per la colazione</strong> di design, un set di <a href=\"https://www.unicoemultiplo.com/products/1558-knindustrie-not-ice-cubetti-pietra-ollare\" title=\"https://www.unicoemultiplo.com/products/1558-knindustrie-not-ice-cubetti-pietra-ollare\"><strong>cubetti refrigeranti</strong></a> in metallo o pietra (per non annacquare i drink) o un dosatore per l'olio celebra l’eleganza della semplicità.</li><li><strong>Per l'Organizzazione con Stile:</strong> organizer da cassetto geniali, accessori per lo Smart Working che riducono il disordine o la comodissima <a href=\"https://www.unicoemultiplo.com/products/brabantia-appendiabiti-linn\" title=\"https://www.unicoemultiplo.com/products/brabantia-appendiabiti-linn\"><strong>Un appendiabiti compatto</strong></a><strong> </strong>che promette di sfruttare i piccoli spazi.</li><li><a href=\"/collections/lampade\" title=\"Lampade\"><strong>L'Angolo Relax (Zen)</strong></a><strong>:</strong> Una lampada da scrivania o un oggetto luminoso che crea atmosfera e scalda un angolo della casa,  candele profumate in confezioni che sembrano opere d'arte.</li><li><a href=\"/collections/cucina-e-tavola-tazze-tazzine-mug\" title=\"Tazze, Tazzine e Mug\"><strong>Per gli Amanti del Caffè/Tè</strong></a><strong>:</strong> Un bollitore elettrico, o un elegante set di tazze con forme particolari e capaci di farti sognare Dai libero sfogo alla creatività! Un regalo non è solo un oggetto, ma un messaggio<strong><br/></strong></li><li>Decorazioni per la casa: tessili ricercati, piante candelabri artigianali, <a href=\"/collections/tappeti-e-tappetini-seletti\" title=\"Tappeti e Tappetini Seletti\"><strong>tappeti con scritte</strong></a><strong> </strong>irriverenti, sedute insolite. </li></ul><p><strong>👉</strong> Dai un’occhiata alle nostre collezioni di accessori per la casa e ai brand di cucina più amati per trovare l’idea giusta.<br/></p>",
-            "page": "",
-            "liquid_content": "<div style=\"margin: 1.5rem 0; text-align: left;\">\n  <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-per-casa-e-cucina\"\n     style=\"display:inline-block; padding: 0.9rem 1.2rem; border: 1px solid #000; border-radius: 4px; font-size: 1.5rem; font-weight: 400; text-decoration: none; color:#000;\">\n     Scopri le Idee Regalo Casa & Cucina\n  </a>\n</div>"
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_row_dDchUM",
-        "collapsible_row_qXygba",
-        "collapsible_row_K4xFQJ",
-        "collapsible_row_Yf4JnL"
-      ],
-      "disabled": true,
-      "custom_css": [],
-      "name": "t:sections.collapsible_content.presets.name",
-      "settings": {
-        "caption": "",
-        "heading": "Consigli e spunti per scegliere il regalo giusto",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "none",
-        "color_scheme": "",
-        "container_color_scheme": "",
-        "open_first_collapsible_row": true,
-        "image": "shopify://shop_images/gift-wrapping-supplies_1.webp",
-        "image_ratio": "small",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "collection_list_Mf3YzU": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_jPhpDT": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home"
-          }
-        },
-        "featured_collection_tWLVxx": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti"
-          }
-        },
-        "featured_collection_RaNffq": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "knindustrie"
-          }
-        },
-        "featured_collection_TpYfxM": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "disegnetti-depressetti"
-          }
-        },
-        "featured_collection_KczQLm": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "doiy"
-          }
-        },
-        "featured_collection_iURccB": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "kikkerland"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_jPhpDT",
-        "featured_collection_tWLVxx",
-        "featured_collection_RaNffq",
-        "featured_collection_TpYfxM",
-        "featured_collection_KczQLm",
-        "featured_collection_iURccB"
-      ],
-      "disabled": true,
-      "custom_css": [],
-      "name": "t:sections.collection-list.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_banner_xBTzGC": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_8q43gJ": {
-          "type": "heading",
-          "settings": {
-            "heading": "Consigli e spunti per scegliere il regalo giusto",
-            "heading_size": "h1"
-          }
-        },
-        "text_TtH4Wh": {
-          "type": "text",
-          "settings": {
-            "text": "Indeciso su cosa regalare? Questa sezione è pensata per guidarti, con idee pratiche e spunti creativi che ti aiutano a trovare il dono perfetto per ogni persona e occasione.",
-            "text_style": "body"
-          }
-        },
-        "buttons_7iDeBq": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Idee regalo per chi ama casa e cucina",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Guida all'acquisto",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_8q43gJ",
-        "text_TtH4Wh",
-        "buttons_7iDeBq"
-      ],
-      "disabled": true,
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/gift-wrapping-supplies_1.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     }
   },
@@ -944,15 +482,6 @@
     "multicolumn_C6dG97",
     "multicolumn_Cjdxz3",
     "multicolumn_C6Htrd",
-    "image_banner_tmJB93",
-    "image_with_text_naHbji",
-    "multicolumn_r8Dm68",
-    "collection_list_NjQXhb",
-    "rich_text_qyWyUE",
-    "multirow_i9bgYb",
-    "custom_liquid_ahjVBf",
-    "collapsible_content_Hpi7c6",
-    "collection_list_Mf3YzU",
-    "image_banner_xBTzGC"
+    "multicolumn_nw6mnq"
   ]
 }
