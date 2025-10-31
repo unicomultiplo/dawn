@@ -316,7 +316,7 @@
         "text_XaakUe": {
           "type": "text",
           "settings": {
-            "text": "Le nostre <strong>idee regalo sotto i 150 €</strong> includono <strong>lampade artistiche, vasi scultorei, complementi d’arredo ironici o raffinati, accessori lifestyle e oggetti decorativi unici</strong>, perfetti per chi ama distinguersi.Dalle linee divertenti e pop di <em>Seletti</em> alla sobrietà elegante di <em>KnIndustrie</em>, fino alle nuance artistiche di <em>Bitossi</em>, ogni oggetto è <strong>una piccola opera d’arte da vivere ogni giorno</strong>.",
+            "text": "Le nostre <strong>idee regalo sotto i 150 €</strong> includono <strong>lampade artistiche, vasi scultorei, complementi d’arredo ironici o raffinati, accessori lifestyle e oggetti decorativi unici</strong>, perfetti per chi ama distinguersi  Dalle linee divertenti e pop di <em>Seletti</em> alla sobrietà elegante di <em>KnIndustrie</em>, fino alle nuance artistiche di <em>Bitossi</em>, ogni oggetto è <strong>una piccola opera d’arte da vivere ogni giorno</strong>.",
             "text_style": "body"
           }
         },
@@ -339,7 +339,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/seletti-forniture-new-chair-superforniture.webp",
+        "image": "shopify://shop_images/vitamin-seletti-unico_-e-multiplo_528777c9-832a-4355-9284-2dcdf2312db2.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -472,7 +472,6 @@
         "column_mPJdWC",
         "column_7Xkjqn"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
