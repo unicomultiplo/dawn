@@ -470,6 +470,76 @@
         "padding_top": 36,
         "padding_bottom": 0
       }
+    },
+    "multicolumn_NEC9f4": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_YRCWeY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knIndustrie_Collezione_Storm__mood.webp",
+            "title": "",
+            "text": "<h3><strong>KnIndustrie – essenzialità e innovazione</strong></h3>",
+            "link_label": "",
+            "link": "shopify://collections/complementi-arredo-specchi-da-parete"
+          }
+        },
+        "column_9aFwWC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Marinette_c696c502-67c7-4d57-95b8-fa921a0b1d97.webp",
+            "title": "",
+            "text": "<p><strong>Plaid</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/marinette-saint-tropez"
+          }
+        },
+        "column_cqaUMR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-home-tavola-scomposta-grazie-dei-fiori-vaso-ceramica-2.jpg",
+            "title": "",
+            "text": "<p><strong>Vasi</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/complementi-arredo-vasi"
+          }
+        },
+        "column_PG6r8E": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/vanilla-fly-cuscino-velluto-retro-velluto-brown-fan.jpg",
+            "title": "",
+            "text": "<p><strong>Tessili</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/complementi-arredo-tessili-casa"
+          }
+        }
+      },
+      "block_order": [
+        "column_YRCWeY",
+        "column_9aFwWC",
+        "column_cqaUMR",
+        "column_PG6r8E"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
     }
   },
   "order": [
@@ -482,6 +552,7 @@
     "multicolumn_C6dG97",
     "multicolumn_Cjdxz3",
     "multicolumn_C6Htrd",
-    "multicolumn_nw6mnq"
+    "multicolumn_nw6mnq",
+    "multicolumn_NEC9f4"
   ]
 }
