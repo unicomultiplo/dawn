@@ -521,6 +521,7 @@
         "column_cqaUMR",
         "column_PG6r8E"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
