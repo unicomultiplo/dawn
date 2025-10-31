@@ -92,314 +92,6 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_qHiKjR": {
-      "type": "featured-collection",
-      "disabled": true,
-      "custom_css": [],
-      "name": "t:sections.featured-collection.presets.name",
-      "settings": {
-        "title": "Idee regalo originali e divertenti",
-        "heading_size": "h1",
-        "description": "<p>Chi ha detto che i regali devono essere seri? A volte il dono migliore è quello che fa <strong>ridere, spiazza e resta impresso</strong>. In questa collezione trovi sorprese inaspettate, oggetti <strong>fuori dagli schemi</strong> e chicche utili ma con un<strong> twist divertente.</strong><br/><br/>Dimentica i regali noiosi e prevedibili: qui si parla di trovate creative che fanno sorridere ancora prima di essere scartate. Il bello? Sono <strong>regali utili, e con una marcia in più</strong>.<br/>Le nostre idee regalo originali e divertenti nascono per sorprendere chi ha già visto di tutto: <strong>accessori creativi, oggetti insoliti e proposte utili che si distinguono dai soliti cliché.</strong><br/><br/></p><h3><strong>Regali che fanno sorridere!<br/></strong></h3><p>Scegli un dono che sorprende e diverte, perfetto per amici e parenti con la battuta pronta o lo spirito giocoso. <strong>Fun & Wow!</strong><br/></p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "idee-regalo-economiche",
-        "products_to_show": 20,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "scheme-1",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_banner_3zqppy": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_FeBWeB": {
-          "type": "heading",
-          "settings": {
-            "heading": "Natale 2025, non il solito regalo",
-            "heading_size": "h1"
-          }
-        },
-        "text_cyQACb": {
-          "type": "text",
-          "settings": {
-            "text": "Un <strong>Natale diverso </strong>inizia dal regalo che non ti aspetti: originale, memorabile, con un tocco di creatività che <strong>rompe la tradizione</strong>.",
-            "text_style": "body"
-          }
-        },
-        "buttons_8NqUpV": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Scopri la Nostra Selezione Idee Regalo",
-            "button_link_1": "shopify://collections/idee-regalo-natale",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_FeBWeB",
-        "text_cyQACb",
-        "buttons_8NqUpV"
-      ],
-      "disabled": true,
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/cosa-regalo-per-natale-mamma-e-papa_94b5f652-5dae-4023-808f-52ec2622ae7c.png",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "image_with_text_TWa4dW": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_rjAfFq": {
-          "type": "heading",
-          "settings": {
-            "heading": "Idee regalo con un tocco di design",
-            "heading_size": "h1"
-          }
-        },
-        "text_m4H4XU": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Ci sono doni che parlano da soli. Un dono di design è qualcosa che non si limita a stupire al primo sguardo: resta, si fa notare ogni giorno, diventa parte dei ricordi più belli. Per questo un regalo con stile non è mai banale, ma è un segno di attenzione che racconta chi sei e cosa vuoi trasmettere.<br/></p><h3><strong>Oggetti iconici che non passano di moda</strong></h3><p>Ci sono pezzi che non invecchiano mai: nascono da idee audaci e diventano simboli di creatività.<br/>Gli oggetti  visionari e irriverenti di <a href=\"/collections/seletti\" title=\"Seletti\"><strong>Seletti</strong></a>, le collezioni colorate e senza tempo di <a href=\"/collections/bitossi-home\" title=\"Bitossi Home\"><strong>Bitossi</strong>,</a> o le linee essenziali firmate per <a href=\"/collections/knindustrie\" title=\"KnIndustrie\"><strong>KnIndustrie</strong>:</a> oggetti che parlano di sogni, ironia e bellezza. Un regalo così non è solo un pensiero: è una storia che continua nel tempo.<br/></p><h3><strong>Materiali e dettagli che fanno la differenza</strong><br/></h3><p>Un vero dono si riconosce nei dettagli. La delicatezza della <a href=\"/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola\" title=\"Bone China: Scopri la Porcellana Più Elegante per la Tua Tavola\"><strong>Bone China</strong>,</a> il calore autentico del L<a href=\"/collections/cucina-e-tavola-taglieri\" title=\"Taglieri da Cucina\"><strong>egno</strong></a>, la leggerezza quasi magica del V<a href=\"/collections/cucina-e-tavola-bicchieri-e-calici\" title=\"Bicchieri e Calici\"><strong>etro borosilicato</strong></a>: materiali scelti con cura che trasformano ogni oggetto in qualcosa di speciale. Non servono tecnicismi: basta il piacere di regalare qualcosa che, al tatto e allo sguardo, trasmette qualità e unicità.<br/></p>",
-            "text_style": "body"
-          }
-        },
-        "button_Nrp8zN": {
-          "type": "button",
-          "settings": {
-            "button_label": "I Nostri Brand",
-            "button_link": "shopify://pages/i-nostri-brand",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_rjAfFq",
-        "text_m4H4XU",
-        "button_Nrp8zN"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "#idee-regalo-design {scroll-margin-top: 90px; /* offset per header fisso */}"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/seletti-marcantonio-lampada-inner-glow-2.jpg",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "collection_list_WFPANW": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_akDRPm": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-marcantonio"
-          }
-        },
-        "featured_collection_UUEjMN": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "knindustrie-catalogo-prodotti-lara-caffi"
-          }
-        },
-        "featured_collection_BeWzqW": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "the-storm-collection-knindustrie"
-          }
-        },
-        "featured_collection_Qrdpih": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home-il-frutto-della-passione-bitossi-home"
-          }
-        },
-        "featured_collection_HFFiNP": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-toiletpaper"
-          }
-        },
-        "featured_collection_xUyqLz": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "con-amore-bitossi-home"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_akDRPm",
-        "featured_collection_UUEjMN",
-        "featured_collection_BeWzqW",
-        "featured_collection_Qrdpih",
-        "featured_collection_HFFiNP",
-        "featured_collection_xUyqLz"
-      ],
-      "disabled": true,
-      "name": "t:sections.collection-list.presets.name",
-      "settings": {
-        "title": "Scopri la nostra selezione <em>Design Pick</em>: una raccolta di oggetti iconici scelti per chi ama distinguersi.",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "color_scheme": "scheme-2",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_jMezDe": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_E8qUfe": {
-          "type": "heading",
-          "settings": {
-            "heading": "Idee regalo per ogni occasione",
-            "heading_size": "h1"
-          }
-        },
-        "text_DU4CtL": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Ogni ricorrenza merita un pensiero speciale. Che si tratti di un <strong>compleanno</strong> da festeggiare, di un <strong>anniversario</strong> indimenticabile o di una festa che unisce tutta la famiglia, il regalo giusto c’è sempre. Questa sezione è il tuo punto di partenza: un luogo dove trovare ispirazione e trasformare ogni evento in un momento unico da ricordare.<br/><br/><strong>Lasciati guidare dalle nostre ispirazioni</strong>: troverai sempre il percorso giusto per trasformare un’occasione in un momento indimenticabile.<br/></p><h3><strong>Natale, il momento più atteso dell’anno</strong><br/></h3><p>Il Natale è magia: luci che brillano, atmosfere che scaldano il cuore, sorrisi che si accendono con un dono inaspettato.<br/><strong>Rendi questo momento ancora più speciale con regali che parlano di originalità e affetto sincero: </strong>un gesto che stupisce, emoziona e resta nel tempo.<br/></p>",
-            "text_style": "body"
-          }
-        },
-        "button_RaJVLy": {
-          "type": "button",
-          "settings": {
-            "button_label": "Idee Regalo - La Magia del Natale",
-            "button_link": "shopify://collections/idee-regalo-natale",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_E8qUfe",
-        "text_DU4CtL",
-        "button_RaJVLy"
-      ],
-      "disabled": true,
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/Natale-idee-regalo_1.jpg",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "collection_list_6Wn6Ec": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_My83R8": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-compleanno"
-          }
-        },
-        "featured_collection_mNe8fM": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-laurea-e-diploma"
-          }
-        },
-        "featured_collection_Tjd3fK": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-sposi"
-          }
-        },
-        "featured_collection_wENUBK": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-pasqua"
-          }
-        },
-        "featured_collection_XLK4qT": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-san-valentino"
-          }
-        },
-        "featured_collection_GU3RQ3": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-per-casa-e-cucina"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_My83R8",
-        "featured_collection_mNe8fM",
-        "featured_collection_Tjd3fK",
-        "featured_collection_wENUBK",
-        "featured_collection_XLK4qT",
-        "featured_collection_GU3RQ3"
-      ],
-      "disabled": true,
-      "name": "t:sections.collection-list.presets.name",
-      "settings": {
-        "title": "<strong>Trova l’idea regalo giusta per ogni evento</strong>",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "color_scheme": "scheme-2",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn_RW9UrF": {
       "type": "multicolumn",
       "blocks": {
@@ -416,7 +108,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Ogni persona è un mondo a sé, con gusti, passioni e desideri diversi. E ogni <strong>dono</strong>, per essere davvero <strong>speciale</strong>, deve saper parlare di chi lo riceve. Che tu stia cercando un regalo pensato <strong>per lei, per lui, per un amico che coltiva un hobby particolare o semplicemente un dono che rispetti il tuo budget,</strong> qui troverai sempre l’ispirazione giusta. Perché non conta solo il prezzo, ma l’emozione che il tuo regalo riuscirà a trasmettere.</p>",
+            "text": "<p>Scegliere un regalo per la casa significa <strong>offrire qualcosa che accompagni i gesti di ogni giorno</strong>, rendendoli più belli, funzionali e piacevoli.<br/>Con <em>Unico & Multiplo</em>, puoi trovare <strong>idee regalo per la tavola, la cucina e gli ambienti</strong> che uniscono design e praticità, perfette per chi ama circondarsi di oggetti che raccontano personalità e cura.<br/>Che si tratti di un regalo per una nuova casa, un compleanno o una ricorrenza importante, <strong>scegliere un oggetto utile e di design</strong> è sempre un gesto apprezzato, perché unisce <strong>attenzione, bellezza e significato</strong>.</p>",
             "link_label": "",
             "link": ""
           }
@@ -426,10 +118,9 @@
         "column_VXgAwd",
         "column_NhmYPh"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Idee regalo uniche per ogni passione e ogni budget",
+        "title": "Accessori e complementi per una casa da vivere ogni giorno",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -438,11 +129,103 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 0
+      }
+    },
+    "multicolumn_LcVAky": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_zVwnq7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-Kintsugi-1.jpg",
+            "title": "",
+            "text": "<p><strong>Piatti da Tavola</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-piatti"
+          }
+        },
+        "column_eG89je": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-lime-lane-tumbler.webp",
+            "title": "",
+            "text": "<p><strong>Bicchieri e Calici</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
+          }
+        },
+        "column_BYGjTA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/posate-bitossi-home.jpg",
+            "title": "",
+            "text": "<p><strong>Posate</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-posate"
+          }
+        },
+        "column_9qtFdi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-rubin-alzata-in-vetro-con-piatto-in-legno-3.webp",
+            "title": "",
+            "text": "<p><strong>Centrotavola</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
+          }
+        },
+        "column_Q4P9UQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi_Home_Smerlo_Se-_4-tovagliette-bordo-smerlato.jpg",
+            "title": "",
+            "text": "<p><strong>Sottopiatti e Tovagliette</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-tovaglie-e-tovagliette"
+          }
+        },
+        "column_FbNqtG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/VASSOI_MOOD.webp",
+            "title": "",
+            "text": "<p><strong>Vassoi</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata"
+          }
+        }
+      },
+      "block_order": [
+        "column_zVwnq7",
+        "column_eG89je",
+        "column_BYGjTA",
+        "column_9qtFdi",
+        "column_Q4P9UQ",
+        "column_FbNqtG"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "<strong>Regali per la tavola che trasformano ogni occasione </strong>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "image_banner_tmJB93": {
@@ -837,99 +620,6 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_LcVAky": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_zVwnq7": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/santa-fixes-the-bow-on-a-gift.jpg",
-            "title": "SECRET SANTA",
-            "text": "<p>Sorprendi il tuo collega, anche quello che non conosci!</p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=0&filter.v.price.lte=35&sort_by=manual"
-          }
-        },
-        "column_eG89je": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/person-holds-a-glass-bottle-and-carrots-by-their-tops.jpg",
-            "title": "Per gli CHEF",
-            "text": "<p>Anche se bruciano tutto, meritano il meglio in cucina</p>",
-            "link_label": "",
-            "link": "shopify://collections/knindustrie"
-          }
-        },
-        "column_BYGjTA": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/boy-on-climbing-web.jpg",
-            "title": "BAMBINI CURIOSI",
-            "text": "<p>Per chi smonta tutto… e crea nuovi mondi!</p>",
-            "link_label": "",
-            "link": "shopify://collections/kikkerland"
-          }
-        },
-        "column_9qtFdi": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-my-moon-lamp-lampada-seduta-indoor-outdoor.jpg",
-            "title": "SELETTI",
-            "text": "<p>Regali che non passano inosservati (mai).</p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_qftGfx"
-          }
-        },
-        "column_Vpkfpb": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/doiy-rainbow-reggilibri-4.webp",
-            "title": "COLOUR LOVER",
-            "text": "<p>Design pop e ironico, a tutta cromia</p>",
-            "link_label": "",
-            "link": "shopify://collections/doiy"
-          }
-        },
-        "column_8MKFgC": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/depressetti-disegnetti-piena-stampa.webp",
-            "title": "DISEGNETTI DEPRESSETTI",
-            "text": "<p>L’ironia che <em>(forse)</em> salverà la giornata </p>",
-            "link_label": "",
-            "link": "shopify://collections/disegnetti-depressetti"
-          }
-        }
-      },
-      "block_order": [
-        "column_zVwnq7",
-        "column_eG89je",
-        "column_BYGjTA",
-        "column_9qtFdi",
-        "column_Vpkfpb",
-        "column_8MKFgC"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 16,
-        "padding_bottom": 16
-      }
-    },
     "collection_list_Mf3YzU": {
       "type": "collection-list",
       "blocks": {
@@ -1050,13 +740,8 @@
     "custom_liquid_TGPL4x",
     "image_banner_Q6rBiY",
     "product-grid",
-    "featured_collection_qHiKjR",
-    "image_banner_3zqppy",
-    "image_with_text_TWa4dW",
-    "collection_list_WFPANW",
-    "image_with_text_jMezDe",
-    "collection_list_6Wn6Ec",
     "multicolumn_RW9UrF",
+    "multicolumn_LcVAky",
     "image_banner_tmJB93",
     "image_with_text_naHbji",
     "multicolumn_r8Dm68",
@@ -1065,7 +750,6 @@
     "multirow_i9bgYb",
     "custom_liquid_ahjVBf",
     "collapsible_content_Hpi7c6",
-    "multicolumn_LcVAky",
     "collection_list_Mf3YzU",
     "image_banner_xBTzGC"
   ]
