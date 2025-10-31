@@ -58,9 +58,9 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/cosa-regalo-per-natale-mamma-e-papa_94b5f652-5dae-4023-808f-52ec2622ae7c.png",
+        "image": "shopify://shop_images/cosa-regalare-per-diciottesimo-compleanno.webp",
         "image_overlay_opacity": 0,
-        "image_height": "adapt",
+        "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
