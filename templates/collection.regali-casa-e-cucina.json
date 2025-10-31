@@ -228,6 +228,76 @@
         "padding_bottom": 16
       }
     },
+    "multicolumn_C6dG97": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_jgfJMU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/KnIndustrie-ABCT-coperchi-in-mogano-1.jpg",
+            "title": "",
+            "text": "<p><strong>Pentole e Padelle</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-pentole-padelle-tegami"
+          }
+        },
+        "column_T9kjtU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-coltelli-beknife-buy-now.webp",
+            "title": "",
+            "text": "<p><strong>Coltelli</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-coltelli"
+          }
+        },
+        "column_xihTzH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-slab-tagliere-in-larice-e-acciaio-3.jpg",
+            "title": "",
+            "text": "<p><strong>Taglieri</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-taglieri"
+          }
+        },
+        "column_ntAkJK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-oliera-acetiera-3.jpg",
+            "title": "",
+            "text": "<p><strong>Set Condimenti</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
+          }
+        }
+      },
+      "block_order": [
+        "column_jgfJMU",
+        "column_T9kjtU",
+        "column_xihTzH",
+        "column_ntAkJK"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "<strong>Idee Regalo Cucina tra Design e Utilità </strong>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
     "image_banner_tmJB93": {
       "type": "image-banner",
       "blocks": {
@@ -742,6 +812,7 @@
     "product-grid",
     "multicolumn_RW9UrF",
     "multicolumn_LcVAky",
+    "multicolumn_C6dG97",
     "image_banner_tmJB93",
     "image_with_text_naHbji",
     "multicolumn_r8Dm68",
