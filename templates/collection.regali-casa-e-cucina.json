@@ -374,9 +374,9 @@
         "column_YKGXWV": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-supercurve-specchio-con-cornice-luminosa-h185-cm-4-5.webp",
+            "image": "shopify://shop_images/seletti-vitamin-lampadario-in-resina-pear-6.jpg",
             "title": "",
-            "text": "<p><strong>Specchi</strong></p>",
+            "text": "<p><strong>Illuminazione</strong></p>",
             "link_label": "",
             "link": "shopify://collections/complementi-arredo-specchi-da-parete"
           }
@@ -384,9 +384,9 @@
         "column_VaAWmj": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Marinette_c696c502-67c7-4d57-95b8-fa921a0b1d97.webp",
+            "image": "shopify://shop_images/seletti-nuvola-lamp-4.webp",
             "title": "",
-            "text": "<p><strong>Plaid</strong></p>",
+            "text": "<p><strong>Lampade</strong></p>",
             "link_label": "",
             "link": "shopify://collections/marinette-saint-tropez"
           }
@@ -394,29 +394,18 @@
         "column_JPF9c3": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/bitossi-home-tavola-scomposta-grazie-dei-fiori-vaso-ceramica-2.jpg",
+            "image": "shopify://shop_images/Stan-Editions-Candela-3-pezzi-impilabili-6_d797dd60-e81d-4ee9-b1ac-6b843d4d71ed.jpg",
             "title": "",
-            "text": "<p><strong>Vasi</strong></p>",
+            "text": "<p><strong>Candele e Candelabri</strong></p>",
             "link_label": "",
             "link": "shopify://collections/complementi-arredo-vasi"
-          }
-        },
-        "column_BiNHUJ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/vanilla-fly-cuscino-velluto-retro-velluto-brown-fan.jpg",
-            "title": "",
-            "text": "<p><strong>Tessili</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/complementi-arredo-tessili-casa"
           }
         }
       },
       "block_order": [
         "column_YKGXWV",
         "column_VaAWmj",
-        "column_JPF9c3",
-        "column_BiNHUJ"
+        "column_JPF9c3"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -426,7 +415,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 4,
+        "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
