@@ -179,7 +179,7 @@
         "column_XrjaiE": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/bitossi-home-novita_2_31ea4ec4-a00c-48fa-b572-94a64078ca2b.png",
+            "image": "shopify://shop_images/la-tavola-di-natale.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -189,7 +189,7 @@
         "column_XCzETy": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/doiy-sweetie-mug-2_1.webp",
+            "image": "shopify://shop_images/la-tavola-di-natale-1.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -199,7 +199,7 @@
         "column_RUzwg4": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Marinette_c696c502-67c7-4d57-95b8-fa921a0b1d97.webp",
+            "image": "shopify://shop_images/la-tavola-di-natale-3.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -209,10 +209,10 @@
         "column_qimwBB": {
           "type": "column",
           "settings": {
-            "title": "<strong>Daily Reset</strong>",
-            "text": "<p>Riscopri il piacere della routine <strong>autunnale</strong> con accessori che<strong> scaldano la casa,</strong> ispirano il lavoro e regalano momenti di <strong>puro benessere.</strong></p>",
+            "title": "<strong>Dettagli che brillano</strong>",
+            "text": "<p><br/>Linee pulite, luci calde e tanta voglia di stare insieme: è così che inizia la magia.<br/><br/></p>",
             "link_label": "VEDI ORA",
-            "link": "shopify://collections/complementi-arredo"
+            "link": "https://www.unicoemultiplo.com/pages/natale"
           }
         }
       },
@@ -230,7 +230,7 @@
         ".multicolumn-list__item:last-child .multicolumn-card__info {display: flex; flex-direction: column;}"
       ],
       "settings": {
-        "title": "Autunno: Calore, Colore, Comfort",
+        "title": "La magia del Natale inizia da qui",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
