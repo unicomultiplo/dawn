@@ -15,6 +15,24 @@
         "slide_DkdEyL": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/Regali-Natale-2025.webp",
+            "heading": "L’arte di regalare",
+            "heading_size": "h0",
+            "subheading": "Ispirazioni per un Natale speciale",
+            "button_label": "Vedi subito!",
+            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-natale",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 20,
+            "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_PL8HLH": {
+          "type": "slide",
+          "settings": {
             "image": "shopify://shop_images/Seletti-Specchio_murale-Reflecting-Ciclope.jpg",
             "heading": "Specchiera Ciclope",
             "heading_size": "h0",
@@ -32,7 +50,8 @@
         }
       },
       "block_order": [
-        "slide_DkdEyL"
+        "slide_DkdEyL",
+        "slide_PL8HLH"
       ],
       "settings": {
         "layout": "full_bleed",
