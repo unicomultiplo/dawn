@@ -336,14 +336,14 @@
         "heading_Dpgthz": {
           "type": "heading",
           "settings": {
-            "heading": "La mamma che ama l'arte​",
+            "heading": "La mamma che ama l'arte​ <strong>🎨</strong>",
             "heading_size": "h1"
           }
         },
         "text_XAFaPV": {
           "type": "text",
           "settings": {
-            "text": "<p>Per una mamma che ama l'arte, <strong>l'originalità </strong>non può mancare.</p><p>Abbiamo selezionato per te degli accessori di design con cui potrà arredare il suo ambiente preferito della casa, con uno stile che non ha eguali. <strong>Scoprili subito</strong>!</p>",
+            "text": "<p>Per una mamma che ama l’arte e l’originalità, ogni dettaglio della casa è una forma di espressione.<br/><br/>Sorprendila con <strong>idee regalo creative e di design</strong>, perfette per valorizzare il suo gusto unico.</p><p>Abbiamo selezionato <strong>accessori d’arredo firmati e oggetti artistici</strong> capaci di trasformare ogni ambiente in una piccola galleria personale — dove stile e passione si incontrano.<br/><br/>✨ Scopri subito <strong>la nostra selezione di regali per mamme che amano l’arte</strong> e trova il pezzo che racconterà la sua personalità meglio di mille parole.</p>",
             "text_style": "body"
           }
         },
