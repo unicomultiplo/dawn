@@ -60,8 +60,8 @@
             "button_label": "IDEE REGALO",
             "button_link": "https://www.unicoemultiplo.com/pages/natale#shopify-section-template--22570381443337__multirow_YiBENi",
             "button_style_secondary": true,
-            "button_label_2": "ADDOBBI",
-            "button_link_2": "https://www.unicoemultiplo.com/pages/natale#shopify-section-template--22570381443337__multirow_TKm8B9",
+            "button_label_2": "",
+            "button_link_2": "",
             "button_style_secondary_2": true
           }
         },
@@ -85,7 +85,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "full_width": true,
         "padding_top": 60,
         "padding_bottom": 60
