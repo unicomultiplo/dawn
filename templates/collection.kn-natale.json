@@ -9,15 +9,6 @@
  */
 {
   "sections": {
-    "custom_liquid_yC8VMV": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h1>{{ collection.title }}</h1>\n</div>\n</section>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -129,9 +120,8 @@
     }
   },
   "order": [
-    "custom_liquid_yC8VMV",
-    "product-grid",
     "banner",
+    "product-grid",
     "multicolumn_fKzGUM"
   ]
 }
