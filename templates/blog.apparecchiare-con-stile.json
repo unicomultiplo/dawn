@@ -54,7 +54,7 @@
         "layout": "grid",
         "show_image": true,
         "image_height": "small",
-        "show_date": true,
+        "show_date": false,
         "show_author": false,
         "padding_top": 0,
         "padding_bottom": 0
