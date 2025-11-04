@@ -1,0 +1,137 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "custom_liquid_yC8VMV": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h1>{{ collection.title }}</h1>\n</div>\n</section>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 36,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "none",
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        "a {color: #598db2;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
+      }
+    },
+    "multicolumn_fKzGUM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Tkzm7D": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Knidustrie.png",
+            "title": "Esplora il Brand",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie"
+          }
+        },
+        "column_JndhkE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/abct-knindustrei-padelle.webp",
+            "title": "Collezione ABCT",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-abct"
+          }
+        },
+        "column_NX7aqg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/VASSOI_MOOD.webp",
+            "title": "NEW! The Storm Collection",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/the-storm-collection-knindustrie"
+          }
+        },
+        "column_LriqGm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knIndustrie-centrotavola-vetro-verde-qsvqe4s2ldj8rqsodhp18tfrvozao861d2dfxyujkw.jpg",
+            "title": "Centrotavola Gastronomici",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/centrotavola-gastronomico-knindustrie"
+          }
+        },
+        "column_VGJfMb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-collezione-lime-line-ambra-set-6-pz_b29530e9-6a4b-4077-b121-43f507480791.webp",
+            "title": "Lime Line",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/lime-line-knindustrie"
+          }
+        }
+      },
+      "block_order": [
+        "column_Tkzm7D",
+        "column_JndhkE",
+        "column_NX7aqg",
+        "column_LriqGm",
+        "column_VGJfMb"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "custom_liquid_yC8VMV",
+    "product-grid",
+    "banner",
+    "multicolumn_fKzGUM"
+  ]
+}
