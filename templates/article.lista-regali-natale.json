@@ -26,6 +26,19 @@
         "show_text_below": true
       }
     },
+    "custom_liquid_XW3ggm": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".updated-date {text-align: center; font-size: 13px; color: #666; margin-top: 4px; font-style: italic;}"
+      ],
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<p class=\"updated-date\">\n  Ultimo aggiornamento: {{ article.updated_at | date: \" %B %Y\" }}\n</p>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn_WpyCnX": {
       "type": "multicolumn",
       "blocks": {
@@ -42,7 +55,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>E' arrivato il momento di scegliere il <strong>regalo di Natale</strong> per mamma e papà, le persone che più ci amano al mondo!</p><p>Se non hai già pensato a cosa acquistare non ti preoccupare, <strong>con la nostra guida al regalo di Natale perfetto</strong>, pensata per ogni tipo di mamma e papà, troverai subito il <strong>regalo giusto!</strong></p><p><a>🗓️ <em>Aggiornato a novembre 2025</em></a></p>",
+            "text": "<p>E' arrivato il momento di scegliere il <strong>regalo di Natale</strong> per mamma e papà, le persone che più ci amano al mondo!</p><p>Se non hai già pensato a cosa acquistare non ti preoccupare, <strong>con la nostra guida al regalo di Natale perfetto</strong>, pensata per ogni tipo di mamma e papà, troverai subito il <strong>regalo giusto!</strong></p>",
             "link_label": "",
             "link": ""
           }
@@ -567,35 +580,6 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "featured_collection_p73D8b": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "uppercase",
-        "collection": "cucina-e-tavola",
-        "products_to_show": 25,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "scheme-2",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 20,
-        "padding_bottom": 20
       }
     },
     "image_with_text_789DBP": {
@@ -1233,6 +1217,7 @@
   },
   "order": [
     "image_banner_WYjwbW",
+    "custom_liquid_XW3ggm",
     "multicolumn_WpyCnX",
     "multicolumn_TmkCnU",
     "multicolumn_VhzyPr",
@@ -1243,7 +1228,6 @@
     "featured_collection_DheeNV",
     "image_with_text_PcQeC7",
     "multirow_TGNpHm",
-    "featured_collection_p73D8b",
     "image_with_text_789DBP",
     "multirow_YEPYXg",
     "featured_collection_CtNKRh",

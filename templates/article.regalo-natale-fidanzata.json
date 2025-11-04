@@ -42,7 +42,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Trovare il regalo perfetto per lei non è sempre facile: che si tratti della tua fidanzata, della moglie o di un’amica speciale, vuoi sorprenderla con qualcosa che la faccia sorridere e che racconti quanto ci tieni.</p><p>In questa guida abbiamo raccolto <strong>idee regalo di Natale 2025 per ogni tipo di donna</strong> — romantica, creativa, amante del design o della cucina — tutte selezionate con cura per unire <strong>bellezza, originalità e significato</strong>.</p><p>🎁 Scopri proposte utili e raffinate, firmate da brand come <strong>Seletti, Brandani e Bitossi</strong>, e trova l’ispirazione perfetta per rendere <strong>questo Natale indimenticabile per lei</strong>.</p><p><br/>🗓️ <em>Aggiornato a novembre 2025</em></p><p></p>",
+            "text": "<p>Trovare il regalo perfetto per lei non è sempre facile: che si tratti della tua fidanzata, della moglie o di un’amica speciale, vuoi sorprenderla con qualcosa che la faccia sorridere e che racconti quanto ci tieni.</p><p>In questa guida abbiamo raccolto <strong>idee regalo di Natale 2025 per ogni tipo di donna</strong> — romantica, creativa, amante del design o della cucina — tutte selezionate con cura per unire <strong>bellezza, originalità e significato</strong>.</p><p>🎁 Scopri proposte utili e raffinate, firmate da brand come <strong>Seletti, Brandani e Bitossi</strong>, e trova l’ispirazione perfetta per rendere <strong>questo Natale indimenticabile per lei</strong>.</p>",
             "link_label": "",
             "link": ""
           }
@@ -66,6 +66,19 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_PWb7p4": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".updated-date {text-align: center; font-size: 13px; color: #666; margin-top: 4px; font-style: italic;}"
+      ],
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<p class=\"updated-date\">\n  Ultimo aggiornamento: {{ article.updated_at | date: \" %B %Y\" }}\n</p>",
+        "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -833,6 +846,7 @@
   },
   "order": [
     "image_banner_qyhApT",
+    "custom_liquid_PWb7p4",
     "multicolumn_WpyCnX",
     "multicolumn_qNaQGY",
     "image_with_text_FqhcGf",

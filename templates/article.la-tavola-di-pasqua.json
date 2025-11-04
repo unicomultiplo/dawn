@@ -70,6 +70,19 @@
         "padding_bottom": 0
       }
     },
+    "custom_liquid_tHNbMB": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".updated-date {text-align: center; font-size: 13px; color: #666; margin-top: 4px; font-style: italic;}"
+      ],
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<p class=\"updated-date\">\n  Ultimo aggiornamento: {{ article.updated_at | date: \" %B %Y\" }}\n</p>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn_qNaQGY": {
       "type": "multicolumn",
       "blocks": {
@@ -861,6 +874,7 @@
   },
   "order": [
     "image_banner_PpEdAd",
+    "custom_liquid_tHNbMB",
     "multicolumn_WpyCnX",
     "multicolumn_qNaQGY",
     "image_with_text_NXth3x",
