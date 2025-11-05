@@ -58,7 +58,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/cosa-regalare-per-diciottesimo-compleanno.webp",
+        "image": "shopify://shop_images/natale-2025-unico-e-multiplo.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -212,7 +212,7 @@
         "a {color: black; text-decoration: none;}"
       ],
       "settings": {
-        "title": "<strong>Regali per la tavola che trasformano ogni occasione </strong>",
+        "title": "<strong>Regali per la tavola che trasformano ogni occasione - </strong>per una mise en place elegante  e conviviale",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
@@ -543,13 +543,222 @@
         "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
+        "button_label": "Scopri tutti i Nostri Brand ->",
+        "button_link": "shopify://pages/i-nostri-brand",
+        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 16
+      }
+    },
+    "multicolumn_AAexqG": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_jLdERd": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_etikeJ": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Doni che si adattano al momento, al rapporto con chi li riceve e al budget disponibile.</p><p>Ogni casa ha la sua storia, proprio come ogni persona che la vive.<br/>Le <strong>idee regalo per la casa di Unico & Multiplo</strong> nascono per accompagnare questi racconti quotidiani, con <strong>oggetti di design, accessori decorativi e articoli per la cucina</strong> che si adattano a ogni occasione, relazione e fascia di prezzo.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_jLdERd",
+        "column_etikeJ"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Idee Regalo per la casa perfette per persone e momenti diversi",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_eg7VNb": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_cNemxr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IZIPIZI-occhiali-da-sole-idee-regalo.webp",
+            "title": "",
+            "text": "<p><strong>IDEE PER LUI →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-regali-per-lui"
+          }
+        },
+        "column_BXD7C9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/verygoods-candela-1.jpg",
+            "title": "",
+            "text": "<p><strong>IDEE PER LEI →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-regali-per-lei"
+          }
+        },
+        "column_M7EhAD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/regali-per-lui-romantici-idee-originali.webp",
+            "title": "",
+            "text": "<p><strong>IDEE PER LA COPPIA →</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/tempo-libero?filter.v.price.gte=40&filter.v.price.lte=110&sort_by=manual"
+          }
+        }
+      },
+      "block_order": [
+        "column_cNemxr",
+        "column_BXD7C9",
+        "column_M7EhAD"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<strong>Regali per lei, per lui, per i genitori o per una coppia di amici</strong>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_tJNqki": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_U9rD9Y": {
+          "type": "heading",
+          "settings": {
+            "heading": "Regali per la casa sotto 50€, 100€ o 150€",
+            "heading_size": "h2"
+          }
+        },
+        "text_wYjNk8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Non serve un grande budget per fare un regalo d’effetto.<br/>Le <strong>idee regalo per la casa</strong> di <em>Unico & Multiplo</em> sono suddivise per fascia di prezzo, per aiutarti a <strong>scegliere con facilità e consapevolezza</strong>.</p>"
+          }
+        },
+        "button_XXEay4": {
+          "type": "button",
+          "settings": {
+            "button_label": "Idee Sotto 50€",
+            "button_link": "shopify://collections/idee-regalo-economiche",
+            "button_style_secondary": true,
+            "button_label_2": "Idee Sotto 100€",
+            "button_link_2": "shopify://collections/idee-regalo-regali-sotto-100-euro",
+            "button_style_secondary_2": true
+          }
+        },
+        "button_WHipGa": {
+          "type": "button",
+          "settings": {
+            "button_label": "Idee Regalo Sotto 150€",
+            "button_link": "shopify://collections/idee-regalo-regali-sotto-150-euro",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_U9rD9Y",
+        "text_wYjNk8",
+        "button_XXEay4",
+        "button_WHipGa"
+      ],
+      "custom_css": [],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_Wf66Kg": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_deVTaU": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Spunti e ispirazioni per idee regalo dedicate alla casa</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_XaPWtk": {
+          "type": "text",
+          "settings": {
+            "text": "Che tu stia cercando <strong>un dono per una casa nuova</strong>, un <strong>pensiero per colleghi o amici</strong>, oppure <strong>un’idea romantica per una coppia</strong>, troverai contenuti e selezioni capaci di guidarti nella scelta con gusto e leggerezza.",
+            "text_style": "body"
+          }
+        },
+        "buttons_hAnUTR": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Etichetta pulsante",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Etichetta pulsante",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_deVTaU",
+        "text_XaPWtk",
+        "buttons_hAnUTR"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Tumbler-natale-2025-bicchieri-1.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     }
   },
@@ -564,6 +773,10 @@
     "multicolumn_Cjdxz3",
     "multicolumn_C6Htrd",
     "multicolumn_nw6mnq",
-    "multicolumn_NEC9f4"
+    "multicolumn_NEC9f4",
+    "multicolumn_AAexqG",
+    "multicolumn_eg7VNb",
+    "rich_text_tJNqki",
+    "image_banner_Wf66Kg"
   ]
 }
