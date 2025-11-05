@@ -443,7 +443,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><br/>I <strong>migliori brand di design per la casa e la cucina</strong> selezionati da <em>Unico & Multiplo</em> rappresentano l’equilibrio perfetto tra <strong>innovazione, ironia e tradizione</strong>: oggetti pensati per vivere, per sorprendere e per durare. Che si tratti di un set da tavola, di un complemento d’arredo o di un elemento decorativo, ogni creazione è pensata per <strong>valorizzare la quotidianità con un tocco d’autore</strong>.<br/>Scegliere un dono firmato da un marchio iconico significa regalare <strong>qualità, bellezza e originalità</strong>, ma anche trasmettere un’idea precisa di gusto e attenzione.</p>",
+            "text": "<p>I <strong>migliori brand di design per la casa e la cucina</strong> selezionati da <em>Unico & Multiplo</em> rappresentano l’equilibrio perfetto tra <strong>innovazione, ironia e tradizione</strong>: oggetti pensati per vivere, per sorprendere e per durare. Che si tratti di un set da tavola, di un complemento d’arredo o di un elemento decorativo, ogni creazione è pensata per <strong>valorizzare la quotidianità con un tocco d’autore</strong>.<br/>Scegliere un dono firmato da un marchio iconico significa regalare <strong>qualità, bellezza e originalità</strong>, ma anche trasmettere un’idea precisa di gusto e attenzione.</p>",
             "link_label": "",
             "link": ""
           }
@@ -455,7 +455,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>I migliori brand di design da regalare per casa e cucina</strong>",
+        "title": "I migliori brand di design da regalare per casa e cucina",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -477,9 +477,9 @@
         "column_YRCWeY": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knIndustrie_Collezione_Storm__mood.webp",
+            "image": "shopify://shop_images/knindustrie-bicchiere-sparky-lara-caffi-20.webp",
             "title": "",
-            "text": "<h3><strong>KnIndustrie – essenzialità e innovazione</strong></h3>",
+            "text": "<h3><strong>KnIndustrie</strong> - essenzialità e innovazione</h3>",
             "link_label": "",
             "link": "shopify://collections/complementi-arredo-specchi-da-parete"
           }
@@ -487,9 +487,9 @@
         "column_9aFwWC": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Marinette_c696c502-67c7-4d57-95b8-fa921a0b1d97.webp",
+            "image": "shopify://shop_images/Hybrid-seletti-natale-2025.webp",
             "title": "",
-            "text": "<p><strong>Plaid</strong></p>",
+            "text": "<h3><strong>Seletti </strong>- Creatività Pop e Ironia per la casa</h3>",
             "link_label": "",
             "link": "shopify://collections/marinette-saint-tropez"
           }
@@ -499,7 +499,7 @@
           "settings": {
             "image": "shopify://shop_images/bitossi-home-tavola-scomposta-grazie-dei-fiori-vaso-ceramica-2.jpg",
             "title": "",
-            "text": "<p><strong>Vasi</strong></p>",
+            "text": "<h3><strong>Bitossi Home </strong>- Colore e Allegria per la Tavola</h3>",
             "link_label": "",
             "link": "shopify://collections/complementi-arredo-vasi"
           }
@@ -507,9 +507,19 @@
         "column_PG6r8E": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/miho-duetto-candelabri-artigiali.jpg",
+            "title": "",
+            "text": "<h3><strong>Miho</strong></h3>",
+            "link_label": "",
+            "link": "shopify://collections/complementi-arredo-tessili-casa"
+          }
+        },
+        "column_PrBkxt": {
+          "type": "column",
+          "settings": {
             "image": "shopify://shop_images/vanilla-fly-cuscino-velluto-retro-velluto-brown-fan.jpg",
             "title": "",
-            "text": "<p><strong>Tessili</strong></p>",
+            "text": "<h3><strong>Vanilla Fly </strong></h3>",
             "link_label": "",
             "link": "shopify://collections/complementi-arredo-tessili-casa"
           }
@@ -519,9 +529,9 @@
         "column_YRCWeY",
         "column_9aFwWC",
         "column_cqaUMR",
-        "column_PG6r8E"
+        "column_PG6r8E",
+        "column_PrBkxt"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -538,7 +548,7 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 16,
+        "padding_top": 0,
         "padding_bottom": 16
       }
     }
