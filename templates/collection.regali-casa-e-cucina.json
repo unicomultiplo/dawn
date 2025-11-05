@@ -58,7 +58,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/natale-2025-unico-e-multiplo.jpg",
+        "image": "shopify://shop_images/natale-2025-unico-e-multiplo_1.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
