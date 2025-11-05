@@ -653,7 +653,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "rich_text_tJNqki": {
@@ -662,7 +662,7 @@
         "heading_U9rD9Y": {
           "type": "heading",
           "settings": {
-            "heading": "Regali per la casa sotto 50€, 100€ o 150€",
+            "heading": "<strong>Regali per la casa sotto 50€, 100€ o 150€</strong>",
             "heading_size": "h2"
           }
         },
@@ -708,8 +708,8 @@
         "content_alignment": "center",
         "color_scheme": "scheme-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 28,
+        "padding_bottom": 40
       }
     },
     "image_banner_Wf66Kg": {
@@ -732,10 +732,10 @@
         "buttons_hAnUTR": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Etichetta pulsante",
-            "button_link_1": "",
+            "button_label_1": "Regalare per Stupire",
+            "button_link_1": "shopify://blogs/regalare-per-stupire",
             "button_style_secondary_1": false,
-            "button_label_2": "Etichetta pulsante",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -748,7 +748,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Tumbler-natale-2025-bicchieri-1.webp",
+        "image": "shopify://shop_images/Piatti-natale-2025.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
