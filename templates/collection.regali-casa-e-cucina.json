@@ -417,7 +417,7 @@
         "image_ratio": "square",
         "columns_desktop": 3,
         "column_alignment": "left",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-1",
@@ -481,27 +481,27 @@
             "title": "",
             "text": "<h3><strong>KnIndustrie</strong> - essenzialità e innovazione</h3>",
             "link_label": "",
-            "link": "shopify://collections/complementi-arredo-specchi-da-parete"
+            "link": "shopify://collections/knindustrie"
           }
         },
         "column_9aFwWC": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Hybrid-seletti-natale-2025.webp",
+            "image": "shopify://shop_images/hybrid-tavola-natale-seletti.webp",
             "title": "",
             "text": "<h3><strong>Seletti </strong>- Creatività Pop e Ironia per la casa</h3>",
             "link_label": "",
-            "link": "shopify://collections/marinette-saint-tropez"
+            "link": "shopify://collections/seletti"
           }
         },
         "column_cqaUMR": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/bitossi-home-tavola-scomposta-grazie-dei-fiori-vaso-ceramica-2.jpg",
+            "image": "shopify://shop_images/Bitossi-abracabra-natale-2025.webp",
             "title": "",
             "text": "<h3><strong>Bitossi Home </strong>- Colore e Allegria per la Tavola</h3>",
             "link_label": "",
-            "link": "shopify://collections/complementi-arredo-vasi"
+            "link": "shopify://collections/bitossi-home"
           }
         },
         "column_PG6r8E": {
@@ -509,9 +509,9 @@
           "settings": {
             "image": "shopify://shop_images/miho-duetto-candelabri-artigiali.jpg",
             "title": "",
-            "text": "<h3><strong>Miho</strong></h3>",
+            "text": "<h3><strong>Miho - </strong>Design poetico e sostenibile</h3>",
             "link_label": "",
-            "link": "shopify://collections/complementi-arredo-tessili-casa"
+            "link": "shopify://collections/miho"
           }
         },
         "column_PrBkxt": {
@@ -519,9 +519,9 @@
           "settings": {
             "image": "shopify://shop_images/vanilla-fly-cuscino-velluto-retro-velluto-brown-fan.jpg",
             "title": "",
-            "text": "<h3><strong>Vanilla Fly </strong></h3>",
+            "text": "<h3><strong>Vanilla Fly - </strong>Stile eclettico e fascino vintage</h3>",
             "link_label": "",
-            "link": "shopify://collections/complementi-arredo-tessili-casa"
+            "link": "shopify://collections/vanilla-fly"
           }
         }
       },
