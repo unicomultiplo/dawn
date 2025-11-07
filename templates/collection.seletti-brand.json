@@ -141,6 +141,22 @@
     },
     "image_banner_dc8VCJ": {
       "type": "image-banner",
+      "blocks": {
+        "buttons_YT7Pxp": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Natale con Seletti",
+            "button_link_1": "shopify://collections/seletti-natale",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "buttons_YT7Pxp"
+      ],
       "settings": {
         "image": "shopify://shop_images/natale-con-seletti-natle-idee-regalo-2025.webp",
         "image_overlay_opacity": 0,
@@ -148,7 +164,7 @@
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "color_scheme": "scheme-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
@@ -252,7 +268,7 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 40,
+        "padding_top": 20,
         "padding_bottom": 0
       }
     },
