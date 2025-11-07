@@ -103,9 +103,9 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Dimentica l’arredo convenzionale: la collezione <strong>Superfurniture di Seletti</strong> esplode di colori, forme ironiche e carattere pop. Un mix irriverente di design e personalità, perfetto per chi vuole rompere le regole… con stile.</p>",
+            "text": "<p>Il <strong>Natale </strong>con<strong> Seletti </strong> è un invito a rompere la tradizione con<strong> ironia e stile</strong>. Dai servizi da tavola <strong>eccentrici</strong> alle idee regalo natalizie più <strong>audaci</strong>, ogni creazione Seletti è pensata per stupire. I piatti, i bicchieri e i centrotavola trasformano ogni pranzo delle feste in un’esperienza di design <strong>contemporaneo</strong>, fatta di colori, forme inaspettate e dettagli pop. Perfette anche come <strong>idee regalo originali</strong>, le collezioni Seletti uniscono funzionalità e creatività, rendendo <strong>unico </strong>ogni momento del Natale.</p>",
             "link_label": "SCOPRI SUBITO TUTTA LA COLLEZIONE!",
-            "link": "shopify://collections/superfurniture-seletti"
+            "link": "shopify://collections/seletti-natale"
           }
         },
         "column_LEpgA4": {
@@ -123,7 +123,7 @@
         "column_LEpgA4"
       ],
       "settings": {
-        "title": "Seletti: NOVITA'",
+        "title": "Seletti - Natale 2025",
         "heading_size": "h0",
         "image_width": "third",
         "image_ratio": "square",
@@ -142,7 +142,7 @@
     "image_banner_dc8VCJ": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/seletti-forniture-new-chair-superforniture.webp",
+        "image": "shopify://shop_images/natale-con-seletti-natle-idee-regalo-2025.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
