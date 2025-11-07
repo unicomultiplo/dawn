@@ -409,16 +409,10 @@
     "collection_list_6Wn6Ec": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_My83R8": {
+        "featured_collection_GU3RQ3": {
           "type": "featured_collection",
           "settings": {
-            "collection": "idee-regalo-compleanno"
-          }
-        },
-        "featured_collection_mNe8fM": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-laurea-e-diploma"
+            "collection": "idee-regalo-per-casa-e-cucina"
           }
         },
         "featured_collection_Tjd3fK": {
@@ -427,10 +421,16 @@
             "collection": "idee-regalo-sposi"
           }
         },
-        "featured_collection_wENUBK": {
+        "featured_collection_mNe8fM": {
           "type": "featured_collection",
           "settings": {
-            "collection": "idee-regalo-pasqua"
+            "collection": "idee-regalo-laurea-e-diploma"
+          }
+        },
+        "featured_collection_My83R8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-compleanno"
           }
         },
         "featured_collection_XLK4qT": {
@@ -439,20 +439,20 @@
             "collection": "idee-regalo-san-valentino"
           }
         },
-        "featured_collection_GU3RQ3": {
+        "featured_collection_wENUBK": {
           "type": "featured_collection",
           "settings": {
-            "collection": "idee-regalo-per-casa-e-cucina"
+            "collection": "idee-regalo-pasqua"
           }
         }
       },
       "block_order": [
-        "featured_collection_My83R8",
-        "featured_collection_mNe8fM",
+        "featured_collection_GU3RQ3",
         "featured_collection_Tjd3fK",
-        "featured_collection_wENUBK",
+        "featured_collection_mNe8fM",
+        "featured_collection_My83R8",
         "featured_collection_XLK4qT",
-        "featured_collection_GU3RQ3"
+        "featured_collection_wENUBK"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
