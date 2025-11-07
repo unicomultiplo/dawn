@@ -33,24 +33,6 @@
     "collection_list_rE9hxw": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_7hzQpq": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-compleanno"
-          }
-        },
-        "featured_collection_axLyHc": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-san-valentino"
-          }
-        },
-        "featured_collection_YEaihV": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-natale"
-          }
-        },
         "featured_collection_nmpFde": {
           "type": "featured_collection",
           "settings": {
@@ -68,15 +50,33 @@
           "settings": {
             "collection": "idee-regalo-regali-sotto-150-euro"
           }
+        },
+        "featured_collection_YEaihV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-natale"
+          }
+        },
+        "featured_collection_7hzQpq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-compleanno"
+          }
+        },
+        "featured_collection_axLyHc": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-san-valentino"
+          }
         }
       },
       "block_order": [
-        "featured_collection_7hzQpq",
-        "featured_collection_axLyHc",
-        "featured_collection_YEaihV",
         "featured_collection_nmpFde",
         "featured_collection_hEzeF4",
-        "featured_collection_eKYXKU"
+        "featured_collection_eKYXKU",
+        "featured_collection_YEaihV",
+        "featured_collection_7hzQpq",
+        "featured_collection_axLyHc"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
