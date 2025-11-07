@@ -69,11 +69,11 @@
         "buttons_JLXXhx": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "NEW! Seletti Amanita",
-            "button_link_1": "shopify://collections/amanita-seletti",
+            "button_label_1": "Seletti - Piatti Hybrid",
+            "button_link_1": "shopify://collections/seletti-hybrid-piatti",
             "button_style_secondary_1": false,
-            "button_label_2": "Collezione Kintsugi",
-            "button_link_2": "shopify://collections/seletti-catalogo-prodotti-kintsugi",
+            "button_label_2": "Superfurniture",
+            "button_link_2": "shopify://collections/superfurniture-seletti",
             "button_style_secondary_2": false
           }
         }
@@ -82,8 +82,8 @@
         "buttons_JLXXhx"
       ],
       "settings": {
-        "image": "shopify://shop_images/amanita-magna-graecia-seletti.webp",
-        "image_2": "shopify://shop_images/kintsugi-lamp-seletti-new.webp",
+        "image": "shopify://shop_images/Cat-Hybrid-collection.webp",
+        "image_2": "shopify://shop_images/superforniture-seletti-new-2025.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
