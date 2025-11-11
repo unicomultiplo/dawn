@@ -58,7 +58,7 @@
           "type": "button",
           "settings": {
             "button_label": "IDEE REGALO",
-            "button_link": "https://www.unicoemultiplo.com/pages/natale#shopify-section-template--22570381443337__multirow_YiBENi",
+            "button_link": "shopify://collections/idee-regalo-natale",
             "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
