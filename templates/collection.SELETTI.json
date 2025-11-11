@@ -48,8 +48,8 @@
           "settings": {
             "image": "shopify://shop_images/Seletti-logo.jpg",
             "title": "",
-            "text": "",
-            "link_label": "Esplora il Brand",
+            "text": "<p>Esplora il Brand</p>",
+            "link_label": "",
             "link": "shopify://collections/seletti"
           }
         },
@@ -58,8 +58,8 @@
           "settings": {
             "image": "shopify://shop_images/Discover_now_our_Hybrid_collection_by_f21b3c46-c7b9-4678-acf9-839ef4db4b0c.webp",
             "title": "",
-            "text": "",
-            "link_label": "TABLEWARE - Arte della Tavola",
+            "text": "<p>TABLEWARE - Arte della Tavola</p>",
+            "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_pekHrY"
           }
         },
@@ -68,8 +68,8 @@
           "settings": {
             "image": "shopify://shop_images/magna-graecia-seletti.jpg",
             "title": "",
-            "text": "",
-            "link_label": "FURNITURE - Arredo",
+            "text": "<p>FURNITURE - Arredo</p>",
+            "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_jLjhzz"
           }
         },
@@ -78,8 +78,8 @@
           "settings": {
             "image": "shopify://shop_images/seletti-kintsugi-lucky-horn-corno-portafortuna-in-porcellana_4a79718f-bd49-4d33-ae57-72c59ea9c48c.webp",
             "title": "",
-            "text": "",
-            "link_label": "OBJECTS - Idee Regalo",
+            "text": "<p>OBJECTS - Idee Regalo</p>",
+            "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_qftGfx"
           }
         },
@@ -88,8 +88,8 @@
           "settings": {
             "image": "shopify://shop_images/My-Little-Lamps-Seletti.jpg",
             "title": "",
-            "text": "",
-            "link_label": "LIGHTING - Oggetti Luce",
+            "text": "<p>LIGHTING - Oggetti Luce</p>",
+            "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_ky7KpY"
           }
         },
@@ -98,8 +98,8 @@
           "settings": {
             "image": "shopify://shop_images/seletti-natale-christmas-gift-idee-regalo.webp",
             "title": "",
-            "text": "",
-            "link_label": "NATALE 2025 - Idee Regalo Seletti",
+            "text": "<p>NATALE 2025 - Idee Regalo Seletti</p>",
+            "link_label": "",
             "link": "shopify://collections/seletti-natale"
           }
         }
