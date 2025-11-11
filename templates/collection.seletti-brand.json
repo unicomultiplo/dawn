@@ -492,6 +492,12 @@
     "collection_list_TjThGx": {
       "type": "collection-list",
       "blocks": {
+        "featured_collection_eJMtkn": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-toiletpaper-jewels"
+          }
+        },
         "featured_collection_emHfqk": {
           "type": "featured_collection",
           "settings": {
@@ -524,6 +530,7 @@
         }
       },
       "block_order": [
+        "featured_collection_eJMtkn",
         "featured_collection_emHfqk",
         "featured_collection_mMJRWf",
         "featured_collection_nj6rjd",
@@ -534,7 +541,7 @@
         "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
