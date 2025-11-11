@@ -60,7 +60,7 @@
             "title": "",
             "text": "<p><strong>Brainwash</strong></p><p>Per veri pensatori <strong>→</strong><br/></p>",
             "link_label": "",
-            "link": "shopify://collections/oggetto-decorativo-regalo-seletti"
+            "link": "shopify://collections/brainwash-seletti"
           }
         },
         "column_zBx8yP": {
@@ -78,9 +78,9 @@
           "settings": {
             "image": "shopify://shop_images/Love-in-Bloom-Seletti_196422cc-27a4-45b1-8a92-bd393047e649.webp",
             "title": "",
-            "text": "<p><strong>Love in Bloom</strong></p><p>Romanticismo Pop<strong>→</strong></p>",
+            "text": "<p><strong>Love in Bloom</strong></p><p>Romanticismo Pop <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-marcantonio"
+            "link": "shopify://collections/love-in-bloom-seletti"
           }
         },
         "column_B8gRmm": {
@@ -90,15 +90,35 @@
             "title": "",
             "text": "<p><strong>Circus </strong></p><p>La magia del circo <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-seletti-marcantonio-memorabilia"
+            "link": "shopify://collections/circus-seletti"
           }
         },
         "column_7zKnmg": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/seletti-i-tea-by-i-wares-tazza-da-the-30.webp",
+            "title": "",
+            "text": "<p><strong>I-Wares</strong></p><p>Il \"classico\" Fluo <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-catalogo-prodotti-i-wares"
+          }
+        },
+        "column_HJ6wmT": {
+          "type": "column",
+          "settings": {
             "image": "shopify://shop_images/fuorisalone-toiletpaper-home-3-1631038852.webp",
             "title": "",
             "text": "<p><strong>Toiletpaper </strong></p><p>Ironia surreale <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-catalogo-prodotti-toiletpaper"
+          }
+        },
+        "column_zDGXbG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-swing-monkey-lamp-lampada-bianca-indoor-1.jpg",
+            "title": "",
+            "text": "<p><strong>Monkey Lamps </strong></p><p>Si arrampicano ovunque <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/seletti-catalogo-prodotti-toiletpaper"
           }
@@ -112,7 +132,9 @@
         "column_zBx8yP",
         "column_d84p3g",
         "column_B8gRmm",
-        "column_7zKnmg"
+        "column_7zKnmg",
+        "column_HJ6wmT",
+        "column_zDGXbG"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -124,10 +146,10 @@
         "image_ratio": "square",
         "columns_desktop": 5,
         "column_alignment": "center",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 20,
