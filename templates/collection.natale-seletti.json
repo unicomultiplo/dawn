@@ -292,6 +292,7 @@
         "column_Jynqei",
         "column_XiGHTy"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -318,8 +319,8 @@
         "column_gfxHib": {
           "type": "column",
           "settings": {
-            "title": "<strong>Regali di Natale firmati Seletti per stupire chi ami</strong>",
-            "text": "<p>Dimentica i soliti regali: con <strong>Seletti</strong> il Natale diventa un’esplosione di creatività, ironia e colore. Regali eccentrici, <strong>un po’ folli e irresistibilmente pop</strong>, perfetti per chi ama <strong>oggetti fuori dal comune</strong> e per chi vuole portare un tocco d’arte in casa. Con Seletti, anche il gesto del dono diventa un piccolo atto di design: qualcosa che fa sorridere, stupisce e resta impresso nel tempo.</p>",
+            "title": "<strong>Catalogo e collezioni natalizie Seletti da scoprire online</strong>",
+            "text": "<p>Scopri online il <strong>catalogo natalizio Seletti</strong>: collezioni in edizione limitata, novità di stagione e pezzi cult da collezione.<br/>Ogni oggetto è pensato per chi vuole regalare (o regalarsi) qualcosa di davvero unico: design italiano, spirito irriverente e una buona dose di creatività sotto l’albero.</p>",
             "link_label": "",
             "link": ""
           }
@@ -340,7 +341,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Idee regalo e collezioni Seletti per il Natale",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -352,13 +353,60 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_jVdUi6": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_fGMJpc": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Oggetti Seletti per un Natale fuori dagli schemi</strong>",
+            "text": "<p>Per chi non si accontenta dei soliti regali, Seletti propone un Natale <strong>fuori dagli schemi</strong>, dove ironia e colore sostituiscono la tradizione.<br/>Dalle tazze con motivi surreali ai soprammobili più eccentrici, ogni dettaglio contribuisce a creare un’atmosfera natalizia in perfetto stile Seletti: <strong>artistica, divertente e pop</strong>.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PGetmF": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_fGMJpc",
+        "column_PGetmF"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
     "dual_images_PgFJyJ": {
       "type": "dual-images",
-      "custom_css": [],
+      "disabled": true,
+      "custom_css": [
+        "a {color: black;}"
+      ],
       "settings": {
         "section_height": 1000,
         "image_padding": 15,
@@ -430,32 +478,13 @@
             "color_scheme": "scheme-4",
             "text_alignment_mobile": "center"
           }
-        },
-        "slide_yxMzfQ": {
-          "type": "slide",
-          "settings": {
-            "heading": "Prodotto in evidenza 1",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "Etichetta pulsante",
-            "link": "",
-            "button_style_secondary": true,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-4",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
         "slide_HFBXrU",
         "slide_MmcpKy",
-        "slide_gw7i8P",
-        "slide_yxMzfQ"
+        "slide_gw7i8P"
       ],
-      "disabled": true,
       "settings": {
         "layout": "full_bleed",
         "slide_height": "small",
@@ -475,6 +504,7 @@
     "multicolumn_w3YReB",
     "multicolumn_RVpam8",
     "multicolumn_6gAN6j",
+    "multicolumn_jVdUi6",
     "dual_images_PgFJyJ",
     "slideshow_HNxCmk"
   ]
