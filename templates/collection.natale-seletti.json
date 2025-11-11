@@ -149,7 +149,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 20,
@@ -176,11 +176,66 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_w3YReB": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Ej4CCk": {
+          "type": "column",
+          "settings": {
+            "title": "Colonna",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_VhAC9b": {
+          "type": "column",
+          "settings": {
+            "title": "Colonna",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_UJ8fax": {
+          "type": "column",
+          "settings": {
+            "title": "Colonna",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Ej4CCk",
+        "column_VhAC9b",
+        "column_UJ8fax"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Multicolonna",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Etichetta pulsante",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "dual_images_PgFJyJ": {
       "type": "dual-images",
+      "custom_css": [],
       "settings": {
-        "section_height": 600,
-        "image_padding": 20,
+        "section_height": 1000,
+        "image_padding": 15,
         "left_image": "shopify://shop_images/Natale-con-i-piatti-Seletti-Hybrid.webp",
         "left_link": "shopify://collections/seletti-natale",
         "left_text": "Piatti Hybrid",
@@ -190,7 +245,7 @@
         "right_bottom_image": "shopify://shop_images/La-tavola-di-Seletti-kintsugi-Natale.webp",
         "right_bottom_link": "shopify://collections/ichendorf-catalogo-natale",
         "right_bottom_text": "Piatti Classics on Acid",
-        "margin_top": 92
+        "margin_top": 32
       }
     },
     "slideshow_HNxCmk": {
@@ -290,6 +345,7 @@
     "banner",
     "multicolumn_ReMqxa",
     "product-grid",
+    "multicolumn_w3YReB",
     "dual_images_PgFJyJ",
     "slideshow_HNxCmk"
   ]
