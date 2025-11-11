@@ -403,7 +403,6 @@
     },
     "dual_images_PgFJyJ": {
       "type": "dual-images",
-      "disabled": true,
       "custom_css": [
         "a {color: black;}"
       ],
