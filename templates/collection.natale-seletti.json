@@ -149,7 +149,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 20,
@@ -182,17 +182,8 @@
         "column_Ej4CCk": {
           "type": "column",
           "settings": {
-            "title": "Colonna",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_VhAC9b": {
-          "type": "column",
-          "settings": {
-            "title": "Colonna",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "title": "<strong>Regali di Natale firmati Seletti per stupire chi ami</strong>",
+            "text": "<p>Dimentica i soliti regali: con <strong>Seletti</strong> il Natale diventa un’esplosione di creatività, ironia e colore. Regali eccentrici, <strong>un po’ folli e irresistibilmente pop</strong>, perfetti per chi ama <strong>oggetti fuori dal comune</strong> e per chi vuole portare un tocco d’arte in casa. Con Seletti, anche il gesto del dono diventa un piccolo atto di design: qualcosa che fa sorridere, stupisce e resta impresso nel tempo.</p>",
             "link_label": "",
             "link": ""
           }
@@ -200,8 +191,8 @@
         "column_UJ8fax": {
           "type": "column",
           "settings": {
-            "title": "Colonna",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -209,25 +200,160 @@
       },
       "block_order": [
         "column_Ej4CCk",
-        "column_VhAC9b",
         "column_UJ8fax"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Multicolonna",
+        "title": "Idee regalo e collezioni Seletti per il Natale",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 1,
         "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Etichetta pulsante",
+        "background_style": "none",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_RVpam8": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_yJqcUq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-toiletpaper-jewels-collection.webp",
+            "title": "",
+            "text": "<p><strong>Toiletpaper Jewels</strong><br/>L’irriverenza da indossare<strong> →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-toiletpaper-jewels"
+          }
+        },
+        "column_fpXGbH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-2.webp",
+            "title": "",
+            "text": "<p><strong>Classic on Acid</strong></p><p>La tavola distorta<strong> →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid"
+          }
+        },
+        "column_CjfjrM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brainwash-Seletti.webp",
+            "title": "",
+            "text": "<p><strong>Brainwash</strong></p><p>Per veri pensatori <strong>→</strong><br/></p>",
+            "link_label": "",
+            "link": "shopify://collections/brainwash-seletti"
+          }
+        },
+        "column_Y9wYJM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/LOOK_AT_THEM_REFLECTING_EYES_ROMANO_GHISALBERTI.webp",
+            "title": "",
+            "text": "<p><strong>Liberty Mirrors </strong></p><p>Riflessi fuori dal comune <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/specchi-seletti"
+          }
+        },
+        "column_Jynqei": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Love-in-Bloom-Seletti_196422cc-27a4-45b1-8a92-bd393047e649.webp",
+            "title": "",
+            "text": "<p><strong>Love in Bloom</strong></p><p>Romanticismo Pop <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/love-in-bloom-seletti"
+          }
+        },
+        "column_XiGHTy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Circus-Seletti.jpg",
+            "title": "",
+            "text": "<p><strong>Circus </strong></p><p>La magia del circo <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/circus-seletti"
+          }
+        }
+      },
+      "block_order": [
+        "column_yJqcUq",
+        "column_fpXGbH",
+        "column_CjfjrM",
+        "column_Y9wYJM",
+        "column_Jynqei",
+        "column_XiGHTy"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "multicolumn_6gAN6j": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gfxHib": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Regali di Natale firmati Seletti per stupire chi ami</strong>",
+            "text": "<p>Dimentica i soliti regali: con <strong>Seletti</strong> il Natale diventa un’esplosione di creatività, ironia e colore. Regali eccentrici, <strong>un po’ folli e irresistibilmente pop</strong>, perfetti per chi ama <strong>oggetti fuori dal comune</strong> e per chi vuole portare un tocco d’arte in casa. Con Seletti, anche il gesto del dono diventa un piccolo atto di design: qualcosa che fa sorridere, stupisce e resta impresso nel tempo.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_eYnXjJ": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_gfxHib",
+        "column_eYnXjJ"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Idee regalo e collezioni Seletti per il Natale",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
       }
     },
     "dual_images_PgFJyJ": {
@@ -237,13 +363,13 @@
         "section_height": 1000,
         "image_padding": 15,
         "left_image": "shopify://shop_images/Natale-con-i-piatti-Seletti-Hybrid.webp",
-        "left_link": "shopify://collections/seletti-natale",
+        "left_link": "shopify://collections/seletti-hybrid-piatti",
         "left_text": "Piatti Hybrid",
         "right_top_image": "shopify://shop_images/Natale-con-Seletti.webp",
-        "right_top_link": "shopify://collections/bitossi-home-natale",
+        "right_top_link": "shopify://collections/seletti-catalogo-prodotti-seletti-kintsugi-piatti",
         "right_top_text": "Piatti Kintsugi",
-        "right_bottom_image": "shopify://shop_images/La-tavola-di-Seletti-kintsugi-Natale.webp",
-        "right_bottom_link": "shopify://collections/ichendorf-catalogo-natale",
+        "right_bottom_image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-2.webp",
+        "right_bottom_link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid",
         "right_bottom_text": "Piatti Classics on Acid",
         "margin_top": 32
       }
@@ -264,7 +390,7 @@
             "box_align": "middle-center",
             "show_text_box": true,
             "text_alignment": "center",
-            "image_overlay_opacity": 10,
+            "image_overlay_opacity": 0,
             "color_scheme": "scheme-4",
             "text_alignment_mobile": "center"
           }
@@ -329,8 +455,9 @@
         "slide_gw7i8P",
         "slide_yxMzfQ"
       ],
+      "disabled": true,
       "settings": {
-        "layout": "grid",
+        "layout": "full_bleed",
         "slide_height": "small",
         "slider_visual": "numbers",
         "auto_rotate": true,
@@ -346,6 +473,8 @@
     "multicolumn_ReMqxa",
     "product-grid",
     "multicolumn_w3YReB",
+    "multicolumn_RVpam8",
+    "multicolumn_6gAN6j",
     "dual_images_PgFJyJ",
     "slideshow_HNxCmk"
   ]
