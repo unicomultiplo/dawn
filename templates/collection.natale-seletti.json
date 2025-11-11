@@ -28,8 +28,8 @@
           "settings": {
             "image": "shopify://shop_images/Seletti-logo.jpg",
             "title": "",
-            "text": "",
-            "link_label": "Esplora il Brand",
+            "text": "<p>Esplora il Brand<strong> →</strong></p>",
+            "link_label": "",
             "link": "shopify://collections/seletti"
           }
         },
@@ -38,8 +38,8 @@
           "settings": {
             "image": "shopify://shop_images/seletti-toiletpaper-jewels-collection.webp",
             "title": "",
-            "text": "",
-            "link_label": "Toiletpaper Jewels",
+            "text": "<p>Toiletpaper Jewels<strong> →</strong></p>",
+            "link_label": "",
             "link": "shopify://collections/seletti-toiletpaper-jewels"
           }
         },
@@ -48,8 +48,8 @@
           "settings": {
             "image": "shopify://shop_images/Seletti-corno-kintsugi.webp",
             "title": "",
-            "text": "",
-            "link_label": "Idee Regalo",
+            "text": "<p>Oggetti<strong> →</strong></p>",
+            "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_qftGfx"
           }
         },
@@ -58,8 +58,8 @@
           "settings": {
             "image": "shopify://shop_images/sELETTI-10069_AMOR-VOLAT_MARCANTONIO_LIFESTYLE_MARBLE.webp",
             "title": "",
-            "text": "",
-            "link_label": "Vasi",
+            "text": "<p>Vasi <strong>→</strong><br/></p>",
+            "link_label": "",
             "link": "shopify://collections/oggetto-decorativo-regalo-seletti"
           }
         },
@@ -68,8 +68,8 @@
           "settings": {
             "image": "shopify://shop_images/LOOK_AT_THEM_REFLECTING_EYES_ROMANO_GHISALBERTI.webp",
             "title": "",
-            "text": "",
-            "link_label": "Liberty Mirrors",
+            "text": "<p>Liberty Mirrors <strong>→</strong></p>",
+            "link_label": "",
             "link": "shopify://collections/specchi-seletti"
           }
         },
@@ -78,8 +78,8 @@
           "settings": {
             "image": "shopify://shop_images/Seletti-unico-e-multiplo.webp",
             "title": "",
-            "text": "",
-            "link_label": "Marcantonio x Seletti",
+            "text": "<p>Marcantonio <strong>→</strong></p>",
+            "link_label": "",
             "link": "shopify://collections/seletti-catalogo-prodotti-marcantonio"
           }
         }
