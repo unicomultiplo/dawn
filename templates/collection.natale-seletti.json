@@ -20,6 +20,98 @@
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
       }
     },
+    "multicolumn_ReMqxa": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_tPBKRt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-logo.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Esplora il Brand",
+            "link": "shopify://collections/seletti"
+          }
+        },
+        "column_XJqBn9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-toiletpaper-jewels-collection.webp",
+            "title": "",
+            "text": "",
+            "link_label": "Toiletpaper Jewels",
+            "link": "shopify://collections/seletti-toiletpaper-jewels"
+          }
+        },
+        "column_k8bKVg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-lucky-temple-oggetto-decorativo-32.webp",
+            "title": "",
+            "text": "",
+            "link_label": "Idee Regalo",
+            "link": "shopify://collections/oggetto-decorativo-regalo-seletti"
+          }
+        },
+        "column_NTb3HH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-corno-kintsugi.webp",
+            "title": "",
+            "text": "",
+            "link_label": "Idee Regalo",
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_qftGfx"
+          }
+        },
+        "column_zBx8yP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/My-Little-Lamps-Seletti.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "LIGHTING - Oggetti Luce",
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_ky7KpY"
+          }
+        },
+        "column_d84p3g": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-natale-christmas-gift-idee-regalo.webp",
+            "title": "",
+            "text": "",
+            "link_label": "NATALE 2025 - Idee Regalo Seletti",
+            "link": "shopify://collections/seletti-natale"
+          }
+        }
+      },
+      "block_order": [
+        "column_tPBKRt",
+        "column_XJqBn9",
+        "column_k8bKVg",
+        "column_NTb3HH",
+        "column_zBx8yP",
+        "column_d84p3g"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -152,6 +244,7 @@
   },
   "order": [
     "banner",
+    "multicolumn_ReMqxa",
     "product-grid",
     "dual_images_PgFJyJ",
     "slideshow_HNxCmk"
