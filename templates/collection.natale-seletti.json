@@ -9,6 +9,17 @@
  */
 {
   "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        "a {color: #598db2; text-decoration: none;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -29,20 +40,120 @@
         "padding_bottom": 36
       }
     },
-    "banner": {
-      "type": "main-collection-banner",
-      "custom_css": [
-        "a {color: #598db2; text-decoration: none;}"
+    "dual_images_PgFJyJ": {
+      "type": "dual-images",
+      "settings": {
+        "section_height": 600,
+        "image_padding": 20,
+        "left_image": "shopify://shop_images/Natale-con-i-piatti-Seletti-Hybrid.webp",
+        "left_link": "shopify://collections/seletti-natale",
+        "left_text": "Piatti Hybrid",
+        "right_top_image": "shopify://shop_images/Natale-con-Seletti.webp",
+        "right_top_link": "shopify://collections/bitossi-home-natale",
+        "right_top_text": "Piatti Kintsugi",
+        "right_bottom_image": "shopify://shop_images/La-tavola-di-Seletti-kintsugi-Natale.webp",
+        "right_bottom_link": "shopify://collections/ichendorf-catalogo-natale",
+        "right_bottom_text": "Piatti Classics on Acid",
+        "margin_top": 92
+      }
+    },
+    "slideshow_HNxCmk": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_HFBXrU": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/La_Tavola_di_Natale_2_1.webp",
+            "heading": "Seletti Diesel Classics on Acid",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Scopri tutta la collezione!",
+            "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 10,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_MmcpKy": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/La-tavola-di-Natale-Seletti.webp",
+            "heading": "La Tavola di Natale Distorta",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Scoprila ora!",
+            "link": "shopify://products/seletti-diesel-living-classic-on-acid-piatti-frutta",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_gw7i8P": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/La-tavola-di-Seletti-kintsugi-Natale.webp",
+            "heading": "Seletti Piatti Kntsugi",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Scopri tutta la Collezione",
+            "link": "shopify://collections/seletti-catalogo-prodotti-kintsugi",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_yxMzfQ": {
+          "type": "slide",
+          "settings": {
+            "heading": "Prodotto in evidenza 1",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Etichetta pulsante",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_HFBXrU",
+        "slide_MmcpKy",
+        "slide_gw7i8P",
+        "slide_yxMzfQ"
       ],
       "settings": {
-        "show_collection_description": true,
-        "show_collection_image": false,
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
+        "layout": "grid",
+        "slide_height": "small",
+        "slider_visual": "numbers",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": ""
       }
     }
   },
   "order": [
     "banner",
-    "product-grid"
+    "product-grid",
+    "dual_images_PgFJyJ",
+    "slideshow_HNxCmk"
   ]
 }
