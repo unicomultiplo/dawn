@@ -70,39 +70,8 @@
             "link_label": "",
             "link": "shopify://collections/specchi-seletti"
           }
-        }
-      },
-      "block_order": [
-        "column_tPBKRt",
-        "column_XJqBn9",
-        "column_NTb3HH",
-        "column_k8bKVg",
-        "column_zBx8yP"
-      ],
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
-    "multicolumn_Re9Ldf": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_Lkyam3": {
+        },
+        "column_VkXjaD": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Love-in-Bloom-Seletti_196422cc-27a4-45b1-8a92-bd393047e649.webp",
@@ -112,7 +81,7 @@
             "link": "shopify://collections/love-in-bloom-seletti"
           }
         },
-        "column_AyLWWM": {
+        "column_KRk64y": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Circus-Seletti.jpg",
@@ -122,7 +91,7 @@
             "link": "shopify://collections/circus-seletti"
           }
         },
-        "column_Y943jF": {
+        "column_6xmWNg": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/seletti-i-tea-by-i-wares-tazza-da-the-30.webp",
@@ -132,7 +101,7 @@
             "link": "shopify://collections/seletti-catalogo-prodotti-i-wares"
           }
         },
-        "column_kjr9xW": {
+        "column_YLLPbC": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/fuorisalone-toiletpaper-home-3-1631038852.webp",
@@ -142,23 +111,28 @@
             "link": "shopify://collections/seletti-catalogo-prodotti-toiletpaper"
           }
         },
-        "column_nPEcDT": {
+        "column_DPf8rx": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/seletti-swing-monkey-lamp-lampada-bianca-indoor-1.jpg",
             "title": "",
             "text": "<p><strong>Monkey Lamps </strong></p><p>Si arrampicano ovunque <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-toiletpaper"
+            "link": "shopify://collections/seletti-catalogo-prodotti-seletti-marcantonio-monkey-lamp"
           }
         }
       },
       "block_order": [
-        "column_Lkyam3",
-        "column_AyLWWM",
-        "column_Y943jF",
-        "column_kjr9xW",
-        "column_nPEcDT"
+        "column_tPBKRt",
+        "column_XJqBn9",
+        "column_NTb3HH",
+        "column_k8bKVg",
+        "column_zBx8yP",
+        "column_VkXjaD",
+        "column_KRk64y",
+        "column_6xmWNg",
+        "column_YLLPbC",
+        "column_DPf8rx"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -850,7 +824,6 @@
   "order": [
     "banner",
     "multicolumn_ReMqxa",
-    "multicolumn_Re9Ldf",
     "product-grid",
     "multicolumn_w3YReB",
     "multicolumn_CzbkJY",
