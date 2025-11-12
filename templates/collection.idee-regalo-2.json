@@ -730,18 +730,18 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/ideeregalo-viaggio.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
+        "height": "small",
+        "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "multicolumn_MgXVPK": {
@@ -794,7 +794,7 @@
         "column_pbpMaL": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Idee-Regalo-Economiche-sotto.webp",
+            "image": "shopify://shop_images/idee-regalo-economiche-1.webp",
             "title": "",
             "text": "<p><strong>Regali smart e accessibili</strong>, perfetti per sorprendere senza complicazioni. Idee leggere ma ricche di significato.<br/><br/><strong>Piccoli gesti, grandi sorrisi →</strong></p>",
             "link_label": "",
@@ -804,7 +804,7 @@
         "column_A4CyYb": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Regali-a-Meno-di-100.webp",
+            "image": "shopify://shop_images/idee-regalo-economiche.jpg",
             "title": "",
             "text": "<p><strong>La giusta via di mezzo</strong> tra convenienza e impatto: regali che colpiscono, restano impressi e raccontano attenzione autentica.<br/><br/><strong>Equilibrio perfetto →</strong></p>",
             "link_label": "",
@@ -845,7 +845,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 0,
-        "padding_bottom": 36
+        "padding_bottom": 20
       }
     },
     "rich_text_qyWyUE": {
@@ -887,7 +887,7 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 36,
+        "padding_top": 20,
         "padding_bottom": 20
       }
     },
