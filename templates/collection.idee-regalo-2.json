@@ -166,34 +166,129 @@
         "padding_bottom": 16
       }
     },
-    "featured_collection_qHiKjR": {
-      "type": "featured-collection",
-      "custom_css": [],
-      "name": "t:sections.featured-collection.presets.name",
+    "multicolumn_gQFfTd": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_38QQn9": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Chi ha detto che un regalo debba essere serio? A volte il dono più bello è quello che fa sorridere, sorprende e resta impresso. In questa collezione trovi <strong>idee regalo originali e divertenti</strong>, perfette per chi ama oggetti creativi, curiosi e un po’ fuori dagli schemi.</p><p>Dimentica i pensieri prevedibili: qui ci sono <strong>sorprese utili ma con un twist ironico</strong>, accessori ingegnosi e dettagli che sanno stupire con leggerezza. <br/><br/></p><h3><strong>Regali divertenti che fanno sorridere<br/></strong></h3><p>Regalare qualcosa di inatteso è un piacere autentico: piccoli gesti che sorprendono e fanno stare bene. <strong>Piccole sorprese con grande effetto: idee regalo spiritose, inattese e piene di allegria. Perché il dono più bello è quello che strappa un sorriso.</strong><br/>Scopri la selezione <strong>Fun & Wow</strong>: regali originali e sorprendenti pensati per portare buonumore e stupore a ogni occasione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ddNUe9": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_38QQn9",
+        "column_ddNUe9"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Idee regalo originali e divertenti",
         "heading_size": "h1",
-        "description": "<p>Chi ha detto che un regalo debba essere serio? A volte il dono più bello è quello che fa sorridere, sorprende e resta impresso. In questa collezione trovi <strong>idee regalo originali e divertenti</strong>, perfette per chi ama oggetti creativi, curiosi e un po’ fuori dagli schemi.</p><p>Dimentica i pensieri prevedibili: qui ci sono <strong>sorprese utili ma con un twist ironico</strong>, accessori ingegnosi e dettagli che sanno stupire con leggerezza. <br/><br/></p><h3><strong>Regali divertenti che fanno sorridere<br/></strong></h3><p><br/>Regalare qualcosa di inatteso è un piacere autentico: piccoli gesti che sorprendono e fanno stare bene. <strong>Piccole sorprese con grande effetto: idee regalo spiritose, inattese e piene di allegria. Perché il dono più bello è quello che strappa un sorriso.</strong><br/><br/>Scopri la selezione <strong>Fun & Wow</strong>: regali originali e sorprendenti pensati per portare buonumore e stupore a ogni occasione.<br/><br/><br/><br/></p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "idee-regalo-economiche",
-        "products_to_show": 20,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_nDWC38": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_DNntEr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/kikkerland-dog-stress-balls-palline-antistress-cane.webp",
+            "title": "",
+            "text": "<p><strong>Kikkerland <br/></strong>Gadget geniali, zero noia →</p>",
+            "link_label": "",
+            "link": "shopify://collections/kikkerland"
+          }
+        },
+        "column_qjpRBn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/disegnetti-depressetti-portachiavi_4.webp",
+            "title": "",
+            "text": "<p><strong>Disgnetti Depressetti</strong><br/>Ironia nera, umore chiaro<strong> →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/disegnetti-depressetti"
+          }
+        },
+        "column_jTe7kt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/doiy-rainbow-reggilibri-4.webp",
+            "title": "",
+            "text": "<p><strong>DOIY</strong><br/>Design arcobaleno<strong> →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/doiy"
+          }
+        },
+        "column_HY8Lm3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/marinette-saint-tropez-plaid-pisolino-15.heic",
+            "title": "",
+            "text": "<p><strong>Marinette Saint-Tropez</strong><br/>Moda da divano <strong>→</strong><br/></p>",
+            "link_label": "",
+            "link": "shopify://collections/marinette-saint-tropez"
+          }
+        },
+        "column_x3kVWz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/printwork-chess-clouds-scacchiera-da-tavolo-5.webp",
+            "title": "",
+            "text": "<p><strong>Printworks</strong><br/>Design che gioca sul serio<strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/printworks"
+          }
+        }
+      },
+      "block_order": [
+        "column_DNntEr",
+        "column_qjpRBn",
+        "column_jTe7kt",
+        "column_HY8Lm3",
+        "column_x3kVWz"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "scheme-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 20
       }
     },
     "image_banner_3zqppy": {
@@ -252,7 +347,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Ci sono doni che parlano da soli. Un dono di design è qualcosa che non si limita a stupire al primo sguardo: resta, si fa notare ogni giorno, diventa parte dei ricordi più belli. Per questo un regalo con stile non è mai banale, ma è un segno di attenzione che racconta chi sei e cosa vuoi trasmettere.<br/><br/></p><h3><strong>Oggetti iconici che non passano di moda</strong></h3><p>Ci sono pezzi che non invecchiano mai: nascono da idee audaci e diventano simboli di creatività.<br/>Gli oggetti  visionari e irriverenti di <a href=\"/collections/seletti\" title=\"Seletti\"><strong>Seletti</strong></a>, le collezioni colorate e senza tempo di <a href=\"/collections/bitossi-home\" title=\"Bitossi Home\"><strong>Bitossi</strong>,</a> o le linee essenziali firmate per <a href=\"/collections/knindustrie\" title=\"KnIndustrie\"><strong>KnIndustrie</strong>:</a> oggetti che parlano di sogni, ironia e bellezza. Un regalo così non è solo un pensiero: è una storia che continua nel tempo.<br/></p>",
+            "text": "<p>Ci sono doni che parlano da soli. Un dono di design è qualcosa che non si limita a stupire al primo sguardo: resta, si fa notare ogni giorno, diventa parte dei ricordi più belli. Per questo un regalo con stile non è mai banale, ma è un segno di attenzione che racconta chi sei e cosa vuoi trasmettere.<br/><br/></p><h3><strong>Oggetti iconici che non passano di moda</strong></h3><p>Ci sono pezzi che non invecchiano mai: nascono da idee audaci e diventano simboli di creatività.<br/>Gli oggetti  visionari e irriverenti di <a href=\"/collections/seletti\" title=\"Seletti\"><strong>Seletti</strong></a>, le collezioni colorate e senza tempo di <a href=\"/collections/bitossi-home\" title=\"Bitossi Home\"><strong>Bitossi</strong>,</a> o le linee essenziali firmate per <a href=\"/collections/knindustrie\" title=\"KnIndustrie\"><strong>KnIndustrie</strong>:</a> oggetti che parlano di sogni, ironia e bellezza. Un regalo così non è solo un pensiero: è una storia che continua nel tempo.</p>",
             "link_label": "",
             "link": ""
           }
@@ -647,55 +742,6 @@
         "padding_bottom": 0
       }
     },
-    "image_banner_tmJB93": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_c6KCpb": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Idee regalo per lei e per lui, in pochi clic</strong>",
-            "heading_size": "h2"
-          }
-        },
-        "text_W7UX9j": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
-        "buttons_ARdBAn": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Idee Regalo per Lei",
-            "button_link_1": "shopify://collections/idee-regalo-regali-per-lei",
-            "button_style_secondary_1": false,
-            "button_label_2": "Idee Regalo per Lui",
-            "button_link_2": "shopify://collections/idee-regalo-regali-per-lui",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_c6KCpb",
-        "text_W7UX9j",
-        "buttons_ARdBAn"
-      ],
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/teal-gift-idee-regalo.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "multicolumn_ygdrVQ": {
       "type": "multicolumn",
       "blocks": {
@@ -742,7 +788,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 0,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "image_with_text_naHbji": {
@@ -1280,7 +1326,8 @@
     "image_banner_Q6rBiY",
     "product-grid",
     "multicolumn_MEiyUc",
-    "featured_collection_qHiKjR",
+    "multicolumn_gQFfTd",
+    "multicolumn_nDWC38",
     "image_banner_3zqppy",
     "multicolumn_FJwELC",
     "collection_list_WFPANW",
@@ -1289,7 +1336,6 @@
     "image_with_text_jMezDe",
     "collection_list_6Wn6Ec",
     "multicolumn_RW9UrF",
-    "image_banner_tmJB93",
     "multicolumn_ygdrVQ",
     "image_with_text_naHbji",
     "multicolumn_MgXVPK",
