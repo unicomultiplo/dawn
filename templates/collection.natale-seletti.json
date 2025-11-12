@@ -513,9 +513,9 @@
           "settings": {
             "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-3.webp",
             "title": "",
-            "text": "<p><strong>Bad Guy Lamp</strong><br/>Accendi la ribellione <strong>→</strong></p>",
+            "text": "<p><strong>Dancing Candelabrum</strong><br/>Illumina e stordisce <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://products/seletti-bad-guy-lampada-da-tavolo-in-resina-nero"
+            "link": "shopify://products/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum"
           }
         },
         "column_XHtcmP": {
@@ -523,19 +523,19 @@
           "settings": {
             "image": "shopify://shop_images/sELETTI-10069_AMOR-VOLAT_MARCANTONIO_LIFESTYLE_MARBLE.webp",
             "title": "",
-            "text": "<p><strong>Reflecting Mirror</strong><br/>Design che ti guarda <strong>→</strong></p>",
+            "text": "<p><strong>Amor Volat</strong><br/>Amore sospeso <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/reflecting-mirror-seletti"
+            "link": "shopify://products/seletti-amor-volat-vaso-in-porcellana"
           }
         },
         "column_HBzzj3": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-skullkintsugi.jpg",
+            "image": "shopify://shop_images/skull-seletti.webp",
             "title": "",
-            "text": "<p><strong>Newlithic</strong><br/>Un espresso… preistorico <strong>→</strong></p>",
+            "text": "<p><strong>Skull Kintsugi</strong><br/>Rompi le regole <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://products/seletti-newlithic-set-2-tazzine-da-caffe-in-porcellana"
+            "link": "shopify://products/seletti-kintsugi-skull-teschio"
           }
         },
         "column_64LbyE": {
@@ -543,9 +543,9 @@
           "settings": {
             "image": "shopify://shop_images/seletti-uto-balmoral-gummy-working-lampada-usb-resina-10.jpg",
             "title": "",
-            "text": "<p><strong>Lucky Temple</strong><br/>Un concentrato di fortuna <strong>→</strong></p>",
+            "text": "<p><strong>Gummy</strong><br/>Troppo carino per essere innocente <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://products/seletti-lucky-temple-oggetto-decorativo"
+            "link": "shopify://products/seletti-uto-balmoral-gummy-working-lampada-usb-resina"
           }
         },
         "column_FPgrd6": {
@@ -553,9 +553,9 @@
           "settings": {
             "image": "shopify://shop_images/seletti-toiletpaper-tappeto-bagno-shit-sagomato-1.jpg",
             "title": "",
-            "text": "<p><strong>Bain Wash</strong></p><p>Un lavaggio di cervello <strong>→</strong></p>",
+            "text": "<p><strong>Tappeto Shit</strong><br/>Calpestare l’assurdo <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/brainwash-seletti"
+            "link": "shopify://products/seletti-toiletpaper-tappeto-bagno-shit-sagomato"
           }
         },
         "column_CKqdec": {
@@ -563,9 +563,9 @@
           "settings": {
             "image": "shopify://shop_images/seletti-specchio-circus-mirror-superhero-1.jpg",
             "title": "",
-            "text": "<p><strong>Liberty Mirror</strong><br/>Libertà riflessa, zero filtri <strong>→</strong></p>",
+            "text": "<p><strong>Circus Mirror</strong><br/>Lo spettacolo comincia… →</p>",
             "link_label": "",
-            "link": "shopify://products/seletti-specchio-liberty-mirror-man"
+            "link": "shopify://products/seletti-specchio-circus-mirror-superhero"
           }
         }
       },
