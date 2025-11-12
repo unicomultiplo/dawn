@@ -247,6 +247,16 @@
     "multicolumn_CzbkJY": {
       "type": "multicolumn",
       "blocks": {
+        "column_nyFVmn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-lucky-temple-oggetto-decorativo-32.webp",
+            "title": "",
+            "text": "<p><strong>Lucky Temple</strong><br/>Un concentrato di fortuna <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-lucky-temple-oggetto-decorativo"
+          }
+        },
         "column_pGiJCT": {
           "type": "column",
           "settings": {
@@ -277,16 +287,6 @@
             "link": "shopify://collections/reflecting-mirror-seletti"
           }
         },
-        "column_nyFVmn": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-lucky-temple-oggetto-decorativo-32.webp",
-            "title": "",
-            "text": "<p><strong>Lucky Temple</strong><br/>Un concentrato di fortuna <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://products/seletti-lucky-temple-oggetto-decorativo"
-          }
-        },
         "column_XT3DP6": {
           "type": "column",
           "settings": {
@@ -309,10 +309,10 @@
         }
       },
       "block_order": [
+        "column_nyFVmn",
         "column_pGiJCT",
         "column_ndCVHY",
         "column_JhWbxd",
-        "column_nyFVmn",
         "column_XT3DP6",
         "column_n9aHqf"
       ],
@@ -508,20 +508,10 @@
     "multicolumn_KqFwpn": {
       "type": "multicolumn",
       "blocks": {
-        "column_HBzzj3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-newlithic-set-2-tazzine-da-caffe-in-porcellana-5.webp",
-            "title": "",
-            "text": "<p><strong>Newlithic</strong><br/>Un espresso… preistorico <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://products/seletti-newlithic-set-2-tazzine-da-caffe-in-porcellana"
-          }
-        },
         "column_dEnp8D": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-bad-guy-lampada-da-tavolo-in-resina-bianco-1.webp",
+            "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-3.webp",
             "title": "",
             "text": "<p><strong>Bad Guy Lamp</strong><br/>Accendi la ribellione <strong>→</strong></p>",
             "link_label": "",
@@ -531,17 +521,27 @@
         "column_XHtcmP": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-reflecting-specchiera-con-cornice-ciclope-2.webp",
+            "image": "shopify://shop_images/sELETTI-10069_AMOR-VOLAT_MARCANTONIO_LIFESTYLE_MARBLE.webp",
             "title": "",
             "text": "<p><strong>Reflecting Mirror</strong><br/>Design che ti guarda <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/reflecting-mirror-seletti"
           }
         },
+        "column_HBzzj3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-skullkintsugi.jpg",
+            "title": "",
+            "text": "<p><strong>Newlithic</strong><br/>Un espresso… preistorico <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-newlithic-set-2-tazzine-da-caffe-in-porcellana"
+          }
+        },
         "column_64LbyE": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-lucky-temple-oggetto-decorativo-32.webp",
+            "image": "shopify://shop_images/seletti-uto-balmoral-gummy-working-lampada-usb-resina-10.jpg",
             "title": "",
             "text": "<p><strong>Lucky Temple</strong><br/>Un concentrato di fortuna <strong>→</strong></p>",
             "link_label": "",
@@ -551,7 +551,7 @@
         "column_FPgrd6": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Brainwash-Seletti.webp",
+            "image": "shopify://shop_images/seletti-toiletpaper-tappeto-bagno-shit-sagomato-1.jpg",
             "title": "",
             "text": "<p><strong>Bain Wash</strong></p><p>Un lavaggio di cervello <strong>→</strong></p>",
             "link_label": "",
@@ -561,7 +561,7 @@
         "column_CKqdec": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Liberty-Mirrors-Seletti.jpg",
+            "image": "shopify://shop_images/seletti-specchio-circus-mirror-superhero-1.jpg",
             "title": "",
             "text": "<p><strong>Liberty Mirror</strong><br/>Libertà riflessa, zero filtri <strong>→</strong></p>",
             "link_label": "",
@@ -570,9 +570,9 @@
         }
       },
       "block_order": [
-        "column_HBzzj3",
         "column_dEnp8D",
         "column_XHtcmP",
+        "column_HBzzj3",
         "column_64LbyE",
         "column_FPgrd6",
         "column_CKqdec"
