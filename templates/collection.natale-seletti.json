@@ -26,7 +26,7 @@
           "settings": {
             "image": "shopify://shop_images/Seletti-logo.jpg",
             "title": "",
-            "text": "<p><strong>Esplora <br/><br/></strong>Tutte le collezioni <strong>→</strong></p>",
+            "text": "<p><strong>Esplora <br/></strong>Tutte le collezioni <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/seletti"
           }
@@ -250,60 +250,71 @@
         "column_pGiJCT": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Love-in-Bloom-Seletti_196422cc-27a4-45b1-8a92-bd393047e649.webp",
+            "image": "shopify://shop_images/seletti-newlithic-set-2-tazzine-da-caffe-in-porcellana-5.webp",
             "title": "",
-            "text": "<p><strong>Love in Bloom</strong></p><p>Romanticismo Pop <strong>→</strong></p>",
+            "text": "<p><strong>Newlithic</strong><br/>Un espresso… preistorico <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/love-in-bloom-seletti"
+            "link": "shopify://products/seletti-newlithic-set-2-tazzine-da-caffe-in-porcellana"
           }
         },
         "column_ndCVHY": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Circus-Seletti.jpg",
+            "image": "shopify://shop_images/seletti-bad-guy-lampada-da-tavolo-in-resina-bianco-1.webp",
             "title": "",
-            "text": "<p><strong>Circus </strong></p><p>La magia del circo <strong>→</strong></p>",
+            "text": "<p><strong>Bad Guy Lamp</strong><br/>Accendi la ribellione <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/circus-seletti"
-          }
-        },
-        "column_nyFVmn": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-i-tea-by-i-wares-tazza-da-the-30.webp",
-            "title": "",
-            "text": "<p><strong>I-Wares</strong></p><p>Il \"classico\" Fluo <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-i-wares"
-          }
-        },
-        "column_XT3DP6": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/fuorisalone-toiletpaper-home-3-1631038852.webp",
-            "title": "",
-            "text": "<p><strong>Toiletpaper </strong></p><p>Ironia surreale <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-toiletpaper"
+            "link": "shopify://products/seletti-bad-guy-lampada-da-tavolo-in-resina-nero"
           }
         },
         "column_JhWbxd": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-swing-monkey-lamp-lampada-bianca-indoor-1.jpg",
+            "image": "shopify://shop_images/seletti-reflecting-specchiera-con-cornice-ciclope-2.webp",
             "title": "",
-            "text": "<p><strong>Monkey Lamps </strong></p><p>Si arrampicano ovunque <strong>→</strong></p>",
+            "text": "<p><strong>Reflecting Mirror</strong><br/>Design che ti guarda <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-toiletpaper"
+            "link": "shopify://collections/reflecting-mirror-seletti"
+          }
+        },
+        "column_nyFVmn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-lucky-temple-oggetto-decorativo-32.webp",
+            "title": "",
+            "text": "<p><strong>Lucky Temple</strong><br/>Un concentrato di fortuna <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-lucky-temple-oggetto-decorativo"
+          }
+        },
+        "column_XT3DP6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brainwash-Seletti.webp",
+            "title": "",
+            "text": "<p><strong>Bain Wash</strong></p><p>Un lavaggio di cervello <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/brainwash-seletti"
+          }
+        },
+        "column_n9aHqf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Liberty-Mirrors-Seletti.jpg",
+            "title": "",
+            "text": "<p><strong>Liberty Mirror</strong><br/>Libertà riflessa, zero filtri <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-specchio-liberty-mirror-man"
           }
         }
       },
       "block_order": [
         "column_pGiJCT",
         "column_ndCVHY",
+        "column_JhWbxd",
         "column_nyFVmn",
         "column_XT3DP6",
-        "column_JhWbxd"
+        "column_n9aHqf"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -369,6 +380,87 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_p4rTcB": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_bHceix": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-logo.jpg",
+            "title": "",
+            "text": "<p><strong>Esplora <br/></strong>Tutte le collezioni <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti"
+          }
+        },
+        "column_aYRmQx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Circus-Seletti.jpg",
+            "title": "",
+            "text": "<p><strong>Circus</strong><br/>Il circo… in salotto <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/specchi-seletti"
+          }
+        },
+        "column_Utyc7X": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/vitamin-seletti-unico_-e-multiplo.jpg",
+            "title": "",
+            "text": "<p><strong>Vitamin</strong><br/>Dose quotidiana di design<strong> →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid"
+          }
+        },
+        "column_NAPUkJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Pixel-Mirrors-Seletti.jpg",
+            "title": "",
+            "text": "<p><strong>Pixel Mirror</strong><br/>Riflessi in alta risoluzione <strong>→</strong><br/></p>",
+            "link_label": "",
+            "link": "shopify://collections/brainwash-seletti"
+          }
+        },
+        "column_CJWXXU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-toiletpaper-jewels-collection.webp",
+            "title": "",
+            "text": "<p><strong>Toiletpaper Jewels</strong><br/>L’irriverenza da indossare<strong> →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-toiletpaper-jewels"
+          }
+        }
+      },
+      "block_order": [
+        "column_bHceix",
+        "column_aYRmQx",
+        "column_Utyc7X",
+        "column_NAPUkJ",
+        "column_CJWXXU"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "multicolumn_jVdUi6": {
       "type": "multicolumn",
       "blocks": {
@@ -411,6 +503,98 @@
         "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "multicolumn_KqFwpn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_HBzzj3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-newlithic-set-2-tazzine-da-caffe-in-porcellana-5.webp",
+            "title": "",
+            "text": "<p><strong>Newlithic</strong><br/>Un espresso… preistorico <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-newlithic-set-2-tazzine-da-caffe-in-porcellana"
+          }
+        },
+        "column_dEnp8D": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-bad-guy-lampada-da-tavolo-in-resina-bianco-1.webp",
+            "title": "",
+            "text": "<p><strong>Bad Guy Lamp</strong><br/>Accendi la ribellione <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-bad-guy-lampada-da-tavolo-in-resina-nero"
+          }
+        },
+        "column_XHtcmP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-reflecting-specchiera-con-cornice-ciclope-2.webp",
+            "title": "",
+            "text": "<p><strong>Reflecting Mirror</strong><br/>Design che ti guarda <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/reflecting-mirror-seletti"
+          }
+        },
+        "column_64LbyE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-lucky-temple-oggetto-decorativo-32.webp",
+            "title": "",
+            "text": "<p><strong>Lucky Temple</strong><br/>Un concentrato di fortuna <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-lucky-temple-oggetto-decorativo"
+          }
+        },
+        "column_FPgrd6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brainwash-Seletti.webp",
+            "title": "",
+            "text": "<p><strong>Bain Wash</strong></p><p>Un lavaggio di cervello <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/brainwash-seletti"
+          }
+        },
+        "column_CKqdec": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Liberty-Mirrors-Seletti.jpg",
+            "title": "",
+            "text": "<p><strong>Liberty Mirror</strong><br/>Libertà riflessa, zero filtri <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-specchio-liberty-mirror-man"
+          }
+        }
+      },
+      "block_order": [
+        "column_HBzzj3",
+        "column_dEnp8D",
+        "column_XHtcmP",
+        "column_64LbyE",
+        "column_FPgrd6",
+        "column_CKqdec"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "multicolumn_xAgMMd": {
@@ -569,6 +753,11 @@
         "featured_collection_A6LwVq",
         "featured_collection_TzEy43"
       ],
+      "custom_css": [
+        ".media--transparent {background-color: var(--product-background-color);}",
+        ".media--transparent img {mix-blend-mode: multiply;}",
+        ".card__content,.card__information {padding-left: 0px;}"
+      ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
@@ -666,7 +855,9 @@
     "multicolumn_w3YReB",
     "multicolumn_CzbkJY",
     "multicolumn_6gAN6j",
+    "multicolumn_p4rTcB",
     "multicolumn_jVdUi6",
+    "multicolumn_KqFwpn",
     "multicolumn_xAgMMd",
     "dual_images_PgFJyJ",
     "multicolumn_tim83c",
