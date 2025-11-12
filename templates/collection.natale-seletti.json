@@ -14,7 +14,7 @@
       "custom_css": [],
       "settings": {
         "show_collection_description": true,
-        "show_collection_image": true,
+        "show_collection_image": false,
         "color_scheme": "scheme-1464a208-fcdd-4ba9-b1e4-de3cd41e6336"
       }
     },
