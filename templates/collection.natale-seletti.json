@@ -11,13 +11,11 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
-      "custom_css": [
-        "a {color: #598db2; text-decoration: none;}"
-      ],
+      "custom_css": [],
       "settings": {
         "show_collection_description": true,
-        "show_collection_image": false,
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
+        "show_collection_image": true,
+        "color_scheme": "scheme-1464a208-fcdd-4ba9-b1e4-de3cd41e6336"
       }
     },
     "multicolumn_ReMqxa": {
@@ -72,8 +70,39 @@
             "link_label": "",
             "link": "shopify://collections/specchi-seletti"
           }
-        },
-        "column_d84p3g": {
+        }
+      },
+      "block_order": [
+        "column_tPBKRt",
+        "column_XJqBn9",
+        "column_NTb3HH",
+        "column_k8bKVg",
+        "column_zBx8yP"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "multicolumn_Re9Ldf": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Lkyam3": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Love-in-Bloom-Seletti_196422cc-27a4-45b1-8a92-bd393047e649.webp",
@@ -83,7 +112,7 @@
             "link": "shopify://collections/love-in-bloom-seletti"
           }
         },
-        "column_B8gRmm": {
+        "column_AyLWWM": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Circus-Seletti.jpg",
@@ -93,7 +122,7 @@
             "link": "shopify://collections/circus-seletti"
           }
         },
-        "column_7zKnmg": {
+        "column_Y943jF": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/seletti-i-tea-by-i-wares-tazza-da-the-30.webp",
@@ -103,7 +132,7 @@
             "link": "shopify://collections/seletti-catalogo-prodotti-i-wares"
           }
         },
-        "column_HJ6wmT": {
+        "column_kjr9xW": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/fuorisalone-toiletpaper-home-3-1631038852.webp",
@@ -113,7 +142,7 @@
             "link": "shopify://collections/seletti-catalogo-prodotti-toiletpaper"
           }
         },
-        "column_zDGXbG": {
+        "column_nPEcDT": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/seletti-swing-monkey-lamp-lampada-bianca-indoor-1.jpg",
@@ -125,16 +154,11 @@
         }
       },
       "block_order": [
-        "column_tPBKRt",
-        "column_XJqBn9",
-        "column_NTb3HH",
-        "column_k8bKVg",
-        "column_zBx8yP",
-        "column_d84p3g",
-        "column_B8gRmm",
-        "column_7zKnmg",
-        "column_HJ6wmT",
-        "column_zDGXbG"
+        "column_Lkyam3",
+        "column_AyLWWM",
+        "column_Y943jF",
+        "column_kjr9xW",
+        "column_nPEcDT"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -499,6 +523,7 @@
   "order": [
     "banner",
     "multicolumn_ReMqxa",
+    "multicolumn_Re9Ldf",
     "product-grid",
     "multicolumn_w3YReB",
     "multicolumn_RVpam8",
