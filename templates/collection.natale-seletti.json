@@ -244,99 +244,6 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_RVpam8": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_yJqcUq": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-toiletpaper-jewels-collection.webp",
-            "title": "",
-            "text": "<p><strong>Toiletpaper Jewels</strong><br/>L’irriverenza da indossare<strong> →</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/seletti-toiletpaper-jewels"
-          }
-        },
-        "column_fpXGbH": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-2.webp",
-            "title": "",
-            "text": "<p><strong>Classic on Acid</strong></p><p>La tavola distorta<strong> →</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid"
-          }
-        },
-        "column_CjfjrM": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Brainwash-Seletti.webp",
-            "title": "",
-            "text": "<p><strong>Brainwash</strong></p><p>Per veri pensatori <strong>→</strong><br/></p>",
-            "link_label": "",
-            "link": "shopify://collections/brainwash-seletti"
-          }
-        },
-        "column_Y9wYJM": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/LOOK_AT_THEM_REFLECTING_EYES_ROMANO_GHISALBERTI.webp",
-            "title": "",
-            "text": "<p><strong>Liberty Mirrors </strong></p><p>Riflessi fuori dal comune <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/specchi-seletti"
-          }
-        },
-        "column_Jynqei": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Love-in-Bloom-Seletti_196422cc-27a4-45b1-8a92-bd393047e649.webp",
-            "title": "",
-            "text": "<p><strong>Love in Bloom</strong></p><p>Romanticismo Pop <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/love-in-bloom-seletti"
-          }
-        },
-        "column_XiGHTy": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Circus-Seletti.jpg",
-            "title": "",
-            "text": "<p><strong>Circus </strong></p><p>La magia del circo <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/circus-seletti"
-          }
-        }
-      },
-      "block_order": [
-        "column_yJqcUq",
-        "column_fpXGbH",
-        "column_CjfjrM",
-        "column_Y9wYJM",
-        "column_Jynqei",
-        "column_XiGHTy"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
     "multicolumn_6gAN6j": {
       "type": "multicolumn",
       "blocks": {
@@ -432,7 +339,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Il Natale secondo Seletti è una tavola che sorprende: funzionale, ma con un’anima eccentrica. Piatti, bicchieri, centrotavola e oggetti décor diventano protagonisti di una scenografia natalizia memorabile, dove ogni dettaglio è un invito a sorridere e a osare con il design.</p>",
+            "text": "<p>Il <strong>Natale secondo Seletti</strong> non è mai convenzionale. È una tavola che sorprende, funzionale ma con un’anima eccentrica, dove ogni dettaglio diventa occasione di stupore e creatività. Piatti, bicchieri, centrotavola e oggetti décor si trasformano in elementi scenografici, capaci di dare vita a un’atmosfera unica, tra ironia, colore e design contemporaneo.</p><p>Che si tratti di un pranzo in famiglia o di una cena tra amici, la tavola firmata Seletti invita a giocare con lo stile e a mescolare forme, texture e simboli pop. L’obiettivo? Creare una <em>mise en place</em> indimenticabile, in cui ogni pezzo racconta una storia e ogni oggetto diventa parte di una narrazione visiva in pieno spirito natalizio.</p>",
             "link_label": "",
             "link": ""
           }
@@ -489,34 +396,122 @@
         "margin_top": 32
       }
     },
+    "multicolumn_tim83c": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Pjyd9t": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Tavola di Natale Seletti tra ironia e colore</strong>",
+            "text": "<p>La <strong>tavola secondo Seletti</strong> non conosce regole. È un mix esplosivo di ironia, colori e forme inaspettate: il posto dove la porcellana incontra il pop, l’oro si mescola al fluo e la creatività si serve senza limiti.</p><p><br/>Le linee <strong>Hybrid</strong>, <strong>Kintsugi</strong> e <strong>Acid</strong> riscrivono le regole del gusto con il coraggio del design più visionario. Hybrid unisce mondi lontani in un solo piatto; Kintsugi celebra la bellezza dell’imperfezione con venature dorate; Acid mescola energia e follia cromatica per una tavola che non chiede permesso.<br/><br/>Per Seletti, anche un pranzo di Natale diventa una performance: ironica, audace e teatrale. La tavola si trasforma in un palcoscenico dove convivono <strong>arte, design e un pizzico di follia</strong> — perché la vera eleganza, dopotutto, è saper osare.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yQhiCE": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Pjyd9t",
+        "column_yQhiCE"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_iWB7qW": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_FJcb76": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "piatti-seletti"
+          }
+        },
+        "featured_collection_FcjRr4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bicchieri-e-calici-seletti"
+          }
+        },
+        "featured_collection_VawqLp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "posate-seletti"
+          }
+        },
+        "featured_collection_JKKGcH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bottiglie-e-caraffe-seletti"
+          }
+        },
+        "featured_collection_A6LwVq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "candele-e-candelabri-seletti"
+          }
+        },
+        "featured_collection_TzEy43": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tovaglie-tovagliette-e-sottopiatti-seletti"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_FJcb76",
+        "featured_collection_FcjRr4",
+        "featured_collection_VawqLp",
+        "featured_collection_JKKGcH",
+        "featured_collection_A6LwVq",
+        "featured_collection_TzEy43"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "slideshow_HNxCmk": {
       "type": "slideshow",
       "blocks": {
-        "slide_HFBXrU": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/La_Tavola_di_Natale_2_1.webp",
-            "heading": "Seletti Diesel Classics on Acid",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "Scopri tutta la collezione!",
-            "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid",
-            "button_style_secondary": true,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_MmcpKy": {
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/La-tavola-di-Natale-Seletti.webp",
-            "heading": "La Tavola di Natale Distorta",
+            "heading": "Seletti Diesel Classic on Acid",
             "heading_size": "h2",
-            "subheading": "",
+            "subheading": "La Tavola di Natale Distorta",
             "button_label": "Scoprila ora!",
             "link": "shopify://products/seletti-diesel-living-classic-on-acid-piatti-frutta",
             "button_style_secondary": true,
@@ -532,11 +527,29 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/La-tavola-di-Seletti-kintsugi-Natale.webp",
-            "heading": "Seletti Piatti Kntsugi",
+            "heading": "Seletti Piatti Kintsugi",
             "heading_size": "h2",
-            "subheading": "",
+            "subheading": "La bellezza dell’imperfezione",
             "button_label": "Scopri tutta la Collezione",
             "link": "shopify://collections/seletti-catalogo-prodotti-kintsugi",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_HFBXrU": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Cat-Hybrid-collection.webp",
+            "heading": "Seletti Hybrid",
+            "heading_size": "h2",
+            "subheading": "Due mondi lontani in un solo piatto",
+            "button_label": "Scopri tutta la collezione!",
+            "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid",
             "button_style_secondary": true,
             "box_align": "middle-center",
             "show_text_box": true,
@@ -548,12 +561,12 @@
         }
       },
       "block_order": [
-        "slide_HFBXrU",
         "slide_MmcpKy",
-        "slide_gw7i8P"
+        "slide_gw7i8P",
+        "slide_HFBXrU"
       ],
       "settings": {
-        "layout": "full_bleed",
+        "layout": "grid",
         "slide_height": "small",
         "slider_visual": "numbers",
         "auto_rotate": true,
@@ -570,11 +583,12 @@
     "multicolumn_Re9Ldf",
     "product-grid",
     "multicolumn_w3YReB",
-    "multicolumn_RVpam8",
     "multicolumn_6gAN6j",
     "multicolumn_jVdUi6",
     "multicolumn_xAgMMd",
     "dual_images_PgFJyJ",
+    "multicolumn_tim83c",
+    "collection_list_iWB7qW",
     "slideshow_HNxCmk"
   ]
 }
