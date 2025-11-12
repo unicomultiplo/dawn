@@ -593,7 +593,7 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 20,
+        "padding_top": 0,
         "padding_bottom": 20
       }
     },
@@ -604,7 +604,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Il <strong>Natale secondo Seletti</strong> non è mai convenzionale. È una tavola che sorprende, funzionale ma con un’anima eccentrica, dove ogni dettaglio diventa occasione di stupore e creatività. Piatti, bicchieri, centrotavola e oggetti décor si trasformano in elementi scenografici, capaci di dare vita a un’atmosfera unica, tra ironia, colore e design contemporaneo.</p><p>Che si tratti di un pranzo in famiglia o di una cena tra amici, la tavola firmata Seletti invita a giocare con lo stile e a mescolare forme, texture e simboli pop. L’obiettivo? Creare una <em>mise en place</em> indimenticabile, in cui ogni pezzo racconta una storia e ogni oggetto diventa parte di una narrazione visiva in pieno spirito natalizio.</p>",
+            "text": "<p>Il <strong>Natale secondo Seletti</strong> non è mai convenzionale. È una tavola che sorprende, funzionale ma con un’<strong>anima eccentrica</strong>, dove ogni dettaglio diventa occasione di stupore e creatività.</p><p>Che si tratti del pranzo di Natale o di una cena tra amici, la tavola firmata Seletti invita a <strong>giocare </strong>con lo stile e a <strong>mescolare</strong> forme, texture e simboli pop. Piatti, bicchieri, centrotavola e oggetti décor si trasformano in <strong>elementi scenografici</strong>, capaci di dare vita a un’atmosfera unica, tra ironia, colore e design contemporaneo..</p>",
             "link_label": "",
             "link": ""
           }
@@ -637,7 +637,7 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 24,
         "padding_bottom": 0
       }
     },
@@ -668,7 +668,7 @@
           "type": "column",
           "settings": {
             "title": "<strong>Tavola di Natale Seletti tra ironia e colore</strong>",
-            "text": "<p>La <strong>tavola secondo Seletti</strong> non conosce regole. È un mix esplosivo di ironia, colori e forme inaspettate: la creatività si serve senza limiti.<br/><br/>Piatti, bicchieri e posate diventano protagonisti di una tavola che non ha paura di esagerare. Gli elementi si mescolano come in un collage visivo fatto di colori accesi, contrasti audaci e dettagli dorati che catturano la luce.<br/><br/>Per Seletti, anche un pranzo di Natale diventa una performance: ironica, audace e teatrale. La tavola di Seletti non si limita a ospitare: mette in scena  - perché la vera eleganza, dopotutto, è saper osare.</p>",
+            "text": "<p>La <strong>tavola secondo Seletti</strong> non conosce regole. È un <strong>mix esplosivo</strong> di ironia, colori e forme inaspettate: la creatività si serve senza limiti.<br/><br/><strong>Piatti, bicchieri e posate diventano protagonist</strong>i di una tavola che non ha paura di esagerare. Gli elementi si mescolano come in un collage visivo fatto di colori accesi, contrasti audaci e dettagli dorati che catturano la luce.<br/><br/>Per Seletti, anche un pranzo di Natale diventa una performance: ironica, audace e teatrale. <strong>La tavola di Seletti</strong> non si limita a ospitare:<strong> mette in scena</strong>  - perché la vera eleganza, dopotutto, è saper osare.</p>",
             "link_label": "",
             "link": ""
           }
@@ -762,7 +762,7 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "image_ratio": "square",
+        "image_ratio": "portrait",
         "columns_desktop": 6,
         "color_scheme": "scheme-1",
         "show_view_all": false,
