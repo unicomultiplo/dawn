@@ -256,6 +256,16 @@
         "column_x3kVWz": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/seletti-lucky-temple-oggetto-decorativo-12.webp",
+            "title": "",
+            "text": "<p><strong>Seletti</strong><br/>Inconfondibilmente folle <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/oggetto-decorativo-regalo-seletti"
+          }
+        },
+        "column_pDWkH7": {
+          "type": "column",
+          "settings": {
             "image": "shopify://shop_images/printwork-chess-clouds-scacchiera-da-tavolo-5.webp",
             "title": "",
             "text": "<p><strong>Printworks</strong><br/>Design che gioca sul serio<strong>→</strong></p>",
@@ -269,7 +279,8 @@
         "column_qjpRBn",
         "column_jTe7kt",
         "column_HY8Lm3",
-        "column_x3kVWz"
+        "column_x3kVWz",
+        "column_pDWkH7"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -279,7 +290,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "portrait",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
@@ -327,9 +338,9 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Idee-regalo-natale-2025.jpg",
+        "image": "shopify://shop_images/Natale-2025.webp",
         "image_overlay_opacity": 0,
-        "image_height": "adapt",
+        "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
