@@ -332,8 +332,8 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 20,
-        "padding_bottom": 20
+        "padding_top": 0,
+        "padding_bottom": 32
       }
     },
     "multicolumn_6gAN6j": {
@@ -400,7 +400,7 @@
             "title": "",
             "text": "<p><strong>Circus</strong><br/>Il circo… in salotto <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/specchi-seletti"
+            "link": "shopify://collections/circus-seletti"
           }
         },
         "column_Utyc7X": {
@@ -410,7 +410,7 @@
             "title": "",
             "text": "<p><strong>Vitamin</strong><br/>Dose quotidiana di design<strong> →</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid"
+            "link": "shopify://collections/vitamin-seletti"
           }
         },
         "column_NAPUkJ": {
@@ -420,7 +420,7 @@
             "title": "",
             "text": "<p><strong>Pixel Mirror</strong><br/>Riflessi in alta risoluzione <strong>→</strong><br/></p>",
             "link_label": "",
-            "link": "shopify://collections/brainwash-seletti"
+            "link": "shopify://collections/pixel-mirrors-seletti"
           }
         },
         "column_CJWXXU": {
@@ -457,8 +457,8 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 20,
-        "padding_bottom": 20
+        "padding_top": 0,
+        "padding_bottom": 32
       }
     },
     "multicolumn_jVdUi6": {
