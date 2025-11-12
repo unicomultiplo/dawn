@@ -337,6 +337,9 @@
         "featured_collection_HFFiNP",
         "featured_collection_xUyqLz"
       ],
+      "custom_css": [
+        "a {color: black; font-weight: bold; text-decoration: none;}"
+      ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "Scopri la nostra selezione <em>Design Pick</em>: una raccolta di oggetti iconici scelti per chi ama distinguersi.",
@@ -583,6 +586,9 @@
         "featured_collection_XLK4qT",
         "featured_collection_wENUBK"
       ],
+      "custom_css": [
+        "a {color: black; font-weight: bold; text-decoration: none;}"
+      ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "<strong>Trova l’idea regalo giusta per ogni evento</strong>",
@@ -738,10 +744,10 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_r8Dm68": {
+    "multicolumn_MgXVPK": {
       "type": "multicolumn",
       "blocks": {
-        "column_HExQwD": {
+        "column_paWYMT": {
           "type": "column",
           "settings": {
             "title": "",
@@ -750,7 +756,7 @@
             "link": ""
           }
         },
-        "column_D8yJni": {
+        "column_jxh3hD": {
           "type": "column",
           "settings": {
             "title": "",
@@ -758,41 +764,11 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_FrEbJ9": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<ol><li><strong>Regali smart e accessibili</strong>, perfetti per sorprendere senza complicazioni. Idee leggere ma ricche di significato.</li></ol>",
-            "link_label": "Piccoli gesti, grandi sorrisi",
-            "link": "shopify://collections/idee-regalo-economiche"
-          }
-        },
-        "column_H9aEHa": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>2.<strong> La giusta via di mezzo</strong> tra convenienza e impatto: regali che colpiscono, restano impressi e raccontano attenzione autentica.</p>",
-            "link_label": "Equilibrio perfetto",
-            "link": "shopify://collections/idee-regalo-regali-sotto-100-euro"
-          }
-        },
-        "column_zhwjTV": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>3.<strong> Doni più importanti,</strong> scelti per celebrare momenti che meritano di essere ricordati con qualcosa di unico e speciale.</p>",
-            "link_label": "Il valore delle grandi occasioni",
-            "link": "shopify://collections/idee-regalo-regali-sotto-150-euro"
-          }
         }
       },
       "block_order": [
-        "column_HExQwD",
-        "column_D8yJni",
-        "column_FrEbJ9",
-        "column_H9aEHa",
-        "column_zhwjTV"
+        "column_paWYMT",
+        "column_jxh3hD"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -801,56 +777,75 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
-        "column_alignment": "center",
+        "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 20,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
-    "collection_list_NjQXhb": {
-      "type": "collection-list",
+    "multicolumn_MRrcLx": {
+      "type": "multicolumn",
       "blocks": {
-        "featured_collection_htXfnH": {
-          "type": "featured_collection",
+        "column_pbpMaL": {
+          "type": "column",
           "settings": {
-            "collection": "idee-regalo-economiche"
+            "image": "shopify://shop_images/Idee-Regalo-Economiche-sotto.webp",
+            "title": "",
+            "text": "<p><strong>Regali smart e accessibili</strong>, perfetti per sorprendere senza complicazioni. Idee leggere ma ricche di significato.<br/><br/><strong>Piccoli gesti, grandi sorrisi →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-economiche"
           }
         },
-        "featured_collection_PQURCe": {
-          "type": "featured_collection",
+        "column_A4CyYb": {
+          "type": "column",
           "settings": {
-            "collection": "idee-regalo-regali-sotto-100-euro"
+            "image": "shopify://shop_images/Regali-a-Meno-di-100.webp",
+            "title": "",
+            "text": "<p><strong>La giusta via di mezzo</strong> tra convenienza e impatto: regali che colpiscono, restano impressi e raccontano attenzione autentica.<br/><br/><strong>Equilibrio perfetto →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-regali-sotto-100-euro"
           }
         },
-        "featured_collection_4fgwWW": {
-          "type": "featured_collection",
+        "column_H66N3e": {
+          "type": "column",
           "settings": {
-            "collection": "idee-regalo-regali-sotto-150-euro"
+            "image": "shopify://shop_images/Regali-a-Meno-di-150.webp",
+            "title": "",
+            "text": "<p><strong>Doni più importanti,</strong> scelti per celebrare momenti che meritano di essere ricordati con qualcosa di unico e speciale.<br/><br/><strong>Il valore delle grandi occasioni →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-regali-sotto-150-euro"
           }
         }
       },
       "block_order": [
-        "featured_collection_htXfnH",
-        "featured_collection_PQURCe",
-        "featured_collection_4fgwWW"
+        "column_pbpMaL",
+        "column_A4CyYb",
+        "column_H66N3e"
       ],
-      "name": "t:sections.collection-list.presets.name",
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
-        "heading_size": "h2",
+        "heading_size": "h1",
+        "image_width": "full",
         "image_ratio": "square",
         "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 36
       }
     },
     "rich_text_qyWyUE": {
@@ -1032,7 +1027,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/santa-fixes-the-bow-on-a-gift.jpg",
-            "title": "SECRET SANTA",
+            "title": "<strong>SECRET SANTA</strong>",
             "text": "<p>Sorprendi il tuo collega, anche quello che non conosci!</p>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=0&filter.v.price.lte=35&sort_by=manual"
@@ -1042,7 +1037,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/person-holds-a-glass-bottle-and-carrots-by-their-tops.jpg",
-            "title": "Per gli CHEF",
+            "title": "<strong>Per gli CHEF</strong>",
             "text": "<p>Anche se bruciano tutto, meritano il meglio in cucina</p>",
             "link_label": "",
             "link": "shopify://collections/knindustrie"
@@ -1052,7 +1047,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/boy-on-climbing-web.jpg",
-            "title": "BAMBINI CURIOSI",
+            "title": "<strong>BAMBINI CURIOSI</strong>",
             "text": "<p>Per chi smonta tutto… e crea nuovi mondi!</p>",
             "link_label": "",
             "link": "shopify://collections/kikkerland"
@@ -1062,7 +1057,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/seletti-my-moon-lamp-lampada-seduta-indoor-outdoor.jpg",
-            "title": "SELETTI",
+            "title": "<strong>SELETTI</strong>",
             "text": "<p>Regali che non passano inosservati (mai).</p>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_qftGfx"
@@ -1072,7 +1067,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/doiy-rainbow-reggilibri-4.webp",
-            "title": "COLOUR LOVER",
+            "title": "<strong>COLOUR LOVER</strong>",
             "text": "<p>Design pop e ironico, a tutta cromia</p>",
             "link_label": "",
             "link": "shopify://collections/doiy"
@@ -1082,7 +1077,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/depressetti-disegnetti-piena-stampa.webp",
-            "title": "DISEGNETTI DEPRESSETTI",
+            "title": "<strong>DISEGNETTI DEPRESSETTI</strong>",
             "text": "<p>L’ironia che <em>(forse)</em> salverà la giornata </p>",
             "link_label": "",
             "link": "shopify://collections/disegnetti-depressetti"
@@ -1247,8 +1242,8 @@
     "multicolumn_RW9UrF",
     "image_banner_tmJB93",
     "image_with_text_naHbji",
-    "multicolumn_r8Dm68",
-    "collection_list_NjQXhb",
+    "multicolumn_MgXVPK",
+    "multicolumn_MRrcLx",
     "rich_text_qyWyUE",
     "multirow_i9bgYb",
     "custom_liquid_ahjVBf",
