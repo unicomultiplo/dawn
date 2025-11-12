@@ -836,7 +836,7 @@
         "slide_HFBXrU"
       ],
       "settings": {
-        "layout": "grid",
+        "layout": "full_bleed",
         "slide_height": "small",
         "slider_visual": "numbers",
         "auto_rotate": true,
