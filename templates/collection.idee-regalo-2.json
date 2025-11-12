@@ -159,7 +159,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "color_scheme": "scheme-1464a208-fcdd-4ba9-b1e4-de3cd41e6336",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 40,
@@ -245,55 +245,48 @@
         "show_text_below": true
       }
     },
-    "image_with_text_TWa4dW": {
-      "type": "image-with-text",
+    "multicolumn_FJwELC": {
+      "type": "multicolumn",
       "blocks": {
-        "heading_rjAfFq": {
-          "type": "heading",
+        "column_4C79A8": {
+          "type": "column",
           "settings": {
-            "heading": "Idee regalo con un tocco di design",
-            "heading_size": "h1"
+            "title": "",
+            "text": "<p>Ci sono doni che parlano da soli. Un dono di design è qualcosa che non si limita a stupire al primo sguardo: resta, si fa notare ogni giorno, diventa parte dei ricordi più belli. Per questo un regalo con stile non è mai banale, ma è un segno di attenzione che racconta chi sei e cosa vuoi trasmettere.<br/><br/></p><h3><strong>Oggetti iconici che non passano di moda</strong></h3><p>Ci sono pezzi che non invecchiano mai: nascono da idee audaci e diventano simboli di creatività.<br/>Gli oggetti  visionari e irriverenti di <a href=\"/collections/seletti\" title=\"Seletti\"><strong>Seletti</strong></a>, le collezioni colorate e senza tempo di <a href=\"/collections/bitossi-home\" title=\"Bitossi Home\"><strong>Bitossi</strong>,</a> o le linee essenziali firmate per <a href=\"/collections/knindustrie\" title=\"KnIndustrie\"><strong>KnIndustrie</strong>:</a> oggetti che parlano di sogni, ironia e bellezza. Un regalo così non è solo un pensiero: è una storia che continua nel tempo.<br/></p>",
+            "link_label": "",
+            "link": ""
           }
         },
-        "text_m4H4XU": {
-          "type": "text",
+        "column_b9W4N4": {
+          "type": "column",
           "settings": {
-            "text": "<p>Ci sono doni che parlano da soli. Un dono di design è qualcosa che non si limita a stupire al primo sguardo: resta, si fa notare ogni giorno, diventa parte dei ricordi più belli. Per questo un regalo con stile non è mai banale, ma è un segno di attenzione che racconta chi sei e cosa vuoi trasmettere.<br/></p><h3><strong>Oggetti iconici che non passano di moda</strong></h3><p>Ci sono pezzi che non invecchiano mai: nascono da idee audaci e diventano simboli di creatività.<br/>Gli oggetti  visionari e irriverenti di <a href=\"/collections/seletti\" title=\"Seletti\"><strong>Seletti</strong></a>, le collezioni colorate e senza tempo di <a href=\"/collections/bitossi-home\" title=\"Bitossi Home\"><strong>Bitossi</strong>,</a> o le linee essenziali firmate per <a href=\"/collections/knindustrie\" title=\"KnIndustrie\"><strong>KnIndustrie</strong>:</a> oggetti che parlano di sogni, ironia e bellezza. Un regalo così non è solo un pensiero: è una storia che continua nel tempo.<br/></p><h3><strong>Materiali e dettagli che fanno la differenza</strong><br/></h3><p>Un vero dono si riconosce nei dettagli. La delicatezza della <a href=\"/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola\" title=\"Bone China: Scopri la Porcellana Più Elegante per la Tua Tavola\"><strong>Bone China</strong>,</a> il calore autentico del L<a href=\"/collections/cucina-e-tavola-taglieri\" title=\"Taglieri da Cucina\"><strong>egno</strong></a>, la leggerezza quasi magica del V<a href=\"/collections/cucina-e-tavola-bicchieri-e-calici\" title=\"Bicchieri e Calici\"><strong>etro borosilicato</strong></a>: materiali scelti con cura che trasformano ogni oggetto in qualcosa di speciale. Non servono tecnicismi: basta il piacere di regalare qualcosa che, al tatto e allo sguardo, trasmette qualità e unicità.<br/></p>",
-            "text_style": "body"
-          }
-        },
-        "button_Nrp8zN": {
-          "type": "button",
-          "settings": {
-            "button_label": "I Nostri Brand",
-            "button_link": "shopify://pages/i-nostri-brand",
-            "button_style_secondary": true
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "heading_rjAfFq",
-        "text_m4H4XU",
-        "button_Nrp8zN"
+        "column_4C79A8",
+        "column_b9W4N4"
       ],
-      "custom_css": [
-        "#idee-regalo-design {scroll-margin-top: 90px; /* offset per header fisso */}"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "image": "shopify://shop_images/seletti-marcantonio-lampada-inner-glow-2.jpg",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
+        "title": "Idee regalo con un tocco di design",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "collection_list_WFPANW": {
@@ -350,12 +343,148 @@
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 6,
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_NVe4JB": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_fP4iQi": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>Materiali e dettagli che fanno la differenza<br/><br/></strong></h3><p><em>Un vero dono si riconosce nei dettagli.</em><br/>Dietro ogni pezzo che proponiamo c’è un’intenzione precisa: non solo il <em>che cosa</em> — ma il <em>come</em> e il <em>con cosa</em>. Il <strong>legno riciclato</strong> racconta storie di boschi che tornano a vivere in nuove forme; la <strong>porcellana  Bone China</strong> si distingue per trasparenza e leggerezza; il <strong>vetro borosilicato</strong> fonde estetica e resistenza, le <strong>candele in colza</strong> respirano eco‑sostenibilità. Le finiture — grezzo, satinato, lucido — non sono riflessi casuali, ma scelta consapevole che definisce tatto, luce e durata nel tempo.<br/>Dal legno al vetro, dalla ceramica ai tessuti naturali: ogni finitura è il risultato di un processo consapevole. Materia d’eccellenza, gesti artigianali, impatto responsabile.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_niM8Qc": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_fP4iQi",
+        "column_niM8Qc"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_pKggfe": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Mzh8cr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/vanilla-fly-cuscino-velluto-retro-velluto-brown-fan.jpg",
+            "title": "",
+            "text": "<p><strong>Vanilla Fly <br/></strong>Tessuti che raccontano storie →</p>",
+            "link_label": "",
+            "link": "shopify://collections/vanilla-fly"
+          }
+        },
+        "column_t9MPTT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/miho-sgabelli-legno.webp",
+            "title": "",
+            "text": "<p><strong>Miho</strong><br/>Legno riciclato, anima creativa<strong> →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-toiletpaper-jewels"
+          }
+        },
+        "column_46hzCL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/marinette-saint-tropez-plaid-pisolino-10_0d5b6cd0-b64c-431b-9a8d-bfc335d94749.webp",
+            "title": "",
+            "text": "<p><strong>Marinette</strong></p><p>Plaid in lana e fibre<strong> →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid"
+          }
+        },
+        "column_NDwBmz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/very-goods-studio-slice-candela-da-60-ml-4.jpg",
+            "title": "",
+            "text": "<p><strong>Very Good</strong></p><p>Candele in cera di colza eco-friendly <strong>→</strong><br/></p>",
+            "link_label": "",
+            "link": "shopify://collections/brainwash-seletti"
+          }
+        },
+        "column_JWpDbV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-bicchiere-sparky-lara-caffi-20.webp",
+            "title": "",
+            "text": "<p><strong>KnIndustrie  </strong></p><p>Vetro borosilicato, eleganza made in Italy<strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/specchi-seletti"
+          }
+        },
+        "column_8U8KP9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bone-china-curiosita-unico-e-multiplo.jpg",
+            "title": "",
+            "text": "<p><strong>Bone China</strong></p><p>Porcellana sottile, fascino eterno →</p>",
+            "link_label": "",
+            "link": "shopify://collections/piatti-in-bone-china"
+          }
+        }
+      },
+      "block_order": [
+        "column_Mzh8cr",
+        "column_t9MPTT",
+        "column_46hzCL",
+        "column_NDwBmz",
+        "column_JWpDbV",
+        "column_8U8KP9"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "image_with_text_jMezDe": {
@@ -1109,8 +1238,10 @@
     "multicolumn_MEiyUc",
     "featured_collection_qHiKjR",
     "image_banner_3zqppy",
-    "image_with_text_TWa4dW",
+    "multicolumn_FJwELC",
     "collection_list_WFPANW",
+    "multicolumn_NVe4JB",
+    "multicolumn_pKggfe",
     "image_with_text_jMezDe",
     "collection_list_6Wn6Ec",
     "multicolumn_RW9UrF",
