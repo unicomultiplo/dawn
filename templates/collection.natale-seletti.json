@@ -425,10 +425,54 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_xAgMMd": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ExJ4ph": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Il Natale secondo Seletti è una tavola che sorprende: funzionale, ma con un’anima eccentrica. Piatti, bicchieri, centrotavola e oggetti décor diventano protagonisti di una scenografia natalizia memorabile, dove ogni dettaglio è un invito a sorridere e a osare con il design.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_KUHCxg": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_ExJ4ph",
+        "column_KUHCxg"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<strong>Tavola e decorazioni di Natale con lo stile Seletti</strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
     "dual_images_PgFJyJ": {
       "type": "dual-images",
       "custom_css": [
-        ".image-text,.image-text-link,.image.text-link,.image .text-link {color: #000 !important;}"
+        ".image-text {color: #000 !important;}"
       ],
       "settings": {
         "section_height": 1000,
@@ -509,8 +553,8 @@
         "slide_gw7i8P"
       ],
       "settings": {
-        "layout": "grid",
-        "slide_height": "medium",
+        "layout": "full_bleed",
+        "slide_height": "small",
         "slider_visual": "numbers",
         "auto_rotate": true,
         "change_slides_speed": 5,
@@ -529,6 +573,7 @@
     "multicolumn_RVpam8",
     "multicolumn_6gAN6j",
     "multicolumn_jVdUi6",
+    "multicolumn_xAgMMd",
     "dual_images_PgFJyJ",
     "slideshow_HNxCmk"
   ]
