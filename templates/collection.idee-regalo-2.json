@@ -486,7 +486,7 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 20,
+        "padding_top": 0,
         "padding_bottom": 20
       }
     },
@@ -660,7 +660,7 @@
         "text_W7UX9j": {
           "type": "text",
           "settings": {
-            "text": "<strong>Per lei</strong>: scegli un dono che sappia sorprendere, un piccolo gesto che combina bellezza e utilità. Dalle creazioni raffinate ai dettagli inaspettati, ogni regalo diventa un modo per dire “<em>ti conosco davvero</em>”.  <strong>Per lui</strong>: un dono che unisce <em>funzionalità ed eleganza</em>, con oggetti dal design essenziale e distintivo. Un pensiero che resta, perfetto per chi apprezza qualità e stile in ogni dettaglio.",
+            "text": "",
             "text_style": "body"
           }
         },
@@ -689,11 +689,60 @@
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "multicolumn_ygdrVQ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_BmFjt4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/idee-regalo-lui-originali-unico-e-multiplo.webp",
+            "title": "",
+            "text": "<p><strong>Per lui</strong>: seleziona un dono che unisce <em>funzionalità ed eleganza</em>, oggetti dal design essenziale e distintivo. Un pensiero che resta, perfetto per chi apprezza qualità e stile in ogni dettaglio.<br/><br/><strong>IDEE PER LUI →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-regali-per-lui"
+          }
+        },
+        "column_txYmTp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/unico-e-multiplo-idee-regalo-natale.webp",
+            "title": "",
+            "text": "<p><strong>Per lei</strong>: scegli un dono che sappia sorprendere, un piccolo gesto che combina bellezza e utilità. Dalle creazioni raffinate ai dettagli inaspettati, ogni regalo diventa un modo per dire “<em>ti conosco davvero</em>”.  <br/><br/><strong>IDEE PER LEI →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-regali-per-lei"
+          }
+        }
+      },
+      "block_order": [
+        "column_BmFjt4",
+        "column_txYmTp"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<strong>Idee regalo per lei e per lui, in pochi clic</strong>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
       }
     },
     "image_with_text_naHbji": {
@@ -1241,6 +1290,7 @@
     "collection_list_6Wn6Ec",
     "multicolumn_RW9UrF",
     "image_banner_tmJB93",
+    "multicolumn_ygdrVQ",
     "image_with_text_naHbji",
     "multicolumn_MgXVPK",
     "multicolumn_MRrcLx",
