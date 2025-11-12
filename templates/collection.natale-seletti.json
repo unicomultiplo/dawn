@@ -244,6 +244,87 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_CzbkJY": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_pGiJCT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Love-in-Bloom-Seletti_196422cc-27a4-45b1-8a92-bd393047e649.webp",
+            "title": "",
+            "text": "<p><strong>Love in Bloom</strong></p><p>Romanticismo Pop <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/love-in-bloom-seletti"
+          }
+        },
+        "column_ndCVHY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Circus-Seletti.jpg",
+            "title": "",
+            "text": "<p><strong>Circus </strong></p><p>La magia del circo <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/circus-seletti"
+          }
+        },
+        "column_nyFVmn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-i-tea-by-i-wares-tazza-da-the-30.webp",
+            "title": "",
+            "text": "<p><strong>I-Wares</strong></p><p>Il \"classico\" Fluo <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-catalogo-prodotti-i-wares"
+          }
+        },
+        "column_XT3DP6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/fuorisalone-toiletpaper-home-3-1631038852.webp",
+            "title": "",
+            "text": "<p><strong>Toiletpaper </strong></p><p>Ironia surreale <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-catalogo-prodotti-toiletpaper"
+          }
+        },
+        "column_JhWbxd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-swing-monkey-lamp-lampada-bianca-indoor-1.jpg",
+            "title": "",
+            "text": "<p><strong>Monkey Lamps </strong></p><p>Si arrampicano ovunque <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-catalogo-prodotti-toiletpaper"
+          }
+        }
+      },
+      "block_order": [
+        "column_pGiJCT",
+        "column_ndCVHY",
+        "column_nyFVmn",
+        "column_XT3DP6",
+        "column_JhWbxd"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "multicolumn_6gAN6j": {
       "type": "multicolumn",
       "blocks": {
@@ -403,7 +484,7 @@
           "type": "column",
           "settings": {
             "title": "<strong>Tavola di Natale Seletti tra ironia e colore</strong>",
-            "text": "<p>La <strong>tavola secondo Seletti</strong> non conosce regole. È un mix esplosivo di ironia, colori e forme inaspettate: il posto dove la porcellana incontra il pop, l’oro si mescola al fluo e la creatività si serve senza limiti.</p><p><br/>Le linee <strong>Hybrid</strong>, <strong>Kintsugi</strong> e <strong>Acid</strong> riscrivono le regole del gusto con il coraggio del design più visionario. Hybrid unisce mondi lontani in un solo piatto; Kintsugi celebra la bellezza dell’imperfezione con venature dorate; Acid mescola energia e follia cromatica per una tavola che non chiede permesso.<br/><br/>Per Seletti, anche un pranzo di Natale diventa una performance: ironica, audace e teatrale. La tavola si trasforma in un palcoscenico dove convivono <strong>arte, design e un pizzico di follia</strong> — perché la vera eleganza, dopotutto, è saper osare.</p>",
+            "text": "<p>La <strong>tavola secondo Seletti</strong> non conosce regole. È un mix esplosivo di ironia, colori e forme inaspettate: la creatività si serve senza limiti.<br/><br/>Piatti, bicchieri e posate diventano protagonisti di una tavola che non ha paura di esagerare. Gli elementi si mescolano come in un collage visivo fatto di colori accesi, contrasti audaci e dettagli dorati che catturano la luce.<br/><br/>Per Seletti, anche un pranzo di Natale diventa una performance: ironica, audace e teatrale. La tavola di Seletti non si limita a ospitare: mette in scena  - perché la vera eleganza, dopotutto, è saper osare.</p>",
             "link_label": "",
             "link": ""
           }
@@ -494,12 +575,12 @@
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 6,
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "slideshow_HNxCmk": {
@@ -583,6 +664,7 @@
     "multicolumn_Re9Ldf",
     "product-grid",
     "multicolumn_w3YReB",
+    "multicolumn_CzbkJY",
     "multicolumn_6gAN6j",
     "multicolumn_jVdUi6",
     "multicolumn_xAgMMd",
