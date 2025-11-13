@@ -56,7 +56,7 @@
           "settings": {
             "image": "shopify://shop_images/natale-abracadabra-bitossi-home.webp",
             "title": "",
-            "text": "<p><strong>Abracadabra</strong><br/>Feste fuori dal cilindro <strong>→</strong></p>",
+            "text": "<p><strong>Abracadabra</strong><br/>Incantesimo di forme <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/bitossi-home-abracadabra"
           }
@@ -156,10 +156,9 @@
         "column_Ej4CCk",
         "column_UJ8fax"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Idee regalo e collezioni Seletti per il Natale",
+        "title": "Idee e collezioni Bitossi Home per un Natale creativo",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
