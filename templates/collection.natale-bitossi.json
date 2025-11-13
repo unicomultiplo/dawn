@@ -24,17 +24,17 @@
         "column_tPBKRt": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-logo.jpg",
+            "image": "shopify://shop_images/Bitossi_-logo-250.jpg",
             "title": "",
             "text": "<p><strong>Esplora <br/></strong>Tutte le collezioni <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/seletti"
+            "link": "shopify://collections/bitossi-home"
           }
         },
         "column_XJqBn9": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-toiletpaper-jewels-collection.webp",
+            "image": "shopify://shop_images/la-tavola-scomposta-bitossi-home.jpg",
             "title": "",
             "text": "<p><strong>Toiletpaper Jewels</strong><br/>L’irriverenza da indossare<strong> →</strong></p>",
             "link_label": "",
@@ -44,81 +44,41 @@
         "column_NTb3HH": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-2.webp",
+            "image": "shopify://shop_images/vuotatasche-bitossi-home.webp",
             "title": "",
             "text": "<p><strong>Classic on Acid</strong></p><p>La tavola distorta<strong> →</strong></p>",
             "link_label": "",
             "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid"
           }
         },
-        "column_k8bKVg": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Brainwash-Seletti.webp",
-            "title": "",
-            "text": "<p><strong>Brainwash</strong></p><p>Per veri pensatori <strong>→</strong><br/></p>",
-            "link_label": "",
-            "link": "shopify://collections/brainwash-seletti"
-          }
-        },
         "column_zBx8yP": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/LOOK_AT_THEM_REFLECTING_EYES_ROMANO_GHISALBERTI.webp",
+            "image": "shopify://shop_images/grazie-dei-fiori-bitossi-natale.webp",
             "title": "",
             "text": "<p><strong>Liberty Mirrors </strong></p><p>Riflessi fuori dal comune <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/specchi-seletti"
           }
         },
-        "column_VkXjaD": {
+        "column_GXKYMF": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Love-in-Bloom-Seletti_196422cc-27a4-45b1-8a92-bd393047e649.webp",
+            "image": "shopify://shop_images/natale-abracadabra-bitossi-home.webp",
             "title": "",
-            "text": "<p><strong>Love in Bloom</strong></p><p>Romanticismo Pop <strong>→</strong></p>",
+            "text": "<p><strong>Liberty Mirrors </strong></p><p>Riflessi fuori dal comune <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/love-in-bloom-seletti"
+            "link": "shopify://collections/specchi-seletti"
           }
         },
-        "column_KRk64y": {
+        "column_k8bKVg": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Circus-Seletti.jpg",
+            "image": "shopify://shop_images/fiocco-bitossi-home-natale.webp",
             "title": "",
-            "text": "<p><strong>Circus </strong></p><p>La magia del circo <strong>→</strong></p>",
+            "text": "<p><strong>Brainwash</strong></p><p>Per veri pensatori <strong>→</strong><br/></p>",
             "link_label": "",
-            "link": "shopify://collections/circus-seletti"
-          }
-        },
-        "column_6xmWNg": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-i-tea-by-i-wares-tazza-da-the-30.webp",
-            "title": "",
-            "text": "<p><strong>I-Wares</strong></p><p>Il \"classico\" Fluo <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-i-wares"
-          }
-        },
-        "column_YLLPbC": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/fuorisalone-toiletpaper-home-3-1631038852.webp",
-            "title": "",
-            "text": "<p><strong>Toiletpaper </strong></p><p>Ironia surreale <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-toiletpaper"
-          }
-        },
-        "column_DPf8rx": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-swing-monkey-lamp-lampada-bianca-indoor-1.jpg",
-            "title": "",
-            "text": "<p><strong>Monkey Lamps </strong></p><p>Si arrampicano ovunque <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-seletti-marcantonio-monkey-lamp"
+            "link": "shopify://collections/brainwash-seletti"
           }
         }
       },
@@ -126,15 +86,10 @@
         "column_tPBKRt",
         "column_XJqBn9",
         "column_NTb3HH",
-        "column_k8bKVg",
         "column_zBx8yP",
-        "column_VkXjaD",
-        "column_KRk64y",
-        "column_6xmWNg",
-        "column_YLLPbC",
-        "column_DPf8rx"
+        "column_GXKYMF",
+        "column_k8bKVg"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -143,7 +98,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
