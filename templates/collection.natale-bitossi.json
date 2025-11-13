@@ -134,6 +134,7 @@
         "column_YLLPbC",
         "column_DPf8rx"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -200,6 +201,7 @@
         "column_Ej4CCk",
         "column_UJ8fax"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Idee regalo e collezioni Seletti per il Natale",
@@ -290,6 +292,7 @@
         "column_XT3DP6",
         "column_n9aHqf"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -336,6 +339,7 @@
         "column_gfxHib",
         "column_eYnXjJ"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -415,6 +419,7 @@
         "column_NAPUkJ",
         "column_CJWXXU"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -461,6 +466,7 @@
         "column_fGMJpc",
         "column_PGetmF"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -551,6 +557,7 @@
         "column_FPgrd6",
         "column_CKqdec"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -597,6 +604,7 @@
         "column_ExJ4ph",
         "column_KUHCxg"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Tavola e decorazioni di Natale con lo stile Seletti",
@@ -617,6 +625,7 @@
     },
     "dual_images_PgFJyJ": {
       "type": "dual-images",
+      "disabled": true,
       "custom_css": [
         ".image-text {color: #000 !important;}"
       ],
@@ -661,6 +670,7 @@
         "column_Pjyd9t",
         "column_yQhiCE"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -727,6 +737,7 @@
         "featured_collection_A6LwVq",
         "featured_collection_TzEy43"
       ],
+      "disabled": true,
       "custom_css": [
         ".media--transparent {background-color: var(--product-background-color);}",
         ".media--transparent img {mix-blend-mode: multiply;}",
@@ -809,6 +820,7 @@
         "slide_gw7i8P",
         "slide_HFBXrU"
       ],
+      "disabled": true,
       "settings": {
         "layout": "full_bleed",
         "slide_height": "small",
