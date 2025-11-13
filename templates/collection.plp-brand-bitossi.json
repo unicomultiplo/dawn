@@ -65,14 +65,30 @@
     },
     "image_banner_dc8VCJ": {
       "type": "image-banner",
+      "blocks": {
+        "buttons_XRC7DM": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "NATALE CON BITOSSI HOME",
+            "button_link_1": "shopify://collections/bitossi-home-natale",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "buttons_XRC7DM"
+      ],
       "settings": {
-        "image": "shopify://shop_images/bitossi-home-novita_2.webp",
+        "image": "shopify://shop_images/natale-con-bitossi-2025.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "desktop_content_position": "middle-left",
-        "show_text_box": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
         "desktop_content_alignment": "left",
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "stack_images_on_mobile": true,
