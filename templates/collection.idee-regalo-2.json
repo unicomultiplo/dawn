@@ -338,7 +338,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/natale-2025-idee-regalo.webp",
+        "image": "shopify://shop_images/idee-regalo.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
