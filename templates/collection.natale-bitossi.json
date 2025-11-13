@@ -36,9 +36,9 @@
           "settings": {
             "image": "shopify://shop_images/la-tavola-scomposta-bitossi-home.jpg",
             "title": "",
-            "text": "<p><strong>Toiletpaper Jewels</strong><br/>L’irriverenza da indossare<strong> →</strong></p>",
+            "text": "<p><strong>La Tavola Scomposta<br/></strong>Mix & match <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/seletti-toiletpaper-jewels"
+            "link": "shopify://collections/bitossi-home-funky-table-tavola-scomposta"
           }
         },
         "column_NTb3HH": {
@@ -46,19 +46,19 @@
           "settings": {
             "image": "shopify://shop_images/vuotatasche-bitossi-home.webp",
             "title": "",
-            "text": "<p><strong>Classic on Acid</strong></p><p>La tavola distorta<strong> →</strong></p>",
+            "text": "<p><strong>Con Amore<br/></strong>Un cuore, mille significati →</p>",
             "link_label": "",
-            "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid"
+            "link": "shopify://collections/con-amore-bitossi-home"
           }
         },
         "column_zBx8yP": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/grazie-dei-fiori-bitossi-natale.webp",
+            "image": "shopify://shop_images/botanica-bitossi-home-natale.webp",
             "title": "",
-            "text": "<p><strong>Liberty Mirrors </strong></p><p>Riflessi fuori dal comune <strong>→</strong></p>",
+            "text": "<p><strong>Botanica<br/></strong>La tavola fiorisce →</p>",
             "link_label": "",
-            "link": "shopify://collections/specchi-seletti"
+            "link": "shopify://collections/bitossi-home-botanica"
           }
         },
         "column_GXKYMF": {
@@ -66,9 +66,9 @@
           "settings": {
             "image": "shopify://shop_images/natale-abracadabra-bitossi-home.webp",
             "title": "",
-            "text": "<p><strong>Liberty Mirrors </strong></p><p>Riflessi fuori dal comune <strong>→</strong></p>",
+            "text": "<p><strong>Abracadabra</strong><br/>Feste fuori dal cilindro <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/specchi-seletti"
+            "link": "shopify://collections/bitossi-home-abracadabra"
           }
         },
         "column_k8bKVg": {
@@ -76,9 +76,9 @@
           "settings": {
             "image": "shopify://shop_images/fiocco-bitossi-home-natale.webp",
             "title": "",
-            "text": "<p><strong>Brainwash</strong></p><p>Per veri pensatori <strong>→</strong><br/></p>",
+            "text": "<p><strong>Le Decorazioni<br/></strong>Dettagli wow! →</p>",
             "link_label": "",
-            "link": "shopify://collections/brainwash-seletti"
+            "link": "shopify://collections/bitossi-home-le-decorazioni-bitossi-home"
           }
         }
       },
