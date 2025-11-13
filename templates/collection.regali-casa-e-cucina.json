@@ -479,7 +479,7 @@
           "settings": {
             "image": "shopify://shop_images/knindustrie-bicchiere-sparky-lara-caffi-20.webp",
             "title": "",
-            "text": "<h3><strong>KnIndustrie</strong> - essenzialità e innovazione</h3>",
+            "text": "<p><strong>KnIndustrie</strong> - essenzialità e innovazione</p>",
             "link_label": "",
             "link": "shopify://collections/knindustrie"
           }
@@ -489,7 +489,7 @@
           "settings": {
             "image": "shopify://shop_images/hybrid-tavola-natale-seletti.webp",
             "title": "",
-            "text": "<h3><strong>Seletti </strong>- Creatività Pop e Ironia per la casa</h3>",
+            "text": "<p><strong>Seletti </strong>- Creatività Pop e Ironia per la casa</p>",
             "link_label": "",
             "link": "shopify://collections/seletti"
           }
@@ -499,7 +499,7 @@
           "settings": {
             "image": "shopify://shop_images/Bitossi-abracabra-natale-2025.webp",
             "title": "",
-            "text": "<h3><strong>Bitossi Home </strong>- Colore e Allegria per la Tavola</h3>",
+            "text": "<p><strong>Bitossi Home </strong>- Colore e Allegria per la Tavola</p>",
             "link_label": "",
             "link": "shopify://collections/bitossi-home"
           }
@@ -509,7 +509,7 @@
           "settings": {
             "image": "shopify://shop_images/miho-duetto-candelabri-artigiali.jpg",
             "title": "",
-            "text": "<h3><strong>Miho - </strong>Design poetico e sostenibile</h3>",
+            "text": "<p><strong>Miho - </strong>Design poetico e sostenibile</p>",
             "link_label": "",
             "link": "shopify://collections/miho"
           }
@@ -519,7 +519,7 @@
           "settings": {
             "image": "shopify://shop_images/vanilla-fly-cuscino-velluto-retro-velluto-brown-fan-1.jpg",
             "title": "",
-            "text": "<h3><strong>Vanilla Fly - </strong>Stile eclettico e fascino vintage</h3>",
+            "text": "<p><strong>Vanilla Fly - </strong>Stile eclettico e fascino vintage</p>",
             "link_label": "",
             "link": "shopify://collections/vanilla-fly"
           }
