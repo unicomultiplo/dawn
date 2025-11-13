@@ -136,8 +136,8 @@
         "column_Ej4CCk": {
           "type": "column",
           "settings": {
-            "title": "<strong>Regali di Natale firmati Seletti per stupire chi ami</strong>",
-            "text": "<p>Dimentica i soliti regali: con <strong>Seletti</strong> il Natale diventa un’esplosione di creatività, ironia e colore. Regali eccentrici, <strong>un po’ folli e irresistibilmente pop</strong>, perfetti per chi ama <strong>oggetti fuori dal comune</strong> e per chi vuole portare un tocco d’arte in casa. Con Seletti, anche il gesto del dono diventa un piccolo atto di design: qualcosa che fa sorridere, stupisce e resta impresso nel tempo.</p>",
+            "title": "",
+            "text": "<p><strong>Bitossi porta a tavola lo spirito del Natale </strong>con collezioni inconfondibili, cataloghi ricchi di spunti e idee regalo capaci di sorprendere. Tra design contemporaneo e spirito festivo rivisitato, ogni collezione è un modo diverso di vivere la casa durante le feste. <strong>Un mix di libertà creativa e calore autentico</strong>, per un Natale che non assomiglia a nessun altro — se non al tuo.<br/><br/></p><h3><strong>Regali di Natale Bitossi Home dal carattere unico</strong></h3><p>Hai presente quel regalo che non si dimentica? Bitossi lo fa in porcellana, vetro o ceramica — con un guizzo creativo che conquista al primo sguardo. Perfetti per chi ama circondarsi di oggetti con anima, ironia e personalità.</p>",
             "link_label": "",
             "link": ""
           }
@@ -180,61 +180,51 @@
         "column_nyFVmn": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-lucky-temple-oggetto-decorativo-32.webp",
+            "image": "shopify://shop_images/Porta-Candela-Fiocco.webp",
             "title": "",
-            "text": "<p><strong>Lucky Temple</strong><br/>Un concentrato di fortuna <strong>→</strong></p>",
+            "text": "<p><strong>Fiocco Candelabro<br/></strong>Luce con il fiocco <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://products/seletti-lucky-temple-oggetto-decorativo"
+            "link": "shopify://products/bitossi-home-porta-candela-fiocco"
           }
         },
         "column_pGiJCT": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-newlithic-set-2-tazzine-da-caffe-in-porcellana-5.webp",
+            "image": "shopify://shop_images/treccia-bitossi-home-novita_1.jpg",
             "title": "",
-            "text": "<p><strong>Newlithic</strong><br/>Un espresso… preistorico <strong>→</strong></p>",
+            "text": "<p><strong>Treccia<br/></strong>Intrecci perfetti <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://products/seletti-newlithic-set-2-tazzine-da-caffe-in-porcellana"
+            "link": "shopify://collections/treccia-bitossi-home"
           }
         },
         "column_ndCVHY": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-bad-guy-lampada-da-tavolo-in-resina-bianco-1.webp",
+            "image": "shopify://shop_images/bitossi-home-torchon-formaggi-posate_feb622f1-a39e-4178-afcc-1f2d056a348b.webp",
             "title": "",
-            "text": "<p><strong>Bad Guy Lamp</strong><br/>Accendi la ribellione <strong>→</strong></p>",
+            "text": "<p><strong>Torchon</strong><br/>Design che gira<strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://products/seletti-bad-guy-lampada-da-tavolo-in-resina-nero"
+            "link": "shopify://collections/torchon-bitossi-home"
           }
         },
         "column_JhWbxd": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-reflecting-specchiera-con-cornice-ciclope-2.webp",
+            "image": "shopify://shop_images/bitossi-home-i-piattini.webp",
             "title": "",
-            "text": "<p><strong>Reflecting Mirror</strong><br/>Design che ti guarda <strong>→</strong></p>",
+            "text": "<p><strong>I Piattini</strong><br/>Piccoli protagonisti <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/reflecting-mirror-seletti"
+            "link": "shopify://collections/bitossi-home-i-piattini-bitossi-home"
           }
         },
         "column_XT3DP6": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Brainwash-Seletti.webp",
+            "image": "shopify://shop_images/bitossi-home-piatti-pizza.webp",
             "title": "",
-            "text": "<p><strong>Bain Wash</strong></p><p>Un lavaggio di cervello <strong>→</strong></p>",
+            "text": "<p><strong>Piatti Pizza</strong><br/>Il cerchio perfetto <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/brainwash-seletti"
-          }
-        },
-        "column_n9aHqf": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Liberty-Mirrors-Seletti.jpg",
-            "title": "",
-            "text": "<p><strong>Liberty Mirror</strong><br/>Libertà riflessa, zero filtri <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://products/seletti-specchio-liberty-mirror-man"
+            "link": "shopify://collections/piatti-pizza-bitossi-home"
           }
         }
       },
@@ -243,10 +233,8 @@
         "column_pGiJCT",
         "column_ndCVHY",
         "column_JhWbxd",
-        "column_XT3DP6",
-        "column_n9aHqf"
+        "column_XT3DP6"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -255,7 +243,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
