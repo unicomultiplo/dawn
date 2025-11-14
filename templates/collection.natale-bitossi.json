@@ -31,6 +31,16 @@
             "link": "shopify://collections/bitossi-home"
           }
         },
+        "column_k8bKVg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/fiocco-bitossi-home-natale.webp",
+            "title": "",
+            "text": "<p><strong>Le Decorazioni<br/></strong>Dettagli wow! →</p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-le-decorazioni-bitossi-home"
+          }
+        },
         "column_XJqBn9": {
           "type": "column",
           "settings": {
@@ -41,14 +51,14 @@
             "link": "shopify://collections/bitossi-home-funky-table-tavola-scomposta"
           }
         },
-        "column_zBx8yP": {
+        "column_NTb3HH": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/botanica-bitossi-home-natale.webp",
+            "image": "shopify://shop_images/il-frutto-della-passione-pangea-natale.webp",
             "title": "",
-            "text": "<p><strong>Botanica<br/></strong>La tavola fiorisce →</p>",
+            "text": "<p><strong>Il Frutto della Passione</strong><br/>Simboli da portata<strong> </strong>→</p>",
             "link_label": "",
-            "link": "shopify://collections/bitossi-home-botanica"
+            "link": "shopify://collections/con-amore-bitossi-home"
           }
         },
         "column_GXKYMF": {
@@ -61,34 +71,24 @@
             "link": "shopify://collections/bitossi-home-abracadabra"
           }
         },
-        "column_k8bKVg": {
+        "column_zBx8yP": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/fiocco-bitossi-home-natale.webp",
+            "image": "shopify://shop_images/botanica-bitossi-home-natale.webp",
             "title": "",
-            "text": "<p><strong>Le Decorazioni<br/></strong>Dettagli wow! →</p>",
+            "text": "<p><strong>Botanica<br/></strong>La tavola fiorisce →</p>",
             "link_label": "",
-            "link": "shopify://collections/bitossi-home-le-decorazioni-bitossi-home"
-          }
-        },
-        "column_NTb3HH": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/vuotatasche-bitossi-home.webp",
-            "title": "",
-            "text": "<p><strong>Con Amore<br/></strong>Un cuore, mille significati →</p>",
-            "link_label": "",
-            "link": "shopify://collections/con-amore-bitossi-home"
+            "link": "shopify://collections/bitossi-home-botanica"
           }
         }
       },
       "block_order": [
         "column_tPBKRt",
-        "column_XJqBn9",
-        "column_zBx8yP",
-        "column_GXKYMF",
         "column_k8bKVg",
-        "column_NTb3HH"
+        "column_XJqBn9",
+        "column_NTb3HH",
+        "column_GXKYMF",
+        "column_zBx8yP"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
