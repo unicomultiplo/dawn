@@ -65,7 +65,7 @@
           "settings": {
             "image": "shopify://shop_images/seletti-natale-christmas-gift-idee-regalo.webp",
             "title": "",
-            "text": "<p>NATALE 2025 - Idee Regalo Seletti</p>",
+            "text": "<p>NATALE 2025 - Idee Regalo</p>",
             "link_label": "",
             "link": "shopify://collections/seletti-natale"
           }
@@ -116,7 +116,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
