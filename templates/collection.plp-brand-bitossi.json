@@ -774,16 +774,6 @@
             "link": "shopify://collections/bitossi-home-i-piattini-bitossi-home"
           }
         },
-        "column_MP9iUa": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/natale-abracadabra-bitossi-home.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://collections/bitossi-home-abracadabra"
-          }
-        },
         "column_8nnMib": {
           "type": "column",
           "settings": {
@@ -813,15 +803,25 @@
             "link_label": "",
             "link": "shopify://collections/bitossi-home-il-frutto-della-passione-bitossi-home"
           }
+        },
+        "column_MP9iUa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/natale-abracadabra-bitossi-home.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-abracadabra"
+          }
         }
       },
       "block_order": [
         "column_dbkhmp",
         "column_E36b7h",
-        "column_MP9iUa",
         "column_8nnMib",
         "column_WKAwtd",
-        "column_H7JJW8"
+        "column_H7JJW8",
+        "column_MP9iUa"
       ],
       "settings": {
         "title": "",
