@@ -698,11 +698,29 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/natale-con-bitossi_2.webp",
-            "heading": "I Senza Tempo",
+            "heading": "La Tavola Scomposta",
             "heading_size": "h2",
-            "subheading": "La Tavola di Natale dorata",
+            "subheading": "La Tavola di Natale Mix & Match",
             "button_label": "Scoprila ora!",
-            "link": "shopify://collections/i-senza-tempo-bitossi-home",
+            "link": "shopify://collections/bitossi-home-funky-table-tavola-scomposta",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_QHjxww": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/natale-bitossi-il_frutto_della-passione_1.webp",
+            "heading": "il Frutto della Passione",
+            "heading_size": "h1",
+            "subheading": "La tavola, in chiave Bitossi.",
+            "button_label": "Scoprila Ora!",
+            "link": "shopify://collections/bitossi-home-il-frutto-della-passione-bitossi-home",
             "button_style_secondary": true,
             "box_align": "middle-center",
             "show_text_box": true,
@@ -733,6 +751,7 @@
       },
       "block_order": [
         "slide_MmcpKy",
+        "slide_QHjxww",
         "slide_gw7i8P"
       ],
       "settings": {
