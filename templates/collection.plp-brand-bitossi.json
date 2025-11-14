@@ -764,61 +764,61 @@
             "link": ""
           }
         },
-        "column_MP9iUa": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Bitossi-home-Bel-paese_1.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://products/5460-bitossi-home-bel-paese-piatto-frutta"
-          }
-        },
         "column_E36b7h": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi-home-tazze-e-tazzine.webp",
+            "image": "shopify://shop_images/bitossi-home-i-piattini.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/bitossi-home-petalo-bitossi-home"
+            "link": "shopify://collections/bitossi-home-i-piattini-bitossi-home"
+          }
+        },
+        "column_MP9iUa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/natale-abracadabra-bitossi-home.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-abracadabra"
           }
         },
         "column_8nnMib": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi-home-Diseguale-bicchieri.webp",
+            "image": "shopify://shop_images/fiocco-bitossi-home-natale.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/bitossi-home-diseguale"
+            "link": "shopify://products/bitossi-home-porta-candela-fiocco"
           }
         },
         "column_WKAwtd": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi-home-piatti_1.jpg",
+            "image": "shopify://shop_images/grazie-dei-fiori-bitossi-natale.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/bitossi-home-funky-table-tavola-scomposta"
+            "link": "shopify://products/2339-bitossi-home-tavola-scomposta-grazie-dei-fiori-vaso-ceramica"
           }
         },
         "column_H7JJW8": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi-home-rose-black.webp",
+            "image": "shopify://shop_images/vuotatasche-bitossi-home.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/bitossi-home-rose-bitossi-home"
+            "link": "shopify://collections/bitossi-home-il-frutto-della-passione-bitossi-home"
           }
         }
       },
       "block_order": [
         "column_dbkhmp",
-        "column_MP9iUa",
         "column_E36b7h",
+        "column_MP9iUa",
         "column_8nnMib",
         "column_WKAwtd",
         "column_H7JJW8"
