@@ -63,6 +63,16 @@
             "link": "shopify://collections/seletti-natale"
           }
         },
+        "column_PKtqHD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-corno-kintsugi.webp",
+            "title": "",
+            "text": "<p>OBJECTS - Idee Regalo</p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_qftGfx"
+          }
+        },
         "column_dHGQgR": {
           "type": "column",
           "settings": {
@@ -83,16 +93,6 @@
             "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_jLjhzz"
           }
         },
-        "column_PKtqHD": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Seletti-corno-kintsugi.webp",
-            "title": "",
-            "text": "<p>OBJECTS - Idee Regalo</p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_qftGfx"
-          }
-        },
         "column_YmwtR8": {
           "type": "column",
           "settings": {
@@ -107,9 +107,9 @@
       "block_order": [
         "column_8FGYCt",
         "column_TYP7jw",
+        "column_PKtqHD",
         "column_dHGQgR",
         "column_qiB9cq",
-        "column_PKtqHD",
         "column_YmwtR8"
       ],
       "custom_css": [
