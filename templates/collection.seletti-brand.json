@@ -991,6 +991,46 @@
             "link": ""
           }
         },
+        "column_E36b7h": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/skull-seletti.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/seletti-kintsugi-skull-teschio"
+          }
+        },
+        "column_8nnMib": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-lucky-temple-oggetto-decorativo-32.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/seletti-lucky-temple-oggetto-decorativo"
+          }
+        },
+        "column_WKAwtd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/sELETTI-10069_AMOR-VOLAT_MARCANTONIO_LIFESTYLE_MARBLE.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/seletti-amor-volat-vaso-in-porcellana"
+          }
+        },
+        "column_H7JJW8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-toiletpaper-collana-shit-jewels.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/seletti-toiletpaper-jewels"
+          }
+        },
         "column_MP9iUa": {
           "type": "column",
           "settings": {
@@ -1000,55 +1040,15 @@
             "link_label": "",
             "link": "shopify://collections/superfurniture-seletti"
           }
-        },
-        "column_E36b7h": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Vitamin-Seletti.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://collections/vitamin-seletti"
-          }
-        },
-        "column_8nnMib": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Outdoor-Seletti.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://collections/outdoor-seletti"
-          }
-        },
-        "column_WKAwtd": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Brainwash-Seletti.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://collections/brainwash-seletti"
-          }
-        },
-        "column_H7JJW8": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Seletti-magna-grecia.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://collections/seletti-seletti-magna-graecia"
-          }
         }
       },
       "block_order": [
         "column_dbkhmp",
-        "column_MP9iUa",
         "column_E36b7h",
         "column_8nnMib",
         "column_WKAwtd",
-        "column_H7JJW8"
+        "column_H7JJW8",
+        "column_MP9iUa"
       ],
       "settings": {
         "title": "",
