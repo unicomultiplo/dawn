@@ -697,12 +697,12 @@
         "slide_MmcpKy": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/La-tavola-di-Natale-Seletti.webp",
-            "heading": "Seletti Diesel Classic on Acid",
+            "image": "shopify://shop_images/natale-con-bitossi_2.webp",
+            "heading": "I Senza Tempo",
             "heading_size": "h2",
-            "subheading": "La Tavola di Natale Distorta",
+            "subheading": "La Tavola di Natale dorata",
             "button_label": "Scoprila ora!",
-            "link": "shopify://products/seletti-diesel-living-classic-on-acid-piatti-frutta",
+            "link": "shopify://collections/i-senza-tempo-bitossi-home",
             "button_style_secondary": true,
             "box_align": "middle-center",
             "show_text_box": true,
@@ -754,7 +754,6 @@
         "slide_gw7i8P",
         "slide_HFBXrU"
       ],
-      "disabled": true,
       "settings": {
         "layout": "full_bleed",
         "slide_height": "small",
