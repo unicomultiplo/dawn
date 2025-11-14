@@ -53,46 +53,6 @@
             "link": "shopify://collections/seletti"
           }
         },
-        "column_dHGQgR": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Discover_now_our_Hybrid_collection_by_f21b3c46-c7b9-4678-acf9-839ef4db4b0c.webp",
-            "title": "",
-            "text": "<p>TABLEWARE - Arte della Tavola</p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_pekHrY"
-          }
-        },
-        "column_qiB9cq": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/magna-graecia-seletti.jpg",
-            "title": "",
-            "text": "<p>FURNITURE - Arredo</p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_jLjhzz"
-          }
-        },
-        "column_PKtqHD": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-kintsugi-lucky-horn-corno-portafortuna-in-porcellana_4a79718f-bd49-4d33-ae57-72c59ea9c48c.webp",
-            "title": "",
-            "text": "<p>OBJECTS - Idee Regalo</p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_qftGfx"
-          }
-        },
-        "column_YmwtR8": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/My-Little-Lamps-Seletti.jpg",
-            "title": "",
-            "text": "<p>LIGHTING - Oggetti Luce</p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_ky7KpY"
-          }
-        },
         "column_TYP7jw": {
           "type": "column",
           "settings": {
@@ -102,15 +62,55 @@
             "link_label": "",
             "link": "shopify://collections/seletti-natale"
           }
+        },
+        "column_dHGQgR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-2_d7b0c753-d33f-4f96-95b0-762e82ef3a61.webp",
+            "title": "",
+            "text": "<p>TABLEWARE - Arte della Tavola</p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_pekHrY"
+          }
+        },
+        "column_qiB9cq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/superforniture-seletti-new-2025.webp",
+            "title": "",
+            "text": "<p>FURNITURE - Arredo</p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_jLjhzz"
+          }
+        },
+        "column_PKtqHD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-corno-kintsugi.webp",
+            "title": "",
+            "text": "<p>OBJECTS - Idee Regalo</p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_qftGfx"
+          }
+        },
+        "column_YmwtR8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-my-moon-lamp-lampada-seduta-indoor-outdoor.jpg",
+            "title": "",
+            "text": "<p>LIGHTING - Oggetti Luce</p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_ky7KpY"
+          }
         }
       },
       "block_order": [
         "column_8FGYCt",
+        "column_TYP7jw",
         "column_dHGQgR",
         "column_qiB9cq",
         "column_PKtqHD",
-        "column_YmwtR8",
-        "column_TYP7jw"
+        "column_YmwtR8"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
