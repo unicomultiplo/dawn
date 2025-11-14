@@ -261,8 +261,8 @@
         "column_gfxHib": {
           "type": "column",
           "settings": {
-            "title": "<strong>Catalogo e collezioni natalizie Seletti da scoprire online</strong>",
-            "text": "<p>Scopri online il <strong>catalogo natalizio Seletti</strong>: collezioni in edizione limitata, novità di stagione e pezzi cult da collezione.<br/>Ogni oggetto è pensato per chi vuole regalare (o regalarsi) qualcosa di davvero unico: design italiano, spirito irriverente e una buona dose di creatività sotto l’albero.</p>",
+            "title": "<strong>Catalogo e collezioni di Natale Bitossi Home da scoprire </strong>",
+            "text": "<p><strong>Bitossi Home</strong> rinnova la sua visione del Natale con collezioni che raccontano <strong>nuove emozioni attraverso forme, colori e dettagli inattesi</strong>. Tra palette raffinate e decori sorprendenti, i pezzi diventano veri e propri racconti da portare in tavola o da regalare. <br/>Insieme ai grandi classici, questo Natale ti aspettano <strong>linee che esprimono personalità, ironia e gusto per il dettaglio.</strong></p>",
             "link_label": "",
             "link": ""
           }
@@ -281,7 +281,6 @@
         "column_gfxHib",
         "column_eYnXjJ"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -306,51 +305,51 @@
         "column_bHceix": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-logo.jpg",
+            "image": "shopify://shop_images/Bitossi_-logo-250.jpg",
             "title": "",
             "text": "<p><strong>Esplora <br/></strong>Tutte le collezioni <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/seletti"
+            "link": "shopify://collections/bitossi-home"
           }
         },
         "column_aYRmQx": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Circus-Seletti.jpg",
+            "image": "shopify://shop_images/i-senza-tempo-oro-bitossi.jpg",
             "title": "",
-            "text": "<p><strong>Circus</strong><br/>Il circo… in salotto <strong>→</strong></p>",
+            "text": "<p><strong>Senza Tempo</strong><br/>Forme essenziali <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/circus-seletti"
+            "link": "shopify://collections/i-senza-tempo-bitossi-home"
           }
         },
         "column_Utyc7X": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/vitamin-seletti-unico_-e-multiplo.jpg",
+            "image": "shopify://shop_images/Bitossi-piatti-parisienne.webp",
             "title": "",
-            "text": "<p><strong>Vitamin</strong><br/>Dose quotidiana di design<strong> →</strong></p>",
+            "text": "<p><strong>Parisienne</strong><br/>Gusto Retrò<strong> →</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/vitamin-seletti"
-          }
-        },
-        "column_NAPUkJ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Pixel-Mirrors-Seletti.jpg",
-            "title": "",
-            "text": "<p><strong>Pixel Mirror</strong><br/>Riflessi in alta risoluzione <strong>→</strong><br/></p>",
-            "link_label": "",
-            "link": "shopify://collections/pixel-mirrors-seletti"
+            "link": "shopify://collections/bitossi-home-parisienne-bitossi-home"
           }
         },
         "column_CJWXXU": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-toiletpaper-jewels-collection.webp",
+            "image": "shopify://shop_images/bon-ton-bitossi-home.jpg",
             "title": "",
-            "text": "<p><strong>Toiletpaper Jewels</strong><br/>L’irriverenza da indossare<strong> →</strong></p>",
+            "text": "<p><strong>Bon Ton<br/></strong>La Bone China →</p>",
             "link_label": "",
-            "link": "shopify://collections/seletti-toiletpaper-jewels"
+            "link": "shopify://collections/bon-ton-bitossi-home"
+          }
+        },
+        "column_NAPUkJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/sogno-bitossi-home.jpg",
+            "title": "",
+            "text": "<p><strong>Sogno</strong><br/>Mondi Sospesi <strong>→</strong><br/></p>",
+            "link_label": "",
+            "link": "shopify://collections/sogno-bitossi-home"
           }
         }
       },
@@ -358,10 +357,9 @@
         "column_bHceix",
         "column_aYRmQx",
         "column_Utyc7X",
-        "column_NAPUkJ",
-        "column_CJWXXU"
+        "column_CJWXXU",
+        "column_NAPUkJ"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
