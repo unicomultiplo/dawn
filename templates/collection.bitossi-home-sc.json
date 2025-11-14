@@ -121,8 +121,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Bitossi_-logo-250.jpg",
-            "title": "Esplora il brand",
-            "text": "",
+            "title": "",
+            "text": "<p><strong>Esplora il brand</strong></p>",
             "link_label": "",
             "link": "shopify://collections/bitossi-home"
           }
@@ -131,8 +131,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/il-frutto-della-passione-pangea-natale.webp",
-            "title": "Natale con Bitossi Home",
-            "text": "",
+            "title": "",
+            "text": "<p><strong>Natale con Bitossi Home</strong></p>",
             "link_label": "",
             "link": "shopify://collections/bitossi-home-natale"
           }
@@ -141,8 +141,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/la-tavola-scomposta-bitossi-home.jpg",
-            "title": "La Tavola Scomposta",
-            "text": "",
+            "title": "",
+            "text": "<p><strong>La Tavola Scomposta</strong></p>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/bitossi-home?#shopify-section-template--24628389380361__collection_list_DFkntc"
           }
@@ -151,8 +151,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Bitossi-home-piatti-petalo-2.webp",
-            "title": "I Senza Tempo",
-            "text": "",
+            "title": "",
+            "text": "<p><strong>I Senza Tempo</strong></p>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/bitossi-home?#shopify-section-template--24628389380361__collection_list_kdtLc8"
           }
@@ -163,6 +163,9 @@
         "column_Qn6Wff",
         "column_4anpg9",
         "column_aF6BFy"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
       ],
       "settings": {
         "title": "",
