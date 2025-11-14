@@ -127,6 +127,16 @@
             "link": "shopify://collections/bitossi-home"
           }
         },
+        "column_Qn6Wff": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/il-frutto-della-passione-pangea-natale.webp",
+            "title": "Natale con Bitossi Home",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-natale"
+          }
+        },
         "column_4anpg9": {
           "type": "column",
           "settings": {
@@ -146,23 +156,13 @@
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/bitossi-home?#shopify-section-template--24628389380361__collection_list_kdtLc8"
           }
-        },
-        "column_Qn6Wff": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/treccia-bitossi-home.jpg",
-            "title": "Gli Accessori Tavola",
-            "text": "",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/bitossi-home?#shopify-section-template--24628389380361__collection_list_yH8cEE"
-          }
         }
       },
       "block_order": [
         "column_Brktnb",
+        "column_Qn6Wff",
         "column_4anpg9",
-        "column_aF6BFy",
-        "column_Qn6Wff"
+        "column_aF6BFy"
       ],
       "settings": {
         "title": "",
