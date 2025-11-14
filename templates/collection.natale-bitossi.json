@@ -681,7 +681,7 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "image_ratio": "portrait",
+        "image_ratio": "square",
         "columns_desktop": 6,
         "color_scheme": "scheme-1",
         "show_view_all": false,
@@ -715,30 +715,12 @@
         "slide_gw7i8P": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/La-tavola-di-Seletti-kintsugi-Natale.webp",
-            "heading": "Seletti Piatti Kintsugi",
+            "image": "shopify://shop_images/torchon-bitossi-home-novita-posate.webp",
+            "heading": "Posate Torchon",
             "heading_size": "h2",
-            "subheading": "La bellezza dell’imperfezione",
+            "subheading": "Il dettaglio che fa la differenza!",
             "button_label": "Scopri tutta la Collezione",
-            "link": "shopify://collections/seletti-catalogo-prodotti-kintsugi",
-            "button_style_secondary": true,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_HFBXrU": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Cat-Hybrid-collection.webp",
-            "heading": "Seletti Hybrid",
-            "heading_size": "h2",
-            "subheading": "Due mondi lontani in un solo piatto",
-            "button_label": "Scopri tutta la collezione!",
-            "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid",
+            "link": "shopify://collections/torchon-bitossi-home",
             "button_style_secondary": true,
             "box_align": "middle-center",
             "show_text_box": true,
@@ -751,12 +733,11 @@
       },
       "block_order": [
         "slide_MmcpKy",
-        "slide_gw7i8P",
-        "slide_HFBXrU"
+        "slide_gw7i8P"
       ],
       "settings": {
         "layout": "full_bleed",
-        "slide_height": "small",
+        "slide_height": "medium",
         "slider_visual": "numbers",
         "auto_rotate": true,
         "change_slides_speed": 5,
