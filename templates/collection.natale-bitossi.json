@@ -567,7 +567,7 @@
       ],
       "settings": {
         "section_height": 1000,
-        "image_padding": 14,
+        "image_padding": 10,
         "left_image": "shopify://shop_images/natale-bitossi-il_frutto_della-passione.webp",
         "left_link": "shopify://collections/bitossi-home-il-frutto-della-passione-bitossi-home",
         "left_text": "Il Frutto della Passione",
@@ -586,8 +586,8 @@
         "column_Pjyd9t": {
           "type": "column",
           "settings": {
-            "title": "<strong>Tavola di Natale Seletti tra ironia e colore</strong>",
-            "text": "<p>La <strong>tavola secondo Seletti</strong> non conosce regole. È un <strong>mix esplosivo</strong> di ironia, colori e forme inaspettate: la creatività si serve senza limiti.<br/><br/><strong>Piatti, bicchieri e posate diventano protagonist</strong>i di una tavola che non ha paura di esagerare. Gli elementi si mescolano come in un collage visivo fatto di colori accesi, contrasti audaci e dettagli dorati che catturano la luce.<br/><br/>Per Seletti, anche un pranzo di Natale diventa una performance: ironica, audace e teatrale. <strong>La tavola di Seletti</strong> non si limita a ospitare:<strong> mette in scena</strong>  - perché la vera eleganza, dopotutto, è saper osare.</p>",
+            "title": "<strong>Tavola di Natale Bitossi Home tra colore e creatività</strong>",
+            "text": "<p>Con Bitossi Home la tavola non segue regole.<br/><strong>Piatti illustrati, bordi irregolari, decori fuori dal comune</strong>: ogni elemento è pensato per essere combinato, sovrapposto, reinterpretato. <br/>Bitossi Home è per chi ama <strong>mescolare piatti diversi</strong>, giocare con <strong>colori accesi</strong>, cambiare disposizione ogni volta. Ci sono <strong>piatti illustrati</strong>, con bordi mossi o finiture opache, da accostare senza paura.<br/><strong>Bicchieri in vetro colorato</strong>, che portano luce e movimento sulla tavola.<br/><strong>Posate dorate o smaltate</strong>, che bastano da sole a rendere speciale anche il piatto più semplice.<br/>E poi <strong>alzate, candelabri, oggetti decorativi</strong>: tutto contribuisce a costruire un’atmosfera viva, personale. </p><p><em>La tavola delle feste non dev’essere perfetta: dev’essere tua. E con Bitossi, lo è sempre.</em></p>",
             "link_label": "",
             "link": ""
           }
@@ -606,7 +606,6 @@
         "column_Pjyd9t",
         "column_yQhiCE"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -631,37 +630,37 @@
         "featured_collection_FJcb76": {
           "type": "featured_collection",
           "settings": {
-            "collection": "piatti-seletti"
+            "collection": "bitossi-home-piatti"
           }
         },
         "featured_collection_FcjRr4": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bicchieri-e-calici-seletti"
+            "collection": "bitossi-home-bicchieri-e-calici"
           }
         },
         "featured_collection_VawqLp": {
           "type": "featured_collection",
           "settings": {
-            "collection": "posate-seletti"
+            "collection": "posate-bitossi-home"
           }
         },
         "featured_collection_JKKGcH": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bottiglie-e-caraffe-seletti"
+            "collection": "bottiglie-e-caraffe-bitossi-home"
           }
         },
         "featured_collection_A6LwVq": {
           "type": "featured_collection",
           "settings": {
-            "collection": "candele-e-candelabri-seletti"
+            "collection": "centrotavola-e-alzate-bitossi-home"
           }
         },
         "featured_collection_TzEy43": {
           "type": "featured_collection",
           "settings": {
-            "collection": "tovaglie-tovagliette-e-sottopiatti-seletti"
+            "collection": "bitossi-home-tovagliette-e-vassoi"
           }
         }
       },
@@ -673,7 +672,6 @@
         "featured_collection_A6LwVq",
         "featured_collection_TzEy43"
       ],
-      "disabled": true,
       "custom_css": [
         ".media--transparent {background-color: var(--product-background-color);}",
         ".media--transparent img {mix-blend-mode: multiply;}",
