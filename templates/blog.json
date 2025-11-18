@@ -177,7 +177,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/um-top-brand-768x768.png",
+        "image": "shopify://shop_images/Blog-unico-e-multiplo.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
