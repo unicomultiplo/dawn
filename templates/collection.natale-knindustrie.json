@@ -1,0 +1,840 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-1464a208-fcdd-4ba9-b1e4-de3cd41e6336"
+      }
+    },
+    "multicolumn_ReMqxa": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_tPBKRt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-logo.jpg",
+            "title": "",
+            "text": "<p><strong>Esplora <br/></strong>Tutte le collezioni <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti"
+          }
+        },
+        "column_XJqBn9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-toiletpaper-jewels-collection.webp",
+            "title": "",
+            "text": "<p><strong>Toiletpaper Jewels</strong><br/>L’irriverenza da indossare<strong> →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-toiletpaper-jewels"
+          }
+        },
+        "column_NTb3HH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-2.webp",
+            "title": "",
+            "text": "<p><strong>Classic on Acid</strong></p><p>La tavola distorta<strong> →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid"
+          }
+        },
+        "column_k8bKVg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brainwash-Seletti.webp",
+            "title": "",
+            "text": "<p><strong>Brainwash</strong></p><p>Per veri pensatori <strong>→</strong><br/></p>",
+            "link_label": "",
+            "link": "shopify://collections/brainwash-seletti"
+          }
+        },
+        "column_zBx8yP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/LOOK_AT_THEM_REFLECTING_EYES_ROMANO_GHISALBERTI.webp",
+            "title": "",
+            "text": "<p><strong>Liberty Mirrors </strong></p><p>Riflessi fuori dal comune <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/specchi-seletti"
+          }
+        },
+        "column_VkXjaD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Love-in-Bloom-Seletti_196422cc-27a4-45b1-8a92-bd393047e649.webp",
+            "title": "",
+            "text": "<p><strong>Love in Bloom</strong></p><p>Romanticismo Pop <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/love-in-bloom-seletti"
+          }
+        },
+        "column_KRk64y": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Circus-Seletti.jpg",
+            "title": "",
+            "text": "<p><strong>Circus </strong></p><p>La magia del circo <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/circus-seletti"
+          }
+        },
+        "column_6xmWNg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-i-tea-by-i-wares-tazza-da-the-30.webp",
+            "title": "",
+            "text": "<p><strong>I-Wares</strong></p><p>Il \"classico\" Fluo <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-catalogo-prodotti-i-wares"
+          }
+        },
+        "column_YLLPbC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/fuorisalone-toiletpaper-home-3-1631038852.webp",
+            "title": "",
+            "text": "<p><strong>Toiletpaper </strong></p><p>Ironia surreale <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-catalogo-prodotti-toiletpaper"
+          }
+        },
+        "column_DPf8rx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-swing-monkey-lamp-lampada-bianca-indoor-1.jpg",
+            "title": "",
+            "text": "<p><strong>Monkey Lamps </strong></p><p>Si arrampicano ovunque <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-catalogo-prodotti-seletti-marcantonio-monkey-lamp"
+          }
+        }
+      },
+      "block_order": [
+        "column_tPBKRt",
+        "column_XJqBn9",
+        "column_NTb3HH",
+        "column_k8bKVg",
+        "column_zBx8yP",
+        "column_VkXjaD",
+        "column_KRk64y",
+        "column_6xmWNg",
+        "column_YLLPbC",
+        "column_DPf8rx"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 36,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "none",
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_w3YReB": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Ej4CCk": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Regali di Natale firmati Seletti per stupire chi ami</strong>",
+            "text": "<p>Dimentica i soliti regali: con <strong>Seletti</strong> il Natale diventa un’esplosione di creatività, ironia e colore. Regali eccentrici, <strong>un po’ folli e irresistibilmente pop</strong>, perfetti per chi ama <strong>oggetti fuori dal comune</strong> e per chi vuole portare un tocco d’arte in casa. Con Seletti, anche il gesto del dono diventa un piccolo atto di design: qualcosa che fa sorridere, stupisce e resta impresso nel tempo.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_UJ8fax": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Ej4CCk",
+        "column_UJ8fax"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Idee regalo e collezioni Seletti per il Natale",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_CzbkJY": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_nyFVmn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-lucky-temple-oggetto-decorativo-32.webp",
+            "title": "",
+            "text": "<p><strong>Lucky Temple</strong><br/>Un concentrato di fortuna <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-lucky-temple-oggetto-decorativo"
+          }
+        },
+        "column_pGiJCT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-newlithic-set-2-tazzine-da-caffe-in-porcellana-5.webp",
+            "title": "",
+            "text": "<p><strong>Newlithic</strong><br/>Un espresso… preistorico <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-newlithic-set-2-tazzine-da-caffe-in-porcellana"
+          }
+        },
+        "column_ndCVHY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-bad-guy-lampada-da-tavolo-in-resina-bianco-1.webp",
+            "title": "",
+            "text": "<p><strong>Bad Guy Lamp</strong><br/>Accendi la ribellione <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-bad-guy-lampada-da-tavolo-in-resina-nero"
+          }
+        },
+        "column_JhWbxd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-reflecting-specchiera-con-cornice-ciclope-2.webp",
+            "title": "",
+            "text": "<p><strong>Reflecting Mirror</strong><br/>Design che ti guarda <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/reflecting-mirror-seletti"
+          }
+        },
+        "column_XT3DP6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brainwash-Seletti.webp",
+            "title": "",
+            "text": "<p><strong>Bain Wash</strong></p><p>Un lavaggio di cervello <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/brainwash-seletti"
+          }
+        },
+        "column_n9aHqf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Liberty-Mirrors-Seletti.jpg",
+            "title": "",
+            "text": "<p><strong>Liberty Mirror</strong><br/>Libertà riflessa, zero filtri <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-specchio-liberty-mirror-man"
+          }
+        }
+      },
+      "block_order": [
+        "column_nyFVmn",
+        "column_pGiJCT",
+        "column_ndCVHY",
+        "column_JhWbxd",
+        "column_XT3DP6",
+        "column_n9aHqf"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 32
+      }
+    },
+    "multicolumn_6gAN6j": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gfxHib": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Catalogo e collezioni natalizie Seletti da scoprire online</strong>",
+            "text": "<p>Scopri online il <strong>catalogo natalizio Seletti</strong>: collezioni in edizione limitata, novità di stagione e pezzi cult da collezione.<br/>Ogni oggetto è pensato per chi vuole regalare (o regalarsi) qualcosa di davvero unico: design italiano, spirito irriverente e una buona dose di creatività sotto l’albero.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_eYnXjJ": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_gfxHib",
+        "column_eYnXjJ"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_p4rTcB": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_bHceix": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-logo.jpg",
+            "title": "",
+            "text": "<p><strong>Esplora <br/></strong>Tutte le collezioni <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti"
+          }
+        },
+        "column_aYRmQx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Circus-Seletti.jpg",
+            "title": "",
+            "text": "<p><strong>Circus</strong><br/>Il circo… in salotto <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/circus-seletti"
+          }
+        },
+        "column_Utyc7X": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/vitamin-seletti-unico_-e-multiplo.jpg",
+            "title": "",
+            "text": "<p><strong>Vitamin</strong><br/>Dose quotidiana di design<strong> →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/vitamin-seletti"
+          }
+        },
+        "column_NAPUkJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Pixel-Mirrors-Seletti.jpg",
+            "title": "",
+            "text": "<p><strong>Pixel Mirror</strong><br/>Riflessi in alta risoluzione <strong>→</strong><br/></p>",
+            "link_label": "",
+            "link": "shopify://collections/pixel-mirrors-seletti"
+          }
+        },
+        "column_CJWXXU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-toiletpaper-jewels-collection.webp",
+            "title": "",
+            "text": "<p><strong>Toiletpaper Jewels</strong><br/>L’irriverenza da indossare<strong> →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-toiletpaper-jewels"
+          }
+        }
+      },
+      "block_order": [
+        "column_bHceix",
+        "column_aYRmQx",
+        "column_Utyc7X",
+        "column_NAPUkJ",
+        "column_CJWXXU"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 32
+      }
+    },
+    "multicolumn_jVdUi6": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_fGMJpc": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Oggetti Seletti per un Natale fuori dagli schemi</strong>",
+            "text": "<p>Per chi non si accontenta dei soliti regali, Seletti propone un Natale <strong>fuori dagli schemi</strong>, dove ironia e colore sostituiscono la tradizione.<br/>Dalle tazze con motivi surreali ai soprammobili più eccentrici, ogni dettaglio contribuisce a creare un’atmosfera natalizia in perfetto stile Seletti: <strong>artistica, divertente e pop</strong>.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PGetmF": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_fGMJpc",
+        "column_PGetmF"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_KqFwpn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_dEnp8D": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-3.webp",
+            "title": "",
+            "text": "<p><strong>Dancing Candelabrum</strong><br/>Illumina e stordisce <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum"
+          }
+        },
+        "column_XHtcmP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/sELETTI-10069_AMOR-VOLAT_MARCANTONIO_LIFESTYLE_MARBLE.webp",
+            "title": "",
+            "text": "<p><strong>Amor Volat</strong><br/>Amore sospeso <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-amor-volat-vaso-in-porcellana"
+          }
+        },
+        "column_HBzzj3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/skull-seletti.webp",
+            "title": "",
+            "text": "<p><strong>Skull Kintsugi</strong><br/>Rompi le regole <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-kintsugi-skull-teschio"
+          }
+        },
+        "column_64LbyE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-uto-balmoral-gummy-working-lampada-usb-resina-10.jpg",
+            "title": "",
+            "text": "<p><strong>Gummy</strong><br/>Troppo carino per essere innocente <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-uto-balmoral-gummy-working-lampada-usb-resina"
+          }
+        },
+        "column_FPgrd6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-toiletpaper-tappeto-bagno-shit-sagomato-1.jpg",
+            "title": "",
+            "text": "<p><strong>Tappeto Shit</strong><br/>Calpestare l’assurdo <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-toiletpaper-tappeto-bagno-shit-sagomato"
+          }
+        },
+        "column_CKqdec": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-specchio-circus-mirror-superhero-1.jpg",
+            "title": "",
+            "text": "<p><strong>Circus Mirror</strong><br/>Lo spettacolo comincia… →</p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-specchio-circus-mirror-superhero"
+          }
+        }
+      },
+      "block_order": [
+        "column_dEnp8D",
+        "column_XHtcmP",
+        "column_HBzzj3",
+        "column_64LbyE",
+        "column_FPgrd6",
+        "column_CKqdec"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "multicolumn_xAgMMd": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ExJ4ph": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Il <strong>Natale secondo Seletti</strong> non è mai convenzionale. È una tavola che sorprende, funzionale ma con un’<strong>anima eccentrica</strong>, dove ogni dettaglio diventa occasione di stupore e creatività.</p><p>Che si tratti del pranzo di Natale o di una cena tra amici, la tavola firmata Seletti invita a <strong>giocare </strong>con lo stile e a <strong>mescolare</strong> forme, texture e simboli pop. Piatti, bicchieri, centrotavola e oggetti décor si trasformano in <strong>elementi scenografici</strong>, capaci di dare vita a un’atmosfera unica, tra ironia, colore e design contemporaneo..</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_KUHCxg": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_ExJ4ph",
+        "column_KUHCxg"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Tavola e decorazioni di Natale con lo stile Seletti",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 24,
+        "padding_bottom": 0
+      }
+    },
+    "dual_images_PgFJyJ": {
+      "type": "dual-images",
+      "custom_css": [
+        ".image-text {color: #000 !important;}"
+      ],
+      "settings": {
+        "section_height": 1000,
+        "image_padding": 14,
+        "left_image": "shopify://shop_images/Natale-con-i-piatti-Seletti-Hybrid.webp",
+        "left_link": "shopify://collections/seletti-hybrid-piatti",
+        "left_text": "Piatti Hybrid",
+        "right_top_image": "shopify://shop_images/Natale-con-Seletti.webp",
+        "right_top_link": "shopify://collections/seletti-catalogo-prodotti-seletti-kintsugi-piatti",
+        "right_top_text": "Piatti Kintsugi",
+        "right_bottom_image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-2.webp",
+        "right_bottom_link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid",
+        "right_bottom_text": "Piatti Classics on Acid",
+        "margin_top": 32
+      }
+    },
+    "multicolumn_tim83c": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Pjyd9t": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Tavola di Natale Seletti tra ironia e colore</strong>",
+            "text": "<p>La <strong>tavola secondo Seletti</strong> non conosce regole. È un <strong>mix esplosivo</strong> di ironia, colori e forme inaspettate: la creatività si serve senza limiti.<br/><br/><strong>Piatti, bicchieri e posate diventano protagonist</strong>i di una tavola che non ha paura di esagerare. Gli elementi si mescolano come in un collage visivo fatto di colori accesi, contrasti audaci e dettagli dorati che catturano la luce.<br/><br/>Per Seletti, anche un pranzo di Natale diventa una performance: ironica, audace e teatrale. <strong>La tavola di Seletti</strong> non si limita a ospitare:<strong> mette in scena</strong>  - perché la vera eleganza, dopotutto, è saper osare.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yQhiCE": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Pjyd9t",
+        "column_yQhiCE"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_iWB7qW": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_FJcb76": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "piatti-seletti"
+          }
+        },
+        "featured_collection_FcjRr4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bicchieri-e-calici-seletti"
+          }
+        },
+        "featured_collection_VawqLp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "posate-seletti"
+          }
+        },
+        "featured_collection_JKKGcH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bottiglie-e-caraffe-seletti"
+          }
+        },
+        "featured_collection_A6LwVq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "candele-e-candelabri-seletti"
+          }
+        },
+        "featured_collection_TzEy43": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tovaglie-tovagliette-e-sottopiatti-seletti"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_FJcb76",
+        "featured_collection_FcjRr4",
+        "featured_collection_VawqLp",
+        "featured_collection_JKKGcH",
+        "featured_collection_A6LwVq",
+        "featured_collection_TzEy43"
+      ],
+      "custom_css": [
+        ".media--transparent {background-color: var(--product-background-color);}",
+        ".media--transparent img {mix-blend-mode: multiply;}",
+        ".card__content,.card__information {padding-left: 0px;}"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "portrait",
+        "columns_desktop": 6,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "slideshow_HNxCmk": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_MmcpKy": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/La-tavola-di-Natale-Seletti.webp",
+            "heading": "Seletti Diesel Classic on Acid",
+            "heading_size": "h2",
+            "subheading": "La Tavola di Natale Distorta",
+            "button_label": "Scoprila ora!",
+            "link": "shopify://products/seletti-diesel-living-classic-on-acid-piatti-frutta",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_gw7i8P": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/La-tavola-di-Seletti-kintsugi-Natale.webp",
+            "heading": "Seletti Piatti Kintsugi",
+            "heading_size": "h2",
+            "subheading": "La bellezza dell’imperfezione",
+            "button_label": "Scopri tutta la Collezione",
+            "link": "shopify://collections/seletti-catalogo-prodotti-kintsugi",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_HFBXrU": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Cat-Hybrid-collection.webp",
+            "heading": "Seletti Hybrid",
+            "heading_size": "h2",
+            "subheading": "Due mondi lontani in un solo piatto",
+            "button_label": "Scopri tutta la collezione!",
+            "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_MmcpKy",
+        "slide_gw7i8P",
+        "slide_HFBXrU"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "numbers",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": ""
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "multicolumn_ReMqxa",
+    "product-grid",
+    "multicolumn_w3YReB",
+    "multicolumn_CzbkJY",
+    "multicolumn_6gAN6j",
+    "multicolumn_p4rTcB",
+    "multicolumn_jVdUi6",
+    "multicolumn_KqFwpn",
+    "multicolumn_xAgMMd",
+    "dual_images_PgFJyJ",
+    "multicolumn_tim83c",
+    "collection_list_iWB7qW",
+    "slideshow_HNxCmk"
+  ]
+}
