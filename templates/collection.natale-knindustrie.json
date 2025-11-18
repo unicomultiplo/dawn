@@ -24,7 +24,7 @@
         "column_tPBKRt": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-logo.jpg",
+            "image": "shopify://shop_images/Knidustrie_1.webp",
             "title": "",
             "text": "<p><strong>Esplora <br/></strong>Tutte le collezioni <strong>→</strong></p>",
             "link_label": "",
@@ -34,11 +34,11 @@
         "column_XJqBn9": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-toiletpaper-jewels-collection.webp",
+            "image": "shopify://shop_images/1558-knindustrie-not-ice-cubetti-pietra-ollare.webp",
             "title": "",
             "text": "<p><strong>Toiletpaper Jewels</strong><br/>L’irriverenza da indossare<strong> →</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/seletti-toiletpaper-jewels"
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
           }
         },
         "column_NTb3HH": {
@@ -134,6 +134,7 @@
         "column_YLLPbC",
         "column_DPf8rx"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -141,7 +142,7 @@
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "square",
+        "image_ratio": "portrait",
         "columns_desktop": 5,
         "column_alignment": "center",
         "background_style": "primary",
