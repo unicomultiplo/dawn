@@ -194,7 +194,7 @@
             "title": "",
             "text": "<p><strong>Reggiposata Dem</strong><br/>Ordine con Stile <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://products/seletti-lucky-temple-oggetto-decorativo"
+            "link": "shopify://products/knindustrie-dem-posate-set-16-pz"
           }
         },
         "column_pGiJCT": {
@@ -214,7 +214,7 @@
             "title": "",
             "text": "<p><strong>Glacette Champagne<br/></strong>Freschezza impeccabile <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://products/seletti-bad-guy-lampada-da-tavolo-in-resina-nero"
+            "link": "shopify://products/knindustrie-glacette-bronzo-secchiello-champagne-o20cm"
           }
         },
         "column_JhWbxd": {
@@ -224,7 +224,7 @@
             "title": "",
             "text": "<p><strong>The Salad Family Oliera<br/></strong>Estetica pulita <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/reflecting-mirror-seletti"
+            "link": "shopify://products/knindustrie-oliera-acetiera"
           }
         },
         "column_XT3DP6": {
@@ -271,8 +271,8 @@
         "column_gfxHib": {
           "type": "column",
           "settings": {
-            "title": "<strong>Catalogo e collezioni natalizie Seletti da scoprire online</strong>",
-            "text": "<p>Scopri online il <strong>catalogo natalizio Seletti</strong>: collezioni in edizione limitata, novità di stagione e pezzi cult da collezione.<br/>Ogni oggetto è pensato per chi vuole regalare (o regalarsi) qualcosa di davvero unico: design italiano, spirito irriverente e una buona dose di creatività sotto l’albero.</p>",
+            "title": "<strong>Collezioni KnIndustrie per il Natale: il catalogo completo da scoprire</strong>",
+            "text": "<p>Dalle linee iconiche come ABCT e Foodwear ai best seller come The Glass Pot, passando per collezioni dedicate alla tavola e al servizio:<strong> il catalogo KnIndustrie offre soluzioni per ogni stile e occasione. </strong>Perfette per un dono ricercato o per rinnovare la cucina con pezzi versatili e contemporanei.</p>",
             "link_label": "",
             "link": ""
           }
@@ -291,7 +291,6 @@
         "column_gfxHib",
         "column_eYnXjJ"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -316,51 +315,51 @@
         "column_bHceix": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-logo.jpg",
+            "image": "shopify://shop_images/Knidustrie_1.webp",
             "title": "",
             "text": "<p><strong>Esplora <br/></strong>Tutte le collezioni <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/seletti"
+            "link": "shopify://collections/knindustrie"
           }
         },
         "column_aYRmQx": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Circus-Seletti.jpg",
+            "image": "shopify://shop_images/Abct-padelle.bianche-knindustrie.jpg",
             "title": "",
-            "text": "<p><strong>Circus</strong><br/>Il circo… in salotto <strong>→</strong></p>",
+            "text": "<p><strong>ABCT<br/></strong>Funzione che si trasforma. <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/circus-seletti"
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-abct"
           }
         },
         "column_Utyc7X": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/vitamin-seletti-unico_-e-multiplo.jpg",
+            "image": "shopify://shop_images/knindustrie-beyond-basic-the-saucepan-casseruola-giallo-4.jpg",
             "title": "",
-            "text": "<p><strong>Vitamin</strong><br/>Dose quotidiana di design<strong> →</strong></p>",
+            "text": "<p><strong>Beyond Basic</strong><br/>Essenziale, oltre l’ordinario<strong> →</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/vitamin-seletti"
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-beyond-basic"
           }
         },
         "column_NAPUkJ": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Pixel-Mirrors-Seletti.jpg",
+            "image": "shopify://shop_images/knindustrie-lime-lane-tumbler.webp",
             "title": "",
-            "text": "<p><strong>Pixel Mirror</strong><br/>Riflessi in alta risoluzione <strong>→</strong><br/></p>",
+            "text": "<p><strong>I Bicchieri<br/></strong>Luce sulla tavola<strong>→</strong><br/></p>",
             "link_label": "",
-            "link": "shopify://collections/pixel-mirrors-seletti"
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
           }
         },
         "column_CJWXXU": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-toiletpaper-jewels-collection.webp",
+            "image": "shopify://shop_images/taglieri-scultura-materials-knindustrie.webp",
             "title": "",
-            "text": "<p><strong>Toiletpaper Jewels</strong><br/>L’irriverenza da indossare<strong> →</strong></p>",
+            "text": "<p><strong>I Taglieri</strong><br/>Materia in equilibrio<strong> →</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/seletti-toiletpaper-jewels"
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-taglieri-workstation"
           }
         }
       },
@@ -371,7 +370,6 @@
         "column_NAPUkJ",
         "column_CJWXXU"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
