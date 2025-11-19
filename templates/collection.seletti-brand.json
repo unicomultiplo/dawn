@@ -96,39 +96,6 @@
         "show_text_below": false
       }
     },
-    "image_banner_HUnNNM": {
-      "type": "image-banner",
-      "blocks": {
-        "buttons_JLXXhx": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Seletti - Piatti Hybrid",
-            "button_link_1": "shopify://collections/seletti-hybrid-piatti",
-            "button_style_secondary_1": false,
-            "button_label_2": "Superfurniture",
-            "button_link_2": "shopify://collections/superfurniture-seletti",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "buttons_JLXXhx"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Cat-Hybrid-collection.webp",
-        "image_2": "shopify://shop_images/superforniture-seletti-new-2025.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "left",
-        "color_scheme": "scheme-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": true
-      }
-    },
     "multicolumn_TCmKJE": {
       "type": "multicolumn",
       "blocks": {
@@ -170,6 +137,39 @@
         "swipe_on_mobile": false,
         "padding_top": 40,
         "padding_bottom": 0
+      }
+    },
+    "image_banner_HUnNNM": {
+      "type": "image-banner",
+      "blocks": {
+        "buttons_JLXXhx": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Seletti - Piatti Hybrid",
+            "button_link_1": "shopify://collections/seletti-hybrid-piatti",
+            "button_style_secondary_1": false,
+            "button_label_2": "Superfurniture",
+            "button_link_2": "shopify://collections/superfurniture-seletti",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "buttons_JLXXhx"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Cat-Hybrid-collection.webp",
+        "image_2": "shopify://shop_images/superforniture-seletti-new-2025.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
       }
     },
     "image_with_text_7gxWGt": {
@@ -1093,8 +1093,8 @@
     "banner",
     "multicolumn_4fT4dH",
     "image_banner_dc8VCJ",
-    "image_banner_HUnNNM",
     "multicolumn_TCmKJE",
+    "image_banner_HUnNNM",
     "image_with_text_7gxWGt",
     "multicolumn_kp8jzB",
     "collection_list_DFkntc",
