@@ -522,7 +522,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Il <strong>Natale secondo Seletti</strong> non è mai convenzionale. È una tavola che sorprende, funzionale ma con un’<strong>anima eccentrica</strong>, dove ogni dettaglio diventa occasione di stupore e creatività.</p><p>Che si tratti del pranzo di Natale o di una cena tra amici, la tavola firmata Seletti invita a <strong>giocare </strong>con lo stile e a <strong>mescolare</strong> forme, texture e simboli pop. Piatti, bicchieri, centrotavola e oggetti décor si trasformano in <strong>elementi scenografici</strong>, capaci di dare vita a un’atmosfera unica, tra ironia, colore e design contemporaneo..</p>",
+            "text": "<p>La<strong> tavola di Natale</strong> diventa un vero progetto di <strong>stile </strong>grazie a <strong>KnIndustrie</strong>: materiali iconici, superfici metalliche, vetri essenziali e un design pulito che crea un’atmosfera calda, moderna e perfettamente in linea con le festività. L<strong>’arte di apparecchiare </strong>si fonde con l’arte del ricevere.<br/></p>",
             "link_label": "",
             "link": ""
           }
@@ -541,10 +541,9 @@
         "column_ExJ4ph",
         "column_KUHCxg"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Tavola e decorazioni di Natale con lo stile Seletti",
+        "title": "Tavola di Natale KnIndustrie: idee per una mise en place contemporanea",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -562,14 +561,13 @@
     },
     "dual_images_PgFJyJ": {
       "type": "dual-images",
-      "disabled": true,
       "custom_css": [
         ".image-text {color: #000 !important;}"
       ],
       "settings": {
         "section_height": 1000,
         "image_padding": 14,
-        "left_image": "shopify://shop_images/Natale-con-i-piatti-Seletti-Hybrid.webp",
+        "left_image": "shopify://shop_images/la-tavola-di-natale.webp",
         "left_link": "shopify://collections/seletti-hybrid-piatti",
         "left_text": "Piatti Hybrid",
         "right_top_image": "shopify://shop_images/Natale-con-Seletti.webp",
@@ -587,8 +585,8 @@
         "column_Pjyd9t": {
           "type": "column",
           "settings": {
-            "title": "<strong>Tavola di Natale Seletti tra ironia e colore</strong>",
-            "text": "<p>La <strong>tavola secondo Seletti</strong> non conosce regole. È un <strong>mix esplosivo</strong> di ironia, colori e forme inaspettate: la creatività si serve senza limiti.<br/><br/><strong>Piatti, bicchieri e posate diventano protagonist</strong>i di una tavola che non ha paura di esagerare. Gli elementi si mescolano come in un collage visivo fatto di colori accesi, contrasti audaci e dettagli dorati che catturano la luce.<br/><br/>Per Seletti, anche un pranzo di Natale diventa una performance: ironica, audace e teatrale. <strong>La tavola di Seletti</strong> non si limita a ospitare:<strong> mette in scena</strong>  - perché la vera eleganza, dopotutto, è saper osare.</p>",
+            "title": "<strong>Mise en place natalizia KnIndustrie: piatti, bicchieri e accessori</strong>",
+            "text": "<p>Per la<strong> tavola delle feste</strong>, <strong>KnIndustrie </strong>propone piatti in ceramica o acciaio, sottopiatti scultorei, bicchieri essenziali e posate dal carattere deciso. Accessori come vassoi, taglieri e ciotole completano la mise en place con <strong>equilibrio e modernità</strong>, creando una scenografia <strong>raffinata e mai eccessiva</strong>.</p>",
             "link_label": "",
             "link": ""
           }
@@ -607,7 +605,6 @@
         "column_Pjyd9t",
         "column_yQhiCE"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -632,37 +629,37 @@
         "featured_collection_FJcb76": {
           "type": "featured_collection",
           "settings": {
-            "collection": "piatti-seletti"
+            "collection": "knindustrie-catalogo-prodotti-piatti"
           }
         },
         "featured_collection_FcjRr4": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bicchieri-e-calici-seletti"
+            "collection": "knindustrie-catalogo-prodotti-bicchieri"
           }
         },
         "featured_collection_VawqLp": {
           "type": "featured_collection",
           "settings": {
-            "collection": "posate-seletti"
+            "collection": "knindustrie-catalogo-prodotti-posate"
           }
         },
         "featured_collection_JKKGcH": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bottiglie-e-caraffe-seletti"
+            "collection": "knindustrie-accessori-tavola"
           }
         },
         "featured_collection_A6LwVq": {
           "type": "featured_collection",
           "settings": {
-            "collection": "candele-e-candelabri-seletti"
+            "collection": "knindustrie-catalogo-prodotti-vassoi"
           }
         },
         "featured_collection_TzEy43": {
           "type": "featured_collection",
           "settings": {
-            "collection": "tovaglie-tovagliette-e-sottopiatti-seletti"
+            "collection": "knindustrie-catalogo-prodotti-taglieri-workstation"
           }
         }
       },
@@ -674,7 +671,6 @@
         "featured_collection_A6LwVq",
         "featured_collection_TzEy43"
       ],
-      "disabled": true,
       "custom_css": [
         ".media--transparent {background-color: var(--product-background-color);}",
         ".media--transparent img {mix-blend-mode: multiply;}",
@@ -700,7 +696,7 @@
         "slide_MmcpKy": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/La-tavola-di-Natale-Seletti.webp",
+            "image": "shopify://shop_images/knIndustrie-Christmas_News_2025-natale.webp",
             "heading": "Seletti Diesel Classic on Acid",
             "heading_size": "h2",
             "subheading": "La Tavola di Natale Distorta",
@@ -718,7 +714,7 @@
         "slide_gw7i8P": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/La-tavola-di-Seletti-kintsugi-Natale.webp",
+            "image": "shopify://shop_images/knIndustrie-Christmas-News-natale2025.webp",
             "heading": "Seletti Piatti Kintsugi",
             "heading_size": "h2",
             "subheading": "La bellezza dell’imperfezione",
@@ -736,7 +732,7 @@
         "slide_HFBXrU": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Cat-Hybrid-collection.webp",
+            "image": "shopify://shop_images/natale-knindustrie-2025.webp",
             "heading": "Seletti Hybrid",
             "heading_size": "h2",
             "subheading": "Due mondi lontani in un solo piatto",
@@ -757,9 +753,8 @@
         "slide_gw7i8P",
         "slide_HFBXrU"
       ],
-      "disabled": true,
       "settings": {
-        "layout": "full_bleed",
+        "layout": "grid",
         "slide_height": "small",
         "slider_visual": "numbers",
         "auto_rotate": true,
