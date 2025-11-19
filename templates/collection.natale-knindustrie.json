@@ -396,8 +396,8 @@
         "column_fGMJpc": {
           "type": "column",
           "settings": {
-            "title": "<strong>Oggetti Seletti per un Natale fuori dagli schemi</strong>",
-            "text": "<p>Per chi non si accontenta dei soliti regali, Seletti propone un Natale <strong>fuori dagli schemi</strong>, dove ironia e colore sostituiscono la tradizione.<br/>Dalle tazze con motivi surreali ai soprammobili più eccentrici, ogni dettaglio contribuisce a creare un’atmosfera natalizia in perfetto stile Seletti: <strong>artistica, divertente e pop</strong>.</p>",
+            "title": "<strong>Accessori e oggetti KnIndustrie per un Natale di stile</strong>",
+            "text": "<p>Tra vetro borosilicato, acciaio satinato e lavorazioni di alta qualità, <strong>KnIndustrie</strong> propone oggetti capaci di elevare qualsiasi ambiente. Caraffe, contenitori, centrotavola, pentole trasparenti, taglieri e accessori <strong>professionali</strong>: ogni pezzo è pensato per portare un tocco di <strong>stile minimalista </strong>e <strong>sofisticato</strong> anche durante le feste.</p>",
             "link_label": "",
             "link": ""
           }
@@ -416,7 +416,6 @@
         "column_fGMJpc",
         "column_PGetmF"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -441,7 +440,7 @@
         "column_dEnp8D": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-3.webp",
+            "image": "shopify://shop_images/the-glasspot-knindustrie-pentola-vetro.jpg",
             "title": "",
             "text": "<p><strong>Dancing Candelabrum</strong><br/>Illumina e stordisce <strong>→</strong></p>",
             "link_label": "",
