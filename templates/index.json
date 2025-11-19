@@ -734,6 +734,16 @@
     "multicolumn_ftmdQK": {
       "type": "multicolumn",
       "blocks": {
+        "column_WADJFq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/santas-belt.jpg",
+            "title": "",
+            "text": "<p>Natale 2025 <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://pages/natale"
+          }
+        },
         "column_7L8tpd": {
           "type": "column",
           "settings": {
@@ -773,24 +783,14 @@
             "link_label": "",
             "link": "shopify://pages/padelle-antiaderenti-guida-completa"
           }
-        },
-        "column_WADJFq": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/IMG_1980.webp",
-            "title": "",
-            "text": "<p>Consigli per le Tue Bomboniere 2025 <strong>→</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/pages/bomboniere-brandani"
-          }
         }
       },
       "block_order": [
+        "column_WADJFq",
         "column_7L8tpd",
         "column_Q9yHkC",
         "column_B9rnKn",
-        "column_zQeJAx",
-        "column_WADJFq"
+        "column_zQeJAx"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
