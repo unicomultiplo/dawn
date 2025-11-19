@@ -31,12 +31,22 @@
             "link": "shopify://collections/seletti"
           }
         },
+        "column_k8bKVg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/la-tavola-di-natale.webp",
+            "title": "",
+            "text": "<p><strong>Idee regalo</strong><br/>Design che sorprende <strong>→</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/natale-con-knindustrie?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Natale+2025&sort_by=manual"
+          }
+        },
         "column_fRigWa": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/k7_beatrice_rossetti-knindustrie-idee-natale.webp",
             "title": "",
-            "text": "<p><strong>Idee regalo</strong><br/>Design che sorprende <strong>→</strong></p>",
+            "text": "<p><strong>Accessori tavola</strong><br/>Dettagli che completano <strong>→</strong><br/></p>",
             "link_label": "",
             "link": "shopify://collections/specchi-seletti"
           }
@@ -61,16 +71,6 @@
             "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid"
           }
         },
-        "column_k8bKVg": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/la-tavola-di-natale.webp",
-            "title": "",
-            "text": "<p><strong>Accessori tavola</strong><br/>Dettagli che completano <strong>→</strong><br/></p>",
-            "link_label": "",
-            "link": "shopify://collections/brainwash-seletti"
-          }
-        },
         "column_zBx8yP": {
           "type": "column",
           "settings": {
@@ -84,10 +84,10 @@
       },
       "block_order": [
         "column_tPBKRt",
+        "column_k8bKVg",
         "column_fRigWa",
         "column_XJqBn9",
         "column_NTb3HH",
-        "column_k8bKVg",
         "column_zBx8yP"
       ],
       "custom_css": [
