@@ -347,7 +347,7 @@
           "settings": {
             "image": "shopify://shop_images/knindustrie-lime-lane-tumbler.webp",
             "title": "",
-            "text": "<p><strong>I Bicchieri<br/></strong>Luce sulla tavola<strong>→</strong><br/></p>",
+            "text": "<p><strong>I Bicchieri<br/></strong>Luce sulla tavola<strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
           }
@@ -442,71 +442,59 @@
           "settings": {
             "image": "shopify://shop_images/the-glasspot-knindustrie-pentola-vetro.jpg",
             "title": "",
-            "text": "<p><strong>Dancing Candelabrum</strong><br/>Illumina e stordisce <strong>→</strong></p>",
+            "text": "<p><strong>The Glass Pot</strong><br/>Trasparenze che ispirano <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://products/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum"
-          }
-        },
-        "column_XHtcmP": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/sELETTI-10069_AMOR-VOLAT_MARCANTONIO_LIFESTYLE_MARBLE.webp",
-            "title": "",
-            "text": "<p><strong>Amor Volat</strong><br/>Amore sospeso <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://products/seletti-amor-volat-vaso-in-porcellana"
-          }
-        },
-        "column_HBzzj3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/skull-seletti.webp",
-            "title": "",
-            "text": "<p><strong>Skull Kintsugi</strong><br/>Rompi le regole <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://products/seletti-kintsugi-skull-teschio"
+            "link": "shopify://products/456-knindustrie-knpro-pentola-in-vetro"
           }
         },
         "column_64LbyE": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-uto-balmoral-gummy-working-lampada-usb-resina-10.jpg",
+            "image": "shopify://shop_images/knIndustrie-lime-lux-bicchieri_1_292f23a3-da17-4b8f-8ee0-d5792ff96a28.webp",
             "title": "",
-            "text": "<p><strong>Gummy</strong><br/>Troppo carino per essere innocente <strong>→</strong></p>",
+            "text": "<p><strong>Lime Lux</strong></p><p>Dettagli luce <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://products/seletti-uto-balmoral-gummy-working-lampada-usb-resina"
+            "link": "shopify://products/knindustrie-lime-lux-oro"
           }
         },
-        "column_FPgrd6": {
+        "column_XHtcmP": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-toiletpaper-tappeto-bagno-shit-sagomato-1.jpg",
+            "image": "shopify://shop_images/knindustrie-shapeless-cestino-portapane.jpg",
             "title": "",
-            "text": "<p><strong>Tappeto Shit</strong><br/>Calpestare l’assurdo <strong>→</strong></p>",
+            "text": "<p><strong>Shapeless</strong><br/>Forme oltre le regole<strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://products/seletti-toiletpaper-tappeto-bagno-shit-sagomato"
+            "link": "shopify://products/knindustrie-shapeless-cestino-portapane"
+          }
+        },
+        "column_HBzzj3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/7538-knindustrie-brick-lane-set-24-pz-in-acciaio-stone-washed.jpg",
+            "title": "",
+            "text": "<p><strong>Bricklane</strong><br/>Carattere metropolitano <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/7538-knindustrie-brick-lane-set-24-pz-in-acciaio-stone-washed"
           }
         },
         "column_CKqdec": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-specchio-circus-mirror-superhero-1.jpg",
+            "image": "shopify://shop_images/knindustrie-storm-vassoio-stone-washed-6.webp",
             "title": "",
-            "text": "<p><strong>Circus Mirror</strong><br/>Lo spettacolo comincia… →</p>",
+            "text": "<p><strong>Storm</strong><br/>Energia poetica →</p>",
             "link_label": "",
-            "link": "shopify://products/seletti-specchio-circus-mirror-superhero"
+            "link": "shopify://collections/the-storm-collection-knindustrie"
           }
         }
       },
       "block_order": [
         "column_dEnp8D",
+        "column_64LbyE",
         "column_XHtcmP",
         "column_HBzzj3",
-        "column_64LbyE",
-        "column_FPgrd6",
         "column_CKqdec"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -515,7 +503,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
