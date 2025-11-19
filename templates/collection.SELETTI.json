@@ -55,7 +55,7 @@
           "settings": {
             "image": "shopify://shop_images/Seletti-logo.jpg",
             "title": "",
-            "text": "<p>Esplora il Brand</p>",
+            "text": "<p><strong>Esplora il Brand</strong></p>",
             "link_label": "",
             "link": "shopify://collections/seletti"
           }
@@ -65,7 +65,7 @@
           "settings": {
             "image": "shopify://shop_images/seletti-natale-christmas-gift-idee-regalo.webp",
             "title": "",
-            "text": "<p>NATALE 2025 </p>",
+            "text": "<p><strong>NATALE 2025 </strong></p>",
             "link_label": "",
             "link": "shopify://collections/seletti-natale"
           }
@@ -75,7 +75,7 @@
           "settings": {
             "image": "shopify://shop_images/Seletti-corno-kintsugi.webp",
             "title": "",
-            "text": "<p>OBJECTS - Idee Regalo</p>",
+            "text": "<p><strong>OBJECTS - Idee Regalo</strong></p>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_qftGfx"
           }
@@ -85,7 +85,7 @@
           "settings": {
             "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-2_d7b0c753-d33f-4f96-95b0-762e82ef3a61.webp",
             "title": "",
-            "text": "<p>TABLEWARE - Arte della Tavola</p>",
+            "text": "<p><strong>TABLEWARE - Arte della Tavola</strong></p>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_pekHrY"
           }
@@ -95,7 +95,7 @@
           "settings": {
             "image": "shopify://shop_images/seletti-my-moon-lamp-lampada-seduta-indoor-outdoor.jpg",
             "title": "",
-            "text": "<p>LIGHTING - Oggetti Luce</p>",
+            "text": "<p><strong>LIGHTING - Oggetti Luce</strong></p>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_ky7KpY"
           }
