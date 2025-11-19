@@ -609,6 +609,12 @@
             "collection": "knindustrie-catalogo-prodotti-bicchieri"
           }
         },
+        "featured_collection_Ve3KKf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-accessori-tavola"
+          }
+        },
         "featured_collection_brYEAY": {
           "type": "featured_collection",
           "settings": {
@@ -620,13 +626,14 @@
         "featured_collection_UFKpqm",
         "featured_collection_cQf8XH",
         "featured_collection_BxLdjD",
+        "featured_collection_Ve3KKf",
         "featured_collection_brYEAY"
       ],
       "settings": {
         "title": "",
         "heading_size": "h0",
         "image_ratio": "square",
-        "columns_desktop": 4,
+        "columns_desktop": 5,
         "color_scheme": "scheme-1",
         "show_view_all": false,
         "columns_mobile": "2",
