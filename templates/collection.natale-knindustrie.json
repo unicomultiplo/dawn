@@ -187,16 +187,6 @@
     "multicolumn_CzbkJY": {
       "type": "multicolumn",
       "blocks": {
-        "column_nyFVmn": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/dem-servizio-posate-16-pezzi-con-appendino.jpg",
-            "title": "",
-            "text": "<p><strong>Reggiposata Dem</strong><br/>Ordine con Stile <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://products/knindustrie-dem-posate-set-16-pz"
-          }
-        },
         "column_pGiJCT": {
           "type": "column",
           "settings": {
@@ -205,6 +195,16 @@
             "text": "<p><strong>Sparky Lara Caffi</strong><br/>Trasparenze decise <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://products/knindustrie-bicchiere-sparky-lara-caffi"
+          }
+        },
+        "column_nyFVmn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/dem-servizio-posate-16-pezzi-con-appendino.jpg",
+            "title": "",
+            "text": "<p><strong>Reggiposata Dem</strong><br/>Ordine con Stile <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/knindustrie-dem-posate-set-16-pz"
           }
         },
         "column_ndCVHY": {
@@ -239,8 +239,8 @@
         }
       },
       "block_order": [
-        "column_nyFVmn",
         "column_pGiJCT",
+        "column_nyFVmn",
         "column_ndCVHY",
         "column_JhWbxd",
         "column_XT3DP6"
@@ -342,6 +342,16 @@
             "link": "shopify://collections/knindustrie-catalogo-prodotti-beyond-basic"
           }
         },
+        "column_CJWXXU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/taglieri-knindustrie.webp",
+            "title": "",
+            "text": "<p><strong>I Taglieri</strong><br/>Materia in equilibrio<strong> →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-taglieri-workstation"
+          }
+        },
         "column_NAPUkJ": {
           "type": "column",
           "settings": {
@@ -351,24 +361,14 @@
             "link_label": "",
             "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
           }
-        },
-        "column_CJWXXU": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/taglieri-scultura-materials-knindustrie.webp",
-            "title": "",
-            "text": "<p><strong>I Taglieri</strong><br/>Materia in equilibrio<strong> →</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-taglieri-workstation"
-          }
         }
       },
       "block_order": [
         "column_bHceix",
         "column_aYRmQx",
         "column_Utyc7X",
-        "column_NAPUkJ",
-        "column_CJWXXU"
+        "column_CJWXXU",
+        "column_NAPUkJ"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -561,21 +561,19 @@
     },
     "dual_images_PgFJyJ": {
       "type": "dual-images",
-      "custom_css": [
-        ".image-text {color: #000 !important;}"
-      ],
+      "custom_css": [],
       "settings": {
         "section_height": 1000,
         "image_padding": 14,
-        "left_image": "shopify://shop_images/la-tavola-di-natale.webp",
-        "left_link": "shopify://collections/seletti-hybrid-piatti",
-        "left_text": "Piatti Hybrid",
-        "right_top_image": "shopify://shop_images/Natale-con-Seletti.webp",
-        "right_top_link": "shopify://collections/seletti-catalogo-prodotti-seletti-kintsugi-piatti",
-        "right_top_text": "Piatti Kintsugi",
-        "right_bottom_image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-2.webp",
-        "right_bottom_link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid",
-        "right_bottom_text": "Piatti Classics on Acid",
+        "left_image": "shopify://shop_images/alzata-knindustrie.webp",
+        "left_link": "shopify://collections/knindustrie-accessori-tavola",
+        "left_text": "Accessori Tavola",
+        "right_top_image": "shopify://shop_images/materials-knindustrie.webp",
+        "right_top_link": "shopify://products/knindustrie-composizione-materials-set-piatti-tavola-4-pezzi",
+        "right_top_text": "Materials",
+        "right_bottom_image": "shopify://shop_images/knindustrie-taglieri-e-centrotavola.webp",
+        "right_bottom_link": "shopify://collections/knindustrie-catalogo-prodotti-taglieri-workstation",
+        "right_bottom_text": "Taglieri",
         "margin_top": 32
       }
     },
