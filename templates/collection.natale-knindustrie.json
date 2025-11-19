@@ -136,8 +136,17 @@
         "column_Ej4CCk": {
           "type": "column",
           "settings": {
-            "title": "<strong>Regali di Natale firmati Seletti per stupire chi ami</strong>",
-            "text": "<p>Dimentica i soliti regali: con <strong>Seletti</strong> il Natale diventa un’esplosione di creatività, ironia e colore. Regali eccentrici, <strong>un po’ folli e irresistibilmente pop</strong>, perfetti per chi ama <strong>oggetti fuori dal comune</strong> e per chi vuole portare un tocco d’arte in casa. Con Seletti, anche il gesto del dono diventa un piccolo atto di design: qualcosa che fa sorridere, stupisce e resta impresso nel tempo.</p>",
+            "title": "",
+            "text": "<p><strong>Il Natale secondo KnIndustrie</strong> è fatto di oggetti pensati per durare nel tempo, in cui<strong> estetica e funzione</strong> convivono con naturalezza. Non semplici utensili, ma pezzi di design che diventano <strong>protagonisti </strong>della cucina, della tavola e dei momenti condivisi durante le feste.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pemYh3": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Regali di Natale KnIndustrie: proposte utili e di design</strong>",
+            "text": "<p>Per chi <strong>ama cucinare</strong>, per chi adora ricevere o per chi cerca oggetti che uniscano <strong>stile e praticità</strong>, KnIndustrie offre idee regalo perfette: pentole multifunzionali, teglie eleganti, accessori in vetro e acciaio, vassoi scultorei e utensili che trasformano ogni gesto in un’esperienza. <strong>Regali che stupiscono</strong> perché uniscono design, tecnologia e un’<strong>eleganza</strong> essenziale.</p>",
             "link_label": "",
             "link": ""
           }
@@ -154,12 +163,12 @@
       },
       "block_order": [
         "column_Ej4CCk",
+        "column_pemYh3",
         "column_UJ8fax"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Idee regalo e collezioni Seletti per il Natale",
+        "title": "Idee regalo di Natale KnIndustrie: design per la cucina e la tavola",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -181,9 +190,9 @@
         "column_nyFVmn": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-lucky-temple-oggetto-decorativo-32.webp",
+            "image": "shopify://shop_images/dem-servizio-posate-16-pezzi-con-appendino.jpg",
             "title": "",
-            "text": "<p><strong>Lucky Temple</strong><br/>Un concentrato di fortuna <strong>→</strong></p>",
+            "text": "<p><strong>Reggiposata Dem</strong><br/>Ordine con Stile <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://products/seletti-lucky-temple-oggetto-decorativo"
           }
@@ -191,19 +200,19 @@
         "column_pGiJCT": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-newlithic-set-2-tazzine-da-caffe-in-porcellana-5.webp",
+            "image": "shopify://shop_images/knindustrie-bicchiere-sparky-lara-caffi-20.webp",
             "title": "",
-            "text": "<p><strong>Newlithic</strong><br/>Un espresso… preistorico <strong>→</strong></p>",
+            "text": "<p><strong>Sparky Lara Caffi</strong><br/>Trasparenze decise <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://products/seletti-newlithic-set-2-tazzine-da-caffe-in-porcellana"
+            "link": "shopify://products/knindustrie-bicchiere-sparky-lara-caffi"
           }
         },
         "column_ndCVHY": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-bad-guy-lampada-da-tavolo-in-resina-bianco-1.webp",
+            "image": "shopify://shop_images/kNiNDUSTRIE.webp",
             "title": "",
-            "text": "<p><strong>Bad Guy Lamp</strong><br/>Accendi la ribellione <strong>→</strong></p>",
+            "text": "<p><strong>Glacette Champagne<br/></strong>Freschezza impeccabile <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://products/seletti-bad-guy-lampada-da-tavolo-in-resina-nero"
           }
@@ -211,9 +220,9 @@
         "column_JhWbxd": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-reflecting-specchiera-con-cornice-ciclope-2.webp",
+            "image": "shopify://shop_images/knindustrie-oliera-acetiera-3.jpg",
             "title": "",
-            "text": "<p><strong>Reflecting Mirror</strong><br/>Design che ti guarda <strong>→</strong></p>",
+            "text": "<p><strong>The Salad Family Oliera<br/></strong>Estetica pulita <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/reflecting-mirror-seletti"
           }
@@ -221,21 +230,11 @@
         "column_XT3DP6": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Brainwash-Seletti.webp",
+            "image": "shopify://shop_images/knindustrie-rubin-alzata-in-vetro-con-piatto-in-legno-3.webp",
             "title": "",
-            "text": "<p><strong>Bain Wash</strong></p><p>Un lavaggio di cervello <strong>→</strong></p>",
+            "text": "<p><strong>Accessori Tavola<br/></strong>Eleganza in altezza <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/brainwash-seletti"
-          }
-        },
-        "column_n9aHqf": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Liberty-Mirrors-Seletti.jpg",
-            "title": "",
-            "text": "<p><strong>Liberty Mirror</strong><br/>Libertà riflessa, zero filtri <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://products/seletti-specchio-liberty-mirror-man"
+            "link": "shopify://collections/knindustrie-accessori-tavola"
           }
         }
       },
@@ -244,10 +243,8 @@
         "column_pGiJCT",
         "column_ndCVHY",
         "column_JhWbxd",
-        "column_XT3DP6",
-        "column_n9aHqf"
+        "column_XT3DP6"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -256,7 +253,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
