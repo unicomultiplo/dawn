@@ -866,12 +866,6 @@
     "collection_list_jLjhzz": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_kr6qtH": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "outdoor-seletti"
-          }
-        },
         "featured_collection_UQtEpz": {
           "type": "featured_collection",
           "settings": {
@@ -895,14 +889,20 @@
           "settings": {
             "collection": "vasi-seletti"
           }
+        },
+        "featured_collection_kr6qtH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "outdoor-seletti"
+          }
         }
       },
       "block_order": [
-        "featured_collection_kr6qtH",
         "featured_collection_UQtEpz",
         "featured_collection_rLH9YK",
         "featured_collection_DWb3hi",
-        "featured_collection_9Ttgmt"
+        "featured_collection_9Ttgmt",
+        "featured_collection_kr6qtH"
       ],
       "settings": {
         "title": "FURNITURE - Arredo",
