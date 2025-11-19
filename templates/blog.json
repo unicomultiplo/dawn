@@ -102,7 +102,7 @@
         "blog": "apparecchiare-con-stile",
         "post_limit": 4,
         "columns_desktop": 4,
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "show_image": true,
         "show_date": false,
         "show_author": false,
@@ -279,7 +279,7 @@
         "background_style": "primary",
         "button_label": "Scoprili tutti →",
         "button_link": "shopify://pages/i-nostri-brand",
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
@@ -289,16 +289,6 @@
     "multicolumn_xYAXka": {
       "type": "multicolumn",
       "blocks": {
-        "column_gPqQMV": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/come-organizzare-l-armadio-accessori-cambio-di-stagione.png",
-            "title": "",
-            "text": "",
-            "link_label": "Cambio di stagione, guida completa",
-            "link": "shopify://pages/il-grande-classico-come-fare-il-cambio-di-stagione-e-non-impazzire"
-          }
-        },
         "column_KmWNfm": {
           "type": "column",
           "settings": {
@@ -328,13 +318,23 @@
             "link_label": "Consigli per le Tue Bomboniere 2025",
             "link": "https://www.unicoemultiplo.com/pages/bomboniere-brandani"
           }
+        },
+        "column_gPqQMV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/come-organizzare-l-armadio-accessori-cambio-di-stagione.png",
+            "title": "",
+            "text": "",
+            "link_label": "Cambio di stagione, guida completa",
+            "link": "shopify://pages/il-grande-classico-come-fare-il-cambio-di-stagione-e-non-impazzire"
+          }
         }
       },
       "block_order": [
-        "column_gPqQMV",
         "column_KmWNfm",
         "column_hxikiy",
-        "column_C3bNqP"
+        "column_C3bNqP",
+        "column_gPqQMV"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -404,7 +404,7 @@
         "desktop_content_alignment": "right",
         "content_layout": "no-overlap",
         "section_color_scheme": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "image_behavior": "none",
         "mobile_content_alignment": "right",
         "padding_top": 36,
