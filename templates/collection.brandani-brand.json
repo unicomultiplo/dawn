@@ -767,66 +767,69 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_Q3fPtj": {
+    "multicolumn_GAFdCm": {
       "type": "multicolumn",
       "blocks": {
-        "column_dbkhmp": {
+        "column_Dwyw48": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/brandani-logo-500x500.webp",
             "title": "",
-            "text": "",
+            "text": "<p><strong>Esplora il Brand </strong></p>",
             "link_label": "",
             "link": "shopify://collections/brandani"
           }
         },
-        "column_m6W9zd": {
+        "column_ti4QbT": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Brandani-piatti-natalizi-goldeneye-10.webp",
             "title": "",
-            "text": "",
+            "text": "<p><strong>Golden Eye</strong></p>",
             "link_label": "",
             "link": "shopify://products/brandani-golden-eye-red-set-piatti-18-pz"
           }
         },
-        "column_rPxGWk": {
+        "column_zUdQUT": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/brandani-queen-natale-2025.webp",
             "title": "",
-            "text": "",
+            "text": "<p><strong>Queen Brandani</strong></p>",
             "link_label": "",
             "link": "shopify://collections/queen-brandani"
           }
         },
-        "column_ijCWHB": {
+        "column_dn8TBH": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Brandani-set-piatti-lo-schiaccianoci-1.webp",
             "title": "",
-            "text": "",
+            "text": "<p><strong>Lo Schiaccianoci </strong></p>",
             "link_label": "",
             "link": "shopify://collections/brandani-schiaccianoci"
           }
         },
-        "column_3CDLJQ": {
+        "column_ePHzyN": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1024x1024_098fddfb-83c2-4707-9de9-e6676848b06c.jpg",
             "title": "",
-            "text": "",
+            "text": "<p><strong>Elfomagia</strong></p>",
             "link_label": "",
             "link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana"
           }
         }
       },
       "block_order": [
-        "column_dbkhmp",
-        "column_m6W9zd",
-        "column_rPxGWk",
-        "column_ijCWHB",
-        "column_3CDLJQ"
+        "column_Dwyw48",
+        "column_ti4QbT",
+        "column_zUdQUT",
+        "column_dn8TBH",
+        "column_ePHzyN"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
       ],
       "settings": {
         "title": "",
@@ -838,7 +841,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 20,
@@ -885,7 +888,7 @@
     "collection_list_Qdy6e7",
     "collection_list_qENXQe",
     "collection_list_eL9cLQ",
-    "multicolumn_Q3fPtj",
+    "multicolumn_GAFdCm",
     "product-grid"
   ]
 }
