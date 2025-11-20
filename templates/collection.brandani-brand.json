@@ -55,14 +55,30 @@
     },
     "image_banner_dc8VCJ": {
       "type": "image-banner",
+      "blocks": {
+        "buttons_BVVPLR": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "LA Magia della Tavola di Natale Firmata Brandani",
+            "button_link_1": "shopify://blogs/apparecchiare-con-stile/la-magia-della-tavola-di-natale-firmata-brandani",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "buttons_BVVPLR"
+      ],
       "settings": {
-        "image": "shopify://shop_images/Brandani-collezioni-Unicoemultiplo.webp",
+        "image": "shopify://shop_images/Brandani-set-piatti-lo-schiaccianoci_3a280942-7a53-4b17-9132-d9422efb316e.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
-        "desktop_content_position": "middle-left",
-        "show_text_box": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
         "desktop_content_alignment": "left",
-        "color_scheme": "",
+        "color_scheme": "scheme-1464a208-fcdd-4ba9-b1e4-de3cd41e6336",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
