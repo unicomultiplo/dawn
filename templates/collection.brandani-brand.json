@@ -153,22 +153,22 @@
         "heading_BrVxdm": {
           "type": "heading",
           "settings": {
-            "heading": "Brandani: Novità e Proposte del momento",
+            "heading": "Brandani: Natale 2025",
             "heading_size": "h1"
           }
         },
         "text_b3CnpN": {
           "type": "text",
           "settings": {
-            "text": "<p>Con <strong>Calipso</strong> la tavola si veste di emozione: toni morbidi, design autentico e quella calda eleganza che trasforma ogni gesto in un piccolo rito!</p>",
+            "text": "<p>Con <strong>Queen</strong>, la tavola Brandani si veste di fascino e raffinatezza. Linee morbide, dettagli luminosi e un design elegante trasformano ogni portata in un momento speciale.</p>",
             "text_style": "subtitle"
           }
         },
         "button_BkhTAt": {
           "type": "button",
           "settings": {
-            "button_label": "Scopri Calipso",
-            "button_link": "shopify://collections/calipso-brandani",
+            "button_label": "Scopri Queen",
+            "button_link": "shopify://collections/queen-brandani",
             "button_style_secondary": true
           }
         }
@@ -179,7 +179,7 @@
         "button_BkhTAt"
       ],
       "settings": {
-        "image": "shopify://shop_images/tazzina-caffe-calipso-cipria-set-2-pz-stoneware_1.webp",
+        "image": "shopify://shop_images/brandani-queen-natale-2025.webp",
         "height": "large",
         "desktop_image_width": "large",
         "layout": "image_first",
