@@ -165,7 +165,9 @@
         "column_4KpzJx",
         "column_UGqLCf"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
