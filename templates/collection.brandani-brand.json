@@ -59,7 +59,7 @@
         "buttons_BVVPLR": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "LA Magia della Tavola di Natale Firmata Brandani",
+            "button_label_1": "La Magia della Tavola di Natale Firmata Brandani",
             "button_link_1": "shopify://blogs/apparecchiare-con-stile/la-magia-della-tavola-di-natale-firmata-brandani",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -192,6 +192,53 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "collection_list_3Gba3F": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_nUn7Cx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "golden-eye-brandani"
+          }
+        },
+        "featured_collection_cAhjxK": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-schiaccianoci"
+          }
+        },
+        "featured_collection_dzTpHV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "queen-brandani"
+          }
+        },
+        "featured_collection_9hCwA8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-tempo-di-festa"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_nUn7Cx",
+        "featured_collection_cAhjxK",
+        "featured_collection_dzTpHV",
+        "featured_collection_9hCwA8"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "portrait",
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multicolumn_tdPnkh": {
@@ -450,68 +497,6 @@
       "disabled": true,
       "settings": {
         "title": "Stoviglie in Melamina",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "collection_list_3Gba3F": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_dzTpHV": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-chicchi-balocchi"
-          }
-        },
-        "featured_collection_dPB3Ff": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-le-bacche"
-          }
-        },
-        "featured_collection_cAhjxK": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-schiaccianoci"
-          }
-        },
-        "featured_collection_9hCwA8": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-tempo-di-festa"
-          }
-        },
-        "featured_collection_hNdpmA": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "gioco-di-luci-brandani"
-          }
-        },
-        "featured_collection_nUn7Cx": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "golden-eye-brandani"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_dzTpHV",
-        "featured_collection_dPB3Ff",
-        "featured_collection_cAhjxK",
-        "featured_collection_9hCwA8",
-        "featured_collection_hNdpmA",
-        "featured_collection_nUn7Cx"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "Natale 2025",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 6,
@@ -907,12 +892,12 @@
     "multicolumn_gaht3W",
     "image_banner_qREnQ4",
     "image_with_text_Xdma7m",
+    "collection_list_3Gba3F",
     "multicolumn_tdPnkh",
     "collection_list_Uxgnci",
     "collection_list_K8dBJP",
     "collection_list_e9iEX4",
     "collection_list_J3JGfC",
-    "collection_list_3Gba3F",
     "image_with_text_739WN4",
     "multicolumn_Webjiz",
     "collection_list_Qdy6e7",
