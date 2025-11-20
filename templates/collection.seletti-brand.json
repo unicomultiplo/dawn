@@ -85,7 +85,7 @@
       "settings": {
         "image": "shopify://shop_images/natale-con-seletti-natle-idee-regalo-2025.webp",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",

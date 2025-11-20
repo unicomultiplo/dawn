@@ -49,11 +49,11 @@
       "settings": {
         "image": "shopify://shop_images/Come-apparecchiare-la-tavola-natale-2025.webp",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-5152f450-2781-4fd5-8e48-921adbaa0cbc",
+        "color_scheme": "scheme-1464a208-fcdd-4ba9-b1e4-de3cd41e6336",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,

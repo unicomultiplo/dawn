@@ -15,9 +15,116 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "image_banner_MX3QKb": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_FJcnAW": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "buttons_7mCBEf": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "NATALE CON KNINDUSTRIE",
+            "button_link_1": "shopify://collections/natale-con-knindustrie",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_FJcnAW",
+        "buttons_7mCBEf"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Come-apparecchiare-la-tavola-natale-2025.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-1464a208-fcdd-4ba9-b1e4-de3cd41e6336",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "image_banner_FkJ4g6": {
+      "type": "image-banner",
+      "blocks": {
+        "buttons_HXiTBN": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "NATALE CON BITOSSI HOME",
+            "button_link_1": "shopify://collections/bitossi-home-natale",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "buttons_HXiTBN"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/La-tavola-di-Natale-Bitossi.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-1464a208-fcdd-4ba9-b1e4-de3cd41e6336",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner_htDGhd": {
+      "type": "image-banner",
+      "blocks": {
+        "buttons_bYJfMB": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "NATALE CON SELETTI",
+            "button_link_1": "shopify://collections/seletti-natale",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "buttons_bYJfMB"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/natale-con-seletti-natle-idee-regalo-2025.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "image_banner_MX3QKb",
+    "image_banner_FkJ4g6",
+    "image_banner_htDGhd"
   ]
 }
