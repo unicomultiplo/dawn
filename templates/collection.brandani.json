@@ -104,82 +104,82 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_kETqYp": {
+    "multicolumn_kwAqWM": {
       "type": "multicolumn",
       "blocks": {
-        "column_3EddjA": {
+        "column_yL4hCN": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Brandani_logo_77002b05-e6fb-4724-9a22-0cfcd0664f71.jpg",
-            "title": "Esplora il Brand",
+            "image": "shopify://shop_images/brandani-logo-500x500.webp",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": "shopify://collections/brandani"
           }
         },
-        "column_eXCCEb": {
+        "column_QUfw6F": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/servizio-tavola-brandani-sinfonia.webp",
-            "title": "I Servizi da tavola",
+            "image": "shopify://shop_images/Brandani-piatti-natalizi-goldeneye-10.webp",
+            "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/brandani-piatti"
+            "link": "shopify://products/brandani-golden-eye-red-set-piatti-18-pz"
           }
         },
-        "column_R4Hzd6": {
+        "column_HfxhTn": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Brandan-_Free-Batteria-di-pentole-inox-8-pz-21.jpg",
-            "title": "Pentole e Padelle",
+            "image": "shopify://shop_images/brandani-queen-natale-2025.webp",
+            "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/pentole-brandani"
+            "link": "shopify://collections/queen-brandani"
           }
         },
-        "column_WVwjjf": {
+        "column_4KpzJx": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Techno.webp",
-            "title": "Piccoli Elettrodomestici",
+            "image": "shopify://shop_images/Brandani-set-piatti-lo-schiaccianoci-1.webp",
+            "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/techno-brandani"
+            "link": "shopify://collections/brandani-schiaccianoci"
           }
         },
-        "column_TBC6zX": {
+        "column_UGqLCf": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/bomboniere-novita-brandani-unico-e-multiplo.webp",
-            "title": "Bomboniere 2025",
+            "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1024x1024_098fddfb-83c2-4707-9de9-e6676848b06c.jpg",
+            "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://pages/bomboniere-brandani"
+            "link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana"
           }
         }
       },
       "block_order": [
-        "column_3EddjA",
-        "column_eXCCEb",
-        "column_R4Hzd6",
-        "column_WVwjjf",
-        "column_TBC6zX"
+        "column_yL4hCN",
+        "column_QUfw6F",
+        "column_HfxhTn",
+        "column_4KpzJx",
+        "column_UGqLCf"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 5,
         "column_alignment": "center",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-2",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     }
   },
@@ -187,6 +187,6 @@
     "banner",
     "multicolumn_MxLddP",
     "product-grid",
-    "multicolumn_kETqYp"
+    "multicolumn_kwAqWM"
   ]
 }
