@@ -112,8 +112,8 @@
           "settings": {
             "image": "shopify://shop_images/brandani-logo-500x500.webp",
             "title": "",
-            "text": "",
-            "link_label": "Esplora il Brand",
+            "text": "<p><strong>Esplora il Brand </strong></p>",
+            "link_label": "",
             "link": "shopify://collections/brandani"
           }
         },
@@ -122,8 +122,8 @@
           "settings": {
             "image": "shopify://shop_images/Brandani-piatti-natalizi-goldeneye-10.webp",
             "title": "",
-            "text": "",
-            "link_label": "Golden Eye",
+            "text": "<p><strong>Golden Eye</strong></p>",
+            "link_label": "",
             "link": "shopify://products/brandani-golden-eye-red-set-piatti-18-pz"
           }
         },
@@ -132,8 +132,8 @@
           "settings": {
             "image": "shopify://shop_images/brandani-queen-natale-2025.webp",
             "title": "",
-            "text": "",
-            "link_label": "Queen Brandani",
+            "text": "<p><strong>Queen Brandani</strong></p>",
+            "link_label": "",
             "link": "shopify://collections/queen-brandani"
           }
         },
@@ -142,7 +142,7 @@
           "settings": {
             "image": "shopify://shop_images/Brandani-set-piatti-lo-schiaccianoci-1.webp",
             "title": "",
-            "text": "",
+            "text": "<p><strong>Lo Schiaccianoci </strong></p>",
             "link_label": "",
             "link": "shopify://collections/brandani-schiaccianoci"
           }
@@ -152,7 +152,7 @@
           "settings": {
             "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1024x1024_098fddfb-83c2-4707-9de9-e6676848b06c.jpg",
             "title": "",
-            "text": "",
+            "text": "<p><strong>Elfomagia</strong></p>",
             "link_label": "",
             "link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana"
           }
@@ -176,7 +176,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 20,
