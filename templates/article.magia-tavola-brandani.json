@@ -46,16 +46,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><strong>Natale</strong>, una ricorrenza che ogni anno tutti noi, insieme ad amici, familiari, parenti e anche insieme ai nostri dolci animali, viviamo con tanta gioia e spensieratezza.</p><p>Quella leggera magia che respiriamo lungo le strade, nelle piazze accanto ad un albero di natale addobbato e l’inebriante profumo proveniente dalle calde tavolate apparecchiate durante i giorni di festa.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_xEgnq4": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Le <strong>tavole</strong> di ogni casa sono <strong>in festa</strong>, e la bellezza con cui apparecchiamo è un’<strong>espressione di amore e cura</strong>. Come quando nonna selezionava attentamente dalla sua credenza, i piatti e i bicchieri da sfoggiare. E una preziosa tovaglia bianca ricamata, da usare solo per le grandi occasioni.</p><p>Ecco che le <strong>decorazioni</strong> e la qualità gli <strong>oggetti</strong> giocano un ruolo fondamentale. Rivivi il passato e respira la gioia di un sorriso, la magia di un’emozione inaspettata e la convivialità di condividere con i nostri cari pasti sensazioni per rendere indimenticabile anche questo Natale.</p>",
+            "text": "<p><strong>Natale</strong>, una ricorrenza che ogni anno tutti noi, insieme ad amici, familiari, parenti e anche insieme ai nostri dolci animali, viviamo con tanta gioia e spensieratezza.</p><p>Quella leggera magia che respiriamo lungo le strade, nelle piazze accanto ad un albero di natale addobbato e l’inebriante profumo proveniente dalle calde tavolate apparecchiate durante i giorni di festa.<br/><br/>Le <strong>tavole</strong> di ogni casa sono <strong>in festa</strong>, e la bellezza con cui apparecchiamo è un’<strong>espressione di amore e cura</strong>. Come quando nonna selezionava attentamente dalla sua credenza, i piatti e i bicchieri da sfoggiare. E una preziosa tovaglia bianca ricamata, da usare solo per le grandi occasioni.</p><p>Ecco che le <strong>decorazioni</strong> e la qualità gli <strong>oggetti</strong> giocano un ruolo fondamentale. Rivivi il passato e respira la gioia di un sorriso, la magia di un’emozione inaspettata e la convivialità di condividere con i nostri cari pasti sensazioni per rendere indimenticabile anche questo Natale.</p>",
             "link_label": "",
             "link": ""
           }
@@ -72,7 +63,6 @@
       },
       "block_order": [
         "column_hNjmFX",
-        "column_xEgnq4",
         "column_KtdrRC"
       ],
       "name": "t:sections.multicolumn.presets.name",
@@ -174,7 +164,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 20,
-        "padding_bottom": 16
+        "padding_bottom": 20
       }
     },
     "multicolumn_BR6Mpx": {
@@ -217,7 +207,7 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 0,
+        "padding_top": 8,
         "padding_bottom": 0
       }
     },
