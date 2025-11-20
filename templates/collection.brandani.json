@@ -113,7 +113,7 @@
             "image": "shopify://shop_images/brandani-logo-500x500.webp",
             "title": "",
             "text": "",
-            "link_label": "",
+            "link_label": "Esplora il Brand",
             "link": "shopify://collections/brandani"
           }
         },
@@ -123,7 +123,7 @@
             "image": "shopify://shop_images/Brandani-piatti-natalizi-goldeneye-10.webp",
             "title": "",
             "text": "",
-            "link_label": "",
+            "link_label": "Golden Eye",
             "link": "shopify://products/brandani-golden-eye-red-set-piatti-18-pz"
           }
         },
@@ -133,7 +133,7 @@
             "image": "shopify://shop_images/brandani-queen-natale-2025.webp",
             "title": "",
             "text": "",
-            "link_label": "",
+            "link_label": "Queen Brandani",
             "link": "shopify://collections/queen-brandani"
           }
         },
@@ -165,6 +165,7 @@
         "column_4KpzJx",
         "column_UGqLCf"
       ],
+      "custom_css": [],
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -175,7 +176,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 20,
