@@ -571,9 +571,9 @@
         "right_top_image": "shopify://shop_images/materials-knindustrie.webp",
         "right_top_link": "shopify://products/knindustrie-composizione-materials-set-piatti-tavola-4-pezzi",
         "right_top_text": "Materials",
-        "right_bottom_image": "shopify://shop_images/knindustrie-taglieri-e-centrotavola.webp",
-        "right_bottom_link": "shopify://collections/knindustrie-catalogo-prodotti-taglieri-workstation",
-        "right_bottom_text": "Taglieri",
+        "right_bottom_image": "shopify://shop_images/bricklane-knindustrie-tavola.webp",
+        "right_bottom_link": "shopify://collections/knindustrie-catalogo-prodotti-piatti",
+        "right_bottom_text": "I Piatti",
         "margin_top": 32
       }
     },
