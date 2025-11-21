@@ -189,6 +189,7 @@
         "column_haG6Nb",
         "column_PFXNne"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: white; text-decoration: none;"
       ],
