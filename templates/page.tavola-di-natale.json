@@ -16,6 +16,60 @@
         "padding_bottom": 28
       }
     },
+    "custom_liquid_HRAg3n": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Natale\">\n  <nav class=\"xmas-quick-links\">\n    <a href=\"https://www.unicoemultiplo.com/collections/seletti-natale\" class=\"button button--primary button--small\">Natale con Seletti</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/bitossi-home-natale\" class=\"button button--primary button--small\">Natale con Bitossi</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/natale-con-knindustrie\" class=\"button button--primary button--small\">Natale con KnIndustrie</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-economiche\" class=\"button button--primary button--small\">Idee regalo sotto 50€</a>\n  \n  </nav>\n</div>\n\n<style>\n  .xmas-quick-links {\n    display:flex;\n    flex-wrap:wrap;\n    gap:.5rem;\n    margin:.5rem 0 1rem;\n  }\n  /* Optional: bottoni a tutta larghezza su mobile */\n  @media (max-width: 749px) {\n    .xmas-quick-links a {\n      width: 100%;\n      justify-content: center;\n    }\n  }\n</style>",
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_AX6KKN": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_GqUUMN": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Ogni brand porta con sé uno stile unico, un carattere distintivo e un modo speciale di interpretare la tavola natalizia.<br/>Che tu ami il design contemporaneo, le collezioni artistiche, la tradizione italiana o la creatività più audace, troverai il brand perfetto per raccontare la tua idea di Natale.</p><p>Scopri le nostre selezioni firmate:</p><ul><li><a href=\"/collections/natale-con-knindustrie\" title=\"Natale con KnIndustrie\"><strong>KnIndustrie</strong></a> - eleganza essenziale, materiali professionali, design moderno.<br/></li><li><a href=\"/collections/seletti-natale\" title=\"Natale Con Seletti\"><strong>Seletti</strong></a> - creatività pop, ironia, colore e pezzi iconici che sorprendono.<br/></li><li><a href=\"/collections/bitossi-home-natale\" title=\"Natale Con Bitossi Home\"><strong>Bitossi</strong> </a>- tradizione italiana reinterpretata con stile contemporaneo.<br/></li><li><a href=\"/collections/brandani\" title=\"Brandani\"><strong>Brandani</strong></a> - calore, armonia e dettagli che trasformano ogni tavola in un momento speciale.<br/></li></ul><p>Ogni marchio aggiunge magia, carattere e personalità: scegli quello che più rispecchia il tuo Natale!</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_BzdCFy": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_GqUUMN",
+        "column_BzdCFy"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<strong>I Brand che Fanno la Differenza sulla Tua Tavola</strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "slideshow_Pmtp74": {
       "type": "slideshow",
       "blocks": {
@@ -571,6 +625,8 @@
   },
   "order": [
     "main",
+    "custom_liquid_HRAg3n",
+    "multicolumn_AX6KKN",
     "slideshow_Pmtp74",
     "multicolumn_3qwbGR",
     "multicolumn_LUERjL",
