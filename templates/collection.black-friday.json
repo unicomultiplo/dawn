@@ -235,6 +235,7 @@
         "heading_KJNBNV",
         "buttons_cY6VU3"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/christmas.jpg",
         "image_overlay_opacity": 0,
