@@ -31,6 +31,7 @@
       "blocks": {
         "column_GqUUMN": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "",
             "text": "<p>Ogni brand porta con sé uno stile unico, un carattere distintivo e un modo speciale di interpretare la tavola natalizia.<br/>Che tu ami il design contemporaneo, le collezioni artistiche, la tradizione italiana o la creatività più audace, troverai il brand perfetto per raccontare la tua idea di Natale.</p><p>Scopri le nostre selezioni firmate:</p><ul><li><a href=\"/collections/natale-con-knindustrie\" title=\"Natale con KnIndustrie\"><strong>KnIndustrie</strong></a> - eleganza essenziale, materiali professionali, design moderno.<br/></li><li><a href=\"/collections/seletti-natale\" title=\"Natale Con Seletti\"><strong>Seletti</strong></a> - creatività pop, ironia, colore e pezzi iconici che sorprendono.<br/></li><li><a href=\"/collections/bitossi-home-natale\" title=\"Natale Con Bitossi Home\"><strong>Bitossi</strong> </a>- tradizione italiana reinterpretata con stile contemporaneo.<br/></li><li><a href=\"/collections/brandani\" title=\"Brandani\"><strong>Brandani</strong></a> - calore, armonia e dettagli che trasformano ogni tavola in un momento speciale.<br/></li></ul><p>Ogni marchio aggiunge magia, carattere e personalità: scegli quello che più rispecchia il tuo Natale!</p>",
@@ -67,7 +68,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "slideshow_Pmtp74": {
@@ -159,13 +160,57 @@
       ],
       "settings": {
         "layout": "grid",
-        "slide_height": "adapt_image",
+        "slide_height": "medium",
         "slider_visual": "numbers",
         "auto_rotate": true,
         "change_slides_speed": 5,
         "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": ""
+      }
+    },
+    "multicolumn_HYwh78": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_yPKXRi": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Ogni brand porta con sé uno stile unico, un carattere distintivo e un modo speciale di interpretare la tavola natalizia.<br/>Che tu ami il design contemporaneo, le collezioni artistiche, la tradizione italiana o la creatività più audace, troverai il brand perfetto per raccontare la tua idea di Natale.</p><p>Scopri le nostre selezioni firmate:</p><ul><li><a href=\"/collections/natale-con-knindustrie\" title=\"Natale con KnIndustrie\"><strong>KnIndustrie</strong></a> - eleganza essenziale, materiali professionali, design moderno.<br/></li><li><a href=\"/collections/seletti-natale\" title=\"Natale Con Seletti\"><strong>Seletti</strong></a> - creatività pop, ironia, colore e pezzi iconici che sorprendono.<br/></li><li><a href=\"/collections/bitossi-home-natale\" title=\"Natale Con Bitossi Home\"><strong>Bitossi</strong> </a>- tradizione italiana reinterpretata con stile contemporaneo.<br/></li><li><a href=\"/collections/brandani\" title=\"Brandani\"><strong>Brandani</strong></a> - calore, armonia e dettagli che trasformano ogni tavola in un momento speciale.<br/></li></ul><p>Ogni marchio aggiunge magia, carattere e personalità: scegli quello che più rispecchia il tuo Natale!</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_UbKFQY": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_yPKXRi",
+        "column_UbKFQY"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multicolumn_3qwbGR": {
@@ -487,8 +532,8 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
         "padding_top": 20,
         "padding_bottom": 20
       }
@@ -569,7 +614,7 @@
         "button_link": "",
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 20,
         "padding_bottom": 20
       }
@@ -609,13 +654,13 @@
         "buttons_DhPNKW"
       ],
       "settings": {
-        "image": "shopify://shop_images/unico-e-multiplo-natale-2025-3.webp",
+        "image": "shopify://shop_images/idee-regalo-natale-particolari-originali-2025-2.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "small",
+        "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-1464a208-fcdd-4ba9-b1e4-de3cd41e6336",
+        "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
@@ -628,6 +673,7 @@
     "custom_liquid_HRAg3n",
     "multicolumn_AX6KKN",
     "slideshow_Pmtp74",
+    "multicolumn_HYwh78",
     "multicolumn_3qwbGR",
     "multicolumn_LUERjL",
     "multicolumn_N96nym",
