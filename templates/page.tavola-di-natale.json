@@ -22,8 +22,15 @@
         "heading_FJcnAW": {
           "type": "heading",
           "settings": {
-            "heading": "",
+            "heading": "KNINDUSTRIE",
             "heading_size": "h1"
+          }
+        },
+        "text_DMVCMj": {
+          "type": "text",
+          "settings": {
+            "text": "Fornisci ai clienti dettagli sulle immagini del banner o sul contenuto del modello.",
+            "text_style": "body"
           }
         },
         "buttons_7mCBEf": {
@@ -40,6 +47,7 @@
       },
       "block_order": [
         "heading_FJcnAW",
+        "text_DMVCMj",
         "buttons_7mCBEf"
       ],
       "settings": {
@@ -47,7 +55,7 @@
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
-        "show_text_box": false,
+        "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-1464a208-fcdd-4ba9-b1e4-de3cd41e6336",
         "image_behavior": "none",
@@ -86,14 +94,34 @@
             "link": "shopify://collections/knindustrie"
           }
         },
-        "column_ywBPWb": {
+        "column_8U4FAt": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/la-tavola-di-natale.webp",
+            "image": "shopify://shop_images/Tavola-natale-2025.webp",
             "title": "",
-            "text": "<p><strong>Idee regalo</strong><br/>Design che sorprende <strong>→</strong></p>",
+            "text": "<p><strong>I Piatti </strong><br/>Stile essenziale in tavola<strong>→</strong></p>",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/natale-con-knindustrie?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Natale+2025&sort_by=manual"
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-piatti"
+          }
+        },
+        "column_pHA7Ac": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1558-knindustrie-not-ice-cubetti-pietra-ollare.webp",
+            "title": "",
+            "text": "<p><strong>I Bicchieri </strong><br/>Eleganza cristallina<strong> →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
+          }
+        },
+        "column_UjVDTe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-brick-lane-set-24-pz-gold-2.jpg",
+            "title": "",
+            "text": "<p><strong>Le Posate </strong><br/>Minimalismo impeccabile <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-posate"
           }
         },
         "column_MjbY7d": {
@@ -105,45 +133,14 @@
             "link_label": "",
             "link": "shopify://collections/knindustrie-accessori-tavola"
           }
-        },
-        "column_pHA7Ac": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/1558-knindustrie-not-ice-cubetti-pietra-ollare.webp",
-            "title": "",
-            "text": "<p><strong>Bicchieri </strong><br/>Eleganza cristallina<strong> →</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
-          }
-        },
-        "column_8U4FAt": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Tavola-natale-2025.webp",
-            "title": "",
-            "text": "<p><strong>Piatti KnIndustrie</strong><br/>Stile essenziale in tavola<strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-piatti"
-          }
-        },
-        "column_UjVDTe": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-brick-lane-set-24-pz-gold-2.jpg",
-            "title": "",
-            "text": "<p><strong>Posate KnIndustrie</strong><br/>Minimalismo impeccabile <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-posate"
-          }
         }
       },
       "block_order": [
         "column_PXP8Vc",
-        "column_ywBPWb",
-        "column_MjbY7d",
-        "column_pHA7Ac",
         "column_8U4FAt",
-        "column_UjVDTe"
+        "column_pHA7Ac",
+        "column_UjVDTe",
+        "column_MjbY7d"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -153,7 +150,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "portrait",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
@@ -168,6 +165,20 @@
     "image_banner_FkJ4g6": {
       "type": "image-banner",
       "blocks": {
+        "heading_bqMa7j": {
+          "type": "heading",
+          "settings": {
+            "heading": "BITOSSI HOME",
+            "heading_size": "h1"
+          }
+        },
+        "text_VYTYth": {
+          "type": "text",
+          "settings": {
+            "text": "Fornisci ai clienti dettagli sulle immagini del banner o sul contenuto del modello.",
+            "text_style": "body"
+          }
+        },
         "buttons_HXiTBN": {
           "type": "buttons",
           "settings": {
@@ -181,6 +192,8 @@
         }
       },
       "block_order": [
+        "heading_bqMa7j",
+        "text_VYTYth",
         "buttons_HXiTBN"
       ],
       "settings": {
@@ -188,13 +201,33 @@
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
-        "show_text_box": false,
+        "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-1464a208-fcdd-4ba9-b1e4-de3cd41e6336",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "dual_images_eJ78Rk": {
+      "type": "dual-images",
+      "custom_css": [
+        "image.text {color: #000;}"
+      ],
+      "settings": {
+        "section_height": 1000,
+        "image_padding": 10,
+        "left_image": "shopify://shop_images/natale-bitossi-il_frutto_della-passione.webp",
+        "left_link": "shopify://collections/bitossi-home-il-frutto-della-passione-bitossi-home",
+        "left_text": "Il Frutto della Passione",
+        "right_top_image": "shopify://shop_images/botanica-natale-bitossi-home.webp",
+        "right_top_link": "shopify://collections/bitossi-home-botanica",
+        "right_top_text": "Piatti Botanica",
+        "right_bottom_image": "shopify://shop_images/tavola_scomposta-natale-bitossi.webp",
+        "right_bottom_link": "shopify://collections/bitossi-home-funky-table-tavola-scomposta",
+        "right_bottom_text": "La Tavola Scomposta",
+        "margin_top": 32
       }
     },
     "multicolumn_N96nym": {
@@ -249,16 +282,6 @@
             "link_label": "",
             "link": "shopify://collections/bitossi-home-abracadabra"
           }
-        },
-        "column_7z8pmG": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/botanica-bitossi-home-natale.webp",
-            "title": "",
-            "text": "<p><strong>Botanica<br/></strong>La tavola fiorisce →</p>",
-            "link_label": "",
-            "link": "shopify://collections/bitossi-home-botanica"
-          }
         }
       },
       "block_order": [
@@ -266,8 +289,7 @@
         "column_qQ6Hzt",
         "column_aFwdYH",
         "column_AhgtAj",
-        "column_cRXjUd",
-        "column_7z8pmG"
+        "column_cRXjUd"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -277,7 +299,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
@@ -289,23 +311,71 @@
         "padding_bottom": 20
       }
     },
-    "dual_images_eJ78Rk": {
+    "image_banner_htDGhd": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_tcibEK": {
+          "type": "heading",
+          "settings": {
+            "heading": "SELETTI",
+            "heading_size": "h1"
+          }
+        },
+        "text_RfDM6n": {
+          "type": "text",
+          "settings": {
+            "text": "Fornisci ai clienti dettagli sulle immagini del banner o sul contenuto del modello.",
+            "text_style": "body"
+          }
+        },
+        "buttons_bYJfMB": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "NATALE CON SELETTI",
+            "button_link_1": "shopify://collections/seletti-natale",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_tcibEK",
+        "text_RfDM6n",
+        "buttons_bYJfMB"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/natale-con-seletti-natle-idee-regalo-2025.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-1464a208-fcdd-4ba9-b1e4-de3cd41e6336",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "dual_images_4fimYm": {
       "type": "dual-images",
       "custom_css": [
-        "image.text {color: #000;}"
+        "a {text-decoration-color: black;}"
       ],
       "settings": {
         "section_height": 1000,
-        "image_padding": 10,
-        "left_image": "shopify://shop_images/natale-bitossi-il_frutto_della-passione.webp",
-        "left_link": "shopify://collections/bitossi-home-il-frutto-della-passione-bitossi-home",
-        "left_text": "Il Frutto della Passione",
-        "right_top_image": "shopify://shop_images/botanica-natale-bitossi-home.webp",
-        "right_top_link": "shopify://collections/bitossi-home-botanica",
-        "right_top_text": "Piatti Botanica",
-        "right_bottom_image": "shopify://shop_images/tavola_scomposta-natale-bitossi.webp",
-        "right_bottom_link": "shopify://collections/bitossi-home-funky-table-tavola-scomposta",
-        "right_bottom_text": "La Tavola Scomposta",
+        "image_padding": 14,
+        "left_image": "shopify://shop_images/Natale-con-i-piatti-Seletti-Hybrid.webp",
+        "left_link": "shopify://collections/seletti-hybrid-piatti",
+        "left_text": "Piatti Hybrid",
+        "right_top_image": "shopify://shop_images/Natale-con-Seletti.webp",
+        "right_top_link": "shopify://collections/seletti-catalogo-prodotti-seletti-kintsugi-piatti",
+        "right_top_text": "Piatti Kintsugi",
+        "right_bottom_image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-2.webp",
+        "right_bottom_link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid",
+        "right_bottom_text": "Piatti Classics on Acid",
         "margin_top": 32
       }
     },
@@ -320,56 +390,6 @@
             "text": "<p><strong>Esplora <br/></strong>Tutte le collezioni <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/seletti"
-          }
-        },
-        "column_qzxwMt": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-toiletpaper-jewels-collection.webp",
-            "title": "",
-            "text": "<p><strong>Toiletpaper Jewels</strong><br/>L’irriverenza da indossare<strong> →</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/seletti-toiletpaper-jewels"
-          }
-        },
-        "column_gVLbe6": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-2.webp",
-            "title": "",
-            "text": "<p><strong>Classic on Acid</strong></p><p>La tavola distorta<strong> →</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid"
-          }
-        },
-        "column_jkWw8q": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Brainwash-Seletti.webp",
-            "title": "",
-            "text": "<p><strong>Brainwash</strong></p><p>Per veri pensatori <strong>→</strong><br/></p>",
-            "link_label": "",
-            "link": "shopify://collections/brainwash-seletti"
-          }
-        },
-        "column_6GmLDx": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/LOOK_AT_THEM_REFLECTING_EYES_ROMANO_GHISALBERTI.webp",
-            "title": "",
-            "text": "<p><strong>Liberty Mirrors </strong></p><p>Riflessi fuori dal comune <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/specchi-seletti"
-          }
-        },
-        "column_gEQya6": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Love-in-Bloom-Seletti_196422cc-27a4-45b1-8a92-bd393047e649.webp",
-            "title": "",
-            "text": "<p><strong>Love in Bloom</strong></p><p>Romanticismo Pop <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/love-in-bloom-seletti"
           }
         },
         "column_tQY4Yt": {
@@ -415,11 +435,6 @@
       },
       "block_order": [
         "column_rrPFpQ",
-        "column_qzxwMt",
-        "column_gVLbe6",
-        "column_jkWw8q",
-        "column_6GmLDx",
-        "column_gEQya6",
         "column_tQY4Yt",
         "column_6WhiKM",
         "column_WCQVJQ",
@@ -445,14 +460,28 @@
         "padding_bottom": 20
       }
     },
-    "image_banner_htDGhd": {
+    "image_banner_LJ9HcL": {
       "type": "image-banner",
       "blocks": {
-        "buttons_bYJfMB": {
+        "heading_m4g8kJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "BRANDANI",
+            "heading_size": "h1"
+          }
+        },
+        "text_MrH4an": {
+          "type": "text",
+          "settings": {
+            "text": "Fornisci ai clienti dettagli sulle immagini del banner o sul contenuto del modello.",
+            "text_style": "body"
+          }
+        },
+        "buttons_DhPNKW": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "NATALE CON SELETTI",
-            "button_link_1": "shopify://collections/seletti-natale",
+            "button_label_1": "La Magia della Tavola di Natale Firmata Brandani",
+            "button_link_1": "shopify://blogs/apparecchiare-con-stile/la-magia-della-tavola-di-natale-firmata-brandani",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -461,40 +490,22 @@
         }
       },
       "block_order": [
-        "buttons_bYJfMB"
+        "heading_m4g8kJ",
+        "text_MrH4an",
+        "buttons_DhPNKW"
       ],
       "settings": {
-        "image": "shopify://shop_images/natale-con-seletti-natle-idee-regalo-2025.webp",
+        "image": "shopify://shop_images/Brandani-set-piatti-lo-schiaccianoci_3a280942-7a53-4b17-9132-d9422efb316e.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
-        "show_text_box": false,
+        "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-1464a208-fcdd-4ba9-b1e4-de3cd41e6336",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
-    "dual_images_4fimYm": {
-      "type": "dual-images",
-      "custom_css": [
-        "a {text-decoration-color: black;}"
-      ],
-      "settings": {
-        "section_height": 1000,
-        "image_padding": 14,
-        "left_image": "shopify://shop_images/Natale-con-i-piatti-Seletti-Hybrid.webp",
-        "left_link": "shopify://collections/seletti-hybrid-piatti",
-        "left_text": "Piatti Hybrid",
-        "right_top_image": "shopify://shop_images/Natale-con-Seletti.webp",
-        "right_top_link": "shopify://collections/seletti-catalogo-prodotti-seletti-kintsugi-piatti",
-        "right_top_text": "Piatti Kintsugi",
-        "right_bottom_image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-2.webp",
-        "right_bottom_link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid",
-        "right_bottom_text": "Piatti Classics on Acid",
-        "margin_top": 32
+        "show_text_below": true
       }
     }
   },
@@ -508,6 +519,7 @@
     "multicolumn_N96nym",
     "image_banner_htDGhd",
     "dual_images_4fimYm",
-    "multicolumn_6HVXwC"
+    "multicolumn_6HVXwC",
+    "image_banner_LJ9HcL"
   ]
 }
