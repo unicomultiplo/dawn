@@ -20,7 +20,7 @@
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Natale\">\n  <nav class=\"xmas-quick-links\">\n    <a href=\"https://www.unicoemultiplo.com/collections/seletti-natale\" class=\"button button--primary button--small\">Natale con Seletti</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/bitossi-home-natale\" class=\"button button--primary button--small\">Natale con Bitossi</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/natale-con-knindustrie\" class=\"button button--primary button--small\">Natale con KnIndustrie</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-economiche\" class=\"button button--primary button--small\">Idee regalo sotto 50€</a>\n  \n  </nav>\n</div>\n\n<style>\n  .xmas-quick-links {\n    display:flex;\n    flex-wrap:wrap;\n    gap:.5rem;\n    margin:.5rem 0 1rem;\n  }\n  /* Optional: bottoni a tutta larghezza su mobile */\n  @media (max-width: 749px) {\n    .xmas-quick-links a {\n      width: 100%;\n      justify-content: center;\n    }\n  }\n</style>",
+        "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Natale\">\n  <nav class=\"xmas-quick-links\">\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti\" class=\"button button--primary button--small\">I Piatti</a>\n    <a href=\"hhttps://www.unicoemultiplo.com/collections/cucina-e-tavola-bicchieri-e-calici\" class=\"button button--primary button--small\">Bicchieri e Calici</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-posate\" class=\"button button--primary button--small\">Le Posate</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-centrotavola-e-alzate\" class=\"button button--primary button--small\">Centrotavola e Alzate</a>\n   <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-vassoi-e-piatti-portata\" class=\"button button--primary button--small\">Piatti da Portata</a>\n     <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-tovaglie-e-tovagliette\" class=\"button button--primary button--small\">Tovagliette e Sottopiatti</a>\n  </nav>\n</div>\n\n<style>\n  .xmas-quick-links {\n    display:flex;\n    flex-wrap:wrap;\n    gap:.5rem;\n    margin:.5rem 0 1rem;\n  }\n  /* Optional: bottoni a tutta larghezza su mobile */\n  @media (max-width: 749px) {\n    .xmas-quick-links a {\n      width: 100%;\n      justify-content: center;\n    }\n  }\n</style>",
         "color_scheme": "scheme-1",
         "padding_top": 0,
         "padding_bottom": 0
@@ -29,15 +29,6 @@
     "multicolumn_AX6KKN": {
       "type": "multicolumn",
       "blocks": {
-        "column_BzdCFy": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_GqUUMN": {
           "type": "column",
           "settings": {
@@ -46,11 +37,20 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_BzdCFy": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "column_BzdCFy",
-        "column_GqUUMN"
+        "column_GqUUMN",
+        "column_BzdCFy"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -171,6 +171,15 @@
     "multicolumn_VYUhxf": {
       "type": "multicolumn",
       "blocks": {
+        "column_hURDYm": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Eleganza essenziale, materiali professionali, design moderno.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_JUDzUh": {
           "type": "column",
           "settings": {
@@ -179,29 +188,20 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_hURDYm": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>KnIndustrie</strong> - Eleganza essenziale",
-            "text": "<p>Eleganza essenziale, materiali professionali, design moderno.</p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "column_JUDzUh",
-        "column_hURDYm"
+        "column_hURDYm",
+        "column_JUDzUh"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "",
+        "title": "<strong>KnIndustrie</strong>",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
-        "column_alignment": "center",
+        "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
@@ -296,6 +296,15 @@
     "multicolumn_66fL8Q": {
       "type": "multicolumn",
       "blocks": {
+        "column_6J4KXW": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Tradizione italiana reinterpretata con stile contemporaneo.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_eCeKmq": {
           "type": "column",
           "settings": {
@@ -304,29 +313,20 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_6J4KXW": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Bitossi Home</strong>",
-            "text": "<p>Tradizione italiana reinterpretata con stile contemporaneo.</p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "column_eCeKmq",
-        "column_6J4KXW"
+        "column_6J4KXW",
+        "column_eCeKmq"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "",
+        "title": "<strong>Bitossi Home</strong>",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
-        "column_alignment": "center",
+        "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
@@ -503,6 +503,15 @@
     "multicolumn_zGeeUi": {
       "type": "multicolumn",
       "blocks": {
+        "column_WfWRGX": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Creatività pop, ironia, colore e pezzi iconici che sorprendono.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_dRGCQN": {
           "type": "column",
           "settings": {
@@ -511,24 +520,15 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_WfWRGX": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Seletti</strong>",
-            "text": "<p>Creatività pop, ironia, colore e pezzi iconici che sorprendono.</p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "column_dRGCQN",
-        "column_WfWRGX"
+        "column_WfWRGX",
+        "column_dRGCQN"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "",
+        "title": "<strong>Seletti</strong>",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -628,6 +628,15 @@
     "multicolumn_VrqCpb": {
       "type": "multicolumn",
       "blocks": {
+        "column_zLfb6C": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Calore, armonia e dettagli che trasformano ogni tavola in un momento speciale.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_CeeMWi": {
           "type": "column",
           "settings": {
@@ -636,24 +645,15 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_zLfb6C": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Brandani Gift Group</strong>",
-            "text": "<p>Calore, armonia e dettagli che trasformano ogni tavola in un momento speciale.</p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "column_CeeMWi",
-        "column_zLfb6C"
+        "column_zLfb6C",
+        "column_CeeMWi"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "",
+        "title": "<strong>Brandani Gift Group</strong>",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -715,7 +715,7 @@
         "column_CYVrPM": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Brandani_logo_77002b05-e6fb-4724-9a22-0cfcd0664f71.jpg",
+            "image": "shopify://shop_images/brandani-logo-500x500.webp",
             "title": "",
             "text": "<p><strong>Esplora <br/></strong>Tutte le collezioni <strong>→</strong></p>",
             "link_label": "",
@@ -737,7 +737,7 @@
         "title": "",
         "heading_size": "h2",
         "image_width": "full",
-        "image_ratio": "square",
+        "image_ratio": "portrait",
         "columns_desktop": 5,
         "column_alignment": "center",
         "background_style": "primary",
