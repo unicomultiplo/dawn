@@ -53,6 +53,7 @@
         "column_GqUUMN",
         "column_BzdCFy"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "I Brand che Fanno la Differenza sulla Tua Tavola",
@@ -197,8 +198,8 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "",
-        "heading_size": "h1",
+        "title": "<strong>I Brand che Fanno la Differenza sulla Tua Tavola</strong>",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
