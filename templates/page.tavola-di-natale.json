@@ -29,16 +29,6 @@
     "multicolumn_AX6KKN": {
       "type": "multicolumn",
       "blocks": {
-        "column_GqUUMN": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "text": "<p>Ogni brand porta con sé uno stile unico, un carattere distintivo e un modo speciale di interpretare la tavola natalizia.<br/>Che tu ami il design contemporaneo, le collezioni artistiche, la tradizione italiana o la creatività più audace, troverai il brand perfetto per raccontare la tua idea di Natale.</p><p>Scopri le nostre selezioni firmate:</p><ul><li><a href=\"/collections/natale-con-knindustrie\" title=\"Natale con KnIndustrie\"><strong>KnIndustrie</strong></a> - eleganza essenziale, materiali professionali, design moderno.<br/></li><li><a href=\"/collections/seletti-natale\" title=\"Natale Con Seletti\"><strong>Seletti</strong></a> - creatività pop, ironia, colore e pezzi iconici che sorprendono.<br/></li><li><a href=\"/collections/bitossi-home-natale\" title=\"Natale Con Bitossi Home\"><strong>Bitossi</strong> </a>- tradizione italiana reinterpretata con stile contemporaneo.<br/></li><li><a href=\"/collections/brandani\" title=\"Brandani\"><strong>Brandani</strong></a> - calore, armonia e dettagli che trasformano ogni tavola in un momento speciale.<br/></li></ul><p>Ogni marchio aggiunge magia, carattere e personalità: scegli quello che più rispecchia il tuo Natale!</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_BzdCFy": {
           "type": "column",
           "settings": {
@@ -47,13 +37,21 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_GqUUMN": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Ogni brand porta con sé uno stile unico, un carattere distintivo e un modo speciale di interpretare la tavola natalizia.<br/>Che tu ami il design contemporaneo, le collezioni artistiche, la tradizione italiana o la creatività più audace, troverai il brand perfetto per raccontare la tua idea di Natale.</p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "column_GqUUMN",
-        "column_BzdCFy"
+        "column_BzdCFy",
+        "column_GqUUMN"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "I Brand che Fanno la Differenza sulla Tua Tavola",
@@ -170,19 +168,10 @@
         "accessibility_info": ""
       }
     },
-    "multicolumn_HYwh78": {
+    "multicolumn_VYUhxf": {
       "type": "multicolumn",
       "blocks": {
-        "column_yPKXRi": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Ogni brand porta con sé uno stile unico, un carattere distintivo e un modo speciale di interpretare la tavola natalizia.<br/>Che tu ami il design contemporaneo, le collezioni artistiche, la tradizione italiana o la creatività più audace, troverai il brand perfetto per raccontare la tua idea di Natale.</p><p>Scopri le nostre selezioni firmate:</p><ul><li><a href=\"/collections/natale-con-knindustrie\" title=\"Natale con KnIndustrie\"><strong>KnIndustrie</strong></a> - eleganza essenziale, materiali professionali, design moderno.<br/></li><li><a href=\"/collections/seletti-natale\" title=\"Natale Con Seletti\"><strong>Seletti</strong></a> - creatività pop, ironia, colore e pezzi iconici che sorprendono.<br/></li><li><a href=\"/collections/bitossi-home-natale\" title=\"Natale Con Bitossi Home\"><strong>Bitossi</strong> </a>- tradizione italiana reinterpretata con stile contemporaneo.<br/></li><li><a href=\"/collections/brandani\" title=\"Brandani\"><strong>Brandani</strong></a> - calore, armonia e dettagli che trasformano ogni tavola in un momento speciale.<br/></li></ul><p>Ogni marchio aggiunge magia, carattere e personalità: scegli quello che più rispecchia il tuo Natale!</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_UbKFQY": {
+        "column_JUDzUh": {
           "type": "column",
           "settings": {
             "title": "",
@@ -190,15 +179,24 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_hURDYm": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>KnIndustrie</strong> - Eleganza essenziale",
+            "text": "<p>Eleganza essenziale, materiali professionali, design moderno.</p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "column_yPKXRi",
-        "column_UbKFQY"
+        "column_JUDzUh",
+        "column_hURDYm"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>I Brand che Fanno la Differenza sulla Tua Tavola</strong>",
+        "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -279,7 +277,7 @@
         "a {color: black; text-decoration: none;}"
       ],
       "settings": {
-        "title": "<strong>KnIndustrie</strong> - Eleganza essenziale",
+        "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "portrait",
@@ -291,8 +289,52 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 20,
+        "padding_top": 0,
         "padding_bottom": 20
+      }
+    },
+    "multicolumn_66fL8Q": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_eCeKmq": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6J4KXW": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Bitossi Home</strong>",
+            "text": "<p>Tradizione italiana reinterpretata con stile contemporaneo.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_eCeKmq",
+        "column_6J4KXW"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multicolumn_LUERjL": {
@@ -442,7 +484,7 @@
         "a {color: black; text-decoration: none;}"
       ],
       "settings": {
-        "title": "<strong>Bitossi</strong> - Tradizione contemporanea",
+        "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "portrait",
@@ -454,8 +496,52 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 20,
+        "padding_top": 0,
         "padding_bottom": 20
+      }
+    },
+    "multicolumn_zGeeUi": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_dRGCQN": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_WfWRGX": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Seletti</strong>",
+            "text": "<p>Creatività pop, ironia, colore e pezzi iconici che sorprendono.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_dRGCQN",
+        "column_WfWRGX"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multicolumn_6HVXwC": {
@@ -523,7 +609,7 @@
         "a {color: black; text-decoration: none;}"
       ],
       "settings": {
-        "title": "<strong>Seletti</strong> - Creatività pop",
+        "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "portrait",
@@ -535,8 +621,52 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 20,
+        "padding_top": 0,
         "padding_bottom": 20
+      }
+    },
+    "multicolumn_VrqCpb": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_CeeMWi": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_zLfb6C": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Brandani Gift Group</strong>",
+            "text": "<p>Calore, armonia e dettagli che trasformano ogni tavola in un momento speciale.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_CeeMWi",
+        "column_zLfb6C"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multicolumn_TCkpKH": {
@@ -604,7 +734,7 @@
         "a {color: black; text-decoration: none;}"
       ],
       "settings": {
-        "title": "<strong>Brandani</strong> - Calore, armonia e dettagli",
+        "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
@@ -616,7 +746,7 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 20,
+        "padding_top": 0,
         "padding_bottom": 20
       }
     },
@@ -674,11 +804,14 @@
     "custom_liquid_HRAg3n",
     "multicolumn_AX6KKN",
     "slideshow_Pmtp74",
-    "multicolumn_HYwh78",
+    "multicolumn_VYUhxf",
     "multicolumn_3qwbGR",
+    "multicolumn_66fL8Q",
     "multicolumn_LUERjL",
     "multicolumn_N96nym",
+    "multicolumn_zGeeUi",
     "multicolumn_6HVXwC",
+    "multicolumn_VrqCpb",
     "multicolumn_TCkpKH",
     "image_banner_LJ9HcL"
   ]
