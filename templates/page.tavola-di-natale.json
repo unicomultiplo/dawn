@@ -117,16 +117,6 @@
     "multicolumn_3qwbGR": {
       "type": "multicolumn",
       "blocks": {
-        "column_PXP8Vc": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Knidustrie_1.webp",
-            "title": "",
-            "text": "<p><strong>Esplora <br/></strong>Tutte le collezioni <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/knindustrie"
-          }
-        },
         "column_8U4FAt": {
           "type": "column",
           "settings": {
@@ -166,15 +156,107 @@
             "link_label": "",
             "link": "shopify://collections/knindustrie-accessori-tavola"
           }
+        },
+        "column_PXP8Vc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Knidustrie_1.webp",
+            "title": "",
+            "text": "<p><strong>Esplora <br/></strong>Tutte le collezioni <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie"
+          }
         }
       },
       "block_order": [
-        "column_PXP8Vc",
         "column_8U4FAt",
         "column_pHA7Ac",
         "column_UjVDTe",
-        "column_MjbY7d"
+        "column_MjbY7d",
+        "column_PXP8Vc"
       ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "<strong>KnIndustrie</strong> - Eleganza essenziale",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "multicolumn_LUERjL": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_WmcggD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Tavola-natale-2025.webp",
+            "title": "",
+            "text": "<p><strong>I Piatti </strong><br/>Stile essenziale in tavola<strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-piatti"
+          }
+        },
+        "column_d46xbc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1558-knindustrie-not-ice-cubetti-pietra-ollare.webp",
+            "title": "",
+            "text": "<p><strong>I Bicchieri </strong><br/>Eleganza cristallina<strong> →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
+          }
+        },
+        "column_XTi6Ph": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-brick-lane-set-24-pz-gold-2.jpg",
+            "title": "",
+            "text": "<p><strong>Le Posate </strong><br/>Minimalismo impeccabile <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-posate"
+          }
+        },
+        "column_L8gQdH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/k7_beatrice_rossetti-knindustrie-idee-natale.webp",
+            "title": "",
+            "text": "<p><strong>Accessori tavola</strong><br/>Dettagli che completano <strong>→</strong><br/></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-accessori-tavola"
+          }
+        },
+        "column_AFitDx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-taglieri-e-centrotavola.webp",
+            "title": "",
+            "text": "<p><strong>I Taglieri<br/></strong>Tutte le collezioni <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie"
+          }
+        }
+      },
+      "block_order": [
+        "column_WmcggD",
+        "column_d46xbc",
+        "column_XTi6Ph",
+        "column_L8gQdH",
+        "column_AFitDx"
+      ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -198,16 +280,6 @@
     "multicolumn_N96nym": {
       "type": "multicolumn",
       "blocks": {
-        "column_rtzCEh": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Bitossi_-logo-250.jpg",
-            "title": "",
-            "text": "<p><strong>Esplora <br/></strong>Tutte le collezioni <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/bitossi-home"
-          }
-        },
         "column_qQ6Hzt": {
           "type": "column",
           "settings": {
@@ -247,30 +319,40 @@
             "link_label": "",
             "link": "shopify://collections/bitossi-home-abracadabra"
           }
+        },
+        "column_rtzCEh": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi_-logo-250.jpg",
+            "title": "",
+            "text": "<p><strong>Esplora <br/></strong>Tutte le collezioni <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home"
+          }
         }
       },
       "block_order": [
-        "column_rtzCEh",
         "column_qQ6Hzt",
         "column_aFwdYH",
         "column_AhgtAj",
-        "column_cRXjUd"
+        "column_cRXjUd",
+        "column_rtzCEh"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
+        "title": "<strong>Bitossi</strong> - Tradizione contemporanea",
+        "heading_size": "h2",
         "image_width": "full",
-        "image_ratio": "square",
+        "image_ratio": "portrait",
         "columns_desktop": 5,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-1",
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 20,
         "padding_bottom": 20
@@ -279,16 +361,6 @@
     "multicolumn_6HVXwC": {
       "type": "multicolumn",
       "blocks": {
-        "column_rrPFpQ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Seletti-logo.jpg",
-            "title": "",
-            "text": "<p><strong>Esplora <br/></strong>Tutte le collezioni <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/seletti"
-          }
-        },
         "column_tQY4Yt": {
           "type": "column",
           "settings": {
@@ -328,21 +400,112 @@
             "link_label": "",
             "link": "shopify://collections/seletti-catalogo-prodotti-seletti-marcantonio-monkey-lamp"
           }
+        },
+        "column_rrPFpQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-logo.jpg",
+            "title": "",
+            "text": "<p><strong>Esplora <br/></strong>Tutte le collezioni <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti"
+          }
         }
       },
       "block_order": [
-        "column_rrPFpQ",
         "column_tQY4Yt",
         "column_6WhiKM",
         "column_WCQVJQ",
-        "column_TfX3in"
+        "column_TfX3in",
+        "column_rrPFpQ"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
+        "title": "<strong>Seletti</strong> - Creatività pop",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "multicolumn_TCkpKH": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_CAUxfk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/queen-brandani-servizio-natale.webp",
+            "title": "",
+            "text": "<p><strong>Circus </strong></p><p>La magia del circo <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/circus-seletti"
+          }
+        },
+        "column_8tYh7h": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brandani-golden-eye-red-set-piatti-18-pz.jpg",
+            "title": "",
+            "text": "<p><strong>I-Wares</strong></p><p>Il \"classico\" Fluo <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-catalogo-prodotti-i-wares"
+          }
+        },
+        "column_3BLDmp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1024x1024_098fddfb-83c2-4707-9de9-e6676848b06c.jpg",
+            "title": "",
+            "text": "<p><strong>Toiletpaper </strong></p><p>Ironia surreale <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-catalogo-prodotti-toiletpaper"
+          }
+        },
+        "column_q8jX7r": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-set-piatti-lo-schiaccianoci-1.webp",
+            "title": "",
+            "text": "<p><strong>Monkey Lamps </strong></p><p>Si arrampicano ovunque <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-catalogo-prodotti-seletti-marcantonio-monkey-lamp"
+          }
+        },
+        "column_CYVrPM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani_logo_77002b05-e6fb-4724-9a22-0cfcd0664f71.jpg",
+            "title": "",
+            "text": "<p><strong>Esplora <br/></strong>Tutte le collezioni <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti"
+          }
+        }
+      },
+      "block_order": [
+        "column_CAUxfk",
+        "column_8tYh7h",
+        "column_3BLDmp",
+        "column_q8jX7r",
+        "column_CYVrPM"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "<strong>Brandani</strong> - Calore, armonia e dettagli",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
         "columns_desktop": 5,
@@ -351,8 +514,8 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 20,
         "padding_bottom": 20
       }
@@ -363,22 +526,22 @@
         "heading_m4g8kJ": {
           "type": "heading",
           "settings": {
-            "heading": "BRANDANI",
+            "heading": "IDEE REGALO",
             "heading_size": "h1"
           }
         },
-        "text_MrH4an": {
+        "text_tkCJCN": {
           "type": "text",
           "settings": {
-            "text": "la bellezza semplice che conquista al primo sguardo",
+            "text": "Natale 2025",
             "text_style": "body"
           }
         },
         "buttons_DhPNKW": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "La Magia della Tavola di Natale Firmata Brandani",
-            "button_link_1": "shopify://blogs/apparecchiare-con-stile/la-magia-della-tavola-di-natale-firmata-brandani",
+            "button_label_1": "Scoprile tutte!",
+            "button_link_1": "shopify://collections/idee-regalo-natale",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -388,11 +551,11 @@
       },
       "block_order": [
         "heading_m4g8kJ",
-        "text_MrH4an",
+        "text_tkCJCN",
         "buttons_DhPNKW"
       ],
       "settings": {
-        "image": "shopify://shop_images/Brandani-set-piatti-lo-schiaccianoci_3a280942-7a53-4b17-9132-d9422efb316e.webp",
+        "image": "shopify://shop_images/unico-e-multiplo-natale-2025-3.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -410,8 +573,10 @@
     "main",
     "slideshow_Pmtp74",
     "multicolumn_3qwbGR",
+    "multicolumn_LUERjL",
     "multicolumn_N96nym",
     "multicolumn_6HVXwC",
+    "multicolumn_TCkpKH",
     "image_banner_LJ9HcL"
   ]
 }
