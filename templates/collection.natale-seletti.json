@@ -810,7 +810,7 @@
         "slide_HFBXrU"
       ],
       "settings": {
-        "layout": "full_bleed",
+        "layout": "grid",
         "slide_height": "small",
         "slider_visual": "numbers",
         "auto_rotate": true,
@@ -834,7 +834,7 @@
     "multicolumn_xAgMMd",
     "dual_images_PgFJyJ",
     "multicolumn_tim83c",
-    "collection_list_iWB7qW",
-    "slideshow_HNxCmk"
+    "slideshow_HNxCmk",
+    "collection_list_iWB7qW"
   ]
 }
