@@ -82,6 +82,10 @@
         "button_JUU7iU",
         "button_wQQEwm"
       ],
+      "custom_css": [
+        ".rich-text__buttons a {background-color: var(--highlight-christmas) !important; color: #fff !important;}",
+        ".rich-text__buttons a:after {box-shadow: none !important;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
