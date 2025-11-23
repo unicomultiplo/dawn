@@ -67,7 +67,8 @@
         ".list-menu__item {font-size: 1.3rem;}",
         ".list-menu__item .icon-caret {top: calc(50% - 0.4rem);}",
         "#HeaderMenu-natale-2025 span,#HeaderMenu-natale-2025 {color: #fff !important; background: #cc0033;}",
-        "#HeaderMenu-natale-2025 span {border-radius: 20px; padding: 6px 15px 4px 15px; margin: -5px;}"
+        "#HeaderMenu-natale-2025 span {border-radius: 20px; padding: 6px 15px 4px 15px; margin: -5px;}",
+        "#HeaderMenu-black-friday span {font-weight: bolder;}"
       ],
       "settings": {
         "logo_position": "top-left",
