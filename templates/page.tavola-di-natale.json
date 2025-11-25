@@ -571,6 +571,7 @@
         "column_WfWRGX",
         "column_dRGCQN"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "<strong>Seletti</strong>",
@@ -650,6 +651,7 @@
         "column_TfX3in",
         "column_rrPFpQ"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
