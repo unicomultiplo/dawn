@@ -220,9 +220,9 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Eleganza essenziale, materiali professionali, design moderno.</p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p>Linee essenziali, materiali professionali e un design contemporaneo che porta in tavola uno stile pulito, minimal e raffinato. Perfetta per chi ama un’estetica moderna e senza tempo.</p>",
+            "link_label": "Scopri la tavola KnIndustrie",
+            "link": "shopify://collections/knindustrie"
           }
         },
         "column_JUDzUh": {
@@ -241,7 +241,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>KnIndustrie</strong>",
+        "title": "<strong>KnIndustrie - </strong>Eleganza Moderna",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -345,9 +345,9 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Tradizione italiana reinterpretata con stile contemporaneo.</p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p>Ceramiche italiane, colori caldi, forme morbide e un fascino intramontabile. La scelta perfetta per chi ama il Natale autentico, elegante e decorativo.</p>",
+            "link_label": "Scopri la tavola Bitossi",
+            "link": "shopify://collections/bitossi-home"
           }
         },
         "column_eCeKmq": {
@@ -366,7 +366,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>Bitossi Home</strong>",
+        "title": "<strong>Bitossi Home</strong> - Tradizione e Arte",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -679,9 +679,9 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Calore, armonia e dettagli che trasformano ogni tavola in un momento speciale.</p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p>Stile italiano, romanticismo e dettagli luminosi: con Brandani la tavola diventa un luogo ricco di emozioni, sorrisi e armonia. Una scelta ideale per un Natale che profuma di casa.</p>",
+            "link_label": "Scopri la tavola Brandani",
+            "link": "shopify://collections/brandani"
           }
         },
         "column_CeeMWi": {
@@ -700,7 +700,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>Brandani Gift Group</strong>",
+        "title": "<strong>Brandani</strong> – Calore e Accoglienza",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -724,9 +724,9 @@
           "settings": {
             "image": "shopify://shop_images/queen-brandani-servizio-natale.webp",
             "title": "",
-            "text": "<p><strong>Circus </strong></p><p>La magia del circo <strong>→</strong></p>",
+            "text": "<p><strong>Queen</strong></p><p>Eleganza italiana <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/circus-seletti"
+            "link": "shopify://collections/queen-brandani"
           }
         },
         "column_8tYh7h": {
@@ -734,9 +734,9 @@
           "settings": {
             "image": "shopify://shop_images/brandani-golden-eye-red-set-piatti-18-pz.jpg",
             "title": "",
-            "text": "<p><strong>I-Wares</strong></p><p>Il \"classico\" Fluo <strong>→</strong></p>",
+            "text": "<p><strong>Golden Eye</strong></p><p>I Colori del Natale <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-i-wares"
+            "link": "shopify://collections/golden-eye-brandani"
           }
         },
         "column_3BLDmp": {
@@ -744,9 +744,9 @@
           "settings": {
             "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1024x1024_098fddfb-83c2-4707-9de9-e6676848b06c.jpg",
             "title": "",
-            "text": "<p><strong>Toiletpaper </strong></p><p>Ironia surreale <strong>→</strong></p>",
+            "text": "<p><strong>Elfomagia</strong></p><p>Magia in tavola <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-toiletpaper"
+            "link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana"
           }
         },
         "column_q8jX7r": {
@@ -754,9 +754,9 @@
           "settings": {
             "image": "shopify://shop_images/Brandani-set-piatti-lo-schiaccianoci-1.webp",
             "title": "",
-            "text": "<p><strong>Monkey Lamps </strong></p><p>Si arrampicano ovunque <strong>→</strong></p>",
+            "text": "<p><strong>Lo Schiaccianoci</strong></p><p>Atmosfera perfetta <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-seletti-marcantonio-monkey-lamp"
+            "link": "shopify://collections/brandani-schiaccianoci"
           }
         },
         "column_CYVrPM": {
@@ -766,7 +766,7 @@
             "title": "",
             "text": "<p><strong>Esplora <br/></strong>Tutte le collezioni <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/seletti"
+            "link": "shopify://collections/brandani"
           }
         }
       },
@@ -838,7 +838,7 @@
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
+        "color_scheme": "scheme-eef88823-07c8-4ba9-8e91-b971b0ed9f81",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
