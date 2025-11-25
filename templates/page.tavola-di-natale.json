@@ -382,101 +382,9 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_LUERjL": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_WmcggD": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Tavola-natale-2025.webp",
-            "title": "",
-            "text": "<p><strong>I Piatti </strong><br/>Stile essenziale in tavola<strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-piatti"
-          }
-        },
-        "column_d46xbc": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/1558-knindustrie-not-ice-cubetti-pietra-ollare.webp",
-            "title": "",
-            "text": "<p><strong>I Bicchieri </strong><br/>Eleganza cristallina<strong> →</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
-          }
-        },
-        "column_XTi6Ph": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-brick-lane-set-24-pz-gold-2.jpg",
-            "title": "",
-            "text": "<p><strong>Le Posate </strong><br/>Minimalismo impeccabile <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-posate"
-          }
-        },
-        "column_L8gQdH": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/k7_beatrice_rossetti-knindustrie-idee-natale.webp",
-            "title": "",
-            "text": "<p><strong>Accessori tavola</strong><br/>Dettagli che completano <strong>→</strong><br/></p>",
-            "link_label": "",
-            "link": "shopify://collections/knindustrie-accessori-tavola"
-          }
-        },
-        "column_AFitDx": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-taglieri-e-centrotavola.webp",
-            "title": "",
-            "text": "<p><strong>I Taglieri<br/></strong>Tutte le collezioni <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/knindustrie"
-          }
-        }
-      },
-      "block_order": [
-        "column_WmcggD",
-        "column_d46xbc",
-        "column_XTi6Ph",
-        "column_L8gQdH",
-        "column_AFitDx"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "portrait",
-        "columns_desktop": 5,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
     "multicolumn_N96nym": {
       "type": "multicolumn",
       "blocks": {
-        "column_qQ6Hzt": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/fiocco-bitossi-home-natale.webp",
-            "title": "",
-            "text": "<p><strong>Le Decorazioni<br/></strong>Dettagli wow! →</p>",
-            "link_label": "",
-            "link": "shopify://collections/bitossi-home-le-decorazioni-bitossi-home"
-          }
-        },
         "column_aFwdYH": {
           "type": "column",
           "settings": {
@@ -507,6 +415,16 @@
             "link": "shopify://collections/bitossi-home-abracadabra"
           }
         },
+        "column_qQ6Hzt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/fiocco-bitossi-home-natale.webp",
+            "title": "",
+            "text": "<p><strong>Le Decorazioni<br/></strong>Dettagli wow! →</p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-le-decorazioni-bitossi-home"
+          }
+        },
         "column_rtzCEh": {
           "type": "column",
           "settings": {
@@ -519,10 +437,10 @@
         }
       },
       "block_order": [
-        "column_qQ6Hzt",
         "column_aFwdYH",
         "column_AhgtAj",
         "column_cRXjUd",
+        "column_qQ6Hzt",
         "column_rtzCEh"
       ],
       "custom_css": [
@@ -552,9 +470,9 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Creatività pop, ironia, colore e pezzi iconici che sorprendono.</p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p>Colori vibranti, grafiche sorprendenti e un tocco pop che trasforma la tavola in un vero set scenografico. Ideale per un Natale originale, artistico e fuori dagli schemi.<br/><br/></p>",
+            "link_label": "→ Scopri la tavola Seletti",
+            "link": "shopify://collections/piatti-seletti"
           }
         },
         "column_dRGCQN": {
@@ -571,10 +489,9 @@
         "column_WfWRGX",
         "column_dRGCQN"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>Seletti</strong>",
+        "title": "<strong>Seletti - </strong>Creatività Iconica",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -651,7 +568,6 @@
         "column_TfX3in",
         "column_rrPFpQ"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -855,7 +771,6 @@
     "multicolumn_VYUhxf",
     "multicolumn_3qwbGR",
     "multicolumn_66fL8Q",
-    "multicolumn_LUERjL",
     "multicolumn_N96nym",
     "multicolumn_zGeeUi",
     "multicolumn_6HVXwC",
