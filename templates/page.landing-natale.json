@@ -341,8 +341,8 @@
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
+        "button_label": "La Tavola di Natale → ",
+        "button_link": "shopify://pages/la-tavola-di-natale",
         "color_scheme": "scheme-4",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -356,7 +356,7 @@
         "heading_CKm8qn": {
           "type": "heading",
           "settings": {
-            "heading": "Scopri anche la Tavola di Natale firmata Brandani:",
+            "heading": "",
             "heading_size": "h2"
           }
         }
@@ -382,10 +382,16 @@
             "collection": "queen-brandani"
           }
         },
-        "featured_collection_jYKqyn": {
+        "featured_collection_3E9t9j": {
           "type": "featured_collection",
           "settings": {
-            "collection": "brandani-bicchieri-e-calici"
+            "collection": "brandani-schiaccianoci"
+          }
+        },
+        "featured_collection_9mWAAC": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "golden-eye-brandani"
           }
         },
         "featured_collection_q4DNny": {
@@ -394,38 +400,25 @@
             "collection": "brandani-posate"
           }
         },
-        "featured_collection_bEGxY3": {
+        "featured_collection_jYKqyn": {
           "type": "featured_collection",
           "settings": {
-            "collection": "brandani-vassoi"
-          }
-        },
-        "featured_collection_3E9t9j": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-antipastiere"
-          }
-        },
-        "featured_collection_9mWAAC": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-tazze-tazzine-mug"
+            "collection": "brandani-bicchieri-e-calici"
           }
         }
       },
       "block_order": [
         "featured_collection_7AnfGr",
-        "featured_collection_jYKqyn",
-        "featured_collection_q4DNny",
-        "featured_collection_bEGxY3",
         "featured_collection_3E9t9j",
-        "featured_collection_9mWAAC"
+        "featured_collection_9mWAAC",
+        "featured_collection_q4DNny",
+        "featured_collection_jYKqyn"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
+        "title": "Scopri anche la Tavola di Natale firmata Brandani:",
+        "heading_size": "h2",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
         "show_view_all": false,
         "columns_mobile": "2",
