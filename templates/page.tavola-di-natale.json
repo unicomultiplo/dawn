@@ -510,44 +510,44 @@
     "multicolumn_6HVXwC": {
       "type": "multicolumn",
       "blocks": {
+        "column_WCQVJQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Discover_now_our_Hybrid_collection_by_f21b3c46-c7b9-4678-acf9-839ef4db4b0c.webp",
+            "title": "",
+            "text": "<p><strong>Hybrid</strong></p><p>Mix culturale <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-catalogo-prodotti-hybrid"
+          }
+        },
         "column_tQY4Yt": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-piatti-seletti.webp",
+            "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-2_d7b0c753-d33f-4f96-95b0-762e82ef3a61.webp",
             "title": "",
-            "text": "<p><strong>Circus </strong></p><p>La magia del circo <strong>→</strong></p>",
+            "text": "<p><strong>Classic on Acid</strong></p><p>Chiave teatrale <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/circus-seletti"
+            "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid"
           }
         },
         "column_6WhiKM": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-bicchieri-hybrid.webp",
+            "image": "shopify://shop_images/Seletti-Kintsugi.webp",
             "title": "",
-            "text": "<p><strong>I-Wares</strong></p><p>Il \"classico\" Fluo <strong>→</strong></p>",
+            "text": "<p><strong>Kintsugi</strong></p><p>Eleganza dorata <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-i-wares"
-          }
-        },
-        "column_WCQVJQ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/fuorisalone-toiletpaper-home-3-1631038852.webp",
-            "title": "",
-            "text": "<p><strong>Toiletpaper </strong></p><p>Ironia surreale <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-toiletpaper"
+            "link": "shopify://collections/seletti-catalogo-prodotti-kintsugi"
           }
         },
         "column_TfX3in": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-swing-monkey-lamp-lampada-bianca-indoor-1.jpg",
+            "image": "shopify://shop_images/sottopiatti-hybrid-natale-2025-seletti.webp",
             "title": "",
-            "text": "<p><strong>Monkey Lamps </strong></p><p>Si arrampicano ovunque <strong>→</strong></p>",
+            "text": "<p><strong>Sottopiatti</strong></p><p>Pattern audaci <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-seletti-marcantonio-monkey-lamp"
+            "link": "shopify://collections/tovaglie-tovagliette-e-sottopiatti-seletti"
           }
         },
         "column_rrPFpQ": {
@@ -562,9 +562,9 @@
         }
       },
       "block_order": [
+        "column_WCQVJQ",
         "column_tQY4Yt",
         "column_6WhiKM",
-        "column_WCQVJQ",
         "column_TfX3in",
         "column_rrPFpQ"
       ],
