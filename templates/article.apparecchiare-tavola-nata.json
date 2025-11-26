@@ -287,7 +287,7 @@
         "row_Qbc8RM": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Tavola-natale-2025.webp",
+            "image": "shopify://shop_images/sottopiatti-hybrid-natale-2025-seletti.webp",
             "caption": "",
             "heading": "Tavola di Natale Elegante",
             "text": "<p>Se sei alla ricerca di <strong>idee per una tavola di Natale elegante</strong>, un elemento chiave sono i sottopiatti: carinissima l’idea di arricchire la tavola con dei <a href=\"/collections/cucina-e-tavola-tovaglie-e-tovagliette\" title=\"Tovaglie, Tovagliette e Sottopiatti\"><strong>segnaposto </strong></a>dando quel tocco di cura e di personalità.</p><p>Gioca con il <strong>rosso</strong> e con l’<strong>oro</strong> e utilizza <a href=\"/collections/illuminazione-candelabri-e-candele\" title=\"Candelabri e Candele\"><strong>candele decorative</strong></a><strong> </strong>per donare calore e rendere accogliente la tua tavola. Scegli solo materiali nobili, cerca di evitare la plastica e non utilizzare centrotavola troppo grandi.</p>",
@@ -313,7 +313,7 @@
             "caption": "",
             "heading": "Tavola di Natale Moderna",
             "text": "<p>La tavola moderna è pratica, pulita e raffinata. Se hai un bel tavolo dimentica pure la tovaglia e usa le <a href=\"/collections/cucina-e-tavola-tovaglie-e-tovagliette\" title=\"Tovaglie, Tovagliette e Sottopiatti\"><strong>tovagliette</strong></a>, altrimenti opta per una <strong>tovaglia in lino</strong>, semplice e delicata.</p><p>Scegli materiali nobili come piatti in porcellana, dal design semplice ed essenziale, accostati ad eleganti <strong>posate in oro</strong> e <strong>bicchieri dal design moderno.</strong> Per terminare puoi <strong>decorare la tavola di Natale in stile moderno</strong> con un <a href=\"/collections/illuminazione-candelabri-e-candele\" title=\"Candelabri e Candele\"><strong>centrotavola di candele profumate</strong>,</a> oppure un’idea originalissima sarebbe quella di utilizzare una lanterna.</p>",
-            "button_label": "SCOPRILO",
+            "button_label": "SCOPRILA",
             "button_link": "shopify://collections/cucina-e-tavola-piatti"
           }
         },
@@ -358,11 +358,11 @@
         "column_LJ89XY": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Knindustrie-Lunch.layers.jpg",
+            "image": "shopify://shop_images/bricklane-knindustrie-tavola.webp",
             "title": "",
             "text": "",
-            "link_label": "KNINDUSTRIE LUNCH LAYERS",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-lunch-layers"
+            "link_label": "KNINDUSTRIE REGGIA",
+            "link": "shopify://collections/reggia-knindustrie"
           }
         },
         "column_gmjMjE": {
@@ -408,7 +408,7 @@
         "column_NcHMjt": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/KnIndustrie-Centrotavola.jpg",
+            "image": "shopify://shop_images/alzate-knindustrie.webp",
             "title": "",
             "text": "",
             "link_label": "KNINDUSTRIE CENTROTAVOLA",
