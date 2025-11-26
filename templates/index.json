@@ -338,7 +338,7 @@
         ".multicolumn-list__item:last-child {background: #000; display: flex; flex-direction: column; justify-content: flex-end;}",
         ".multicolumn-list__item:last-child .multicolumn-card {background: transparent;}",
         ".multicolumn-list__item:last-child .multicolumn-card__info a {color: #fff; text-decoration: none;}",
-        ".multicolumn-list__item:last-child .multicolumn-card h3 {color: var(--color-foreground);}",
+        ".multicolumn-list__item:last-child .multicolumn-card h3 {color: var(--color-foreground); font-size: var(--font-size-h2)}",
         ".multicolumn-list__item:last-child .multicolumn-card__info {display: flex; flex-direction: column;}"
       ],
       "settings": {
