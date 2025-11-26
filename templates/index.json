@@ -278,20 +278,20 @@
         "heading_KpdUcP": {
           "type": "heading",
           "settings": {
-            "heading": "Il profumo dell'Autunno da vivere insieme",
+            "heading": "Black Friday senza limiti d’immaginazione",
             "heading_size": "h1"
           }
         },
         "text_g7kVVF": {
           "type": "text",
           "settings": {
-            "text": "<p>L'Autunno è calore, condivisione e piccoli momenti di felicità. Abbiamo trasformato quella sensazione in una fragranza che scalda il cuore e riempie la casa di profumo e di magia.</p>"
+            "text": "<p>Toiletpaper Living apre le porte alla tua creatività: per il Black Friday ogni idea può trasformarsi in qualcosa di unico. Scopri la nostra cassettiera speciale, pensata per dare all’arredo un tocco audace e fuori dagli schemi.</p>"
           }
         },
         "button_EJNjYr": {
           "type": "button",
           "settings": {
-            "button_label": "Very Goods Studio",
+            "button_label": "",
             "button_link": "shopify://collections/very-goods-studio",
             "button_style_secondary": true,
             "button_label_2": "",
@@ -305,7 +305,6 @@
         "text_g7kVVF",
         "button_EJNjYr"
       ],
-      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
@@ -399,7 +398,7 @@
         "heading_size": "h1",
         "desktop_layout": "left",
         "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
+        "card_styles": "none",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
