@@ -83,47 +83,8 @@
         "accessibility_info": "Le nostre offerte"
       }
     },
-    "featured_collection_zEJpm8": {
-      "type": "featured-collection",
-      "disabled": true,
-      "custom_css": [
-        ".media--transparent {background-color: var(--product-background-color);}",
-        ".media--transparent img {mix-blend-mode: multiply;}",
-        ".card__content,.card__information {padding-left: 0px;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "offerte-e-promo",
-        "products_to_show": 10,
-        "columns_desktop": 5,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "scheme-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "featured_collection_6FgbJX": {
       "type": "featured-collection",
-      "custom_css": [
-        ".media--transparent {background-color: var(--product-background-color);}",
-        ".media--transparent img {mix-blend-mode: multiply;}",
-        ".card__content,.card__information {padding-left: 0px;}"
-      ],
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "title": "",
@@ -149,59 +110,6 @@
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "separator_yHaRH3": {
-      "type": "separator",
-      "disabled": true,
-      "custom_css": [],
-      "settings": {
-        "line_thickness": 1
-      }
-    },
-    "rich_text_3eGJVG": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_W3Gywr": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_yfYBkm": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Alla <strong>scoperta della Bone China</strong>, dalle sue origini alla manutenzione perfetta, con consigli per l'acquisto.</p>"
-          }
-        },
-        "button_nRa76D": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Leggi di più!",
-            "button_link": "shopify://pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_W3Gywr",
-        "text_yfYBkm",
-        "button_nRa76D"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 0
       }
     },
     "separator_UazLhC": {
@@ -338,7 +246,7 @@
         ".multicolumn-list__item:last-child {background: #000; display: flex; flex-direction: column; justify-content: flex-end;}",
         ".multicolumn-list__item:last-child .multicolumn-card {background: transparent;}",
         ".multicolumn-list__item:last-child .multicolumn-card__info a {color: #fff; text-decoration: none;}",
-        ".multicolumn-list__item:last-child .multicolumn-card h3 {color: var(--color-foreground); font-size: 2.4rem ;}",
+        ".multicolumn-list__item:last-child .multicolumn-card h3 {color: var(--color-foreground); font-size: 2.4rem;}",
         ".multicolumn-list__item:last-child .multicolumn-card__info {display: flex; flex-direction: column;}"
       ],
       "settings": {
@@ -397,6 +305,7 @@
         "text_g7kVVF",
         "button_EJNjYr"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
@@ -435,6 +344,51 @@
         "image_jyQnUP",
         "product_eAykWe",
         "product_BVWfAx"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".media--transparent img {mix-blend-mode: multiply;}",
+        ".media,.card {background-color: var(--product-background-color);}"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collage_jpUjfm": {
+      "type": "collage",
+      "blocks": {
+        "image_MPiMti": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/seletti-cassiettiera-toiletpaper-promo-black-friday.webp"
+          }
+        },
+        "product_L4gC6j": {
+          "type": "product",
+          "settings": {
+            "product": "5270-seletti-toiletpaper-cassettiera-2-cassetti-serpenti",
+            "second_image": true
+          }
+        },
+        "product_bEL3mt": {
+          "type": "product",
+          "settings": {
+            "product": "seletti-toiletpaper-home-vaso-vetro-cm-15x15-h-30",
+            "second_image": true
+          }
+        }
+      },
+      "block_order": [
+        "image_MPiMti",
+        "product_L4gC6j",
+        "product_bEL3mt"
       ],
       "custom_css": [
         ".media--transparent img {mix-blend-mode: multiply;}",
@@ -1013,16 +967,14 @@
   },
   "order": [
     "slideshow_jWzjzL",
-    "featured_collection_zEJpm8",
     "featured_collection_6FgbJX",
-    "separator_yHaRH3",
-    "rich_text_3eGJVG",
     "separator_UazLhC",
     "multicolumn_9rJCWz",
     "multicolumn_CDwReT",
     "separator_zH6Qpr",
     "rich_text_XcgWmw",
     "collage_dNW4nf",
+    "collage_jpUjfm",
     "separator_jwXVJA",
     "rich_text_7Vggwn",
     "multicolumn_pyNBEg",
