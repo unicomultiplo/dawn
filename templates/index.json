@@ -260,6 +260,7 @@
         "column_RUzwg4",
         "column_qimwBB"
       ],
+      "disabled": true,
       "custom_css": [
         ".multicolumn-list__item:last-child {background: var(--highlight-color); display: flex; flex-direction: column; justify-content: flex-end;}",
         ".multicolumn-list__item:last-child .multicolumn-card {background: transparent;}",
@@ -269,6 +270,79 @@
       ],
       "settings": {
         "title": "La magia del Natale inizia da qui",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_CDwReT": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ydGL4d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/black-friday-2025-seletti-offerte-natale.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending"
+          }
+        },
+        "column_PK7mkT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/black-friday-knindustrie-2025-offerte-natale.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=KnIndustrie&sort_by=title-ascending"
+          }
+        },
+        "column_bWXFh9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/black-friday-2025-brandani-offerte-natale_1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=title-ascending"
+          }
+        },
+        "column_hymapA": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Black Friday Arredo & Design 2025</strong>",
+            "text": "<p><br/>Icone, novità e classici intramontabili a prezzi imperdibili. Non lasciarteli scappare.</p><h3></h3>",
+            "link_label": "Vai alle Offerte",
+            "link": "shopify://collections/black-friday"
+          }
+        }
+      },
+      "block_order": [
+        "column_ydGL4d",
+        "column_PK7mkT",
+        "column_bWXFh9",
+        "column_hymapA"
+      ],
+      "custom_css": [
+        ".multicolumn-list__item:last-child {background: #000; display: flex; flex-direction: column; justify-content: flex-end;}",
+        ".multicolumn-list__item:last-child .multicolumn-card {background: transparent;}",
+        ".multicolumn-list__item:last-child .multicolumn-card__info a {color: #fff; text-decoration: none;}",
+        ".multicolumn-list__item:last-child .multicolumn-card h3 {color: var(--color-foreground);}",
+        ".multicolumn-list__item:last-child .multicolumn-card__info {display: flex; flex-direction: column;}"
+      ],
+      "settings": {
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
@@ -945,6 +1019,7 @@
     "rich_text_3eGJVG",
     "separator_UazLhC",
     "multicolumn_9rJCWz",
+    "multicolumn_CDwReT",
     "separator_zH6Qpr",
     "rich_text_XcgWmw",
     "collage_dNW4nf",

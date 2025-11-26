@@ -62,7 +62,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-        ".mega-menu__list {display: flex; flex-wrap: wrap;}",
+        "obile.mega-menu__list {display: flex; flex-wrap: wrap;}",
         ".mega-menu__list > li {width: 10em;}",
         ".list-menu__item {font-size: 1.3rem;}",
         ".list-menu__item .icon-caret {top: calc(50% - 0.4rem);}",
