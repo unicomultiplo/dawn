@@ -42,6 +42,10 @@
           "type": "qty_disclaimer",
           "settings": {}
         },
+        "glo_color_swatch_variant_image_product_swatches_detail_FpE3Un": {
+          "type": "shopify://apps/globo-color-swatch/blocks/product-swatches-detail/4394f710-096c-4021-bbde-8ebb26057c11",
+          "settings": {}
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
@@ -69,10 +73,6 @@
         },
         "google_youtube_automated_discounts_price_3DxFhU": {
           "type": "shopify://apps/google-youtube/blocks/automated_discounts_price/14ec7bd0-ac77-49a9-9417-90752398bdff",
-          "settings": {}
-        },
-        "glo_color_swatch_variant_image_product_swatches_detail_FpE3Un": {
-          "type": "shopify://apps/globo-color-swatch/blocks/product-swatches-detail/4394f710-096c-4021-bbde-8ebb26057c11",
           "settings": {}
         },
         "glo_color_swatch_variant_image_product_groups_detail_bwq8iX": {
@@ -155,12 +155,12 @@
         "price_XLK3Aj",
         "custom_liquid_W3qmEe",
         "qty_disclaimer_6icb8M",
+        "glo_color_swatch_variant_image_product_swatches_detail_FpE3Un",
         "quantity_selector",
         "variant_picker",
         "buy_buttons",
         "custom_liquid_nm4Apd",
         "google_youtube_automated_discounts_price_3DxFhU",
-        "glo_color_swatch_variant_image_product_swatches_detail_FpE3Un",
         "glo_color_swatch_variant_image_product_groups_detail_bwq8iX",
         "collapsible_tab_zVcJHM",
         "custom_liquid_EJXmHi",
