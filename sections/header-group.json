@@ -21,6 +21,13 @@
             "link": ""
           }
         },
+        "announcement_H9KcM6": {
+          "type": "announcement",
+          "settings": {
+            "text": "Scopri le Idee Regalo Natale 2025!",
+            "link": "shopify://collections/idee-regalo-natale"
+          }
+        },
         "announcement_aPLqRk": {
           "type": "announcement",
           "settings": {
@@ -34,20 +41,13 @@
             "text": "Spedizione gratuita da €59",
             "link": "shopify://policies/shipping-policy"
           }
-        },
-        "announcement_H9KcM6": {
-          "type": "announcement",
-          "settings": {
-            "text": "Scopri la selezione Idee Regalo Natale 2025!",
-            "link": "shopify://collections/idee-regalo-natale"
-          }
         }
       },
       "block_order": [
         "announcement_fjGnw4",
+        "announcement_H9KcM6",
         "announcement_aPLqRk",
-        "announcement_HJUy4B",
-        "announcement_H9KcM6"
+        "announcement_HJUy4B"
       ],
       "settings": {
         "color_scheme": "scheme-1",
