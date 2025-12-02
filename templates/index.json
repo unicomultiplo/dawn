@@ -12,24 +12,6 @@
     "slideshow_jWzjzL": {
       "type": "slideshow",
       "blocks": {
-        "slide_NK9nLH": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/black-friday-2025-offerte-natale.webp",
-            "heading": "<strong>Black Friday 2025</strong>",
-            "heading_size": "h0",
-            "subheading": "Risparmia su brand esclusivi e prodotti selezionati: prezzi straordinari!",
-            "button_label": "Approfitta ora!",
-            "link": "shopify://collections/black-friday",
-            "button_style_secondary": false,
-            "box_align": "middle-left",
-            "show_text_box": false,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_DkdEyL": {
           "type": "slide",
           "settings": {
@@ -68,7 +50,6 @@
         }
       },
       "block_order": [
-        "slide_NK9nLH",
         "slide_DkdEyL",
         "slide_PL8HLH"
       ],
