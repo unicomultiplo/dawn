@@ -320,7 +320,7 @@
         "row_w7bEHm": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Tavola-Natale-Tradizionale-Brandani_1_d27af08e-3e43-4282-9e14-39281e8e85dd.jpg",
+            "image": "shopify://shop_images/Tempodifesta-brandani_2.png",
             "caption": "",
             "heading": "Tavola di Natale Tradizionale",
             "text": "<p>Per una tavola tradizionale scegli un design formale con decorazioni semplici e delicate. Una <strong>tovaglia ben stirata in cotone prezioso</strong> e <strong>tovaglioli rigorosamente rossi</strong>. Scegli un set di piatti abbinati e bicchieri di cristallo o vetro colorato.</p><p>Ottima idea utilizzare posate oro. Come centrotavola puoi optare per la tradizionale ghirlanda Natalizia, candele rosse o, in alternativa, ti consigliamo il nostro cestino intrecciato dal design raffinato.</p>",
@@ -360,49 +360,9 @@
           "settings": {
             "image": "shopify://shop_images/bricklane-knindustrie-tavola.webp",
             "title": "",
-            "text": "",
-            "link_label": "KNINDUSTRIE REGGIA",
+            "text": "<p>KNINDUSTRIE REGGIA</p>",
+            "link_label": "",
             "link": "shopify://collections/reggia-knindustrie"
-          }
-        },
-        "column_gmjMjE": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/bitossi-natale-idee-regalo.webp",
-            "title": "",
-            "text": "",
-            "link_label": "BITOSSI TAVOLA SCOMPOSTA",
-            "link": "shopify://collections/bitossi-home-funky-table-tavola-scomposta"
-          }
-        },
-        "column_JzFpNn": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/hybrid-tavola-natale-seletti.webp",
-            "title": "",
-            "text": "",
-            "link_label": "SELETTI HYBRID",
-            "link": "shopify://collections/seletti-catalogo-prodotti-hybrid"
-          }
-        },
-        "column_QRyCjy": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/natale-bitossi-il_frutto_della-passione_1.webp",
-            "title": "",
-            "text": "",
-            "link_label": "BITOSSI FRUTTO DELLA PASSIONE",
-            "link": "shopify://collections/bitossi-home-il-frutto-della-passione-bitossi-home"
-          }
-        },
-        "column_gcreWb": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brandani-queen-natale-2025.webp",
-            "title": "",
-            "text": "",
-            "link_label": "BRANDANI QUEEN",
-            "link": "shopify://collections/queen-brandani"
           }
         },
         "column_NcHMjt": {
@@ -410,8 +370,8 @@
           "settings": {
             "image": "shopify://shop_images/alzate-knindustrie.webp",
             "title": "",
-            "text": "",
-            "link_label": "KNINDUSTRIE CENTROTAVOLA",
+            "text": "<p>KNINDUSTRIE CENTROTAVOLA</p>",
+            "link_label": "",
             "link": "shopify://collections/centrotavola-gastronomico-knindustrie"
           }
         },
@@ -420,29 +380,39 @@
           "settings": {
             "image": "shopify://shop_images/knindustrie-800-posate-set-24-pezzi-3.webp",
             "title": "",
-            "text": "",
-            "link_label": "KNINDUSTRIE POSATE",
+            "text": "<p>KNINDUSTRIE POSATE</p>",
+            "link_label": "",
             "link": "shopify://collections/knindustrie-catalogo-prodotti-posate"
           }
         },
-        "column_zPyPR6": {
+        "column_gmjMjE": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-2_d7b0c753-d33f-4f96-95b0-762e82ef3a61.webp",
+            "image": "shopify://shop_images/bitossi-natale-idee-regalo.webp",
             "title": "",
-            "text": "",
-            "link_label": "SELETTI ACID",
-            "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid"
+            "text": "<p>BITOSSI TAVOLA SCOMPOSTA</p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-funky-table-tavola-scomposta"
           }
         },
-        "column_KFFxRr": {
+        "column_QRyCjy": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-Kintsugi-1.jpg",
+            "image": "shopify://shop_images/natale-bitossi-il_frutto_della-passione_1.webp",
             "title": "",
-            "text": "",
-            "link_label": "SELETTI KINTSUGI",
-            "link": "shopify://collections/seletti-catalogo-prodotti-kintsugi"
+            "text": "<p>BITOSSI FRUTTO DELLA PASSIONE</p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-il-frutto-della-passione-bitossi-home"
+          }
+        },
+        "column_gcreWb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brandani-queen-natale-2025.webp",
+            "title": "",
+            "text": "<p>BRANDANI QUEEN</p>",
+            "link_label": "",
+            "link": "shopify://collections/queen-brandani"
           }
         },
         "column_wgaWRL": {
@@ -450,23 +420,53 @@
           "settings": {
             "image": "shopify://shop_images/Brandani-set-piatti-lo-schiaccianoci.webp",
             "title": "",
-            "text": "",
-            "link_label": "BRANDANI SCHIACCIANOCI",
+            "text": "<p>BRANDANI SCHIACCIANOCI</p>",
+            "link_label": "",
             "link": "shopify://collections/brandani-schiaccianoci"
+          }
+        },
+        "column_zPyPR6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-2_d7b0c753-d33f-4f96-95b0-762e82ef3a61.webp",
+            "title": "",
+            "text": "<p>SELETTI ACID</p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid"
+          }
+        },
+        "column_JzFpNn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/hybrid-tavola-natale-seletti.webp",
+            "title": "",
+            "text": "<p>SELETTI HYBRID</p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-catalogo-prodotti-hybrid"
+          }
+        },
+        "column_KFFxRr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-Kintsugi-1.jpg",
+            "title": "",
+            "text": "<p>SELETTI KINTSUGI</p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-catalogo-prodotti-kintsugi"
           }
         }
       },
       "block_order": [
         "column_LJ89XY",
-        "column_gmjMjE",
-        "column_JzFpNn",
-        "column_QRyCjy",
-        "column_gcreWb",
         "column_NcHMjt",
         "column_McH8RJ",
+        "column_gmjMjE",
+        "column_QRyCjy",
+        "column_gcreWb",
+        "column_wgaWRL",
         "column_zPyPR6",
-        "column_KFFxRr",
-        "column_wgaWRL"
+        "column_JzFpNn",
+        "column_KFFxRr"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -545,7 +545,7 @@
         "row_trGkxn": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Bicchieri-350x215.png",
+            "image": "shopify://shop_images/knindustrie-lime-lane-tumbler.webp",
             "caption": "",
             "heading": "Bicchieri",
             "text": "<p>Per quanto riguarda i bicchieri, predisponili posizionando il bicchiere dell’acqua a destra del piatto, il calice di vino bianco leggermente a destra del bicchiere dell’acqua e il flute da aperitivo alla sua sinistra. Ricorda di mettere a tavola solo i bicchieri che verranno realmente utilizzati,  ne puoi posizionare al massimo quattro.</p>",
@@ -652,12 +652,12 @@
         "row_gQh3m9": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/BrandaniBatuffoli.png",
+            "image": "shopify://shop_images/Brandani-piatti-natalizi-goldeneye-10.webp",
             "caption": "",
             "heading": "Bianco e oro",
             "text": "<p>Un accostamento che profuma di Natale, il luccichio dell’oro e il candore del bianco ci ricordano le neve e la magia che circonda questo periodo dell’anno.<br/></p>",
-            "button_label": "SCOPRI BATUFFOLI BRANDANI",
-            "button_link": "shopify://products/5163-brandani-batuffoli-set-tavolo-18-pezzi-in-porcellana"
+            "button_label": "SCOPRI GOLDEN EYE",
+            "button_link": "shopify://collections/golden-eye-brandani"
           }
         }
       },
