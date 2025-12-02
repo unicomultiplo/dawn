@@ -360,7 +360,7 @@
           "settings": {
             "image": "shopify://shop_images/bricklane-knindustrie-tavola.webp",
             "title": "",
-            "text": "<p>KNINDUSTRIE REGGIA</p>",
+            "text": "<p>KNINDUSTRIE REGGIA <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/reggia-knindustrie"
           }
@@ -370,7 +370,7 @@
           "settings": {
             "image": "shopify://shop_images/alzate-knindustrie.webp",
             "title": "",
-            "text": "<p>KNINDUSTRIE CENTROTAVOLA</p>",
+            "text": "<p>KNINDUSTRIE CENTROTAVOLA <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/centrotavola-gastronomico-knindustrie"
           }
@@ -380,7 +380,7 @@
           "settings": {
             "image": "shopify://shop_images/knindustrie-800-posate-set-24-pezzi-3.webp",
             "title": "",
-            "text": "<p>KNINDUSTRIE POSATE</p>",
+            "text": "<p>KNINDUSTRIE POSATE <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/knindustrie-catalogo-prodotti-posate"
           }
@@ -390,7 +390,7 @@
           "settings": {
             "image": "shopify://shop_images/bitossi-natale-idee-regalo.webp",
             "title": "",
-            "text": "<p>BITOSSI TAVOLA SCOMPOSTA</p>",
+            "text": "<p>BITOSSI TAVOLA SCOMPOSTA <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/bitossi-home-funky-table-tavola-scomposta"
           }
@@ -400,7 +400,7 @@
           "settings": {
             "image": "shopify://shop_images/natale-bitossi-il_frutto_della-passione_1.webp",
             "title": "",
-            "text": "<p>BITOSSI FRUTTO DELLA PASSIONE</p>",
+            "text": "<p>BITOSSI FRUTTO DELLA PASSIONE <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/bitossi-home-il-frutto-della-passione-bitossi-home"
           }
@@ -410,7 +410,7 @@
           "settings": {
             "image": "shopify://shop_images/brandani-queen-natale-2025.webp",
             "title": "",
-            "text": "<p>BRANDANI QUEEN</p>",
+            "text": "<p>BRANDANI QUEEN <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/queen-brandani"
           }
@@ -420,7 +420,7 @@
           "settings": {
             "image": "shopify://shop_images/Brandani-set-piatti-lo-schiaccianoci.webp",
             "title": "",
-            "text": "<p>BRANDANI SCHIACCIANOCI</p>",
+            "text": "<p>BRANDANI SCHIACCIANOCI <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/brandani-schiaccianoci"
           }
@@ -430,7 +430,7 @@
           "settings": {
             "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-2_d7b0c753-d33f-4f96-95b0-762e82ef3a61.webp",
             "title": "",
-            "text": "<p>SELETTI ACID</p>",
+            "text": "<p>SELETTI ACID <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid"
           }
@@ -440,7 +440,7 @@
           "settings": {
             "image": "shopify://shop_images/hybrid-tavola-natale-seletti.webp",
             "title": "",
-            "text": "<p>SELETTI HYBRID</p>",
+            "text": "<p>SELETTI HYBRID <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/seletti-catalogo-prodotti-hybrid"
           }
@@ -450,7 +450,7 @@
           "settings": {
             "image": "shopify://shop_images/Seletti-Kintsugi-1.jpg",
             "title": "",
-            "text": "<p>SELETTI KINTSUGI</p>",
+            "text": "<p>SELETTI KINTSUGI <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/seletti-catalogo-prodotti-kintsugi"
           }
@@ -740,7 +740,7 @@
             "caption": "",
             "heading": "Tovaglioli e dettagli",
             "text": "<p>Molto in voga per <strong>apparecchiare la tavola la sera di Natale </strong>è l’utilizzo del <strong>nodo</strong>, in questo caso puoi sbizzarrirti inserendo insieme alle tue posate ramoscelli di abete e decori che impreziosiscono la tua mise ne place. </p>",
-            "button_label": "PORTATOVAGLIOLI",
+            "button_label": "KNINDUSTRIE PANECALDO",
             "button_link": "shopify://products/683-knindustrie-panecaldo-cestino-per-il-pane"
           }
         },
@@ -884,13 +884,106 @@
         "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "La Tavola di Natale",
+        "button_label": "La Tavola di Natale →",
         "button_link": "shopify://pages/la-tavola-di-natale",
         "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 0
+      }
+    },
+    "slideshow_eBV6LV": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_Ytz8Eb": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/knIndustrie_Christmas_News_2025_page-0018.webp",
+            "heading": "Natale con KnIndustrie:  scegli la forma che Incanta!",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Scegli KnIndustrie",
+            "link": "shopify://collections/natale-con-knindustrie",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 10,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_phQq8L": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/La-tavola-di-Natale-Bitossi.webp",
+            "heading": "La Tavola di Natale Bitossi Home, l'Oro che Illumina!",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Scoprila Subito",
+            "link": "shopify://collections/bitossi-home-natale",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_gUGiVU": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/natale-con-seletti-natle-idee-regalo-2025.webp",
+            "heading": "Seletti : per la Tua Tavola di Natale, un'eleganza fuori dagli schemi!",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Scoprila Subito",
+            "link": "shopify://collections/piatti-seletti",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_b8kVKt": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/brandani-queen-natale-2025.webp",
+            "heading": "Brandani: la tradizione per la tua Tavola di Natale!",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Scegli Brandani!",
+            "link": "shopify://blogs/apparecchiare-con-stile/la-magia-della-tavola-di-natale-firmata-brandani",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_Ytz8Eb",
+        "slide_phQq8L",
+        "slide_gUGiVU",
+        "slide_b8kVKt"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "medium",
+        "slider_visual": "numbers",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": ""
       }
     },
     "separator_nbNJQV": {
@@ -942,6 +1035,7 @@
     "image_with_text_jEbVKr",
     "multirow_NRXPfV",
     "multicolumn_4gW44i",
+    "slideshow_eBV6LV",
     "separator_nbNJQV",
     "main"
   ]
