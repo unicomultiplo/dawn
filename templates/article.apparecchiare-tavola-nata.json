@@ -657,7 +657,7 @@
             "heading": "Bianco e oro",
             "text": "<p>Un accostamento che profuma di Natale, il luccichio dell’oro e il candore del bianco ci ricordano le neve e la magia che circonda questo periodo dell’anno.<br/></p>",
             "button_label": "SCOPRI GOLDEN EYE",
-            "button_link": "shopify://collections/golden-eye-brandani"
+            "button_link": "shopify://products/brandani-golden-eye-red-set-piatti-18-pz"
           }
         }
       },
@@ -702,8 +702,8 @@
         "button_hUJNnb": {
           "type": "button",
           "settings": {
-            "button_label": "PORTATOVAGLIOLI",
-            "button_link": "shopify://collections/cucina-e-tavola-portatovaglioli",
+            "button_label": "POSATE",
+            "button_link": "shopify://collections/cucina-e-tavola-posate",
             "button_style_secondary": true
           }
         }
@@ -736,12 +736,12 @@
         "row_8dfDDP": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Miho-Uccellino-Portatovaglioli.jpg",
+            "image": "shopify://shop_images/KnIndustrie-portapane-1.webp",
             "caption": "",
             "heading": "Tovaglioli e dettagli",
             "text": "<p>Molto in voga per <strong>apparecchiare la tavola la sera di Natale </strong>è l’utilizzo del <strong>nodo</strong>, in questo caso puoi sbizzarrirti inserendo insieme alle tue posate ramoscelli di abete e decori che impreziosiscono la tua mise ne place. </p>",
             "button_label": "PORTATOVAGLIOLI",
-            "button_link": "shopify://collections/cucina-e-tavola-portatovaglioli"
+            "button_link": "shopify://products/683-knindustrie-panecaldo-cestino-per-il-pane"
           }
         },
         "row_4pzR4k": {
@@ -769,7 +769,7 @@
         "row_xEr3te": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp-Image-2023-12-06-at-08.32.45-1-e1701860548965.jpg",
+            "image": "shopify://shop_images/Seletti-piatti.webp",
             "caption": "",
             "heading": "Piatti a servire",
             "text": "<p>Da collocare al centro del tavolo i piatti di servizio, valuta l’uso di piatti girevoli, molto pratici perchè permettono ai commensali di servirsi con facilità, ed <a href=\"/collections/cucina-e-tavola-centrotavola-e-alzate\" title=\"Centrotavola e Alzate\"><strong>eleganti alzate</strong></a><strong> </strong>con cui servire le portate a decorare la tavola. Non dimenticare i <a href=\"/collections/cucina-e-tavola-piatti-frutta-e-dessert\" title=\"Piatti Dessert e da Frutta\"><strong>piatti per dolce e frutta</strong></a>, indispensabili a Natale!</p>",
@@ -791,7 +791,7 @@
         "row_NWqVxh": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Centrotavola-e-altri-accessori.png",
+            "image": "shopify://shop_images/knindustrie-taglieri-e-centrotavola.webp",
             "caption": "",
             "heading": "Centrotavola, taglieri e altri accessori: sì, ma con attenzione",
             "text": "<p>Se ti stai chiedendo come <strong>addobbare la tua tavola di Natale</strong>, ricorda che una tavola ben curata non è eccessiva, ma delicata ed elegante. Puoi utilizzare centrotavola  di candele profumate,  optare per un bel vaso natalizio con fiori freschi, o qualcosa di più particolare come il nostro cestino intrecciato.</p><p>Con gli accessori è facile strafare, ma non esagerare, ricorda che il troppo è come il poco. Scegli qualcosa di delicato come la nostra ghirlanda decorativa.</p>",
@@ -883,10 +883,10 @@
         "image_ratio": "square",
         "columns_desktop": 4,
         "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
+        "background_style": "primary",
+        "button_label": "La Tavola di Natale",
+        "button_link": "shopify://pages/la-tavola-di-natale",
+        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
