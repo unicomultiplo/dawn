@@ -73,7 +73,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "black-friday",
+        "collection": "idee-regalo-natale",
         "products_to_show": 23,
         "columns_desktop": 6,
         "full_width": true,
@@ -149,7 +149,6 @@
         "column_RUzwg4",
         "column_qimwBB"
       ],
-      "disabled": true,
       "custom_css": [
         ".multicolumn-list__item:last-child {background: var(--highlight-color); display: flex; flex-direction: column; justify-content: flex-end;}",
         ".multicolumn-list__item:last-child .multicolumn-card {background: transparent;}",
@@ -174,126 +173,10 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_CDwReT": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_ydGL4d": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/black-friday-seletti-2025-offerte-natale.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending"
-          }
-        },
-        "column_PK7mkT": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/black-friday-knindustrie-2025-offerte-natale.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=KnIndustrie&sort_by=title-ascending"
-          }
-        },
-        "column_bWXFh9": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/black-friday-2025-brandani-offerte-natale_2.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=title-ascending"
-          }
-        },
-        "column_hymapA": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Black Friday Arredo & Design 2025</strong>",
-            "text": "<p><br/>Icone, novità e classici intramontabili a prezzi imperdibili. Non lasciarteli scappare.</p><h3></h3>",
-            "link_label": "Vai alle Offerte",
-            "link": "shopify://collections/black-friday"
-          }
-        }
-      },
-      "block_order": [
-        "column_ydGL4d",
-        "column_PK7mkT",
-        "column_bWXFh9",
-        "column_hymapA"
-      ],
-      "custom_css": [
-        ".multicolumn-list__item:last-child {background: #000; display: flex; flex-direction: column; justify-content: flex-end;}",
-        ".multicolumn-list__item:last-child .multicolumn-card {background: transparent;}",
-        ".multicolumn-list__item:last-child .multicolumn-card__info a {color: #fff; text-decoration: none;}",
-        ".multicolumn-list__item:last-child .multicolumn-card h3 {color: var(--color-foreground); font-size: 2.4rem;}",
-        ".multicolumn-list__item:last-child .multicolumn-card__info {display: flex; flex-direction: column;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "separator_zH6Qpr": {
       "type": "separator",
       "settings": {
         "line_thickness": 1
-      }
-    },
-    "rich_text_XcgWmw": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_KpdUcP": {
-          "type": "heading",
-          "settings": {
-            "heading": "Black Friday senza limiti d’immaginazione",
-            "heading_size": "h1"
-          }
-        },
-        "text_g7kVVF": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Toiletpaper Living apre le porte alla tua creatività: per il Black Friday ogni idea può trasformarsi in qualcosa di unico. Scopri la nostra cassettiera speciale, pensata per dare all’arredo un tocco audace e fuori dagli schemi.</p>"
-          }
-        },
-        "button_EJNjYr": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "shopify://collections/very-goods-studio",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_KpdUcP",
-        "text_g7kVVF",
-        "button_EJNjYr"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 20
       }
     },
     "collage_dNW4nf": {
@@ -325,7 +208,6 @@
         "product_eAykWe",
         "product_BVWfAx"
       ],
-      "disabled": true,
       "custom_css": [
         ".media--transparent img {mix-blend-mode: multiply;}",
         ".media,.card {background-color: var(--product-background-color);}"
@@ -336,50 +218,6 @@
         "desktop_layout": "left",
         "mobile_layout": "collage",
         "card_styles": "product-card-wrapper",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "collage_jpUjfm": {
-      "type": "collage",
-      "blocks": {
-        "image_MPiMti": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/seletti-cassiettiera-toiletpaper-promo-black-friday.webp"
-          }
-        },
-        "product_L4gC6j": {
-          "type": "product",
-          "settings": {
-            "product": "5270-seletti-toiletpaper-cassettiera-2-cassetti-serpenti",
-            "second_image": true
-          }
-        },
-        "product_bEL3mt": {
-          "type": "product",
-          "settings": {
-            "product": "seletti-toiletpaper-home-vaso-vetro-cm-15x15-h-30",
-            "second_image": true
-          }
-        }
-      },
-      "block_order": [
-        "image_MPiMti",
-        "product_L4gC6j",
-        "product_bEL3mt"
-      ],
-      "custom_css": [
-        ".media--transparent img {mix-blend-mode: multiply;}",
-        ".media,.card {background-color: var(--product-background-color);}"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "none",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
@@ -598,13 +436,6 @@
     },
     "separator_HKUMQy": {
       "type": "separator",
-      "settings": {
-        "line_thickness": 1
-      }
-    },
-    "separator_cV7Bmi": {
-      "type": "separator",
-      "disabled": true,
       "settings": {
         "line_thickness": 1
       }
@@ -950,17 +781,13 @@
     "featured_collection_6FgbJX",
     "separator_UazLhC",
     "multicolumn_9rJCWz",
-    "multicolumn_CDwReT",
     "separator_zH6Qpr",
-    "rich_text_XcgWmw",
     "collage_dNW4nf",
-    "collage_jpUjfm",
     "separator_jwXVJA",
     "rich_text_7Vggwn",
     "multicolumn_pyNBEg",
     "multicolumn_9TN369",
     "separator_HKUMQy",
-    "separator_cV7Bmi",
     "rich_text_3WWRXG",
     "multicolumn_w64iw4",
     "separator_MQPw9D",
