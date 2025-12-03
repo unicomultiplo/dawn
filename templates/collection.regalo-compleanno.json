@@ -139,7 +139,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><strong>Ogni donna è unica</strong>, e anche il suo regalo dovrebbe esserlo.<br/>Il dono giusto nasce da <strong>attenzione, affetto e conoscenza</strong>: valorizza gusti, passioni e piccole abitudini quotidiane, raccontando il legame che vi unisce.<br/>Che si tratti di un <strong>pensiero per un’amica, di un regalo per la mamma o di un gesto d’amore per la tua compagna</strong>, qui trovi ispirazioni adatte a ogni tipo di relazione.</p>",
+            "text": "<p>Ogni compleanno ha un significato diverso a seconda di chi lo festeggia: scegliere con cura permette di trasformare un semplice presente in un gesto autentico, capace di sorprendere, emozionare e restare nel tempo.</p>",
             "link_label": "",
             "link": ""
           }
@@ -151,7 +151,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Idee regalo pensate su misura per lei",
+        "title": "Idee di compleanno pensate per la persona giusta",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -167,100 +167,60 @@
         "padding_bottom": 0
       }
     },
-    "image_with_text_bkAqWb": {
-      "type": "image-with-text",
+    "multicolumn_iPQ3jL": {
+      "type": "multicolumn",
       "blocks": {
-        "heading_DzJgYi": {
-          "type": "heading",
+        "column_eG9HVC": {
+          "type": "column",
           "settings": {
-            "heading": "",
-            "heading_size": "h1"
+            "image": "shopify://shop_images/red-gift-regali-per-lei.jpg",
+            "title": "",
+            "text": "<h3><strong><br/>Regali di compleanno per lei, dall'amica alla sorella<br/></strong></h3><p><br/>Idee pensate per valorizzare il suo stile e la sua personalità: piccoli lussi quotidiani, oggetti curati e dettagli che diventano subito ricordi preziosi.</p>",
+            "link_label": "Idee per Lei",
+            "link": "shopify://collections/idee-regalo-regali-per-lei"
           }
         },
-        "text_beWgtQ": {
-          "type": "text",
+        "column_ddJN3X": {
+          "type": "column",
           "settings": {
-            "text": "<h3><strong>Regali affettuosi per un’amica speciale o una sorella</strong></h3><p>Ci sono regali che sanno far ridere, commuovere o semplicemente dire: <em>“questo è proprio da noi”</em>.<br/>Scegli tra <strong>oggetti ironici, colorati e originali</strong>, perfetti per condividere momenti e ricordi con leggerezza.<br/>Un piccolo pensiero, ma pieno di personalità.<br/></p><h3><strong>Un regalo per la mamma che parli anche un po’ di te</strong></h3><p>Per la mamma, ogni regalo è un modo per dire <em>“grazie”</em>.<br/>Scegli oggetti belli e utili che trasmettono <strong>cura, affetto e attenzione</strong>, come un complemento per la casa, un set per la tavola o un accessorio raffinato che la accompagni ogni giorno. Idee pensate per emozionare e rendere omaggio a chi sa donare amore incondizionato.</p>",
-            "text_style": "body"
+            "image": "shopify://shop_images/teal-gift-idee-regalo.png",
+            "title": "",
+            "text": "<h3><strong><br/>Regali di compleanno per lui, tra praticità e carattere<br/></strong></h3><p><br/>Proposte utili ma mai banali, perfette per chi apprezza oggetti che parlano di carattere. Accessori, design intelligenti e soluzioni che accompagnano la vita di tutti i giorni.</p>",
+            "link_label": "Idee per Lui",
+            "link": "shopify://collections/idee-regalo-regali-per-lui"
           }
         },
-        "button_LfpcHc": {
-          "type": "button",
+        "column_EpqfQU": {
+          "type": "column",
           "settings": {
-            "button_label": "Scopri i Nostri  Consigli",
-            "button_link": "shopify://blogs/regalare-per-stupire/cosa-regalare-per-natale-alla-fidanzata-alla-moglie-o-unamica",
-            "button_style_secondary": true
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "heading_DzJgYi",
-        "text_beWgtQ",
-        "button_LfpcHc"
+        "column_eG9HVC",
+        "column_ddJN3X",
+        "column_EpqfQU"
       ],
-      "name": "t:sections.image-with-text.presets.name",
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "image": "shopify://shop_images/regalare-per_stupire-amica-moglie-collega.webp",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_KGfyjb": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_KyPfWQ": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_LWe9UV": {
-          "type": "text",
-          "settings": {
-            "text": "<h3><strong>Idee regalo per la casa e la cucina adatte al suo stile di vita</strong></h3><p>Per le donne che amano vivere la casa con stile, il regalo perfetto è <strong>bello, funzionale e curato nei dettagli</strong>.<br/>Scopri proposte per la cucina, la tavola e il living: oggetti che accompagnano i gesti di ogni giorno e trasformano la routine in piacere.</p><h3><strong>Cosa regalare alla suocera, alla cognata o alla zia senza essere banali</strong></h3><p>Trovare il giusto equilibrio tra eleganza e simpatia non è facile, ma ci sono idee che mettono tutti d’accordo.<br/>Punta su <strong>soluzioni raffinate, intelligenti o ironiche</strong>, che sanno adattarsi a ogni personalità e occasione: dal piccolo complemento decorativo a un accessorio utile e di design.<br/><br/></p>",
-            "text_style": "body"
-          }
-        },
-        "button_azT8cf": {
-          "type": "button",
-          "settings": {
-            "button_label": "Scopri la collezione Idee Regalo per Casa e Cucina",
-            "button_link": "shopify://collections/idee-regalo-per-casa-e-cucina",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_KyPfWQ",
-        "text_LWe9UV",
-        "button_azT8cf"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/idee-regalo-per-lei-casa-cucina.webp",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "multicolumn_TUCLxM": {
@@ -269,7 +229,7 @@
         "column_LVFcCh": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/kikkerland-memo-magnets-magneti-per-memo_6e8c0fd6-40ee-4326-831c-a7558d3a1c85.webp",
+            "image": "shopify://shop_images/knindustrie-taglieri-e-centrotavola.webp",
             "title": "",
             "text": "<p><strong>LIFESTYLE</strong></p><p>Sempre di corsa, ma con stile.</p>",
             "link_label": "",
@@ -279,7 +239,7 @@
         "column_BDT8cY": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-superfurniture-specchio-da-bagno-supermirror-terrazzo.jpg",
+            "image": "shopify://shop_images/seletti-supercurve-specchio-con-cornice-luminosa-cm-85.5-x-77.5-2_0b41ff10-4001-4577-8348-b176e873c0a9.jpg",
             "title": "",
             "text": "<p><strong>SPECCHI</strong></p><p>Lei che sa già quanto vale (ma ami ricordarglielo).</p>",
             "link_label": "",
@@ -339,7 +299,7 @@
         "a {color: black; text-decoration: none;}"
       ],
       "settings": {
-        "title": "",
+        "title": "<strong>Regali di compleanno per mamma o papà che scaldano il cuore - </strong>Soluzioni affetuose e di qualità",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
@@ -777,8 +737,7 @@
     "banner",
     "product-grid",
     "multicolumn_nEp8EE",
-    "image_with_text_bkAqWb",
-    "image_with_text_KGfyjb",
+    "multicolumn_iPQ3jL",
     "multicolumn_TUCLxM",
     "multicolumn_nx7Xxp",
     "multicolumn_gzzEF9",
