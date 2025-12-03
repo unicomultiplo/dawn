@@ -185,7 +185,7 @@
           "settings": {
             "image": "shopify://shop_images/teal-gift-idee-regalo.png",
             "title": "",
-            "text": "<h3><strong><br/>Regali di compleanno per lui, tra praticità e carattere<br/></strong></h3><p><br/>Proposte utili ma mai banali, perfette per chi apprezza oggetti che parlano di carattere. Accessori, design intelligenti e soluzioni che accompagnano la vita di tutti i giorni.</p>",
+            "text": "<h3><strong><br/>Regali di compleanno per lui, tra praticità e carattere<br/></strong></h3><p><br/>Proposte utili ma mai banali, perfette per chi apprezza oggetti che parlano di carattere. Accessori intelligenti e soluzioni che accompagnano la vita di tutti i giorni.</p>",
             "link_label": "Idee per Lui",
             "link": "shopify://collections/idee-regalo-regali-per-lui"
           }
@@ -248,50 +248,6 @@
       "block_order": [
         "column_pfMkMi",
         "column_Qh84mF"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_ANzqUW": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_PAJkWy": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Regali di compleanno per mamma o papà che scaldano il cuore</strong>",
-            "text": "<p>Quando si parla di mamma o papà, il regalo perfetto è quello che riesce a trasformarsi in un abbraccio. Oggetti affettuosi, utili e ben fatti, che trasmettono gratitudine per tutto quello che fanno ogni giorno. Regali che parlano di vicinanza, presenza e amore: simboli che restano, anche dopo la festa.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_prERNd": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_PAJkWy",
-        "column_prERNd"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -526,6 +482,94 @@
         "swipe_on_mobile": true,
         "padding_top": 16,
         "padding_bottom": 16
+      }
+    },
+    "multicolumn_ANzqUW": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_PAJkWy": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Idee regalo compleanno per la casa e la cucina</strong>",
+            "text": "<p>Chi ama la casa sa che ogni dettaglio fa la differenza. Ecco perché abbiamo selezionato accessori, complementi e utensili che portano armonia, bellezza e funzionalità negli spazi quotidiani. Perfetti per chi esprime sé stesso attraverso l’ambiente in cui vive.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_prERNd": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_PAJkWy",
+        "column_prERNd"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 16,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_pLV6q9": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_dLQNN4": {
+          "type": "column",
+          "settings": {
+            "title": "<strong> Regali utili di compleanno che si apprezzano ogni giorno</strong>",
+            "text": "<p>A volte, il regalo più prezioso è quello che si usa davvero. Oggetti pratici, progettati per durare e capaci di migliorare le piccole routine quotidiane. Idee concrete, intelligenti e funzionali — perfette per chi ama l’essenzialità.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_chd4PC": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_dLQNN4",
+        "column_chd4PC"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 16,
+        "padding_bottom": 0
       }
     },
     "multicolumn_LjNpMM": {
@@ -831,8 +875,9 @@
     "multicolumn_nx7Xxp",
     "multicolumn_gzzEF9",
     "multicolumn_ANzqUW",
-    "multicolumn_LjNpMM",
+    "multicolumn_pLV6q9",
     "multicolumn_AYtpXd",
+    "multicolumn_LjNpMM",
     "multicolumn_hMt3Yz",
     "multicolumn_DYHtJg",
     "image_banner_Y4zkTQ"
