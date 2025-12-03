@@ -231,7 +231,7 @@
           "settings": {
             "image": "shopify://shop_images/knindustrie-taglieri-e-centrotavola.webp",
             "title": "",
-            "text": "<p><strong>LIFESTYLE</strong></p><p>Sempre di corsa, ma con stile.</p>",
+            "text": "<p><strong>TAGLIERI</strong></p><p>Piccoli dettagli speciali</p>",
             "link_label": "",
             "link": "shopify://collections/tempo-libero"
           }
@@ -239,9 +239,9 @@
         "column_BDT8cY": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-supercurve-specchio-con-cornice-luminosa-cm-85.5-x-77.5-2_0b41ff10-4001-4577-8348-b176e873c0a9.jpg",
+            "image": "shopify://shop_images/seletti-reflecting-specchiera-con-cornice-trilogy-1.webp",
             "title": "",
-            "text": "<p><strong>SPECCHI</strong></p><p>Lei che sa già quanto vale (ma ami ricordarglielo).</p>",
+            "text": "<p><strong>SPECCHI</strong></p><p>Un riflesso che illumina</p>",
             "link_label": "",
             "link": "shopify://collections/complementi-arredo-specchi-da-parete"
           }
@@ -251,7 +251,7 @@
           "settings": {
             "image": "shopify://shop_images/Alzata_in_vetro_arancio_mood_1.webp",
             "title": "",
-            "text": "<p><strong>CENTROTAVOLA</strong><br/>Il centro dell’attenzione, sempre.</p>",
+            "text": "<p><strong>CENTROTAVOLA</strong><br/>Un dettaglio che scalda la casa.</p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
           }
@@ -259,7 +259,7 @@
         "column_BqDxQq": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/5245-kintsugi-vase-medium-vaso.webp",
+            "image": "shopify://shop_images/seletti-classics-on-acid-vaso-in-porcellana-h23-cm-7.jpg",
             "title": "",
             "text": "<p><strong>VASI</strong><br/>Scuse perfette per comprarle fiori.</p>",
             "link_label": "",
@@ -269,9 +269,9 @@
         "column_ytJUPY": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-oliera-acetiera-3.jpg",
+            "image": "shopify://shop_images/knindustrie-oliera-acetiera-4.webp",
             "title": "",
-            "text": "<p><strong>OLIERE</strong><br/>Gocce di stile in ogni piatto.</p>",
+            "text": "<p><strong>OLIERE</strong><br/>Eleganza quotidiana.</p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-set-olio-aceto-sale-pepe"
           }
@@ -279,9 +279,9 @@
         "column_aePWw4": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/marinette-saint-tropez-plaid-pisolino-10.webp",
+            "image": "shopify://shop_images/marinette-saint-tropez-plaid-no-stress-8_3466d420-e63f-4672-828d-e42f6b129841.webp",
             "title": "",
-            "text": "<p><strong>MARINETTE</strong></p><p>Per le vere amanti del pisolino!</p>",
+            "text": "<p><strong>MARINETTE</strong></p><p>Un abbraccio morbido per i loro momenti di relax.</p>",
             "link_label": "",
             "link": "shopify://collections/marinette-saint-tropez"
           }
@@ -306,7 +306,7 @@
         "columns_desktop": 6,
         "column_alignment": "center",
         "background_style": "none",
-        "button_label": "",
+        "button_label": "tutte le proposte per la casa e la cucina",
         "button_link": "",
         "color_scheme": "scheme-2",
         "columns_mobile": "2",
