@@ -139,7 +139,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Ogni compleanno ha un significato diverso a seconda di chi lo festeggia: scegliere con cura permette di trasformare un semplice presente in un gesto autentico, capace di sorprendere, emozionare e restare nel tempo.</p>",
+            "text": "<p>Ogni compleanno è unico, perché unica è la persona che lo festeggia. Un regalo ben scelto trasforma l’occasione in un ricordo speciale: è un gesto che racconta attenzione, ascolto e cura. Per questo le nostre selezioni nascono per adattarsi a stili, abitudini e gusti diversi, così puoi trovare l’idea perfetta in modo naturale e intuitivo.</p>",
             "link_label": "",
             "link": ""
           }
@@ -223,6 +223,94 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_C33FVA": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_pfMkMi": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Regali di compleanno per mamma o papà che scaldano il cuore</strong>",
+            "text": "<p>Quando si parla di mamma o papà, il regalo perfetto è quello che riesce a trasformarsi in un abbraccio. Oggetti affettuosi, utili e ben fatti, che trasmettono gratitudine per tutto quello che fanno ogni giorno. Regali che parlano di vicinanza, presenza e amore: simboli che restano, anche dopo la festa.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Qh84mF": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_pfMkMi",
+        "column_Qh84mF"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_ANzqUW": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_PAJkWy": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Regali di compleanno per mamma o papà che scaldano il cuore</strong>",
+            "text": "<p>Quando si parla di mamma o papà, il regalo perfetto è quello che riesce a trasformarsi in un abbraccio. Oggetti affettuosi, utili e ben fatti, che trasmettono gratitudine per tutto quello che fanno ogni giorno. Regali che parlano di vicinanza, presenza e amore: simboli che restano, anche dopo la festa.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_prERNd": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_PAJkWy",
+        "column_prERNd"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn_TUCLxM": {
       "type": "multicolumn",
       "blocks": {
@@ -299,7 +387,7 @@
         "a {color: black; text-decoration: none;}"
       ],
       "settings": {
-        "title": "<strong>Regali di compleanno per mamma o papà che scaldano il cuore - </strong>Soluzioni affetuose e di qualità",
+        "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
@@ -311,7 +399,7 @@
         "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 16,
+        "padding_top": 0,
         "padding_bottom": 16
       }
     },
@@ -331,7 +419,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Ogni evento ha il suo dono ideale: dai momenti romantici alle grandi ricorrenze.<br/>Che si tratti di <strong>un anniversario, un compleanno o una cerimonia</strong>, qui trovi spunti per celebrare ogni tappa della sua storia con gusto e originalità.</p><h3><br/><strong>Regalo per fidanzata o moglie, tra emozione e design<br/></strong></h3><p>Romantico sì, ma mai banale! Scegli tra <strong>idee che raccontano amore con stile</strong>: oggetti di design, accessori eleganti o piccoli gesti simbolici che fanno emozionare.<br/>Regali che uniscono cuore ed estetica, perfetti per chi ama <strong>sorprendere con raffinatezza</strong>.</p><h3><br/><strong>Idee regalo compleanno donna per ogni età e personalità<br/></strong></h3><p>Ogni compleanno merita un’idea su misura: per la ragazza piena di energia, la donna elegante o la creativa sempre in movimento. Dalle proposte più ironiche a quelle raffinate, troverai <strong>regali che rispecchiano la sua personalità</strong>.<br/></p><h3><br/><strong>Regali per damigelle, testimoni e amiche per l’addio al nubilato<br/></strong></h3><p>Piccoli pensieri coordinati per ringraziare chi condivide con lei momenti unici.<strong> Oggetti simbolici, divertenti o utili </strong>che restano come ricordo di un giorno speciale.<br/></p>",
+            "text": "<p>Il regalo migliore è quello che si avvicina a ciò che la persona ama davvero. Per questo abbiamo selezionato idee che esprimono stile, creatività, funzionalità o cura degli spazi. Oggetti che raccontano qualcosa, che si inseriscono facilmente nella vita di tutti i giorni e che riescono a far sorridere chi li riceve.</p><h3><br/><strong>Regali particolari e di design per un compleanno memorabile<br/></strong></h3><p><br/>Per chi ama distinguersi, per chi apprezza estetiche originali o per chi ha già tutto, un oggetto di design è sempre una scelta sorprendente. Linee particolari, colori unici e progetti che diventano vere e proprie dichiarazioni d’intenti.</p>",
             "link_label": "",
             "link": ""
           }
@@ -738,9 +826,11 @@
     "product-grid",
     "multicolumn_nEp8EE",
     "multicolumn_iPQ3jL",
+    "multicolumn_C33FVA",
     "multicolumn_TUCLxM",
     "multicolumn_nx7Xxp",
     "multicolumn_gzzEF9",
+    "multicolumn_ANzqUW",
     "multicolumn_LjNpMM",
     "multicolumn_AYtpXd",
     "multicolumn_hMt3Yz",
