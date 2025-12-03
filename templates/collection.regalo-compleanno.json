@@ -558,17 +558,17 @@
             "title": "",
             "text": "<h3><strong>Lampade</strong></h3>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
+            "link": "shopify://collections/lampade"
           }
         },
         "column_DL8Pag": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/vanilla-fly-cuscino-velluto-retro-velluto-brown-fan-1.jpg",
+            "image": "shopify://shop_images/seletti-toiletpaper-tappeto-bagno-milky-boots-2.jpg",
             "title": "",
-            "text": "<p><strong>Tessile</strong></p>",
+            "text": "<p><strong>Tessile </strong></p>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
+            "link": "shopify://collections/complementi-arredo-tessili-casa"
           }
         },
         "column_tNKF7Y": {
@@ -578,7 +578,7 @@
             "title": "",
             "text": "<p><strong>Candele e Candelabri</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-posate"
+            "link": "shopify://collections/illuminazione-candelabri-e-candele"
           }
         },
         "column_e3MxVR": {
