@@ -1,0 +1,791 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "custom_liquid_janaYD": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h1>{{ collection.title }}</h1>\n</div>\n</section>",
+        "color_scheme": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "custom_liquid_V4d3KX": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Natale\">\n  <nav class=\"xmas-quick-links\">\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-compleanno\" class=\"button button--primary button--small\">Idee Regalo Compleanno</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-sposi\" class=\"button button--primary button--small\">Idee Regalo Anniversario</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-san-valentino\" class=\"button button--primary button--small\">Idee Regalo San Valentino</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-economiche\" class=\"button button--primary button--small\">Idee Regalo Sotto 50€</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-sotto-100-euro\" class=\"button button--primary button--small\">Idee Regalo Sotto 100€</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-sotto-150-euro\" class=\"button button--primary button--small\">Idee Regalo Sotto 150€</a>\n  </nav>\n</div>\n\n<style>\n  .xmas-quick-links {\n    display:flex;\n    flex-wrap:wrap;\n    gap:.5rem;\n    margin:.5rem 0 1rem;\n  }\n  /* Optional: bottoni a tutta larghezza su mobile */\n  @media (max-width: 749px) {\n    .xmas-quick-links a {\n      width: 100%;\n      justify-content: center;\n    }\n  }\n</style>",
+        "color_scheme": "scheme-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "collection_list_jLGpVy": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_BdA688": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-natale"
+          }
+        },
+        "featured_collection_MngBwR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-economiche"
+          }
+        },
+        "featured_collection_T8YPkC": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-regali-sotto-100-euro"
+          }
+        },
+        "featured_collection_D3PPPy": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-regali-sotto-150-euro"
+          }
+        },
+        "featured_collection_3gx3x6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-san-valentino"
+          }
+        },
+        "featured_collection_NCXTyL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-compleanno"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_BdA688",
+        "featured_collection_MngBwR",
+        "featured_collection_T8YPkC",
+        "featured_collection_D3PPPy",
+        "featured_collection_3gx3x6",
+        "featured_collection_NCXTyL"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        "h1 {display: none;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 36,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "none",
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_nEp8EE": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_LPw6bA": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_jCfNXF": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><strong>Ogni donna è unica</strong>, e anche il suo regalo dovrebbe esserlo.<br/>Il dono giusto nasce da <strong>attenzione, affetto e conoscenza</strong>: valorizza gusti, passioni e piccole abitudini quotidiane, raccontando il legame che vi unisce.<br/>Che si tratti di un <strong>pensiero per un’amica, di un regalo per la mamma o di un gesto d’amore per la tua compagna</strong>, qui trovi ispirazioni adatte a ogni tipo di relazione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_LPw6bA",
+        "column_jCfNXF"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Idee regalo pensate su misura per lei",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_bkAqWb": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_DzJgYi": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_beWgtQ": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Regali affettuosi per un’amica speciale o una sorella</strong></h3><p>Ci sono regali che sanno far ridere, commuovere o semplicemente dire: <em>“questo è proprio da noi”</em>.<br/>Scegli tra <strong>oggetti ironici, colorati e originali</strong>, perfetti per condividere momenti e ricordi con leggerezza.<br/>Un piccolo pensiero, ma pieno di personalità.<br/></p><h3><strong>Un regalo per la mamma che parli anche un po’ di te</strong></h3><p>Per la mamma, ogni regalo è un modo per dire <em>“grazie”</em>.<br/>Scegli oggetti belli e utili che trasmettono <strong>cura, affetto e attenzione</strong>, come un complemento per la casa, un set per la tavola o un accessorio raffinato che la accompagni ogni giorno. Idee pensate per emozionare e rendere omaggio a chi sa donare amore incondizionato.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_LfpcHc": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scopri i Nostri  Consigli",
+            "button_link": "shopify://blogs/regalare-per-stupire/cosa-regalare-per-natale-alla-fidanzata-alla-moglie-o-unamica",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_DzJgYi",
+        "text_beWgtQ",
+        "button_LfpcHc"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/regalare-per_stupire-amica-moglie-collega.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_KGfyjb": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_KyPfWQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_LWe9UV": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Idee regalo per la casa e la cucina adatte al suo stile di vita</strong></h3><p>Per le donne che amano vivere la casa con stile, il regalo perfetto è <strong>bello, funzionale e curato nei dettagli</strong>.<br/>Scopri proposte per la cucina, la tavola e il living: oggetti che accompagnano i gesti di ogni giorno e trasformano la routine in piacere.</p><h3><strong>Cosa regalare alla suocera, alla cognata o alla zia senza essere banali</strong></h3><p>Trovare il giusto equilibrio tra eleganza e simpatia non è facile, ma ci sono idee che mettono tutti d’accordo.<br/>Punta su <strong>soluzioni raffinate, intelligenti o ironiche</strong>, che sanno adattarsi a ogni personalità e occasione: dal piccolo complemento decorativo a un accessorio utile e di design.<br/><br/></p>",
+            "text_style": "body"
+          }
+        },
+        "button_azT8cf": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scopri la collezione Idee Regalo per Casa e Cucina",
+            "button_link": "shopify://collections/idee-regalo-per-casa-e-cucina",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_KyPfWQ",
+        "text_LWe9UV",
+        "button_azT8cf"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/idee-regalo-per-lei-casa-cucina.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_TUCLxM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_LVFcCh": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/kikkerland-memo-magnets-magneti-per-memo_6e8c0fd6-40ee-4326-831c-a7558d3a1c85.webp",
+            "title": "",
+            "text": "<p><strong>LIFESTYLE</strong></p><p>Sempre di corsa, ma con stile.</p>",
+            "link_label": "",
+            "link": "shopify://collections/tempo-libero"
+          }
+        },
+        "column_BDT8cY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-superfurniture-specchio-da-bagno-supermirror-terrazzo.jpg",
+            "title": "",
+            "text": "<p><strong>SPECCHI</strong></p><p>Lei che sa già quanto vale (ma ami ricordarglielo).</p>",
+            "link_label": "",
+            "link": "shopify://collections/complementi-arredo-specchi-da-parete"
+          }
+        },
+        "column_iXnLgd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Alzata_in_vetro_arancio_mood_1.webp",
+            "title": "",
+            "text": "<p><strong>CENTROTAVOLA</strong><br/>Il centro dell’attenzione, sempre.</p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
+          }
+        },
+        "column_BqDxQq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/5245-kintsugi-vase-medium-vaso.webp",
+            "title": "",
+            "text": "<p><strong>VASI</strong><br/>Scuse perfette per comprarle fiori.</p>",
+            "link_label": "",
+            "link": "shopify://collections/complementi-arredo-vasi"
+          }
+        },
+        "column_ytJUPY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-oliera-acetiera-3.jpg",
+            "title": "",
+            "text": "<p><strong>OLIERE</strong><br/>Gocce di stile in ogni piatto.</p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-set-olio-aceto-sale-pepe"
+          }
+        },
+        "column_aePWw4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/marinette-saint-tropez-plaid-pisolino-10.webp",
+            "title": "",
+            "text": "<p><strong>MARINETTE</strong></p><p>Per le vere amanti del pisolino!</p>",
+            "link_label": "",
+            "link": "shopify://collections/marinette-saint-tropez"
+          }
+        }
+      },
+      "block_order": [
+        "column_LVFcCh",
+        "column_BDT8cY",
+        "column_iXnLgd",
+        "column_BqDxQq",
+        "column_ytJUPY",
+        "column_aePWw4"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "multicolumn_nx7Xxp": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_xNGhAX": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_kjXNnf": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Ogni evento ha il suo dono ideale: dai momenti romantici alle grandi ricorrenze.<br/>Che si tratti di <strong>un anniversario, un compleanno o una cerimonia</strong>, qui trovi spunti per celebrare ogni tappa della sua storia con gusto e originalità.</p><h3><br/><strong>Regalo per fidanzata o moglie, tra emozione e design<br/></strong></h3><p>Romantico sì, ma mai banale! Scegli tra <strong>idee che raccontano amore con stile</strong>: oggetti di design, accessori eleganti o piccoli gesti simbolici che fanno emozionare.<br/>Regali che uniscono cuore ed estetica, perfetti per chi ama <strong>sorprendere con raffinatezza</strong>.</p><h3><br/><strong>Idee regalo compleanno donna per ogni età e personalità<br/></strong></h3><p>Ogni compleanno merita un’idea su misura: per la ragazza piena di energia, la donna elegante o la creativa sempre in movimento. Dalle proposte più ironiche a quelle raffinate, troverai <strong>regali che rispecchiano la sua personalità</strong>.<br/></p><h3><br/><strong>Regali per damigelle, testimoni e amiche per l’addio al nubilato<br/></strong></h3><p>Piccoli pensieri coordinati per ringraziare chi condivide con lei momenti unici.<strong> Oggetti simbolici, divertenti o utili </strong>che restano come ricordo di un giorno speciale.<br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_xNGhAX",
+        "column_kjXNnf"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Idee regalo pensate su misura per lei",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_gzzEF9": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3TqetN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/San-Valentino-Amore-e-Tenerezza.jpg",
+            "title": "",
+            "text": "<p>SAN VALENTINO</p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-san-valentino"
+          }
+        },
+        "column_kHGzxE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/san-valentino-idee-regalo.webp",
+            "title": "",
+            "text": "<p>ANNIVERSARIO</p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-sposi"
+          }
+        },
+        "column_xj8dtt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Come-scegliere-i-Regali-di-Natale-organizzare-la-tua-Lista_1.webp",
+            "title": "",
+            "text": "<p>NATALE</p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-natale"
+          }
+        },
+        "column_UDxhRD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/wrapping-gifts-compleanno.webp",
+            "title": "",
+            "text": "<p>COMPLEANNO</p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-compleanno"
+          }
+        },
+        "column_C76yDx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/damigelle-idee-regalo.webp",
+            "title": "",
+            "text": "<p>DAMIGELLE</p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-economiche"
+          }
+        }
+      },
+      "block_order": [
+        "column_3TqetN",
+        "column_kHGzxE",
+        "column_xj8dtt",
+        "column_UDxhRD",
+        "column_C76yDx"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "multicolumn_LjNpMM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_wwXbEw": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Scegliere un regalo in base al budget <strong>non significa rinunciare al gusto o alla personalità</strong>.<br/>A volte basta un piccolo pensiero curato nei dettagli per trasmettere affetto, altre volte un dono importante per celebrare un momento speciale.<br/>In ogni fascia di prezzo c’è spazio per creatività, originalità e stile: scopri come sorprendere con equilibrio e senza eccessi.<br/><br/></p><h3><strong>Piccoli pensieri scelti con cura per lei</strong><br/></h3><p>I regali più belli non sempre sono i più costosi.<br/>Un oggetto scelto con cuore e attenzione può diventare un ricordo prezioso.<br/>Scopri <strong>idee regalo accessibili ma ricercate</strong>, perfette per un pensiero affettuoso, un ringraziamento o una sorpresa improvvisa.<br/>Dalle <strong>tazze illustrate e piccoli oggetti di design</strong>, alle <strong>candele profumate e accessori decorativi</strong>, ogni proposta è pensata per dire “ti ho pensata” con semplicità e stile.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wJ9JHV": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_wwXbEw",
+        "column_wJ9JHV"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Idee regalo per lei, per fascia di prezzo",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_AYtpXd": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_rwd9ii": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/verygoods-candela-1.jpg",
+            "title": "",
+            "text": "<p><strong>CANDELE</strong><br/>Accendono atmosfere (e sorrisi)</p>",
+            "link_label": "",
+            "link": "shopify://collections/illuminazione-candelabri-e-candele"
+          }
+        },
+        "column_aJHXra": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/kikkerland-decorate-your-own-cup-kit-kit-decora-la-tua-tazza_1.webp",
+            "title": "",
+            "text": "<p><strong>EFFETTO \"WOW\"</strong></p><p>Idee regalo che lasciano il segno.</p>",
+            "link_label": "",
+            "link": "shopify://collections/kikkerland"
+          }
+        },
+        "column_9FBxwU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Doiy-design-scatola_6fad84bf-3209-4700-8a2a-a9fe73f2a740.webp",
+            "title": "",
+            "text": "<p><strong>COLOUR LOVER</strong></p><p>Design pop e ironico, a tutta cromia!</p>",
+            "link_label": "",
+            "link": "shopify://collections/doiy"
+          }
+        },
+        "column_dBWiUb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Disegnetti-depressetti-portachiavi-AI.jpg",
+            "title": "",
+            "text": "<p><strong>DISEGNETTI DEPRESSETTI</strong></p><p>L’ironia che <em>(forse)</em> salverà la giornata.</p>",
+            "link_label": "",
+            "link": "shopify://collections/disegnetti-depressetti"
+          }
+        },
+        "column_xRN3iJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/printwork-happily-ever-after-album-fotp-1.webp",
+            "title": "",
+            "text": "<p><strong>PRINTWORKS</strong></p><p>idee regalo da ricordare!</p>",
+            "link_label": "",
+            "link": "shopify://collections/printworks"
+          }
+        },
+        "column_xnyiGU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-home-tazze-e-tazzine.webp",
+            "title": "",
+            "text": "<h3><strong>TÈ & CAFFÈ</strong></h3><p>Sveglia il suo sorriso, una tazza alla volta.</p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-tazze-tazzine-mug"
+          }
+        }
+      },
+      "block_order": [
+        "column_rwd9ii",
+        "column_aJHXra",
+        "column_9FBxwU",
+        "column_dBWiUb",
+        "column_xRN3iJ",
+        "column_xnyiGU"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "multicolumn_hMt3Yz": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_dATfYx": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_a3fNUy": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>Cosa regalare a una donna con meno di 50, 100 o 150 euro</strong><br/></h3><p><br/>Trovare l’equilibrio tra spesa e valore è possibile: basta scegliere con gusto. In questa guida ti aiutiamo a orientarti tra <strong>idee regalo per donna sotto i 50, 100 e 150 euro</strong>, tutte selezionate per stupire con eleganza.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_dATfYx",
+        "column_a3fNUy"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_DYHtJg": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_WrDKkn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Idee-Regalo-Economiche-sotto.webp",
+            "title": "",
+            "text": "<p>Piccoli oggetti <strong>intelligenti e creativi</strong>: perfetti per amiche, colleghe o occasioni leggere.<br/><br/><strong>Piccoli gesti, grandi sorrisi →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-economiche"
+          }
+        },
+        "column_4TknP7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Regali-a-Meno-di-100.webp",
+            "title": "",
+            "text": "<p><strong> </strong>Il <strong>compromesso ideale</strong> tra praticità e design: regali che colpiscono senza esagerare.<br/><br/><strong>Equilibrio perfetto →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-regali-sotto-100-euro"
+          }
+        },
+        "column_eDMtPP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Regali-a-Meno-di-150.webp",
+            "title": "",
+            "text": "<p>Scelte <strong>raffinate</strong> per momenti speciali: oggetti di design  per chi ama estetica e qualità.<br/><br/><strong>Il valore delle grandi occasioni →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-regali-sotto-150-euro"
+          }
+        }
+      },
+      "block_order": [
+        "column_WrDKkn",
+        "column_4TknP7",
+        "column_eDMtPP"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_Y4zkTQ": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_apWKXJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cerchi ispirazione? Alcune idee regalo per lei fuori dai soliti schemi",
+            "heading_size": "h1"
+          }
+        },
+        "text_4VB6mP": {
+          "type": "text",
+          "settings": {
+            "text": "A volte serve solo uno spunto per trasformare un pensiero in un’emozione.Se sei indeciso o vuoi stupire con qualcosa di diverso, lasciati ispirare dalle nostre selezioni: regali <strong>originali, ironici, poetici o semplicemente sorprendenti</strong>, perfetti anche per chi sembra già avere tutto.Qui la creatività incontra il design, e ogni oggetto diventa un modo per raccontare affetto e personalità.",
+            "text_style": "body"
+          }
+        },
+        "buttons_h43rUr": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Regalare per Stupire",
+            "button_link_1": "shopify://blogs/regalare-per-stupire",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_apWKXJ",
+        "text_4VB6mP",
+        "buttons_h43rUr"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Regali-a-Meno-di-100-_-1.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "custom_liquid_janaYD",
+    "custom_liquid_V4d3KX",
+    "collection_list_jLGpVy",
+    "banner",
+    "product-grid",
+    "multicolumn_nEp8EE",
+    "image_with_text_bkAqWb",
+    "image_with_text_KGfyjb",
+    "multicolumn_TUCLxM",
+    "multicolumn_nx7Xxp",
+    "multicolumn_gzzEF9",
+    "multicolumn_LjNpMM",
+    "multicolumn_AYtpXd",
+    "multicolumn_hMt3Yz",
+    "multicolumn_DYHtJg",
+    "image_banner_Y4zkTQ"
+  ]
+}
