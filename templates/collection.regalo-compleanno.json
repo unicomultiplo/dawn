@@ -375,7 +375,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Il regalo migliore è quello che si avvicina a ciò che la persona ama davvero. Per questo abbiamo selezionato idee che esprimono stile, creatività, funzionalità o cura degli spazi. Oggetti che raccontano qualcosa, che si inseriscono facilmente nella vita di tutti i giorni e che riescono a far sorridere chi li riceve.</p><h3><br/><strong>Regali particolari e di design per un compleanno memorabile<br/></strong></h3><p><br/>Per chi ama distinguersi, per chi apprezza estetiche originali o per chi ha già tutto, un oggetto di design è sempre una scelta sorprendente. Linee particolari, colori unici e progetti che diventano vere e proprie dichiarazioni d’intenti.</p>",
+            "text": "<p>Il regalo migliore è quello che si avvicina a ciò che la persona ama davvero. Per questo abbiamo selezionato idee che esprimono stile, creatività, funzionalità o cura degli spazi. Oggetti che raccontano qualcosa, che si inseriscono facilmente nella vita di tutti i giorni e che riescono a far sorridere chi li riceve.</p><h3><br/><strong>Regali particolari e di design per un compleanno memorabile</strong></h3><p><br/>Per chi ama distinguersi, per chi apprezza estetiche originali o per chi ha già tutto, un oggetto di design è sempre una scelta sorprendente. Linee particolari, colori unici e progetti che diventano vere e proprie dichiarazioni d’intenti.</p>",
             "link_label": "",
             "link": ""
           }
@@ -399,70 +399,81 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 20,
         "padding_bottom": 0
       }
     },
-    "multicolumn_gzzEF9": {
+    "multicolumn_AYtpXd": {
       "type": "multicolumn",
       "blocks": {
-        "column_3TqetN": {
+        "column_rwd9ii": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/San-Valentino-Amore-e-Tenerezza.jpg",
+            "image": "shopify://shop_images/verygoods-candela-1.jpg",
             "title": "",
-            "text": "<p>SAN VALENTINO</p>",
+            "text": "<p><strong>CANDELE</strong><br/>Accendono atmosfere (e sorrisi)</p>",
             "link_label": "",
-            "link": "shopify://collections/idee-regalo-san-valentino"
+            "link": "shopify://collections/illuminazione-candelabri-e-candele"
           }
         },
-        "column_kHGzxE": {
+        "column_aJHXra": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/san-valentino-idee-regalo.webp",
+            "image": "shopify://shop_images/kikkerland-decorate-your-own-cup-kit-kit-decora-la-tua-tazza_1.webp",
             "title": "",
-            "text": "<p>ANNIVERSARIO</p>",
+            "text": "<p><strong>EFFETTO \"WOW\"</strong></p><p>Idee regalo che lasciano il segno.</p>",
             "link_label": "",
-            "link": "shopify://collections/idee-regalo-sposi"
+            "link": "shopify://collections/kikkerland"
           }
         },
-        "column_xj8dtt": {
+        "column_9FBxwU": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Come-scegliere-i-Regali-di-Natale-organizzare-la-tua-Lista_1.webp",
+            "image": "shopify://shop_images/Doiy-design-scatola_6fad84bf-3209-4700-8a2a-a9fe73f2a740.webp",
             "title": "",
-            "text": "<p>NATALE</p>",
+            "text": "<p><strong>COLOUR LOVER</strong></p><p>Design pop e ironico, a tutta cromia!</p>",
             "link_label": "",
-            "link": "shopify://collections/idee-regalo-natale"
+            "link": "shopify://collections/doiy"
           }
         },
-        "column_UDxhRD": {
+        "column_dBWiUb": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/wrapping-gifts-compleanno.webp",
+            "image": "shopify://shop_images/Disegnetti-depressetti-portachiavi-AI.jpg",
             "title": "",
-            "text": "<p>COMPLEANNO</p>",
+            "text": "<p><strong>DISEGNETTI DEPRESSETTI</strong></p><p>L’ironia che <em>(forse)</em> salverà la giornata.</p>",
             "link_label": "",
-            "link": "shopify://collections/idee-regalo-compleanno"
+            "link": "shopify://collections/disegnetti-depressetti"
           }
         },
-        "column_C76yDx": {
+        "column_xRN3iJ": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/damigelle-idee-regalo.webp",
+            "image": "shopify://shop_images/printwork-happily-ever-after-album-fotp-1.webp",
             "title": "",
-            "text": "<p>DAMIGELLE</p>",
+            "text": "<p><strong>PRINTWORKS</strong></p><p>idee regalo da ricordare!</p>",
             "link_label": "",
-            "link": "shopify://collections/idee-regalo-economiche"
+            "link": "shopify://collections/printworks"
+          }
+        },
+        "column_xnyiGU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-home-tazze-e-tazzine.webp",
+            "title": "",
+            "text": "<h3><strong>TÈ & CAFFÈ</strong></h3><p>Sveglia il suo sorriso, una tazza alla volta.</p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-tazze-tazzine-mug"
           }
         }
       },
       "block_order": [
-        "column_3TqetN",
-        "column_kHGzxE",
-        "column_xj8dtt",
-        "column_UDxhRD",
-        "column_C76yDx"
+        "column_rwd9ii",
+        "column_aJHXra",
+        "column_9FBxwU",
+        "column_dBWiUb",
+        "column_xRN3iJ",
+        "column_xnyiGU"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -472,12 +483,12 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "column_alignment": "center",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 16,
@@ -526,6 +537,98 @@
         "swipe_on_mobile": false,
         "padding_top": 16,
         "padding_bottom": 0
+      }
+    },
+    "multicolumn_9LxLx9": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_zeUqKk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-Kintsugi-1.jpg",
+            "title": "",
+            "text": "<p><strong>Piatti da Tavola</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-piatti"
+          }
+        },
+        "column_ncngeH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-lime-lane-tumbler.webp",
+            "title": "",
+            "text": "<p><strong>Bicchieri e Calici</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
+          }
+        },
+        "column_tNKF7Y": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/posate-bitossi-home.jpg",
+            "title": "",
+            "text": "<p><strong>Posate</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-posate"
+          }
+        },
+        "column_e3MxVR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-rubin-alzata-in-vetro-con-piatto-in-legno-3.webp",
+            "title": "",
+            "text": "<p><strong>Centrotavola</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
+          }
+        },
+        "column_JbQ4TC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-marcantonio-my_-tiny-moon-lampada-3.jpg",
+            "title": "",
+            "text": "<h3><strong>Lampade</strong></h3>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
+          }
+        },
+        "column_DL8Pag": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/vanilla-fly-cuscino-velluto-retro-velluto-brown-fan-1.jpg",
+            "title": "",
+            "text": "<p><strong>Tessile</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
+          }
+        }
+      },
+      "block_order": [
+        "column_zeUqKk",
+        "column_ncngeH",
+        "column_tNKF7Y",
+        "column_e3MxVR",
+        "column_JbQ4TC",
+        "column_DL8Pag"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "multicolumn_pLV6q9": {
@@ -614,98 +717,6 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 0
-      }
-    },
-    "multicolumn_AYtpXd": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_rwd9ii": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/verygoods-candela-1.jpg",
-            "title": "",
-            "text": "<p><strong>CANDELE</strong><br/>Accendono atmosfere (e sorrisi)</p>",
-            "link_label": "",
-            "link": "shopify://collections/illuminazione-candelabri-e-candele"
-          }
-        },
-        "column_aJHXra": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/kikkerland-decorate-your-own-cup-kit-kit-decora-la-tua-tazza_1.webp",
-            "title": "",
-            "text": "<p><strong>EFFETTO \"WOW\"</strong></p><p>Idee regalo che lasciano il segno.</p>",
-            "link_label": "",
-            "link": "shopify://collections/kikkerland"
-          }
-        },
-        "column_9FBxwU": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Doiy-design-scatola_6fad84bf-3209-4700-8a2a-a9fe73f2a740.webp",
-            "title": "",
-            "text": "<p><strong>COLOUR LOVER</strong></p><p>Design pop e ironico, a tutta cromia!</p>",
-            "link_label": "",
-            "link": "shopify://collections/doiy"
-          }
-        },
-        "column_dBWiUb": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Disegnetti-depressetti-portachiavi-AI.jpg",
-            "title": "",
-            "text": "<p><strong>DISEGNETTI DEPRESSETTI</strong></p><p>L’ironia che <em>(forse)</em> salverà la giornata.</p>",
-            "link_label": "",
-            "link": "shopify://collections/disegnetti-depressetti"
-          }
-        },
-        "column_xRN3iJ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/printwork-happily-ever-after-album-fotp-1.webp",
-            "title": "",
-            "text": "<p><strong>PRINTWORKS</strong></p><p>idee regalo da ricordare!</p>",
-            "link_label": "",
-            "link": "shopify://collections/printworks"
-          }
-        },
-        "column_xnyiGU": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Bitossi-home-tazze-e-tazzine.webp",
-            "title": "",
-            "text": "<h3><strong>TÈ & CAFFÈ</strong></h3><p>Sveglia il suo sorriso, una tazza alla volta.</p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-tazze-tazzine-mug"
-          }
-        }
-      },
-      "block_order": [
-        "column_rwd9ii",
-        "column_aJHXra",
-        "column_9FBxwU",
-        "column_dBWiUb",
-        "column_xRN3iJ",
-        "column_xnyiGU"
-      ],
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 16,
-        "padding_bottom": 16
       }
     },
     "multicolumn_hMt3Yz": {
@@ -873,10 +884,10 @@
     "multicolumn_C33FVA",
     "multicolumn_TUCLxM",
     "multicolumn_nx7Xxp",
-    "multicolumn_gzzEF9",
-    "multicolumn_ANzqUW",
-    "multicolumn_pLV6q9",
     "multicolumn_AYtpXd",
+    "multicolumn_ANzqUW",
+    "multicolumn_9LxLx9",
+    "multicolumn_pLV6q9",
     "multicolumn_LjNpMM",
     "multicolumn_hMt3Yz",
     "multicolumn_DYHtJg",
