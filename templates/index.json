@@ -179,6 +179,37 @@
         "line_thickness": 1
       }
     },
+    "rich_text_T6YApy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9kTxfi": {
+          "type": "heading",
+          "settings": {
+            "heading": "Printworks: quando il design incontra il gioco",
+            "heading_size": "h1"
+          }
+        },
+        "text_yCWYLF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Scacchiere ricercate, materiali pregiati e colori che arredano: un regalo raffinato per chi ama bellezza e stile in ogni dettaglio.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_9kTxfi",
+        "text_yCWYLF"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "collage_dNW4nf": {
       "type": "collage",
       "blocks": {
@@ -782,6 +813,7 @@
     "separator_UazLhC",
     "multicolumn_9rJCWz",
     "separator_zH6Qpr",
+    "rich_text_T6YApy",
     "collage_dNW4nf",
     "separator_jwXVJA",
     "rich_text_7Vggwn",
