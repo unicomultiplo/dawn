@@ -36,10 +36,22 @@
         "featured_collection_BdA688": {
           "type": "featured_collection",
           "settings": {
-            "collection": "idee-regalo-natale"
+            "collection": "idee-regalo-regali-per-lei"
           }
         },
         "featured_collection_MngBwR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-regali-per-lui"
+          }
+        },
+        "featured_collection_3gx3x6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-per-casa-e-cucina"
+          }
+        },
+        "featured_collection_NCXTyL": {
           "type": "featured_collection",
           "settings": {
             "collection": "idee-regalo-economiche"
@@ -56,27 +68,15 @@
           "settings": {
             "collection": "idee-regalo-regali-sotto-150-euro"
           }
-        },
-        "featured_collection_3gx3x6": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-san-valentino"
-          }
-        },
-        "featured_collection_NCXTyL": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-compleanno"
-          }
         }
       },
       "block_order": [
         "featured_collection_BdA688",
         "featured_collection_MngBwR",
-        "featured_collection_T8YPkC",
-        "featured_collection_D3PPPy",
         "featured_collection_3gx3x6",
-        "featured_collection_NCXTyL"
+        "featured_collection_NCXTyL",
+        "featured_collection_T8YPkC",
+        "featured_collection_D3PPPy"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
