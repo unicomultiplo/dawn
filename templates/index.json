@@ -185,20 +185,20 @@
         "image_jyQnUP": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Very-goods-studio-candela.webp"
+            "image": "shopify://shop_images/printwork-scacchiere.webp"
           }
         },
         "product_eAykWe": {
           "type": "product",
           "settings": {
-            "product": "very-good-studio-heavy-petal-reed-diffusore-di-fragranza",
+            "product": "printwork-chess-mirror-scacchiera-da-tavolo",
             "second_image": true
           }
         },
         "product_BVWfAx": {
           "type": "product",
           "settings": {
-            "product": "very-goods-studio-slice-candela-da-60-ml",
+            "product": "printwork-chess-clouds-scacchiera-da-tavolo",
             "second_image": true
           }
         }
