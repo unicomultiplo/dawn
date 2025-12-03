@@ -551,26 +551,6 @@
             "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
           }
         },
-        "column_tNKF7Y": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/posate-bitossi-home.jpg",
-            "title": "",
-            "text": "<p><strong>Posate</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-posate"
-          }
-        },
-        "column_e3MxVR": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-rubin-alzata-in-vetro-con-piatto-in-legno-3.webp",
-            "title": "",
-            "text": "<p><strong>Centrotavola</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
-          }
-        },
         "column_JbQ4TC": {
           "type": "column",
           "settings": {
@@ -590,15 +570,35 @@
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
           }
+        },
+        "column_tNKF7Y": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Stan-Editions-Candela-3-pezzi-impilabili-6_d797dd60-e81d-4ee9-b1ac-6b843d4d71ed.jpg",
+            "title": "",
+            "text": "<p><strong>Candele e Candelabri</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-posate"
+          }
+        },
+        "column_e3MxVR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-rubin-alzata-in-vetro-con-piatto-in-legno-3.webp",
+            "title": "",
+            "text": "<p><strong>Centrotavola</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
+          }
         }
       },
       "block_order": [
         "column_zeUqKk",
         "column_ncngeH",
-        "column_tNKF7Y",
-        "column_e3MxVR",
         "column_JbQ4TC",
-        "column_DL8Pag"
+        "column_DL8Pag",
+        "column_tNKF7Y",
+        "column_e3MxVR"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -796,40 +796,6 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_hMt3Yz": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_dATfYx": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_dATfYx"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
         "padding_top": 20,
         "padding_bottom": 0
       }
@@ -842,7 +808,7 @@
           "settings": {
             "image": "shopify://shop_images/Idee-Regalo-Economiche-sotto.webp",
             "title": "",
-            "text": "<p>Piccoli gesti che sorprendono.<br/><br/><strong>Scopri le Idee Regalo sotto i 50€ →</strong></p>",
+            "text": "<p>Piccoli gesti che sorprendono!<br/><br/><strong>Scopri le Idee Regalo sotto i 50€ →</strong></p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-economiche"
           }
@@ -852,7 +818,7 @@
           "settings": {
             "image": "shopify://shop_images/Regali-a-Meno-di-100.webp",
             "title": "",
-            "text": "<p>Il giusto equilibrio tra stile e qualità: regali che colpiscono!<br/><br/><strong>Scopri le Idee Regalo sotto 100€ →</strong></p>",
+            "text": "<p>Il giusto equilibrio tra stile e qualità!<br/><br/><strong>Scopri le Idee Regalo sotto 100€ →</strong></p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-regali-sotto-100-euro"
           }
@@ -862,7 +828,7 @@
           "settings": {
             "image": "shopify://shop_images/Regali-a-Meno-di-150.webp",
             "title": "",
-            "text": "<p>Regali importanti da ricordare<br/><br/><em><strong>Scopri le Idee Regalo Sotto 150€ </strong></em><strong>→</strong></p>",
+            "text": "<p>Regali importanti da ricordare!<br/><br/><em><strong>Scopri le Idee Regalo Sotto 150€ </strong></em><strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-regali-sotto-150-euro"
           }
@@ -930,7 +896,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Regali-a-Meno-di-100-_-1.webp",
+        "image": "shopify://shop_images/unico-e-multiplo-regali-originali.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -961,7 +927,6 @@
     "multicolumn_pLV6q9",
     "multicolumn_AYtpXd",
     "multicolumn_LjNpMM",
-    "multicolumn_hMt3Yz",
     "multicolumn_DYHtJg",
     "image_banner_Y4zkTQ"
   ]
