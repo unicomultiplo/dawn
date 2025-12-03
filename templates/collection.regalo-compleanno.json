@@ -403,77 +403,66 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_AYtpXd": {
+    "multicolumn_rtzfjb": {
       "type": "multicolumn",
       "blocks": {
-        "column_rwd9ii": {
+        "column_39dRCX": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/verygoods-candela-1.jpg",
+            "image": "shopify://shop_images/knindustrie-bicchiere-sparky-lara-caffi-20.webp",
             "title": "",
-            "text": "<p><strong>CANDELE</strong><br/>Accendono atmosfere (e sorrisi)</p>",
+            "text": "<p><strong>KnIndustrie</strong> - essenzialità e innovazione</p>",
             "link_label": "",
-            "link": "shopify://collections/illuminazione-candelabri-e-candele"
+            "link": "shopify://collections/knindustrie"
           }
         },
-        "column_aJHXra": {
+        "column_BKDfhd": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/kikkerland-decorate-your-own-cup-kit-kit-decora-la-tua-tazza_1.webp",
+            "image": "shopify://shop_images/hybrid-tavola-natale-seletti.webp",
             "title": "",
-            "text": "<p><strong>EFFETTO \"WOW\"</strong></p><p>Idee regalo che lasciano il segno.</p>",
+            "text": "<p><strong>Seletti </strong>- Creatività Pop e Ironia per la casa</p>",
             "link_label": "",
-            "link": "shopify://collections/kikkerland"
+            "link": "shopify://collections/seletti"
           }
         },
-        "column_9FBxwU": {
+        "column_rRVVaa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Doiy-design-scatola_6fad84bf-3209-4700-8a2a-a9fe73f2a740.webp",
+            "image": "shopify://shop_images/Bitossi-abracabra-natale-2025.webp",
             "title": "",
-            "text": "<p><strong>COLOUR LOVER</strong></p><p>Design pop e ironico, a tutta cromia!</p>",
+            "text": "<p><strong>Bitossi Home </strong>- Colore e Allegria per la Tavola</p>",
             "link_label": "",
-            "link": "shopify://collections/doiy"
+            "link": "shopify://collections/bitossi-home"
           }
         },
-        "column_dBWiUb": {
+        "column_M66GrG": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Disegnetti-depressetti-portachiavi-AI.jpg",
+            "image": "shopify://shop_images/miho-duetto-candelabri-artigiali.jpg",
             "title": "",
-            "text": "<p><strong>DISEGNETTI DEPRESSETTI</strong></p><p>L’ironia che <em>(forse)</em> salverà la giornata.</p>",
+            "text": "<p><strong>Miho - </strong>Design poetico e sostenibile</p>",
             "link_label": "",
-            "link": "shopify://collections/disegnetti-depressetti"
+            "link": "shopify://collections/miho"
           }
         },
-        "column_xRN3iJ": {
+        "column_fbiWmg": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/printwork-happily-ever-after-album-fotp-1.webp",
+            "image": "shopify://shop_images/vanilla-fly-cuscino-velluto-retro-velluto-brown-fan-1.jpg",
             "title": "",
-            "text": "<p><strong>PRINTWORKS</strong></p><p>idee regalo da ricordare!</p>",
+            "text": "<p><strong>Vanilla Fly - </strong>Stile eclettico e fascino vintage</p>",
             "link_label": "",
-            "link": "shopify://collections/printworks"
-          }
-        },
-        "column_xnyiGU": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Bitossi-home-tazze-e-tazzine.webp",
-            "title": "",
-            "text": "<h3><strong>TÈ & CAFFÈ</strong></h3><p>Sveglia il suo sorriso, una tazza alla volta.</p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-tazze-tazzine-mug"
+            "link": "shopify://collections/vanilla-fly"
           }
         }
       },
       "block_order": [
-        "column_rwd9ii",
-        "column_aJHXra",
-        "column_9FBxwU",
-        "column_dBWiUb",
-        "column_xRN3iJ",
-        "column_xnyiGU"
+        "column_39dRCX",
+        "column_BKDfhd",
+        "column_rRVVaa",
+        "column_M66GrG",
+        "column_fbiWmg"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -483,15 +472,15 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 6,
-        "column_alignment": "center",
+        "columns_desktop": 5,
+        "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
+        "button_link": "shopify://pages/i-nostri-brand",
+        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 16,
+        "padding_top": 0,
         "padding_bottom": 16
       }
     },
@@ -502,9 +491,9 @@
           "type": "column",
           "settings": {
             "title": "<strong>Idee regalo compleanno per la casa e la cucina</strong>",
-            "text": "<p>Chi ama la casa sa che ogni dettaglio fa la differenza. Ecco perché abbiamo selezionato accessori, complementi e utensili che portano armonia, bellezza e funzionalità negli spazi quotidiani. Perfetti per chi esprime sé stesso attraverso l’ambiente in cui vive.</p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p><br/>Chi ama la casa sa che ogni dettaglio fa la differenza. Ecco perché abbiamo selezionato accessori, complementi e utensili che portano armonia, bellezza e funzionalità negli spazi quotidiani. Perfetti per chi esprime sé stesso attraverso l’ambiente in cui vive.</p>",
+            "link_label": "Scopri tutte le Idee Regalo Casa e Cucina",
+            "link": "shopify://collections/idee-regalo-per-casa-e-cucina"
           }
         },
         "column_prERNd": {
@@ -675,6 +664,98 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_AYtpXd": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_rwd9ii": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/verygoods-candela-1.jpg",
+            "title": "",
+            "text": "<p><strong>CANDELE</strong><br/>Accendono atmosfere (e sorrisi)</p>",
+            "link_label": "",
+            "link": "shopify://collections/illuminazione-candelabri-e-candele"
+          }
+        },
+        "column_aJHXra": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/kikkerland-decorate-your-own-cup-kit-kit-decora-la-tua-tazza_1.webp",
+            "title": "",
+            "text": "<p><strong>EFFETTO \"WOW\"</strong></p><p>Idee regalo che lasciano il segno.</p>",
+            "link_label": "",
+            "link": "shopify://collections/kikkerland"
+          }
+        },
+        "column_9FBxwU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Doiy-design-scatola_6fad84bf-3209-4700-8a2a-a9fe73f2a740.webp",
+            "title": "",
+            "text": "<p><strong>COLOUR LOVER</strong></p><p>Design pop e ironico, a tutta cromia!</p>",
+            "link_label": "",
+            "link": "shopify://collections/doiy"
+          }
+        },
+        "column_dBWiUb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Disegnetti-depressetti-portachiavi-AI.jpg",
+            "title": "",
+            "text": "<p><strong>DISEGNETTI DEPRESSETTI</strong></p><p>L’ironia che <em>(forse)</em> salverà la giornata.</p>",
+            "link_label": "",
+            "link": "shopify://collections/disegnetti-depressetti"
+          }
+        },
+        "column_xRN3iJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/printwork-happily-ever-after-album-fotp-1.webp",
+            "title": "",
+            "text": "<p><strong>PRINTWORKS</strong></p><p>idee regalo da ricordare!</p>",
+            "link_label": "",
+            "link": "shopify://collections/printworks"
+          }
+        },
+        "column_xnyiGU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-home-tazze-e-tazzine.webp",
+            "title": "",
+            "text": "<h3><strong>TÈ & CAFFÈ</strong></h3><p>Sveglia il suo sorriso, una tazza alla volta.</p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-tazze-tazzine-mug"
+          }
+        }
+      },
+      "block_order": [
+        "column_rwd9ii",
+        "column_aJHXra",
+        "column_9FBxwU",
+        "column_dBWiUb",
+        "column_xRN3iJ",
+        "column_xnyiGU"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
     "multicolumn_LjNpMM": {
       "type": "multicolumn",
       "blocks": {
@@ -682,7 +763,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Scegliere un regalo in base al budget <strong>non significa rinunciare al gusto o alla personalità</strong>.<br/>A volte basta un piccolo pensiero curato nei dettagli per trasmettere affetto, altre volte un dono importante per celebrare un momento speciale.<br/>In ogni fascia di prezzo c’è spazio per creatività, originalità e stile: scopri come sorprendere con equilibrio e senza eccessi.<br/><br/></p><h3><strong>Piccoli pensieri scelti con cura per lei</strong><br/></h3><p>I regali più belli non sempre sono i più costosi.<br/>Un oggetto scelto con cuore e attenzione può diventare un ricordo prezioso.<br/>Scopri <strong>idee regalo accessibili ma ricercate</strong>, perfette per un pensiero affettuoso, un ringraziamento o una sorpresa improvvisa.<br/>Dalle <strong>tazze illustrate e piccoli oggetti di design</strong>, alle <strong>candele profumate e accessori decorativi</strong>, ogni proposta è pensata per dire “ti ho pensata” con semplicità e stile.</p>",
+            "text": "<p>Non serve spendere tanto per fare un regalo che conta: basta scegliere con attenzione. A seconda del budget, abbiamo raccolto proposte che mantengono qualità, stile e personalità, così puoi trovare il regalo giusto senza difficoltà.<br/><br/></p><h3><strong>Regali di compleanno sotto 50€, 100€ o 150€</strong><br/><br/></h3><p>Tre percorsi veloci per orientarti in base al tuo budget. Ogni fascia include idee selezionate, perfette per compleanni diversi: pensieri intelligenti, oggetti di design accessibili o regali importanti da ricordare.</p>",
             "link_label": "",
             "link": ""
           }
@@ -703,7 +784,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Idee regalo per lei, per fascia di prezzo",
+        "title": "<strong>Idee regalo compleanno per ogni budget</strong>",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -730,20 +811,10 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_a3fNUy": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h3><strong>Cosa regalare a una donna con meno di 50, 100 o 150 euro</strong><br/></h3><p><br/>Trovare l’equilibrio tra spesa e valore è possibile: basta scegliere con gusto. In questa guida ti aiutiamo a orientarti tra <strong>idee regalo per donna sotto i 50, 100 e 150 euro</strong>, tutte selezionate per stupire con eleganza.</p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "column_dATfYx",
-        "column_a3fNUy"
+        "column_dATfYx"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -771,7 +842,7 @@
           "settings": {
             "image": "shopify://shop_images/Idee-Regalo-Economiche-sotto.webp",
             "title": "",
-            "text": "<p>Piccoli oggetti <strong>intelligenti e creativi</strong>: perfetti per amiche, colleghe o occasioni leggere.<br/><br/><strong>Piccoli gesti, grandi sorrisi →</strong></p>",
+            "text": "<p>Piccoli gesti che sorprendono.<br/><br/><strong>Scopri le Idee Regalo sotto i 50€ →</strong></p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-economiche"
           }
@@ -781,7 +852,7 @@
           "settings": {
             "image": "shopify://shop_images/Regali-a-Meno-di-100.webp",
             "title": "",
-            "text": "<p><strong> </strong>Il <strong>compromesso ideale</strong> tra praticità e design: regali che colpiscono senza esagerare.<br/><br/><strong>Equilibrio perfetto →</strong></p>",
+            "text": "<p>Il giusto equilibrio tra stile e qualità: regali che colpiscono!<br/><br/><strong>Scopri le Idee Regalo sotto 100€ →</strong></p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-regali-sotto-100-euro"
           }
@@ -791,7 +862,7 @@
           "settings": {
             "image": "shopify://shop_images/Regali-a-Meno-di-150.webp",
             "title": "",
-            "text": "<p>Scelte <strong>raffinate</strong> per momenti speciali: oggetti di design  per chi ama estetica e qualità.<br/><br/><strong>Il valore delle grandi occasioni →</strong></p>",
+            "text": "<p>Regali importanti da ricordare<br/><br/><em><strong>Scopri le Idee Regalo Sotto 150€ </strong></em><strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-regali-sotto-150-euro"
           }
@@ -829,14 +900,14 @@
         "heading_apWKXJ": {
           "type": "heading",
           "settings": {
-            "heading": "Cerchi ispirazione? Alcune idee regalo per lei fuori dai soliti schemi",
+            "heading": "<strong>Tante altre idee regalo insolite e originali per compleanno</strong>",
             "heading_size": "h1"
           }
         },
         "text_4VB6mP": {
           "type": "text",
           "settings": {
-            "text": "A volte serve solo uno spunto per trasformare un pensiero in un’emozione.Se sei indeciso o vuoi stupire con qualcosa di diverso, lasciati ispirare dalle nostre selezioni: regali <strong>originali, ironici, poetici o semplicemente sorprendenti</strong>, perfetti anche per chi sembra già avere tutto.Qui la creatività incontra il design, e ogni oggetto diventa un modo per raccontare affetto e personalità.",
+            "text": "Se stai cercando qualcosa di particolare o vuoi uscire dagli schemi, queste guide ti aiutano a esplorare nuove ispirazioni. Occasioni speciali, momenti da celebrare e consigli pratici per chi ama scegliere con creatività.",
             "text_style": "body"
           }
         },
@@ -884,10 +955,11 @@
     "multicolumn_C33FVA",
     "multicolumn_TUCLxM",
     "multicolumn_nx7Xxp",
-    "multicolumn_AYtpXd",
+    "multicolumn_rtzfjb",
     "multicolumn_ANzqUW",
     "multicolumn_9LxLx9",
     "multicolumn_pLV6q9",
+    "multicolumn_AYtpXd",
     "multicolumn_LjNpMM",
     "multicolumn_hMt3Yz",
     "multicolumn_DYHtJg",
