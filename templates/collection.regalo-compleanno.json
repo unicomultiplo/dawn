@@ -409,7 +409,7 @@
         "column_39dRCX": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-bicchiere-sparky-lara-caffi-20.webp",
+            "image": "shopify://shop_images/knindustrie-storm-vassoio-stone-washed-6.webp",
             "title": "",
             "text": "<p><strong>KnIndustrie</strong> - essenzialità e innovazione</p>",
             "link_label": "",
@@ -419,7 +419,7 @@
         "column_BKDfhd": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/hybrid-tavola-natale-seletti.webp",
+            "image": "shopify://shop_images/skull-seletti.webp",
             "title": "",
             "text": "<p><strong>Seletti </strong>- Creatività Pop e Ironia per la casa</p>",
             "link_label": "",
@@ -429,7 +429,7 @@
         "column_rRVVaa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi-abracabra-natale-2025.webp",
+            "image": "shopify://shop_images/grazie-dei-fiori-bitossi-natale.webp",
             "title": "",
             "text": "<p><strong>Bitossi Home </strong>- Colore e Allegria per la Tavola</p>",
             "link_label": "",
@@ -439,11 +439,11 @@
         "column_M66GrG": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/miho-duetto-candelabri-artigiali.jpg",
+            "image": "shopify://shop_images/printwork-chess-clouds-scacchiera-da-tavolo-3.webp",
             "title": "",
-            "text": "<p><strong>Miho - </strong>Design poetico e sostenibile</p>",
+            "text": "<p><strong>Printworks - </strong>Design romantico</p>",
             "link_label": "",
-            "link": "shopify://collections/miho"
+            "link": "shopify://collections/printworks"
           }
         },
         "column_fbiWmg": {
