@@ -170,7 +170,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Un dono pensato per questo traguardo non è soltanto un ricordo da conservare, ma può diventare un alleato concreto nella vita quotidiana: un accessorio che facilita studio e lavoro, un oggetto che migliora la postazione di scrittura, un elemento d’arredo che rende speciale il nuovo appartamento. <strong>Abbiamo selezionato idee che uniscono utilità, design e valore simbolico</strong>, per dare sostegno ai progetti futuri e accompagna­re al meglio questo <strong>nuovo capitolo</strong>.</p>",
+            "text": "<p>Un dono pensato per questo traguardo non è soltanto un ricordo da conservare, ma può diventare un alleato concreto nella vita quotidiana: un accessorio che facilita studio e lavoro, un oggetto che migliora la postazione di scrittura, un elemento d’arredo che rende speciale il nuovo appartamento. <strong>Abbiamo selezionato idee che uniscono utilità, design e valore simbolico</strong>, per dare sostegno ai progetti futuri e accompagna­re al meglio questo <strong>nuovo capitolo</strong>.<br/><br/></p><h3><strong>Oggetti di design per ricordare il traguardo accademico</strong></h3><p><br/>Pezzi iconici, collezioni firmate e oggetti contemporanei che trasformano un momento importante in un ricordo da mostrare con orgoglio. Dettagli che arredano e durano nel tempo.<br/></p>",
             "link_label": "",
             "link": ""
           }
@@ -198,45 +198,96 @@
         "padding_bottom": 0
       }
     },
-    "image_with_text_pCmiAe": {
-      "type": "image-with-text",
+    "multicolumn_wDET3k": {
+      "type": "multicolumn",
       "blocks": {
-        "text_7rmG4q": {
-          "type": "text",
+        "column_ggxnNz": {
+          "type": "column",
           "settings": {
-            "text": "<h3><strong>Idee regalo per la casa e la cucina</strong></h3><p>Le nostre <strong>idee regalo sotto i 100 € per la casa e la cucina</strong> spaziano dagli <strong>utensili funzionali di design</strong> agli <strong>accessori decorativi contemporanei</strong>, fino ai <strong>profumatori e alle candele artigianali</strong> che creano atmosfere accoglienti.</p><p>Scegli tra:</p><ul><li><strong>Articoli per la tavola e la mise en place</strong> – bicchieri, tazze, piatti e vassoi che combinano design e convivialità.<br/></li><li><strong>Accessori per la cucina smart</strong> – soluzioni intelligenti come gli utensili <em>Joseph Joseph</em>, perfetti per chi ama cucinare con praticità e stile.<br/></li><li><strong>Complementi d’arredo</strong> – oggetti <em>Seletti</em> o <em>Printworks</em> dal carattere unico, per dare personalità agli ambienti.<br/></li><li><strong>Candele e fragranze d’ambiente</strong> – idee raffinate che trasformano ogni stanza in uno spazio più intimo e piacevole.<br/></li></ul><p>Sono regali pensati per chi apprezza il design funzionale e per chi crede che <strong>anche i gesti quotidiani possano avere bellezza</strong>.</p>",
-            "text_style": "body"
+            "image": "shopify://shop_images/13132_2.jpg",
+            "title": "",
+            "text": "<p><strong>MIHO</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/miho?filter.v.price.gte=&filter.v.price.lte=55&sort_by=manual"
           }
         },
-        "button_YCTLkn": {
-          "type": "button",
+        "column_cQLFkJ": {
+          "type": "column",
           "settings": {
-            "button_label": "Idee Regalo Casa e Cucina",
-            "button_link": "shopify://collections/idee-regalo-per-casa-e-cucina",
-            "button_style_secondary": true
+            "image": "shopify://shop_images/bitossi-home-la-tavola-scomposta-piattino-ti-amo.jpg",
+            "title": "",
+            "text": "<p><strong>BITOSSI HOME</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-i-piattini-bitossi-home"
+          }
+        },
+        "column_CWEJdV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/doiy-rainbow-reggilibri-4.webp",
+            "title": "",
+            "text": "<p><strong>DOIY</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/doiy"
+          }
+        },
+        "column_Yafq3C": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-toiletpaper-tappeto-bagno-shit-sagomato-2.jpg",
+            "title": "",
+            "text": "<p><strong>SELETTI</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-catalogo-prodotti-toiletpaper"
+          }
+        },
+        "column_mPJdWC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-not-ice-cubetti-pietra-ollare-4.jpg",
+            "title": "",
+            "text": "<p><strong>KNINDUSTRIE</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
+          }
+        },
+        "column_7Xkjqn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/printwork-chess-play-scacchiera-da-tavolo-4.webp",
+            "title": "",
+            "text": "<p><strong>PRINTWORKS</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/printworks"
           }
         }
       },
       "block_order": [
-        "text_7rmG4q",
-        "button_YCTLkn"
+        "column_ggxnNz",
+        "column_cQLFkJ",
+        "column_CWEJdV",
+        "column_Yafq3C",
+        "column_mPJdWC",
+        "column_7Xkjqn"
       ],
-      "disabled": true,
-      "name": "t:sections.image-with-text.presets.name",
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
       "settings": {
-        "image": "shopify://shop_images/knindustrie-oliera-acetiera-4.webp",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "multicolumn_rEpzeR": {
@@ -338,20 +389,20 @@
         "heading_GHqMQJ": {
           "type": "heading",
           "settings": {
-            "heading": "Buoni regalo e Gift Card U&M da 100€",
+            "heading": "Buoni regalo e Gift Card U&M per un pensiero di laurea versatile",
             "heading_size": "h2"
           }
         },
         "text_UadaJa": {
           "type": "text",
           "settings": {
-            "text": "<p><em>Quando la scelta diventa difficile, la soluzione più elegante è lasciare libertà.</em><br/><br/>Le <strong>Gift Card Unico & Multiplo</strong> rappresentano un dono versatile, adatto a ogni età e occasione.<br/>Con un buono regalo da 100 €, offri la possibilità di <strong>scegliere tra design, accessori e oggetti d’autore</strong>, mantenendo intatto il piacere di ricevere qualcosa di pensato.</p>"
+            "text": "<p><em>Quando la scelta diventa difficile, la soluzione più elegante è lasciare libertà.</em><br/><br/>Quando i gusti non sono così facili da interpretare, la <strong>Gift Card Unico & Multiplo è la scelta più elegante.</strong> Offre libertà, flessibilità e la certezza di donare qualcosa che verrà davvero apprezzato.<br/></p>"
           }
         },
         "button_bh33Gd": {
           "type": "button",
           "settings": {
-            "button_label": "Gift Card da 100€",
+            "button_label": "Vai ai Buoni Regalo",
             "button_link": "shopify://products/gift-card-u-m-carta-regalo-32",
             "button_style_secondary": false,
             "button_label_2": "",
@@ -365,13 +416,12 @@
         "text_UadaJa",
         "button_bh33Gd"
       ],
-      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
+        "color_scheme": "scheme-2",
+        "full_width": false,
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -476,103 +526,10 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn_wDET3k": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_ggxnNz": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/13132_2.jpg",
-            "title": "",
-            "text": "<p><strong>MIHO</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/miho?filter.v.price.gte=&filter.v.price.lte=55&sort_by=manual"
-          }
-        },
-        "column_cQLFkJ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/bitossi-home-la-tavola-scomposta-piattino-ti-amo.jpg",
-            "title": "",
-            "text": "<p><strong>BITOSSI HOME</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/bitossi-home-i-piattini-bitossi-home"
-          }
-        },
-        "column_CWEJdV": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/doiy-rainbow-reggilibri-4.webp",
-            "title": "",
-            "text": "<p><strong>DOIY</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/doiy"
-          }
-        },
-        "column_Yafq3C": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-toiletpaper-tappeto-bagno-shit-sagomato-2.jpg",
-            "title": "",
-            "text": "<p><strong>SELETTI</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-toiletpaper"
-          }
-        },
-        "column_mPJdWC": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-not-ice-cubetti-pietra-ollare-4.jpg",
-            "title": "",
-            "text": "<p><strong>KNINDUSTRIE</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
-          }
-        },
-        "column_7Xkjqn": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/printwork-chess-play-scacchiera-da-tavolo-4.webp",
-            "title": "",
-            "text": "<p><strong>PRINTWORKS</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/printworks"
-          }
-        }
-      },
-      "block_order": [
-        "column_ggxnNz",
-        "column_cQLFkJ",
-        "column_CWEJdV",
-        "column_Yafq3C",
-        "column_mPJdWC",
-        "column_7Xkjqn"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 16,
-        "padding_bottom": 16
+        "padding_top": 0,
+        "padding_bottom": 36
       }
     },
     "image_banner_iRzdG6": {
@@ -609,7 +566,6 @@
         "text_UwXjBM",
         "buttons_iKXmUK"
       ],
-      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/unico-e-multiplo-regali-originali.webp",
@@ -633,12 +589,11 @@
     "multicolumn_jEaAiD",
     "multirow_c3DGJh",
     "multicolumn_qLLKQj",
-    "image_with_text_pCmiAe",
+    "multicolumn_wDET3k",
     "multicolumn_rEpzeR",
     "rich_text_H9k83a",
     "multicolumn_HVEdWC",
     "multicolumn_NT6a7n",
-    "multicolumn_wDET3k",
     "image_banner_iRzdG6"
   ]
 }
