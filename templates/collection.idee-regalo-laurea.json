@@ -1,0 +1,663 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        "a {color: #598db2;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
+      }
+    },
+    "custom_liquid_YVhqVc": {
+      "type": "custom-liquid",
+      "custom_css": [],
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Natale\">\n  <nav class=\"xmas-quick-links\">\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=115&sort_by=manual\" class=\"button button--primary button--small\">Idee Regalo per Lei</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lui?filter.v.price.gte=&filter.v.price.lte=115&sort_by=created-descending\" class=\"button button--primary button--small\">Idee Regalo per Lui</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-per-casa-e-cucina?filter.v.price.gte=&filter.v.price.lte=115&sort_by=manual\" class=\"button button--primary button--small\">Idee Regalo per Casa e Cucina</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-compleanno?filter.v.price.gte=&filter.v.price.lte=115&sort_by=manual\" class=\"button button--primary button--small\">Idee regalo Compleanno</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-laurea-e-diploma?filter.v.price.gte=&filter.v.price.lte=115&sort_by=created-descending\" class=\"button button--primary button--small\">Idee regalo Laurea e Diploma</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-san-valentino?filter.v.price.gte=&filter.v.price.lte=115&sort_by=manual\" class=\"button button--primary button--small\">Idee regalo Romantiche</a>\n  </nav>\n</div>\n\n<style>\n  .xmas-quick-links {\n    display:flex;\n    flex-wrap:wrap;\n    gap:.5rem;\n    margin:.5rem 0 1rem;\n  }\n  /* Optional: bottoni a tutta larghezza su mobile */\n  @media (max-width: 749px) {\n    .xmas-quick-links a {\n      width: 100%;\n      justify-content: center;\n    }\n  }\n</style>",
+        "color_scheme": "scheme-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 36,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "none",
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_jEaAiD": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gM9GAP": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qUMMa4": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Quando il momento è importante, questa fascia di spesa permette di scegliere con attenzione e senza compromessi.<br/>Con un budget sotto i 100€, puoi trovare <strong>oggetti di valore, eleganti e simbolici</strong>, capaci di accompagnare ogni tipo di ricorrenza con il giusto equilibrio tra <strong>raffinatezza e semplicità</strong>.<br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_gM9GAP",
+        "column_qUMMa4"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Proposte regalo fino a 100€ per occasioni e ricorrenze importanti",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 32,
+        "padding_bottom": 0
+      }
+    },
+    "multirow_c3DGJh": {
+      "type": "multirow",
+      "blocks": {
+        "row_GLrVUe": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/idee-regalo-compleanno-unico-e-multiplo.webp",
+            "caption": "",
+            "heading": "",
+            "text": "<h3><strong>Regali compleanno e diciottesimo che lasciano il segno</strong></h3><p>Ogni compleanno è un’occasione per raccontare chi siamo e chi diventeremo. Per un amico, un partner o un familiare, un <strong>regalo sotto i 100€</strong> può essere un modo elegante e personale di dire “ti penso”.<br/><br/>Dalle <strong>idee di design per la casa</strong> ai <strong>gadget lifestyle</strong>, dai <strong>profumi d’ambiente</strong> agli <strong>oggetti simbolici che celebrano un traguardo</strong>, la scelta giusta riesce sempre a unire estetica e significato.<br/>Per un diciottesimo, puoi puntare su <strong>regali originali e moderni</strong>, come articoli per l’arredo o accessori pratici che inaugurano la vita “da adulti”.<br/><br/>Sono proposte che si ricordano nel tempo, pensate per sorprendere senza eccessi ma con <strong>un tocco di stile e autenticità</strong>.A volte basta un piccolo gesto per trasformare un compleanno in un momento speciale.<br/></p>",
+            "button_label": "Idee Regalo Compleanno",
+            "button_link": "https://www.unicoemultiplo.com/collections/idee-regalo-compleanno?filter.v.price.gte=&filter.v.price.lte=60&sort_by=manual"
+          }
+        },
+        "row_9NQAgr": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/idee-regalo-diploma-laurea-unico-e-multiplo.webp",
+            "caption": "",
+            "heading": "",
+            "text": "<h3><strong>Regali per laurea, diploma, comunione o cresima</strong></h3><p>Le tappe che segnano un nuovo inizio meritano un regalo che lasci un’impronta.<br/><br/>Le nostre <strong>idee regalo sotto i 100€</strong> per laurea, diploma, comunione o cresima combinano <strong>design e valore simbolico</strong>: oggetti che si fanno ricordare, ma che al tempo stesso trovano spazio nella quotidianità.</p><p>Un portapenne di design per un neolaureato, un profumatore per l’ambiente che accompagni un trasferimento, un oggetto decorativo che diventa <strong>segno di incoraggiamento e fiducia</strong>.<br/><br/>Ogni proposta è pensata per essere duratura, significativa e sempre in linea con un’estetica curata e moderna.</p>",
+            "button_label": "Idee Regalo Laurea e Diploma",
+            "button_link": "https://www.unicoemultiplo.com/collections/idee-regalo-laurea-e-diploma?filter.v.price.gte=&filter.v.price.lte=60&sort_by=created-descending"
+          }
+        },
+        "row_UPAhRk": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/idee-regalo-san-valentino-unico-e-multiplo.webp",
+            "caption": "",
+            "heading": "",
+            "text": "<h3><strong>Sorprese romantiche per San Valentino e anniversari</strong></h3><p>Quando il regalo è per il cuore, non serve strafare: basta scegliere con sensibilità.  Con un budget sotto i 100€, puoi trovare <strong>idee romantiche ed eleganti</strong>, come piccoli complementi d’arredo, accessori di coppia, profumi o oggetti simbolici che raccontano la vostra storia.</p><p>Un dono pensato con cura diventa <strong>un messaggio di attenzione e presenza</strong>, qualcosa che va oltre l’oggetto stesso. Puoi optare per un <strong>design essenziale ma evocativo</strong>, una candela che ricordi un momento condiviso, oppure un oggetto da tenere in casa come simbolo di un legame che cresce nel tempo.</p>",
+            "button_label": "Idee Regalo San Valentino",
+            "button_link": "shopify://collections/idee-regalo-san-valentino"
+          }
+        },
+        "row_LTJhEF": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/idee-regalo-sposi-anniversario-nozze-unico-e-multiplo.webp",
+            "caption": "",
+            "heading": "",
+            "text": "<h3><strong>Regali per sposi, nozze d’oro o d’argento</strong></h3><p>Per chi celebra l’amore o un’unione duratura, il regalo perfetto è quello che unisce <strong>bellezza, funzionalità e memoria</strong>. Sotto i 100 €, trovi tante <strong>idee regalo per sposi</strong> o per anniversari importanti, dai <strong>pezzi di design per la casa</strong> agli <strong>accessori decorativi dal gusto raffinato</strong>.</p><p>Oggetti come <strong>centrotavola, profumatori, candele di design, set per la tavola o articoli artigianali</strong> diventano un modo concreto per dire “vi auguro felicità”. Sono pensieri che non passano inosservati e che restano nel tempo, ideali per chi ama la sobrietà con un tocco contemporaneo.</p>",
+            "button_label": "Idee Regalo Sposi",
+            "button_link": "shopify://collections/idee-regalo-sposi"
+          }
+        },
+        "row_gKpTy3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/idee-regalo-pasqua-100-euro-unico-e-multiplo.webp",
+            "caption": "",
+            "heading": "",
+            "text": "<h3><strong>Idee regalo per Pasqua, tra tradizione e creatività</strong></h3><p>La Pasqua è il momento ideale per un <strong>pensiero leggero ma curato</strong>, capace di unire la tradizione del dono con la voglia di novità. Un budget di 100 € ti permette di scegliere <strong>oggetti decorativi per la casa, candele profumate, set per la tavola o piccoli elementi di design</strong> che portano colore e armonia.</p><p>Scegli qualcosa che racconti <strong>attenzione per i dettagli e desiderio di condividere bellezza</strong>, anche nelle occasioni più semplici. Un regalo per Pasqua può essere simbolico, ma non per questo privo di valore: basta un oggetto scelto bene per <strong>rendere speciale anche un gesto spontaneo</strong>.</p>",
+            "button_label": "Idee Regalo Pasqua",
+            "button_link": "shopify://collections/idee-regalo-pasqua"
+          }
+        }
+      },
+      "block_order": [
+        "row_GLrVUe",
+        "row_9NQAgr",
+        "row_UPAhRk",
+        "row_LTJhEF",
+        "row_gKpTy3"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_rEpzeR": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ti8DtJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/verygoods-candela-1.jpg",
+            "title": "",
+            "text": "<p><strong>CANDELE</strong><br/>Accendono atmosfere (e sorrisi)</p>",
+            "link_label": "",
+            "link": "shopify://collections/illuminazione-candelabri-e-candele"
+          }
+        },
+        "column_K6dApD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/kikkerland-decorate-your-own-cup-kit-kit-decora-la-tua-tazza_1.webp",
+            "title": "",
+            "text": "<p><strong>EFFETTO \"WOW\"</strong></p><p>Idee regalo che lasciano il segno.</p>",
+            "link_label": "",
+            "link": "shopify://collections/kikkerland"
+          }
+        },
+        "column_r7fJtT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Doiy-design-scatola_6fad84bf-3209-4700-8a2a-a9fe73f2a740.webp",
+            "title": "",
+            "text": "<p><strong>COLOUR LOVER</strong></p><p>Design pop e ironico, a tutta cromia!</p>",
+            "link_label": "",
+            "link": "shopify://collections/doiy"
+          }
+        },
+        "column_NWwBQe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-home-torchon-formaggi-posate_feb622f1-a39e-4178-afcc-1f2d056a348b.webp",
+            "title": "",
+            "text": "<p><strong>BITOSSI <br/></strong></p><p>Colorati, utili, irresistibili</p>",
+            "link_label": "",
+            "link": "shopify://collections/disegnetti-depressetti"
+          }
+        },
+        "column_WGCFK9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/printwork-happily-ever-after-album-fotp-1.webp",
+            "title": "",
+            "text": "<p><strong>PRINTWORKS</strong></p><p>idee regalo da ricordare!</p>",
+            "link_label": "",
+            "link": "shopify://collections/printworks"
+          }
+        },
+        "column_ApnEdY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-home-tazze-e-tazzine.webp",
+            "title": "",
+            "text": "<h3><strong>TÈ & CAFFÈ</strong></h3><p>Sveglia il suo sorriso, una tazza alla volta.</p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-tazze-tazzine-mug"
+          }
+        }
+      },
+      "block_order": [
+        "column_ti8DtJ",
+        "column_K6dApD",
+        "column_r7fJtT",
+        "column_NWwBQe",
+        "column_WGCFK9",
+        "column_ApnEdY"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "multicolumn_qLLKQj": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_746nNM": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PGkWma": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Scegliere un oggetto che unisce <strong>funzionalità, estetica e qualità</strong> significa fare un dono che verrà davvero utilizzato, e ricordato nel tempo. Con un budget sotto i 100 €, puoi trovare <strong>idee regalo di design </strong>che portano eleganza nella quotidianità: accessori intelligenti, articoli per la casa e la cucina, oggetti per l’ufficio o per il relax domestico.<br/>Sia che tu stia cercando un <strong>pensiero </strong>per una <strong>nuova casa, un compleanno o una ricorrenza speciale</strong>, qui trovi proposte che sanno sorprendere con discrezione e buon gusto.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_746nNM",
+        "column_PGkWma"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Regali utili e di design sotto i 100€",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 32,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_pCmiAe": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_7rmG4q": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Idee regalo per la casa e la cucina</strong></h3><p>Le nostre <strong>idee regalo sotto i 100 € per la casa e la cucina</strong> spaziano dagli <strong>utensili funzionali di design</strong> agli <strong>accessori decorativi contemporanei</strong>, fino ai <strong>profumatori e alle candele artigianali</strong> che creano atmosfere accoglienti.</p><p>Scegli tra:</p><ul><li><strong>Articoli per la tavola e la mise en place</strong> – bicchieri, tazze, piatti e vassoi che combinano design e convivialità.<br/></li><li><strong>Accessori per la cucina smart</strong> – soluzioni intelligenti come gli utensili <em>Joseph Joseph</em>, perfetti per chi ama cucinare con praticità e stile.<br/></li><li><strong>Complementi d’arredo</strong> – oggetti <em>Seletti</em> o <em>Printworks</em> dal carattere unico, per dare personalità agli ambienti.<br/></li><li><strong>Candele e fragranze d’ambiente</strong> – idee raffinate che trasformano ogni stanza in uno spazio più intimo e piacevole.<br/></li></ul><p>Sono regali pensati per chi apprezza il design funzionale e per chi crede che <strong>anche i gesti quotidiani possano avere bellezza</strong>.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_YCTLkn": {
+          "type": "button",
+          "settings": {
+            "button_label": "Idee Regalo Casa e Cucina",
+            "button_link": "shopify://collections/idee-regalo-per-casa-e-cucina",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "text_7rmG4q",
+        "button_YCTLkn"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/knindustrie-oliera-acetiera-4.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_H9k83a": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_GHqMQJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Buoni regalo e Gift Card U&M da 100€",
+            "heading_size": "h2"
+          }
+        },
+        "text_UadaJa": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Quando la scelta diventa difficile, la soluzione più elegante è lasciare libertà.</em><br/><br/>Le <strong>Gift Card Unico & Multiplo</strong> rappresentano un dono versatile, adatto a ogni età e occasione.<br/>Con un buono regalo da 100 €, offri la possibilità di <strong>scegliere tra design, accessori e oggetti d’autore</strong>, mantenendo intatto il piacere di ricevere qualcosa di pensato.</p>"
+          }
+        },
+        "button_bh33Gd": {
+          "type": "button",
+          "settings": {
+            "button_label": "Gift Card da 100€",
+            "button_link": "shopify://products/gift-card-u-m-carta-regalo-32",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_GHqMQJ",
+        "text_UadaJa",
+        "button_bh33Gd"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_HVEdWC": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_47i7Ak": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_46wGzw": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Nella fascia di prezzo sotto i 100 €, trovi una selezione di <strong>idee regalo personalizzate e significative</strong>, pensate per adattarsi ai diversi legami che contano davvero: l’amore, l’amicizia, la famiglia, la riconoscenza.<br/><br/>Scegliere con attenzione è il modo più autentico per dire <em>“ti conosco, ti apprezzo, ti ho pensato”</em>.</p><p>Non serve cercare l’oggetto perfetto, ma quello giusto per la persona giusta: un profumo d’ambiente per chi ama la casa, un accessorio per chi vive di dettagli, un piccolo oggetto di design per chi apprezza l’ironia e la creatività.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_47i7Ak",
+        "column_46wGzw"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Regali fino a 100€ pensati per la persona giusta",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 32,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_NT6a7n": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_fnCG6f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IZIPIZI-occhiali-da-sole-idee-regalo.webp",
+            "title": "",
+            "text": "<h3><strong>Idee Regalo per il tuo lui</strong></h3><p><br/>Per amici, fratelli, colleghi o partner: <strong>idee sotto i 100€</strong> che uniscono utilità e stile, oggetti <strong>concreti ma mai banali.</strong><br/><br/><strong>IDEE PER LUI →</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lui?filter.v.price.gte=40&filter.v.price.lte=110&sort_by=created-descending"
+          }
+        },
+        "column_fLrJCK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/verygoods-candela-1.jpg",
+            "title": "",
+            "text": "<h3><strong>Idee Regalo per la tua lei</strong></h3><p><br/>Piccole attenzioni che parlano di gusto e personalità. Perfetti per <strong>sorelle, amiche, colleghe </strong>che amano i dettagli.<br/><br/><strong>IDEE PER LEI →</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=40&filter.v.price.lte=110&sort_by=manual"
+          }
+        },
+        "column_L8VdTy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/kikkerland-memo-idea-regalo-natale-cnydKuYmO-transformed_1.jpg",
+            "title": "",
+            "text": "<h3><strong>Regali per i colleghi</strong></h3><p><br/>Per colleghi, collaboratori o capi che apprezzano lo stile sobrio ma ricercato trova il tuo <strong>regalo sotto i 100€.</strong><br/><br/><strong>IDEE PER COLLEGHI →</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/tempo-libero?filter.v.price.gte=40&filter.v.price.lte=110&sort_by=manual"
+          }
+        }
+      },
+      "block_order": [
+        "column_fnCG6f",
+        "column_fLrJCK",
+        "column_L8VdTy"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_wDET3k": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ggxnNz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/13132_2.jpg",
+            "title": "",
+            "text": "<p><strong>MIHO</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/miho?filter.v.price.gte=&filter.v.price.lte=55&sort_by=manual"
+          }
+        },
+        "column_cQLFkJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-home-la-tavola-scomposta-piattino-ti-amo.jpg",
+            "title": "",
+            "text": "<p><strong>BITOSSI HOME</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-i-piattini-bitossi-home"
+          }
+        },
+        "column_CWEJdV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/doiy-rainbow-reggilibri-4.webp",
+            "title": "",
+            "text": "<p><strong>DOIY</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/doiy"
+          }
+        },
+        "column_Yafq3C": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-toiletpaper-tappeto-bagno-shit-sagomato-2.jpg",
+            "title": "",
+            "text": "<p><strong>SELETTI</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-catalogo-prodotti-toiletpaper"
+          }
+        },
+        "column_mPJdWC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-not-ice-cubetti-pietra-ollare-4.jpg",
+            "title": "",
+            "text": "<p><strong>KNINDUSTRIE</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
+          }
+        },
+        "column_7Xkjqn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/printwork-chess-play-scacchiera-da-tavolo-4.webp",
+            "title": "",
+            "text": "<p><strong>PRINTWORKS</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/printworks"
+          }
+        }
+      },
+      "block_order": [
+        "column_ggxnNz",
+        "column_cQLFkJ",
+        "column_CWEJdV",
+        "column_Yafq3C",
+        "column_mPJdWC",
+        "column_7Xkjqn"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "image_banner_iRzdG6": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_LDHWyc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ispirazioni per chi cerca regali entro 100€ fuori dall’ordinario",
+            "heading_size": "h1"
+          }
+        },
+        "text_UwXjBM": {
+          "type": "text",
+          "settings": {
+            "text": "Non tutti i regali devono seguire le regole.Per chi ama sorprendere e uscire dagli schemi, abbiamo selezionato <strong>idee creative e originali</strong> sotto i 100 €, perfette per chi “ha già tutto”. Oggetti dal design ironico, accessori smart, articoli per la casa o piccoli pensieri che fanno sorridere e restano nel tempo.",
+            "text_style": "body"
+          }
+        },
+        "buttons_iKXmUK": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Regalare per stupire",
+            "button_link_1": "shopify://blogs/regalare-per-stupire",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_LDHWyc",
+        "text_UwXjBM",
+        "buttons_iKXmUK"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/unico-e-multiplo-regali-originali.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "custom_liquid_YVhqVc",
+    "product-grid",
+    "multicolumn_jEaAiD",
+    "multirow_c3DGJh",
+    "multicolumn_rEpzeR",
+    "multicolumn_qLLKQj",
+    "image_with_text_pCmiAe",
+    "rich_text_H9k83a",
+    "multicolumn_HVEdWC",
+    "multicolumn_NT6a7n",
+    "multicolumn_wDET3k",
+    "image_banner_iRzdG6"
+  ]
+}
