@@ -191,7 +191,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 32,
@@ -288,6 +288,55 @@
         "swipe_on_mobile": true,
         "padding_top": 16,
         "padding_bottom": 16
+      }
+    },
+    "multicolumn_zjRVV7": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_qkzFRw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/kikkerland-memo-idea-regalo-natale-cnydKuYmO-transformed_1.jpg",
+            "title": "",
+            "text": "<h3><strong>Accessori da scrivania e studio per il dopo laurea</strong></h3><p><br/>Organizer, lampade, strumenti funzionali e piccoli accessori che migliorano la postazione di studio e lavoro. Idee perfette per chi inizia un nuovo percorso professionale.<br/><br/><em><strong>Vai alla categoria Ufficio </strong></em><strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/tempo-libero"
+          }
+        },
+        "column_DDbJAJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/verygoods-candela-1.jpg",
+            "title": "",
+            "text": "<h3><strong>Idee per la casa di chi festeggia la laurea</strong></h3><p><br/>Per chi si trasferisce, rinnova gli spazi o vuole creare un ambiente accogliente, le idee per la casa sono sempre un successo: accessori intelligenti, arredi decorativi e oggetti conviviali.<br/><br/><em><strong>Scopri Idee Regalo Casa e Cucina</strong></em><em> </em><strong>→</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=40&filter.v.price.lte=110&sort_by=manual"
+          }
+        }
+      },
+      "block_order": [
+        "column_qkzFRw",
+        "column_DDbJAJ"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 4
       }
     },
     "multicolumn_rEpzeR": {
@@ -590,6 +639,7 @@
     "multirow_c3DGJh",
     "multicolumn_qLLKQj",
     "multicolumn_wDET3k",
+    "multicolumn_zjRVV7",
     "multicolumn_rEpzeR",
     "rich_text_H9k83a",
     "multicolumn_HVEdWC",
