@@ -67,7 +67,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Un regalo ha valore quando parla direttamente alla persona che lo riceve. Per questo abbiamo raccolto proposte che cambiano tono e significato a seconda del destinatario: partner, amica, figlio, sorella o collega.</p>",
+            "text": "<p>La <strong>laurea </strong>o il <strong>diploma </strong>non sono soltanto un <strong>traguardo </strong>da celebrare, ma un passaggio di vita pieno di <strong>emozioni</strong>, <strong>sogni </strong>e <strong>nuovi inizi</strong>. Il regalo giusto, quindi, deve parlare alla persona che lo riceve: ai suoi gusti, alle sue ambizioni e al modo in cui sta per affrontare la prossima fase del suo percorso. Che si tratti di un’amica, di un partner, di un figlio o di un parente, ogni proposta qui raccolta è pensata per <strong>valorizzare la personalità</strong> di chi festeggia e trasformare il momento in un <strong>ricordo da custodire.</strong></p>",
             "link_label": "",
             "link": ""
           }
@@ -154,6 +154,91 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_qLLKQj": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_746nNM": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PGkWma": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Un dono pensato per questo traguardo non è soltanto un ricordo da conservare, ma può diventare un alleato concreto nella vita quotidiana: un accessorio che facilita studio e lavoro, un oggetto che migliora la postazione di scrittura, un elemento d’arredo che rende speciale il nuovo appartamento. <strong>Abbiamo selezionato idee che uniscono utilità, design e valore simbolico</strong>, per dare sostegno ai progetti futuri e accompagna­re al meglio questo <strong>nuovo capitolo</strong>.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_746nNM",
+        "column_PGkWma"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<strong>Regali di laurea e diploma che accompagnano i nuovi inizi</strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 32,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_pCmiAe": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_7rmG4q": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Idee regalo per la casa e la cucina</strong></h3><p>Le nostre <strong>idee regalo sotto i 100 € per la casa e la cucina</strong> spaziano dagli <strong>utensili funzionali di design</strong> agli <strong>accessori decorativi contemporanei</strong>, fino ai <strong>profumatori e alle candele artigianali</strong> che creano atmosfere accoglienti.</p><p>Scegli tra:</p><ul><li><strong>Articoli per la tavola e la mise en place</strong> – bicchieri, tazze, piatti e vassoi che combinano design e convivialità.<br/></li><li><strong>Accessori per la cucina smart</strong> – soluzioni intelligenti come gli utensili <em>Joseph Joseph</em>, perfetti per chi ama cucinare con praticità e stile.<br/></li><li><strong>Complementi d’arredo</strong> – oggetti <em>Seletti</em> o <em>Printworks</em> dal carattere unico, per dare personalità agli ambienti.<br/></li><li><strong>Candele e fragranze d’ambiente</strong> – idee raffinate che trasformano ogni stanza in uno spazio più intimo e piacevole.<br/></li></ul><p>Sono regali pensati per chi apprezza il design funzionale e per chi crede che <strong>anche i gesti quotidiani possano avere bellezza</strong>.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_YCTLkn": {
+          "type": "button",
+          "settings": {
+            "button_label": "Idee Regalo Casa e Cucina",
+            "button_link": "shopify://collections/idee-regalo-per-casa-e-cucina",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "text_7rmG4q",
+        "button_YCTLkn"
+      ],
+      "disabled": true,
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/knindustrie-oliera-acetiera-4.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn_rEpzeR": {
       "type": "multicolumn",
       "blocks": {
@@ -226,6 +311,7 @@
         "column_WGCFK9",
         "column_ApnEdY"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -244,91 +330,6 @@
         "swipe_on_mobile": true,
         "padding_top": 16,
         "padding_bottom": 16
-      }
-    },
-    "multicolumn_qLLKQj": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_746nNM": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_PGkWma": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Scegliere un oggetto che unisce <strong>funzionalità, estetica e qualità</strong> significa fare un dono che verrà davvero utilizzato, e ricordato nel tempo. Con un budget sotto i 100 €, puoi trovare <strong>idee regalo di design </strong>che portano eleganza nella quotidianità: accessori intelligenti, articoli per la casa e la cucina, oggetti per l’ufficio o per il relax domestico.<br/>Sia che tu stia cercando un <strong>pensiero </strong>per una <strong>nuova casa, un compleanno o una ricorrenza speciale</strong>, qui trovi proposte che sanno sorprendere con discrezione e buon gusto.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_746nNM",
-        "column_PGkWma"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Regali utili e di design sotto i 100€",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 32,
-        "padding_bottom": 0
-      }
-    },
-    "image_with_text_pCmiAe": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_7rmG4q": {
-          "type": "text",
-          "settings": {
-            "text": "<h3><strong>Idee regalo per la casa e la cucina</strong></h3><p>Le nostre <strong>idee regalo sotto i 100 € per la casa e la cucina</strong> spaziano dagli <strong>utensili funzionali di design</strong> agli <strong>accessori decorativi contemporanei</strong>, fino ai <strong>profumatori e alle candele artigianali</strong> che creano atmosfere accoglienti.</p><p>Scegli tra:</p><ul><li><strong>Articoli per la tavola e la mise en place</strong> – bicchieri, tazze, piatti e vassoi che combinano design e convivialità.<br/></li><li><strong>Accessori per la cucina smart</strong> – soluzioni intelligenti come gli utensili <em>Joseph Joseph</em>, perfetti per chi ama cucinare con praticità e stile.<br/></li><li><strong>Complementi d’arredo</strong> – oggetti <em>Seletti</em> o <em>Printworks</em> dal carattere unico, per dare personalità agli ambienti.<br/></li><li><strong>Candele e fragranze d’ambiente</strong> – idee raffinate che trasformano ogni stanza in uno spazio più intimo e piacevole.<br/></li></ul><p>Sono regali pensati per chi apprezza il design funzionale e per chi crede che <strong>anche i gesti quotidiani possano avere bellezza</strong>.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_YCTLkn": {
-          "type": "button",
-          "settings": {
-            "button_label": "Idee Regalo Casa e Cucina",
-            "button_link": "shopify://collections/idee-regalo-per-casa-e-cucina",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "text_7rmG4q",
-        "button_YCTLkn"
-      ],
-      "disabled": true,
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/knindustrie-oliera-acetiera-4.webp",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
       }
     },
     "rich_text_H9k83a": {
@@ -631,9 +632,9 @@
     "product-grid",
     "multicolumn_jEaAiD",
     "multirow_c3DGJh",
-    "multicolumn_rEpzeR",
     "multicolumn_qLLKQj",
     "image_with_text_pCmiAe",
+    "multicolumn_rEpzeR",
     "rich_text_H9k83a",
     "multicolumn_HVEdWC",
     "multicolumn_NT6a7n",
