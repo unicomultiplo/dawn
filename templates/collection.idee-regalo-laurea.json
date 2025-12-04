@@ -77,6 +77,7 @@
         "column_gM9GAP",
         "column_qUMMa4"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Proposte regalo fino a 100€ per occasioni e ricorrenze importanti",
@@ -161,6 +162,7 @@
         "row_LTJhEF",
         "row_gKpTy3"
       ],
+      "disabled": true,
       "name": "t:sections.multirow.presets.name",
       "settings": {
         "image_height": "small",
@@ -297,6 +299,7 @@
         "column_746nNM",
         "column_PGkWma"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Regali utili e di design sotto i 100€",
@@ -338,6 +341,7 @@
         "text_7rmG4q",
         "button_YCTLkn"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/knindustrie-oliera-acetiera-4.webp",
@@ -388,6 +392,7 @@
         "text_UadaJa",
         "button_bh33Gd"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
@@ -424,6 +429,7 @@
         "column_47i7Ak",
         "column_46wGzw"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Regali fino a 100€ pensati per la persona giusta",
@@ -481,6 +487,7 @@
         "column_fLrJCK",
         "column_L8VdTy"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -629,6 +636,7 @@
         "text_UwXjBM",
         "buttons_iKXmUK"
       ],
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/unico-e-multiplo-regali-originali.webp",
