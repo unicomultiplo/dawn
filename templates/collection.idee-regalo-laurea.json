@@ -14,9 +14,19 @@
       "custom_css": [],
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h1>{{ collection.title }}</h1>\n</div>\n<div class=\"page-width\" aria-label=\"Link rapidi Natale\">\n  <nav class=\"xmas-quick-links\">\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei\" class=\"button button--primary button--small\">Idee Regalo per Lei</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lui\" class=\"button button--primary button--small\">Idee Regalo per Lui</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-san-valentino\" class=\"button button--primary button--small\">Idee regalo Romantiche</a>\n <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-per-casa-e-cucina\" class=\"button button--primary button--small\">Idee Regalo per Casa e Cucina</a>\n <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-economiche\" class=\"button button--primary button--small\">Idee regalo sotto 50€</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-sotto-100-euro\" class=\"button button--primary button--small\">Idee regalo sotto 100€</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-sotto-150-euro\" class=\"button button--primary button--small\">Idee regalo sotto 150€</a> \n<a href=\"https://www.unicoemultiplo.com/products/gift-card-u-m-carta-regalo-32\" class=\"button button--primary button--small\">Gift Card</a>\n  </nav>\n</div>\n\n<style>\n  .xmas-quick-links {\n    display:flex;\n    flex-wrap:wrap;\n    gap:.5rem;\n    margin:.5rem 0 1rem;\n  }\n  /* Optional: bottoni a tutta larghezza su mobile */\n  @media (max-width: 749px) {\n    .xmas-quick-links a {\n      width: 100%;\n      justify-content: center;\n    }\n  }\n</style>",
+        "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h1>{{ collection.title }}</h1>",
         "color_scheme": "scheme-1",
         "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_VhzcN4": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Natale\">\n  <nav class=\"xmas-quick-links\">\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei\" class=\"button button--primary button--small\">Idee Regalo per Lei</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lui\" class=\"button button--primary button--small\">Idee Regalo per Lui</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-san-valentino\" class=\"button button--primary button--small\">Idee regalo Romantiche</a>\n <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-per-casa-e-cucina\" class=\"button button--primary button--small\">Idee Regalo per Casa e Cucina</a>\n <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-economiche\" class=\"button button--primary button--small\">Idee regalo sotto 50€</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-sotto-100-euro\" class=\"button button--primary button--small\">Idee regalo sotto 100€</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-sotto-150-euro\" class=\"button button--primary button--small\">Idee regalo sotto 150€</a> \n<a href=\"https://www.unicoemultiplo.com/products/gift-card-u-m-carta-regalo-32\" class=\"button button--primary button--small\">Gift Card</a>\n  </nav>\n</div>\n\n<style>\n  .xmas-quick-links {\n    display:flex;\n    flex-wrap:wrap;\n    gap:.5rem;\n    margin:.5rem 0 1rem;\n  }\n  /* Optional: bottoni a tutta larghezza su mobile */\n  @media (max-width: 749px) {\n    .xmas-quick-links a {\n      width: 100%;\n      justify-content: center;\n    }\n  }\n</style>",
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -527,6 +537,7 @@
   },
   "order": [
     "custom_liquid_YVhqVc",
+    "custom_liquid_VhzcN4",
     "banner",
     "product-grid",
     "multicolumn_jEaAiD",
