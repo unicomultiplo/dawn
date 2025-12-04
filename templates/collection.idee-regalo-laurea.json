@@ -23,7 +23,7 @@
     "banner": {
       "type": "main-collection-banner",
       "custom_css": [
-        "h1{display: none;}"
+        "h1 {display: none;}"
       ],
       "settings": {
         "show_collection_description": true,
@@ -67,7 +67,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Quando il momento è importante, questa fascia di spesa permette di scegliere con attenzione e senza compromessi.<br/>Con un budget sotto i 100€, puoi trovare <strong>oggetti di valore, eleganti e simbolici</strong>, capaci di accompagnare ogni tipo di ricorrenza con il giusto equilibrio tra <strong>raffinatezza e semplicità</strong>.<br/></p>",
+            "text": "<p>Un regalo ha valore quando parla direttamente alla persona che lo riceve. Per questo abbiamo raccolto proposte che cambiano tono e significato a seconda del destinatario: partner, amica, figlio, sorella o collega.</p>",
             "link_label": "",
             "link": ""
           }
@@ -77,10 +77,9 @@
         "column_gM9GAP",
         "column_qUMMa4"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Proposte regalo fino a 100€ per occasioni e ricorrenze importanti",
+        "title": "<strong>Idee regalo di laurea e diploma per chi festeggia</strong>",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -102,12 +101,12 @@
         "row_GLrVUe": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/idee-regalo-compleanno-unico-e-multiplo.webp",
+            "image": "shopify://shop_images/regali-per-laurea-diploma-nuove-conquiste.webp",
             "caption": "",
             "heading": "",
-            "text": "<h3><strong>Regali compleanno e diciottesimo che lasciano il segno</strong></h3><p>Ogni compleanno è un’occasione per raccontare chi siamo e chi diventeremo. Per un amico, un partner o un familiare, un <strong>regalo sotto i 100€</strong> può essere un modo elegante e personale di dire “ti penso”.<br/><br/>Dalle <strong>idee di design per la casa</strong> ai <strong>gadget lifestyle</strong>, dai <strong>profumi d’ambiente</strong> agli <strong>oggetti simbolici che celebrano un traguardo</strong>, la scelta giusta riesce sempre a unire estetica e significato.<br/>Per un diciottesimo, puoi puntare su <strong>regali originali e moderni</strong>, come articoli per l’arredo o accessori pratici che inaugurano la vita “da adulti”.<br/><br/>Sono proposte che si ricordano nel tempo, pensate per sorprendere senza eccessi ma con <strong>un tocco di stile e autenticità</strong>.A volte basta un piccolo gesto per trasformare un compleanno in un momento speciale.<br/></p>",
-            "button_label": "Idee Regalo Compleanno",
-            "button_link": "https://www.unicoemultiplo.com/collections/idee-regalo-compleanno?filter.v.price.gte=&filter.v.price.lte=60&sort_by=manual"
+            "text": "<h3><strong>Regali di laurea e diploma per lei, tra stile e dettagli curati</strong></h3><p>Per lei, il regalo perfetto è qualcosa che unisce eleganza e personalità: accessori raffinati, oggetti di design che valorizzano la nuova fase della vita, idee utili per lo studio o per l’ufficio. Soluzioni pensate per sorprenderla con gusto, senza rinunciare alla funzionalità.<br/></p>",
+            "button_label": "Scopri Idee Regalo per Lei",
+            "button_link": "shopify://collections/idee-regalo-regali-per-lei"
           }
         },
         "row_9NQAgr": {
@@ -116,9 +115,9 @@
             "image": "shopify://shop_images/idee-regalo-diploma-laurea-unico-e-multiplo.webp",
             "caption": "",
             "heading": "",
-            "text": "<h3><strong>Regali per laurea, diploma, comunione o cresima</strong></h3><p>Le tappe che segnano un nuovo inizio meritano un regalo che lasci un’impronta.<br/><br/>Le nostre <strong>idee regalo sotto i 100€</strong> per laurea, diploma, comunione o cresima combinano <strong>design e valore simbolico</strong>: oggetti che si fanno ricordare, ma che al tempo stesso trovano spazio nella quotidianità.</p><p>Un portapenne di design per un neolaureato, un profumatore per l’ambiente che accompagni un trasferimento, un oggetto decorativo che diventa <strong>segno di incoraggiamento e fiducia</strong>.<br/><br/>Ogni proposta è pensata per essere duratura, significativa e sempre in linea con un’estetica curata e moderna.</p>",
-            "button_label": "Idee Regalo Laurea e Diploma",
-            "button_link": "https://www.unicoemultiplo.com/collections/idee-regalo-laurea-e-diploma?filter.v.price.gte=&filter.v.price.lte=60&sort_by=created-descending"
+            "text": "<h3><strong>Regali di laurea e diploma per lui, pratici e con carattere</strong></h3><p>Per lui, la scelta punta sulla qualità e sull’utilità. Accessori da scrivania, oggetti funzionali, idee tech o elementi di design che possono accompagnarlo nel lavoro, nello studio o nella vita quotidiana. Regali che raccontano personalità e ambizione.</p>",
+            "button_label": "Scopri Idee Regalo per Lui",
+            "button_link": "shopify://collections/idee-regalo-regali-per-lui"
           }
         },
         "row_UPAhRk": {
@@ -127,42 +126,17 @@
             "image": "shopify://shop_images/idee-regalo-san-valentino-unico-e-multiplo.webp",
             "caption": "",
             "heading": "",
-            "text": "<h3><strong>Sorprese romantiche per San Valentino e anniversari</strong></h3><p>Quando il regalo è per il cuore, non serve strafare: basta scegliere con sensibilità.  Con un budget sotto i 100€, puoi trovare <strong>idee romantiche ed eleganti</strong>, come piccoli complementi d’arredo, accessori di coppia, profumi o oggetti simbolici che raccontano la vostra storia.</p><p>Un dono pensato con cura diventa <strong>un messaggio di attenzione e presenza</strong>, qualcosa che va oltre l’oggetto stesso. Puoi optare per un <strong>design essenziale ma evocativo</strong>, una candela che ricordi un momento condiviso, oppure un oggetto da tenere in casa come simbolo di un legame che cresce nel tempo.</p>",
-            "button_label": "Idee Regalo San Valentino",
+            "text": "<h3><strong>Regali romantici di laurea e diploma per il partner</strong></h3><p>Per il partner, scegli un regalo che unisca emozione, simbolo e valore. Oggetti che raccontano la vostra storia, che accompagnano i nuovi progetti e che restano nel tempo. Soluzioni perfette per dire: “Sono fiero di te”.<br/></p>",
+            "button_label": "Scopri Idee Regalo Romantiche",
             "button_link": "shopify://collections/idee-regalo-san-valentino"
-          }
-        },
-        "row_LTJhEF": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/idee-regalo-sposi-anniversario-nozze-unico-e-multiplo.webp",
-            "caption": "",
-            "heading": "",
-            "text": "<h3><strong>Regali per sposi, nozze d’oro o d’argento</strong></h3><p>Per chi celebra l’amore o un’unione duratura, il regalo perfetto è quello che unisce <strong>bellezza, funzionalità e memoria</strong>. Sotto i 100 €, trovi tante <strong>idee regalo per sposi</strong> o per anniversari importanti, dai <strong>pezzi di design per la casa</strong> agli <strong>accessori decorativi dal gusto raffinato</strong>.</p><p>Oggetti come <strong>centrotavola, profumatori, candele di design, set per la tavola o articoli artigianali</strong> diventano un modo concreto per dire “vi auguro felicità”. Sono pensieri che non passano inosservati e che restano nel tempo, ideali per chi ama la sobrietà con un tocco contemporaneo.</p>",
-            "button_label": "Idee Regalo Sposi",
-            "button_link": "shopify://collections/idee-regalo-sposi"
-          }
-        },
-        "row_gKpTy3": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/idee-regalo-pasqua-100-euro-unico-e-multiplo.webp",
-            "caption": "",
-            "heading": "",
-            "text": "<h3><strong>Idee regalo per Pasqua, tra tradizione e creatività</strong></h3><p>La Pasqua è il momento ideale per un <strong>pensiero leggero ma curato</strong>, capace di unire la tradizione del dono con la voglia di novità. Un budget di 100 € ti permette di scegliere <strong>oggetti decorativi per la casa, candele profumate, set per la tavola o piccoli elementi di design</strong> che portano colore e armonia.</p><p>Scegli qualcosa che racconti <strong>attenzione per i dettagli e desiderio di condividere bellezza</strong>, anche nelle occasioni più semplici. Un regalo per Pasqua può essere simbolico, ma non per questo privo di valore: basta un oggetto scelto bene per <strong>rendere speciale anche un gesto spontaneo</strong>.</p>",
-            "button_label": "Idee Regalo Pasqua",
-            "button_link": "shopify://collections/idee-regalo-pasqua"
           }
         }
       },
       "block_order": [
         "row_GLrVUe",
         "row_9NQAgr",
-        "row_UPAhRk",
-        "row_LTJhEF",
-        "row_gKpTy3"
+        "row_UPAhRk"
       ],
-      "disabled": true,
       "name": "t:sections.multirow.presets.name",
       "settings": {
         "image_height": "small",
@@ -252,7 +226,6 @@
         "column_WGCFK9",
         "column_ApnEdY"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -299,7 +272,6 @@
         "column_746nNM",
         "column_PGkWma"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Regali utili e di design sotto i 100€",
