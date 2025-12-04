@@ -208,7 +208,7 @@
             "title": "",
             "text": "<p><strong>BITOSSI HOME</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/bitossi-home-i-piattini-bitossi-home"
+            "link": "shopify://collections/bitossi-home"
           }
         },
         "column_CWEJdV": {
@@ -238,7 +238,7 @@
             "title": "",
             "text": "<p><strong>KNINDUSTRIE</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
+            "link": "shopify://collections/knindustrie-accessori-tavola"
           }
         },
         "column_7Xkjqn": {
@@ -295,11 +295,11 @@
         "column_DDbJAJ": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/verygoods-candela-1.jpg",
+            "image": "shopify://shop_images/seletti-lucky-temple-oggetto-decorativo-31.webp",
             "title": "",
             "text": "<h3><strong>Idee per la casa di chi festeggia la laurea</strong></h3><p><br/>Per chi si trasferisce, rinnova gli spazi o vuole creare un ambiente accogliente, le idee per la casa sono sempre un successo: accessori intelligenti, arredi decorativi e oggetti conviviali.<br/><br/><em><strong>Scopri Idee Regalo Casa e Cucina</strong></em><em> </em><strong>→</strong></p>",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=40&filter.v.price.lte=110&sort_by=manual"
+            "link": "shopify://collections/idee-regalo-per-casa-e-cucina"
           }
         }
       },
@@ -326,99 +326,6 @@
         "swipe_on_mobile": true,
         "padding_top": 20,
         "padding_bottom": 20
-      }
-    },
-    "multicolumn_rEpzeR": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_ti8DtJ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/verygoods-candela-1.jpg",
-            "title": "",
-            "text": "<p><strong>CANDELE</strong><br/>Accendono atmosfere (e sorrisi)</p>",
-            "link_label": "",
-            "link": "shopify://collections/illuminazione-candelabri-e-candele"
-          }
-        },
-        "column_K6dApD": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/kikkerland-decorate-your-own-cup-kit-kit-decora-la-tua-tazza_1.webp",
-            "title": "",
-            "text": "<p><strong>EFFETTO \"WOW\"</strong></p><p>Idee regalo che lasciano il segno.</p>",
-            "link_label": "",
-            "link": "shopify://collections/kikkerland"
-          }
-        },
-        "column_r7fJtT": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Doiy-design-scatola_6fad84bf-3209-4700-8a2a-a9fe73f2a740.webp",
-            "title": "",
-            "text": "<p><strong>COLOUR LOVER</strong></p><p>Design pop e ironico, a tutta cromia!</p>",
-            "link_label": "",
-            "link": "shopify://collections/doiy"
-          }
-        },
-        "column_NWwBQe": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/bitossi-home-torchon-formaggi-posate_feb622f1-a39e-4178-afcc-1f2d056a348b.webp",
-            "title": "",
-            "text": "<p><strong>BITOSSI <br/></strong></p><p>Colorati, utili, irresistibili</p>",
-            "link_label": "",
-            "link": "shopify://collections/disegnetti-depressetti"
-          }
-        },
-        "column_WGCFK9": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/printwork-happily-ever-after-album-fotp-1.webp",
-            "title": "",
-            "text": "<p><strong>PRINTWORKS</strong></p><p>idee regalo da ricordare!</p>",
-            "link_label": "",
-            "link": "shopify://collections/printworks"
-          }
-        },
-        "column_ApnEdY": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Bitossi-home-tazze-e-tazzine.webp",
-            "title": "",
-            "text": "<h3><strong>TÈ & CAFFÈ</strong></h3><p>Sveglia il suo sorriso, una tazza alla volta.</p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-tazze-tazzine-mug"
-          }
-        }
-      },
-      "block_order": [
-        "column_ti8DtJ",
-        "column_K6dApD",
-        "column_r7fJtT",
-        "column_NWwBQe",
-        "column_WGCFK9",
-        "column_ApnEdY"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 16,
-        "padding_bottom": 16
       }
     },
     "rich_text_H9k83a": {
@@ -467,15 +374,6 @@
     "multicolumn_UQ9K6k": {
       "type": "multicolumn",
       "blocks": {
-        "column_fQhWTF": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Ogni regalo è importante, indipendentemente dalla cifra. Ecco perché abbiamo organizzato le nostre proposte in fasce di prezzo chiare, così puoi trovare facilmente ciò che cerchi senza rinunciare a qualità e stile. Che tu voglia fare un piccolo pensiero che esprima affetto o un regalo più importante per celebrare un traguardo speciale, troverai soluzioni curate, ben fatte e adatte a tutte le esigenze.<br/><br/></p><h3><strong>Idee regalo di laurea sotto 50€, 100€ o 150€</strong><br/></h3><p>Tre percorsi rapidi e intuitivi che ti aiutano a individuare subito il regalo ideale.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_bbP8MQ": {
           "type": "column",
           "settings": {
@@ -484,11 +382,20 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_fQhWTF": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Ogni regalo è importante, indipendentemente dalla cifra. Ecco perché abbiamo organizzato le nostre proposte in fasce di prezzo chiare, così puoi trovare facilmente ciò che cerchi senza rinunciare a qualità e stile. Che tu voglia fare un piccolo pensiero che esprima affetto o un regalo più importante per celebrare un traguardo speciale, troverai soluzioni curate, ben fatte e adatte a tutte le esigenze.<br/><br/></p><h3><strong>Idee regalo di laurea sotto 50€, 100€ o 150€</strong><br/></h3><p>Tre percorsi rapidi e intuitivi che ti aiutano a individuare subito il regalo ideale.</p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "column_fQhWTF",
-        "column_bbP8MQ"
+        "column_bbP8MQ",
+        "column_fQhWTF"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -508,91 +415,45 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_HVEdWC": {
+    "multicolumn_Xztgwd": {
       "type": "multicolumn",
       "blocks": {
-        "column_47i7Ak": {
+        "column_e6RcQG": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Idee-Regalo-Economiche-sotto.webp",
             "title": "",
-            "text": "",
+            "text": "<p>Piccoli gesti che sorprendono!<br/><br/><strong>Scopri le Idee Regalo sotto i 50€ →</strong></p>",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/idee-regalo-economiche"
           }
         },
-        "column_46wGzw": {
+        "column_daCtFW": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Regali-a-Meno-di-100.webp",
             "title": "",
-            "text": "<p>Nella fascia di prezzo sotto i 100 €, trovi una selezione di <strong>idee regalo personalizzate e significative</strong>, pensate per adattarsi ai diversi legami che contano davvero: l’amore, l’amicizia, la famiglia, la riconoscenza.<br/><br/>Scegliere con attenzione è il modo più autentico per dire <em>“ti conosco, ti apprezzo, ti ho pensato”</em>.</p><p>Non serve cercare l’oggetto perfetto, ma quello giusto per la persona giusta: un profumo d’ambiente per chi ama la casa, un accessorio per chi vive di dettagli, un piccolo oggetto di design per chi apprezza l’ironia e la creatività.</p>",
+            "text": "<p>Il giusto equilibrio tra stile e qualità!<br/><br/><strong>Scopri le Idee Regalo sotto 100€ →</strong></p>",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/idee-regalo-regali-sotto-100-euro"
+          }
+        },
+        "column_TBmfVd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Regali-a-Meno-di-150.webp",
+            "title": "",
+            "text": "<p>Regali importanti da ricordare!<br/><br/><em><strong>Scopri le Idee Regalo Sotto 150€ </strong></em><strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-regali-sotto-150-euro"
           }
         }
       },
       "block_order": [
-        "column_47i7Ak",
-        "column_46wGzw"
+        "column_e6RcQG",
+        "column_daCtFW",
+        "column_TBmfVd"
       ],
-      "disabled": true,
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Regali fino a 100€ pensati per la persona giusta",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 32,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_NT6a7n": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_fnCG6f": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/IZIPIZI-occhiali-da-sole-idee-regalo.webp",
-            "title": "",
-            "text": "<h3><strong>Idee Regalo per il tuo lui</strong></h3><p><br/>Per amici, fratelli, colleghi o partner: <strong>idee sotto i 100€</strong> che uniscono utilità e stile, oggetti <strong>concreti ma mai banali.</strong><br/><br/><strong>IDEE PER LUI →</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lui?filter.v.price.gte=40&filter.v.price.lte=110&sort_by=created-descending"
-          }
-        },
-        "column_fLrJCK": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/verygoods-candela-1.jpg",
-            "title": "",
-            "text": "<h3><strong>Idee Regalo per la tua lei</strong></h3><p><br/>Piccole attenzioni che parlano di gusto e personalità. Perfetti per <strong>sorelle, amiche, colleghe </strong>che amano i dettagli.<br/><br/><strong>IDEE PER LEI →</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=40&filter.v.price.lte=110&sort_by=manual"
-          }
-        },
-        "column_L8VdTy": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/kikkerland-memo-idea-regalo-natale-cnydKuYmO-transformed_1.jpg",
-            "title": "",
-            "text": "<h3><strong>Regali per i colleghi</strong></h3><p><br/>Per colleghi, collaboratori o capi che apprezzano lo stile sobrio ma ricercato trova il tuo <strong>regalo sotto i 100€.</strong><br/><br/><strong>IDEE PER COLLEGHI →</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/tempo-libero?filter.v.price.gte=40&filter.v.price.lte=110&sort_by=manual"
-          }
-        }
-      },
-      "block_order": [
-        "column_fnCG6f",
-        "column_fLrJCK",
-        "column_L8VdTy"
-      ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -673,11 +534,9 @@
     "multicolumn_qLLKQj",
     "multicolumn_wDET3k",
     "multicolumn_zjRVV7",
-    "multicolumn_rEpzeR",
     "rich_text_H9k83a",
     "multicolumn_UQ9K6k",
-    "multicolumn_HVEdWC",
-    "multicolumn_NT6a7n",
+    "multicolumn_Xztgwd",
     "image_banner_iRzdG6"
   ]
 }
