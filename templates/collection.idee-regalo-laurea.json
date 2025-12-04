@@ -170,7 +170,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Un dono pensato per questo traguardo non è soltanto un ricordo da conservare, ma può diventare un alleato concreto nella vita quotidiana: un accessorio che facilita studio e lavoro, un oggetto che migliora la postazione di scrittura, un elemento d’arredo che rende speciale il nuovo appartamento. <strong>Abbiamo selezionato idee che uniscono utilità, design e valore simbolico</strong>, per dare sostegno ai progetti futuri e accompagna­re al meglio questo <strong>nuovo capitolo</strong>.<br/><br/></p><h3><strong>Oggetti di design per ricordare il traguardo accademico</strong></h3><p><br/>Pezzi iconici, collezioni firmate e oggetti contemporanei che trasformano un momento importante in un ricordo da mostrare con orgoglio. Dettagli che arredano e durano nel tempo.<br/></p>",
+            "text": "<p>Un dono pensato per questo traguardo non è soltanto un ricordo da conservare, ma può diventare un alleato concreto nella vita quotidiana: un accessorio che facilita studio e lavoro, un oggetto che migliora la postazione di scrittura, un elemento d’arredo che rende speciale il nuovo appartamento. <strong>Abbiamo selezionato idee che uniscono utilità, design e valore simbolico</strong>, per dare sostegno ai progetti futuri e accompagna­re al meglio questo <strong>nuovo capitolo</strong>.<br/><br/></p><h3><strong>Oggetti di design per ricordare il traguardo accademico</strong></h3><p><br/>Pezzi iconici, collezioni firmate e oggetti contemporanei che trasformano un momento importante in un ricordo da mostrare con orgoglio. Dettagli che arredano e durano nel tempo.</p>",
             "link_label": "",
             "link": ""
           }
@@ -201,16 +201,6 @@
     "multicolumn_wDET3k": {
       "type": "multicolumn",
       "blocks": {
-        "column_ggxnNz": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/miho-duetto-candelabri-artigiali.jpg",
-            "title": "",
-            "text": "<p><strong>MIHO</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/miho?filter.v.price.gte=&filter.v.price.lte=55&sort_by=manual"
-          }
-        },
         "column_cQLFkJ": {
           "type": "column",
           "settings": {
@@ -263,7 +253,6 @@
         }
       },
       "block_order": [
-        "column_ggxnNz",
         "column_cQLFkJ",
         "column_CWEJdV",
         "column_Yafq3C",
@@ -278,7 +267,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
@@ -286,7 +275,7 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 16,
+        "padding_top": 0,
         "padding_bottom": 16
       }
     },
@@ -335,8 +324,8 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 4
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "multicolumn_rEpzeR": {
@@ -472,7 +461,7 @@
         "color_scheme": "scheme-2",
         "full_width": false,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 40
       }
     },
     "multicolumn_HVEdWC": {
@@ -587,14 +576,14 @@
         "heading_LDHWyc": {
           "type": "heading",
           "settings": {
-            "heading": "Ispirazioni per chi cerca regali entro 100€ fuori dall’ordinario",
+            "heading": "<strong>Spunti extra per scegliere il regalo di laurea perfetto</strong>",
             "heading_size": "h1"
           }
         },
         "text_UwXjBM": {
           "type": "text",
           "settings": {
-            "text": "Non tutti i regali devono seguire le regole.Per chi ama sorprendere e uscire dagli schemi, abbiamo selezionato <strong>idee creative e originali</strong> sotto i 100 €, perfette per chi “ha già tutto”. Oggetti dal design ironico, accessori smart, articoli per la casa o piccoli pensieri che fanno sorridere e restano nel tempo.",
+            "text": "Se vuoi esplorare idee particolari, originali o tematiche, questa sezione ti aiuta a trovare ispirazione. Qui raccogliamo contenuti editoriali, guide e percorsi pensati per chi desidera uscire dai soliti schemi e lasciarsi sorprendere. Perfetti quando cerchi un regalo unico, personalizzato o semplicemente diverso dal solito.",
             "text_style": "body"
           }
         },
@@ -617,9 +606,9 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/unico-e-multiplo-regali-originali.webp",
+        "image": "shopify://shop_images/laurea-diploma-master-regali-originali.webp",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
