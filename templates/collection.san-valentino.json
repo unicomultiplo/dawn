@@ -154,45 +154,89 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_nw6mnq": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_mYCQz7": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_QHA9Kk": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Se cerchi un<strong> regalo che lasci davvero il segno</strong>, questa è la sezione giusta. Qui trovi idee simboliche, creative e non convenzionali, perfette per chi ama l’<strong>effetto “wow”</strong> o desidera rendere il 14 febbraio un momento unico. Oggetti che emozionano, che raccontano la vostra storia e che diventano ricordi destinati a durare.</p><h3><strong><br/>Doni romantici che diventano ricordi</strong></h3><p>Ci sono <strong>regali </strong>che non si limitano a celebrare<strong> San Valentino</strong>, ma racchiudono un significato profondo: simboli di un percorso condiviso, scelte personalizzate, oggetti che parlano della coppia. Perfetti per chi ama un <strong>romanticismo elegante</strong>, senza eccessi ma ricco di sentimento.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_mYCQz7",
+        "column_QHA9Kk"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Regali romantici e originali per sorprendere",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn_LcVAky": {
       "type": "multicolumn",
       "blocks": {
         "column_zVwnq7": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-Kintsugi-1.jpg",
+            "image": "shopify://shop_images/printwork-i-love-story-album-foto-5.jpg",
             "title": "",
-            "text": "<p><strong>Piatti da Tavola</strong></p>",
+            "text": "<p><strong>Printworks - </strong>A Love Story </p>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-piatti"
+            "link": "shopify://products/printwork-i-love-story-album-foto"
           }
         },
         "column_eG89je": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-lime-lane-tumbler.webp",
+            "image": "shopify://shop_images/Pixel-Mirrors-Seletti.jpg",
             "title": "",
-            "text": "<p><strong>Bicchieri e Calici</strong></p>",
+            "text": "<p><strong>Seletti - </strong>Amore Pixel</p>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
+            "link": "shopify://collections/pixel-mirrors-seletti"
           }
         },
         "column_BYGjTA": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/posate-bitossi-home.jpg",
+            "image": "shopify://shop_images/bds-e-u-m-personalizzazione-20-stampa-la-tua-storia-3.jpg",
             "title": "",
-            "text": "<p><strong>Posate</strong></p>",
+            "text": "<p><strong>BDS -</strong> Personalizzazione 2.0</p>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-posate"
+            "link": "shopify://products/4621-bds-e-um-personalizzazione-20-stampa-la-tua-storia"
           }
         },
         "column_9qtFdi": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-rubin-alzata-in-vetro-con-piatto-in-legno-3.webp",
+            "image": "shopify://shop_images/22498_1.jpg",
             "title": "",
-            "text": "<p><strong>Centrotavola</strong></p>",
+            "text": "<p><strong>Seletti -</strong> Cuore Gande</p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
           }
@@ -200,21 +244,11 @@
         "column_Q4P9UQ": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi_Home_Smerlo_Se-_4-tovagliette-bordo-smerlato.jpg",
+            "image": "shopify://shop_images/bitossi-home-il-frutto-della-passione-tovaglietta-con-ricami-rosso.jpg",
             "title": "",
-            "text": "<p><strong>Sottopiatti e Tovagliette</strong></p>",
+            "text": "<p><strong>Bitossi -</strong> Per sempre</p>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-tovaglie-e-tovagliette"
-          }
-        },
-        "column_FbNqtG": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Seletti-Vassoio-Meltdown.webp",
-            "title": "",
-            "text": "<p><strong>Vassoi</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata"
+            "link": "shopify://products/bitossi-home-il-frutto-della-passione-tovaglietta-con-ricami-rossa-amore-per-sempre"
           }
         }
       },
@@ -223,18 +257,17 @@
         "column_eG89je",
         "column_BYGjTA",
         "column_9qtFdi",
-        "column_Q4P9UQ",
-        "column_FbNqtG"
+        "column_Q4P9UQ"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
       "settings": {
-        "title": "<strong>Regali per la tavola che trasformano ogni occasione - </strong>per una mise en place elegante  e conviviale",
+        "title": "",
         "heading_size": "h2",
         "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 6,
+        "image_ratio": "portrait",
+        "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
@@ -242,7 +275,7 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 16,
+        "padding_top": 0,
         "padding_bottom": 16
       }
     },
@@ -296,7 +329,6 @@
         "column_xihTzH",
         "column_ntAkJK"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -367,7 +399,6 @@
         "column_aKHebH",
         "column_DT6RJR"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -427,7 +458,6 @@
         "column_VaAWmj",
         "column_JPF9c3"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -446,51 +476,6 @@
         "swipe_on_mobile": true,
         "padding_top": 16,
         "padding_bottom": 16
-      }
-    },
-    "multicolumn_nw6mnq": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_mYCQz7": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_QHA9Kk": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>I <strong>migliori brand di design per la casa e la cucina</strong> selezionati da <em>Unico & Multiplo</em> rappresentano l’equilibrio perfetto tra <strong>innovazione, ironia e tradizione</strong>: oggetti pensati per vivere, per sorprendere e per durare. Che si tratti di un set da tavola, di un complemento d’arredo o di un elemento decorativo, ogni creazione è pensata per <strong>valorizzare la quotidianità con un tocco d’autore</strong>.<br/>Scegliere un dono firmato da un marchio iconico significa regalare <strong>qualità, bellezza e originalità</strong>, ma anche trasmettere un’idea precisa di gusto e attenzione.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_mYCQz7",
-        "column_QHA9Kk"
-      ],
-      "disabled": true,
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "I migliori brand di design da regalare per casa e cucina",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 0
       }
     },
     "multicolumn_NEC9f4": {
@@ -794,11 +779,11 @@
     "product-grid",
     "multicolumn_RW9UrF",
     "multicolumn_bP7mcb",
+    "multicolumn_nw6mnq",
     "multicolumn_LcVAky",
     "multicolumn_C6dG97",
     "multicolumn_Cjdxz3",
     "multicolumn_C6Htrd",
-    "multicolumn_nw6mnq",
     "multicolumn_NEC9f4",
     "multicolumn_AAexqG",
     "multicolumn_eg7VNb",
