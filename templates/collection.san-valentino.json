@@ -420,7 +420,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Un dono romantico può essere anche funzionale. A volte i regali più apprezzati sono quelli che entrano nella quotidianità: oggetti che si usano ogni giorno e che ricordano, con naturalezza, il legame che vi unisce. Proposte intelligenti, curate e pensate per migliorare i momenti condivisi.</p>",
+            "text": "<p>Un dono romantico può essere anche <strong>funzionale</strong>. A volte i regali più apprezzati sono quelli che<strong> entrano nella quotidianità</strong>: oggetti che si usano ogni giorno e che ricordano, con naturalezza, il legame che vi unisce. Proposte intelligenti, curate e pensate per <strong>migliorare i momenti condivisi.</strong></p>",
             "link_label": "",
             "link": ""
           }
@@ -451,17 +451,10 @@
     "image_with_text_mM669i": {
       "type": "image-with-text",
       "blocks": {
-        "heading_fMtqtg": {
-          "type": "heading",
-          "settings": {
-            "heading": "Idee per la casa e la cucina da vivere in due",
-            "heading_size": "h2"
-          }
-        },
         "text_t8FWbp": {
           "type": "text",
           "settings": {
-            "text": "<p>Che si tratti di preparare una cena speciale, decorare uno spazio comune o rendere più accogliente il vostro nido, i regali per la casa sono perfetti per condividere esperienze. Oggetti conviviali, design accoglienti, <strong>elementi che raccontano la vita insieme.</strong></p>",
+            "text": "<h3><strong>Idee per la casa e la cucina da vivere in due</strong></h3><p>Che si tratti di preparare una cena speciale, decorare uno spazio comune o rendere più accogliente il vostro nido, i <strong>regali per la casa </strong>sono perfetti per condividere esperienze. Oggetti conviviali, design accoglienti, <strong>elementi che raccontano la vita insieme.</strong></p>",
             "text_style": "body"
           }
         },
@@ -475,7 +468,6 @@
         }
       },
       "block_order": [
-        "heading_fMtqtg",
         "text_t8FWbp",
         "button_XJigUh"
       ],
@@ -512,7 +504,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3><strong>Accessori utili con un tocco romantico<br/><br/></strong></h3><p>Un dono romantico può essere anche funzionale. A volte i regali più apprezzati sono quelli che entrano nella quotidianità: oggetti che si usano ogni giorno e che ricordano, con naturalezza, il legame che vi unisce. Proposte intelligenti, curate e pensate per migliorare i momenti condivisi.</p>",
+            "text": "<h3><strong>Accessori utili con un tocco romantico</strong></h3><p><br/>Piccoli oggetti che si usano ogni giorno: eleganti, ben fatti e capaci di trasmettere un messaggio affettuoso. Un modo semplice e discreto per portare il romanticismo nella routine.</p>",
             "link_label": "",
             "link": ""
           }
@@ -612,7 +604,7 @@
         "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Scopri tutti i Nostri Brand ->",
+        "button_label": "",
         "button_link": "shopify://pages/i-nostri-brand",
         "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
         "columns_mobile": "2",
