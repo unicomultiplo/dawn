@@ -30,48 +30,6 @@
         "padding_bottom": 16
       }
     },
-    "image_banner_Q6rBiY": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_n4AJPP": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "buttons_CmixbY": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Scopri la Nostra Selezione Idee Regalo Natale 2025",
-            "button_link_1": "shopify://collections/idee-regalo-natale",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "https://www.unicoemultiplo.com/collections/idee-regalo?#shopify-section-template--25730824438025__multicolumn_MEiyUc",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_n4AJPP",
-        "buttons_CmixbY"
-      ],
-      "disabled": true,
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/idee-regalo-natale-particolari-originali-2025-2.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "custom_css": [],
@@ -109,7 +67,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Scegliere un regalo per la casa significa <strong>offrire qualcosa che accompagni i gesti di ogni giorno</strong>, rendendoli più belli, funzionali e piacevoli.<br/>Con <em>Unico & Multiplo</em>, puoi trovare <strong>idee regalo per la tavola, la cucina e gli ambienti</strong> che uniscono design e praticità, perfette per chi ama circondarsi di oggetti che raccontano personalità e cura.<br/>Che si tratti di un regalo per una nuova casa, un compleanno o una ricorrenza importante, <strong>scegliere un oggetto utile e di design</strong> è sempre un gesto apprezzato, perché unisce <strong>attenzione, bellezza e significato</strong>.</p>",
+            "text": "<p><strong>Ogni storia d’amore è unica</strong>, e così anche il <strong>regalo ideale</strong>. La scelta cambia a seconda della persona che festeggia: c’è chi ama gesti <strong>romantici e simbolici</strong>, chi preferisce regali <strong>utili e concreti</strong>, e chi apprezza idee <strong>originali o ironiche</strong>. Questa sezione ti aiuta a trovare ispirazione per un dono che parli di voi, del vostro modo di amarvi e delle emozioni che condividete.</p>",
             "link_label": "",
             "link": ""
           }
@@ -121,7 +79,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Accessori e complementi per una casa da vivere ogni giorno",
+        "title": "Regali di San Valentino per lui e per lei",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -134,6 +92,65 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_bP7mcb": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_GALCFE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/san-valentino-idee-regalo-romantiche-originali.webp",
+            "title": "",
+            "text": "<h3><strong>Idee regalo San Valentino per lei, tra eleganza e romanticismo</strong></h3><p><br/><strong>Per lei</strong>, il regalo perfetto è un dettaglio che sappia unire stile ed emozione: décor raffinato, accessori dal design curato, piccoli pensieri che fanno sentire speciale chi li riceve. <strong>Oggetti che sorprendono</strong> con delicatezza, perfetti per raccontare il vostro legame in modo autentico e sensibile.</p><p><br/><em>Scopri le Idee Regalo per Lei </em>→</p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-regali-per-lei"
+          }
+        },
+        "column_W7Qjtn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/San-Valentino-Amore-e-Tenerezza.jpg",
+            "title": "",
+            "text": "<h3><strong>Regali di San Valentino per lui, pratici o dal carattere deciso</strong></h3><p><strong><br/>Per lui,</strong> la scelta può essere orientata alla praticità o a un tocco deciso di personalità. Idee utili per la vita quotidiana, oggetti ironici per regalare un sorriso o accessori che rispecchiano i suoi gusti. Proposte pensate per stupire chi ti è accanto, con<strong> equilibrio tra funzionalità e romanticismo</strong>.</p><p><br/>Scopri le Idee Regalo per Lui →</p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-regali-per-lui"
+          }
+        },
+        "column_wyrrHh": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_GALCFE",
+        "column_W7Qjtn",
+        "column_wyrrHh"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -209,6 +226,7 @@
         "column_Q4P9UQ",
         "column_FbNqtG"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -279,6 +297,7 @@
         "column_xihTzH",
         "column_ntAkJK"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -349,6 +368,7 @@
         "column_aKHebH",
         "column_DT6RJR"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -408,6 +428,7 @@
         "column_VaAWmj",
         "column_JPF9c3"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -454,6 +475,7 @@
         "column_mYCQz7",
         "column_QHA9Kk"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "I migliori brand di design da regalare per casa e cucina",
@@ -533,6 +555,7 @@
         "column_PG6r8E",
         "column_PrBkxt"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -579,6 +602,7 @@
         "column_jLdERd",
         "column_etikeJ"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Idee Regalo per la casa perfette per persone e momenti diversi",
@@ -636,6 +660,7 @@
         "column_BXD7C9",
         "column_M7EhAD"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -702,6 +727,7 @@
         "button_XXEay4",
         "button_WHipGa"
       ],
+      "disabled": true,
       "custom_css": [],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
@@ -719,14 +745,14 @@
         "heading_deVTaU": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Spunti e ispirazioni per idee regalo dedicate alla casa</strong>",
+            "heading": "<strong>Altri spunti romantici da cui lasciarsi ispirare</strong>",
             "heading_size": "h2"
           }
         },
         "text_XaPWtk": {
           "type": "text",
           "settings": {
-            "text": "Che tu stia cercando <strong>un dono per una casa nuova</strong>, un <strong>pensiero per colleghi o amici</strong>, oppure <strong>un’idea romantica per una coppia</strong>, troverai contenuti e selezioni capaci di guidarti nella scelta con gusto e leggerezza.",
+            "text": "Se<strong> cerchi idee </strong>alternative o vuoi esplorare altre occasioni per trovare il regalo perfetto, questa sezione raccoglie <strong>spunti creativi </strong>e contenuti editoriali che ampliano la tua ricerca. Perfetti per chi ama farsi ispirare e scoprire idee fresche e inattese.",
             "text_style": "body"
           }
         },
@@ -749,7 +775,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Piatti-natale-2025.jpg",
+        "image": "shopify://shop_images/san-valentino-idee-regalo-romantiche-originali.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -766,9 +792,9 @@
   "order": [
     "banner",
     "custom_liquid_C7t9Ye",
-    "image_banner_Q6rBiY",
     "product-grid",
     "multicolumn_RW9UrF",
+    "multicolumn_bP7mcb",
     "multicolumn_LcVAky",
     "multicolumn_C6dG97",
     "multicolumn_Cjdxz3",
