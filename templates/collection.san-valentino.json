@@ -191,7 +191,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -279,47 +279,101 @@
         "padding_bottom": 16
       }
     },
+    "multicolumn_AAexqG": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_jLdERd": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_etikeJ": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Sorprese originali e particolari per un San Valentino diverso</strong>",
+            "text": "<p>Doni che si adattano al momento, al rapporto con chi li riceve e al budget disponibile.</p><p>Ogni casa ha la sua storia, proprio come ogni persona che la vive.<br/>Le <strong>idee regalo per la casa di Unico & Multiplo</strong> nascono per accompagnare questi racconti quotidiani, con <strong>oggetti di design, accessori decorativi e articoli per la cucina</strong> che si adattano a ogni occasione, relazione e fascia di prezzo.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_jLdERd",
+        "column_etikeJ"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn_C6dG97": {
       "type": "multicolumn",
       "blocks": {
         "column_jgfJMU": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/KnIndustrie-ABCT-coperchi-in-mogano-1.jpg",
+            "image": "shopify://shop_images/sELETTI-10069_AMOR-VOLAT_MARCANTONIO_LIFESTYLE_MARBLE.webp",
             "title": "",
-            "text": "<p><strong>Pentole e Padelle</strong></p>",
+            "text": "<p><strong>Seletti - </strong>Amor Volat</p>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-pentole-padelle-tegami"
+            "link": "shopify://products/seletti-amor-volat-vaso-in-porcellana"
           }
         },
         "column_T9kjtU": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-coltelli-beknife-buy-now.webp",
+            "image": "shopify://shop_images/bitossi-home-tavola-scomposta-grazie-dei-fiori-vaso-ceramica-2.jpg",
             "title": "",
-            "text": "<p><strong>Coltelli</strong></p>",
+            "text": "<p><strong>BItossi Home </strong>- Grazie dei Fiori</p>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-coltelli"
+            "link": "shopify://products/2339-bitossi-home-tavola-scomposta-grazie-dei-fiori-vaso-ceramica"
           }
         },
         "column_xihTzH": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-slab-tagliere-in-larice-e-acciaio-3.jpg",
+            "image": "shopify://shop_images/bitossi-home-la-tavola-scomposta-piattino-ti-amo.jpg",
             "title": "",
-            "text": "<p><strong>Taglieri</strong></p>",
+            "text": "<p><strong>Bitossi Home - </strong>Con Amore</p>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-taglieri"
+            "link": "shopify://collections/con-amore-bitossi-home"
           }
         },
         "column_ntAkJK": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-oliera-acetiera-3.jpg",
+            "image": "shopify://shop_images/albero-di-nenno.jpg",
             "title": "",
-            "text": "<p><strong>Set Condimenti</strong></p>",
+            "text": "<p><strong>Danilo Di Nenno </strong>- Magica Notte</p>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
+            "link": "shopify://products/danilo-in-quella-magica-notte-di-nenno"
+          }
+        },
+        "column_ANWcif": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-marcantonio-my_-tiny-moon-lampada-2.jpg",
+            "title": "",
+            "text": "<p><strong>Seletti -</strong> Ti porto la Luna</p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-marcantonio-my-tiny-moon-lampada"
           }
         }
       },
@@ -327,17 +381,18 @@
         "column_jgfJMU",
         "column_T9kjtU",
         "column_xihTzH",
-        "column_ntAkJK"
+        "column_ntAkJK",
+        "column_ANWcif"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
       "settings": {
-        "title": "<strong>Idee Regalo Cucina tra Design e Utilità </strong>",
+        "title": "",
         "heading_size": "h2",
         "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 4,
+        "image_ratio": "portrait",
+        "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
@@ -539,7 +594,6 @@
         "column_PG6r8E",
         "column_PrBkxt"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -558,51 +612,6 @@
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 16
-      }
-    },
-    "multicolumn_AAexqG": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_jLdERd": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_etikeJ": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Doni che si adattano al momento, al rapporto con chi li riceve e al budget disponibile.</p><p>Ogni casa ha la sua storia, proprio come ogni persona che la vive.<br/>Le <strong>idee regalo per la casa di Unico & Multiplo</strong> nascono per accompagnare questi racconti quotidiani, con <strong>oggetti di design, accessori decorativi e articoli per la cucina</strong> che si adattano a ogni occasione, relazione e fascia di prezzo.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_jLdERd",
-        "column_etikeJ"
-      ],
-      "disabled": true,
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Idee Regalo per la casa perfette per persone e momenti diversi",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 0
       }
     },
     "multicolumn_eg7VNb": {
@@ -644,7 +653,6 @@
         "column_BXD7C9",
         "column_M7EhAD"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -711,7 +719,6 @@
         "button_XXEay4",
         "button_WHipGa"
       ],
-      "disabled": true,
       "custom_css": [],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
@@ -781,11 +788,11 @@
     "multicolumn_bP7mcb",
     "multicolumn_nw6mnq",
     "multicolumn_LcVAky",
+    "multicolumn_AAexqG",
     "multicolumn_C6dG97",
     "multicolumn_Cjdxz3",
     "multicolumn_C6Htrd",
     "multicolumn_NEC9f4",
-    "multicolumn_AAexqG",
     "multicolumn_eg7VNb",
     "rich_text_tJNqki",
     "image_banner_Wf66Kg"
