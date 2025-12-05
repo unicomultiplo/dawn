@@ -1,0 +1,783 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        "a {color: #598db2;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
+      }
+    },
+    "custom_liquid_TGPL4x": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Natale\">\n  <nav class=\"xmas-quick-links\">\n <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale\" class=\"button button--primary button--small\">Scopri la Nostra Selezione Idee Regalo Natale 2025</a>   \n <a href=\"https://www.unicoemultiplo.com/collections/seletti-natale\" class=\"button button--primary button--small\">Idee Regalo Seletti</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/natale-con-knindustrie\" class=\"button button--primary button--small\">Idee Regalo KnIndustrie</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/bitossi-home-natale\" class=\"button button--primary button--small\">Idee Regalo Bitossi Home</a> \n<a href=\"https://www.unicoemultiplo.com/collections/brabantia\" class=\"button button--primary button--small\">Idee regalo Brabantia</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-sposi\" class=\"button button--primary button--small\">Idee regalo Sposi</a>\n    <a href=\"https://www.unicoemultiplo.com/products/gift-card-u-m-carta-regalo-32\" class=\"button button--primary button--small\">Gift Card e Buoni Regali</a>\n  </nav>\n</div>\n\n<style>\n  .xmas-quick-links {\n    display:flex;\n    flex-wrap:wrap;\n    gap:.5rem;\n    margin:.5rem 0 1rem;\n  }\n  /* Optional: bottoni a tutta larghezza su mobile */\n  @media (max-width: 749px) {\n    .xmas-quick-links a {\n      width: 100%;\n      justify-content: center;\n    }\n  }\n</style>",
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
+    "image_banner_Q6rBiY": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_n4AJPP": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "buttons_CmixbY": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Scopri la Nostra Selezione Idee Regalo Natale 2025",
+            "button_link_1": "shopify://collections/idee-regalo-natale",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "https://www.unicoemultiplo.com/collections/idee-regalo?#shopify-section-template--25730824438025__multicolumn_MEiyUc",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_n4AJPP",
+        "buttons_CmixbY"
+      ],
+      "disabled": true,
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/idee-regalo-natale-particolari-originali-2025-2.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "custom_css": [],
+      "settings": {
+        "products_per_page": 36,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "none",
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_RW9UrF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_VXgAwd": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_NhmYPh": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Scegliere un regalo per la casa significa <strong>offrire qualcosa che accompagni i gesti di ogni giorno</strong>, rendendoli più belli, funzionali e piacevoli.<br/>Con <em>Unico & Multiplo</em>, puoi trovare <strong>idee regalo per la tavola, la cucina e gli ambienti</strong> che uniscono design e praticità, perfette per chi ama circondarsi di oggetti che raccontano personalità e cura.<br/>Che si tratti di un regalo per una nuova casa, un compleanno o una ricorrenza importante, <strong>scegliere un oggetto utile e di design</strong> è sempre un gesto apprezzato, perché unisce <strong>attenzione, bellezza e significato</strong>.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_VXgAwd",
+        "column_NhmYPh"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Accessori e complementi per una casa da vivere ogni giorno",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_LcVAky": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_zVwnq7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-Kintsugi-1.jpg",
+            "title": "",
+            "text": "<p><strong>Piatti da Tavola</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-piatti"
+          }
+        },
+        "column_eG89je": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-lime-lane-tumbler.webp",
+            "title": "",
+            "text": "<p><strong>Bicchieri e Calici</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
+          }
+        },
+        "column_BYGjTA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/posate-bitossi-home.jpg",
+            "title": "",
+            "text": "<p><strong>Posate</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-posate"
+          }
+        },
+        "column_9qtFdi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-rubin-alzata-in-vetro-con-piatto-in-legno-3.webp",
+            "title": "",
+            "text": "<p><strong>Centrotavola</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
+          }
+        },
+        "column_Q4P9UQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi_Home_Smerlo_Se-_4-tovagliette-bordo-smerlato.jpg",
+            "title": "",
+            "text": "<p><strong>Sottopiatti e Tovagliette</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-tovaglie-e-tovagliette"
+          }
+        },
+        "column_FbNqtG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-Vassoio-Meltdown.webp",
+            "title": "",
+            "text": "<p><strong>Vassoi</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata"
+          }
+        }
+      },
+      "block_order": [
+        "column_zVwnq7",
+        "column_eG89je",
+        "column_BYGjTA",
+        "column_9qtFdi",
+        "column_Q4P9UQ",
+        "column_FbNqtG"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "<strong>Regali per la tavola che trasformano ogni occasione - </strong>per una mise en place elegante  e conviviale",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "multicolumn_C6dG97": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_jgfJMU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/KnIndustrie-ABCT-coperchi-in-mogano-1.jpg",
+            "title": "",
+            "text": "<p><strong>Pentole e Padelle</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-pentole-padelle-tegami"
+          }
+        },
+        "column_T9kjtU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-coltelli-beknife-buy-now.webp",
+            "title": "",
+            "text": "<p><strong>Coltelli</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-coltelli"
+          }
+        },
+        "column_xihTzH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-slab-tagliere-in-larice-e-acciaio-3.jpg",
+            "title": "",
+            "text": "<p><strong>Taglieri</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-taglieri"
+          }
+        },
+        "column_ntAkJK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-oliera-acetiera-3.jpg",
+            "title": "",
+            "text": "<p><strong>Set Condimenti</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
+          }
+        }
+      },
+      "block_order": [
+        "column_jgfJMU",
+        "column_T9kjtU",
+        "column_xihTzH",
+        "column_ntAkJK"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "<strong>Idee Regalo Cucina tra Design e Utilità </strong>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "multicolumn_Cjdxz3": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Yn3MXw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-supercurve-specchio-con-cornice-luminosa-h185-cm-4-5.webp",
+            "title": "",
+            "text": "<p><strong>Specchi</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/complementi-arredo-specchi-da-parete"
+          }
+        },
+        "column_N8PWUL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Marinette_c696c502-67c7-4d57-95b8-fa921a0b1d97.webp",
+            "title": "",
+            "text": "<p><strong>Plaid</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/marinette-saint-tropez"
+          }
+        },
+        "column_aKHebH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-home-tavola-scomposta-grazie-dei-fiori-vaso-ceramica-2.jpg",
+            "title": "",
+            "text": "<p><strong>Vasi</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/complementi-arredo-vasi"
+          }
+        },
+        "column_DT6RJR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/vanilla-fly-cuscino-velluto-retro-velluto-brown-fan.jpg",
+            "title": "",
+            "text": "<p><strong>Tessili</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/complementi-arredo-tessili-casa"
+          }
+        }
+      },
+      "block_order": [
+        "column_Yn3MXw",
+        "column_N8PWUL",
+        "column_aKHebH",
+        "column_DT6RJR"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "<strong>Complementi d’arredo che danno carattere agli spazi</strong>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "multicolumn_C6Htrd": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_YKGXWV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-vitamin-lampadario-in-resina-pear-6.jpg",
+            "title": "",
+            "text": "<p><strong>Illuminazione</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/complementi-arredo-specchi-da-parete"
+          }
+        },
+        "column_VaAWmj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-nuvola-lamp-4.webp",
+            "title": "",
+            "text": "<p><strong>Lampade</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/marinette-saint-tropez"
+          }
+        },
+        "column_JPF9c3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Stan-Editions-Candela-3-pezzi-impilabili-6_d797dd60-e81d-4ee9-b1ac-6b843d4d71ed.jpg",
+            "title": "",
+            "text": "<p><strong>Candele e Candelabri</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/complementi-arredo-vasi"
+          }
+        }
+      },
+      "block_order": [
+        "column_YKGXWV",
+        "column_VaAWmj",
+        "column_JPF9c3"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "<strong>Illuminazione e dettagli scenografici per la casa</strong>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "multicolumn_nw6mnq": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_mYCQz7": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_QHA9Kk": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>I <strong>migliori brand di design per la casa e la cucina</strong> selezionati da <em>Unico & Multiplo</em> rappresentano l’equilibrio perfetto tra <strong>innovazione, ironia e tradizione</strong>: oggetti pensati per vivere, per sorprendere e per durare. Che si tratti di un set da tavola, di un complemento d’arredo o di un elemento decorativo, ogni creazione è pensata per <strong>valorizzare la quotidianità con un tocco d’autore</strong>.<br/>Scegliere un dono firmato da un marchio iconico significa regalare <strong>qualità, bellezza e originalità</strong>, ma anche trasmettere un’idea precisa di gusto e attenzione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_mYCQz7",
+        "column_QHA9Kk"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "I migliori brand di design da regalare per casa e cucina",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_NEC9f4": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_YRCWeY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-bicchiere-sparky-lara-caffi-20.webp",
+            "title": "",
+            "text": "<p><strong>KnIndustrie</strong> - essenzialità e innovazione</p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie"
+          }
+        },
+        "column_9aFwWC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/hybrid-tavola-natale-seletti.webp",
+            "title": "",
+            "text": "<p><strong>Seletti </strong>- Creatività Pop e Ironia per la casa</p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti"
+          }
+        },
+        "column_cqaUMR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-abracabra-natale-2025.webp",
+            "title": "",
+            "text": "<p><strong>Bitossi Home </strong>- Colore e Allegria per la Tavola</p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home"
+          }
+        },
+        "column_PG6r8E": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/miho-duetto-candelabri-artigiali.jpg",
+            "title": "",
+            "text": "<p><strong>Miho - </strong>Design poetico e sostenibile</p>",
+            "link_label": "",
+            "link": "shopify://collections/miho"
+          }
+        },
+        "column_PrBkxt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/vanilla-fly-cuscino-velluto-retro-velluto-brown-fan-1.jpg",
+            "title": "",
+            "text": "<p><strong>Vanilla Fly - </strong>Stile eclettico e fascino vintage</p>",
+            "link_label": "",
+            "link": "shopify://collections/vanilla-fly"
+          }
+        }
+      },
+      "block_order": [
+        "column_YRCWeY",
+        "column_9aFwWC",
+        "column_cqaUMR",
+        "column_PG6r8E",
+        "column_PrBkxt"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Scopri tutti i Nostri Brand ->",
+        "button_link": "shopify://pages/i-nostri-brand",
+        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
+    "multicolumn_AAexqG": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_jLdERd": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_etikeJ": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Doni che si adattano al momento, al rapporto con chi li riceve e al budget disponibile.</p><p>Ogni casa ha la sua storia, proprio come ogni persona che la vive.<br/>Le <strong>idee regalo per la casa di Unico & Multiplo</strong> nascono per accompagnare questi racconti quotidiani, con <strong>oggetti di design, accessori decorativi e articoli per la cucina</strong> che si adattano a ogni occasione, relazione e fascia di prezzo.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_jLdERd",
+        "column_etikeJ"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Idee Regalo per la casa perfette per persone e momenti diversi",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_eg7VNb": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_cNemxr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IZIPIZI-occhiali-da-sole-idee-regalo.webp",
+            "title": "",
+            "text": "<p><strong>IDEE PER LUI →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-regali-per-lui"
+          }
+        },
+        "column_BXD7C9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/verygoods-candela-1.jpg",
+            "title": "",
+            "text": "<p><strong>IDEE PER LEI →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-regali-per-lei"
+          }
+        },
+        "column_M7EhAD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/regali-per-lui-romantici-idee-originali.webp",
+            "title": "",
+            "text": "<p><strong>IDEE PER LA COPPIA →</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/tempo-libero?filter.v.price.gte=40&filter.v.price.lte=110&sort_by=manual"
+          }
+        }
+      },
+      "block_order": [
+        "column_cNemxr",
+        "column_BXD7C9",
+        "column_M7EhAD"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<strong>Regali per lei, per lui, per i genitori o per una coppia di amici</strong>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_tJNqki": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_U9rD9Y": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Regali per la casa sotto 50€, 100€ o 150€</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_wYjNk8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Non serve un grande budget per fare un regalo d’effetto.<br/>Le <strong>idee regalo per la casa</strong> di <em>Unico & Multiplo</em> sono suddivise per fascia di prezzo, per aiutarti a <strong>scegliere con facilità e consapevolezza</strong>.</p>"
+          }
+        },
+        "button_XXEay4": {
+          "type": "button",
+          "settings": {
+            "button_label": "Idee Sotto 50€",
+            "button_link": "shopify://collections/idee-regalo-economiche",
+            "button_style_secondary": true,
+            "button_label_2": "Idee Sotto 100€",
+            "button_link_2": "shopify://collections/idee-regalo-regali-sotto-100-euro",
+            "button_style_secondary_2": true
+          }
+        },
+        "button_WHipGa": {
+          "type": "button",
+          "settings": {
+            "button_label": "Idee Regalo Sotto 150€",
+            "button_link": "shopify://collections/idee-regalo-regali-sotto-150-euro",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_U9rD9Y",
+        "text_wYjNk8",
+        "button_XXEay4",
+        "button_WHipGa"
+      ],
+      "custom_css": [],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-1",
+        "full_width": true,
+        "padding_top": 28,
+        "padding_bottom": 40
+      }
+    },
+    "image_banner_Wf66Kg": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_deVTaU": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Spunti e ispirazioni per idee regalo dedicate alla casa</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_XaPWtk": {
+          "type": "text",
+          "settings": {
+            "text": "Che tu stia cercando <strong>un dono per una casa nuova</strong>, un <strong>pensiero per colleghi o amici</strong>, oppure <strong>un’idea romantica per una coppia</strong>, troverai contenuti e selezioni capaci di guidarti nella scelta con gusto e leggerezza.",
+            "text_style": "body"
+          }
+        },
+        "buttons_hAnUTR": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Regalare per Stupire",
+            "button_link_1": "shopify://blogs/regalare-per-stupire",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_deVTaU",
+        "text_XaPWtk",
+        "buttons_hAnUTR"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Piatti-natale-2025.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "custom_liquid_TGPL4x",
+    "image_banner_Q6rBiY",
+    "product-grid",
+    "multicolumn_RW9UrF",
+    "multicolumn_LcVAky",
+    "multicolumn_C6dG97",
+    "multicolumn_Cjdxz3",
+    "multicolumn_C6Htrd",
+    "multicolumn_nw6mnq",
+    "multicolumn_NEC9f4",
+    "multicolumn_AAexqG",
+    "multicolumn_eg7VNb",
+    "rich_text_tJNqki",
+    "image_banner_Wf66Kg"
+  ]
+}
