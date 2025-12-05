@@ -151,7 +151,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 16
       }
     },
     "multicolumn_nw6mnq": {
@@ -194,7 +194,7 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 16,
         "padding_bottom": 0
       }
     },
@@ -276,7 +276,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 0,
-        "padding_bottom": 16
+        "padding_bottom": 0
       }
     },
     "multicolumn_AAexqG": {
@@ -404,133 +404,140 @@
         "padding_bottom": 16
       }
     },
-    "multicolumn_Cjdxz3": {
+    "multicolumn_ehmytA": {
       "type": "multicolumn",
       "blocks": {
-        "column_Yn3MXw": {
+        "column_FkekUw": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-supercurve-specchio-con-cornice-luminosa-h185-cm-4-5.webp",
             "title": "",
-            "text": "<p><strong>Specchi</strong></p>",
+            "text": "",
             "link_label": "",
-            "link": "shopify://collections/complementi-arredo-specchi-da-parete"
+            "link": ""
           }
         },
-        "column_N8PWUL": {
+        "column_za3Cc6": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Marinette_c696c502-67c7-4d57-95b8-fa921a0b1d97.webp",
             "title": "",
-            "text": "<p><strong>Plaid</strong></p>",
+            "text": "<p>Un dono romantico può essere anche funzionale. A volte i regali più apprezzati sono quelli che entrano nella quotidianità: oggetti che si usano ogni giorno e che ricordano, con naturalezza, il legame che vi unisce. Proposte intelligenti, curate e pensate per migliorare i momenti condivisi.</p>",
             "link_label": "",
-            "link": "shopify://collections/marinette-saint-tropez"
-          }
-        },
-        "column_aKHebH": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/bitossi-home-tavola-scomposta-grazie-dei-fiori-vaso-ceramica-2.jpg",
-            "title": "",
-            "text": "<p><strong>Vasi</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/complementi-arredo-vasi"
-          }
-        },
-        "column_DT6RJR": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/vanilla-fly-cuscino-velluto-retro-velluto-brown-fan.jpg",
-            "title": "",
-            "text": "<p><strong>Tessili</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/complementi-arredo-tessili-casa"
+            "link": ""
           }
         }
       },
       "block_order": [
-        "column_Yn3MXw",
-        "column_N8PWUL",
-        "column_aKHebH",
-        "column_DT6RJR"
+        "column_FkekUw",
+        "column_za3Cc6"
       ],
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>Complementi d’arredo che danno carattere agli spazi</strong>",
-        "heading_size": "h2",
+        "title": "Regali utili di San Valentino che parlano d’amore ogni giorno",
+        "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 4,
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
         "column_alignment": "left",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "padding_top": 16,
-        "padding_bottom": 16
+        "padding_bottom": 0
       }
     },
-    "multicolumn_C6Htrd": {
-      "type": "multicolumn",
+    "image_with_text_mM669i": {
+      "type": "image-with-text",
       "blocks": {
-        "column_YKGXWV": {
-          "type": "column",
+        "heading_fMtqtg": {
+          "type": "heading",
           "settings": {
-            "image": "shopify://shop_images/seletti-vitamin-lampadario-in-resina-pear-6.jpg",
-            "title": "",
-            "text": "<p><strong>Illuminazione</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/complementi-arredo-specchi-da-parete"
+            "heading": "Idee per la casa e la cucina da vivere in due",
+            "heading_size": "h2"
           }
         },
-        "column_VaAWmj": {
-          "type": "column",
+        "text_t8FWbp": {
+          "type": "text",
           "settings": {
-            "image": "shopify://shop_images/seletti-nuvola-lamp-4.webp",
-            "title": "",
-            "text": "<p><strong>Lampade</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/marinette-saint-tropez"
+            "text": "<p>Che si tratti di preparare una cena speciale, decorare uno spazio comune o rendere più accogliente il vostro nido, i regali per la casa sono perfetti per condividere esperienze. Oggetti conviviali, design accoglienti, <strong>elementi che raccontano la vita insieme.</strong></p>",
+            "text_style": "body"
           }
         },
-        "column_JPF9c3": {
-          "type": "column",
+        "button_XJigUh": {
+          "type": "button",
           "settings": {
-            "image": "shopify://shop_images/Stan-Editions-Candela-3-pezzi-impilabili-6_d797dd60-e81d-4ee9-b1ac-6b843d4d71ed.jpg",
-            "title": "",
-            "text": "<p><strong>Candele e Candelabri</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/complementi-arredo-vasi"
+            "button_label": " Idee Regalo Casa e Cucina",
+            "button_link": "shopify://collections/idee-regalo-per-casa-e-cucina",
+            "button_style_secondary": true
           }
         }
       },
       "block_order": [
-        "column_YKGXWV",
-        "column_VaAWmj",
-        "column_JPF9c3"
+        "heading_fMtqtg",
+        "text_t8FWbp",
+        "button_XJigUh"
       ],
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
+      "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "title": "<strong>Illuminazione e dettagli scenografici per la casa</strong>",
-        "heading_size": "h2",
+        "image": "shopify://shop_images/San-Valentino-Cuore-Bacio-1.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_hDGaUz": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3mxwqA": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GJpgWb": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>Accessori utili con un tocco romantico<br/><br/></strong></h3><p>Un dono romantico può essere anche funzionale. A volte i regali più apprezzati sono quelli che entrano nella quotidianità: oggetti che si usano ogni giorno e che ricordano, con naturalezza, il legame che vi unisce. Proposte intelligenti, curate e pensate per migliorare i momenti condivisi.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_3mxwqA",
+        "column_GJpgWb"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
         "column_alignment": "left",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 16,
-        "padding_bottom": 16
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multicolumn_NEC9f4": {
@@ -614,122 +621,6 @@
         "padding_bottom": 16
       }
     },
-    "multicolumn_eg7VNb": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_cNemxr": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/IZIPIZI-occhiali-da-sole-idee-regalo.webp",
-            "title": "",
-            "text": "<p><strong>IDEE PER LUI →</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/idee-regalo-regali-per-lui"
-          }
-        },
-        "column_BXD7C9": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/verygoods-candela-1.jpg",
-            "title": "",
-            "text": "<p><strong>IDEE PER LEI →</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/idee-regalo-regali-per-lei"
-          }
-        },
-        "column_M7EhAD": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/regali-per-lui-romantici-idee-originali.webp",
-            "title": "",
-            "text": "<p><strong>IDEE PER LA COPPIA →</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/tempo-libero?filter.v.price.gte=40&filter.v.price.lte=110&sort_by=manual"
-          }
-        }
-      },
-      "block_order": [
-        "column_cNemxr",
-        "column_BXD7C9",
-        "column_M7EhAD"
-      ],
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "<strong>Regali per lei, per lui, per i genitori o per una coppia di amici</strong>",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "rich_text_tJNqki": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_U9rD9Y": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Regali per la casa sotto 50€, 100€ o 150€</strong>",
-            "heading_size": "h2"
-          }
-        },
-        "text_wYjNk8": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Non serve un grande budget per fare un regalo d’effetto.<br/>Le <strong>idee regalo per la casa</strong> di <em>Unico & Multiplo</em> sono suddivise per fascia di prezzo, per aiutarti a <strong>scegliere con facilità e consapevolezza</strong>.</p>"
-          }
-        },
-        "button_XXEay4": {
-          "type": "button",
-          "settings": {
-            "button_label": "Idee Sotto 50€",
-            "button_link": "shopify://collections/idee-regalo-economiche",
-            "button_style_secondary": true,
-            "button_label_2": "Idee Sotto 100€",
-            "button_link_2": "shopify://collections/idee-regalo-regali-sotto-100-euro",
-            "button_style_secondary_2": true
-          }
-        },
-        "button_WHipGa": {
-          "type": "button",
-          "settings": {
-            "button_label": "Idee Regalo Sotto 150€",
-            "button_link": "shopify://collections/idee-regalo-regali-sotto-150-euro",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_U9rD9Y",
-        "text_wYjNk8",
-        "button_XXEay4",
-        "button_WHipGa"
-      ],
-      "custom_css": [],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-1",
-        "full_width": true,
-        "padding_top": 28,
-        "padding_bottom": 40
-      }
-    },
     "image_banner_Wf66Kg": {
       "type": "image-banner",
       "blocks": {
@@ -790,11 +681,10 @@
     "multicolumn_LcVAky",
     "multicolumn_AAexqG",
     "multicolumn_C6dG97",
-    "multicolumn_Cjdxz3",
-    "multicolumn_C6Htrd",
+    "multicolumn_ehmytA",
+    "image_with_text_mM669i",
+    "multicolumn_hDGaUz",
     "multicolumn_NEC9f4",
-    "multicolumn_eg7VNb",
-    "rich_text_tJNqki",
     "image_banner_Wf66Kg"
   ]
 }
