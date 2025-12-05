@@ -538,11 +538,11 @@
         "column_YRCWeY": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-bicchiere-sparky-lara-caffi-20.webp",
+            "image": "shopify://shop_images/k7_beatrice_rossetti-knindustrie-idee-natale.webp",
             "title": "",
             "text": "<p><strong>KnIndustrie</strong> - essenzialità e innovazione</p>",
             "link_label": "",
-            "link": "shopify://collections/knindustrie"
+            "link": "shopify://collections/knindustrie-accessori-tavola"
           }
         },
         "column_9aFwWC": {
@@ -550,19 +550,19 @@
           "settings": {
             "image": "shopify://shop_images/hybrid-tavola-natale-seletti.webp",
             "title": "",
-            "text": "<p><strong>Seletti </strong>- Creatività Pop e Ironia per la casa</p>",
+            "text": "<p><strong>Seletti </strong>- Creatività Pop </p>",
             "link_label": "",
-            "link": "shopify://collections/seletti"
+            "link": "shopify://collections/seletti-catalogo-prodotti-hybrid"
           }
         },
         "column_cqaUMR": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi-abracabra-natale-2025.webp",
+            "image": "shopify://shop_images/natale-bitossi-il_frutto_della-passione_1.webp",
             "title": "",
-            "text": "<p><strong>Bitossi Home </strong>- Colore e Allegria per la Tavola</p>",
+            "text": "<p><strong>Bitossi Home </strong>- Colore e Allegria</p>",
             "link_label": "",
-            "link": "shopify://collections/bitossi-home"
+            "link": "shopify://collections/bitossi-home-il-frutto-della-passione-bitossi-home"
           }
         },
         "column_PG6r8E": {
@@ -570,7 +570,7 @@
           "settings": {
             "image": "shopify://shop_images/miho-duetto-candelabri-artigiali.jpg",
             "title": "",
-            "text": "<p><strong>Miho - </strong>Design poetico e sostenibile</p>",
+            "text": "<p><strong>Miho - </strong>Design poetico </p>",
             "link_label": "",
             "link": "shopify://collections/miho"
           }
@@ -578,11 +578,11 @@
         "column_PrBkxt": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/vanilla-fly-cuscino-velluto-retro-velluto-brown-fan-1.jpg",
+            "image": "shopify://shop_images/marinette-saint-tropez-plaid-pisolino-3_e63a6dd1-3cde-4c5e-a2f6-670b82cddc0b.webp",
             "title": "",
-            "text": "<p><strong>Vanilla Fly - </strong>Stile eclettico e fascino vintage</p>",
+            "text": "<p><strong>Marinette </strong>- Un Plaid per Due</p>",
             "link_label": "",
-            "link": "shopify://collections/vanilla-fly"
+            "link": "shopify://collections/marinette-saint-tropez"
           }
         }
       },
