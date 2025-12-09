@@ -20,6 +20,47 @@
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
       }
     },
+    "collection_list_9xnNba": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_dCLJTD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-per-casa-e-cucina"
+          }
+        },
+        "featured_collection_PqQKW8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-regali-per-lei"
+          }
+        },
+        "featured_collection_XNtLxB": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-regali-per-lui"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_dCLJTD",
+        "featured_collection_PqQKW8",
+        "featured_collection_XNtLxB"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -43,6 +84,7 @@
   },
   "order": [
     "banner",
+    "collection_list_9xnNba",
     "product-grid"
   ]
 }
