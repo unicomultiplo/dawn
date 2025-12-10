@@ -168,6 +168,94 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "multicolumn_iybDdk": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_kYf7AU": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PrRA4K": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>Regali utili per la vita a due di tutti i giorni<br/><br/></strong></h3><p>Soluzioni pratiche e curate, pensate per accompagnare la coppia nella quotidianità: accessori per la casa, utensili di qualità, oggetti funzionali ma belli da vedere.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_kYf7AU",
+        "column_PrRA4K"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_FK3mQN": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_xpxJnb": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GpWGL8": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>Oggetti di design per un matrimonio elegante<br/><br/></strong></h3><p>Soluzioni pratiche e curate, pensate per accompagnare la coppia nella quotidianità: accessori per la casa, utensili di qualità, oggetti funzionali ma belli da vedere.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_xpxJnb",
+        "column_GpWGL8"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
@@ -175,6 +263,8 @@
     "collection_list_9xnNba",
     "product-grid",
     "multicolumn_rFLwme",
-    "multicolumn_tNwL4w"
+    "multicolumn_tNwL4w",
+    "multicolumn_iybDdk",
+    "multicolumn_FK3mQN"
   ]
 }
