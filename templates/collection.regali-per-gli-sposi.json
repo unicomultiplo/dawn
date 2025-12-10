@@ -229,7 +229,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3><strong>Oggetti di design per un matrimonio elegante<br/></strong></h3><p>Per chi ama l’estetica e i dettagli ricercati, il design è sempre una scelta sicura.<br/>Idee raffinate che uniscono stile e valore, perfette per la casa nuova.</p>",
+            "text": "<h3><strong>Oggetti di design per un matrimonio elegante<br/></strong></h3><p>Per chi ama l’estetica e i dettagli ricercati, il design è sempre una scelta sicura. Idee raffinate che uniscono stile e valore, perfette per la casa nuova.</p>",
             "link_label": "",
             "link": ""
           }
@@ -255,6 +255,87 @@
         "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "multicolumn_NBhDQA": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_fYPem3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-storm-vassoio-stone-washed-6.webp",
+            "title": "",
+            "text": "<p><strong>KnIndustrie</strong> - Essenzialità e Innovazione</p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie"
+          }
+        },
+        "column_79zfLw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/sELETTI-10069_AMOR-VOLAT_MARCANTONIO_LIFESTYLE_MARBLE.webp",
+            "title": "",
+            "text": "<p><strong>Seletti </strong>- Creatività Pop e Ironia </p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti"
+          }
+        },
+        "column_HLMBiV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/fiocco-bitossi-home-natale.webp",
+            "title": "",
+            "text": "<p><strong>Bitossi Home </strong>- Colore e Allegria</p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home"
+          }
+        },
+        "column_DtRt7W": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Miho-Candelabro-Artigianali-Deep-Devotion-2.webp",
+            "title": "",
+            "text": "<p><strong>Miho - </strong>Design Sostenibile</p>",
+            "link_label": "",
+            "link": "shopify://collections/miho"
+          }
+        },
+        "column_RRWRxh": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/vanilla-fly-cuscino-velluto-retro-velluto-brown-fan.jpg",
+            "title": "",
+            "text": "<p><strong>Vanilla Fly - </strong>Stile Eclettico </p>",
+            "link_label": "",
+            "link": "shopify://collections/vanilla-fly"
+          }
+        }
+      },
+      "block_order": [
+        "column_fYPem3",
+        "column_79zfLw",
+        "column_HLMBiV",
+        "column_DtRt7W",
+        "column_RRWRxh"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Scopri tutti i Nostri Brand ->",
+        "button_link": "shopify://pages/i-nostri-brand",
+        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 16
       }
     },
     "multicolumn_xMxCQk": {
@@ -396,7 +477,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Il matrimonio è un inizio, ma anche un momento che coinvolge amici e famiglia: ecco pensieri per altre figure importanti e per anniversari speciali.</p><h3><strong><br/>Proposte romantiche per anniversari e San Valentino</strong></h3><p>Idee e oggetti dedicati all’amore, perfetti anche per celebrare un anniversario degli sposi o la festa dell'Amore.</p>",
+            "text": "<p>Il matrimonio è un inizio, ma anche un momento che coinvolge amici e famiglia: ecco pensieri per altre figure importanti e per anniversari speciali.</p><h3><strong>Proposte romantiche per anniversari e San Valentino</strong></h3><p>Idee e oggetti dedicati all’amore, perfetti anche per celebrare un anniversario degli sposi o la festa dell'Amore.</p>",
             "link_label": "",
             "link": ""
           }
@@ -431,6 +512,98 @@
         "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "multicolumn_8Bf6AX": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_RNYcdq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/la-tavola-scomposta-bitossi-home.jpg",
+            "title": "",
+            "text": "<p><strong>La Tavola Scomposta<br/></strong>Mix & match <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-funky-table-tavola-scomposta"
+          }
+        },
+        "column_766j3r": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/il-frutto-della-passione-pangea-natale.webp",
+            "title": "",
+            "text": "<p><strong>Il Frutto della Passione</strong><br/>Simboli da portata<strong> </strong>→</p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-il-frutto-della-passione-bitossi-home"
+          }
+        },
+        "column_Ap7kqV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/natale-abracadabra-bitossi-home.webp",
+            "title": "",
+            "text": "<p><strong>Abracadabra</strong><br/>Incantesimo di forme <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-abracadabra"
+          }
+        },
+        "column_QmNpN4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/fiocco-bitossi-home-natale.webp",
+            "title": "",
+            "text": "<p><strong>Le Decorazioni<br/></strong>Dettagli wow! →</p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-le-decorazioni-bitossi-home"
+          }
+        },
+        "column_zb9DJg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/fiocco-bitossi-home-natale.webp",
+            "title": "",
+            "text": "<p><strong>Le Decorazioni<br/></strong>Dettagli wow! →</p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-le-decorazioni-bitossi-home"
+          }
+        },
+        "column_detGP7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/san-valentino-idee-regalo-romantiche-originali.webp",
+            "title": "",
+            "text": "<p><strong>Esplora <br/></strong>Tutta la collezione <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home"
+          }
+        }
+      },
+      "block_order": [
+        "column_RNYcdq",
+        "column_766j3r",
+        "column_Ap7kqV",
+        "column_QmNpN4",
+        "column_zb9DJg",
+        "column_detGP7"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 20
       }
     },
     "image_banner_fNqNdc": {
@@ -491,10 +664,12 @@
     "multicolumn_tNwL4w",
     "multicolumn_iybDdk",
     "multicolumn_FK3mQN",
+    "multicolumn_NBhDQA",
     "multicolumn_xMxCQk",
     "multicolumn_Gkr4nf",
     "multicolumn_XkRxMH",
     "multicolumn_ifUFPk",
+    "multicolumn_8Bf6AX",
     "image_banner_fNqNdc"
   ]
 }
