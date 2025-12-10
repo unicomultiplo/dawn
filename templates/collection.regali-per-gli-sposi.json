@@ -426,6 +426,35 @@
         "padding_bottom": 0
       }
     },
+    "featured_collection_zJrRQN": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "subtitle",
+        "collection": "idee-regalo-economiche",
+        "products_to_show": 15,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_XkRxMH": {
       "type": "multicolumn",
       "blocks": {
@@ -560,7 +589,7 @@
         "column_zb9DJg": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/fiocco-bitossi-home-natale.webp",
+            "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-1_3ce9b986-5711-4645-b25a-9e61f155342d.webp",
             "title": "",
             "text": "<p><strong>Le Decorazioni<br/></strong>Dettagli wow! →</p>",
             "link_label": "",
@@ -667,6 +696,7 @@
     "multicolumn_NBhDQA",
     "multicolumn_xMxCQk",
     "multicolumn_Gkr4nf",
+    "featured_collection_zJrRQN",
     "multicolumn_XkRxMH",
     "multicolumn_ifUFPk",
     "multicolumn_8Bf6AX",
