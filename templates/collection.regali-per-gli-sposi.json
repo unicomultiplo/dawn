@@ -524,19 +524,19 @@
         "column_bxTfzN": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/kikkerland-dog-stress-balls-palline-antistress-cane.webp",
+            "image": "shopify://shop_images/la-tavola-scomposta-bitossi-home.jpg",
             "title": "",
-            "text": "<p><strong>Kikkerland <br/></strong>Gadget geniali, zero noia →</p>",
+            "text": "<p><strong>Bitossi Home<br/></strong>Mix & Match →</p>",
             "link_label": "",
-            "link": "shopify://collections/kikkerland"
+            "link": "shopify://collections/bitossi-home-i-piattini-bitossi-home"
           }
         },
         "column_Y3bdBM": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/disegnetti-depressetti-portachiavi_4.webp",
+            "image": "shopify://shop_images/seletti-toiletpaper-tappeto-bagno-sea-girl.jpg",
             "title": "",
-            "text": "<p><strong>Disgnetti Depressetti</strong><br/>Ironia nera, umore chiaro<strong> →</strong></p>",
+            "text": "<p><strong>Seletti</strong><br/>Ironia  Creativa <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/disegnetti-depressetti"
           }
@@ -554,9 +554,9 @@
         "column_miyPBj": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-lucky-temple-oggetto-decorativo-12.webp",
+            "image": "shopify://shop_images/KnIndustrie-portapane-1.webp",
             "title": "",
-            "text": "<p><strong>Seletti</strong><br/>Inconfondibilmente folle <strong>→</strong></p>",
+            "text": "<p><strong>KnIndustrie</strong><br/>Inconfondibilmente Elegante<strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/oggetto-decorativo-regalo-seletti"
           }
@@ -564,9 +564,9 @@
         "column_jqKzxk": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/printwork-chess-clouds-scacchiera-da-tavolo-5.webp",
+            "image": "shopify://shop_images/printwork-i-love-story-album-foto-3.webp",
             "title": "",
-            "text": "<p><strong>Printworks</strong><br/>Design che gioca sul serio<strong>→</strong></p>",
+            "text": "<p><strong>Printworks</strong><br/>Design d'Amore<strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/printworks"
           }
