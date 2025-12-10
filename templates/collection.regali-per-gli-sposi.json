@@ -169,6 +169,88 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_NkmqAE": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3P9tX6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Tavola-natale-2025.webp",
+            "title": "",
+            "text": "<p><strong>I Piatti </strong><br/>Stile essenziale <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-piatti"
+          }
+        },
+        "column_7qTfqm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1558-knindustrie-not-ice-cubetti-pietra-ollare.webp",
+            "title": "",
+            "text": "<p><strong>I Bicchieri </strong><br/>Eleganza cristallina<strong> →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
+          }
+        },
+        "column_h6qL4f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-brick-lane-set-24-pz-gold-2.jpg",
+            "title": "",
+            "text": "<p><strong>Le Posate </strong><br/>Minimalismo impeccabile <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-posate"
+          }
+        },
+        "column_Lw7xMN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/k7_beatrice_rossetti-knindustrie-idee-natale.webp",
+            "title": "",
+            "text": "<p><strong>Accessori tavola</strong><br/>Dettagli che completano <strong>→</strong><br/></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-accessori-tavola"
+          }
+        },
+        "column_4aqcfn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Knidustrie_1.webp",
+            "title": "",
+            "text": "<p><strong>Esplora <br/></strong>Tutte le collezioni <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie"
+          }
+        }
+      },
+      "block_order": [
+        "column_3P9tX6",
+        "column_7qTfqm",
+        "column_h6qL4f",
+        "column_Lw7xMN",
+        "column_4aqcfn"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
     "multicolumn_iybDdk": {
       "type": "multicolumn",
       "blocks": {
@@ -823,6 +905,7 @@
     "product-grid",
     "multicolumn_rFLwme",
     "multicolumn_tNwL4w",
+    "multicolumn_NkmqAE",
     "multicolumn_iybDdk",
     "multicolumn_LPTCMh",
     "multicolumn_FK3mQN",
