@@ -213,6 +213,98 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_LPTCMh": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_zEDq94": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-slab-tagliere-in-larice-e-acciaio-3.jpg",
+            "title": "",
+            "text": "<p><strong>TAGLIERI</strong></p><p>Dettagli speciali</p>",
+            "link_label": "",
+            "link": "shopify://collections/tempo-libero"
+          }
+        },
+        "column_TYXyPL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/specchio-luminoso-supercurve-seletti.jpg",
+            "title": "",
+            "text": "<p><strong>SPECCHI</strong></p><p>Riflessi Inconfondibili</p>",
+            "link_label": "",
+            "link": "shopify://collections/complementi-arredo-specchi-da-parete"
+          }
+        },
+        "column_HFUX4k": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/alzate-knindustrie.webp",
+            "title": "",
+            "text": "<p><strong>CENTROTAVOLA</strong><br/>Il dettaglio che illumina</p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
+          }
+        },
+        "column_dJDEHi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/doiy-coral-ocean-dreams-portaspazzolini-vaso-portapenne-3.webp",
+            "title": "",
+            "text": "<p><strong>VASI</strong><br/>Classico Intramontabile</p>",
+            "link_label": "",
+            "link": "shopify://collections/complementi-arredo-vasi"
+          }
+        },
+        "column_aCBCHW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-oliera-acetiera-3.jpg",
+            "title": "",
+            "text": "<p><strong>OLIERE</strong><br/>Eleganza in tavola</p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-set-olio-aceto-sale-pepe"
+          }
+        },
+        "column_DL7dhm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-mani-Marcantonio-2.webp",
+            "title": "",
+            "text": "<p><strong>LAMPADE</strong></p><p>Il dettaglio che illumina</p>",
+            "link_label": "",
+            "link": "shopify://collections/lampade"
+          }
+        }
+      },
+      "block_order": [
+        "column_zEDq94",
+        "column_TYXyPL",
+        "column_HFUX4k",
+        "column_dJDEHi",
+        "column_aCBCHW",
+        "column_DL7dhm"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "shopify://blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale",
+        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
     "multicolumn_FK3mQN": {
       "type": "multicolumn",
       "blocks": {
@@ -663,6 +755,7 @@
     "multicolumn_rFLwme",
     "multicolumn_tNwL4w",
     "multicolumn_iybDdk",
+    "multicolumn_LPTCMh",
     "multicolumn_FK3mQN",
     "multicolumn_NBhDQA",
     "multicolumn_xMxCQk",
