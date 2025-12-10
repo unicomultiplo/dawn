@@ -141,7 +141,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3><strong>Regali originali e particolari<br/><br/></strong></h3><p>Se vuoi qualcosa che si distingua dai regali tradizionali, punta su oggetti creativi, personalizzabili o dal design inaspettato. Sono idee perfette per lasciare un ricordo unico agli sposi.</p>",
+            "text": "<h3><strong>Regali originali e particolari<br/></strong></h3><p>Se vuoi qualcosa che si distingua dai regali tradizionali, punta su oggetti creativi, personalizzabili o dal design inaspettato. Sono idee perfette per lasciare un ricordo unico agli sposi.</p>",
             "link_label": "",
             "link": ""
           }
@@ -185,7 +185,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3><strong>Regali utili per la vita a due di tutti i giorni<br/><br/></strong></h3><p>Soluzioni pratiche e curate, pensate per accompagnare la coppia nella quotidianità: accessori per la casa, utensili di qualità, oggetti funzionali ma belli da vedere.</p>",
+            "text": "<h3><strong>Regali utili per la vita a due di tutti i giorni<br/></strong></h3><p>Soluzioni pratiche e curate, pensate per accompagnare la coppia nella quotidianità: accessori per la casa, utensili di qualità, oggetti funzionali ma belli da vedere.</p>",
             "link_label": "",
             "link": ""
           }
@@ -229,7 +229,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3><strong>Oggetti di design per un matrimonio elegante<br/><br/></strong></h3><p>Soluzioni pratiche e curate, pensate per accompagnare la coppia nella quotidianità: accessori per la casa, utensili di qualità, oggetti funzionali ma belli da vedere.</p>",
+            "text": "<h3><strong>Oggetti di design per un matrimonio elegante<br/></strong></h3><p>Per chi ama l’estetica e i dettagli ricercati, il design è sempre una scelta sicura.<br/>Idee raffinate che uniscono stile e valore, perfette per la casa nuova.</p>",
             "link_label": "",
             "link": ""
           }
@@ -256,6 +256,182 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "multicolumn_xMxCQk": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_PbpGDq": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Non serve spendere una fortuna: con la giusta attenzione si possono trovare regali eleganti e significativi in ogni fascia di prezzo.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_FiX3rb": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_PbpGDq",
+        "column_FiX3rb"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Idee Regalo per gli Sposi, calibrate sul budget",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_Gkr4nf": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_P8bmtx": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_QzqpAk": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>Regali economici ma sempre raffinati<br/></strong></h3><p>Piccoli pensieri che non rinunciano allo stile, ideali per un dono simbolico o per accompagnare una busta.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_P8bmtx",
+        "column_QzqpAk"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_XkRxMH": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_pYpCzt": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_b9cmQK": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>Regali entro 100€ o 150€</strong></h3><h3></h3><p>Proposte di fascia media per chi desidera un regalo più consistente senza esagerare.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_pYpCzt",
+        "column_b9cmQK"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_ifUFPk": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_dnmcaB": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_c9Rdtq": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Il matrimonio è un inizio, ma anche un momento che coinvolge amici e famiglia: ecco pensieri per altre figure importanti e per anniversari speciali.</p><h3><strong><br/>Proposte romantiche per anniversari e San Valentino</strong></h3><p>Idee e oggetti dedicati all’amore, perfetti anche per celebrare un anniversario degli sposi o la festa dell'Amore.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_dnmcaB",
+        "column_c9Rdtq"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Regali Simbolici per Anniversari e Ricorrenze",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
@@ -265,6 +441,10 @@
     "multicolumn_rFLwme",
     "multicolumn_tNwL4w",
     "multicolumn_iybDdk",
-    "multicolumn_FK3mQN"
+    "multicolumn_FK3mQN",
+    "multicolumn_xMxCQk",
+    "multicolumn_Gkr4nf",
+    "multicolumn_XkRxMH",
+    "multicolumn_ifUFPk"
   ]
 }
