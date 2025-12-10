@@ -81,10 +81,19 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_tNwL4w": {
+    "multicolumn_rFLwme": {
       "type": "multicolumn",
       "blocks": {
-        "column_8bzYje": {
+        "column_tfnRnb": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Ogni coppia ha esigenze e personalità diverse: c’è chi ama l’utile, chi preferisce un regalo fuori dal comune e chi cerca oggetti eleganti per la nuova casa.<strong> Ecco alcune ispirazioni per trovare il dono giusto.</strong></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PyA6aL": {
           "type": "column",
           "settings": {
             "title": "",
@@ -92,20 +101,11 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_wqV3kq": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Ogni coppia ha esigenze e personalità diverse: c’è chi ama l’utile, chi preferisce un regalo fuori dal comune e chi cerca oggetti eleganti per la nuova casa.<strong> Ecco alcune ispirazioni per trovare il dono giusto.<br/><br/></strong></p><h3><strong>Regali originali e particolari</strong></h3><p></p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "column_8bzYje",
-        "column_wqV3kq"
+        "column_tfnRnb",
+        "column_PyA6aL"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -124,12 +124,57 @@
         "padding_top": 36,
         "padding_bottom": 0
       }
+    },
+    "multicolumn_tNwL4w": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_8bzYje": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wqV3kq": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>Regali originali e particolari<br/><br/></strong></h3><p>Se vuoi qualcosa che si distingua dai regali tradizionali, punta su oggetti creativi, personalizzabili o dal design inaspettato. Sono idee perfette per lasciare un ricordo unico agli sposi.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_8bzYje",
+        "column_wqV3kq"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
     "banner",
     "collection_list_9xnNba",
     "product-grid",
+    "multicolumn_rFLwme",
     "multicolumn_tNwL4w"
   ]
 }
