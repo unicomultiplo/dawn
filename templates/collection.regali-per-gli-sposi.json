@@ -518,48 +518,128 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_XkRxMH": {
+    "multicolumn_pUhwyU": {
       "type": "multicolumn",
       "blocks": {
-        "column_pYpCzt": {
+        "column_bxTfzN": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/kikkerland-dog-stress-balls-palline-antistress-cane.webp",
             "title": "",
-            "text": "",
+            "text": "<p><strong>Kikkerland <br/></strong>Gadget geniali, zero noia →</p>",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/kikkerland"
           }
         },
-        "column_b9cmQK": {
+        "column_Y3bdBM": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/disegnetti-depressetti-portachiavi_4.webp",
             "title": "",
-            "text": "<h3><strong>Regali entro 100€ o 150€</strong></h3><h3></h3><p>Proposte di fascia media per chi desidera un regalo più consistente senza esagerare.</p>",
+            "text": "<p><strong>Disgnetti Depressetti</strong><br/>Ironia nera, umore chiaro<strong> →</strong></p>",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/disegnetti-depressetti"
+          }
+        },
+        "column_fqk7i3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/doiy-rainbow-reggilibri-4.webp",
+            "title": "",
+            "text": "<p><strong>DOIY</strong><br/>Design arcobaleno<strong> →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/doiy"
+          }
+        },
+        "column_miyPBj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-lucky-temple-oggetto-decorativo-12.webp",
+            "title": "",
+            "text": "<p><strong>Seletti</strong><br/>Inconfondibilmente folle <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/oggetto-decorativo-regalo-seletti"
+          }
+        },
+        "column_jqKzxk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/printwork-chess-clouds-scacchiera-da-tavolo-5.webp",
+            "title": "",
+            "text": "<p><strong>Printworks</strong><br/>Design che gioca sul serio<strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/printworks"
           }
         }
       },
       "block_order": [
-        "column_pYpCzt",
-        "column_b9cmQK"
+        "column_bxTfzN",
+        "column_Y3bdBM",
+        "column_fqk7i3",
+        "column_miyPBj",
+        "column_jqKzxk"
       ],
-      "name": "t:sections.multicolumn.presets.name",
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
+        "image_ratio": "portrait",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 20
+      }
+    },
+    "rich_text_AAdtP9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_d6haDa": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Regali entro 100€ o 150€</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_JVwBTF": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Quando la scelta diventa difficile, parti dal tuo budget.</em><br/>Proposte di fascia media per chi desidera un regalo più consistente senza esagerare.<br/></p>"
+          }
+        },
+        "button_YakFQ6": {
+          "type": "button",
+          "settings": {
+            "button_label": "Idee Regalo Sotto 100€",
+            "button_link": "shopify://collections/idee-regalo-regali-sotto-100-euro",
+            "button_style_secondary": false,
+            "button_label_2": "Idee Regalo Sotto 150€",
+            "button_link_2": "shopify://collections/idee-regalo-regali-sotto-150-euro",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_d6haDa",
+        "text_JVwBTF",
+        "button_YakFQ6"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-2",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 40
       }
     },
     "multicolumn_ifUFPk": {
@@ -760,7 +840,8 @@
     "multicolumn_NBhDQA",
     "multicolumn_xMxCQk",
     "multicolumn_Gkr4nf",
-    "multicolumn_XkRxMH",
+    "multicolumn_pUhwyU",
+    "rich_text_AAdtP9",
     "multicolumn_ifUFPk",
     "multicolumn_8Bf6AX",
     "image_banner_fNqNdc"
