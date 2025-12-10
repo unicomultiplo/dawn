@@ -692,17 +692,17 @@
         "column_RNYcdq": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/la-tavola-scomposta-bitossi-home.jpg",
+            "image": "shopify://shop_images/Love-in-Bloom-Seletti_196422cc-27a4-45b1-8a92-bd393047e649.webp",
             "title": "",
-            "text": "<p><strong>La Tavola Scomposta<br/></strong>Mix & match <strong>→</strong></p>",
+            "text": "<p><strong>Seletti Love In Bloom<br/></strong>Cuore in Vaso <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/bitossi-home-funky-table-tavola-scomposta"
+            "link": "shopify://collections/love-in-bloom-seletti"
           }
         },
         "column_766j3r": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/il-frutto-della-passione-pangea-natale.webp",
+            "image": "shopify://shop_images/natale-bitossi-il_frutto_della-passione.webp",
             "title": "",
             "text": "<p><strong>Il Frutto della Passione</strong><br/>Simboli da portata<strong> </strong>→</p>",
             "link_label": "",
@@ -722,9 +722,9 @@
         "column_QmNpN4": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/fiocco-bitossi-home-natale.webp",
+            "image": "shopify://shop_images/Stan-Editions-Candela-3-pezzi-impilabili-6_d797dd60-e81d-4ee9-b1ac-6b843d4d71ed.jpg",
             "title": "",
-            "text": "<p><strong>Le Decorazioni<br/></strong>Dettagli wow! →</p>",
+            "text": "<p><strong>CAndele e candelabri<br/></strong>Dettagli wow! →</p>",
             "link_label": "",
             "link": "shopify://collections/bitossi-home-le-decorazioni-bitossi-home"
           }
@@ -734,7 +734,7 @@
           "settings": {
             "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-1_3ce9b986-5711-4645-b25a-9e61f155342d.webp",
             "title": "",
-            "text": "<p><strong>Le Decorazioni<br/></strong>Dettagli wow! →</p>",
+            "text": "<p><strong>Candele e Candelabri<br/></strong>Dettagli wow! →</p>",
             "link_label": "",
             "link": "shopify://collections/bitossi-home-le-decorazioni-bitossi-home"
           }
