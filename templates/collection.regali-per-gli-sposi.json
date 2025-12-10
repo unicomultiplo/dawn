@@ -709,24 +709,14 @@
             "link": "shopify://collections/bitossi-home-il-frutto-della-passione-bitossi-home"
           }
         },
-        "column_Ap7kqV": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/natale-abracadabra-bitossi-home.webp",
-            "title": "",
-            "text": "<p><strong>Abracadabra</strong><br/>Incantesimo di forme <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/bitossi-home-abracadabra"
-          }
-        },
         "column_QmNpN4": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Stan-Editions-Candela-3-pezzi-impilabili-6_d797dd60-e81d-4ee9-b1ac-6b843d4d71ed.jpg",
+            "image": "shopify://shop_images/Seletti-mani-Marcantonio-2.webp",
             "title": "",
-            "text": "<p><strong>CAndele e candelabri<br/></strong>Dettagli wow! →</p>",
+            "text": "<p><strong>Seletti Marcantonio </strong>With me Lamp<strong> </strong>→</p>",
             "link_label": "",
-            "link": "shopify://collections/bitossi-home-le-decorazioni-bitossi-home"
+            "link": "shopify://products/4625-seletti-marcantonio-with-me-lamp-lampada-mani-intrecciate"
           }
         },
         "column_zb9DJg": {
@@ -736,7 +726,7 @@
             "title": "",
             "text": "<p><strong>Candele e Candelabri<br/></strong>Dettagli wow! →</p>",
             "link_label": "",
-            "link": "shopify://collections/bitossi-home-le-decorazioni-bitossi-home"
+            "link": "shopify://collections/illuminazione-candelabri-e-candele"
           }
         },
         "column_detGP7": {
@@ -746,14 +736,13 @@
             "title": "",
             "text": "<p><strong>Esplora <br/></strong>Tutta la collezione <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/bitossi-home"
+            "link": "shopify://collections/idee-regalo-san-valentino"
           }
         }
       },
       "block_order": [
         "column_RNYcdq",
         "column_766j3r",
-        "column_Ap7kqV",
         "column_QmNpN4",
         "column_zb9DJg",
         "column_detGP7"
@@ -766,7 +755,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "portrait",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
