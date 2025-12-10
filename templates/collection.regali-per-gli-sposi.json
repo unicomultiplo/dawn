@@ -392,15 +392,6 @@
     "multicolumn_ifUFPk": {
       "type": "multicolumn",
       "blocks": {
-        "column_dnmcaB": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_c9Rdtq": {
           "type": "column",
           "settings": {
@@ -409,11 +400,20 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_dnmcaB": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "column_dnmcaB",
-        "column_c9Rdtq"
+        "column_c9Rdtq",
+        "column_dnmcaB"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
