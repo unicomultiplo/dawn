@@ -216,16 +216,6 @@
     "multicolumn_LPTCMh": {
       "type": "multicolumn",
       "blocks": {
-        "column_zEDq94": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-slab-tagliere-in-larice-e-acciaio-3.jpg",
-            "title": "",
-            "text": "<p><strong>TAGLIERI</strong></p><p>Dettagli speciali</p>",
-            "link_label": "",
-            "link": "shopify://collections/tempo-libero"
-          }
-        },
         "column_TYXyPL": {
           "type": "column",
           "settings": {
@@ -236,14 +226,14 @@
             "link": "shopify://collections/complementi-arredo-specchi-da-parete"
           }
         },
-        "column_HFUX4k": {
+        "column_DL7dhm": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/alzate-knindustrie.webp",
+            "image": "shopify://shop_images/seletti-my-moon-lamp-lampada-seduta-indoor-outdoor.jpg",
             "title": "",
-            "text": "<p><strong>CENTROTAVOLA</strong><br/>Il dettaglio che illumina</p>",
+            "text": "<p><strong>LAMPADE</strong></p><p>Dettagli che illuminano</p>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
+            "link": "shopify://collections/lampade"
           }
         },
         "column_dJDEHi": {
@@ -251,9 +241,19 @@
           "settings": {
             "image": "shopify://shop_images/doiy-coral-ocean-dreams-portaspazzolini-vaso-portapenne-3.webp",
             "title": "",
-            "text": "<p><strong>VASI</strong><br/>Classico Intramontabile</p>",
+            "text": "<p><strong>VASI</strong><br/>Classici Intramontabili</p>",
             "link_label": "",
             "link": "shopify://collections/complementi-arredo-vasi"
+          }
+        },
+        "column_HFUX4k": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/alzate-knindustrie.webp",
+            "title": "",
+            "text": "<p><strong>CENTROTAVOLA</strong><br/>Il Regalo che Cercavi</p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
           }
         },
         "column_aCBCHW": {
@@ -266,24 +266,24 @@
             "link": "shopify://collections/cucina-e-tavola-set-olio-aceto-sale-pepe"
           }
         },
-        "column_DL7dhm": {
+        "column_zEDq94": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-mani-Marcantonio-2.webp",
+            "image": "shopify://shop_images/knindustrie-slab-tagliere-in-larice-e-acciaio-3.jpg",
             "title": "",
-            "text": "<p><strong>LAMPADE</strong></p><p>Il dettaglio che illumina</p>",
+            "text": "<p><strong>TAGLIERI</strong></p><p>Essenza e Materiale</p>",
             "link_label": "",
-            "link": "shopify://collections/lampade"
+            "link": "shopify://collections/tempo-libero"
           }
         }
       },
       "block_order": [
-        "column_zEDq94",
         "column_TYXyPL",
-        "column_HFUX4k",
+        "column_DL7dhm",
         "column_dJDEHi",
+        "column_HFUX4k",
         "column_aCBCHW",
-        "column_DL7dhm"
+        "column_zEDq94"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
