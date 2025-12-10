@@ -432,6 +432,55 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "image_banner_fNqNdc": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_QPaUqG": {
+          "type": "heading",
+          "settings": {
+            "heading": "Suggerimenti extra per vivere da vicino il matrimonio",
+            "heading_size": "h1"
+          }
+        },
+        "text_zfCMGy": {
+          "type": "text",
+          "settings": {
+            "text": "Se cerchi qualcosa di più originale dei regali tradizionali, puoi esplorare idee legate all’esperienza del matrimonio stesso, perfette per stupire.",
+            "text_style": "body"
+          }
+        },
+        "buttons_mtydTg": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Regalare per Stupire",
+            "button_link_1": "shopify://blogs/regalare-per-stupire",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_QPaUqG",
+        "text_zfCMGy",
+        "buttons_mtydTg"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/idee-regalo-sposi-anniversario-nozze-unico-e-multiplo.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -445,6 +494,7 @@
     "multicolumn_xMxCQk",
     "multicolumn_Gkr4nf",
     "multicolumn_XkRxMH",
-    "multicolumn_ifUFPk"
+    "multicolumn_ifUFPk",
+    "image_banner_fNqNdc"
   ]
 }
