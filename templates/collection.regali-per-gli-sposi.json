@@ -93,7 +93,7 @@
             "link": ""
           }
         },
-        "column_PyA6aL": {
+        "column_7XMNfm": {
           "type": "column",
           "settings": {
             "title": "",
@@ -105,14 +105,14 @@
       },
       "block_order": [
         "column_tfnRnb",
-        "column_PyA6aL"
+        "column_7XMNfm"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Idee regalo matrimonio per sorprendere gli sposi",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 1,
         "column_alignment": "left",
         "background_style": "none",
@@ -172,65 +172,64 @@
     "multicolumn_NkmqAE": {
       "type": "multicolumn",
       "blocks": {
+        "column_4aqcfn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/printwork-chess-clouds-scacchiera-da-tavolo-3.webp",
+            "title": "",
+            "text": "<p><strong>Printworks<br/></strong>Scacchiera <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie"
+          }
+        },
         "column_3P9tX6": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Tavola-natale-2025.webp",
+            "image": "shopify://shop_images/Seletti-corno-kintsugi.webp",
             "title": "",
-            "text": "<p><strong>I Piatti </strong><br/>Stile essenziale <strong>→</strong></p>",
+            "text": "<p><strong>Seletti</strong><br/>Lucky Horn <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-piatti"
-          }
-        },
-        "column_7qTfqm": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/1558-knindustrie-not-ice-cubetti-pietra-ollare.webp",
-            "title": "",
-            "text": "<p><strong>I Bicchieri </strong><br/>Eleganza cristallina<strong> →</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
+            "link": "shopify://products/seletti-kintsugi-lucky-horn-corno-portafortuna-in-porcellana"
           }
         },
         "column_h6qL4f": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-brick-lane-set-24-pz-gold-2.jpg",
+            "image": "shopify://shop_images/seletti-nuvola-lamp-4.webp",
             "title": "",
-            "text": "<p><strong>Le Posate </strong><br/>Minimalismo impeccabile <strong>→</strong></p>",
+            "text": "<p><strong>Seletti </strong><br/>Nuvola Lamp <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-posate"
+            "link": "shopify://products/seletti-nuvola-lamp"
           }
         },
         "column_Lw7xMN": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/k7_beatrice_rossetti-knindustrie-idee-natale.webp",
+            "image": "shopify://shop_images/treccia-bitossi-home-vimini_1.jpg",
             "title": "",
-            "text": "<p><strong>Accessori tavola</strong><br/>Dettagli che completano <strong>→</strong><br/></p>",
+            "text": "<p><strong>Bitossi Home</strong><br/>Treccia <strong>→</strong><br/></p>",
             "link_label": "",
             "link": "shopify://collections/knindustrie-accessori-tavola"
           }
         },
-        "column_4aqcfn": {
+        "column_7qTfqm": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Knidustrie_1.webp",
+            "image": "shopify://shop_images/knindustrie-bicchiere-sparky-lara-caffi-20.webp",
             "title": "",
-            "text": "<p><strong>Esplora <br/></strong>Tutte le collezioni <strong>→</strong></p>",
+            "text": "<p><strong>KnIndustrie<br/></strong>Sparky<strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/knindustrie"
+            "link": "shopify://products/knindustrie-bicchiere-sparky-lara-caffi"
           }
         }
       },
       "block_order": [
+        "column_4aqcfn",
         "column_3P9tX6",
-        "column_7qTfqm",
         "column_h6qL4f",
         "column_Lw7xMN",
-        "column_4aqcfn"
+        "column_7qTfqm"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -245,7 +244,7 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-1",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 20
@@ -638,7 +637,7 @@
           "settings": {
             "image": "shopify://shop_images/KnIndustrie-portapane-1.webp",
             "title": "",
-            "text": "<p><strong>KnIndustrie</strong><br/>Inconfondibilmente Elegante<strong>→</strong></p>",
+            "text": "<p><strong>KnIndustrie</strong><br/>Inconfondibilmente Elegante <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://products/683-knindustrie-panecaldo-cestino-per-il-pane"
           }
@@ -648,7 +647,7 @@
           "settings": {
             "image": "shopify://shop_images/printwork-i-love-story-album-foto-3.webp",
             "title": "",
-            "text": "<p><strong>Printworks</strong><br/>Design d'Amore<strong>→</strong></p>",
+            "text": "<p><strong>Printworks</strong><br/>Design d'Amore <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://products/printwork-i-love-story-album-foto"
           }
