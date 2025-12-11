@@ -497,6 +497,7 @@
         "column_PG6r8E",
         "column_PrBkxt"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
