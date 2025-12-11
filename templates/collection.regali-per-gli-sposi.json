@@ -177,9 +177,9 @@
           "settings": {
             "image": "shopify://shop_images/printwork-chess-clouds-scacchiera-da-tavolo-3.webp",
             "title": "",
-            "text": "<p><strong>Printworks<br/></strong>Scacchiera <strong>→</strong></p>",
+            "text": "<p><strong>Printworks<br/></strong>Scacchiera Clouds<strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/knindustrie"
+            "link": "shopify://products/printwork-chess-clouds-scacchiera-da-tavolo"
           }
         },
         "column_3P9tX6": {
@@ -209,7 +209,7 @@
             "title": "",
             "text": "<p><strong>Bitossi Home</strong><br/>Treccia <strong>→</strong><br/></p>",
             "link_label": "",
-            "link": "shopify://collections/knindustrie-accessori-tavola"
+            "link": "shopify://collections/treccia-bitossi-home"
           }
         },
         "column_7qTfqm": {
@@ -217,7 +217,7 @@
           "settings": {
             "image": "shopify://shop_images/knindustrie-bicchiere-sparky-lara-caffi-20.webp",
             "title": "",
-            "text": "<p><strong>KnIndustrie<br/></strong>Sparky<strong>→</strong></p>",
+            "text": "<p><strong>KnIndustrie<br/></strong>Sparky <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://products/knindustrie-bicchiere-sparky-lara-caffi"
           }
@@ -310,7 +310,7 @@
         "column_DL7dhm": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-my-moon-lamp-lampada-seduta-indoor-outdoor.jpg",
+            "image": "shopify://shop_images/Sparrow-Lamps-Seletti.jpg",
             "title": "",
             "text": "<p><strong>LAMPADE</strong></p><p>Dettagli che illuminano</p>",
             "link_label": "",
@@ -354,7 +354,7 @@
             "title": "",
             "text": "<p><strong>TAGLIERI</strong></p><p>Essenza e Materiale</p>",
             "link_label": "",
-            "link": "shopify://collections/tempo-libero"
+            "link": "shopify://collections/cucina-e-tavola-taglieri"
           }
         }
       },
@@ -500,7 +500,7 @@
         "image_width": "full",
         "image_ratio": "square",
         "columns_desktop": 5,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "Scopri tutti i Nostri Brand ->",
         "button_link": "shopify://pages/i-nostri-brand",
@@ -572,8 +572,8 @@
           "settings": {
             "title": "",
             "text": "<h3><strong>Regali economici ma sempre raffinati<br/></strong></h3><p>Piccoli pensieri che non rinunciano allo stile, ideali per un dono simbolico o per accompagnare una busta.</p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Idee Regalo Sotto i 50€",
+            "link": "shopify://collections/idee-regalo-economiche"
           }
         }
       },
@@ -581,6 +581,7 @@
         "column_P8bmtx",
         "column_QzqpAk"
       ],
+      "custom_css": [],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -672,8 +673,8 @@
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
+        "button_link": "shopify://collections/idee-regalo-economiche",
+        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
