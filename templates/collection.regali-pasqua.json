@@ -20,16 +20,6 @@
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
       }
     },
-    "custom_liquid_TGPL4x": {
-      "type": "custom-liquid",
-      "name": "t:sections.custom-liquid.presets.name",
-      "settings": {
-        "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Natale\">\n  <nav class=\"xmas-quick-links\">\n <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-natale\" class=\"button button--primary button--small\">Idee Regalo Natale 2025</a>   \n <a href=\"https://www.unicoemultiplo.com/collections/seletti-natale\" class=\"button button--primary button--small\">Idee Regalo Seletti</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/natale-con-knindustrie\" class=\"button button--primary button--small\">Idee Regalo KnIndustrie</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/bitossi-home-natale\" class=\"button button--primary button--small\">Idee Regalo Bitossi Home</a> \n<a href=\"https://www.unicoemultiplo.com/collections/brabantia\" class=\"button button--primary button--small\">Idee regalo Brabantia</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-sposi\" class=\"button button--primary button--small\">Idee regalo Sposi</a>\n    <a href=\"https://www.unicoemultiplo.com/products/gift-card-u-m-carta-regalo-32\" class=\"button button--primary button--small\">Gift Card e Buoni Regali</a>\n  </nav>\n</div>\n\n<style>\n  .xmas-quick-links {\n    display:flex;\n    flex-wrap:wrap;\n    gap:.5rem;\n    margin:.5rem 0 1rem;\n  }\n  /* Optional: bottoni a tutta larghezza su mobile */\n  @media (max-width: 749px) {\n    .xmas-quick-links a {\n      width: 100%;\n      justify-content: center;\n    }\n  }\n</style>",
-        "color_scheme": "scheme-1",
-        "padding_top": 0,
-        "padding_bottom": 16
-      }
-    },
     "image_banner_Q6rBiY": {
       "type": "image-banner",
       "blocks": {
@@ -569,7 +559,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Doni che si adattano al momento, al rapporto con chi li riceve e al budget disponibile.</p><p>Ogni casa ha la sua storia, proprio come ogni persona che la vive.<br/>Le <strong>idee regalo per la casa di Unico & Multiplo</strong> nascono per accompagnare questi racconti quotidiani, con <strong>oggetti di design, accessori decorativi e articoli per la cucina</strong> che si adattano a ogni occasione, relazione e fascia di prezzo.</p>",
+            "text": "<p>Quando un pensiero parla a chi lo riceve, il gesto acquista ancora più valore. Ecco alcune ispirazioni per scegliere con precisione.<br/><br/></p><h3><strong>Un regalo di Pasqua per lei, tra eleganza e piccoli piaceri</strong></h3><p>Dettagli curati per la casa, accessori raffinati, idee per il tempo libero e oggetti che portano armonia nella vita di tutti i giorni.</p>",
             "link_label": "",
             "link": ""
           }
@@ -581,7 +571,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Idee Regalo per la casa perfette per persone e momenti diversi",
+        "title": "Idee di Pasqua per chi ami: per lei, per lui, per i genitori",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -590,7 +580,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -603,9 +593,9 @@
         "column_cNemxr": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/IZIPIZI-occhiali-da-sole-idee-regalo.webp",
+            "image": "shopify://shop_images/idee-regalo-pasqua-originali-3.webp",
             "title": "",
-            "text": "<p><strong>IDEE PER LUI →</strong></p>",
+            "text": "<h3><strong>Un regalo di Pasqua per lui, pratico e con personalità</strong></h3><p>Proposte essenziali e ben fatte, pensate per accompagnare la quotidianità con stile.<br/><br/></p><p><strong>IDEE PER LUI →</strong></p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-regali-per-lui"
           }
@@ -613,9 +603,9 @@
         "column_BXD7C9": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/verygoods-candela-1.jpg",
+            "image": "shopify://shop_images/idee-regalo-pasqua-originali-5.webp",
             "title": "",
-            "text": "<p><strong>IDEE PER LEI →</strong></p>",
+            "text": "<h3><strong>Un regalo di Pasqua per lei, tra eleganza e piccoli piaceri</strong></h3><p>Dettagli curati per la casa, idee per il tempo libero e oggetti che portano armonia nella vita di tutti i giorni.<strong><br/><br/>IDEE PER LEI →</strong></p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-regali-per-lei"
           }
@@ -623,11 +613,11 @@
         "column_M7EhAD": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/regali-per-lui-romantici-idee-originali.webp",
+            "image": "shopify://shop_images/idee-regalo-pasqua-originali.webp",
             "title": "",
-            "text": "<p><strong>IDEE PER LA COPPIA →</strong></p>",
+            "text": "<h3><strong>Un pensiero di Pasqua per i genitori</strong></h3><p>Soluzioni affettuose e di qualità, perfette per portare un tocco primaverile alla casa di famiglia.<br/><strong><br/>IDEE REGALO GENITORI →</strong></p>",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/tempo-libero?filter.v.price.gte=40&filter.v.price.lte=110&sort_by=manual"
+            "link": "shopify://collections/idee-regalo-per-casa-e-cucina"
           }
         }
       },
@@ -641,7 +631,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>Regali per lei, per lui, per i genitori o per una coppia di amici</strong>",
+        "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
@@ -657,20 +647,64 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_dNPAzV": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_h4xXht": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_H3CR9L": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Avere una fascia di prezzo già in mente rende la scelta molto più semplice. Ecco tre percorsi rapidi per orientarti senza rinunciare allo stile.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_h4xXht",
+        "column_H3CR9L"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Scegli il regalo di Pasqua in base al budget",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
     "rich_text_tJNqki": {
       "type": "rich-text",
       "blocks": {
         "heading_U9rD9Y": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Regali per la casa sotto 50€, 100€ o 150€</strong>",
+            "heading": "<strong>Idee entro 50€, 100€ o 150€ per fare bella figura</strong>",
             "heading_size": "h2"
           }
         },
         "text_wYjNk8": {
           "type": "text",
           "settings": {
-            "text": "<p>Non serve un grande budget per fare un regalo d’effetto.<br/>Le <strong>idee regalo per la casa</strong> di <em>Unico & Multiplo</em> sono suddivise per fascia di prezzo, per aiutarti a <strong>scegliere con facilità e consapevolezza</strong>.</p>"
+            "text": "<p>Le <strong>idee regalo </strong>di <em>Unico & Multiplo</em> sono suddivise per fascia di prezzo, per aiutarti a <strong>scegliere con facilità e consapevolezza</strong>. Proposte curate in ogni dettaglio, adatte sia a un piccolo pensiero sia a un regalo più importante.</p>"
           }
         },
         "button_XXEay4": {
@@ -678,10 +712,10 @@
           "settings": {
             "button_label": "Idee Sotto 50€",
             "button_link": "shopify://collections/idee-regalo-economiche",
-            "button_style_secondary": true,
+            "button_style_secondary": false,
             "button_label_2": "Idee Sotto 100€",
             "button_link_2": "shopify://collections/idee-regalo-regali-sotto-100-euro",
-            "button_style_secondary_2": true
+            "button_style_secondary_2": false
           }
         },
         "button_WHipGa": {
@@ -689,7 +723,7 @@
           "settings": {
             "button_label": "Idee Regalo Sotto 150€",
             "button_link": "shopify://collections/idee-regalo-regali-sotto-150-euro",
-            "button_style_secondary": true,
+            "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -707,8 +741,8 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "scheme-1",
-        "full_width": true,
+        "color_scheme": "scheme-2",
+        "full_width": false,
         "padding_top": 28,
         "padding_bottom": 40
       }
@@ -719,14 +753,14 @@
         "heading_deVTaU": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Spunti e ispirazioni per idee regalo dedicate alla casa</strong>",
+            "heading": "<strong>Altri spunti di stagione da cui lasciarsi ispirare</strong>",
             "heading_size": "h2"
           }
         },
         "text_XaPWtk": {
           "type": "text",
           "settings": {
-            "text": "Che tu stia cercando <strong>un dono per una casa nuova</strong>, un <strong>pensiero per colleghi o amici</strong>, oppure <strong>un’idea romantica per una coppia</strong>, troverai contenuti e selezioni capaci di guidarti nella scelta con gusto e leggerezza.",
+            "text": "La primavera porta con sé molte occasioni per fare o farsi un regalo. Se vuoi esplorare altri temi vicini al periodo, puoi partire da qui.",
             "text_style": "body"
           }
         },
@@ -749,7 +783,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Piatti-natale-2025.jpg",
+        "image": "shopify://shop_images/idee-regalo-pasqua-originali-2.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -765,7 +799,6 @@
   },
   "order": [
     "banner",
-    "custom_liquid_TGPL4x",
     "image_banner_Q6rBiY",
     "product-grid",
     "multicolumn_RW9UrF",
@@ -777,6 +810,7 @@
     "multicolumn_NEC9f4",
     "multicolumn_AAexqG",
     "multicolumn_eg7VNb",
+    "multicolumn_dNPAzV",
     "rich_text_tJNqki",
     "image_banner_Wf66Kg"
   ]
