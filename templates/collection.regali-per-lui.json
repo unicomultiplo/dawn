@@ -248,7 +248,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/regalo-per-fratello-amico-idee-originali.webp",
+        "image": "shopify://shop_images/seletti-magna-graecia-man-busto-in-terracotta-1.webp",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -345,10 +345,10 @@
         "image_ratio": "square",
         "columns_desktop": 6,
         "column_alignment": "center",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 16,
@@ -407,7 +407,7 @@
           "settings": {
             "image": "shopify://shop_images/San-Valentino-Amore-e-Tenerezza.jpg",
             "title": "",
-            "text": "<p>SAN VALENTINO</p>",
+            "text": "<p><strong>SAN VALENTINO</strong></p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-san-valentino"
           }
@@ -417,7 +417,7 @@
           "settings": {
             "image": "shopify://shop_images/san-valentino-idee-regalo.webp",
             "title": "",
-            "text": "<p>ANNIVERSARIO</p>",
+            "text": "<p><strong>ANNIVERSARIO</strong></p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-sposi"
           }
@@ -427,7 +427,7 @@
           "settings": {
             "image": "shopify://shop_images/wrapping-gifts-compleanno.webp",
             "title": "",
-            "text": "<p>COMPLEANNO</p>",
+            "text": "<p><strong>COMPLEANNO</strong></p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-compleanno"
           }
@@ -437,7 +437,7 @@
           "settings": {
             "image": "shopify://shop_images/Come-scegliere-i-Regali-di-Natale-organizzare-la-tua-Lista_1.webp",
             "title": "",
-            "text": "<p>NATALE</p>",
+            "text": "<p><strong>NATALE</strong></p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-natale"
           }
@@ -459,10 +459,10 @@
         "image_ratio": "square",
         "columns_desktop": 4,
         "column_alignment": "center",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 16,
@@ -688,7 +688,7 @@
         "image_ratio": "square",
         "columns_desktop": 5,
         "column_alignment": "center",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-1",
