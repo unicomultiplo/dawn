@@ -614,16 +614,6 @@
             "link": "shopify://collections/bitossi-home-i-piattini-bitossi-home"
           }
         },
-        "column_Y3bdBM": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-toiletpaper-tappeto-bagno-sea-girl.jpg",
-            "title": "",
-            "text": "<p><strong>Seletti</strong><br/>Ironia  Creativa <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://products/seletti-toiletpaper-tappeto-bagno-sea-girl"
-          }
-        },
         "column_fqk7i3": {
           "type": "column",
           "settings": {
@@ -634,10 +624,20 @@
             "link": "shopify://collections/doiy"
           }
         },
+        "column_Y3bdBM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-toiletpaper-tappeto-bagno-sea-girl.jpg",
+            "title": "",
+            "text": "<p><strong>Seletti</strong><br/>Ironia  Creativa <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-toiletpaper-tappeto-bagno-sea-girl"
+          }
+        },
         "column_miyPBj": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/KnIndustrie-portapane-1.webp",
+            "image": "shopify://shop_images/la-tavola-di-natale-3.webp",
             "title": "",
             "text": "<p><strong>KnIndustrie</strong><br/>Inconfondibilmente Elegante <strong>→</strong></p>",
             "link_label": "",
@@ -657,8 +657,8 @@
       },
       "block_order": [
         "column_bxTfzN",
-        "column_Y3bdBM",
         "column_fqk7i3",
+        "column_Y3bdBM",
         "column_miyPBj",
         "column_jqKzxk"
       ],
