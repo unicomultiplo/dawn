@@ -497,7 +497,6 @@
         "column_PG6r8E",
         "column_PrBkxt"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -521,15 +520,6 @@
     "multicolumn_AAexqG": {
       "type": "multicolumn",
       "blocks": {
-        "column_jLdERd": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_etikeJ": {
           "type": "column",
           "settings": {
@@ -538,11 +528,20 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_jLdERd": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "column_jLdERd",
-        "column_etikeJ"
+        "column_etikeJ",
+        "column_jLdERd"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
