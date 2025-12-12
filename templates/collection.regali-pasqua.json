@@ -146,7 +146,7 @@
         "column_zVwnq7": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-Kintsugi-1.jpg",
+            "image": "shopify://shop_images/Seletti-piatti-seletti.webp",
             "title": "",
             "text": "<p><strong>Piatti da Tavola</strong></p>",
             "link_label": "",
@@ -176,7 +176,7 @@
         "column_9qtFdi": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-rubin-alzata-in-vetro-con-piatto-in-legno-3.webp",
+            "image": "shopify://shop_images/i-senza-tempo-oro-bitossi.jpg",
             "title": "",
             "text": "<p><strong>Centrotavola</strong></p>",
             "link_label": "",
@@ -186,7 +186,7 @@
         "column_Q4P9UQ": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi_Home_Smerlo_Se-_4-tovagliette-bordo-smerlato.jpg",
+            "image": "shopify://shop_images/sottopiatti-hybrid-natale-2025-seletti.webp",
             "title": "",
             "text": "<p><strong>Sottopiatti e Tovagliette</strong></p>",
             "link_label": "",
@@ -196,7 +196,7 @@
         "column_FbNqtG": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-Vassoio-Meltdown.webp",
+            "image": "shopify://shop_images/Cat-Hybrid-collection.webp",
             "title": "",
             "text": "<p><strong>Vassoi</strong></p>",
             "link_label": "",
@@ -309,16 +309,6 @@
             "link": "shopify://collections/bitossi-home"
           }
         },
-        "column_PG6r8E": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/doiy-sweetie-scatola-portaoggetti-3.webp",
-            "title": "",
-            "text": "<p><strong>Doiy </strong>- Design Poetico e Romantico</p>",
-            "link_label": "",
-            "link": "shopify://collections/doiy"
-          }
-        },
         "column_PrBkxt": {
           "type": "column",
           "settings": {
@@ -328,14 +318,24 @@
             "link_label": "",
             "link": "shopify://collections/brandani-total-white-brandani"
           }
+        },
+        "column_PG6r8E": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/doiy-sweetie-scatola-portaoggetti-3.webp",
+            "title": "",
+            "text": "<p><strong>Doiy </strong>- Design Poetico e Romantico</p>",
+            "link_label": "",
+            "link": "shopify://collections/doiy"
+          }
         }
       },
       "block_order": [
         "column_YRCWeY",
         "column_9aFwWC",
         "column_cqaUMR",
-        "column_PG6r8E",
-        "column_PrBkxt"
+        "column_PrBkxt",
+        "column_PG6r8E"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
