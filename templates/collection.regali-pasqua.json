@@ -282,9 +282,9 @@
         "column_YRCWeY": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-bicchiere-sparky-lara-caffi-20.webp",
+            "image": "shopify://shop_images/Bowl-Shapeless-knIndustrie.webp",
             "title": "",
-            "text": "<p><strong>KnIndustrie</strong> - essenzialità e innovazione</p>",
+            "text": "<p><strong>KnIndustrie</strong> - Essenzialità e Innovazione</p>",
             "link_label": "",
             "link": "shopify://collections/knindustrie"
           }
@@ -292,7 +292,7 @@
         "column_9aFwWC": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/hybrid-tavola-natale-seletti.webp",
+            "image": "shopify://shop_images/seletti-vitamin-lampadario-in-resina-pear-6.jpg",
             "title": "",
             "text": "<p><strong>Seletti </strong>- Creatività Pop e Ironia per la casa</p>",
             "link_label": "",
@@ -302,7 +302,7 @@
         "column_cqaUMR": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi-abracabra-natale-2025.webp",
+            "image": "shopify://shop_images/Bitossi_Home_Smerlo_Se-_4-tovagliette-bordo-smerlato.jpg",
             "title": "",
             "text": "<p><strong>Bitossi Home </strong>- Colore e Allegria per la Tavola</p>",
             "link_label": "",
@@ -312,21 +312,21 @@
         "column_PG6r8E": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/miho-duetto-candelabri-artigiali.jpg",
+            "image": "shopify://shop_images/doiy-sweetie-scatola-portaoggetti-3.webp",
             "title": "",
-            "text": "<p><strong>Miho - </strong>Design poetico e sostenibile</p>",
+            "text": "<p><strong>Doiy </strong>- Design Poetico e Romantico</p>",
             "link_label": "",
-            "link": "shopify://collections/miho"
+            "link": "shopify://collections/doiy"
           }
         },
         "column_PrBkxt": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/vanilla-fly-cuscino-velluto-retro-velluto-brown-fan-1.jpg",
+            "image": "shopify://shop_images/Brandani-Queen-piatti-bone-china.webp",
             "title": "",
-            "text": "<p><strong>Vanilla Fly - </strong>Stile eclettico e fascino vintage</p>",
+            "text": "<p><strong>Brandani - </strong>Fascino Vintage</p>",
             "link_label": "",
-            "link": "shopify://collections/vanilla-fly"
+            "link": "shopify://collections/brandani-total-white-brandani"
           }
         }
       },
