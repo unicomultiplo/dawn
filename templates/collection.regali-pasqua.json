@@ -436,6 +436,51 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_CUnnbc": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_jXeaig": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/idee-regalo-pasqua-originali-per-sorprendere.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YcjwxA": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><strong>Pasqua </strong>diventa un’occasione perfetta per regalare qualcosa che unisca estetica e funzionalità. <strong>Oggetti pensati </strong>per essere apprezzati subito, ma anche utilizzati durante tutta la <strong>primavera </strong>e oltre.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_jXeaig",
+        "column_YcjwxA"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Oggetti di design e idee regalo originali per Pasqua",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn_NEC9f4": {
       "type": "multicolumn",
       "blocks": {
@@ -497,7 +542,6 @@
         "column_PG6r8E",
         "column_PrBkxt"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -782,6 +826,7 @@
     "multicolumn_Cjdxz3",
     "multicolumn_C6Htrd",
     "multicolumn_nw6mnq",
+    "multicolumn_CUnnbc",
     "multicolumn_NEC9f4",
     "multicolumn_AAexqG",
     "multicolumn_eg7VNb",
