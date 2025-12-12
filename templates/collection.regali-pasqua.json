@@ -408,15 +408,6 @@
     "multicolumn_AAexqG": {
       "type": "multicolumn",
       "blocks": {
-        "column_etikeJ": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Quando un pensiero parla a chi lo riceve, il gesto acquista ancora più valore. Ecco alcune ispirazioni per scegliere con precisione.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_jLdERd": {
           "type": "column",
           "settings": {
@@ -425,11 +416,20 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_etikeJ": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Quando un pensiero parla a chi lo riceve, il gesto acquista ancora più valore. Ecco alcune ispirazioni per scegliere con precisione.</p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "column_etikeJ",
-        "column_jLdERd"
+        "column_jLdERd",
+        "column_etikeJ"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
