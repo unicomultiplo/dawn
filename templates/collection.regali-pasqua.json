@@ -51,36 +51,36 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_RW9UrF": {
+    "multicolumn_CUnnbc": {
       "type": "multicolumn",
       "blocks": {
-        "column_VXgAwd": {
+        "column_jXeaig": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/idee-regalo-pasqua-originali-per-sorprendere.webp",
             "title": "",
             "text": "",
             "link_label": "",
             "link": ""
           }
         },
-        "column_NhmYPh": {
+        "column_YcjwxA": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Scegliere un regalo per la casa significa <strong>offrire qualcosa che accompagni i gesti di ogni giorno</strong>, rendendoli più belli, funzionali e piacevoli.<br/>Con <em>Unico & Multiplo</em>, puoi trovare <strong>idee regalo per la tavola, la cucina e gli ambienti</strong> che uniscono design e praticità, perfette per chi ama circondarsi di oggetti che raccontano personalità e cura.<br/>Che si tratti di un regalo per una nuova casa, un compleanno o una ricorrenza importante, <strong>scegliere un oggetto utile e di design</strong> è sempre un gesto apprezzato, perché unisce <strong>attenzione, bellezza e significato</strong>.</p>",
+            "text": "<p><strong>Pasqua </strong>diventa un’occasione perfetta per regalare qualcosa che unisca estetica e funzionalità. <strong>Oggetti pensati </strong>per essere apprezzati subito, ma anche utilizzati durante tutta la <strong>primavera </strong>e oltre.</p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "column_VXgAwd",
-        "column_NhmYPh"
+        "column_jXeaig",
+        "column_YcjwxA"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Accessori e complementi per una casa da vivere ogni giorno",
+        "title": "Oggetti di design e idee regalo originali per Pasqua",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -93,6 +93,50 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_HNw9ha": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_zDMYf6": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_AHmzMN": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>Cose da regalare a Pasqua che restano nel tempo<br/></strong></h3><p>Scegliere un regalo utile permette di fare un gesto che continua ad avere valore. Vassoi, ciotole, contenitori e accessori pratici, curati nei materiali e nello stile, diventano compagni ideali della vita quotidiana.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_zDMYf6",
+        "column_AHmzMN"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -168,12 +212,11 @@
         "column_Q4P9UQ",
         "column_FbNqtG"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
       "settings": {
-        "title": "<strong>Regali per la tavola che trasformano ogni occasione - </strong>per una mise en place elegante  e conviviale",
+        "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
@@ -185,216 +228,14 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 16,
+        "padding_top": 0,
         "padding_bottom": 16
       }
     },
-    "multicolumn_C6dG97": {
+    "multicolumn_zRJaTR": {
       "type": "multicolumn",
       "blocks": {
-        "column_jgfJMU": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/KnIndustrie-ABCT-coperchi-in-mogano-1.jpg",
-            "title": "",
-            "text": "<p><strong>Pentole e Padelle</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-pentole-padelle-tegami"
-          }
-        },
-        "column_T9kjtU": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-coltelli-beknife-buy-now.webp",
-            "title": "",
-            "text": "<p><strong>Coltelli</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-coltelli"
-          }
-        },
-        "column_xihTzH": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-slab-tagliere-in-larice-e-acciaio-3.jpg",
-            "title": "",
-            "text": "<p><strong>Taglieri</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-taglieri"
-          }
-        },
-        "column_ntAkJK": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-oliera-acetiera-3.jpg",
-            "title": "",
-            "text": "<p><strong>Set Condimenti</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
-          }
-        }
-      },
-      "block_order": [
-        "column_jgfJMU",
-        "column_T9kjtU",
-        "column_xihTzH",
-        "column_ntAkJK"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
-      "settings": {
-        "title": "<strong>Idee Regalo Cucina tra Design e Utilità </strong>",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 16,
-        "padding_bottom": 16
-      }
-    },
-    "multicolumn_Cjdxz3": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_Yn3MXw": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-supercurve-specchio-con-cornice-luminosa-h185-cm-4-5.webp",
-            "title": "",
-            "text": "<p><strong>Specchi</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/complementi-arredo-specchi-da-parete"
-          }
-        },
-        "column_N8PWUL": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Marinette_c696c502-67c7-4d57-95b8-fa921a0b1d97.webp",
-            "title": "",
-            "text": "<p><strong>Plaid</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/marinette-saint-tropez"
-          }
-        },
-        "column_aKHebH": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/bitossi-home-tavola-scomposta-grazie-dei-fiori-vaso-ceramica-2.jpg",
-            "title": "",
-            "text": "<p><strong>Vasi</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/complementi-arredo-vasi"
-          }
-        },
-        "column_DT6RJR": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/vanilla-fly-cuscino-velluto-retro-velluto-brown-fan.jpg",
-            "title": "",
-            "text": "<p><strong>Tessili</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/complementi-arredo-tessili-casa"
-          }
-        }
-      },
-      "block_order": [
-        "column_Yn3MXw",
-        "column_N8PWUL",
-        "column_aKHebH",
-        "column_DT6RJR"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
-      "settings": {
-        "title": "<strong>Complementi d’arredo che danno carattere agli spazi</strong>",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 16,
-        "padding_bottom": 16
-      }
-    },
-    "multicolumn_C6Htrd": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_YKGXWV": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-vitamin-lampadario-in-resina-pear-6.jpg",
-            "title": "",
-            "text": "<p><strong>Illuminazione</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/complementi-arredo-specchi-da-parete"
-          }
-        },
-        "column_VaAWmj": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-nuvola-lamp-4.webp",
-            "title": "",
-            "text": "<p><strong>Lampade</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/marinette-saint-tropez"
-          }
-        },
-        "column_JPF9c3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Stan-Editions-Candela-3-pezzi-impilabili-6_d797dd60-e81d-4ee9-b1ac-6b843d4d71ed.jpg",
-            "title": "",
-            "text": "<p><strong>Candele e Candelabri</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/complementi-arredo-vasi"
-          }
-        }
-      },
-      "block_order": [
-        "column_YKGXWV",
-        "column_VaAWmj",
-        "column_JPF9c3"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
-      "settings": {
-        "title": "<strong>Illuminazione e dettagli scenografici per la casa</strong>",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 16,
-        "padding_bottom": 16
-      }
-    },
-    "multicolumn_nw6mnq": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_mYCQz7": {
+        "column_xBNraz": {
           "type": "column",
           "settings": {
             "title": "",
@@ -403,24 +244,23 @@
             "link": ""
           }
         },
-        "column_QHA9Kk": {
+        "column_tLFAXF": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>I <strong>migliori brand di design per la casa e la cucina</strong> selezionati da <em>Unico & Multiplo</em> rappresentano l’equilibrio perfetto tra <strong>innovazione, ironia e tradizione</strong>: oggetti pensati per vivere, per sorprendere e per durare. Che si tratti di un set da tavola, di un complemento d’arredo o di un elemento decorativo, ogni creazione è pensata per <strong>valorizzare la quotidianità con un tocco d’autore</strong>.<br/>Scegliere un dono firmato da un marchio iconico significa regalare <strong>qualità, bellezza e originalità</strong>, ma anche trasmettere un’idea precisa di gusto e attenzione.</p>",
+            "text": "<h3><strong>Regali originali e particolari per sorprendere a Pasqua</strong></h3><p>Per uscire dal solito uovo di cioccolato, puoi puntare su oggetti dal design insolito o dai colori vivaci. Soluzioni creative perfette per chi ama l’ironia, il carattere o i pezzi che sanno farsi notare.</p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "column_mYCQz7",
-        "column_QHA9Kk"
+        "column_xBNraz",
+        "column_tLFAXF"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "I migliori brand di design da regalare per casa e cucina",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -429,55 +269,10 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_CUnnbc": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_jXeaig": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/idee-regalo-pasqua-originali-per-sorprendere.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_YcjwxA": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p><strong>Pasqua </strong>diventa un’occasione perfetta per regalare qualcosa che unisca estetica e funzionalità. <strong>Oggetti pensati </strong>per essere apprezzati subito, ma anche utilizzati durante tutta la <strong>primavera </strong>e oltre.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_jXeaig",
-        "column_YcjwxA"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Oggetti di design e idee regalo originali per Pasqua",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -562,6 +357,54 @@
         "padding_bottom": 16
       }
     },
+    "image_with_text_VFBTE7": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_nUTmeM": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_nijnqb": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Oggetti per la tavola e la cucina con un tocco primaverile</strong></h3><p>La tavola di Pasqua invita alla convivialità: accessori dai colori freschi, mise en place di stagione e utensili eleganti rendono ogni incontro più piacevole, non solo durante la festa.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_LczkpN": {
+          "type": "button",
+          "settings": {
+            "button_label": "Idee Regalo Casa e Cucina",
+            "button_link": "shopify://collections/idee-regalo-per-casa-e-cucina",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_nUTmeM",
+        "text_nijnqb",
+        "button_LczkpN"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/idee-regalo-pasqua-originali-5.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
     "multicolumn_AAexqG": {
       "type": "multicolumn",
       "blocks": {
@@ -569,7 +412,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Quando un pensiero parla a chi lo riceve, il gesto acquista ancora più valore. Ecco alcune ispirazioni per scegliere con precisione.<br/><br/></p><h3><strong>Un regalo di Pasqua per lei, tra eleganza e piccoli piaceri</strong></h3><p>Dettagli curati per la casa, accessori raffinati, idee per il tempo libero e oggetti che portano armonia nella vita di tutti i giorni.</p>",
+            "text": "<p>Quando un pensiero parla a chi lo riceve, il gesto acquista ancora più valore. Ecco alcune ispirazioni per scegliere con precisione.</p>",
             "link_label": "",
             "link": ""
           }
@@ -622,9 +465,9 @@
         "column_BXD7C9": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/idee-regalo-pasqua-originali-5.webp",
+            "image": "shopify://shop_images/idee-regalo-pasqua-originali.webp",
             "title": "",
-            "text": "<h3><strong>Un regalo di Pasqua per lei, tra eleganza e piccoli piaceri</strong></h3><p>Dettagli curati per la casa, idee per il tempo libero e oggetti che portano armonia nella vita di tutti i giorni.<strong><br/><br/>IDEE PER LEI →</strong></p>",
+            "text": "<h3><strong>Un regalo di Pasqua per lei, tra eleganza e piccoli piaceri</strong></h3><p>Dettagli curati per la casa o dee per il tempo libero che portano armonia nella vita di tutti i giorni.<strong><br/><br/>IDEE PER LEI →</strong></p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-regali-per-lei"
           }
@@ -632,9 +475,9 @@
         "column_M7EhAD": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/idee-regalo-pasqua-originali.webp",
+            "image": "shopify://shop_images/idee-regalo-pasqua-originali-1_1_1.webp",
             "title": "",
-            "text": "<h3><strong>Un pensiero di Pasqua per i genitori</strong></h3><p>Soluzioni affettuose e di qualità, perfette per portare un tocco primaverile alla casa di famiglia.<br/><strong><br/>IDEE REGALO GENITORI →</strong></p>",
+            "text": "<h3><strong>Un pensiero di Pasqua per i genitori</strong></h3><p>Soluzioni affettuose e di qualità, perfette per portare un tocco primaverile alla casa di famiglia o in cucina.<br/><strong><br/>IDEE REGALO GENITORI →</strong></p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-per-casa-e-cucina"
           }
@@ -666,64 +509,28 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_dNPAzV": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_h4xXht": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_H3CR9L": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Avere una fascia di prezzo già in mente rende la scelta molto più semplice. Ecco tre percorsi rapidi per orientarti senza rinunciare allo stile.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_h4xXht",
-        "column_H3CR9L"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Scegli il regalo di Pasqua in base al budget",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
     "rich_text_tJNqki": {
       "type": "rich-text",
       "blocks": {
         "heading_U9rD9Y": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Idee entro 50€, 100€ o 150€ per fare bella figura</strong>",
-            "heading_size": "h2"
+            "heading": "Scegli il regalo di Pasqua in base al budget",
+            "heading_size": "h1"
+          }
+        },
+        "caption_LnciNB": {
+          "type": "caption",
+          "settings": {
+            "caption": "Se hai una cifra in mente, la strada è più semplice!",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
           }
         },
         "text_wYjNk8": {
           "type": "text",
           "settings": {
-            "text": "<p>Le <strong>idee regalo </strong>di <em>Unico & Multiplo</em> sono suddivise per fascia di prezzo, per aiutarti a <strong>scegliere con facilità e consapevolezza</strong>. Proposte curate in ogni dettaglio, adatte sia a un piccolo pensiero sia a un regalo più importante.</p>"
+            "text": "<h3><strong>Idee entro 50€, 100€ o 150€ per fare bella figura</strong></h3><p>Le <strong>idee regalo </strong>di <em>Unico & Multiplo</em> sono suddivise per fascia di prezzo, per aiutarti a <strong>scegliere con facilità e consapevolezza</strong>. Proposte curate in ogni dettaglio, adatte sia a un piccolo pensiero sia a un regalo più importante.</p>"
           }
         },
         "button_XXEay4": {
@@ -751,6 +558,7 @@
       },
       "block_order": [
         "heading_U9rD9Y",
+        "caption_LnciNB",
         "text_wYjNk8",
         "button_XXEay4",
         "button_WHipGa"
@@ -763,7 +571,7 @@
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
         "full_width": false,
         "padding_top": 28,
-        "padding_bottom": 40
+        "padding_bottom": 28
       }
     },
     "image_banner_Wf66Kg": {
@@ -820,17 +628,14 @@
     "banner",
     "custom_liquid_eYxzQj",
     "product-grid",
-    "multicolumn_RW9UrF",
-    "multicolumn_LcVAky",
-    "multicolumn_C6dG97",
-    "multicolumn_Cjdxz3",
-    "multicolumn_C6Htrd",
-    "multicolumn_nw6mnq",
     "multicolumn_CUnnbc",
+    "multicolumn_HNw9ha",
+    "multicolumn_LcVAky",
+    "multicolumn_zRJaTR",
     "multicolumn_NEC9f4",
+    "image_with_text_VFBTE7",
     "multicolumn_AAexqG",
     "multicolumn_eg7VNb",
-    "multicolumn_dNPAzV",
     "rich_text_tJNqki",
     "image_banner_Wf66Kg"
   ]
