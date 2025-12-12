@@ -226,7 +226,7 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-1",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 16
@@ -503,7 +503,7 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "",
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 0
@@ -570,7 +570,7 @@
         "content_alignment": "center",
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
         "full_width": false,
-        "padding_top": 28,
+        "padding_top": 20,
         "padding_bottom": 28
       }
     },
