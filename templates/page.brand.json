@@ -248,6 +248,12 @@
             "collection": "superstuff"
           }
         },
+        "featured_collection_gd7zU7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "turbo-moka"
+          }
+        },
         "featured_collection_rUqiVW": {
           "type": "featured_collection",
           "settings": {
@@ -265,6 +271,7 @@
         "featured_collection_tDFKDH",
         "featured_collection_4nHVpt",
         "featured_collection_XjBFQc",
+        "featured_collection_gd7zU7",
         "featured_collection_rUqiVW",
         "featured_collection_APeCpT"
       ],
