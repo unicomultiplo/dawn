@@ -106,7 +106,7 @@
         "column_XrjaiE": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/la-tavola-di-natale.webp",
+            "image": "shopify://shop_images/turbo-moka-caffe-italia.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -116,7 +116,7 @@
         "column_XCzETy": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/la-tavola-di-natale-1.webp",
+            "image": "shopify://shop_images/turbo-moka-made-in-italy.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -126,7 +126,7 @@
         "column_RUzwg4": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/la-tavola-di-natale-3.webp",
+            "image": "shopify://shop_images/turbo-moka-idea-regalo-innovazione.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -136,10 +136,10 @@
         "column_qimwBB": {
           "type": "column",
           "settings": {
-            "title": "<strong>Dettagli che brillano</strong>",
-            "text": "<p><br/>Linee pulite, luci calde e tanta voglia di stare insieme: è così che inizia la magia.<br/><br/></p>",
+            "title": "<strong>Tradizione italiana e tecnologia si incontrano in Turbo Moka</strong>",
+            "text": "<p>Realizzata in Piemonte e ispirata alle turbine aerospaziali, Turbo Moka ti regala un caffè intenso e aromatico in metà tempo, riducendo anche i consumi. È la moka di sempre, ma con una marcia in più.<br/></p>",
             "link_label": "VEDI ORA",
-            "link": "https://www.unicoemultiplo.com/pages/natale"
+            "link": "shopify://products/turbo-moka-caffettiera-3-tazze"
           }
         }
       },
@@ -157,7 +157,7 @@
         ".multicolumn-list__item:last-child .multicolumn-card__info {display: flex; flex-direction: column;}"
       ],
       "settings": {
-        "title": "La magia del Natale inizia da qui",
+        "title": "Turbo Moka: la moka italiana che rivoluziona il tuo caffè quotidiano",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
