@@ -204,14 +204,14 @@
         "heading_9kTxfi": {
           "type": "heading",
           "settings": {
-            "heading": "Printworks: quando il design incontra il gioco",
+            "heading": "Il piacere del cocktail, fatto bene",
             "heading_size": "h1"
           }
         },
         "text_yCWYLF": {
           "type": "text",
           "settings": {
-            "text": "<p>Scacchiere ricercate, materiali pregiati e colori che arredano: un regalo raffinato per chi ama bellezza e stile in ogni dettaglio.</p>"
+            "text": "<p>Per chi ama preparare cocktail, knIndustrie propone una selezione di accessori essenziali per creare e servire l’aperitivo perfetto, anche durante le feste.<br/><br/></p>"
           }
         }
       },
@@ -235,20 +235,20 @@
         "image_jyQnUP": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/printwork-scacchiere.webp"
+            "image": "shopify://shop_images/Knindustrie-sparky-bicchiere-1.webp"
           }
         },
         "product_eAykWe": {
           "type": "product",
           "settings": {
-            "product": "printwork-chess-mirror-scacchiera-da-tavolo",
+            "product": "knindustrie-bicchiere-sparky-lara-caffi",
             "second_image": true
           }
         },
         "product_BVWfAx": {
           "type": "product",
           "settings": {
-            "product": "printwork-chess-clouds-scacchiera-da-tavolo",
+            "product": "knindustrie-knindustrie-groove-brocca-cilindrica-rigata",
             "second_image": true
           }
         }
