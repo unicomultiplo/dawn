@@ -9,10 +9,28 @@
  */
 {
   "sections": {
-    "slideshow_jWzjzL": {
+    "slideshow_dUd4mz": {
       "type": "slideshow",
       "blocks": {
-        "slide_DkdEyL": {
+        "slide_3EX9z4": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/UNicoemultiplobuonanno.webp",
+            "heading": "<strong>Buon Anno</strong>",
+            "heading_size": "h0",
+            "subheading": "<strong>Un nuovo inizio fatto di bellezza, idee che ispirano e dettagli che fanno la differenza.</strong>",
+            "button_label": "Inizia il 2026 con stile",
+            "link": "shopify://collections/cucina-e-tavola",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-b4b5757d-11d6-44d9-9913-c59c1623590c",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_mb6Weh": {
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/Natale-2025_805db732-3510-42c1-b9f2-e8a4dd953b45.webp",
@@ -30,7 +48,7 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_PL8HLH": {
+        "slide_aEtLTa": {
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/Seletti-Specchio_murale-Reflecting-Ciclope.jpg",
@@ -50,8 +68,9 @@
         }
       },
       "block_order": [
-        "slide_DkdEyL",
-        "slide_PL8HLH"
+        "slide_3EX9z4",
+        "slide_mb6Weh",
+        "slide_aEtLTa"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -808,7 +827,7 @@
     }
   },
   "order": [
-    "slideshow_jWzjzL",
+    "slideshow_dUd4mz",
     "featured_collection_6FgbJX",
     "separator_UazLhC",
     "multicolumn_9rJCWz",
