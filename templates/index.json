@@ -15,11 +15,11 @@
         "slide_3EX9z4": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/UNicoemultiplobuonanno.webp",
-            "heading": "<strong>Buon Anno</strong>",
+            "image": "shopify://shop_images/Promo-inverno-2026.webp",
+            "heading": "Promo Invernali",
             "heading_size": "h0",
-            "subheading": "<strong>Un nuovo inizio fatto di bellezza, idee che ispirano e dettagli che fanno la differenza.</strong>",
-            "button_label": "Inizia il 2026 con stile",
+            "subheading": "<em>Oggetti per la casa selezionati, ora in offerta</em>",
+            "button_label": "Scoprili ora",
             "link": "shopify://collections/cucina-e-tavola",
             "button_style_secondary": true,
             "box_align": "middle-center",
