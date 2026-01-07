@@ -62,13 +62,12 @@
     "header": {
       "type": "header",
       "custom_css": [
-        "obile.mega-menu__list {display: flex; flex-wrap: wrap;}",
+        "mobile.mega-menu__list {display: flex; flex-wrap: wrap;}",
         ".mega-menu__list > li {width: 10em;}",
         ".list-menu__item {font-size: 1.3rem;}",
         ".list-menu__item .icon-caret {top: calc(50% - 0.4rem);}",
-        "#HeaderMenu-natale-2025 span,#HeaderMenu-natale-2025 {color: #fff !important; background: var(--highlight-christmas);}",
-        "#HeaderMenu-natale-2025 span {border-radius: 20px; padding: 6px 15px 4px 15px; margin: -5px;}",
-        "#HeaderMenu-black-friday span {font-weight: bolder;}"
+        "#HeaderMenu-promo-2026 span,#HeaderMenu-promo-2026 {color: #fff !important; background: var(--highlight-christmas);}",
+        "#HeaderMenu-promo-2026 span {border-radius: 20px; padding: 6px 15px 4px 15px; margin: -5px;}"
       ],
       "settings": {
         "logo_position": "top-left",
