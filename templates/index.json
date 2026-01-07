@@ -110,7 +110,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/offerte-e-promo"
+            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti"
           }
         },
         "column_XCzETy": {
@@ -136,10 +136,10 @@
         "column_qimwBB": {
           "type": "column",
           "settings": {
-            "title": "<strong>Tradizione italiana e tecnologia si incontrano in Turbo Moka</strong>",
-            "text": "<p>Realizzata in Piemonte e ispirata alle turbine aerospaziali, Turbo Moka ti regala un caffè intenso e aromatico in metà tempo, riducendo anche i consumi. È la moka di sempre, ma con una marcia in più.<br/></p>",
+            "title": "<strong>Winter Sale Seletti: il design fuori dagli schemi, ora scontato</strong>",
+            "text": "<p>Scopri una selezione di oggetti iconici con il 20% di sconto: lampade, accessori per la tavola, idee regalo e design che strappa il sorriso.</p>",
             "link_label": "VEDI ORA",
-            "link": "shopify://products/turbo-moka-caffettiera-3-tazze"
+            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti"
           }
         }
       },
@@ -157,7 +157,7 @@
         ".multicolumn-list__item:last-child .multicolumn-card__info {display: flex; flex-direction: column;}"
       ],
       "settings": {
-        "title": "Turbo Moka: la moka italiana che rivoluziona il tuo caffè quotidiano",
+        "title": "Winter Sale Seletti",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
