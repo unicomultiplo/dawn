@@ -36,7 +36,7 @@
         "text_wFjeXy": {
           "type": "text",
           "settings": {
-            "text": "Unico & Multiplo è <strong>molto, molto più di un e-</strong><em><strong>shop</strong></em><em>.</em> In questo blog trovi approfondimenti, storie e curiosità sui prodotti e sui designer più affermati. Scopri assieme a noi <em><strong>nuove idee e ispirazioni</strong></em>, leggi le ultime novità e tutte le anticipazioni sulle tendenze del momento, coltiva l’amore e la passione per il design in ogni sua forma.",
+            "text": "Unico & Multiplo è molto, molto più di un e-<em>shop.</em> In questo blog trovi approfondimenti, storie e curiosità sui prodotti e sui designer più affermati. Scopri assieme a noi <em>nuove idee e ispirazioni</em>, leggi le ultime novità e tutte le anticipazioni sulle tendenze del momento, coltiva l’amore e la passione per il design in ogni sua forma.",
             "text_style": "body"
           }
         }
@@ -50,8 +50,8 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Come-apparecchiare-la-tavola-natale-2025.webp",
-        "image_overlay_opacity": 0,
+        "image": "shopify://shop_images/knIndustrie-Christmas_News_2025-natale.webp",
+        "image_overlay_opacity": 30,
         "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
@@ -73,7 +73,7 @@
         "a#ViewAll-template--22267420573961__featured_blog_bnjUDn {margin-top: 0 !important;}"
       ],
       "settings": {
-        "heading": "<strong>Apparecchiare con Stile</strong>",
+        "heading": "Apparecchiare con Stile",
         "heading_size": "h2",
         "blog": "apparecchiare-con-stile",
         "post_limit": 4,
@@ -97,11 +97,35 @@
         "a#ViewAll-template--22267420573961__featured_blog_bnjUDn {margin-top: 0 !important;}"
       ],
       "settings": {
-        "heading": "<strong>Cucina che Passione</strong>",
+        "heading": "Cucina che Passione",
         "heading_size": "h2",
         "blog": "cucina-che-passione",
         "post_limit": 4,
         "columns_desktop": 4,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 16,
+        "padding_bottom": 0
+      }
+    },
+    "featured_blog_abHrVD": {
+      "type": "featured-blog",
+      "custom_css": [
+        ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
+        "h3.card__heading {font-size: 16px;}",
+        "p.article-card__excerpt {font-size: 12px;}",
+        "h1.title--primary {display: none !important;}",
+        "a#ViewAll-template--22267420573961__featured_blog_bnjUDn {margin-top: 0 !important;}"
+      ],
+      "settings": {
+        "heading": "Designer d'Eccezione",
+        "heading_size": "h2",
+        "blog": "designer-deccezione",
+        "post_limit": 4,
+        "columns_desktop": 3,
         "color_scheme": "",
         "show_image": true,
         "show_date": false,
@@ -193,7 +217,7 @@
         "padding_bottom": 0
       }
     },
-    "featured_blog_abHrVD": {
+    "featured_blog_JGGm3C": {
       "type": "featured-blog",
       "custom_css": [
         ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
@@ -203,9 +227,9 @@
         "a#ViewAll-template--22267420573961__featured_blog_bnjUDn {margin-top: 0 !important;}"
       ],
       "settings": {
-        "heading": "<strong>Designer d'Eccezione</strong>",
+        "heading": "Godersi l'Aria Aperta",
         "heading_size": "h2",
-        "blog": "designer-deccezione",
+        "blog": "godersi-laria-aperta",
         "post_limit": 4,
         "columns_desktop": 3,
         "color_scheme": "",
@@ -213,7 +237,7 @@
         "show_date": false,
         "show_author": false,
         "show_view_all": true,
-        "padding_top": 16,
+        "padding_top": 36,
         "padding_bottom": 0
       }
     },
@@ -363,7 +387,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>Approfondimenti, guide e curiosità</strong>",
+        "title": "Approfondimenti, guide e curiosità",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
@@ -434,30 +458,6 @@
         "mobile_content_alignment": "right",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "featured_blog_JGGm3C": {
-      "type": "featured-blog",
-      "custom_css": [
-        ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
-        "h3.card__heading {font-size: 16px;}",
-        "p.article-card__excerpt {font-size: 12px;}",
-        "h1.title--primary {display: none !important;}",
-        "a#ViewAll-template--22267420573961__featured_blog_bnjUDn {margin-top: 0 !important;}"
-      ],
-      "settings": {
-        "heading": "Godersi l'Aria Aperta",
-        "heading_size": "h2",
-        "blog": "godersi-laria-aperta",
-        "post_limit": 4,
-        "columns_desktop": 3,
-        "color_scheme": "",
-        "show_image": true,
-        "show_date": false,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 36,
-        "padding_bottom": 0
       }
     },
     "image_with_text_3BEnFA": {
