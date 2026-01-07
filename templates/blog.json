@@ -63,30 +63,6 @@
         "show_text_below": false
       }
     },
-    "featured_blog_KyiK6b": {
-      "type": "featured-blog",
-      "custom_css": [
-        ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
-        "h3.card__heading {font-size: 16px;}",
-        "p.article-card__excerpt {font-size: 12px;}",
-        "h1.title--primary {display: none !important;}",
-        "a#ViewAll-template--22267420573961__featured_blog_bnjUDn {margin-top: 0 !important;}"
-      ],
-      "settings": {
-        "heading": "<strong>Regalare per Stupire</strong>",
-        "heading_size": "h2",
-        "blog": "regalare-per-stupire",
-        "post_limit": 4,
-        "columns_desktop": 3,
-        "color_scheme": "",
-        "show_image": true,
-        "show_date": false,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
     "featured_blog_bnjUDn": {
       "type": "featured-blog",
       "custom_css": [
@@ -190,6 +166,55 @@
         "mobile_content_alignment": "left",
         "padding_top": 24,
         "padding_bottom": 24
+      }
+    },
+    "featured_blog_KyiK6b": {
+      "type": "featured-blog",
+      "disabled": true,
+      "custom_css": [
+        ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
+        "h3.card__heading {font-size: 16px;}",
+        "p.article-card__excerpt {font-size: 12px;}",
+        "h1.title--primary {display: none !important;}",
+        "a#ViewAll-template--22267420573961__featured_blog_bnjUDn {margin-top: 0 !important;}"
+      ],
+      "settings": {
+        "heading": "<strong>Regalare per Stupire</strong>",
+        "heading_size": "h2",
+        "blog": "regalare-per-stupire",
+        "post_limit": 4,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "featured_blog_abHrVD": {
+      "type": "featured-blog",
+      "custom_css": [
+        ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
+        "h3.card__heading {font-size: 16px;}",
+        "p.article-card__excerpt {font-size: 12px;}",
+        "h1.title--primary {display: none !important;}",
+        "a#ViewAll-template--22267420573961__featured_blog_bnjUDn {margin-top: 0 !important;}"
+      ],
+      "settings": {
+        "heading": "<strong>Designer d'Eccezione</strong>",
+        "heading_size": "h2",
+        "blog": "designer-deccezione",
+        "post_limit": 4,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 16,
+        "padding_bottom": 0
       }
     },
     "multicolumn_p68MrB": {
@@ -411,33 +436,8 @@
         "padding_bottom": 36
       }
     },
-    "featured_blog_abHrVD": {
-      "type": "featured-blog",
-      "custom_css": [
-        ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
-        "h3.card__heading {font-size: 16px;}",
-        "p.article-card__excerpt {font-size: 12px;}",
-        "h1.title--primary {display: none !important;}",
-        "a#ViewAll-template--22267420573961__featured_blog_bnjUDn {margin-top: 0 !important;}"
-      ],
-      "settings": {
-        "heading": "<strong>Designer d'Eccezione</strong>",
-        "heading_size": "h2",
-        "blog": "designer-deccezione",
-        "post_limit": 4,
-        "columns_desktop": 3,
-        "color_scheme": "",
-        "show_image": true,
-        "show_date": false,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 16,
-        "padding_bottom": 0
-      }
-    },
     "featured_blog_JGGm3C": {
       "type": "featured-blog",
-      "disabled": true,
       "custom_css": [
         ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
         "h3.card__heading {font-size: 16px;}",
@@ -555,15 +555,15 @@
   "order": [
     "main",
     "image_banner_dPbXBj",
-    "featured_blog_KyiK6b",
     "featured_blog_bnjUDn",
     "featured_blog_heaLnh",
+    "featured_blog_abHrVD",
     "image_with_text_8BeU3P",
+    "featured_blog_KyiK6b",
+    "featured_blog_JGGm3C",
     "multicolumn_p68MrB",
     "multicolumn_xYAXka",
     "image_with_text_LW7ykr",
-    "featured_blog_abHrVD",
-    "featured_blog_JGGm3C",
     "image_with_text_3BEnFA",
     "newsletter_fTHXRw"
   ]
