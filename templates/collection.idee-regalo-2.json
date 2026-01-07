@@ -46,6 +46,7 @@
         "heading_n4AJPP",
         "buttons_CmixbY"
       ],
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/Idee-regalo-natale-2025-10.webp",
@@ -336,6 +337,7 @@
         "text_cyQACb",
         "buttons_8NqUpV"
       ],
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/idee-regalo.webp",
@@ -900,7 +902,7 @@
         "column_pbpMaL": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/idee-regalo-economiche-1.webp",
+            "image": "shopify://shop_images/unico-e-multiplo-regali-originali.webp",
             "title": "",
             "text": "<p><strong>Regali smart e accessibili</strong>, perfetti per sorprendere senza complicazioni. Idee leggere ma ricche di significato.<br/><br/><strong>Piccoli gesti, grandi sorrisi →</strong></p>",
             "link_label": "",
@@ -1129,16 +1131,6 @@
     "multicolumn_LcVAky": {
       "type": "multicolumn",
       "blocks": {
-        "column_zVwnq7": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/santa-fixes-the-bow-on-a-gift.jpg",
-            "title": "<strong>SECRET SANTA</strong>",
-            "text": "<p>Sorprendi il tuo collega, anche quello che non conosci!</p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-natale?filter.v.price.gte=0&filter.v.price.lte=35&sort_by=manual"
-          }
-        },
         "column_eG89je": {
           "type": "column",
           "settings": {
@@ -1191,7 +1183,6 @@
         }
       },
       "block_order": [
-        "column_zVwnq7",
         "column_eG89je",
         "column_BYGjTA",
         "column_9qtFdi",
@@ -1206,7 +1197,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
