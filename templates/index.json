@@ -642,6 +642,26 @@
     "multicolumn_ftmdQK": {
       "type": "multicolumn",
       "blocks": {
+        "column_zQeJAx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-piatti-diesel.png",
+            "title": "",
+            "text": "<p>Seletti, per allestire la tua Tavola Scenografica <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://blogs/apparecchiare-con-stile/piatti-seletti-collezioni-tavola"
+          }
+        },
+        "column_cJAYUe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-abct-padella-wok-diametro-32-cm-bianca-1.jpg",
+            "title": "",
+            "text": "<p>Padelle antiaderenti, guida all'acquisto <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://pages/padelle-antiaderenti-guida-completa"
+          }
+        },
         "column_B9rnKn": {
           "type": "column",
           "settings": {
@@ -652,20 +672,22 @@
             "link": "shopify://pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola"
           }
         },
-        "column_zQeJAx": {
+        "column_W4mzwq": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-abct-padella-wok-diametro-32-cm-bianca-1.jpg",
+            "image": "shopify://shop_images/Knindustrie-sparky-bicchiere.webp",
             "title": "",
-            "text": "<p>Padelle antiaderenti, guida all'acquisto <strong>→</strong></p>",
+            "text": "<p>Tutte le forme del Bere: come scegliere quella giusta? <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://pages/padelle-antiaderenti-guida-completa"
+            "link": "shopify://blogs/apparecchiare-con-stile/le-forme-del-bere-come-scegliere-il-giusto-bicchiere"
           }
         }
       },
       "block_order": [
+        "column_zQeJAx",
+        "column_cJAYUe",
         "column_B9rnKn",
-        "column_zQeJAx"
+        "column_W4mzwq"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -676,9 +698,9 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "portrait",
-        "columns_desktop": 5,
+        "columns_desktop": 4,
         "column_alignment": "left",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "Il Blog U&M →",
         "button_link": "shopify://blogs/blog",
         "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
