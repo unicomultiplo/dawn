@@ -642,36 +642,6 @@
     "multicolumn_ftmdQK": {
       "type": "multicolumn",
       "blocks": {
-        "column_WADJFq": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brandani-queen-natale-2025.webp",
-            "title": "",
-            "text": "<p>Natale 2025 <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://pages/natale"
-          }
-        },
-        "column_7L8tpd": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/idee-regalo-economiche-1.webp",
-            "title": "",
-            "text": "<p>Come scegliere i Regali di Natale? Ecco alcuni consigli <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://blogs/regalare-per-stupire/come-scegliere-i-regali-di-natale-ecco-alcuni-consigli-per-organizzare-la-tua-lista"
-          }
-        },
-        "column_Q9yHkC": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/cool-santa-idee-regalo-moglie-amica-fidanzata_1.webp",
-            "title": "",
-            "text": "<p>Cosa Regalare per Natale alla Fidanzata, alla Moglie o un'Amica <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://blogs/regalare-per-stupire/cosa-regalare-per-natale-alla-fidanzata-alla-moglie-o-unamica"
-          }
-        },
         "column_B9rnKn": {
           "type": "column",
           "settings": {
@@ -694,9 +664,6 @@
         }
       },
       "block_order": [
-        "column_WADJFq",
-        "column_7L8tpd",
-        "column_Q9yHkC",
         "column_B9rnKn",
         "column_zQeJAx"
       ],
