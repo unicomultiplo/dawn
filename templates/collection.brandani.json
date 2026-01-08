@@ -120,41 +120,41 @@
         "column_QUfw6F": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Brandani-piatti-natalizi-goldeneye-10.webp",
+            "image": "shopify://shop_images/brandani-limoni-antipastiera-1.jpg",
             "title": "",
-            "text": "<p><strong>Golden Eye</strong></p>",
+            "text": "<p><strong>Set Piatti Limoni</strong></p>",
             "link_label": "",
-            "link": "shopify://products/brandani-golden-eye-red-set-piatti-18-pz"
+            "link": "shopify://products/brandani-limoni-tavola-18-pz"
           }
         },
         "column_HfxhTn": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/brandani-queen-natale-2025.webp",
+            "image": "shopify://shop_images/brandani-calice-bohemia-set-6-pz.webp",
             "title": "",
-            "text": "<p><strong>Queen Brandani</strong></p>",
+            "text": "<p><strong>Bohemia Brandani</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/queen-brandani"
+            "link": "shopify://products/brandani-calice-bohemia-set-6-pz"
           }
         },
         "column_4KpzJx": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Brandani-set-piatti-lo-schiaccianoci-1.webp",
+            "image": "shopify://shop_images/Brandani-Gourmet_-Decanter-Vino.webp",
             "title": "",
-            "text": "<p><strong>Lo Schiaccianoci </strong></p>",
+            "text": "<p><strong>Il Decanter</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/brandani-schiaccianoci"
+            "link": "shopify://products/2709-brandani-gourmet-decanter-decanter-vino-alto-075-lt"
           }
         },
         "column_UGqLCf": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1024x1024_098fddfb-83c2-4707-9de9-e6676848b06c.jpg",
+            "image": "shopify://shop_images/brandani-coltelli-bistecca-set-6-pz.jpg",
             "title": "",
-            "text": "<p><strong>Elfomagia</strong></p>",
+            "text": "<p><strong>Coltelli Bistecca</strong></p>",
             "link_label": "",
-            "link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana"
+            "link": "shopify://products/brandani-coltelli-bistecca-set-6-pz"
           }
         }
       },
