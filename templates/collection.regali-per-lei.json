@@ -749,7 +749,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Regali-a-Meno-di-100-_-1.webp",
+        "image": "shopify://shop_images/unico-e-multiplo-regali.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
