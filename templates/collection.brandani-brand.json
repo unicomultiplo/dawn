@@ -59,8 +59,8 @@
         "buttons_BVVPLR": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "La Magia della Tavola di Natale Firmata Brandani",
-            "button_link_1": "shopify://blogs/apparecchiare-con-stile/la-magia-della-tavola-di-natale-firmata-brandani",
+            "button_label_1": "Porcellana & Bamaboo",
+            "button_link_1": "shopify://collections/brandani-porcellana-bamboo",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -72,7 +72,7 @@
         "buttons_BVVPLR"
       ],
       "settings": {
-        "image": "shopify://shop_images/Brandani-set-piatti-lo-schiaccianoci_3a280942-7a53-4b17-9132-d9422efb316e.webp",
+        "image": "shopify://shop_images/Brandani-collezioni-Unicoemultiplo.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -178,6 +178,7 @@
         "text_b3CnpN",
         "button_BkhTAt"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/brandani-queen-natale-2025.webp",
         "height": "medium",
@@ -221,6 +222,7 @@
         "featured_collection_cAhjxK",
         "featured_collection_9hCwA8"
       ],
+      "disabled": true,
       "settings": {
         "title": "Scopri i Servizi Brandani Natale 2025",
         "heading_size": "h1",
@@ -487,7 +489,6 @@
         "featured_collection_BxxeNg",
         "featured_collection_VJRMde"
       ],
-      "disabled": true,
       "settings": {
         "title": "Stoviglie in Melamina",
         "heading_size": "h1",
