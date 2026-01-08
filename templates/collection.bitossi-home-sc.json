@@ -130,11 +130,11 @@
         "column_Qn6Wff": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/il-frutto-della-passione-pangea-natale.webp",
+            "image": "shopify://shop_images/bitossi-home-torchon-posate.png",
             "title": "",
-            "text": "<p><strong>Natale con Bitossi Home</strong></p>",
+            "text": "<p><strong>Accessori Tavola </strong></p>",
             "link_label": "",
-            "link": "shopify://collections/bitossi-home-natale"
+            "link": "shopify://collections/posate-bitossi-home"
           }
         },
         "column_4anpg9": {
@@ -150,7 +150,7 @@
         "column_aF6BFy": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/parisienne-bitossi-home.jpg",
+            "image": "shopify://shop_images/Bitossi-home-piatti-petalo-2.webp",
             "title": "",
             "text": "<p><strong>I Senza Tempo</strong></p>",
             "link_label": "",
