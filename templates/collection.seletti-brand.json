@@ -70,7 +70,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "PROMO SELETTI",
-            "button_link_1": "shopify://collections/offerte-e-promo",
+            "button_link_1": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending#shopify-section-template--23127397794057__product-grid",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -105,7 +105,7 @@
             "title": "",
             "text": "<p>Lampade che fanno sorridere, piatti che sorprendono, idee regalo fuori dagli schemi: è il momento perfetto per portare un tocco pop nella tua casa. Approfitta del <strong>-20% su una selezione di prodotti Seletti</strong> e lasciati ispirare da un mondo fatto di ironia, colori e creatività senza limiti.</p>",
             "link_label": "SCOPRI SUBITO TUTTE LE PROMO!",
-            "link": "shopify://collections/offerte-e-promo"
+            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending#shopify-section-template--23127397794057__product-grid"
           }
         },
         "column_LEpgA4": {
