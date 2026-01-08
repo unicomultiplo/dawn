@@ -768,66 +768,55 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_GAFdCm": {
+    "multicolumn_rHT9QQ": {
       "type": "multicolumn",
       "blocks": {
-        "column_Dwyw48": {
+        "column_HntXnR": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/brandani-logo-500x500.webp",
+            "image": "shopify://shop_images/brandani-limoni-antipastiera-1.jpg",
             "title": "",
-            "text": "<p><strong>Esplora il Brand </strong></p>",
+            "text": "<p><strong>Set Piatti Limoni</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/brandani"
+            "link": "shopify://products/brandani-limoni-tavola-18-pz"
           }
         },
-        "column_ti4QbT": {
+        "column_xXjXym": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Brandani-piatti-natalizi-goldeneye-10.webp",
+            "image": "shopify://shop_images/brandani-calice-bohemia-set-6-pz.webp",
             "title": "",
-            "text": "<p><strong>Golden Eye</strong></p>",
+            "text": "<p><strong>Bohemia Brandani</strong></p>",
             "link_label": "",
-            "link": "shopify://products/brandani-golden-eye-red-set-piatti-18-pz"
+            "link": "shopify://products/brandani-calice-bohemia-set-6-pz"
           }
         },
-        "column_zUdQUT": {
+        "column_iVPwi9": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/brandani-queen-natale-2025.webp",
+            "image": "shopify://shop_images/Brandani-Gourmet_-Decanter-Vino.webp",
             "title": "",
-            "text": "<p><strong>Queen Brandani</strong></p>",
+            "text": "<p><strong>Il Decanter</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/queen-brandani"
+            "link": "shopify://products/2709-brandani-gourmet-decanter-decanter-vino-alto-075-lt"
           }
         },
-        "column_dn8TBH": {
+        "column_cdXngT": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Brandani-set-piatti-lo-schiaccianoci-1.webp",
+            "image": "shopify://shop_images/brandani-coltelli-bistecca-set-6-pz.jpg",
             "title": "",
-            "text": "<p><strong>Lo Schiaccianoci </strong></p>",
+            "text": "<p><strong>Coltelli Bistecca</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/brandani-schiaccianoci"
-          }
-        },
-        "column_ePHzyN": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1024x1024_098fddfb-83c2-4707-9de9-e6676848b06c.jpg",
-            "title": "",
-            "text": "<p><strong>Elfomagia</strong></p>",
-            "link_label": "",
-            "link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana"
+            "link": "shopify://products/brandani-coltelli-bistecca-set-6-pz"
           }
         }
       },
       "block_order": [
-        "column_Dwyw48",
-        "column_ti4QbT",
-        "column_zUdQUT",
-        "column_dn8TBH",
-        "column_ePHzyN"
+        "column_HntXnR",
+        "column_xXjXym",
+        "column_iVPwi9",
+        "column_cdXngT"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -837,12 +826,12 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 4,
         "column_alignment": "center",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 20,
@@ -889,7 +878,7 @@
     "collection_list_Qdy6e7",
     "collection_list_qENXQe",
     "collection_list_eL9cLQ",
-    "multicolumn_GAFdCm",
+    "multicolumn_rHT9QQ",
     "product-grid"
   ]
 }
