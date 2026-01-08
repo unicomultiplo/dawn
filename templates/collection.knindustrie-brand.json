@@ -33,8 +33,8 @@
         "buttons_Abd6WT": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "NATALE CON KNINDUSTRIE",
-            "button_link_1": "shopify://collections/natale-con-knindustrie",
+            "button_label_1": "GROOVE -  KNINDUSTRIE",
+            "button_link_1": "shopify://collections/groove-knindustrie",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -47,13 +47,13 @@
         "buttons_Abd6WT"
       ],
       "settings": {
-        "image": "shopify://shop_images/Come-apparecchiare-la-tavola-natale-2025.webp",
+        "image": "shopify://shop_images/knIndustrie-Christmas_News_2025-natale.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-1464a208-fcdd-4ba9-b1e4-de3cd41e6336",
+        "color_scheme": "scheme-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
