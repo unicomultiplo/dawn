@@ -61,6 +61,16 @@
             "link": "shopify://collections/seletti"
           }
         },
+        "column_N7zhTV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/superforniture-seletti-new-2025.webp",
+            "title": "",
+            "text": "<p><strong> NEW!  SUPERfurniture</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/superfurniture-seletti"
+          }
+        },
         "column_PKtqHD": {
           "type": "column",
           "settings": {
@@ -94,6 +104,7 @@
       },
       "block_order": [
         "column_8FGYCt",
+        "column_N7zhTV",
         "column_PKtqHD",
         "column_dHGQgR",
         "column_YmwtR8"
@@ -106,7 +117,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 4,
+        "columns_desktop": 5,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
