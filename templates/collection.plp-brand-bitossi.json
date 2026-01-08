@@ -69,7 +69,7 @@
         "buttons_XRC7DM": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "NATALE CON BITOSSI HOME",
+            "button_label_1": "",
             "button_link_1": "shopify://collections/bitossi-home-natale",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -82,7 +82,7 @@
         "buttons_XRC7DM"
       ],
       "settings": {
-        "image": "shopify://shop_images/La-tavola-di-Natale-Bitossi.webp",
+        "image": "shopify://shop_images/bitossi-home-catalogo-offerte-promo-unico-multiplo_1_1ab661e1-726e-4660-924e-1cd4d236b0a1.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
