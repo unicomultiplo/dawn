@@ -522,7 +522,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/regali-di-natale-unico-e-multiplo.webp",
+        "image": "shopify://shop_images/idee-regalo-per-lacoppia.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
