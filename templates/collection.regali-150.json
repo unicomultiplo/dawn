@@ -216,7 +216,7 @@
         "column_fnCG6f": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/idee-regalo-lui-originali-unico-e-multiplo.webp",
+            "image": "shopify://shop_images/idee-regalo-originali-per-lui.webp",
             "title": "",
             "text": "<h3><strong>Idee Regalo per il tuo Lui</strong></h3><p><br/>Perfetti per partner, fratelli, colleghi o amici che apprezzano regali <strong>curati, di qualità e con personalità</strong>.<br/><strong>Idee regalo sotto i 150€</strong> che uniscono funzionalità ed estetica.<br/><br/><strong>IDEE PER LUI →</strong></p>",
             "link_label": "",
@@ -226,7 +226,7 @@
         "column_fLrJCK": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/unico-e-multiplo-idee-regalo-natale.webp",
+            "image": "shopify://shop_images/idee-regalo-sotto-50-100-150-euro.webp",
             "title": "",
             "text": "<h3><strong>Idee Regalo per la tua Lei</strong></h3><p><br/>Perfette per compagne, sorelle, amiche o colleghe che amano la bellezza autentica e i gesti pensati con cura.<br/>Idee sotto i 150€ ideali per chi ama il design e le piccole attenzioni quotidiane.<br/><br/><strong>IDEE PER LEI →</strong></p>",
             "link_label": "",
@@ -246,7 +246,7 @@
         "title": "<strong>Regali per lei e per lui, dal partner agli amici più vicini</strong>",
         "heading_size": "h2",
         "image_width": "full",
-        "image_ratio": "square",
+        "image_ratio": "adapt",
         "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "none",
