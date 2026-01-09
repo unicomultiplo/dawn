@@ -837,7 +837,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/ideeregalo-viaggio.jpg",
+        "image": "shopify://shop_images/idee-regalo-viaggi-tempo-libero.webp",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -902,7 +902,7 @@
         "column_pbpMaL": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/unico-e-multiplo-regali-originali.webp",
+            "image": "shopify://shop_images/idee-regalo-sotto-i-50-euro-economiche.webp",
             "title": "",
             "text": "<p><strong>Regali smart e accessibili</strong>, perfetti per sorprendere senza complicazioni. Idee leggere ma ricche di significato.<br/><br/><strong>Piccoli gesti, grandi sorrisi →</strong></p>",
             "link_label": "",
@@ -912,7 +912,7 @@
         "column_A4CyYb": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/idee-regalo-economiche.jpg",
+            "image": "shopify://shop_images/regali-originali-idee-regalo.webp",
             "title": "",
             "text": "<p><strong>La giusta via di mezzo</strong> tra convenienza e impatto: regali che colpiscono, restano impressi e raccontano attenzione autentica.<br/><br/><strong>Equilibrio perfetto →</strong></p>",
             "link_label": "",
@@ -922,7 +922,7 @@
         "column_H66N3e": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Regali-a-Meno-di-150.webp",
+            "image": "shopify://shop_images/idee.webp",
             "title": "",
             "text": "<p><strong>Doni più importanti,</strong> scelti per celebrare momenti che meritano di essere ricordati con qualcosa di unico e speciale.<br/><br/><strong>Il valore delle grandi occasioni →</strong></p>",
             "link_label": "",
