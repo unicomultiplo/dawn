@@ -40,19 +40,26 @@
           "settings": {
             "collection": "idee-regalo-regali-per-lui"
           }
+        },
+        "featured_collection_4nAkVX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-san-valentino"
+          }
         }
       },
       "block_order": [
         "featured_collection_dCLJTD",
         "featured_collection_PqQKW8",
-        "featured_collection_XNtLxB"
+        "featured_collection_XNtLxB",
+        "featured_collection_4nAkVX"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 3,
+        "columns_desktop": 5,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "2",
