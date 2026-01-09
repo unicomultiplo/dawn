@@ -749,7 +749,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Piatti-natale-2025.jpg",
+        "image": "shopify://shop_images/knIndustrie-Christmas_News_2025-natale.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
