@@ -185,14 +185,14 @@
         "heading_9kTxfi": {
           "type": "heading",
           "settings": {
-            "heading": "Il piacere del cocktail, fatto bene",
+            "heading": "Tappeti taftati",
             "heading_size": "h1"
           }
         },
         "text_yCWYLF": {
           "type": "text",
           "settings": {
-            "text": "<p>Per chi ama preparare cocktail, knIndustrie propone una selezione di accessori essenziali per creare e servire l’aperitivo perfetto, anche durante le feste.<br/><br/></p>"
+            "text": "<p><br/>Il colore prende forma... sotto i tuoi piedi.<br/>Tappeti tuftati per trasformare ogni stanza in uno spazio da vivere, guardare e sentire.<br/><br/></p>"
           }
         }
       },
@@ -222,14 +222,14 @@
         "product_eAykWe": {
           "type": "product",
           "settings": {
-            "product": "knindustrie-bicchiere-sparky-lara-caffi",
+            "product": "miho-hypnosis-tappeto-taftati",
             "second_image": true
           }
         },
         "product_BVWfAx": {
           "type": "product",
           "settings": {
-            "product": "knindustrie-knindustrie-groove-brocca-cilindrica-rigata",
+            "product": "miho-mystic-violet-tappeto-taftati",
             "second_image": true
           }
         }
