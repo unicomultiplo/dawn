@@ -20,46 +20,66 @@
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
       }
     },
-    "image_banner_Q6rBiY": {
-      "type": "image-banner",
+    "collection_list_NNiNDw": {
+      "type": "collection-list",
       "blocks": {
-        "heading_n4AJPP": {
-          "type": "heading",
+        "featured_collection_H6ekeA": {
+          "type": "featured_collection",
           "settings": {
-            "heading": "Natale 2025",
-            "heading_size": "h1"
+            "collection": "idee-regalo-economiche"
           }
         },
-        "buttons_CmixbY": {
-          "type": "buttons",
+        "featured_collection_QqNmTJ": {
+          "type": "featured_collection",
           "settings": {
-            "button_label_1": "Scopri la Nostra Selezione Idee Regalo Natale",
-            "button_link_1": "shopify://collections/idee-regalo-natale",
-            "button_style_secondary_1": false,
-            "button_label_2": "Guida ai regali",
-            "button_link_2": "https://www.unicoemultiplo.com/collections/idee-regalo?#shopify-section-template--25730824438025__multicolumn_MEiyUc",
-            "button_style_secondary_2": false
+            "collection": "idee-regalo-regali-sotto-100-euro"
+          }
+        },
+        "featured_collection_PVixJe": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-regali-sotto-150-euro"
+          }
+        },
+        "featured_collection_b8iKYJ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-per-casa-e-cucina"
+          }
+        },
+        "featured_collection_bm7xXy": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-compleanno"
+          }
+        },
+        "featured_collection_AqiXJc": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-san-valentino"
           }
         }
       },
       "block_order": [
-        "heading_n4AJPP",
-        "buttons_CmixbY"
+        "featured_collection_H6ekeA",
+        "featured_collection_QqNmTJ",
+        "featured_collection_PVixJe",
+        "featured_collection_b8iKYJ",
+        "featured_collection_bm7xXy",
+        "featured_collection_AqiXJc"
       ],
-      "disabled": true,
-      "name": "t:sections.image-banner.presets.name",
+      "name": "t:sections.collection-list.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Idee-regalo-natale-2025-10.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": true
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "product-grid": {
@@ -301,56 +321,6 @@
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 20
-      }
-    },
-    "image_banner_3zqppy": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_FeBWeB": {
-          "type": "heading",
-          "settings": {
-            "heading": "Natale 2025, non il solito regalo",
-            "heading_size": "h1"
-          }
-        },
-        "text_cyQACb": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>Un Natale diverso</strong> nasce da un regalo che sorprende: originale, creativo e pieno di personalità.Rendi unico il tuo Natale 2025 con <strong>idee regalo che reinventano la tradizione</strong>.",
-            "text_style": "body"
-          }
-        },
-        "buttons_8NqUpV": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Scopri la Nostra Selezione Idee Regalo",
-            "button_link_1": "shopify://collections/idee-regalo-natale",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_FeBWeB",
-        "text_cyQACb",
-        "buttons_8NqUpV"
-      ],
-      "disabled": true,
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/idee-regalo.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     },
     "multicolumn_FJwELC": {
@@ -1325,12 +1295,11 @@
   },
   "order": [
     "banner",
-    "image_banner_Q6rBiY",
+    "collection_list_NNiNDw",
     "product-grid",
     "multicolumn_MEiyUc",
     "multicolumn_gQFfTd",
     "multicolumn_nDWC38",
-    "image_banner_3zqppy",
     "multicolumn_FJwELC",
     "collection_list_WFPANW",
     "multicolumn_NVe4JB",
