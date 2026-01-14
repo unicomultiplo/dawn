@@ -50,41 +50,17 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/knIndustrie-Christmas_News_2025-natale.webp",
-        "image_overlay_opacity": 30,
+        "image": "shopify://shop_images/idee-regalo-seletti-san-valentino-originali.webp",
+        "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-b4b5757d-11d6-44d9-9913-c59c1623590c",
+        "color_scheme": "scheme-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": false
-      }
-    },
-    "featured_blog_bnjUDn": {
-      "type": "featured-blog",
-      "custom_css": [
-        ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
-        "h3.card__heading {font-size: 16px;}",
-        "p.article-card__excerpt {font-size: 12px;}",
-        "h1.title--primary {display: none !important;}",
-        "a#ViewAll-template--22267420573961__featured_blog_bnjUDn {margin-top: 0 !important;}"
-      ],
-      "settings": {
-        "heading": "Apparecchiare con Stile",
-        "heading_size": "h2",
-        "blog": "apparecchiare-con-stile",
-        "post_limit": 4,
-        "columns_desktop": 4,
-        "color_scheme": "scheme-1",
-        "show_image": true,
-        "show_date": false,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 36,
-        "padding_bottom": 0
       }
     },
     "featured_blog_heaLnh": {
@@ -108,6 +84,30 @@
         "show_author": false,
         "show_view_all": true,
         "padding_top": 16,
+        "padding_bottom": 0
+      }
+    },
+    "featured_blog_bnjUDn": {
+      "type": "featured-blog",
+      "custom_css": [
+        ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
+        "h3.card__heading {font-size: 16px;}",
+        "p.article-card__excerpt {font-size: 12px;}",
+        "h1.title--primary {display: none !important;}",
+        "a#ViewAll-template--22267420573961__featured_blog_bnjUDn {margin-top: 0 !important;}"
+      ],
+      "settings": {
+        "heading": "Apparecchiare con Stile",
+        "heading_size": "h2",
+        "blog": "apparecchiare-con-stile",
+        "post_limit": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
         "padding_bottom": 0
       }
     },
@@ -177,11 +177,11 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Blog-unico-e-multiplo.webp",
-        "height": "small",
+        "image": "shopify://shop_images/natale-bitossi-il_frutto_della-passione.webp",
+        "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "section_color_scheme": "",
@@ -555,8 +555,8 @@
   "order": [
     "main",
     "image_banner_dPbXBj",
-    "featured_blog_bnjUDn",
     "featured_blog_heaLnh",
+    "featured_blog_bnjUDn",
     "featured_blog_abHrVD",
     "image_with_text_8BeU3P",
     "featured_blog_KyiK6b",
