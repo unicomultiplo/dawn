@@ -139,6 +139,49 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_nxxwFr": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ezjPyq": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Sì, è proprio lei: la mitica penna BIC® che hai usato mille volte, ora diventa una lampada oversize firmata <strong>Seletti</strong>.<br/>Un’idea geniale, pop, fuori scala – da usare a terra, a parete o a soffitto – che accende la casa con luce calda e un’ironia inconfondibile.<br/>Disponibile in <strong>blu, nero e rosso</strong>, la <strong>BIC®  Lamp</strong> è già un’icona di design contemporaneo.<br/><br/>Se ti piace stupire, <strong>questa è la novità che fa per te.</strong></p>",
+            "link_label": "SCOPRILA ADESSO!",
+            "link": "shopify://products/seletti-bic-lamp-black"
+          }
+        },
+        "column_MzdcMi": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_ezjPyq",
+        "column_MzdcMi"
+      ],
+      "settings": {
+        "title": "Seletti BIC® Lamp - la lampada che non sapevi di desiderare",
+        "heading_size": "h0",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
     "image_banner_HUnNNM": {
       "type": "image-banner",
       "blocks": {
@@ -1093,6 +1136,7 @@
     "multicolumn_4fT4dH",
     "image_banner_dc8VCJ",
     "multicolumn_TCmKJE",
+    "multicolumn_nxxwFr",
     "image_banner_HUnNNM",
     "image_with_text_7gxWGt",
     "multicolumn_kp8jzB",
