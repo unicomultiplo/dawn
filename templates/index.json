@@ -113,16 +113,6 @@
             "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending#shopify-section-template--23127397794057__product-grid"
           }
         },
-        "column_XCzETy": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Seletti-promo-estetico-quotidiano.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-estetico-quotidiano"
-          }
-        },
         "column_RUzwg4": {
           "type": "column",
           "settings": {
@@ -131,6 +121,16 @@
             "text": "",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/vasi-seletti?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=PROMO&sort_by=created-descending"
+          }
+        },
+        "column_XCzETy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-promo-estetico-quotidiano.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/seletti-catalogo-prodotti-estetico-quotidiano"
           }
         },
         "column_qimwBB": {
@@ -145,8 +145,8 @@
       },
       "block_order": [
         "column_XrjaiE",
-        "column_XCzETy",
         "column_RUzwg4",
+        "column_XCzETy",
         "column_qimwBB"
       ],
       "custom_css": [
