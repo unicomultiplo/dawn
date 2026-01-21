@@ -165,6 +165,7 @@
         "column_ezjPyq",
         "column_MzdcMi"
       ],
+      "disabled": true,
       "settings": {
         "title": "Seletti BIC® Lamp - la lampada che non sapevi di desiderare.",
         "heading_size": "h1",
@@ -200,6 +201,7 @@
       "block_order": [
         "buttons_JLXXhx"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/seletti-bic-cristal-pen-mario-paroli-new.jpg",
         "image_overlay_opacity": 0,
@@ -220,14 +222,14 @@
         "heading_Xk7Jqm": {
           "type": "heading",
           "settings": {
-            "heading": "Seletti: NOVITA'",
+            "heading": "Seletti BIC® Lamp",
             "heading_size": "h1"
           }
         },
         "caption_GQnb8z": {
           "type": "caption",
           "settings": {
-            "caption": "Sole e Luna – Le nuove decorazioni Magna Graecia firmate Antonio Aricò",
+            "caption": "La lampada che non sapevi di desiderare.",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
@@ -235,15 +237,15 @@
         "text_PePwpm": {
           "type": "text",
           "settings": {
-            "text": "<p>Con <strong>Sole</strong> e <strong>Luna</strong>, Antonio Aricò arricchisce la collezione Magna Graecia per <strong>Seletti</strong>, dando vita a due pezzi scultorei in <strong>terracotta pura</strong>, vibranti di carattere e simbolismo. Non sono semplici decorazioni ma <strong>icone</strong>. </p><p>- Il Sole è energia, potenza, luce.<br/><br/>- La Luna è mistero, silenzio, bellezza.<br/><br/> <strong>Un racconto visivo che arreda e incanta.<br/></strong> Fatti a mano, con anima mediterranea e stile inconfondibile.</p>",
+            "text": "<p>Sì, è proprio lei: la mitica penna BIC® che hai usato mille volte, ora diventa una lampada oversize firmata <strong>Seletti</strong>.<br/>Un’idea geniale, pop, fuori scala – da usare a terra, a parete o a soffitto – che accende la casa con luce calda e un’ironia inconfondibile.<br/>Disponibile in <strong>blu, nero e rosso</strong>, la <strong>BIC®  Lamp</strong> è già un’icona di design contemporaneo.<br/><br/>Se ti piace stupire, <strong>questa è la novità che fa per te.</strong></p>",
             "text_style": "body"
           }
         },
         "button_kEi6Qw": {
           "type": "button",
           "settings": {
-            "button_label": "Scoprili ora",
-            "button_link": "shopify://products/seletti-magna-graecia-wall-decoration-sole",
+            "button_label": "Scoprila ora!",
+            "button_link": "shopify://products/seletti-bic-lamp-blue",
             "button_style_secondary": false
           }
         }
@@ -254,12 +256,11 @@
         "text_PePwpm",
         "button_kEi6Qw"
       ],
-      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/sole-luna-seletti-arico_aee9d784-b96a-47fd-8b55-8d46e95168f1.webp",
+        "image": "shopify://shop_images/seletti-bic-lampada-new-biro-BIC-lamp-blue.webp",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
