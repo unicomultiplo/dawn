@@ -626,6 +626,16 @@
         "column_zQeJAx": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/natale-bitossi-il_frutto_della-passione.webp",
+            "title": "",
+            "text": "<p>Menù di San Valentino: idee originali per una cena indimenticabile! <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://blogs/cucina-che-passione/menu-di-san-valentino-idee-originali-per-una-cena-indimenticabile"
+          }
+        },
+        "column_JyzPxx": {
+          "type": "column",
+          "settings": {
             "image": "shopify://shop_images/Seletti-piatti-diesel.png",
             "title": "",
             "text": "<p>Seletti, per allestire la tua Tavola Scenografica <strong>→</strong></p>",
@@ -666,6 +676,7 @@
       },
       "block_order": [
         "column_zQeJAx",
+        "column_JyzPxx",
         "column_cJAYUe",
         "column_B9rnKn",
         "column_W4mzwq"
@@ -679,7 +690,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "portrait",
-        "columns_desktop": 4,
+        "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "Il Blog U&M →",
