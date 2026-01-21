@@ -124,7 +124,7 @@
       ],
       "settings": {
         "title": "Seletti - Promo",
-        "heading_size": "h0",
+        "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "square",
         "columns_desktop": 1,
@@ -166,8 +166,8 @@
         "column_MzdcMi"
       ],
       "settings": {
-        "title": "Seletti BIC® Lamp - la lampada che non sapevi di desiderare",
-        "heading_size": "h0",
+        "title": "Seletti BIC® Lamp - la lampada che non sapevi di desiderare.",
+        "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "square",
         "columns_desktop": 1,
