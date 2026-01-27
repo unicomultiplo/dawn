@@ -54,7 +54,7 @@
         "featured_collection_YEaihV": {
           "type": "featured_collection",
           "settings": {
-            "collection": "idee-regalo-per-casa-e-cucina"
+            "collection": "oggetto-decorativo-regalo-seletti"
           }
         },
         "featured_collection_7hzQpq": {
@@ -425,7 +425,7 @@
         "column_UDxhRD": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/wrapping-gifts-compleanno.webp",
+            "image": "shopify://shop_images/unico-e-multiplo-compleanno-idee-regalo.webp",
             "title": "",
             "text": "<p><strong>COMPLEANNO</strong></p>",
             "link_label": "",
@@ -435,11 +435,11 @@
         "column_xj8dtt": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Come-scegliere-i-Regali-di-Natale-organizzare-la-tua-Lista_1.webp",
+            "image": "shopify://shop_images/laurea-diploma-master-regali-originali.webp",
             "title": "",
-            "text": "<p><strong>NATALE</strong></p>",
+            "text": "<p><strong>LAUREA</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/idee-regalo-natale"
+            "link": "shopify://collections/idee-regalo-laurea-e-diploma"
           }
         }
       },
@@ -519,7 +519,7 @@
         "column_e8kLBb": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Idee-Regalo-Economiche-sotto.webp",
+            "image": "shopify://shop_images/idee-regalo-sotto-i-50-euro-economiche.webp",
             "title": "",
             "text": "<p>Oggetti pensati per la quotidianità, che uniscono <strong>funzionalità e design contemporaneo</strong>. Piccole attenzioni che fanno la differenza.<br/><strong><br/>Regali sotto i 50€ →</strong></p>",
             "link_label": "",
@@ -529,7 +529,7 @@
         "column_qK8FFJ": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Regali-a-Meno-di-100.webp",
+            "image": "shopify://shop_images/regali-per-lui-originali.webp",
             "title": "",
             "text": "<p>Proposte pensate per chi ama <strong>regalare emozioni e design</strong>, restando in una fascia di prezzo accessibile.<strong> <br/><br/>Regali sotto i 100€ →</strong></p>",
             "link_label": "",
@@ -539,7 +539,7 @@
         "column_HxiTxx": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Regali-a-Meno-di-150.webp",
+            "image": "shopify://shop_images/idee-regalo-seletti-design.webp",
             "title": "",
             "text": "<p>Accessori lifestyle, complementi d’arredo e pezzi di design selezionati <strong>per chi ama le cose belle</strong>, pratiche e di valore.<strong> <br/><br/>Regali sotto i 150 € →</strong></p>",
             "link_label": "",
