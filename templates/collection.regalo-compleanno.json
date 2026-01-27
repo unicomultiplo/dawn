@@ -185,7 +185,7 @@
           "settings": {
             "image": "shopify://shop_images/idee-regalo-compleanno.webp",
             "title": "",
-            "text": "<h3><strong><br/>Regali di compleanno per lui, tra praticità e carattere<br/></strong></h3><p><br/>Proposte utili ma mai banali, perfette per chi apprezza oggetti che parlano di carattere. Accessori intelligenti che accompagnano la vita di tutti i giorni.</p><p><br/>Scopri le Idee Regalo per Lui →</p>",
+            "text": "<h3><strong><br/>Regali di compleanno per lui, tra praticità e carattere<br/></strong></h3><p><br/>Proposte utili ma mai banali, perfette per chi apprezza oggetti che parlano di carattere. Accessori intelligenti che accompagnano la vita di tutti i giorni.</p><p><em><br/>Scopri le Idee Regalo per Lui →</em></p>",
             "link_label": "",
             "link": "shopify://collections/idee-regalo-regali-per-lui"
           }
@@ -273,12 +273,22 @@
     "multicolumn_TUCLxM": {
       "type": "multicolumn",
       "blocks": {
+        "column_aePWw4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/turbo-moka-caffettiera-3-tazze-5_97041ffa-fa58-4d86-936b-b04f12e95b97.webp",
+            "title": "",
+            "text": "<p><strong>TURBO MOKA</strong></p><p>Regala momenti di relax.</p>",
+            "link_label": "",
+            "link": "shopify://collections/turbo-moka"
+          }
+        },
         "column_LVFcCh": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-taglieri-e-centrotavola.webp",
+            "image": "shopify://shop_images/taglieri-scultura-materials-knindustrie.webp",
             "title": "",
-            "text": "<p><strong>TAGLIERI</strong></p><p>Piccoli dettagli speciali</p>",
+            "text": "<p><strong>TAGLIERI</strong></p><p>Piccoli dettagli speciali.</p>",
             "link_label": "",
             "link": "shopify://collections/tempo-libero"
           }
@@ -288,7 +298,7 @@
           "settings": {
             "image": "shopify://shop_images/seletti-reflecting-specchiera-con-cornice-trilogy-1.webp",
             "title": "",
-            "text": "<p><strong>SPECCHI</strong></p><p>Un riflesso che illumina</p>",
+            "text": "<p><strong>SPECCHI</strong></p><p>Un riflesso che illumina.</p>",
             "link_label": "",
             "link": "shopify://collections/complementi-arredo-specchi-da-parete"
           }
@@ -322,25 +332,15 @@
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-set-olio-aceto-sale-pepe"
           }
-        },
-        "column_aePWw4": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/marinette-saint-tropez-plaid-no-stress-8_3466d420-e63f-4672-828d-e42f6b129841.webp",
-            "title": "",
-            "text": "<p><strong>MARINETTE</strong></p><p>Un abbraccio morbido per i loro momenti di relax.</p>",
-            "link_label": "",
-            "link": "shopify://collections/marinette-saint-tropez"
-          }
         }
       },
       "block_order": [
+        "column_aePWw4",
         "column_LVFcCh",
         "column_BDT8cY",
         "column_iXnLgd",
         "column_BqDxQq",
-        "column_ytJUPY",
-        "column_aePWw4"
+        "column_ytJUPY"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
