@@ -425,17 +425,17 @@
         "column_xj8dtt": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Come-scegliere-i-Regali-di-Natale-organizzare-la-tua-Lista_1.webp",
+            "image": "shopify://shop_images/regali-per-laurea-diploma-nuove-conquiste.webp",
             "title": "",
-            "text": "<p><strong>NATALE</strong></p>",
+            "text": "<p><strong>LAUREA</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/idee-regalo-natale"
+            "link": "shopify://collections/idee-regalo-laurea-e-diploma"
           }
         },
         "column_UDxhRD": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/wrapping-gifts-compleanno.webp",
+            "image": "shopify://shop_images/regali-di-compleanno-importanti.webp",
             "title": "",
             "text": "<p><strong>COMPLEANNO</strong></p>",
             "link_label": "",
@@ -445,11 +445,11 @@
         "column_C76yDx": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/damigelle-idee-regalo.webp",
+            "image": "shopify://shop_images/idee-regalo-viaggi-tempo-libero_1.webp",
             "title": "",
-            "text": "<p><strong>DAMIGELLE</strong></p>",
+            "text": "<p><strong>VIAGGI</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/idee-regalo-economiche"
+            "link": "shopify://collections/tempo-libero"
           }
         }
       },
