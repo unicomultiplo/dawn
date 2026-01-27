@@ -385,7 +385,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/idee-regalo-casa-nuova-cucina-150-euro-unico-e-multiplo.jpg",
+        "image": "shopify://shop_images/idee-regalo-casa-nuova-e-cucina.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
