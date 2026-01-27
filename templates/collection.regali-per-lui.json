@@ -279,11 +279,11 @@
         "column_TWqyNA": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Marinette_c696c502-67c7-4d57-95b8-fa921a0b1d97.webp",
+            "image": "shopify://shop_images/turbo-moka-caffettiera-3-tazze-5_e899d265-b873-4a6d-a2b6-34d7fbc51c1c.webp",
             "title": "",
-            "text": "<p><strong>MARINETTE</strong></p><p>Per i veri amanti del pisolino!</p>",
+            "text": "<p><strong>TURBO MOKA</strong></p><p>Per i veri amanti del caffè!</p>",
             "link_label": "",
-            "link": "shopify://collections/marinette-saint-tropez"
+            "link": "shopify://collections/turbo-moka"
           }
         },
         "column_pwpce8": {
@@ -734,7 +734,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Regali-a-Meno-di-100-_-1.webp",
+        "image": "shopify://shop_images/idee-regalo-originali-e-divertenti.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
