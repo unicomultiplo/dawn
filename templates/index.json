@@ -150,7 +150,7 @@
         "column_qimwBB"
       ],
       "custom_css": [
-        ".multicolumn-list__item:last-child {background: var(--highlight-color); display: flex; flex-direction: column; justify-content: flex-end;}",
+        ".multicolumn-list__item:last-child {background: #d01f2c; display: flex; flex-direction: column; justify-content: flex-end;}",
         ".multicolumn-list__item:last-child .multicolumn-card {background: transparent;}",
         ".multicolumn-list__item:last-child .multicolumn-card__info a {color: var(--color-foreground); text-decoration: none;}",
         ".multicolumn-list__item:last-child .multicolumn-card h3 {color: var(--color-foreground);}",
