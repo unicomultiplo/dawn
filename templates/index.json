@@ -106,40 +106,40 @@
         "column_XrjaiE": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-promo-autunno-inverno-2026_1_00c2d568-38e4-4665-9190-7792bb6ea133.webp",
+            "image": "shopify://shop_images/San-Valentino-2026-2.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending#shopify-section-template--23127397794057__product-grid"
+            "link": "https://www.unicoemultiplo.com/products/disegnetti-depressetti-tazzetta-bacini-tazza-mug"
           }
         },
         "column_RUzwg4": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-promo_Glass_Vases_1.webp",
+            "image": "shopify://shop_images/San-Valentino-2026-1.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/vasi-seletti?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=PROMO&sort_by=created-descending"
+            "link": "https://www.unicoemultiplo.com/products/bitossi-home-la-tavola-scomposta-piattino-con-amore"
           }
         },
         "column_XCzETy": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-promo-estetico-quotidiano.webp",
+            "image": "shopify://shop_images/San-Valentino-2026.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-estetico-quotidiano"
+            "link": "https://www.unicoemultiplo.com/products/5240-seletti-love-in-bloom-kintsugi-vase-vaso-cuore"
           }
         },
         "column_qimwBB": {
           "type": "column",
           "settings": {
-            "title": "<strong>Winter Sale Seletti: il design fuori dagli schemi, ora scontato</strong>",
-            "text": "<p>Scopri una selezione di oggetti iconici con il 20% di sconto: lampade, accessori per la tavola, idee regalo e design che strappa il sorriso.</p>",
-            "link_label": "VEDI ORA",
-            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending#shopify-section-template--23127397794057__product-grid"
+            "title": "Idee che parlano al cuore (con stile)",
+            "text": "<p><br/>Quest’anno lascia da parte i soliti regali e scegli qualcosa che racconti davvero quello che provi. Oggetti di design, dettagli ironici, idee inaspettate: ogni proposta è pensata per sorprendere, far sorridere e restare nel tempo. Perché l’amore merita stile, carattere e un tocco di meraviglia.<br/></p>",
+            "link_label": "Scopri le idee regalo",
+            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-san-valentino"
           }
         }
       },
@@ -157,7 +157,7 @@
         ".multicolumn-list__item:last-child .multicolumn-card__info {display: flex; flex-direction: column;}"
       ],
       "settings": {
-        "title": "Winter Sale Seletti",
+        "title": "Un San Valentino che si fa notare",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
