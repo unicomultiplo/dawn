@@ -168,11 +168,11 @@
         "settings": {
           "background": "{{ shop.brand.colors.secondary[0].foreground }}",
           "background_gradient": "",
-          "text": "#121212",
+          "text": "#ffffff",
           "button": "#121212",
-          "button_label": "#ffffff",
-          "secondary_button_label": "#121212",
-          "shadow": "#121212"
+          "button_label": "#d01f2c",
+          "secondary_button_label": "#ffffff",
+          "shadow": "#d01f2c"
         }
       },
       "scheme-2": {
