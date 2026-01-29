@@ -175,6 +175,7 @@
     },
     "separator_zH6Qpr": {
       "type": "separator",
+      "disabled": true,
       "settings": {
         "line_thickness": 1
       }
@@ -256,6 +257,7 @@
     },
     "separator_jwXVJA": {
       "type": "separator",
+      "disabled": true,
       "name": "Separator Line",
       "settings": {
         "line_thickness": 1
@@ -467,6 +469,7 @@
     },
     "separator_HKUMQy": {
       "type": "separator",
+      "disabled": true,
       "settings": {
         "line_thickness": 1
       }
@@ -585,6 +588,7 @@
     },
     "separator_MQPw9D": {
       "type": "separator",
+      "disabled": true,
       "name": "Separator Line",
       "settings": {
         "line_thickness": 1
@@ -704,6 +708,7 @@
     },
     "separator_RxMG4P": {
       "type": "separator",
+      "disabled": true,
       "name": "Separator Line",
       "settings": {
         "line_thickness": 1
