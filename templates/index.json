@@ -15,6 +15,24 @@
         "slide_aEtLTa": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/idee-regalo-seletti-san-valentino-originali_1.webp",
+            "heading": "San Valentino",
+            "heading_size": "h0",
+            "subheading": "<strong>Per un San Valentino con più stile, meno cliché</strong>",
+            "button_label": "Scopri le idee regalo",
+            "link": "https://www.unicoemultiplo.com/products/seletti-reflecting-specchiera-con-cornice-ciclope?",
+            "button_style_secondary": false,
+            "box_align": "top-left",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 10,
+            "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_KAnp8F": {
+          "type": "slide",
+          "settings": {
             "image": "shopify://shop_images/Knindustrie-posate-bricklane.webp",
             "heading": "BRICK LANE",
             "heading_size": "h0",
@@ -29,29 +47,11 @@
             "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
             "text_alignment_mobile": "center"
           }
-        },
-        "slide_3EX9z4": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Promo-inverno-2026.webp",
-            "heading": "Promo Invernali",
-            "heading_size": "h0",
-            "subheading": "<strong>Oggetti per la casa selezionati, ora in offerta</strong>",
-            "button_label": "Scoprili ora",
-            "link": "shopify://collections/offerte-e-promo",
-            "button_style_secondary": true,
-            "box_align": "top-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-b4b5757d-11d6-44d9-9913-c59c1623590c",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
         "slide_aEtLTa",
-        "slide_3EX9z4"
+        "slide_KAnp8F"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -70,10 +70,10 @@
       "settings": {
         "title": "",
         "heading_size": "h2",
-        "description": "<p><strong>Il piacere di stare a casa comincia dai dettagli giusti. </strong>L’inverno invita a rallentare, a condividere, a circondarsi di bellezza. Per questo abbiamo pensato a <strong>promozioni invernali</strong> su una selezione di oggetti che rendono ogni gesto quotidiano più speciale.<br/><br/></p>",
+        "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "offerte-e-promo",
+        "collection": "idee-regalo-san-valentino",
         "products_to_show": 23,
         "columns_desktop": 6,
         "full_width": true,
