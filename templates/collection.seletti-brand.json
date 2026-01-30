@@ -81,6 +81,7 @@
       "block_order": [
         "buttons_YT7Pxp"
       ],
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "image": "shopify://shop_images/seletti-promo-autunno-inverno-2026.webp",
@@ -122,6 +123,7 @@
         "column_UieCPL",
         "column_LEpgA4"
       ],
+      "disabled": true,
       "settings": {
         "title": "Seletti - Promo",
         "heading_size": "h1",
@@ -201,7 +203,6 @@
       "block_order": [
         "buttons_JLXXhx"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/seletti-bic-cristal-pen-mario-paroli-new.jpg",
         "image_overlay_opacity": 0,
@@ -266,7 +267,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "section_color_scheme": "scheme-1",
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "color_scheme": "scheme-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
