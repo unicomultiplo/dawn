@@ -58,8 +58,8 @@
         ".mega-menu__list > li {width: 10em;}",
         ".list-menu__item {font-size: 1.3rem;}",
         ".list-menu__item .icon-caret {top: calc(50% - 0.4rem);}",
-        "#HeaderMenu-promo-2026 span,#HeaderMenu-promo-2026 {color: #000 !important; background: #f4cf5f;}",
-        "#HeaderMenu-promo-2026 span {border-radius: 20px; padding: 6px 15px 4px 15px; margin: -5px;}"
+        "#HeaderMenu-san-valentino span,#HeaderMenu-san-valentino {color: #fff !important; background: #d01f2c;}",
+        "#HeaderMenu-san-valentino span {border-radius: 20px; padding: 6px 15px 4px 15px; margin: -5px;}"
       ],
       "settings": {
         "logo_position": "top-left",
