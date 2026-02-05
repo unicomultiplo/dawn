@@ -3637,3 +3637,12 @@ details-disclosure > details {
     transform: translateX(100%) scaleX(0);
   }
 }
+
+/* 
+# Fix for the 2026-02-05 issue 
+A lot of links inside the platform are white on white bg
+sometimes directly sometimes on hover.
+*/
+.cart-remove-button {
+  color: var(--color-button) !important;
+}
