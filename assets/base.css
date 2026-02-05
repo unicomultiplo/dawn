@@ -3643,6 +3643,11 @@ details-disclosure > details {
 A lot of links inside the platform are white on white bg
 sometimes directly sometimes on hover.
 */
+
 .cart-remove-button {
   color: var(--color-button) !important;
+}
+
+.underlined-link:hover, .customer a:hover, .inline-richtext a:hover {
+  color: currentColor !important;
 }
