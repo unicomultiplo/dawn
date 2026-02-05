@@ -3650,4 +3650,5 @@ sometimes directly sometimes on hover.
 
 .underlined-link:hover, .customer a:hover, .inline-richtext a:hover {
   color: currentColor !important;
+  text-decoration: underline;
 }
