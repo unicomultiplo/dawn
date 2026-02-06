@@ -46,6 +46,12 @@
             "collection": "brandani"
           }
         },
+        "featured_collection_TrfF6j": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "casanova-carta-aromatica-deritrea"
+          }
+        },
         "featured_collection_CHFcMc": {
           "type": "featured_collection",
           "settings": {
@@ -87,12 +93,6 @@
           "settings": {
             "collection": "ichendorf-catalogo"
           }
-        },
-        "featured_collection_q9YNHR": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "joseph-joseph"
-          }
         }
       },
       "block_order": [
@@ -100,14 +100,14 @@
         "featured_collection_Kk8hTq",
         "featured_collection_FzRTT9",
         "featured_collection_wmWN49",
+        "featured_collection_TrfF6j",
         "featured_collection_CHFcMc",
         "featured_collection_7Xdy6g",
         "featured_collection_UE68y3",
         "featured_collection_fJLhKV",
         "featured_collection_3wBXgj",
         "featured_collection_YnBgfe",
-        "featured_collection_8a8jpz",
-        "featured_collection_q9YNHR"
+        "featured_collection_8a8jpz"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
@@ -127,6 +127,12 @@
       "type": "collection-list",
       "blocks": {
         "featured_collection_9cMBcT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "joseph-joseph"
+          }
+        },
+        "featured_collection_LFgyKP": {
           "type": "featured_collection",
           "settings": {
             "collection": "izipizi"
@@ -191,16 +197,11 @@
           "settings": {
             "collection": "reisenthel"
           }
-        },
-        "featured_collection_UTeQM7": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "rollink"
-          }
         }
       },
       "block_order": [
         "featured_collection_9cMBcT",
+        "featured_collection_LFgyKP",
         "featured_collection_WMwQH6",
         "featured_collection_8m7rhB",
         "featured_collection_9FtjRH",
@@ -210,8 +211,7 @@
         "featured_collection_atbhqM",
         "featured_collection_KCztEd",
         "featured_collection_mXDYg4",
-        "featured_collection_QE7Kmx",
-        "featured_collection_UTeQM7"
+        "featured_collection_QE7Kmx"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
@@ -231,6 +231,12 @@
       "type": "collection-list",
       "blocks": {
         "featured_collection_tDFKDH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "rollink"
+          }
+        },
+        "featured_collection_CtXHxP": {
           "type": "featured_collection",
           "settings": {
             "collection": "seletti"
@@ -269,6 +275,7 @@
       },
       "block_order": [
         "featured_collection_tDFKDH",
+        "featured_collection_CtXHxP",
         "featured_collection_4nHVpt",
         "featured_collection_XjBFQc",
         "featured_collection_gd7zU7",
