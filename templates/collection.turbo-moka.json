@@ -41,7 +41,7 @@
         "text_RCUXGa": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Turbo Moka</strong> è una caffettiera innovativa che reinterpreta la moka classica con un sistema di estrazione più <strong>rapido</strong> e controllato, grazie a una <strong>tecnologia brevettata</strong> ispirata all'ingegneria aerospaziale. <strong>100%</strong> Made in Italy, con artigianato piemontese e design milanese.</p><p>Se ami il rito del caffè ma vuoi una preparazione più veloce e performante, qui trovi la soluzione giusta.</p><p>A differenza della moka tradizionale:</p><ul><li>riduce i tempi di preparazione del 50%</li><li>ottimizza la pressione interna</li><li>garantisce un risultato costante</li><li>consuma fino al 50% meno gas</li></ul>",
+            "text": "<p><strong>Turbo Moka</strong> è una caffettiera innovativa che reinterpreta la moka classica con un sistema di estrazione più <strong>rapido</strong> e controllato, grazie a una <strong>tecnologia brevettata</strong> ispirata all'ingegneria aerospaziale. <strong>100%</strong> <strong>Made in Italy</strong>, con artigianato piemontese e design milanese.</p><p>Se ami il rito del caffè ma vuoi una preparazione più veloce e performante, qui trovi la soluzione giusta.</p><p><em>A differenza della moka tradizionale:</em></p><ul><li>riduce i tempi di preparazione del 50%</li><li>ottimizza la pressione interna</li><li>garantisce un risultato costante</li><li>consuma fino al 50% meno gas</li></ul>",
             "text_style": "body"
           }
         },
@@ -368,9 +368,9 @@
         "collapsible_row_8p68iM": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Qual è la differenza tra Turbo Moka e una moka tradizionale?",
+            "icon": "fire",
+            "row_content": "<p>Turbo Moka mantiene il rito e il funzionamento della moka classica, ma ottimizza la gestione della pressione e del calore con tecnologia brevettata.<br/><br/>Questo si traduce in un’erogazione più rapida, più controllata e più costante.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -378,9 +378,9 @@
         "collapsible_row_bLiQnF": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "In quanto tempo prepara il caffè (versione 3 tazze)?",
+            "icon": "fire",
+            "row_content": "<p>La versione da 3 tazze impiega mediamente da <strong>1minuto e 40 a 2 minuti -</strong> a seconda del tipo di piano cottura e dell’intensità della fiamma.</p><p>Grazie alla gestione più efficiente del calore, l’erogazione risulta  più <strong>rapida e regolare</strong> rispetto a una moka tradizionale della stessa capacità.<br/><br/>Il vantaggio principale non è solo la velocità, ma la maggiore <strong>regolarità dell’estrazione:</strong> il caffè sale in modo più uniforme e controllato.<br/><br/></p>",
             "page": "",
             "liquid_content": ""
           }
@@ -388,9 +388,9 @@
         "collapsible_row_Mf6b9Q": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Come si pulisce Turbo Moka?",
+            "icon": "fire",
+            "row_content": "<p>La manutenzione è semplice e fondamentale per mantenere aroma e prestazioni nel tempo.</p><p>Ti consigliamo di:</p><ul><li>lavarla con sola acqua calda</li><li>evitare detersivi aggressivi e non</li><li>non utilizzare spugne abrasive</li><li>asciugarla completamente prima di rimontarla<br/></li></ul><p>Una pulizia corretta preserva il gusto autentico del caffè ed evita alterazioni nel tempo.</p>",
             "page": "",
             "liquid_content": ""
           }
