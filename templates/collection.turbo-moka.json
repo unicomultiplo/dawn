@@ -62,7 +62,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/turbo-moka-caffettiera-3-tazze-5_97041ffa-fa58-4d86-936b-b04f12e95b97.webp",
+        "image": "shopify://shop_images/turbo-moka-made-in-italy-design.webp",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -243,8 +243,8 @@
         "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
         "container_color_scheme": "scheme-1",
         "open_first_collapsible_row": true,
-        "image": "shopify://shop_images/turbo-moka-caffettiera-3-tazze-3_25817943-4bf7-4a0f-93ce-35fbbf78dbf9.webp",
-        "image_ratio": "small",
+        "image": "shopify://shop_images/turbo-moka-made-in-italy_2.webp",
+        "image_ratio": "large",
         "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
@@ -427,15 +427,15 @@
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
         "caption": "e-faq",
-        "heading": "<strong>Domande frequenti su Turbo Moka</strong>",
+        "heading": "Domande frequenti su Turbo Moka",
         "heading_size": "h1",
         "heading_alignment": "left",
         "layout": "row",
         "color_scheme": "",
         "container_color_scheme": "",
         "open_first_collapsible_row": true,
-        "image": "shopify://shop_images/turbo-moka-caffettiera-3-tazze-4_11703fba-f824-496a-b1e2-b3d47272521e.webp",
-        "image_ratio": "adapt",
+        "image": "shopify://shop_images/turbo-moka-made-in-italy-design-brevettato.webp",
+        "image_ratio": "large",
         "desktop_layout": "image_first",
         "padding_top": 36,
         "padding_bottom": 36
