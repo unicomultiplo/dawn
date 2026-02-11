@@ -212,7 +212,7 @@
           "settings": {
             "heading": "Manutenzione e pulizia",
             "icon": "none",
-            "row_content": "<p>Per mantenere prestazioni ottimali:</p><ul><li>Lavala solo con acqua calda</li><li>Evita detersivi aggressivi</li><li>Non utilizzare lavastoviglie (se non diversamente indicato dal produttore)</li><li>Asciugala completamente prima di rimontarla</li></ul><p>Una corretta manutenzione preserva aroma e durata nel tempo.</p>",
+            "row_content": "<p>Per mantenere prestazioni ottimali:</p><ul><li><strong>Lavala solo con acqua calda</strong></li><li>Evita detersivi aggressivi</li><li>Non utilizzare lavastoviglie (se non diversamente indicato dal produttore)</li><li><strong>Asciugala completamente</strong> prima di rimontarla</li></ul><p>Una corretta manutenzione preserva aroma e durata nel tempo.</p>",
             "page": "",
             "liquid_content": ""
           }
