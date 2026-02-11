@@ -260,7 +260,7 @@
             "title": "CONSEGNA E RESO GRATIS*",
             "text": "<p>Per tutti gli ordini da 79,00€</p>",
             "link_label": "",
-            "link": ""
+            "link": "shopify://policies/shipping-policy"
           }
         },
         "column_pwWQDA": {
@@ -270,7 +270,7 @@
             "title": "PAGAMENTI 100% SICURI",
             "text": "<p>Carte, PayPal, bonifico, contrassegno, KLARNA</p>",
             "link_label": "",
-            "link": ""
+            "link": "shopify://pages/pagamenti"
           }
         },
         "column_WjG9WP": {
@@ -280,7 +280,7 @@
             "title": "ASSISTENZA E SUPPORTO",
             "text": "<p>Chat, telefono, email, Whatsapp</p>",
             "link_label": "",
-            "link": ""
+            "link": "shopify://policies/contact-information"
           }
         }
       },
@@ -292,7 +292,8 @@
       "custom_css": [
         ".multicolumn {max-width: 60em; margin: 0 auto;}",
         ".multicolumn-card__info h3 {font-size: 0.9em; font-weight: 600;}",
-        ".multicolumn-card__info p {font-size: 0.85em;}"
+        ".multicolumn-card__info p {font-size: 0.85em;}",
+        "a {color: black; text-decoration: none;}"
       ],
       "settings": {
         "title": "",
