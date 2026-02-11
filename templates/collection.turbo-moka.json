@@ -193,6 +193,62 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "collapsible_content_patFXb": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_kB3yMb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Compatibilità piani cottura",
+            "icon": "none",
+            "row_content": "<p>Turbo Moka è compatibile con:</p><ul><li><strong>Gas</strong></li><li><strong>Piano elettrico</strong></li><li><strong>⚠️ Induzione</strong> (<em>con adattatore specifico</em>)<br/></li></ul><p>Se utilizzi un piano a induzione, ti consigliamo di verificare sempre la compatibilità del fondo e di utilizzare il disco adattatore Turbo Moka.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_bNT7WY": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Manutenzione e pulizia",
+            "icon": "none",
+            "row_content": "<p>Per mantenere prestazioni ottimali:</p><ul><li>Lavala solo con acqua calda</li><li>Evita detersivi aggressivi</li><li>Non utilizzare lavastoviglie (se non diversamente indicato dal produttore)</li><li>Asciugala completamente prima di rimontarla</li></ul><p>Una corretta manutenzione preserva aroma e durata nel tempo.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_fp3BqW": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Consigli per l’uso quotidiano",
+            "icon": "none",
+            "row_content": "<p>✔ Usa caffè macinato per moka<br/>✔ Non pressare eccessivamente il caffè nel filtro<br/>✔ Mantieni fiamma moderata<br/>✔ Spegni il fuoco appena termina l’erogazione</p><p>Sono piccoli accorgimenti che fanno davvero la differenza nel risultato in tazza.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_kB3yMb",
+        "collapsible_row_bNT7WY",
+        "collapsible_row_fp3BqW"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "Compatibilità & Manutenzione",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "section",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "container_color_scheme": "scheme-1",
+        "open_first_collapsible_row": true,
+        "image": "shopify://shop_images/turbo-moka-caffettiera-3-tazze-2_4c575392-a13e-4205-8d98-616fca0c0cc6.webp",
+        "image_ratio": "small",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -201,6 +257,7 @@
     "multicolumn_9MGd63",
     "rich_text_J6TBHR",
     "product-grid",
-    "custom_liquid_dhfTYE"
+    "custom_liquid_dhfTYE",
+    "collapsible_content_patFXb"
   ]
 }
