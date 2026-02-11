@@ -73,7 +73,7 @@
         "color_scheme": "scheme-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 20,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -358,9 +358,9 @@
         "collapsible_row_DLeC3Y": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Turbo Moka funziona anche sui piani a induzione?",
+            "icon": "fire",
+            "row_content": "<p>Sì, Turbo Moka può essere utilizzata anche sui piani a induzione <strong>con l’apposito adattatore</strong>.<br/><br/>Senza adattatore non è compatibile direttamente con l’induzione.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -402,19 +402,19 @@
         "collapsible_row_bLiQnF",
         "collapsible_row_Mf6b9Q"
       ],
-      "disabled": true,
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
-        "caption": "",
-        "heading": "Contenuto comprimibile",
+        "caption": "e-faq",
+        "heading": "<strong>Domande frequenti su Turbo Moka</strong>",
         "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "none",
+        "heading_alignment": "left",
+        "layout": "row",
         "color_scheme": "",
         "container_color_scheme": "",
-        "open_first_collapsible_row": false,
+        "open_first_collapsible_row": true,
+        "image": "shopify://shop_images/turbo-moka-caffettiera-3-tazze-4_11703fba-f824-496a-b1e2-b3d47272521e.webp",
         "image_ratio": "adapt",
-        "desktop_layout": "image_second",
+        "desktop_layout": "image_first",
         "padding_top": 36,
         "padding_bottom": 36
       }
