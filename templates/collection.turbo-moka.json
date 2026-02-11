@@ -250,6 +250,46 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_jaeR4X": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_qxNTyy": {
+          "type": "heading",
+          "settings": {
+            "heading": "Perché acquistarla da Unico & Multiplo",
+            "heading_size": "h1"
+          }
+        },
+        "caption_abq8nN": {
+          "type": "caption",
+          "settings": {
+            "caption": "Acquistare Turbo Moka su Unico & Multiplo significa scegliere molto più di un prodotto.",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "text_wGqicb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Non siamo una semplice rivendita online.<br/>Ti <strong>aiutiamo</strong> a scegliere il prodotto giusto per il tuo modo di vivere la tavola e ti supportiamo nel <strong>post-vendita.</strong><br/><br/>Se hai dubbi sulla versione da acquistare, scrivici: <em>ti guidiamo</em><em><strong> passo dopo passo</strong></em><em>.</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_qxNTyy",
+        "caption_abq8nN",
+        "text_wGqicb"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn_34njQk": {
       "type": "multicolumn",
       "blocks": {
@@ -388,6 +428,7 @@
     "product-grid",
     "custom_liquid_dhfTYE",
     "collapsible_content_patFXb",
+    "rich_text_jaeR4X",
     "multicolumn_34njQk",
     "collapsible_content_rLXEW4"
   ]
