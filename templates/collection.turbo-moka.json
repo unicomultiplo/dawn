@@ -243,7 +243,135 @@
         "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
         "container_color_scheme": "scheme-1",
         "open_first_collapsible_row": true,
-        "image": "shopify://shop_images/turbo-moka-caffettiera-3-tazze-2_4c575392-a13e-4205-8d98-616fca0c0cc6.webp",
+        "image": "shopify://shop_images/turbo-moka-caffettiera-3-tazze-3_25817943-4bf7-4a0f-93ce-35fbbf78dbf9.webp",
+        "image_ratio": "small",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_34njQk": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_79AmhU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/iconmonstr-delivery-7-240.png",
+            "title": "CONSEGNA E RESO GRATIS*",
+            "text": "<p>Per tutti gli ordini da 79,00€</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pwWQDA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/iconmonstr-lock-30-240.png",
+            "title": "PAGAMENTI 100% SICURI",
+            "text": "<p>Carte, PayPal, bonifico, contrassegno, KLARNA</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_WjG9WP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/iconmonstr-delivery-8-240.png",
+            "title": "ASSISTENZA E SUPPORTO",
+            "text": "<p>Chat, telefono, email, Whatsapp</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_79AmhU",
+        "column_pwWQDA",
+        "column_WjG9WP"
+      ],
+      "custom_css": [
+        ".multicolumn {max-width: 60em; margin: 0 auto;}",
+        ".multicolumn-card__info h3 {font-size: 0.9em; font-weight: 600;}",
+        ".multicolumn-card__info p {font-size: 0.85em;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    },
+    "collapsible_content_rLXEW4": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_DLeC3Y": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_8p68iM": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_bLiQnF": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_Mf6b9Q": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "",
+            "liquid_content": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_DLeC3Y",
+        "collapsible_row_8p68iM",
+        "collapsible_row_bLiQnF",
+        "collapsible_row_Mf6b9Q"
+      ],
+      "disabled": true,
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "Contenuto comprimibile",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "padding_top": 36,
@@ -258,6 +386,8 @@
     "rich_text_J6TBHR",
     "product-grid",
     "custom_liquid_dhfTYE",
-    "collapsible_content_patFXb"
+    "collapsible_content_patFXb",
+    "multicolumn_34njQk",
+    "collapsible_content_rLXEW4"
   ]
 }
