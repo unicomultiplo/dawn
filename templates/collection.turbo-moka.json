@@ -202,7 +202,7 @@
           "settings": {
             "heading": "Compatibilità piani cottura",
             "icon": "none",
-            "row_content": "<p>Turbo Moka è compatibile con:</p><ul><li><strong>Gas</strong></li><li><strong>Piano elettrico</strong></li><li><strong>⚠️ Induzione</strong> (<em>con adattatore specifico</em>)<br/></li></ul><p>Se utilizzi un piano a induzione, ti consigliamo di verificare sempre la compatibilità del fondo e di utilizzare il disco adattatore Turbo Moka.</p>",
+            "row_content": "<p>Turbo Moka è compatibile con:</p><ul><li><strong>Gas</strong></li><li><strong>Piano elettrico</strong></li><li><strong>⚠️ Induzione</strong> (<em>con adattatore specifico</em>)<br/></li></ul><p>Se utilizzi un piano a induzione, ti consigliamo di verificare sempre la compatibilità del fondo e di utilizzare il disco adattatore Turbo Moka.</p><p><strong>Nota:</strong> l'erogazione \"turbo\" più veloce è garantita solo su fornelli a gas</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -360,7 +360,7 @@
           "settings": {
             "heading": "Turbo Moka funziona anche sui piani a induzione?",
             "icon": "fire",
-            "row_content": "<p>Sì, Turbo Moka può essere utilizzata anche sui piani a induzione <strong>con l’apposito adattatore</strong>.<br/><br/>Senza adattatore non è compatibile direttamente con l’induzione.</p>",
+            "row_content": "<p>Sì, Turbo Moka può essere utilizzata anche sui piani a induzione <strong>con l’apposito adattatore</strong>.<br/><br/>Senza adattatore non è compatibile direttamente con l’induzione.<br/><br/><strong>Nota:</strong> l'erogazione \"turbo\" più veloce è garantita solo su fornelli a gas.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -430,7 +430,7 @@
         "heading": "Domande frequenti su Turbo Moka",
         "heading_size": "h1",
         "heading_alignment": "left",
-        "layout": "row",
+        "layout": "section",
         "color_scheme": "",
         "container_color_scheme": "",
         "open_first_collapsible_row": true,
