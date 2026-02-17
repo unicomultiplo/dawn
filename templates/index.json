@@ -106,39 +106,39 @@
         "column_XrjaiE": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/San-Valentino-2026-4.webp",
+            "image": "shopify://shop_images/KnIndustruie-bicchiewri-reggia-Matteo-Thun.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/products/disegnetti-depressetti-tazzetta-bacini-tazza-mug"
+            "link": "shopify://products/knindustrie-reggia-bicchieri"
           }
         },
         "column_RUzwg4": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/San-Valentino-2026-3.webp",
+            "image": "shopify://shop_images/KnIndustruie-Piatti-reggia-Matteo-Thun.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/products/bitossi-home-la-tavola-scomposta-piattino-con-amore"
+            "link": "https://www.unicoemultiplo.com/products/knindustrie-reggia-piatto-bianco-bone-china"
           }
         },
         "column_XCzETy": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/San-Valentino-2026-5.webp",
+            "image": "shopify://shop_images/KnIndustruie-piatti-legno-reggia-Matteo-Thun.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/products/5240-seletti-love-in-bloom-kintsugi-vase-vaso-cuore"
+            "link": "https://www.unicoemultiplo.com/products/knindustrie-sovrapposizioni-piatto-in-legno-cm-27"
           }
         },
         "column_qimwBB": {
           "type": "column",
           "settings": {
-            "title": "Idee che parlano al cuore (con stile)",
-            "text": "<p><br/>Quest’anno lascia da parte i soliti regali e scegli qualcosa che racconti davvero quello che provi. Oggetti di design, dettagli ironici, idee inaspettate: ogni proposta è pensata per sorprendere, far sorridere e restare nel tempo. Perché l’amore merita stile, carattere e un tocco di meraviglia.<br/></p>",
-            "link_label": "Scopri le idee regalo",
+            "title": "Matteo Thun & Partners",
+            "text": "<p><br/>Matteo Thun, architetto e designer originario dell’Alto Adige, si forma artisticamente con maestri come Oskar Kokoschka ed Emilio Vedova all’Accademia di Salisburgo, per poi laurearsi con lode in Architettura presso l’Università di Firenze.<br/><br/>Nel 1981 è tra i co-fondatori del Memphis Group insieme a Ettore Sottsass, esperienza che segna profondamente il suo linguaggio creativo. Nel 1984 apre a Milano il proprio studio di architettura e design, dando avvio a un percorso internazionale fatto di ricerca, innovazione e attenzione alla sostenibilità.<br/></p>",
+            "link_label": "Scopri la collezione",
             "link": "https://www.unicoemultiplo.com/collections/idee-regalo-san-valentino"
           }
         }
@@ -157,7 +157,7 @@
         ".multicolumn-list__item:last-child .multicolumn-card__info {display: flex; flex-direction: column;}"
       ],
       "settings": {
-        "title": "Un San Valentino che si fa notare",
+        "title": "Matteo Thun & Partners per KnIndustrie",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
