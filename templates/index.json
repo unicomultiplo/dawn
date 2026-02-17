@@ -150,10 +150,10 @@
         "column_qimwBB"
       ],
       "custom_css": [
-        ".multicolumn-list__item:last-child {background: #d01f2c; display: flex; flex-direction: column; justify-content: flex-end;}",
+        ".multicolumn-list__item:last-child {background: #f4cf5f; display: flex; flex-direction: column; justify-content: flex-end;}",
         ".multicolumn-list__item:last-child .multicolumn-card {background: transparent;}",
-        ".multicolumn-list__item:last-child .multicolumn-card__info a {color: #fff; text-decoration: none;}",
-        ".multicolumn-list__item:last-child .multicolumn-card h3 {color: #fff; font-weight: bold;}",
+        ".multicolumn-list__item:last-child .multicolumn-card__info a {color: #000; text-decoration: none;}",
+        ".multicolumn-list__item:last-child .multicolumn-card h3 {color: #000; font-weight: bold;}",
         ".multicolumn-list__item:last-child .multicolumn-card__info {display: flex; flex-direction: column;}"
       ],
       "settings": {
@@ -164,8 +164,8 @@
         "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
+        "button_label": "Scopri oggi il design in PROMO!",
+        "button_link": "shopify://collections/reggia-knindustrie",
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -624,16 +624,6 @@
     "multicolumn_ftmdQK": {
       "type": "multicolumn",
       "blocks": {
-        "column_zQeJAx": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/natale-bitossi-il_frutto_della-passione.webp",
-            "title": "",
-            "text": "<p>Menù di San Valentino: idee originali per una cena indimenticabile! <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://blogs/cucina-che-passione/menu-di-san-valentino-idee-originali-per-una-cena-indimenticabile"
-          }
-        },
         "column_JyzPxx": {
           "type": "column",
           "settings": {
@@ -673,14 +663,24 @@
             "link_label": "",
             "link": "shopify://blogs/apparecchiare-con-stile/le-forme-del-bere-come-scegliere-il-giusto-bicchiere"
           }
+        },
+        "column_zQeJAx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-natale-idee-regalo.webp",
+            "title": "",
+            "text": "<p>La Tavola di Pasqua: Idee per una Mise en Place innovativa <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa"
+          }
         }
       },
       "block_order": [
-        "column_zQeJAx",
         "column_JyzPxx",
         "column_cJAYUe",
         "column_B9rnKn",
-        "column_W4mzwq"
+        "column_W4mzwq",
+        "column_zQeJAx"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
