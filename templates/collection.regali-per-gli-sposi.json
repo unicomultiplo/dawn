@@ -193,11 +193,11 @@
         "column_3P9tX6": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-corno-kintsugi.webp",
+            "image": "shopify://shop_images/oh-yeah-spoon-i-love-you-cucchiaino-caffe-5_cad95c68-e66d-4c1b-ba6e-a1a332d2917a.webp",
             "title": "",
-            "text": "<p><strong>Seletti</strong><br/>Lucky Horn <strong>→</strong></p>",
+            "text": "<p><strong>Oh Yeah Spoon</strong> <br/>\"Ancora una fettina\" Set dolce <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://products/seletti-kintsugi-lucky-horn-corno-portafortuna-in-porcellana"
+            "link": "shopify://products/oh-yeah-spoon-set-dolce-posate-vintage-placcate-in-argento"
           }
         },
         "column_h6qL4f": {
@@ -213,21 +213,21 @@
         "column_Lw7xMN": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/treccia-bitossi-home-vimini_1.jpg",
+            "image": "shopify://shop_images/printwork-moments-that-matter-the-most-album-foto-15.webp",
             "title": "",
-            "text": "<p><strong>Bitossi Home</strong><br/>Treccia <strong>→</strong><br/></p>",
+            "text": "<p><strong>Printworks </strong><br/>Album foto Moments that matter <strong>→</strong><br/></p>",
             "link_label": "",
-            "link": "shopify://collections/treccia-bitossi-home"
+            "link": "shopify://products/printwork-moments-that-matter-the-most-album-foto"
           }
         },
         "column_7qTfqm": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-bicchiere-sparky-lara-caffi-20.webp",
+            "image": "shopify://shop_images/seletti-classics-on-acid-vaso-in-porcellana-floral-delft-h30-cm-4.webp",
             "title": "",
-            "text": "<p><strong>KnIndustrie<br/></strong>Sparky <strong>→</strong></p>",
+            "text": "<p><strong>Seletti <br/></strong>Vaso Floral Delft <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://products/knindustrie-bicchiere-sparky-lara-caffi"
+            "link": "shopify://products/seletti-classics-on-acid-vaso-in-porcellana-floral-delft-h30-cm"
           }
         }
       },
