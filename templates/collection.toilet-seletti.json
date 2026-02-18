@@ -105,14 +105,6 @@
         "padding_bottom": 36
       }
     },
-    "shogun-helper": {
-      "type": "shogun-helper",
-      "settings": {}
-    },
-    "shogun-above": {
-      "type": "shogun-above",
-      "settings": {}
-    },
     "banner": {
       "type": "main-collection-banner",
       "custom_css": [
@@ -124,85 +116,77 @@
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
       }
     },
-    "multicolumn_kTpJKY": {
+    "multicolumn_8zczbe": {
       "type": "multicolumn",
       "blocks": {
-        "column_8FGYCt": {
+        "column_3hW8CY": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Seletti-logo.jpg",
-            "title": "Esplora il Brand",
-            "text": "",
+            "title": "",
+            "text": "<p><strong>Esplora il Brand</strong></p>",
             "link_label": "",
             "link": "shopify://collections/seletti"
           }
         },
-        "column_bXRdYJ": {
+        "column_VYphfr": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Outdoor-Seletti.jpg",
-            "title": "Outdoor Seletti",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://collections/outdoor-seletti"
-          }
-        },
-        "column_dHGQgR": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Discover_now_our_Hybrid_collection_by_f21b3c46-c7b9-4678-acf9-839ef4db4b0c.webp",
-            "title": "TABLEWARE - Arte della Tavola",
-            "text": "",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_DFkntc"
-          }
-        },
-        "column_qiB9cq": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/magna-graecia-seletti.jpg",
-            "title": "FURNITURE - Arredo",
-            "text": "",
+            "image": "shopify://shop_images/superforniture-seletti-new-2025.webp",
+            "title": "",
+            "text": "<p><strong>FURNITURE - Arredo</strong></p>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_kdtLc8"
           }
         },
-        "column_PKtqHD": {
+        "column_n6mKpm": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-kintsugi-lucky-horn-corno-portafortuna-in-porcellana_4a79718f-bd49-4d33-ae57-72c59ea9c48c.webp",
-            "title": "OBJECTS - Idee Regalo",
-            "text": "",
+            "image": "shopify://shop_images/Seletti-corno-kintsugi.webp",
+            "title": "",
+            "text": "<p><strong>OBJECTS - Idee Regalo</strong></p>",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_qKDHQy"
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_qftGfx"
           }
         },
-        "column_YmwtR8": {
+        "column_bmj7FR": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/My-Little-Lamps-Seletti.jpg",
-            "title": "LIGHTING - Oggetti Luce",
-            "text": "",
+            "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-2_d7b0c753-d33f-4f96-95b0-762e82ef3a61.webp",
+            "title": "",
+            "text": "<p><strong>TABLEWARE - Arte della Tavola</strong></p>",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_Qdy6e7"
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_pekHrY"
+          }
+        },
+        "column_e4gMGN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-my-moon-lamp-lampada-seduta-indoor-outdoor.jpg",
+            "title": "",
+            "text": "<p><strong>LIGHTING - Oggetti Luce</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_ky7KpY"
           }
         }
       },
       "block_order": [
-        "column_8FGYCt",
-        "column_bXRdYJ",
-        "column_dHGQgR",
-        "column_qiB9cq",
-        "column_PKtqHD",
-        "column_YmwtR8"
+        "column_3hW8CY",
+        "column_VYphfr",
+        "column_n6mKpm",
+        "column_bmj7FR",
+        "column_e4gMGN"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 6,
-        "column_alignment": "left",
+        "columns_desktop": 5,
+        "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
@@ -321,27 +305,15 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
-    },
-    "shogun-below": {
-      "type": "shogun-below",
-      "settings": {}
-    },
-    "shogun-optimizer": {
-      "type": "shogun-optimizer",
-      "settings": {}
     }
   },
   "order": [
     "custom_liquid_QhdyB8",
     "multicolumn_LWQpde",
     "product-grid",
-    "shogun-helper",
-    "shogun-above",
     "banner",
-    "multicolumn_kTpJKY",
+    "multicolumn_8zczbe",
     "multicolumn_MxLddP",
-    "multicolumn_38PWQd",
-    "shogun-below",
-    "shogun-optimizer"
+    "multicolumn_38PWQd"
   ]
 }
