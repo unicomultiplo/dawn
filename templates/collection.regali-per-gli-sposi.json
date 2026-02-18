@@ -305,14 +305,24 @@
     "multicolumn_LPTCMh": {
       "type": "multicolumn",
       "blocks": {
-        "column_TYXyPL": {
+        "column_HFUX4k": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/specchio-luminoso-supercurve-seletti.jpg",
+            "image": "shopify://shop_images/turbo-moka-made-in-italy-design-brevettato_9aeddead-f78a-4e62-b7ce-b0dad787eb1c.webp",
             "title": "",
-            "text": "<p><strong>SPECCHI</strong></p><p>Riflessi Inconfondibili</p>",
+            "text": "<p><strong>TURBO MOKA</strong><br/>Il Regalo che Cercavi</p>",
             "link_label": "",
-            "link": "shopify://collections/complementi-arredo-specchi-da-parete"
+            "link": "shopify://collections/turbo-moka"
+          }
+        },
+        "column_dJDEHi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/vanilla-fly-cuscino-blu.webp",
+            "title": "",
+            "text": "<p><strong>CUSCINI<br/></strong>Stile Eclettico </p>",
+            "link_label": "",
+            "link": "shopify://collections/vanilla-fly"
           }
         },
         "column_DL7dhm": {
@@ -325,26 +335,6 @@
             "link": "shopify://collections/lampade"
           }
         },
-        "column_dJDEHi": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/doiy-coral-ocean-dreams-portaspazzolini-vaso-portapenne-3.webp",
-            "title": "",
-            "text": "<p><strong>VASI</strong><br/>Classici Intramontabili</p>",
-            "link_label": "",
-            "link": "shopify://collections/complementi-arredo-vasi"
-          }
-        },
-        "column_HFUX4k": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/alzate-knindustrie.webp",
-            "title": "",
-            "text": "<p><strong>CENTROTAVOLA</strong><br/>Il Regalo che Cercavi</p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
-          }
-        },
         "column_aCBCHW": {
           "type": "column",
           "settings": {
@@ -353,6 +343,16 @@
             "text": "<p><strong>OLIERE</strong><br/>Eleganza in tavola</p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-set-olio-aceto-sale-pepe"
+          }
+        },
+        "column_TYXyPL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/specchio-luminoso-supercurve-seletti.jpg",
+            "title": "",
+            "text": "<p><strong>SPECCHI</strong></p><p>Riflessi Inconfondibili</p>",
+            "link_label": "",
+            "link": "shopify://collections/complementi-arredo-specchi-da-parete"
           }
         },
         "column_zEDq94": {
@@ -367,11 +367,11 @@
         }
       },
       "block_order": [
-        "column_TYXyPL",
-        "column_DL7dhm",
-        "column_dJDEHi",
         "column_HFUX4k",
+        "column_dJDEHi",
+        "column_DL7dhm",
         "column_aCBCHW",
+        "column_TYXyPL",
         "column_zEDq94"
       ],
       "custom_css": [
