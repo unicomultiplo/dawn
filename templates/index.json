@@ -12,24 +12,6 @@
     "slideshow_dUd4mz": {
       "type": "slideshow",
       "blocks": {
-        "slide_aEtLTa": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Matteo-Thun-rodriguez.png",
-            "heading": "KnIndustrie",
-            "heading_size": "h0",
-            "subheading": "<strong>Realizzata in cristallo al Magnesio, la linea Reggia deve la sua bellezza senza tempo alle sue linee nette e alle trasparenze.</strong>",
-            "button_label": "Scopri Reggia",
-            "link": "shopify://products/knindustrie-reggia-bicchieri",
-            "button_style_secondary": false,
-            "box_align": "top-left",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 10,
-            "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_KAnp8F": {
           "type": "slide",
           "settings": {
@@ -47,11 +29,29 @@
             "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_aEtLTa": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Matteo-Thun-rodriguez.png",
+            "heading": "KnIndustrie",
+            "heading_size": "h0",
+            "subheading": "<strong>Realizzata in cristallo al Magnesio, la linea Reggia deve la sua bellezza senza tempo alle sue linee nette e alle trasparenze.</strong>",
+            "button_label": "Scopri Reggia",
+            "link": "shopify://products/knindustrie-reggia-bicchieri",
+            "button_style_secondary": false,
+            "box_align": "top-left",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 10,
+            "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
-        "slide_aEtLTa",
-        "slide_KAnp8F"
+        "slide_KAnp8F",
+        "slide_aEtLTa"
       ],
       "settings": {
         "layout": "full_bleed",
