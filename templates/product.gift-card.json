@@ -70,6 +70,12 @@
             "show_gift_card_recipient": false
           }
         },
+        "custom_liquid_pPMtDK": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"gift-card-recipient-info\" style=\"margin-top: 2rem; padding: 1.5rem; border: 1px solid #e0e0e0; border-radius: 8px; background-color: #f9f9f9;\">\n  <h3 style=\"margin-top: 0; margin-bottom: 1.5rem; font-size: 1.1rem; font-weight: 600;\">Informazioni Destinatario</h3>\n  \n  <div style=\"margin-bottom: 1.5rem;\">\n    <label for=\"recipient-email\" style=\"display: block; margin-bottom: 0.5rem; font-weight: 500; font-size: 0.95rem;\">Email Destinatario <span style=\"color: #d32f2f;\">*</span></label>\n    <input type=\"email\" id=\"recipient-email\" name=\"properties[Email Destinatario]\" placeholder=\"esempio@email.com\" required style=\"width: 100%; padding: 0.75rem; border: 1px solid #ccc; border-radius: 4px; font-size: 1rem; box-sizing: border-box;\" />\n    <small style=\"display: block; margin-top: 0.25rem; color: #666; font-size: 0.85rem;\">Campo obbligatorio</small>\n  </div>\n  \n  <div style=\"margin-bottom: 1.5rem;\">\n    <label for=\"recipient-name\" style=\"display: block; margin-bottom: 0.5rem; font-weight: 500; font-size: 0.95rem;\">Nome Destinatario</label>\n    <input type=\"text\" id=\"recipient-name\" name=\"properties[Nome Destinatario]\" placeholder=\"Nome completo\" style=\"width: 100%; padding: 0.75rem; border: 1px solid #ccc; border-radius: 4px; font-size: 1rem; box-sizing: border-box;\" />\n    <small style=\"display: block; margin-top: 0.25rem; color: #666; font-size: 0.85rem;\">Facoltativo</small>\n  </div>\n  \n  <div style=\"margin-bottom: 0;\">\n    <label for=\"personal-message\" style=\"display: block; margin-bottom: 0.5rem; font-weight: 500; font-size: 0.95rem;\">Messaggio Personale</label>\n    <textarea id=\"personal-message\" name=\"properties[Messaggio Personale]\" placeholder=\"Scrivi un messaggio speciale...\" rows=\"4\" style=\"width: 100%; padding: 0.75rem; border: 1px solid #ccc; border-radius: 4px; font-size: 1rem; box-sizing: border-box; font-family: inherit; resize: vertical;\"></textarea>\n    <small style=\"display: block; margin-top: 0.25rem; color: #666; font-size: 0.85rem;\">Facoltativo</small>\n  </div>\n</div>\n\n<script>\n  document.addEventListener('DOMContentLoaded', function() {\n    const form = document.querySelector('form[action*=\"/cart/add\"]');\n    const emailInput = document.getElementById('recipient-email');\n    \n    if (form && emailInput) {\n      form.addEventListener('submit', function(e) {\n        if (!emailInput.value.trim()) {\n          e.preventDefault();\n          alert('Per favore, inserisci l\\'email del destinatario.');\n          emailInput.focus();\n        }\n      });\n    }\n  });\n</script>"
+          }
+        },
         "sku_C4aTJC": {
           "type": "sku",
           "disabled": true,
@@ -102,6 +108,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "custom_liquid_pPMtDK",
         "sku_C4aTJC",
         "description",
         "custom_liquid_zVHD4U"
