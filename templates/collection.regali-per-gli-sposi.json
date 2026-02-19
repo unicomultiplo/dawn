@@ -200,16 +200,6 @@
             "link": "shopify://products/oh-yeah-spoon-set-dolce-posate-vintage-placcate-in-argento"
           }
         },
-        "column_h6qL4f": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-nuvola-lamp-4.webp",
-            "title": "",
-            "text": "<p><strong>Seletti </strong><br/>Nuvola Lamp <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://products/seletti-nuvola-lamp"
-          }
-        },
         "column_Lw7xMN": {
           "type": "column",
           "settings": {
@@ -229,14 +219,24 @@
             "link_label": "",
             "link": "shopify://products/seletti-classics-on-acid-vaso-in-porcellana-floral-delft-h30-cm"
           }
+        },
+        "column_h6qL4f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-nuvola-lamp-4.webp",
+            "title": "",
+            "text": "<p><strong>Seletti </strong><br/>Nuvola Lamp <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-nuvola-lamp"
+          }
         }
       },
       "block_order": [
         "column_4aqcfn",
         "column_3P9tX6",
-        "column_h6qL4f",
         "column_Lw7xMN",
-        "column_7qTfqm"
+        "column_7qTfqm",
+        "column_h6qL4f"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -441,14 +441,14 @@
     "multicolumn_NBhDQA": {
       "type": "multicolumn",
       "blocks": {
-        "column_fYPem3": {
+        "column_3qth6P": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-storm-vassoio-stone-washed-6.webp",
+            "image": "shopify://shop_images/taglieri-scultura-materials-knindustrie.webp",
             "title": "",
-            "text": "<p><strong>KnIndustrie</strong> - Essenzialità e Innovazione</p>",
+            "text": "<p><strong>KnIndustrie</strong> - Essenzialità artigianale</p>",
             "link_label": "",
-            "link": "shopify://collections/knindustrie"
+            "link": "shopify://products/5095-knindustrie-materials-taglieri-scultura"
           }
         },
         "column_79zfLw": {
@@ -471,6 +471,16 @@
             "link": "shopify://collections/bitossi-home"
           }
         },
+        "column_RRWRxh": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-norma-tegame-low-casserole-28-cm-4.jpg",
+            "title": "",
+            "text": "<p><strong>KnIndustrie</strong> - Essenzialità e Innovazione</p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-norma"
+          }
+        },
         "column_DtRt7W": {
           "type": "column",
           "settings": {
@@ -481,23 +491,24 @@
             "link": "shopify://products/seletti-magna-graecia-capitello"
           }
         },
-        "column_RRWRxh": {
+        "column_fYPem3": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-norma-tegame-low-casserole-28-cm-4.jpg",
+            "image": "shopify://shop_images/knindustrie-storm-vassoio-stone-washed-6.webp",
             "title": "",
             "text": "<p><strong>KnIndustrie</strong> - Essenzialità e Innovazione</p>",
             "link_label": "",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-norma"
+            "link": "shopify://collections/knindustrie"
           }
         }
       },
       "block_order": [
-        "column_fYPem3",
+        "column_3qth6P",
         "column_79zfLw",
         "column_HLMBiV",
+        "column_RRWRxh",
         "column_DtRt7W",
-        "column_RRWRxh"
+        "column_fYPem3"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -507,7 +518,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "portrait",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "Scopri tutti i Nostri Brand ->",
