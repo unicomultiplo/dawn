@@ -64,6 +64,12 @@
             "show_gift_card_recipient": false
           }
         },
+        "custom_liquid_TUNkqL": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% if product.gift_card? %}\n<div class=\"gift-card-form product-form__input\" data-gift-card>\n\n  <label class=\"gift-checkbox\">\n    <input type=\"checkbox\" id=\"gift-toggle\">\n    Voglio inviare questo come regalo\n  </label>\n\n  <div id=\"gift-fields\" style=\"display:none;\">\n\n    <div class=\"field\">\n      <input\n        type=\"email\"\n        id=\"gift-email\"\n        placeholder=\"Email destinatario\"\n      >\n    </div>\n\n    <div class=\"field\">\n      <input\n        type=\"text\"\n        id=\"gift-name\"\n        placeholder=\"Nome destinatario (opzionale)\"\n      >\n    </div>\n\n    <div class=\"field\">\n      <textarea\n        id=\"gift-message\"\n        placeholder=\"Messaggio (opzionale)\"\n        maxlength=\"200\"\n      ></textarea>\n      <small class=\"gift-note\">Max 200 caratteri</small>\n    </div>\n\n    <div class=\"field\">\n      <input\n        type=\"date\"\n        id=\"gift-date\"\n      >\n    </div>\n\n  </div>\n</div>\n\n<script>\ndocument.addEventListener(\"DOMContentLoaded\", function () {\n  const toggle = document.getElementById(\"gift-toggle\");\n  const fields = document.getElementById(\"gift-fields\");\n\n  if (toggle && fields) {\n    toggle.addEventListener(\"change\", function () {\n      fields.style.display = this.checked ? \"block\" : \"none\";\n    });\n  }\n\n  // aggancio al vero product form\n  const productForm =\n    document.querySelector('form[action=\"/cart/add\"]') ||\n    document.querySelector('product-form form');\n\n  if (!productForm) return;\n\n  productForm.addEventListener(\"submit\", function () {\n    if (!toggle || !toggle.checked) return;\n\n    const props = {\n      \"Invia come regalo\": \"Sì\",\n      \"Email destinatario\": document.getElementById(\"gift-email\")?.value || \"\",\n      \"Nome destinatario\": document.getElementById(\"gift-name\")?.value || \"\",\n      \"Messaggio\": document.getElementById(\"gift-message\")?.value || \"\",\n      \"Data invio\": document.getElementById(\"gift-date\")?.value || \"\"\n    };\n\n    Object.entries(props).forEach(([key, value]) => {\n      if (!value) return;\n      const input = document.createElement(\"input\");\n      input.type = \"hidden\";\n      input.name = `properties[${key}]`;\n      input.value = value;\n      productForm.appendChild(input);\n    });\n  });\n});\n</script>\n{% endif %}"
+          }
+        },
         "custom_liquid_nm4Apd": {
           "type": "custom_liquid",
           "name": "Payments LIQUID",
@@ -159,6 +165,7 @@
         "quantity_selector",
         "variant_picker",
         "buy_buttons",
+        "custom_liquid_TUNkqL",
         "custom_liquid_nm4Apd",
         "google_youtube_automated_discounts_price_3DxFhU",
         "glo_color_swatch_variant_image_product_groups_detail_bwq8iX",
@@ -175,7 +182,10 @@
         ".qty-disclaimer {text-decoration: underline;}",
         ".klarna-disclaimer {border: 1px solid rgba(var(--color-foreground), 0.08); background-color: rgba(var(--color-foreground), 0.04); padding: 0.5em; border-radius: 0.3em; font-size: 0.85em;}",
         ".product-form__buttons {max-width: none !important;}",
-        ".feedaty_widget {padding: 0px !important;}"
+        ".feedaty_widget {padding: 0px !important;}",
+        ".gift-card-form{margin:28px 0 12px}",
+        ".gift-card-form .field{margin-bottom:14px}",
+        ".gift-card-form input,.gift-card-form textarea{padding:14px;border-radius:4px}"
       ],
       "settings": {
         "enable_sticky_info": false,
