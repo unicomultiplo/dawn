@@ -320,7 +320,7 @@
           "settings": {
             "image": "shopify://shop_images/vanilla-fly-cuscino-blu.webp",
             "title": "",
-            "text": "<p><strong>CUSCINI<br/></strong>Stile Eclettico </p>",
+            "text": "<p><strong>CUSCINI VANILLA FLY<br/></strong>Stile Eclettico </p>",
             "link_label": "",
             "link": "shopify://collections/vanilla-fly"
           }
@@ -338,11 +338,11 @@
         "column_aCBCHW": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-oliera-acetiera-3.jpg",
+            "image": "shopify://shop_images/joseph-joseph-tota-90l-laundry-basket-ecru-_5.jpg",
             "title": "",
-            "text": "<p><strong>OLIERE</strong><br/>Eleganza in tavola</p>",
+            "text": "<p><strong>PORTABIANCHERIA </strong><br/>Eleganza funzionale</p>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-set-olio-aceto-sale-pepe"
+            "link": "shopify://products/joseph-joseph-tota-trio-90l-portabiancheria-laundry-basket-ecru"
           }
         },
         "column_TYXyPL": {
@@ -354,16 +354,6 @@
             "link_label": "",
             "link": "shopify://collections/complementi-arredo-specchi-da-parete"
           }
-        },
-        "column_zEDq94": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-slab-tagliere-in-larice-e-acciaio-3.jpg",
-            "title": "",
-            "text": "<p><strong>TAGLIERI</strong></p><p>Essenza e Materiale</p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-taglieri"
-          }
         }
       },
       "block_order": [
@@ -371,8 +361,7 @@
         "column_dJDEHi",
         "column_DL7dhm",
         "column_aCBCHW",
-        "column_TYXyPL",
-        "column_zEDq94"
+        "column_TYXyPL"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -382,7 +371,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "portrait",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
@@ -624,9 +613,9 @@
         "column_fqk7i3": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/doiy-rainbow-reggilibri-4.webp",
+            "image": "shopify://shop_images/oh-yeah-spoon-e-vissero-felici-e-contenti-set-torta-8.webp",
             "title": "",
-            "text": "<p><strong>DOIY</strong><br/>Design arcobaleno<strong> →</strong></p>",
+            "text": "<p><strong>OH YEAH SPOON</strong><br/>Design Artigianale <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/doiy"
           }
@@ -654,9 +643,9 @@
         "column_jqKzxk": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/printwork-i-love-story-album-foto-3.webp",
+            "image": "shopify://shop_images/sottopiatti-hybrid-natale-2025-seletti.webp",
             "title": "",
-            "text": "<p><strong>Printworks</strong><br/>Design d'Amore <strong>→</strong></p>",
+            "text": "<p><strong>Tovagliette Seletti</strong><br/>Design d'Amore <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://products/printwork-i-love-story-album-foto"
           }
