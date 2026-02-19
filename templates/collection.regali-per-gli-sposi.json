@@ -325,16 +325,6 @@
             "link": "shopify://collections/vanilla-fly"
           }
         },
-        "column_DL7dhm": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Sparrow-Lamps-Seletti.jpg",
-            "title": "",
-            "text": "<p><strong>LAMPADE</strong></p><p>Dettagli che illuminano</p>",
-            "link_label": "",
-            "link": "shopify://collections/lampade"
-          }
-        },
         "column_aCBCHW": {
           "type": "column",
           "settings": {
@@ -354,14 +344,35 @@
             "link_label": "",
             "link": "shopify://collections/complementi-arredo-specchi-da-parete"
           }
+        },
+        "column_8b8LKj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/reisenthel-scatole-armadio_-_AI_16850822-1bff-45f4-8348-a61e2f039b4b.jpg",
+            "title": "",
+            "text": "<p><strong>SCATOLE DA ARMADIO</strong></p><p>Regalo Funzionale</p>",
+            "link_label": "",
+            "link": "shopify://collections/complementi-arredo-scatole-armadio"
+          }
+        },
+        "column_DL7dhm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Sparrow-Lamps-Seletti.jpg",
+            "title": "",
+            "text": "<p><strong>LAMPADE</strong></p><p>Dettagli che illuminano</p>",
+            "link_label": "",
+            "link": "shopify://collections/lampade"
+          }
         }
       },
       "block_order": [
         "column_HFUX4k",
         "column_dJDEHi",
-        "column_DL7dhm",
         "column_aCBCHW",
-        "column_TYXyPL"
+        "column_TYXyPL",
+        "column_8b8LKj",
+        "column_DL7dhm"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -371,7 +382,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "portrait",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
@@ -647,7 +658,7 @@
             "title": "",
             "text": "<p><strong>Tovagliette Seletti</strong><br/>Design d'Amore <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://products/printwork-i-love-story-album-foto"
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-tovaglie-e-tovagliette?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Bitossi+Home&filter.p.vendor=Seletti&sort_by=title-descending"
           }
         }
       },
