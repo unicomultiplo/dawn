@@ -84,11 +84,11 @@
           "settings": {
             "block_heading": "Si abbina con",
             "make_collapsible_row": true,
-            "icon": "price_tag",
+            "icon": "eye",
             "product_list_limit": 10,
-            "products_per_page": 4,
-            "pagination_style": "counter",
-            "image_ratio": "square",
+            "products_per_page": 3,
+            "pagination_style": "numbers",
+            "image_ratio": "portrait",
             "enable_quick_add": true
           }
         },
