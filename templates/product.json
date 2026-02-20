@@ -79,6 +79,19 @@
           "type": "shopify://apps/globo-color-swatch/blocks/product-groups-detail/4394f710-096c-4021-bbde-8ebb26057c11",
           "settings": {}
         },
+        "complementary_4zLgiK": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "Si abbina con",
+            "make_collapsible_row": true,
+            "icon": "price_tag",
+            "product_list_limit": 10,
+            "products_per_page": 4,
+            "pagination_style": "counter",
+            "image_ratio": "square",
+            "enable_quick_add": true
+          }
+        },
         "collapsible_tab_zVcJHM": {
           "type": "collapsible_tab",
           "disabled": true,
@@ -162,6 +175,7 @@
         "custom_liquid_nm4Apd",
         "google_youtube_automated_discounts_price_3DxFhU",
         "glo_color_swatch_variant_image_product_groups_detail_bwq8iX",
+        "complementary_4zLgiK",
         "collapsible_tab_zVcJHM",
         "custom_liquid_EJXmHi",
         "sku_C4aTJC",
