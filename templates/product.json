@@ -82,13 +82,13 @@
         "complementary_4zLgiK": {
           "type": "complementary",
           "settings": {
-            "block_heading": "Si abbina con",
+            "block_heading": "Completa con",
             "make_collapsible_row": true,
             "icon": "eye",
-            "product_list_limit": 10,
-            "products_per_page": 3,
+            "product_list_limit": 8,
+            "products_per_page": 4,
             "pagination_style": "numbers",
-            "image_ratio": "portrait",
+            "image_ratio": "square",
             "enable_quick_add": true
           }
         },
