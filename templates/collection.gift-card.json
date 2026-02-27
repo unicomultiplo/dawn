@@ -110,11 +110,10 @@
         "row_GLrVUe": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/idee-regalo-per-lei-originali_-compleanno.webp",
             "caption": "",
             "heading": "Buoni regalo per la casa: lascia scegliere tra oggetti utili e di design",
-            "text": "<p>Un buono regalo per la casa è un modo concreto e raffinato per migliorare gli spazi quotidiani con oggetti belli e funzionali. Non un semplice acquisto, ma la possibilità di scegliere qualcosa che verrà usato, vissuto e apprezzato nel tempo.</p><p>Con la Gift card U&M, chi la riceve può esplorare un mondo fatto di qualità, stile e attenzione ai dettagli.</p><h3>Buoni regalo per oggetti da cucina e accessori quotidiani</h3><p>Utensili, accessori e oggetti utili per la cucina possono trasformare i gesti di ogni giorno in un’esperienza più piacevole. Con un buono regalo U&M si può scegliere tra strumenti pratici, accessori funzionali e proposte curate nel design.</p>",
-            "button_label": "Idee Regalo Compleanno",
+            "text": "<p>Un buono regalo per la casa è un modo concreto e raffinato per migliorare gli spazi quotidiani con oggetti belli e funzionali. Non un semplice acquisto, ma la possibilità di scegliere qualcosa che verrà usato, vissuto e apprezzato nel tempo.</p><p>Con la Gift card U&M, chi la riceve può esplorare un mondo fatto di qualità, stile e attenzione ai dettagli.</p><h3>Buoni regalo per oggetti da cucina e accessori quotidiani</h3><p>Utensili, accessori e oggetti utili per la cucina possono trasformare i gesti di ogni giorno in un’esperienza più piacevole. Con un buono regalo U&M si può scegliere tra strumenti pratici, accessori funzionali e proposte curate nel design.</p><h3>Buoni regalo per complementi e dettagli per la casa</h3><p>Un complemento ben scelto cambia l’atmosfera di un ambiente. Con la gift card è possibile optare per oggetti decorativi, complementi d’arredo e dettagli che valorizzano soggiorno, cucina, ingresso o spazi outdoor.</p><p>Widget suggerito: mini-banner o card con link alle sottocategorie Arredo e Complementi (Decorazione, Complementi, Outdoor se coerente con l’assortimento).</p>",
+            "button_label": "Idee Regalo Casa e Cucina",
             "button_link": "shopify://collections/idee-regalo-per-casa-e-cucina"
           }
         },
@@ -148,6 +147,7 @@
         "row_9NQAgr",
         "row_Xn6UJn"
       ],
+      "disabled": true,
       "name": "t:sections.multirow.presets.name",
       "settings": {
         "image_height": "small",
@@ -206,6 +206,7 @@
         "featured_collection_DJ4QRb",
         "featured_collection_9Nm3Pb"
       ],
+      "disabled": true,
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
@@ -214,8 +215,8 @@
         "columns_desktop": 5,
         "color_scheme": "",
         "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
