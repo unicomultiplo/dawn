@@ -44,12 +44,12 @@
     "custom_liquid_XcBxQd": {
       "type": "custom-liquid",
       "custom_css": [
-        ".product-grid{gap:2rem;margin:2rem 0}",
-        ".card-wrapper .card{box-shadow:0 2px 12px rgba(0,0,0,.08);border-radius:12px;overflow:hidden;transition:all .3s ease}",
-        ".card-wrapper:hover .card{transform:translateY(-8px);box-shadow:0 12px 24px rgba(0,0,0,.15)}",
-        ".card__media img{border-radius:8px;transition:transform .3s}",
-        ".card-wrapper:hover .card__media img{transform:scale(1.05)}",
-        "@media(max-width:749px){.product-grid{gap:1rem;margin:1rem 0}}"
+        ".product-grid {gap: 2rem; margin: 2rem 0;}",
+        ".card-wrapper .card {box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08); border-radius: 12px; overflow: hidden; transition: all 0.3s ease;}",
+        ".card-wrapper:hover .card {transform: translateY(-8px); box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);}",
+        ".card__media img {border-radius: 8px; transition: transform 0.3s;}",
+        ".card-wrapper:hover .card__media img {transform: scale(1.05);}",
+        "@media (max-width: 749px) {.product-grid {gap: 1rem; margin: 1rem 0; }}"
       ],
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
