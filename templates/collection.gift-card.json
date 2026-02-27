@@ -150,6 +150,48 @@
         "padding_bottom": 36
       }
     },
+    "collection_list_Bc6QkC": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_FNVa3x": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_RKNaHX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_LGEh39": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_FNVa3x",
+        "featured_collection_RKNaHX",
+        "featured_collection_LGEh39"
+      ],
+      "disabled": true,
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_CY3JEF": {
       "type": "multicolumn",
       "blocks": {
@@ -180,6 +222,95 @@
       "settings": {
         "title": "Gift card per oggetti di design: un regalo libero, ma con stile",
         "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_9Uaxfe": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_RJTLyk": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_KBxiY7": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3>Gift card per oggetti particolari e idee regalo originali</h3><p>Con la gift card U&M si può scegliere tra idee regalo originali, oggetti non banali e proposte selezionate per stile e personalità. Un universo di articoli che uniscono funzionalità ed estetica.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_RJTLyk",
+        "column_KBxiY7"
+      ],
+      "disabled": true,
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_xNQcLi": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_pGwrXt": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7xMmAn": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3>Gift card per brand iconici del design per la casa<br/></h3><p>La gift card permette di accedere a brand iconici del design per la casa, sinonimo di qualità e stile riconoscibile. Marchi come Seletti, Bitossi Home, Ichendorf, Brabantia e altri nomi importanti del panorama internazionale garantiscono coerenza estetica e valore nel tempo.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_pGwrXt",
+        "column_7xMmAn"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
@@ -462,7 +593,6 @@
         "column_mPJdWC",
         "column_7Xkjqn"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -540,7 +670,10 @@
     "custom_liquid_XcBxQd",
     "multicolumn_jEaAiD",
     "multirow_c3DGJh",
+    "collection_list_Bc6QkC",
     "multicolumn_CY3JEF",
+    "multicolumn_9Uaxfe",
+    "multicolumn_xNQcLi",
     "multicolumn_rEpzeR",
     "multicolumn_NT6a7n",
     "multicolumn_8Dt9UY",
