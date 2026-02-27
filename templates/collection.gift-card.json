@@ -62,6 +62,15 @@
     "multicolumn_jEaAiD": {
       "type": "multicolumn",
       "blocks": {
+        "column_qUMMa4": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Un buono regalo per la casa è un modo concreto e raffinato per migliorare gli spazi quotidiani con oggetti belli e funzionali. Non un semplice acquisto, ma la possibilità di scegliere qualcosa che verrà usato, vissuto e apprezzato nel tempo.</p><p>Con la Gift card U&M, chi la riceve può esplorare un mondo fatto di qualità, stile e attenzione ai dettagli.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_gM9GAP": {
           "type": "column",
           "settings": {
@@ -70,25 +79,15 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_qUMMa4": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Anche con un <strong>budget contenuto</strong> si può fare una <strong>bella figura</strong> e celebrare momenti importanti con stile. Quando il budget è definito, la chiave è <strong>selezionare bene.</strong><br/>In questa pagina trovi <strong>idee regalo economiche</strong> pensate per risultare utili, curate e originali: piccoli oggetti di design, accessori per la casa, proposte lifestyle e “pensierini” intelligenti che non sembrano affatto low cost.<br/><strong>Ogni occasione merita il pensiero giusto</strong>, e con le nostre idee regalo economiche trovarlo diventa facile.</p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "column_gM9GAP",
-        "column_qUMMa4"
+        "column_qUMMa4",
+        "column_gM9GAP"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Regali economici sotto i 50 euro per occasioni speciali",
+        "title": "Buoni regalo per la casa: lascia scegliere tra oggetti utili e di design",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -110,44 +109,30 @@
         "row_GLrVUe": {
           "type": "row",
           "settings": {
+            "image": "shopify://shop_images/idee-regalo-casa-e-cucina.webp",
             "caption": "",
-            "heading": "Buoni regalo per la casa: lascia scegliere tra oggetti utili e di design",
-            "text": "<p>Un buono regalo per la casa è un modo concreto e raffinato per migliorare gli spazi quotidiani con oggetti belli e funzionali. Non un semplice acquisto, ma la possibilità di scegliere qualcosa che verrà usato, vissuto e apprezzato nel tempo.</p><p>Con la Gift card U&M, chi la riceve può esplorare un mondo fatto di qualità, stile e attenzione ai dettagli.</p><h3>Buoni regalo per oggetti da cucina e accessori quotidiani</h3><p>Utensili, accessori e oggetti utili per la cucina possono trasformare i gesti di ogni giorno in un’esperienza più piacevole. Con un buono regalo U&M si può scegliere tra strumenti pratici, accessori funzionali e proposte curate nel design.</p><h3>Buoni regalo per complementi e dettagli per la casa</h3><p>Un complemento ben scelto cambia l’atmosfera di un ambiente. Con la gift card è possibile optare per oggetti decorativi, complementi d’arredo e dettagli che valorizzano soggiorno, cucina, ingresso o spazi outdoor.</p><p>Widget suggerito: mini-banner o card con link alle sottocategorie Arredo e Complementi (Decorazione, Complementi, Outdoor se coerente con l’assortimento).</p>",
+            "heading": "",
+            "text": "<h3>Buoni regalo per oggetti da cucina e accessori quotidiani</h3><p>Utensili, accessori e oggetti utili per la cucina possono trasformare i gesti di ogni giorno in un’esperienza più piacevole. Con un buono regalo U&M si può scegliere tra strumenti pratici, accessori funzionali e proposte curate nel design.</p>",
             "button_label": "Idee Regalo Casa e Cucina",
             "button_link": "shopify://collections/idee-regalo-per-casa-e-cucina"
           }
         },
         "row_9NQAgr": {
           "type": "row",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/idee-regalo-diploma-e-laurea.webp",
+            "image": "shopify://shop_images/Seletti-super-forniture.webp",
             "caption": "",
             "heading": "",
-            "text": "<h3><strong>Idee regalo economiche per laurea, diploma o piccole celebrazioni</strong></h3><p>Anche una laurea o un diploma meritano un pensiero simbolico, che resti nel tempo.<br/><strong>Non servono grandi budget: conta il messaggio.</strong><br/>Un piccolo gesto può racchiudere un grande traguardo: la fine di un percorso, l’inizio di una nuova avventura.<br/><br/>Anche con meno di 50€, puoi scegliere un regalo che <strong>commuove, resta e racconta</strong>.</p><ul><li><a href=\"/collections/disegnetti-depressetti\" title=\"Disegnetti Depressetti\"><strong>Un biglietto scritto a mano</strong> </a>è il punto di partenza perfetto: autentico, personale, sempre apprezzato. Puoi abbinarlo a un piccolo oggetto simbolico, come una candela o un portachiavi portafortuna.<br/></li><li><a href=\"/collections/printworks\" title=\"Printworks\"><strong>Un album o un quaderno dei ricordi</strong></a> è un’idea dal valore affettivo altissimo: lasciale spazio per raccogliere foto, pensieri e ricordi di questo momento importante. Un dono semplice, ma che nel tempo diventa un vero tesoro.</li></ul>",
-            "button_label": "Idee Regalo Laurea e Diploma",
-            "button_link": "https://www.unicoemultiplo.com/collections/idee-regalo-laurea-e-diploma?filter.v.price.gte=&filter.v.price.lte=60&sort_by=created-descending"
-          }
-        },
-        "row_Xn6UJn": {
-          "type": "row",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/invito-a-cena-idee-regalo.webp",
-            "caption": "",
-            "heading": "",
-            "text": "<h3><strong>Soluzioni low cost per una cena, un invito o un gesto improvviso</strong></h3><p>Per un invito a cena o un incontro last minute, la regola è semplice: <strong>non arrivare mai a mani vuote,</strong> ma nemmeno con qualcosa di impegnativo.</p><ul><li>Porta una bottiglia di olio d’oliva pregiato accompagnata da una <a href=\"/collections/cucina-e-tavola-set-olio-aceto-sale-pepe\" title=\"Set Olio Aceto Sale Pepe\"><strong>oliera elegante</strong></a>: utile e scenografica.<br/></li><li>Un <a href=\"/collections/cucina-e-tavola-tazze-tazzine-mug\" title=\"Tazze, Tazzine e Mug\"><strong>set da tè o caffè</strong></a> in porcellana bianca è un’idea raffinata, perfetta per chi ama le coccole quotidiane.<br/></li><li>Una <a href=\"/collections/illuminazione-candelabri-e-candele\" title=\"Candelabri e Candele\"><strong>candela profumata</strong></a><strong> </strong>da tavolo crea sempre un bel momento e scalda l'atmosfera.</li></ul>",
-            "button_label": "Idee Regalo per la Casa",
-            "button_link": "https://www.unicoemultiplo.com/collections/idee-regalo-per-casa-e-cucina?filter.v.price.gte=&filter.v.price.lte=60&sort_by=manual"
+            "text": "<h3>Buoni regalo per complementi e dettagli per la casa</h3><p>Un complemento ben scelto cambia l’atmosfera di un ambiente. Con la gift card è possibile optare per oggetti decorativi, complementi d’arredo e dettagli che valorizzano soggiorno, cucina, ingresso o spazi outdoor.</p>",
+            "button_label": "Idee Regalo Arredo",
+            "button_link": "shopify://collections/complementi-arredo"
           }
         }
       },
       "block_order": [
         "row_GLrVUe",
-        "row_9NQAgr",
-        "row_Xn6UJn"
+        "row_9NQAgr"
       ],
-      "disabled": true,
       "name": "t:sections.multirow.presets.name",
       "settings": {
         "image_height": "small",
@@ -165,60 +150,48 @@
         "padding_bottom": 36
       }
     },
-    "collection_list_MpUjyJ": {
-      "type": "collection-list",
+    "multicolumn_CY3JEF": {
+      "type": "multicolumn",
       "blocks": {
-        "featured_collection_DXijbH": {
-          "type": "featured_collection",
+        "column_8HmMqd": {
+          "type": "column",
           "settings": {
-            "collection": "cucina-e-tavola-piatti"
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         },
-        "featured_collection_mtBqhY": {
-          "type": "featured_collection",
+        "column_pHDQ4g": {
+          "type": "column",
           "settings": {
-            "collection": "cucina-e-tavola-bicchieri-e-calici"
-          }
-        },
-        "featured_collection_VLQFct": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "cucina-e-tavola-posate"
-          }
-        },
-        "featured_collection_DJ4QRb": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "cucina-e-tavola-tovaglie-e-tovagliette"
-          }
-        },
-        "featured_collection_9Nm3Pb": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "cucina-e-tavola-taglieri"
+            "title": "",
+            "text": "<p>Quando non conosci gusti, colori o preferenze precise, la gift card diventa un’alternativa elegante. Lasci libertà, ma resti nel mondo del design e della qualità selezionata.</p><p>È la scelta ideale per chi ama oggetti originali e ricercati, senza rinunciare alla coerenza stilistica.</p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "featured_collection_DXijbH",
-        "featured_collection_mtBqhY",
-        "featured_collection_VLQFct",
-        "featured_collection_DJ4QRb",
-        "featured_collection_9Nm3Pb"
+        "column_8HmMqd",
+        "column_pHDQ4g"
       ],
-      "disabled": true,
-      "name": "t:sections.collection-list.presets.name",
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "",
+        "title": "Gift card per oggetti di design: un regalo libero, ma con stile",
         "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 5,
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multicolumn_rEpzeR": {
@@ -294,9 +267,6 @@
         "column_ApnEdY"
       ],
       "disabled": true,
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
       "settings": {
         "title": "",
         "heading_size": "h2",
@@ -312,51 +282,6 @@
         "swipe_on_mobile": true,
         "padding_top": 16,
         "padding_bottom": 16
-      }
-    },
-    "multicolumn_CY3JEF": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_8HmMqd": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_pHDQ4g": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Un buon regalo non si misura dal prezzo, ma dall’<strong>attenzione con cui viene scelto</strong>. Anche con meno di 50€, puoi trovare oggetti che raccontano una storia, fanno sorridere o diventano davvero utili nella vita quotidiana.<br/>Conoscere chi riceverà il regalo è la chiave: basta un dettaglio — un colore, un’abitudine, una passione — per fare centro. Che si tratti di un pensiero per lui, per lei o per chi ama la casa, ecco alcune idee concrete e “furbe” per <strong>regalare bene anche con un piccolo budget</strong>.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_8HmMqd",
-        "column_pHDQ4g"
-      ],
-      "disabled": true,
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Idee regalo economiche ma pensate per la persona giusta",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
       }
     },
     "multicolumn_NT6a7n": {
@@ -615,9 +540,8 @@
     "custom_liquid_XcBxQd",
     "multicolumn_jEaAiD",
     "multirow_c3DGJh",
-    "collection_list_MpUjyJ",
-    "multicolumn_rEpzeR",
     "multicolumn_CY3JEF",
+    "multicolumn_rEpzeR",
     "multicolumn_NT6a7n",
     "multicolumn_8Dt9UY",
     "multicolumn_wDET3k",
