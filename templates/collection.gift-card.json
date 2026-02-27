@@ -297,7 +297,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3>Gift card per brand iconici del design per la casa<br/></h3><p>La gift card permette di accedere a brand iconici del design per la casa, sinonimo di qualità e stile riconoscibile. Marchi come Seletti, Bitossi Home, Ichendorf, Brabantia e altri nomi importanti del panorama internazionale garantiscono coerenza estetica e valore nel tempo.</p>",
+            "text": "<h3>Gift card per brand iconici del design per la casa<br/></h3><p>La gift card permette di accedere a brand iconici del design per la casa, sinonimo di qualità e stile riconoscibile. Brand come Seletti, Bitossi Home, Brabantia e altri nomi importanti del panorama internazionale garantiscono coerenza estetica e valore nel tempo.</p>",
             "link_label": "",
             "link": ""
           }
@@ -524,36 +524,6 @@
     "multicolumn_wDET3k": {
       "type": "multicolumn",
       "blocks": {
-        "column_ggxnNz": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/13132_2.jpg",
-            "title": "",
-            "text": "<p><strong>MIHO</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/miho?filter.v.price.gte=&filter.v.price.lte=55&sort_by=manual"
-          }
-        },
-        "column_cQLFkJ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/bitossi-home-torchon-posate.png",
-            "title": "",
-            "text": "<p><strong>BITOSSI HOME</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/torchon-bitossi-home"
-          }
-        },
-        "column_CWEJdV": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/doiy-rainbow-reggilibri-4.webp",
-            "title": "",
-            "text": "<p><strong>DOIY</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/doiy"
-          }
-        },
         "column_Yafq3C": {
           "type": "column",
           "settings": {
@@ -574,6 +544,36 @@
             "link": "shopify://products/1558-knindustrie-not-ice-cubetti-pietra-ollare"
           }
         },
+        "column_cQLFkJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-home-torchon-posate.png",
+            "title": "",
+            "text": "<p><strong>BITOSSI HOME</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/torchon-bitossi-home"
+          }
+        },
+        "column_CWEJdV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/oh-yeah-spoon-i-love-you-cucchiaino-caffe-5_cad95c68-e66d-4c1b-ba6e-a1a332d2917a.webp",
+            "title": "",
+            "text": "<p><strong>OH YEAH SPOON!</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/oh-yeah-spoon-set-dolce-posate-vintage-placcate-in-argento"
+          }
+        },
+        "column_ggxnNz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/13132_2.jpg",
+            "title": "",
+            "text": "<p><strong>MIHO</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/miho?filter.v.price.gte=&filter.v.price.lte=55&sort_by=manual"
+          }
+        },
         "column_7Xkjqn": {
           "type": "column",
           "settings": {
@@ -586,11 +586,11 @@
         }
       },
       "block_order": [
-        "column_ggxnNz",
-        "column_cQLFkJ",
-        "column_CWEJdV",
         "column_Yafq3C",
         "column_mPJdWC",
+        "column_cQLFkJ",
+        "column_CWEJdV",
+        "column_ggxnNz",
         "column_7Xkjqn"
       ],
       "custom_css": [
