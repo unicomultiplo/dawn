@@ -110,16 +110,17 @@
         "row_GLrVUe": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/idee-regalo-compleanno-economiche.webp",
+            "image": "shopify://shop_images/idee-regalo-per-lei-originali_-compleanno.webp",
             "caption": "",
-            "heading": "",
-            "text": "<h3><strong>Un pensierino per il compleanno, semplice ma azzeccato</strong></h3><p>A volte basta un piccolo gesto per trasformare un compleanno in un momento speciale.<br/>Evita le solite “idee jolly” e scegli qualcosa che rispecchi <strong>interessi o abitudini</strong> della persona:</p><ul><li>Per l’amico o collega d’ufficio → una <a href=\"/collections/illuminazione-candelabri-e-candele\" title=\"Candelabri e Candele\"><strong>candela profumata</strong></a> dal design minimal o una <a href=\"/collections/cucina-e-tavola-tazze-tazzine-mug\" title=\"Tazze, Tazzine e Mug\"><strong>tazza in ceramica</strong></a>: oggetti che restano sulla scrivania e scaldano l’ambiente.<br/></li><li>Per chi ama organizzare aperitivi → un <a href=\"/collections/cucina-e-tavola-bicchieri-e-calici\" title=\"Bicchieri e Calici\"><strong>set di bicchieri colorati</strong>, <strong>calici per vino</strong></a> o un mini shaker per cocktail casalinghi.<br/></li><li>Per chi ha già tutto → un <a href=\"/collections/superstuff\" title=\"Superstuff\"><strong>oggetto ironico o Superstuff</strong></a>: inutile, forse, ma irresistibile.<br/></li></ul><p><a href=\"/collections/disegnetti-depressetti\" title=\"Disegnetti Depressetti\"><strong>Aggiungi un biglietto scritto a mano:</strong> </a>con pochi euro, moltiplichi il valore emotivo.</p>",
+            "heading": "Buoni regalo per la casa: lascia scegliere tra oggetti utili e di design",
+            "text": "<p>Un buono regalo per la casa è un modo concreto e raffinato per migliorare gli spazi quotidiani con oggetti belli e funzionali. Non un semplice acquisto, ma la possibilità di scegliere qualcosa che verrà usato, vissuto e apprezzato nel tempo.</p><p>Con la Gift card U&M, chi la riceve può esplorare un mondo fatto di qualità, stile e attenzione ai dettagli.</p><h3>Buoni regalo per oggetti da cucina e accessori quotidiani</h3><p>Utensili, accessori e oggetti utili per la cucina possono trasformare i gesti di ogni giorno in un’esperienza più piacevole. Con un buono regalo U&M si può scegliere tra strumenti pratici, accessori funzionali e proposte curate nel design.</p>",
             "button_label": "Idee Regalo Compleanno",
-            "button_link": "https://www.unicoemultiplo.com/collections/idee-regalo-compleanno?filter.v.price.gte=&filter.v.price.lte=60&sort_by=manual"
+            "button_link": "shopify://collections/idee-regalo-per-casa-e-cucina"
           }
         },
         "row_9NQAgr": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/idee-regalo-diploma-e-laurea.webp",
             "caption": "",
@@ -131,6 +132,7 @@
         },
         "row_Xn6UJn": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/invito-a-cena-idee-regalo.webp",
             "caption": "",
@@ -146,7 +148,6 @@
         "row_9NQAgr",
         "row_Xn6UJn"
       ],
-      "disabled": true,
       "name": "t:sections.multirow.presets.name",
       "settings": {
         "image_height": "small",
@@ -161,6 +162,61 @@
         "row_color_scheme": "",
         "mobile_content_alignment": "left",
         "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "collection_list_MpUjyJ": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_DXijbH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cucina-e-tavola-piatti"
+          }
+        },
+        "featured_collection_mtBqhY": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cucina-e-tavola-bicchieri-e-calici"
+          }
+        },
+        "featured_collection_VLQFct": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cucina-e-tavola-posate"
+          }
+        },
+        "featured_collection_DJ4QRb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cucina-e-tavola-tovaglie-e-tovagliette"
+          }
+        },
+        "featured_collection_9Nm3Pb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cucina-e-tavola-taglieri"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_DXijbH",
+        "featured_collection_mtBqhY",
+        "featured_collection_VLQFct",
+        "featured_collection_DJ4QRb",
+        "featured_collection_9Nm3Pb"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -558,6 +614,7 @@
     "custom_liquid_XcBxQd",
     "multicolumn_jEaAiD",
     "multirow_c3DGJh",
+    "collection_list_MpUjyJ",
     "multicolumn_rEpzeR",
     "multicolumn_CY3JEF",
     "multicolumn_NT6a7n",
