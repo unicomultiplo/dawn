@@ -96,57 +96,153 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 0
       }
     },
-    "multirow_c3DGJh": {
-      "type": "multirow",
+    "image_with_text_JRNxKc": {
+      "type": "image-with-text",
       "blocks": {
-        "row_GLrVUe": {
-          "type": "row",
+        "text_WDaN8W": {
+          "type": "text",
           "settings": {
-            "image": "shopify://shop_images/idee-regalo-casa-e-cucina.webp",
-            "caption": "",
-            "heading": "",
             "text": "<h3>Buoni regalo per oggetti da cucina e accessori quotidiani</h3><p>Utensili, accessori e oggetti utili per la cucina possono trasformare i gesti di ogni giorno in un’esperienza più piacevole. Con un buono regalo U&M si può scegliere tra strumenti pratici, accessori funzionali e proposte curate nel design.</p>",
-            "button_label": "Idee Regalo Casa e Cucina",
-            "button_link": "shopify://collections/idee-regalo-per-casa-e-cucina"
+            "text_style": "body"
           }
         },
-        "row_9NQAgr": {
-          "type": "row",
+        "button_BtYRic": {
+          "type": "button",
           "settings": {
-            "image": "shopify://shop_images/Seletti-super-forniture.webp",
-            "caption": "",
-            "heading": "",
-            "text": "<h3>Buoni regalo per complementi e dettagli per la casa</h3><p>Un complemento ben scelto cambia l’atmosfera di un ambiente. Con la gift card è possibile optare per oggetti decorativi, complementi d’arredo e dettagli che valorizzano soggiorno, cucina, ingresso o spazi outdoor.</p>",
-            "button_label": "Idee Regalo Arredo",
-            "button_link": "shopify://collections/complementi-arredo"
+            "button_label": "Idee Regalo Casa e Cucina",
+            "button_link": "shopify://collections/idee-regalo-per-casa-e-cucina",
+            "button_style_secondary": true
           }
         }
       },
       "block_order": [
-        "row_GLrVUe",
-        "row_9NQAgr"
+        "text_WDaN8W",
+        "button_BtYRic"
       ],
-      "name": "t:sections.multirow.presets.name",
+      "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image_height": "small",
+        "image": "shopify://shop_images/ideeregalo-cucina.jpg",
+        "height": "small",
         "desktop_image_width": "small",
-        "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
+        "layout": "image_first",
+        "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
+        "content_layout": "no-overlap",
         "section_color_scheme": "",
-        "row_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 0,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collection_list_XJR6Br": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_LaekWV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-catalogo-prodotti-coltelli-be-knife"
+          }
+        },
+        "featured_collection_3pj3LG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-catalogo-prodotti-kintsugi"
+          }
+        },
+        "featured_collection_YFwmnj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-smerlo-bitossi-home"
+          }
+        },
+        "featured_collection_X3nNBt": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_9mzyGz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_TLyzKg": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_LaekWV",
+        "featured_collection_3pj3LG",
+        "featured_collection_YFwmnj",
+        "featured_collection_X3nNBt",
+        "featured_collection_9mzyGz",
+        "featured_collection_TLyzKg"
+      ],
+      "disabled": true,
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_44trVy": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_nKx3aX": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Buoni regalo per complementi e dettagli per la casa</h3><p>Un complemento ben scelto cambia l’atmosfera di un ambiente. Con la gift card è possibile optare per oggetti decorativi, complementi d’arredo e dettagli che valorizzano soggiorno, cucina, ingresso o spazi outdoor.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_9qEKKq": {
+          "type": "button",
+          "settings": {
+            "button_label": "Idee Regalo Arredo",
+            "button_link": "shopify://collections/complementi-arredo",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "text_nKx3aX",
+        "button_9qEKKq"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Seletti-super-forniture.webp",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -669,7 +765,9 @@
     "product-grid",
     "custom_liquid_XcBxQd",
     "multicolumn_jEaAiD",
-    "multirow_c3DGJh",
+    "image_with_text_JRNxKc",
+    "collection_list_XJR6Br",
+    "image_with_text_44trVy",
     "collection_list_Bc6QkC",
     "multicolumn_CY3JEF",
     "multicolumn_9Uaxfe",
