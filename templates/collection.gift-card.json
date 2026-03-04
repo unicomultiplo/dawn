@@ -146,12 +146,6 @@
     "collection_list_XJR6Br": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_LaekWV": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "knindustrie-catalogo-prodotti-coltelli-be-knife"
-          }
-        },
         "featured_collection_3pj3LG": {
           "type": "featured_collection",
           "settings": {
@@ -161,37 +155,42 @@
         "featured_collection_YFwmnj": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bitossi-home-smerlo-bitossi-home"
+            "collection": "treccia-bitossi-home"
           }
         },
         "featured_collection_X3nNBt": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "burnt-carpets-seletti"
           }
         },
         "featured_collection_9mzyGz": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "knindustrie-catalogo-prodotti-abct"
           }
         },
         "featured_collection_TLyzKg": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "fabula-bitossi-home"
+          }
+        },
+        "featured_collection_LaekWV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-accessori-tavola"
           }
         }
       },
       "block_order": [
-        "featured_collection_LaekWV",
         "featured_collection_3pj3LG",
         "featured_collection_YFwmnj",
         "featured_collection_X3nNBt",
         "featured_collection_9mzyGz",
-        "featured_collection_TLyzKg"
+        "featured_collection_TLyzKg",
+        "featured_collection_LaekWV"
       ],
-      "disabled": true,
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
