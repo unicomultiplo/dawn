@@ -433,7 +433,7 @@
           "settings": {
             "button_label_1": "Oggetti di design",
             "button_link_1": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=80&filter.v.price.lte=160&filter.p.tag=Natale+2025&sort_by=manual",
-            "button_style_secondary_1": false,
+            "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -660,9 +660,9 @@
         "buttons_EH6hQK": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Oggetti di design",
+            "button_label_1": "Tovaglie, tovagliette e Sottopiatti",
             "button_link_1": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=80&filter.v.price.lte=160&filter.p.tag=Natale+2025&sort_by=manual",
-            "button_style_secondary_1": false,
+            "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -852,7 +852,7 @@
         "text_FVf9M9": {
           "type": "text",
           "settings": {
-            "text": "<h3><strong>Spendibile online e nel negozio di Civitanova Marche</strong></h3><p>Il buono è spendibile sia online su unicoemultiplo.com sia nel <a href=\"/policies/contact-information\" title=\"Contact Information\">negozio fisico di Civitanova Marche</a>. Un doppio canale di utilizzo che garantisce massima flessibilità.</p><h3><strong>Personalizzabile per qualsiasi occasione</strong></h3><p>Dopo l’acquisto, la grafica della gift card può essere personalizzata - <a href=\"/policies/contact-information\" title=\"Contact Information\"><strong>su richiesta</strong></a> - per adattarsi all’occasione o alla persona che la riceve. Un dettaglio che rende il regalo ancora più curato e in sintonia con il momento.</p><p>Compleanno, anniversario, regalo aziendale o semplice pensiero: la gift card U&M è una scelta versatile, elegante e adatta a ogni occasione.</p>",
+            "text": "<h3><strong>Spendibile online e nel negozio di Civitanova Marche</strong></h3><p>Il buono è spendibile sia online su unicoemultiplo.com sia nel <a href=\"/policies/contact-information\" title=\"Contact Information\"><strong>negozio fisico di Civitanova Marche</strong></a>. Un doppio canale di utilizzo che garantisce massima flessibilità.</p><h3><strong>Personalizzabile per qualsiasi occasione</strong></h3><p>Dopo l’acquisto, la grafica della gift card può essere personalizzata - <a href=\"/policies/contact-information\" title=\"Contact Information\"><strong>su richiesta</strong></a> - per adattarsi all’occasione o alla persona che la riceve. Un dettaglio che rende il regalo ancora più curato e in sintonia con il momento.</p><p>Compleanno, anniversario, regalo aziendale o semplice pensiero: la gift card U&M è una scelta versatile, elegante e adatta a ogni occasione.</p>",
             "text_style": "body"
           }
         },
@@ -861,7 +861,7 @@
           "settings": {
             "button_label": "Acquista ora!",
             "button_link": "shopify://products/gift-card-u-m-buono-regalo",
-            "button_style_secondary": false
+            "button_style_secondary": true
           }
         }
       },
