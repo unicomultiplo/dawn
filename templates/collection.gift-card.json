@@ -370,15 +370,6 @@
     "multicolumn_CY3JEF": {
       "type": "multicolumn",
       "blocks": {
-        "column_8HmMqd": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_pHDQ4g": {
           "type": "column",
           "settings": {
@@ -387,60 +378,25 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_8HmMqd": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "column_8HmMqd",
-        "column_pHDQ4g"
+        "column_pHDQ4g",
+        "column_8HmMqd"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Gift card per oggetti di design: un regalo libero, ma con stile",
         "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_9Uaxfe": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_RJTLyk": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_KBxiY7": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_RJTLyk",
-        "column_KBxiY7"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
@@ -548,112 +504,6 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_NT6a7n": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_fnCG6f": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/kikkerland-maps-idea-regalo-natale-ciRHFm3Kd-transformed_1.jpg",
-            "title": "",
-            "text": "<h3><strong>Regali economici per lui, pratici e senza fronzoli</strong></h3><p><br/>Per amici, fratelli, colleghi o partner: <strong>idee sotto i 50€</strong> che uniscono utilità e stile, oggetti <strong>concreti ma mai banali</strong><br/>Piccoli oggetti <strong>intelligenti e creativi</strong>: perfetti per occasioni leggere.<br/><br/><strong>IDEE PER LUI →</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lui?filter.v.price.gte=&filter.v.price.lte=55&sort_by=created-descending"
-          }
-        },
-        "column_fLrJCK": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/verygoods-candela-1.jpg",
-            "title": "",
-            "text": "<h3><strong>Regali low cost per lei, curati nei dettagli</strong></h3><p><br/>Piccole attenzioni che parlano di gusto e personalità.<br/>Tra <strong>candele, vasi  e tazze</strong> trovi pensieri sotto i 50€ che sanno sorprendere con eleganza.<br/>Perfetti per <strong>sorelle, amiche o colleghe</strong> che amano i dettagli.<br/><br/><strong>IDEE PER LEI →</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=55&sort_by=manual"
-          }
-        },
-        "column_L8VdTy": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/k7_beatrice_rossetti-knindustrie-idee-natale.webp",
-            "title": "",
-            "text": "<h3><strong>Idee regalo per chi ama la casa, anche con un piccolo budget</strong></h3><p><br/>Accessori e oggettistica funzionale per chi vuole <strong>rendere accogliente ogni spazio senza spendere troppo</strong>.<br/>Ogni idea è pensata per portare calore alla vita di tutti i giorni.<br/><br/><strong>IDEE PER  LA CASA →</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-per-casa-e-cucina?filter.v.price.gte=&filter.v.price.lte=55&sort_by=manual"
-          }
-        }
-      },
-      "block_order": [
-        "column_fnCG6f",
-        "column_fLrJCK",
-        "column_L8VdTy"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn_8Dt9UY": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_n79hQr": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_M6iqF3": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Anche con un budget sotto i 50€, puoi scegliere <strong>oggetti belli, utili e mai scontati</strong>. Il segreto è puntare su design, colore e idee intelligenti: piccoli gesti che fanno grande effetto. Per stupire senza spendere troppo, scegli <strong>pezzi dal carattere deciso.</strong></p><p><strong>Oggetti multiuso</strong> o con dettagli inaspettati, che uniscono estetica e praticità: Sono pensieri dal prezzo leggero, ma dallo <strong>stile che lascia il segno</strong>.<br/></p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_n79hQr",
-        "column_M6iqF3"
-      ],
-      "disabled": true,
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Regali economici che sorprendono per originalità e buon gusto",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "multicolumn_wDET3k": {
       "type": "multicolumn",
       "blocks": {
@@ -746,28 +596,72 @@
         "padding_bottom": 16
       }
     },
-    "image_banner_iRzdG6": {
-      "type": "image-banner",
+    "multicolumn_CNDpTG": {
+      "type": "multicolumn",
       "blocks": {
-        "heading_LDHWyc": {
-          "type": "heading",
+        "column_CWeL4q": {
+          "type": "column",
           "settings": {
-            "heading": "Ispirazioni e consigli per regali economici ma mai scontati",
-            "heading_size": "h1"
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         },
-        "text_UwXjBM": {
+        "column_9ttJLb": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>La tavola è il cuore della convivialità. Regalare un buono significa offrire la possibilità di scegliere piatti, bicchieri e accessori che accompagneranno cene, occasioni speciali e momenti quotidiani da condividere.</p><p>Un pensiero che entra nella casa e resta nel tempo.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_CWeL4q",
+        "column_9ttJLb"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Buoni da regalare per la tavola e i momenti da condividere",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_QDJVGB": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_f4WWrm": {
+          "type": "heading",
+          "settings": {
+            "heading": "Buoni regalo per chi ama ricevere e curare ogni dettaglio",
+            "heading_size": "h2"
+          }
+        },
+        "text_y3gXWE": {
           "type": "text",
           "settings": {
-            "text": "Fare bella figura non richiede grandi spese: basta <strong>scegliere con cuore e un pizzico di creatività</strong>. Questa sezione è pensata per chi vuole stupire con poco, trovando<strong> ispirazioni </strong>reali e facili da mettere in pratica. Anche un regalo economico può diventare <strong>speciale</strong>, se racconta qualcosa di personale. Ecco qualche spunto per scegliere con gusto!",
+            "text": "Per chi ama ospitare, apparecchiare con cura e creare atmosfera, la gift card U&M è un regalo perfetto. Permette di scegliere elementi che valorizzano ogni incontro, rendendo speciale anche la cena più semplice.",
             "text_style": "body"
           }
         },
-        "buttons_iKXmUK": {
+        "buttons_EH6hQK": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Guide e idee per sorprendere anche con un piccolo budget",
-            "button_link_1": "shopify://blogs/regalare-per-stupire",
+            "button_label_1": "Oggetti di design",
+            "button_link_1": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=80&filter.v.price.lte=160&filter.p.tag=Natale+2025&sort_by=manual",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -776,14 +670,13 @@
         }
       },
       "block_order": [
-        "heading_LDHWyc",
-        "text_UwXjBM",
-        "buttons_iKXmUK"
+        "heading_f4WWrm",
+        "text_y3gXWE",
+        "buttons_EH6hQK"
       ],
-      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/idee-regalo-per-lacoppia.webp",
+        "image": "shopify://shop_images/tovaglie-tovagliette_e_sottopiatti_1.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -794,6 +687,94 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "multicolumn_pFCJVN": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_9NDpRH": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h2>Buoni regalo per piatti, bicchieri e accessori per la tavola</h2><p>Chi riceve la gift card può scegliere tra oggetti utili e belli per la tavola di tutti i giorni o per le occasioni più importanti: piatti, bicchieri, posate, centrotavola e dettagli che fanno la differenza.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pt9MdY": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_9NDpRH",
+        "column_pt9MdY"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 16,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_8Dt9UY": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_n79hQr": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_M6iqF3": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Acquistando una gift card U&M, ricevi un buono digitale con un valore prestabilito. Il destinatario potrà utilizzarlo per scegliere liberamente tra prodotti per la casa, la cucina, la tavola e il design.È semplice, immediato e pensato per offrire massima libertà.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_n79hQr",
+        "column_M6iqF3"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Gift card U&M: come funziona e dove può essere utilizzata",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     }
   },
@@ -807,12 +788,12 @@
     "image_with_text_44trVy",
     "multicolumn_P4XxzW",
     "multicolumn_CY3JEF",
-    "multicolumn_9Uaxfe",
     "image_banner_CeyEwL",
     "multicolumn_xNQcLi",
-    "multicolumn_NT6a7n",
-    "multicolumn_8Dt9UY",
     "multicolumn_wDET3k",
-    "image_banner_iRzdG6"
+    "multicolumn_CNDpTG",
+    "image_banner_QDJVGB",
+    "multicolumn_pFCJVN",
+    "multicolumn_8Dt9UY"
   ]
 }
