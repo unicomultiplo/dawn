@@ -251,13 +251,13 @@
         "featured_collection_FNVa3x": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "superfurniture-seletti"
           }
         },
         "featured_collection_RKNaHX": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "seletti-seletti-magna-graecia"
           }
         },
         "featured_collection_LGEh39": {
@@ -272,7 +272,6 @@
         "featured_collection_RKNaHX",
         "featured_collection_LGEh39"
       ],
-      "disabled": true,
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
@@ -662,7 +661,7 @@
         "column_ggxnNz": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/13132_2.jpg",
+            "image": "shopify://shop_images/miho-mystic-violet-tappeto-taftati-7.webp",
             "title": "",
             "text": "<p><strong>MIHO</strong></p>",
             "link_label": "",
@@ -672,11 +671,11 @@
         "column_7Xkjqn": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/printwork-chess-play-scacchiera-da-tavolo-4.webp",
+            "image": "shopify://shop_images/vanilla-fly-LA86_LA290_LA291_LA303_CHAIR.webp",
             "title": "",
-            "text": "<p><strong>PRINTWORKS</strong></p>",
+            "text": "<p><strong>VANILLA FLY</strong></p>",
             "link_label": "",
-            "link": "shopify://products/printwork-chess-play-scacchiera-da-tavolo"
+            "link": "shopify://collections/vanilla-fly"
           }
         }
       },
