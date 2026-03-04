@@ -739,26 +739,47 @@
         "featured_collection_XrzxXd": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "knindustrie-catalogo-prodotti-bicchieri"
           }
         },
         "featured_collection_F9rAci": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "seletti-catalogo-prodotti-kintsugi"
           }
         },
         "featured_collection_CmTDwJ": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "knindustrie-catalogo-prodotti-posate"
+          }
+        },
+        "featured_collection_fxrUVm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "con-amore-bitossi-home"
+          }
+        },
+        "featured_collection_L38yqy": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-accessori-tavola"
+          }
+        },
+        "featured_collection_qhRe6h": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "fabula-bitossi-home"
           }
         }
       },
       "block_order": [
         "featured_collection_XrzxXd",
         "featured_collection_F9rAci",
-        "featured_collection_CmTDwJ"
+        "featured_collection_CmTDwJ",
+        "featured_collection_fxrUVm",
+        "featured_collection_L38yqy",
+        "featured_collection_qhRe6h"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
@@ -770,8 +791,8 @@
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 16
       }
     },
     "image_with_text_4rDEjT": {
