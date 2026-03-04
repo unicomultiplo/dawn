@@ -151,7 +151,7 @@
           "settings": {
             "image": "shopify://shop_images/Il-Frutto-della-Passione-Bitossi_Home-piatti-1.webp",
             "title": "",
-            "text": "<p><strong>Piatti da Tavola</strong></p>",
+            "text": "<p>Piatti da Tavola</p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-piatti"
           }
@@ -161,7 +161,7 @@
           "settings": {
             "image": "shopify://shop_images/knindustrie-lime-lane-tumbler.webp",
             "title": "",
-            "text": "<p><strong>Bicchieri e Calici</strong></p>",
+            "text": "<p>Bicchieri e Calici</p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
           }
@@ -171,7 +171,7 @@
           "settings": {
             "image": "shopify://shop_images/posate-bitossi-home.jpg",
             "title": "",
-            "text": "<p><strong>Posate</strong></p>",
+            "text": "<p>Posate</p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-posate"
           }
@@ -181,7 +181,7 @@
           "settings": {
             "image": "shopify://shop_images/Bitossi_Home_Smerlo_Se-_4-tovagliette-bordo-smerlato.jpg",
             "title": "",
-            "text": "<p><strong>Sottopiatti e Tovagliette</strong></p>",
+            "text": "<p>Sottopiatti e Tovagliette</p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-tovaglie-e-tovagliette"
           }
@@ -191,7 +191,7 @@
           "settings": {
             "image": "shopify://shop_images/knindustrie-slab-tagliere-in-larice-e-acciaio-3.jpg",
             "title": "",
-            "text": "<p><strong>Taglieri</strong></p>",
+            "text": "<p>Taglieri</p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-taglieri"
           }
@@ -201,7 +201,7 @@
           "settings": {
             "image": "shopify://shop_images/KnIndustrie-ABCT-coperchi-in-mogano-1.jpg",
             "title": "",
-            "text": "<p><strong>Pentole e Padelle</strong></p>",
+            "text": "<p>Pentole e Padelle</p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-pentole-padelle-tegami"
           }
@@ -283,7 +283,7 @@
           "settings": {
             "image": "shopify://shop_images/Pixel-Mirrors-Seletti.jpg",
             "title": "",
-            "text": "<p><strong>Specchi</strong></p>",
+            "text": "<p>Specchi</p>",
             "link_label": "",
             "link": "shopify://collections/complementi-arredo-specchi-da-parete"
           }
@@ -293,7 +293,7 @@
           "settings": {
             "image": "shopify://shop_images/Porta-Candela-Fiocco.webp",
             "title": "",
-            "text": "<p><strong>Candele e Candelabri</strong></p>",
+            "text": "<p>Candele e Candelabri</p>",
             "link_label": "",
             "link": "shopify://collections/illuminazione-candelabri-e-candele"
           }
@@ -303,7 +303,7 @@
           "settings": {
             "image": "shopify://shop_images/seletti-classics-on-acid-vaso-in-porcellana-h23-cm-2.webp",
             "title": "",
-            "text": "<p><strong>Vasi</strong></p>",
+            "text": "<p>Vasi</p>",
             "link_label": "",
             "link": "shopify://collections/complementi-arredo-vasi"
           }
@@ -313,7 +313,7 @@
           "settings": {
             "image": "shopify://shop_images/vanilla-fly-LA288_LA287_LA286_SOFA.webp",
             "title": "",
-            "text": "<p><strong>Tessili</strong></p>",
+            "text": "<p>Tessili</p>",
             "link_label": "",
             "link": "shopify://collections/complementi-arredo-tessili-casa"
           }
@@ -323,7 +323,7 @@
           "settings": {
             "image": "shopify://shop_images/bic-lamp-seletti-new2026_1.webp",
             "title": "",
-            "text": "<p><strong>Illuminazione</strong></p>",
+            "text": "<p>Illuminazione</p>",
             "link_label": "",
             "link": "shopify://collections/illuminazione"
           }
@@ -333,7 +333,7 @@
           "settings": {
             "image": "shopify://shop_images/albero-di-nenno.jpg",
             "title": "",
-            "text": "<p><strong>Quadri e Stampe</strong></p>",
+            "text": "<p>Quadri e Stampe</p>",
             "link_label": "",
             "link": "shopify://collections/complementi-arredo-quadri-e-stampe"
           }
@@ -512,7 +512,7 @@
           "settings": {
             "image": "shopify://shop_images/idee-regalo-seletti.webp",
             "title": "",
-            "text": "<p><strong>SELETTI</strong></p>",
+            "text": "<p>SELETTI</p>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/tappeti-e-tappetini-seletti?filter.v.price.gte=&filter.v.price.lte=60&sort_by=created-descending"
           }
@@ -522,7 +522,7 @@
           "settings": {
             "image": "shopify://shop_images/knIndustrie_Collezione_Storm__mood.webp",
             "title": "",
-            "text": "<p><strong>KNINDUSTRIE</strong></p>",
+            "text": "<p>KNINDUSTRIE</p>",
             "link_label": "",
             "link": "shopify://products/1558-knindustrie-not-ice-cubetti-pietra-ollare"
           }
@@ -532,7 +532,7 @@
           "settings": {
             "image": "shopify://shop_images/bitossi-home-catalogo-novita.webp",
             "title": "",
-            "text": "<p><strong>BITOSSI HOME</strong></p>",
+            "text": "<p>BITOSSI HOME</p>",
             "link_label": "",
             "link": "shopify://collections/torchon-bitossi-home"
           }
@@ -542,7 +542,7 @@
           "settings": {
             "image": "shopify://shop_images/oh-yeah-spoon-e-vissero-felici-e-contenti-set-torta-3.webp",
             "title": "",
-            "text": "<p><strong>OH YEAH SPOON!</strong></p>",
+            "text": "<p>OH YEAH SPOON!</p>",
             "link_label": "",
             "link": "shopify://products/oh-yeah-spoon-set-dolce-posate-vintage-placcate-in-argento"
           }
@@ -552,7 +552,7 @@
           "settings": {
             "image": "shopify://shop_images/miho-mystic-violet-tappeto-taftati-7.webp",
             "title": "",
-            "text": "<p><strong>MIHO</strong></p>",
+            "text": "<p>MIHO</p>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/miho?filter.v.price.gte=&filter.v.price.lte=55&sort_by=manual"
           }
@@ -562,7 +562,7 @@
           "settings": {
             "image": "shopify://shop_images/vanilla-fly-LA86_LA290_LA291_LA303_CHAIR.webp",
             "title": "",
-            "text": "<p><strong>VANILLA FLY</strong></p>",
+            "text": "<p>VANILLA FLY</p>",
             "link_label": "",
             "link": "shopify://collections/vanilla-fly"
           }
