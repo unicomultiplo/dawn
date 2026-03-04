@@ -245,45 +245,96 @@
         "padding_bottom": 36
       }
     },
-    "collection_list_Bc6QkC": {
-      "type": "collection-list",
+    "multicolumn_P4XxzW": {
+      "type": "multicolumn",
       "blocks": {
-        "featured_collection_FNVa3x": {
-          "type": "featured_collection",
+        "column_6Mh9qn": {
+          "type": "column",
           "settings": {
-            "collection": "superfurniture-seletti"
+            "image": "shopify://shop_images/seletti-supercurve-specchio-con-cornice-luminosa-h185-cm-4-5.webp",
+            "title": "",
+            "text": "<p><strong>Specchi</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/complementi-arredo-specchi-da-parete"
           }
         },
-        "featured_collection_RKNaHX": {
-          "type": "featured_collection",
+        "column_kapRPM": {
+          "type": "column",
           "settings": {
-            "collection": "seletti-seletti-magna-graecia"
+            "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-1.webp",
+            "title": "",
+            "text": "<p><strong>Candele e Candelabri</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/illuminazione-candelabri-e-candele"
           }
         },
-        "featured_collection_LGEh39": {
-          "type": "featured_collection",
+        "column_VgnnBw": {
+          "type": "column",
           "settings": {
-            "collection": ""
+            "image": "shopify://shop_images/Seletti-promo_Glass_Vases_1.webp",
+            "title": "",
+            "text": "<p><strong>Vasi</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/complementi-arredo-vasi"
+          }
+        },
+        "column_8MPM38": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/vanilla-fly-LA288_LA287_LA286_SOFA.webp",
+            "title": "",
+            "text": "<p><strong>Tessili</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/complementi-arredo-tessili-casa"
+          }
+        },
+        "column_wGgDCt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-bic-crystal-pen-mario-paroli_1.webp",
+            "title": "",
+            "text": "<p><strong>Illuminazione</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/illuminazione"
+          }
+        },
+        "column_nyAYYH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/albero-di-nenno.jpg",
+            "title": "",
+            "text": "<p><strong>Quadri e Stampe</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/complementi-arredo-quadri-e-stampe"
           }
         }
       },
       "block_order": [
-        "featured_collection_FNVa3x",
-        "featured_collection_RKNaHX",
-        "featured_collection_LGEh39"
+        "column_6Mh9qn",
+        "column_kapRPM",
+        "column_VgnnBw",
+        "column_8MPM38",
+        "column_wGgDCt",
+        "column_nyAYYH"
       ],
-      "name": "t:sections.collection-list.presets.name",
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
       "settings": {
         "title": "",
-        "heading_size": "h1",
+        "heading_size": "h2",
+        "image_width": "full",
         "image_ratio": "square",
         "columns_desktop": 6,
-        "color_scheme": "",
-        "show_view_all": false,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "multicolumn_CY3JEF": {
@@ -766,7 +817,7 @@
     "image_with_text_JRNxKc",
     "collection_list_XJR6Br",
     "image_with_text_44trVy",
-    "collection_list_Bc6QkC",
+    "multicolumn_P4XxzW",
     "multicolumn_CY3JEF",
     "multicolumn_9Uaxfe",
     "multicolumn_xNQcLi",
