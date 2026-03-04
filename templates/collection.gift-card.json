@@ -432,7 +432,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Oggetti di design",
-            "button_link_1": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=80&filter.v.price.lte=160&filter.p.tag=Natale+2025&sort_by=manual",
+            "button_link_1": "shopify://collections/complementi-arredo",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -661,7 +661,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Tovaglie, tovagliette e Sottopiatti",
-            "button_link_1": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=80&filter.v.price.lte=160&filter.p.tag=Natale+2025&sort_by=manual",
+            "button_link_1": "shopify://collections/cucina-e-tavola-tovaglie-e-tovagliette",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
