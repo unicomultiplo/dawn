@@ -36,12 +36,6 @@
             "custom_liquid": "<div>{{ product.metafields.custom.short_description | newline_to_br }}\n</div>"
           }
         },
-        "custom_liquid_W3qmEe": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div class=\"feedaty_widget\" data-ver=\"2021\" data-id=\"6791fcc64fd07\" data-type=\"product\" data-variant=\"Striscia-full-nologo\" data-lang=\"all\" data-gui=\"all\" data-sku=\"{{ product.id }}\" data-snippets=\"4\" style=\"padding-top: 15px; padding-bottom: 15px; margin-left: -5px;\"></div>"
-          }
-        },
         "qty_disclaimer_6icb8M": {
           "type": "qty_disclaimer",
           "settings": {}
@@ -97,7 +91,6 @@
         "variant_sku_BLBrqe",
         "price_XLK3Aj",
         "custom_liquid_tm8pXP",
-        "custom_liquid_W3qmEe",
         "qty_disclaimer_6icb8M",
         "variant_picker",
         "quantity_selector",
