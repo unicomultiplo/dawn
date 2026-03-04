@@ -205,6 +205,76 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_9MxbbV": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_YJL89E": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/KnIndustrie-ABCT-coperchi-in-mogano-1.jpg",
+            "title": "",
+            "text": "<p><strong>Pentole e Padelle</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-pentole-padelle-tegami"
+          }
+        },
+        "column_xXrcGz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-coltelli-beknife-buy-now.webp",
+            "title": "",
+            "text": "<p><strong>Coltelli</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-coltelli"
+          }
+        },
+        "column_YBneAX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-slab-tagliere-in-larice-e-acciaio-3.jpg",
+            "title": "",
+            "text": "<p><strong>Taglieri</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-taglieri"
+          }
+        },
+        "column_VHV3j3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-oliera-acetiera-3.jpg",
+            "title": "",
+            "text": "<p><strong>Set Condimenti</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
+          }
+        }
+      },
+      "block_order": [
+        "column_YJL89E",
+        "column_xXrcGz",
+        "column_YBneAX",
+        "column_VHV3j3"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "<strong>Idee Regalo Cucina tra Design e Utilità </strong>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
     "image_with_text_44trVy": {
       "type": "image-with-text",
       "blocks": {
@@ -251,7 +321,7 @@
         "column_6Mh9qn": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-supercurve-specchio-con-cornice-luminosa-h185-cm-4-5.webp",
+            "image": "shopify://shop_images/seletti-supercurve-specchio-con-cornice-luminosa-cm-85.5-x-77.5-2_0b41ff10-4001-4577-8348-b176e873c0a9.jpg",
             "title": "",
             "text": "<p><strong>Specchi</strong></p>",
             "link_label": "",
@@ -261,7 +331,7 @@
         "column_kapRPM": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-1.webp",
+            "image": "shopify://shop_images/Porta-Candela-Fiocco.webp",
             "title": "",
             "text": "<p><strong>Candele e Candelabri</strong></p>",
             "link_label": "",
@@ -271,7 +341,7 @@
         "column_VgnnBw": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-promo_Glass_Vases_1.webp",
+            "image": "shopify://shop_images/seletti-classics-on-acid-vaso-in-porcellana-h23-cm-2.webp",
             "title": "",
             "text": "<p><strong>Vasi</strong></p>",
             "link_label": "",
@@ -291,7 +361,7 @@
         "column_wGgDCt": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-bic-crystal-pen-mario-paroli_1.webp",
+            "image": "shopify://shop_images/bic-lamp-seletti-new2026_1.webp",
             "title": "",
             "text": "<p><strong>Illuminazione</strong></p>",
             "link_label": "",
@@ -407,7 +477,6 @@
         "column_RJTLyk",
         "column_KBxiY7"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -672,7 +741,7 @@
         "column_Yafq3C": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-toiletpaper-tappeto-bagno-shit-sagomato-2.jpg",
+            "image": "shopify://shop_images/idee-regalo-seletti.webp",
             "title": "",
             "text": "<p><strong>SELETTI</strong></p>",
             "link_label": "",
@@ -682,7 +751,7 @@
         "column_mPJdWC": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-not-ice-cubetti-pietra-ollare-4.jpg",
+            "image": "shopify://shop_images/knIndustrie_Collezione_Storm__mood.webp",
             "title": "",
             "text": "<p><strong>KNINDUSTRIE</strong></p>",
             "link_label": "",
@@ -692,7 +761,7 @@
         "column_cQLFkJ": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/bitossi-home-torchon-posate.png",
+            "image": "shopify://shop_images/bitossi-home-catalogo-novita.webp",
             "title": "",
             "text": "<p><strong>BITOSSI HOME</strong></p>",
             "link_label": "",
@@ -702,7 +771,7 @@
         "column_CWEJdV": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/oh-yeah-spoon-i-love-you-cucchiaino-caffe-5_cad95c68-e66d-4c1b-ba6e-a1a332d2917a.webp",
+            "image": "shopify://shop_images/oh-yeah-spoon-e-vissero-felici-e-contenti-set-torta-3.webp",
             "title": "",
             "text": "<p><strong>OH YEAH SPOON!</strong></p>",
             "link_label": "",
@@ -816,6 +885,7 @@
     "multicolumn_jEaAiD",
     "image_with_text_JRNxKc",
     "collection_list_XJR6Br",
+    "multicolumn_9MxbbV",
     "image_with_text_44trVy",
     "multicolumn_P4XxzW",
     "multicolumn_CY3JEF",
