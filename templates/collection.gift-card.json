@@ -795,20 +795,64 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_rQWgcM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_EMjbe4": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_9NWERr": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Acquistando una gift card U&M, ricevi un buono digitale con un valore prestabilito. Il destinatario potrà utilizzarlo per scegliere liberamente tra prodotti per la casa, la cucina, la tavola e il design. È semplice, immediato e pensato per offrire massima libertà.<br/></p><h3><strong><br/>Gift card digitale, perfetta anche come regalo last minute</strong></h3><p>La gift card è digitale, quindi perfetta anche come regalo last minute. Può essere inviata rapidamente e utilizzata senza attese, anche a distanza.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_EMjbe4",
+        "column_9NWERr"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Gift card U&M: come funziona e dove può essere utilizzata",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
     "image_with_text_4rDEjT": {
       "type": "image-with-text",
       "blocks": {
         "heading_WbWRg4": {
           "type": "heading",
           "settings": {
-            "heading": "Gift card U&M: come funziona e dove può essere utilizzata",
+            "heading": "",
             "heading_size": "h1"
           }
         },
         "text_FVf9M9": {
           "type": "text",
           "settings": {
-            "text": "<p>Acquistando una gift card U&M, ricevi un buono digitale con un valore prestabilito. Il destinatario potrà utilizzarlo per scegliere liberamente tra prodotti per la casa, la cucina, la tavola e il design. È semplice, immediato e pensato per offrire massima libertà.</p><h3><strong>Gift card digitale, perfetta anche come regalo last minute</strong></h3><p>La gift card è digitale, quindi perfetta anche come regalo last minute. Può essere inviata rapidamente e utilizzata senza attese, anche a distanza.</p><h3><strong>Spendibile online e nel negozio di Civitanova Marche</strong></h3><p>Il buono è spendibile sia online su unicoemultiplo.com sia nel <a href=\"/policies/contact-information\" title=\"Contact Information\">negozio fisico di Civitanova Marche</a>. Un doppio canale di utilizzo che garantisce massima flessibilità.</p><h3><strong>Personalizzabile per qualsiasi occasione</strong></h3><p>Dopo l’acquisto, la grafica della gift card può essere personalizzata per adattarsi all’occasione o alla persona che la riceve. Un dettaglio che rende il regalo ancora più curato e in sintonia con il momento.</p><p>Compleanno, anniversario, regalo aziendale o semplice pensiero: la gift card U&M è una scelta versatile, elegante e adatta a ogni occasione.</p>",
+            "text": "<h3><strong>Spendibile online e nel negozio di Civitanova Marche</strong></h3><p>Il buono è spendibile sia online su unicoemultiplo.com sia nel <a href=\"/policies/contact-information\" title=\"Contact Information\">negozio fisico di Civitanova Marche</a>. Un doppio canale di utilizzo che garantisce massima flessibilità.</p><h3><strong>Personalizzabile per qualsiasi occasione</strong></h3><p>Dopo l’acquisto, la grafica della gift card può essere personalizzata - <a href=\"/policies/contact-information\" title=\"Contact Information\"><strong>su richiesta</strong></a> - per adattarsi all’occasione o alla persona che la riceve. Un dettaglio che rende il regalo ancora più curato e in sintonia con il momento.</p><p>Compleanno, anniversario, regalo aziendale o semplice pensiero: la gift card U&M è una scelta versatile, elegante e adatta a ogni occasione.</p>",
             "text_style": "body"
           }
         },
@@ -828,9 +872,9 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Daniele_Martina.jpg",
-        "height": "adapt",
-        "desktop_image_width": "small",
+        "image": "shopify://shop_images/gift-card-da-stampare-unico-e-multiplo-personalizzabili.gif",
+        "height": "large",
+        "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -839,7 +883,7 @@
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     }
@@ -861,6 +905,7 @@
     "image_banner_QDJVGB",
     "multicolumn_pFCJVN",
     "collection_list_nCr3Gq",
+    "multicolumn_rQWgcM",
     "image_with_text_4rDEjT"
   ]
 }
