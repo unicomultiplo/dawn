@@ -872,8 +872,8 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/gift-card-da-stampare-unico-e-multiplo-personalizzabili.gif",
-        "height": "large",
+        "image": "shopify://shop_images/gift-card-da-stampare-unico-e-multiplo-personalizzabili-U_M.gif",
+        "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
