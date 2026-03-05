@@ -46,20 +46,27 @@
           "settings": {
             "collection": "idee-regalo"
           }
+        },
+        "featured_collection_N3nwBf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "buoni-regalo-e-gift-card-unico-multiplo"
+          }
         }
       },
       "block_order": [
         "featured_collection_dCLJTD",
         "featured_collection_PqQKW8",
         "featured_collection_XNtLxB",
-        "featured_collection_4nAkVX"
+        "featured_collection_4nAkVX",
+        "featured_collection_N3nwBf"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 4,
+        "columns_desktop": 5,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "2",
