@@ -78,7 +78,7 @@
         "columns_desktop": 6,
         "full_width": true,
         "show_view_all": true,
-        "view_all_style": "outline",
+        "view_all_style": "solid",
         "enable_desktop_slider": true,
         "color_scheme": "scheme-1",
         "image_ratio": "square",
@@ -174,6 +174,63 @@
       }
     },
     "separator_zH6Qpr": {
+      "type": "separator",
+      "settings": {
+        "line_thickness": 1
+      }
+    },
+    "multicolumn_wWHAJb": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_LdyctV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/gift-card-unico-e-multiplo-buono-regalo.gif",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/gift-card-u-m-buono-regalo"
+          }
+        },
+        "column_r7gR4e": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Non sai cosa regalare?</strong>",
+            "text": "<p>La <strong>Gift Card U&M</strong> è il modo più semplice ed elegante per regalare libertà di scelta tra oggetti per la casa, la tavola e il design.</p><p>È <strong>digitale</strong>, utilizzabile <strong>online su unicoemultiplo.com</strong> o nel negozio di <strong>Civitanova Marche</strong>.<br/><br/>Puoi scegliere di <strong>inviarla </strong>direttamente al <strong>destinatario </strong>via mail con un messaggio personalizzato.<br/><br/><strong>Perfetta </strong>per compleanni, anniversari, nuove case o per un<strong> pensiero speciale</strong>.<br/><br/><strong>Scopri di più -&gt;</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/buoni-regalo-e-gift-card-unico-multiplo"
+          }
+        }
+      },
+      "block_order": [
+        "column_LdyctV",
+        "column_r7gR4e"
+      ],
+      "custom_css": [
+        ".multicolumn-list__item:last-child .multicolumn-card {height: 100%; display: flex; flex-direction: column;}",
+        ".multicolumn-list__item:last-child .multicolumn-card__info {margin: auto 0;}",
+        ".multicolumn-list__item:last-child h3 {color: #000; font-weight: 600;}",
+        ".multicolumn-list__item:last-child a {color: #000; text-decoration: none;}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Gift Card U&M",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Regala una Gift Card!",
+        "button_link": "shopify://products/gift-card-u-m-buono-regalo",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "separator_ERKEr6": {
       "type": "separator",
       "settings": {
         "line_thickness": 1
@@ -467,7 +524,6 @@
     },
     "separator_HKUMQy": {
       "type": "separator",
-      "disabled": true,
       "settings": {
         "line_thickness": 1
       }
@@ -705,7 +761,6 @@
     },
     "separator_RxMG4P": {
       "type": "separator",
-      "disabled": true,
       "name": "Separator Line",
       "settings": {
         "line_thickness": 1
@@ -815,6 +870,8 @@
     "separator_UazLhC",
     "multicolumn_9rJCWz",
     "separator_zH6Qpr",
+    "multicolumn_wWHAJb",
+    "separator_ERKEr6",
     "rich_text_T6YApy",
     "collage_dNW4nf",
     "separator_jwXVJA",
