@@ -973,60 +973,69 @@
         "show_text_below": true
       }
     },
-    "multicolumn_XJgk3d": {
-      "type": "multicolumn",
+    "collapsible_content_gi3eni": {
+      "type": "collapsible-content",
       "blocks": {
-        "column_RnGM4c": {
-          "type": "column",
+        "collapsible_row_qtMxYD": {
+          "type": "collapsible_row",
           "settings": {
-            "image": "shopify://shop_images/SteamOne_Foldable-seealto-stiro-verticale.webp",
-            "title": "",
-            "text": "",
-            "link_label": "SeeAlto Stiro Verticale SteamOne",
-            "link": "shopify://products/steamone-karl-xl-steamer-stiratore-verticale"
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "",
+            "liquid_content": ""
           }
         },
-        "column_f4Mmcm": {
-          "type": "column",
+        "collapsible_row_VmNf4w": {
+          "type": "collapsible_row",
           "settings": {
-            "image": "shopify://shop_images/Steam-Clothes-Hanger-grucce-Grey-8710755231803-Brabantia.png",
-            "title": "",
-            "text": "",
-            "link_label": "Grucce per stiro verticale",
-            "link": "shopify://products/brabantia-grucce-per-stiratura-verticale"
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "",
+            "liquid_content": ""
           }
         },
-        "column_iNndq6": {
-          "type": "column",
+        "collapsible_row_J4Jq94": {
+          "type": "collapsible_row",
           "settings": {
-            "image": "shopify://shop_images/Steam_Clothes_Hanger_Pepper_Black_-_8710755231780_Brabantia.webp",
-            "title": "",
-            "text": "",
-            "link_label": "Brabantia Appendiabiti Linn",
-            "link": "shopify://products/brabantia-appendiabiti-linn"
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_iNhR9g": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "",
+            "liquid_content": ""
           }
         }
       },
       "block_order": [
-        "column_RnGM4c",
-        "column_f4Mmcm",
-        "column_iNndq6"
+        "collapsible_row_qtMxYD",
+        "collapsible_row_VmNf4w",
+        "collapsible_row_J4Jq94",
+        "collapsible_row_iNhR9g"
       ],
-      "name": "t:sections.multicolumn.presets.name",
+      "name": "t:sections.collapsible_content.presets.name",
       "settings": {
-        "title": "👉 I nostri accessori per lo stiro verticale sono ideali per ravvivare tessuti delicati senza l’ingombro del ferro da stiro",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
+        "caption": "FAQ",
+        "heading": "Domande frequenti su come organizzare l’armadio",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
         "color_scheme": "",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
+        "container_color_scheme": "",
+        "open_first_collapsible_row": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -1037,7 +1046,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Il <strong>cambio di stagione </strong>non deve essere una maratona faticosa. Con<strong> pochi prodotti</strong> scelti con cura e un minimo di <strong>organizzazione</strong>, puoi renderlo un’occasione per prenderti cura del tuo spazio, dei tuoi vestiti e (perché no?) anche di te stessa.</p><p>Noi di <em>Unico & Multiplo</em> ti aiutiamo a farlo con <strong>stile, funzionalità e un pizzico di bellezza.</strong></p>",
+            "text": "<p>Organizzare l’armadio non significa solo piegare meglio i vestiti. Significa creare uno spazio funzionale che renda la vita quotidiana più semplice.</p><p>Con un metodo chiaro, una selezione consapevole dei capi e gli accessori giusti è possibile trasformare anche l’armadio più pieno in uno spazio ordinato e facile da gestire.</p><p>Con<strong> pochi prodotti</strong> scelti con cura e un minimo di <strong>organizzazione</strong>, puoi renderlo un’occasione per prenderti cura del tuo spazio, dei tuoi vestiti e (perché no?) anche di te stessa.</p><p>Noi di <em>Unico & Multiplo</em> ti aiutiamo a farlo con <strong>stile, funzionalità e un pizzico di bellezza.</strong></p>",
             "link_label": "",
             "link": ""
           }
@@ -1106,7 +1115,7 @@
     "multicolumn_cdCAzB",
     "featured_collection_CJ7bQY",
     "image_banner_pwcbca",
-    "multicolumn_XJgk3d",
+    "collapsible_content_gi3eni",
     "multicolumn_tim6dE"
   ]
 }
