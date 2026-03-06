@@ -207,8 +207,8 @@
         "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "multicolumn_Anyn8K": {
@@ -293,7 +293,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Prima di tutto: non rimettere tutto dentro l’armadio in modo automatico. Questo è il momento perfetto per <strong>decidere cosa tenere, cosa donare e cosa buttare.</strong> Meno cose avrai da riporre,<strong> più facile</strong> sarà il lavoro e più spazio guadagnerai!<br/><br/>Il segreto per un cambio di stagione efficace non è solo spostare i vestiti, ma fare una selezione. Prima di iniziare, prenditi del tempo per <strong>esaminare ogni capo. </strong>Chiediti:<br/><br/></p><ol><li><em><strong>Ho indossato questo capo nell’ultimo anno?<br/><br/></strong></em></li><li><em><strong>Mi sta ancora bene? Mi fa sentire a mio agio?<br/><br/></strong></em></li><li><em><strong>È integro o ha bisogno di essere sistemato?</strong></em><br/><br/></li></ol><p>Se la risposta è no, donalo o mettilo da parte.</p>",
+            "text": "<p>Ogni anno la scena è la stessa: scatole aperte sul letto, pile di vestiti fuori stagione e la sensazione che l’armadio sia sempre più pieno.<br/><br/>Il motivo è semplice. Il cambio di stagione viene spesso affrontato come uno spostamento veloce dei vestiti, non come una vera riorganizzazione dello spazio.</p><p>Si tolgono i capi invernali per fare spazio a quelli estivi, oppure il contrario, ma senza un criterio preciso. Il risultato è un armadio più pieno, meno leggibile e difficile da mantenere ordinato.<br/><br/>Il cambio di stagione dovrebbe invece diventare l’occasione perfetta per riorganizzare l’armadio e creare un sistema più funzionale per i mesi successivi.</p>",
             "link_label": "",
             "link": ""
           }
@@ -305,7 +305,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "1. Come cominciare?",
+        "title": "Perché il cambio di stagione crea sempre disordine",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -372,14 +372,14 @@
         "heading_VzREwc": {
           "type": "heading",
           "settings": {
-            "heading": "2. Organizza l'armadio con intelligenza",
+            "heading": "Da dove iniziare: selezionare prima di riorganizzare",
             "heading_size": "h1"
           }
         },
         "text_XbVWhK": {
           "type": "text",
           "settings": {
-            "text": "<p>Una volta che hai <strong>selezionato </strong>i capi da tenere per la nuova stagione, è il momento di <strong>sistemarli</strong>.<br/><br/> Le <strong>grucce</strong> non sono tutte uguali! Usa grucce sottili e uniformi per recuperare spazio prezioso nel tuo armadio e creare un<strong> look ordinato e coerente</strong>.<br/><br/> Raggruppa i capi per <strong>tipologia </strong>(giacche, camicie, pantaloni) e poi per <strong>colore</strong>: renderai il tuo armadio non solo <strong>funzionale</strong>, ma anche visivamente appagante.</p>",
+            "text": "<p>Prima di rimettere tutto nell’armadio, fermati e fai una selezione. Meno capi hai da gestire, più semplice sarà mantenere ordine nel tempo.</p><p>Quando prendi in mano ogni capo chiediti:</p><ul><li>L’ho indossato nell’ultimo anno?</li><li>Mi sta ancora bene e mi fa sentire a mio agio?</li><li>È in buone condizioni?</li></ul><p>Se la risposta è no, probabilmente è il momento di lasciarlo andare. Donare o mettere da parte ciò che non utilizzi libera spazio e rende l’organizzazione molto più semplice.</p><p>Solo dopo questa selezione ha senso riorganizzare davvero l’armadio.</p>",
             "text_style": "body"
           }
         },
@@ -476,14 +476,14 @@
         "heading_YtcjtD": {
           "type": "heading",
           "settings": {
-            "heading": "3. Usa le scatole da armadio, tue alleate per un cambio di stagione perfetto!",
+            "heading": "Come organizzare un armadio piccolo senza rinunciare a nulla",
             "heading_size": "h1"
           }
         },
         "text_r8DwMF": {
           "type": "text",
           "settings": {
-            "text": "<p>Per un'organizzazione impeccabile, le <strong>scatole da armadio</strong> sono le tue migliori amiche. Non sono semplici contenitori, ma strumenti strategici per<strong> ottimizzare ogni angolo</strong> del tuo spazio. <br/><br/>Scegli  quelle con <strong>etichette </strong>per una <strong>catalogazione ordinata e immediata</strong>. Puoi usarle per maglie, t-shirt, accessori e persino per le tue <strong>scarpe</strong> estive.</p>",
+            "text": "<p>Uno spazio ridotto non è necessariamente un problema. Spesso è solo una questione di organizzazione.</p><p>In un armadio piccolo è fondamentale sfruttare lo spazio verticale. I ripiani alti e il fondo dell’armadio possono diventare preziosi se utilizzati con i contenitori giusti.</p><p>Le scatole impilabili permettono di separare maglieria, accessori e capi fuori stagione mantenendo lo spazio ordinato e visivamente più pulito.</p><p>Anche i cassetti diventano molto più funzionali con l’aiuto dei divisori, che permettono di separare cinture, foulard, calze e piccoli accessori.</p><p>Con un sistema semplice di contenitori e divisori è possibile organizzare l’armadio piccolo in modo molto più efficiente.</p>",
             "text_style": "body"
           }
         },
@@ -614,41 +614,6 @@
         "image": "shopify://shop_images/reisenthel-scatole-armadio_-_cambio-di-stagione.png",
         "image_ratio": "adapt",
         "desktop_layout": "image_first",
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
-    "rich_text_HrqFVy": {
-      "type": "rich-text",
-      "blocks": {
-        "text_4XQFD3": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>👉 </strong> <strong>Disponibili in diversi colori, rendono l’organizzazione più gradevole anche alla vista</strong></p>"
-          }
-        },
-        "button_KL9zeD": {
-          "type": "button",
-          "settings": {
-            "button_label": "[Vedi la collezione scatole armadio]",
-            "button_link": "shopify://collections/complementi-arredo-scatole-armadio",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "text_4XQFD3",
-        "button_KL9zeD"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
         "padding_top": 20,
         "padding_bottom": 20
       }
@@ -786,66 +751,8 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_WHMTNF": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_a8fkeT": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brabantia-385766-appendiabiti-a-muro.webp",
-            "title": "",
-            "text": "",
-            "link_label": "Stendino da parete Brabantia",
-            "link": "shopify://products/brabantia-appendiabiti-linn"
-          }
-        },
-        "column_ca8NVN": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/joseph-joseph-stendibiancheria.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Modelli pieghevoli o estensibili",
-            "link": ""
-          }
-        },
-        "column_3EgEtM": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brabantia-t-model-stendibiancheria-con-ali-regolabili-6.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Materiali resistenti all'umidità",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_a8fkeT",
-        "column_ca8NVN",
-        "column_3EgEtM"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
     "video_nVJMEL": {
       "type": "video",
-      "custom_css": [],
       "name": "t:sections.video.presets.name",
       "settings": {
         "heading": "<a href=\"/products/joseph-joseph-eclipse-stendibiancheria-3-ripiani-con-schermo-ecru\" title=\"Joseph Joseph Eclipse Stendibiancheria 3 ripiani con schermo Ecrù\">👉 Scopri Joseph Joseph Eclipse Stendibiancheria 3 ripiani con schermo Ecrù</a>",
@@ -1190,12 +1097,10 @@
     "multicolumn_qjWjLF",
     "image_with_text_AxkmYJ",
     "collapsible_content_dqtXmG",
-    "rich_text_HrqFVy",
     "featured_collection_q8jCYY",
     "rich_text_aAFBXa",
     "multicolumn_6t3PtW",
     "image_with_text_PWDdLC",
-    "multicolumn_WHMTNF",
     "video_nVJMEL",
     "image_with_text_RUebzm",
     "multicolumn_cdCAzB",
