@@ -112,9 +112,9 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li><a href=\"#shopify-section-template--25700835852553__multicolumn_BtLArj\">Perché il cambio di stagione crea sempre disordine ➝</a></li></ul>",
+            "text": "<ul><li>Perché il cambio di stagione crea sempre disordine ➝</li></ul>",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/pages/il-grande-classico-come-fare-il-cambio-di-stagione-e-non-impazzire?#shopify-section-template--25700835852553__multicolumn_BtLArj"
+            "link": "#shopify-section-template--25700835852553__multicolumn_BtLArj"
           }
         },
         "column_bN6gr3": {
@@ -204,7 +204,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "shopify://collections/piatti-in-bone-china",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 12,
