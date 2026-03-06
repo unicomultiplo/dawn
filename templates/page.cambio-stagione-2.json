@@ -924,64 +924,15 @@
         "padding_bottom": 36
       }
     },
-    "image_banner_pwcbca": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_idrxLD": {
-          "type": "heading",
-          "settings": {
-            "heading": "6. Rinfresca i tessuti prima di riporli",
-            "heading_size": "h1"
-          }
-        },
-        "text_EpaPBm": {
-          "type": "text",
-          "settings": {
-            "text": "E’ importante che i capi da riporre siano ben<strong> puliti e freschi </strong>prima di finire in una scatola. Anche un rapido colpo di <strong>stiro verticale </strong>o di vaporizzatore portatile può <strong>fare la differenza</strong>.",
-            "text_style": "body"
-          }
-        },
-        "buttons_VWxDXC": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Stiro Verticale",
-            "button_link_1": "shopify://products/steamone-karl-xl-steamer-stiratore-verticale",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_idrxLD",
-        "text_EpaPBm",
-        "buttons_VWxDXC"
-      ],
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/cambio-armadio-stagione-decluttering.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "collapsible_content_gi3eni": {
       "type": "collapsible-content",
       "blocks": {
         "collapsible_row_qtMxYD": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Come organizzare un armadio molto pieno?",
+            "icon": "lightning_bolt",
+            "row_content": "<p>Quando l’armadio è molto pieno la prima cosa da fare è selezionare i capi e dividerli per categoria. Utilizzare contenitori, scatole e divisori permette di separare maglieria, accessori e capi fuori stagione mantenendo lo spazio più ordinato e facile da gestire.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -989,9 +940,9 @@
         "collapsible_row_VmNf4w": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Come organizzare un armadio piccolo senza perdere spazio?",
+            "icon": "lightning_bolt",
+            "row_content": "<p>In un armadio piccolo è fondamentale sfruttare lo spazio verticale. Contenitori impilabili, organizer sospesi e divisori per cassetti permettono di creare più livelli e mantenere ogni capo facilmente accessibile.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -999,9 +950,9 @@
         "collapsible_row_J4Jq94": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Ogni quanto bisogna fare il cambio di stagione?",
+            "icon": "lightning_bolt",
+            "row_content": "<p>Il cambio di stagione si fa generalmente due volte l’anno, all’inizio della primavera e dell’autunno. Questo momento è ideale per selezionare i capi, liberare spazio e riorganizzare l’armadio in modo più funzionale.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -1009,9 +960,29 @@
         "collapsible_row_iNhR9g": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Meglio scatole o divisori per organizzare l’armadio?",
+            "icon": "lightning_bolt",
+            "row_content": "<p>Le scatole sono ideali per conservare capi fuori stagione e maglieria, mentre i divisori sono perfetti per organizzare accessori e piccoli indumenti nei cassetti. Utilizzarli insieme permette di mantenere l’armadio più ordinato nel tempo.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_gJYXrx": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Come organizzare i cassetti dell’armadio?",
+            "icon": "lightning_bolt",
+            "row_content": "<p>Per organizzare i cassetti dell’armadio è utile utilizzare divisori o piccoli contenitori che separano calze, cinture, foulard e accessori. In questo modo ogni elemento ha il suo spazio e il cassetto rimane ordinato più a lungo.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_fmPbPi": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Come mantenere l’armadio ordinato nel tempo?",
+            "icon": "lightning_bolt",
+            "row_content": "<p>Per mantenere l’armadio ordinato è importante creare un sistema semplice e ripetibile. Utilizzare contenitori coordinati, divisori per cassetti e organizzare i capi per categoria permette di mantenere ordine più a lungo e di trovare subito ciò che serve.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -1021,7 +992,9 @@
         "collapsible_row_qtMxYD",
         "collapsible_row_VmNf4w",
         "collapsible_row_J4Jq94",
-        "collapsible_row_iNhR9g"
+        "collapsible_row_iNhR9g",
+        "collapsible_row_gJYXrx",
+        "collapsible_row_fmPbPi"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
@@ -1033,6 +1006,7 @@
         "color_scheme": "",
         "container_color_scheme": "",
         "open_first_collapsible_row": true,
+        "image": "shopify://shop_images/cambio-armadio-stagione-decluttering.webp",
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "padding_top": 36,
@@ -1047,15 +1021,6 @@
           "settings": {
             "title": "",
             "text": "<p>Organizzare l’armadio non significa solo piegare meglio i vestiti. Significa creare uno spazio funzionale che renda la vita quotidiana più semplice.</p><p>Con un metodo chiaro, una selezione consapevole dei capi e gli accessori giusti è possibile trasformare anche l’armadio più pieno in uno spazio ordinato e facile da gestire.</p><p>Con<strong> pochi prodotti</strong> scelti con cura e un minimo di <strong>organizzazione</strong>, puoi renderlo un’occasione per prenderti cura del tuo spazio, dei tuoi vestiti e (perché no?) anche di te stessa.</p><p>Noi di <em>Unico & Multiplo</em> ti aiutiamo a farlo con <strong>stile, funzionalità e un pizzico di bellezza.</strong></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_MDH6iz": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
             "link_label": "🧰 Kit perfetto per il cambio stagione?",
             "link": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual"
           }
@@ -1072,7 +1037,6 @@
       },
       "block_order": [
         "column_cXMp4H",
-        "column_MDH6iz",
         "column_GeCJP4"
       ],
       "settings": {
@@ -1082,14 +1046,14 @@
         "image_ratio": "adapt",
         "columns_desktop": 1,
         "column_alignment": "left",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     }
   },
@@ -1114,7 +1078,6 @@
     "image_with_text_RUebzm",
     "multicolumn_cdCAzB",
     "featured_collection_CJ7bQY",
-    "image_banner_pwcbca",
     "collapsible_content_gi3eni",
     "multicolumn_tim6dE"
   ]
