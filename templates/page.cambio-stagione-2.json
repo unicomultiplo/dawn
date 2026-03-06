@@ -78,7 +78,7 @@
           "type": "column",
           "settings": {
             "title": "<strong>Come organizzare l’armadio in modo efficace?</strong>",
-            "text": "<p>Per organizzare <strong>l’armadio </strong>in modo <strong>funzionale </strong>bastano alcuni passaggi chiave:</p><ol><li><strong>selezionare </strong>i capi che utilizzi davvero</li><li><strong>dividere </strong>vestiti e accessori per categoria</li><li><strong>sfruttare lo spazio </strong>verticale con contenitori e organizer</li><li><strong>separare </strong>i capi per stagione</li><li><strong>utilizzare divisori </strong>per mantenere ordine nei cassetti</li></ol><p>Seguendo questo metodo l’armadio diventa più <strong>ordinato </strong>e molto più <strong>semplice </strong>da mantenere nel tempo.</p>",
+            "text": "<p>Per organizzare <strong>l’armadio </strong>in modo <strong>funzionale </strong>bastano alcuni passaggi chiave:</p><ol><li><strong>Selezionare </strong>i capi che utilizzi davvero</li><li><strong>Dividere </strong>vestiti e accessori per categoria</li><li><strong>Sfruttare lo spazio </strong>verticale con contenitori e organizer</li><li><strong>Separare </strong>i capi per stagione</li><li><strong>Utilizzare divisori </strong>per mantenere ordine nei cassetti</li></ol><p>Seguendo questo metodo l’armadio diventa più <strong>ordinato </strong>e molto più <strong>semplice </strong>da mantenere nel tempo.</p>",
             "link_label": "",
             "link": ""
           }
@@ -757,9 +757,9 @@
         "buttons_bVr7JG": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Scatole Armadio",
-            "button_link_1": "shopify://collections/complementi-arredo-scatole-armadio",
-            "button_style_secondary_1": false,
+            "button_label_1": "Kit Cambio Stagione ➜",
+            "button_link_1": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual",
+            "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
