@@ -141,7 +141,7 @@
             "title": "",
             "text": "<ul><li>Come organizzare una cabina armadio in modo elegante e funzionale ➝</li></ul>",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/pages/il-grande-classico-come-fare-il-cambio-di-stagione-e-non-impazzire?#shopify-section-template--25700835852553__image_with_text_PWDdLC"
+            "link": "#shopify-section-template--25700835852553__multirow_nHmjAQ"
           }
         },
         "column_bnrgcr": {
@@ -150,7 +150,7 @@
             "title": "",
             "text": "<ul><li>Come dividere l’armadio per stagione ➝</li></ul>",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/pages/il-grande-classico-come-fare-il-cambio-di-stagione-e-non-impazzire?#shopify-section-template--25700835852553__image_with_text_RUebzm"
+            "link": "#shopify-section-template--25700835852553__multirow_nHmjAQ"
           }
         },
         "column_48EAhi": {
@@ -669,23 +669,13 @@
             "button_label": "Etichetta pulsante",
             "button_link": ""
           }
-        },
-        "row_zaEDDd": {
-          "type": "row",
-          "settings": {
-            "caption": "",
-            "heading": "Gli accessori indispensabili per un armadio davvero ordinato",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "row_ji6iCF",
-        "row_E7FE39",
-        "row_zaEDDd"
+        "row_E7FE39"
       ],
+      "disabled": true,
       "name": "t:sections.multirow.presets.name",
       "settings": {
         "image_height": "medium",
