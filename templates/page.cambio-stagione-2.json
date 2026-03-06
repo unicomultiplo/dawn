@@ -758,7 +758,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><br/>Qui serve una soluzione altrettanto intelligente. Il nostro consiglio è <strong>Shoecase di Joseph Joseph</strong>: una <strong>scatola modulare per scarpe</strong> con apertura frontale ventilata e design impilabile, perfetta per proteggere sneakers, stivaletti o décolleté anche fuori stagione<br/><br/></p>",
+            "text": "<h3><strong>E per le scarpe? </strong>Shoecase di Joseph Joseph ti cambia la vita: impilabile, ventilato, elegante.<br/></h3><p><br/>Qui serve una soluzione altrettanto intelligente. Il nostro consiglio è <strong>Shoecase di Joseph Joseph</strong>: una <strong>scatola modulare per scarpe</strong> con apertura frontale ventilata e design impilabile, perfetta per proteggere sneakers, stivaletti o décolleté anche fuori stagione<br/></p>",
             "link_label": "Shoecase di Joseph Joseph",
             "link": "shopify://products/joseph-joseph-shoecase-premium-shoe-storage-box"
           }
@@ -780,7 +780,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>E per le scarpe? </strong>Shoecase di Joseph Joseph ti cambia la vita: impilabile, ventilato, elegante.",
+        "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -802,14 +802,14 @@
         "heading_qCEpLi": {
           "type": "heading",
           "settings": {
-            "heading": "4. Uno stendino salvaspazio fa la differenza",
+            "heading": "",
             "heading_size": "h1"
           }
         },
         "text_cdJtez": {
           "type": "text",
           "settings": {
-            "text": "<p>Durante il <strong>cambio stagione </strong>si lavano tanti capi. Uno <strong>stendino </strong>solido, funzionale e salvaspazio è essenziale, soprattutto se non hai molto spazio in casa. Considera:</p><ul><li><em>stendini da parete<br/></em></li><li><em>modelli pieghevoli o estensibili<br/></em></li><li><em>materiali resistenti all'umidità.</em></li></ul><p>Perfetti anche per <strong>piccoli appartamenti</strong>.</p>",
+            "text": "<h3>Uno stendino salvaspazio fa la differenza<br/></h3><p>Durante il <strong>cambio stagione </strong>si lavano tanti capi. Uno <strong>stendino </strong>solido, funzionale e salvaspazio è essenziale, soprattutto se non hai molto spazio in casa. Considera:</p><ul><li><em>stendini da parete<br/></em></li><li><em>modelli pieghevoli o estensibili<br/></em></li><li><em>materiali resistenti all'umidità.</em></li></ul><p>Perfetti anche per <strong>piccoli appartamenti</strong>.</p>",
             "text_style": "body"
           }
         },
@@ -867,14 +867,14 @@
         "heading_jEyPcL": {
           "type": "heading",
           "settings": {
-            "heading": "5. Il dettaglio che fa la differenza? Una buona lavanderia da casa",
+            "heading": "",
             "heading_size": "h1"
           }
         },
         "text_8PrNhr": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Completa il kit con una tavola da stiro </strong>ben progettata: ti aiuta non solo durante il cambio stagione ma in ogni momento dell’anno. Se poi la abbini a una sacca portabiancheria e a dei contenitori profumati... hai appena trasformato un noioso dovere in un piccolo rituale di <strong>benessere domestico</strong>.</p>",
+            "text": "<h3>Il dettaglio che fa la differenza? Una buona lavanderia da casa</h3><p><strong>Completa il kit con una tavola da stiro </strong>ben progettata: ti aiuta non solo durante il cambio stagione ma in ogni momento dell’anno. Se poi la abbini a una sacca portabiancheria e a dei contenitori profumati... hai appena trasformato un noioso dovere in un piccolo rituale di <strong>benessere domestico</strong>.</p>",
             "text_style": "body"
           }
         },
@@ -1139,10 +1139,10 @@
         "image_ratio": "adapt",
         "columns_desktop": 1,
         "column_alignment": "left",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
