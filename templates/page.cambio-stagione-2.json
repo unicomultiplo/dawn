@@ -24,7 +24,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Se ogni mattina perdi tempo davanti a un armadio pieno ma disordinato, il problema non è la quantità di vestiti. È l’organizzazione dello spazio.<br/><br/>Un armadio organizzato bene rende la vita quotidiana molto più semplice: trovare ciò che cerchi diventa immediato, mantenere ordine richiede meno tempo e anche vestirsi al mattino diventa più veloce.<br/><br/>Il cambio di stagione è il momento ideale per rimettere tutto in ordine e creare un sistema che funzioni davvero. Con qualche accorgimento pratico e con gli accessori giusti – contenitori, divisori e organizer – anche un armadio piccolo può trasformarsi in uno spazio ordinato, funzionale e facile da gestire.<br/><br/>Vediamo quindi come organizzare l’armadio passo dopo passo!</p>",
+            "text": "<p>Se ogni mattina perdi tempo davanti a un <strong>armadio pieno ma disordinato</strong>, il <strong>problema </strong>non è la quantità di vestiti. È <strong>l’organizzazione dello spazio.<br/></strong><br/>Un <strong>armadio organizzato</strong> bene rende la <strong>vita </strong>quotidiana molto più <strong>semplice</strong>: trovare ciò che cerchi diventa immediato, mantenere ordine richiede meno tempo e anche vestirsi al mattino diventa più veloce.<br/><br/>Il <strong>cambio di stagione</strong> è il momento <strong>ideale per rimettere tutto in ordine</strong> e creare un sistema che funzioni davvero. Con qualche accorgimento pratico e con gli accessori giusti – contenitori, divisori e organizer – anche un armadio piccolo può trasformarsi in uno spazio ordinato, <strong>funzionale e facile da gestire</strong>.<br/><br/>Vediamo quindi come organizzare l’armadio passo dopo passo!</p>",
             "link_label": "",
             "link": ""
           }
@@ -94,7 +94,7 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
@@ -111,8 +111,8 @@
         "column_LnRFgT": {
           "type": "column",
           "settings": {
-            "title": "1. Perché il cambio di stagione crea sempre disordine",
-            "text": "",
+            "title": "",
+            "text": "<ul><li> Perché il cambio di stagione crea sempre disordine ➝</li></ul>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/pages/il-grande-classico-come-fare-il-cambio-di-stagione-e-non-impazzire?#shopify-section-template--25700835852553__multicolumn_BtLArj"
           }
@@ -120,8 +120,8 @@
         "column_bN6gr3": {
           "type": "column",
           "settings": {
-            "title": "2. Da dove iniziare: selezionare prima di riorganizzare",
-            "text": "",
+            "title": "",
+            "text": "<ul><li>Da dove iniziare: selezionare prima di riorganizzare ➝</li></ul>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/pages/il-grande-classico-come-fare-il-cambio-di-stagione-e-non-impazzire?#shopify-section-template--25700835852553__image_with_text_CM6mRN"
           }
@@ -129,8 +129,8 @@
         "column_fkMzE8": {
           "type": "column",
           "settings": {
-            "title": "3. Come organizzare un armadio piccolo senza rinunciare a nulla",
-            "text": "",
+            "title": "",
+            "text": "<ul><li>Come organizzare un armadio piccolo senza rinunciare a nulla ➝</li></ul>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/pages/il-grande-classico-come-fare-il-cambio-di-stagione-e-non-impazzire?#shopify-section-template--25700835852553__image_with_text_AxkmYJ"
           }
@@ -138,8 +138,8 @@
         "column_Ey4w4m": {
           "type": "column",
           "settings": {
-            "title": "4. Come organizzare una cabina armadio in modo elegante e funzionale",
-            "text": "",
+            "title": "",
+            "text": "<ul><li>Come organizzare una cabina armadio in modo elegante e funzionale ➝</li></ul>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/pages/il-grande-classico-come-fare-il-cambio-di-stagione-e-non-impazzire?#shopify-section-template--25700835852553__image_with_text_PWDdLC"
           }
@@ -147,8 +147,8 @@
         "column_bnrgcr": {
           "type": "column",
           "settings": {
-            "title": "5. Come dividere l’armadio per stagione",
-            "text": "",
+            "title": "",
+            "text": "<ul><li>Come dividere l’armadio per stagione ➝</li></ul>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/pages/il-grande-classico-come-fare-il-cambio-di-stagione-e-non-impazzire?#shopify-section-template--25700835852553__image_with_text_RUebzm"
           }
@@ -156,8 +156,26 @@
         "column_48EAhi": {
           "type": "column",
           "settings": {
-            "title": "6.5 errori che rendono l’armadio sempre disordinato",
-            "text": "",
+            "title": "",
+            "text": "<ul><li>5 errori che rendono l’armadio sempre disordinato ➝</li></ul>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/pages/il-grande-classico-come-fare-il-cambio-di-stagione-e-non-impazzire?#Banner-template--25700835852553__image_banner_pwcbca"
+          }
+        },
+        "column_zxwYYe": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<ul><li>Gli accessori indispensabili per un armadio davvero ordinato ➝</li></ul>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/pages/il-grande-classico-come-fare-il-cambio-di-stagione-e-non-impazzire?#Banner-template--25700835852553__image_banner_pwcbca"
+          }
+        },
+        "column_dCgpKr": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<ul><li>Domande frequenti su come organizzare l’armadio➝</li></ul>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/pages/il-grande-classico-come-fare-il-cambio-di-stagione-e-non-impazzire?#Banner-template--25700835852553__image_banner_pwcbca"
           }
@@ -169,7 +187,12 @@
         "column_fkMzE8",
         "column_Ey4w4m",
         "column_bnrgcr",
-        "column_48EAhi"
+        "column_48EAhi",
+        "column_zxwYYe",
+        "column_dCgpKr"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
       ],
       "settings": {
         "title": "",
@@ -181,11 +204,11 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "shopify://collections/piatti-in-bone-china",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 0,
-        "padding_bottom": 40
+        "padding_bottom": 0
       }
     },
     "multicolumn_Anyn8K": {
