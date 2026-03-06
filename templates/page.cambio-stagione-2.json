@@ -159,7 +159,7 @@
             "title": "",
             "text": "<ul><li>5 errori che rendono l’armadio sempre disordinato ➝</li></ul>",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/pages/il-grande-classico-come-fare-il-cambio-di-stagione-e-non-impazzire?#Banner-template--25700835852553__image_banner_pwcbca"
+            "link": "#shopify-section-template--25700835852553__multicolumn_bexKhm"
           }
         },
         "column_zxwYYe": {
@@ -655,8 +655,8 @@
           "settings": {
             "caption": "",
             "heading": "Come organizzare una cabina armadio in modo elegante e funzionale",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
+            "text": "<p>Quando lo spazio è più ampio, come nel caso di una cabina armadio, l’organizzazione diventa anche una questione estetica.</p><p>Utilizzare contenitori coordinati aiuta a creare ordine visivo e rende lo spazio molto più armonioso.</p><p>Dividere i capi per categoria – camicie, pantaloni, maglieria, accessori – permette di trovare subito ciò che cerchi.</p><p>Anche piccoli dettagli come cestini in fibre naturali o scatole coordinate aiutano a mantenere la cabina armadio ordinata e piacevole da utilizzare.</p>",
+            "button_label": "",
             "button_link": ""
           }
         },
@@ -665,31 +665,20 @@
           "settings": {
             "caption": "",
             "heading": "Come dividere l’armadio per stagione",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
-            "button_link": ""
-          }
-        },
-        "row_PKFYU4": {
-          "type": "row",
-          "settings": {
-            "caption": "",
-            "heading": "5 errori che rendono l’armadio sempre disordinato",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "button_label": "Etichetta pulsante",
+            "text": "<p>Organizzare l’armadio per stagione è uno dei metodi più efficaci per mantenere ordine durante tutto l’anno.</p><p>I capi fuori stagione possono essere riposti nei ripiani più alti oppure all’interno di contenitori dedicati.</p><p>Le scatole con coperchio proteggono i tessuti dalla polvere e mantengono l’armadio visivamente più ordinato. Per gli abiti più delicati invece possono essere utili custodie traspiranti.</p><p>Separare i capi per stagione rende l’armadio più leggibile e più semplice da gestire ogni giorno.</p>",
+            "button_label": "",
             "button_link": ""
           }
         }
       },
       "block_order": [
         "row_ji6iCF",
-        "row_E7FE39",
-        "row_PKFYU4"
+        "row_E7FE39"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
+        "image_height": "small",
+        "desktop_image_width": "small",
         "heading_size": "h1",
         "text_style": "body",
         "button_style": "secondary",
@@ -701,6 +690,49 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "multicolumn_bexKhm": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_tcMfpn": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Anche con le migliori intenzioni, alcuni errori comuni rendono difficile mantenere l’ordine.<br/><br/><strong>- Accatastare i vestiti</strong> Pile troppo alte finiscono sempre per crollare.<br/><strong>- Non sfruttare lo spazio verticale</strong> Ripiani alti e fondo dell’armadio sono spesso inutilizzati.<br/><strong>-Mescolare stagioni diverse</strong> Questo rende difficile trovare i capi giusti.<br/><strong>-Utilizzare contenitori diversi tra loro</strong> Creano disordine visivo.<br/><strong>-Non avere un sistema fisso</strong> Se ogni volta cambi metodo, l’ordine non durerà.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_EQPP6K": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_tcMfpn",
+        "column_EQPP6K"
+      ],
+      "settings": {
+        "title": "5 errori che rendono l’armadio sempre disordinato",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 8,
+        "padding_bottom": 8
       }
     },
     "image_banner_cazaWW": {
@@ -749,51 +781,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "multicolumn_6t3PtW": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_kwipJ8": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h3><strong>E per le scarpe? </strong>Shoecase di Joseph Joseph ti cambia la vita: impilabile, ventilato, elegante.<br/></h3><p><br/>Qui serve una soluzione altrettanto intelligente. Il nostro consiglio è <strong>Shoecase di Joseph Joseph</strong>: una <strong>scatola modulare per scarpe</strong> con apertura frontale ventilata e design impilabile, perfetta per proteggere sneakers, stivaletti o décolleté anche fuori stagione<br/></p>",
-            "link_label": "Shoecase di Joseph Joseph",
-            "link": "shopify://products/joseph-joseph-shoecase-premium-shoe-storage-box"
-          }
-        },
-        "column_hNy6An": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Add_a_heading_9.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://products/joseph-joseph-shoecase-premium-shoe-storage-box"
-          }
-        }
-      },
-      "block_order": [
-        "column_kwipJ8",
-        "column_hNy6An"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 20,
-        "padding_bottom": 20
       }
     },
     "image_with_text_PWDdLC": {
@@ -1017,6 +1004,51 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_6t3PtW": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_kwipJ8": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>E per le scarpe? </strong>Shoecase di Joseph Joseph ti cambia la vita: impilabile, ventilato, elegante.<br/></h3><p><br/>Qui serve una soluzione altrettanto intelligente. Il nostro consiglio è <strong>Shoecase di Joseph Joseph</strong>: una <strong>scatola modulare per scarpe</strong> con apertura frontale ventilata e design impilabile, perfetta per proteggere sneakers, stivaletti o décolleté anche fuori stagione<br/></p>",
+            "link_label": "Shoecase di Joseph Joseph",
+            "link": "shopify://products/joseph-joseph-shoecase-premium-shoe-storage-box"
+          }
+        },
+        "column_hNy6An": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Add_a_heading_9.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/joseph-joseph-shoecase-premium-shoe-storage-box"
+          }
+        }
+      },
+      "block_order": [
+        "column_kwipJ8",
+        "column_hNy6An"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "collapsible_content_gi3eni": {
       "type": "collapsible-content",
       "blocks": {
@@ -1142,7 +1174,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -1165,13 +1197,14 @@
     "collapsible_content_dqtXmG",
     "featured_collection_q8jCYY",
     "multirow_nHmjAQ",
+    "multicolumn_bexKhm",
     "image_banner_cazaWW",
-    "multicolumn_6t3PtW",
     "image_with_text_PWDdLC",
     "video_nVJMEL",
     "image_with_text_RUebzm",
     "multicolumn_cdCAzB",
     "featured_collection_CJ7bQY",
+    "multicolumn_6t3PtW",
     "collapsible_content_gi3eni",
     "multicolumn_tim6dE"
   ]
