@@ -168,7 +168,7 @@
             "title": "",
             "text": "<ul><li>Gli accessori indispensabili per un armadio davvero ordinato ➝</li></ul>",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/pages/il-grande-classico-come-fare-il-cambio-di-stagione-e-non-impazzire?#Banner-template--25700835852553__image_banner_pwcbca"
+            "link": "#shopify-section-template--25700835852553__image_banner_cazaWW"
           }
         },
         "column_dCgpKr": {
@@ -669,13 +669,23 @@
             "button_label": "Etichetta pulsante",
             "button_link": ""
           }
+        },
+        "row_PKFYU4": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "5 errori che rendono l’armadio sempre disordinato",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "button_label": "Etichetta pulsante",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
         "row_ji6iCF",
-        "row_E7FE39"
+        "row_E7FE39",
+        "row_PKFYU4"
       ],
-      "disabled": true,
       "name": "t:sections.multirow.presets.name",
       "settings": {
         "image_height": "medium",
@@ -691,6 +701,54 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "image_banner_cazaWW": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_FbGJyq": {
+          "type": "heading",
+          "settings": {
+            "heading": "Gli accessori indispensabili per un armadio davvero ordinato",
+            "heading_size": "h1"
+          }
+        },
+        "text_UrUaMN": {
+          "type": "text",
+          "settings": {
+            "text": "Fornisci ai clienti dettagli sulle immagini del banner o sul contenuto del modello.",
+            "text_style": "body"
+          }
+        },
+        "buttons_bVr7JG": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Etichetta pulsante",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Etichetta pulsante",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_FbGJyq",
+        "text_UrUaMN",
+        "buttons_bVr7JG"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "multicolumn_6t3PtW": {
@@ -1107,6 +1165,7 @@
     "collapsible_content_dqtXmG",
     "featured_collection_q8jCYY",
     "multirow_nHmjAQ",
+    "image_banner_cazaWW",
     "multicolumn_6t3PtW",
     "image_with_text_PWDdLC",
     "video_nVJMEL",
