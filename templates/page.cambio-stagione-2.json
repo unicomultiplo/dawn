@@ -653,6 +653,7 @@
         "row_ji6iCF": {
           "type": "row",
           "settings": {
+            "image": "shopify://shop_images/reisenthel-scatole-armadio_-_AI.jpg",
             "caption": "",
             "heading": "Come organizzare una cabina armadio in modo elegante e funzionale",
             "text": "<p>Quando lo spazio è più ampio, come nel caso di una cabina armadio, l’organizzazione diventa anche una questione estetica.</p><p>Utilizzare contenitori coordinati aiuta a creare ordine visivo e rende lo spazio molto più armonioso.</p><p>Dividere i capi per categoria – camicie, pantaloni, maglieria, accessori – permette di trovare subito ciò che cerchi.</p><p>Anche piccoli dettagli come cestini in fibre naturali o scatole coordinate aiutano a mantenere la cabina armadio ordinata e piacevole da utilizzare.</p>",
@@ -663,6 +664,7 @@
         "row_E7FE39": {
           "type": "row",
           "settings": {
+            "image": "shopify://shop_images/Scatole-armadio-Reisenthel-_1_-_1.webp",
             "caption": "",
             "heading": "Come dividere l’armadio per stagione",
             "text": "<p>Organizzare l’armadio per stagione è uno dei metodi più efficaci per mantenere ordine durante tutto l’anno.</p><p>I capi fuori stagione possono essere riposti nei ripiani più alti oppure all’interno di contenitori dedicati.</p><p>Le scatole con coperchio proteggono i tessuti dalla polvere e mantengono l’armadio visivamente più ordinato. Per gli abiti più delicati invece possono essere utili custodie traspiranti.</p><p>Separare i capi per stagione rende l’armadio più leggibile e più semplice da gestire ogni giorno.</p>",
@@ -748,17 +750,17 @@
         "text_UrUaMN": {
           "type": "text",
           "settings": {
-            "text": "Fornisci ai clienti dettagli sulle immagini del banner o sul contenuto del modello.",
+            "text": "Per mantenere l’armadio organizzato nel tempo non basta piegare bene i vestiti. Gli accessori giusti fanno la differenza.Contenitori coordinati aiutano a separare maglieria, accessori e capi fuori stagione mantenendo l’armadio più ordinato.I divisori per cassetti permettono di organizzare piccoli accessori senza creare disordine.Gli organizer verticali invece sfruttano meglio lo spazio disponibile e permettono di moltiplicare i ripiani.Con pochi strumenti scelti bene è possibile trasformare completamente l’organizzazione dell’armadio.",
             "text_style": "body"
           }
         },
         "buttons_bVr7JG": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Etichetta pulsante",
-            "button_link_1": "",
+            "button_label_1": "Scatole Armadio",
+            "button_link_1": "shopify://collections/complementi-arredo-scatole-armadio",
             "button_style_secondary_1": false,
-            "button_label_2": "Etichetta pulsante",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -771,9 +773,10 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
+        "image": "shopify://shop_images/come-organizzare-l-armadio-accessori-cambio-stagione-decluttering.webp",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
+        "image_height": "small",
+        "desktop_content_position": "top-right",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "",
