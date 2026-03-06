@@ -457,7 +457,7 @@
         "title": "",
         "heading_size": "h2",
         "image_width": "full",
-        "image_ratio": "portrait",
+        "image_ratio": "square",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "none",
