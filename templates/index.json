@@ -683,21 +683,21 @@
         "column_JyzPxx": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/come-organizzare-l-armadio-accessori-cambio-di-stagione.png",
+            "image": "shopify://shop_images/cambio-stagione-tips--organizzazione-armadio.webp",
             "title": "",
             "text": "<p>Come organizzare l’armadio durante il cambio di stagione <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://pages/il-grande-classico-come-fare-il-cambio-di-stagione-e-non-impazzire"
           }
         },
-        "column_bYmCt9": {
+        "column_zQeJAx": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-piatti-diesel.png",
+            "image": "shopify://shop_images/bitossi-natale-idee-regalo.webp",
             "title": "",
-            "text": "<p>Seletti, per allestire la tua Tavola Scenografica <strong>→</strong></p>",
+            "text": "<p>La Tavola di Pasqua: Idee per una Mise en Place innovativa <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://blogs/apparecchiare-con-stile/piatti-seletti-collezioni-tavola"
+            "link": "shopify://blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa"
           }
         },
         "column_cJAYUe": {
@@ -710,6 +710,16 @@
             "link": "shopify://pages/padelle-antiaderenti-guida-completa"
           }
         },
+        "column_bYmCt9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-piatti-diesel.png",
+            "title": "",
+            "text": "<p>Seletti, per allestire la tua Tavola Scenografica <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://blogs/apparecchiare-con-stile/piatti-seletti-collezioni-tavola"
+          }
+        },
         "column_B9rnKn": {
           "type": "column",
           "settings": {
@@ -719,35 +729,14 @@
             "link_label": "",
             "link": "shopify://pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola"
           }
-        },
-        "column_W4mzwq": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Knindustrie-sparky-bicchiere.webp",
-            "title": "",
-            "text": "<p>Tutte le forme del Bere: come scegliere quella giusta? <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://blogs/apparecchiare-con-stile/le-forme-del-bere-come-scegliere-il-giusto-bicchiere"
-          }
-        },
-        "column_zQeJAx": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/bitossi-natale-idee-regalo.webp",
-            "title": "",
-            "text": "<p>La Tavola di Pasqua: Idee per una Mise en Place innovativa <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa"
-          }
         }
       },
       "block_order": [
         "column_JyzPxx",
-        "column_bYmCt9",
+        "column_zQeJAx",
         "column_cJAYUe",
-        "column_B9rnKn",
-        "column_W4mzwq",
-        "column_zQeJAx"
+        "column_bYmCt9",
+        "column_B9rnKn"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -757,8 +746,8 @@
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "portrait",
-        "columns_desktop": 6,
+        "image_ratio": "square",
+        "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "Il Blog U&M →",
