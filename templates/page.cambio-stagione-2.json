@@ -392,7 +392,7 @@
         "button_icWmT4": {
           "type": "button",
           "settings": {
-            "button_label": "Grucce coordinate = Armadio ordinato",
+            "button_label": "Grucce coordinate = Armadio ordinato →",
             "button_link": "shopify://collections/complementi-arredo-appendiabiti-e-grucce",
             "button_style_secondary": true
           }
@@ -496,7 +496,7 @@
         "button_ctDdfX": {
           "type": "button",
           "settings": {
-            "button_label": "Le nostre proposte",
+            "button_label": "Le nostre proposte →",
             "button_link": "shopify://collections/complementi-arredo-scatole-armadio",
             "button_style_secondary": true
           }
@@ -663,7 +663,7 @@
             "caption": "",
             "heading": "Come organizzare una cabina armadio in modo elegante e funzionale",
             "text": "<p>Quando lo spazio è più ampio, come nel caso di una cabina armadio, l’organizzazione diventa anche una questione estetica.</p><p>Utilizzare<strong> contenitori coordinati aiuta a creare ordine visivo</strong> e rende lo spazio molto più armonioso.</p><p><strong>Dividere i capi per categoria </strong>– camicie, pantaloni, maglieria, accessori – permette di trovare subito ciò che cerchi.</p><p>Anche piccoli dettagli come cestini in fibre naturali o scatole coordinate aiutano a mantenere la cabina armadio ordinata e piacevole da utilizzare.</p>",
-            "button_label": "Inizia il cambio stagione!",
+            "button_label": "Inizia il cambio stagione →",
             "button_link": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual"
           }
         },
@@ -674,7 +674,7 @@
             "caption": "",
             "heading": "Come dividere l’armadio per stagione",
             "text": "<p>Organizzare l’armadio per stagione è uno dei metodi più efficaci per mantenere ordine durante tutto l’anno.</p><p>I <strong>capi fuori stagione</strong> possono essere riposti nei ripiani più alti oppure all’interno di<strong> contenitori dedicati.</strong></p><p><strong>Le scatole con coperchio </strong>proteggono i tessuti dalla polvere e mantengono l’armadio visivamente più ordinato. Per gli abiti più delicati invece possono essere utili<strong> custodie traspiranti.</strong></p><p>Separare i capi per stagione rende l’armadio più leggibile e più semplice da gestire ogni giorno.</p>",
-            "button_label": "Tutto quello che ti serve!",
+            "button_label": "Tutto quello che ti serve →",
             "button_link": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual"
           }
         }
@@ -763,7 +763,7 @@
         "buttons_bVr7JG": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Kit Cambio Stagione ➜",
+            "button_label_1": "Kit Cambio Stagione →",
             "button_link_1": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -812,7 +812,7 @@
         "button_tEkbTL": {
           "type": "button",
           "settings": {
-            "button_label": "Scopri i nostri [stendini da muro e modelli compatti]",
+            "button_label": "Scopri i nostri [stendini da muro e modelli compatti] →",
             "button_link": "shopify://collections/stendibiancheria-e-portabiancheria-brabantia",
             "button_style_secondary": true
           }
@@ -1067,7 +1067,7 @@
           "settings": {
             "heading": "Come organizzare un armadio molto pieno?",
             "icon": "lightning_bolt",
-            "row_content": "<p>Quando l’armadio è molto pieno la prima cosa da fare è <strong>selezionare i capi e dividerli </strong>per categoria. Utilizzare contenitori, <strong>scatole e divisori </strong>permette di separare maglieria, accessori e capi fuori stagione mantenendo lo spazio più <strong>ordinato e facile da gestire.</strong></p>",
+            "row_content": "<p>Quando l’armadio è molto pieno la prima cosa da fare è <strong>selezionare i capi e dividerli </strong>per categoria. Utilizzare contenitori, <a href=\"/collections/complementi-arredo-scatole-armadio\" title=\"Scatole per Armadio\"><strong>scatole e divisori</strong></a> permette di separare maglieria, accessori e capi fuori stagione mantenendo lo spazio più <strong>ordinato e facile da gestire.</strong></p>",
             "page": "",
             "liquid_content": ""
           }
@@ -1077,7 +1077,7 @@
           "settings": {
             "heading": "Come organizzare un armadio piccolo senza perdere spazio?",
             "icon": "lightning_bolt",
-            "row_content": "<p>In un armadio piccolo è fondamentale sfruttare lo<strong> spazio verticale.</strong> Contenitori impilabili, organizer sospesi e divisori per cassetti permettono di creare più livelli e mantenere ogni capo facilmente accessibile.</p>",
+            "row_content": "<p>In un armadio piccolo è fondamentale sfruttare lo<strong> spazio verticale. </strong><a href=\"/collections/complementi-arredo-scatole-armadio\" title=\"Scatole per Armadio\"><strong>Contenitori impilabili</strong></a>, organizer sospesi e divisori per cassetti permettono di creare più livelli e mantenere ogni capo facilmente accessibile.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -1087,7 +1087,7 @@
           "settings": {
             "heading": "Ogni quanto bisogna fare il cambio di stagione?",
             "icon": "lightning_bolt",
-            "row_content": "<p>Il cambio di stagione si fa generalmente due volte l’anno, all<strong>’inizio della primavera e dell’autunno.</strong> Questo momento è ideale per selezionare i capi, liberare spazio e riorganizzare l’armadio in modo più funzionale.</p>",
+            "row_content": "<p>Il cambio di stagione si fa generalmente due volte l’anno, all<strong>’inizio della primavera e dell’autunno.</strong> Questo momento è ideale per selezionare i capi, liberare spazio e <a href=\"https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual\" title=\"Kit cambio di Stagione\"><strong>riorganizzare l’armadio</strong></a> in modo più funzionale.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -1097,7 +1097,7 @@
           "settings": {
             "heading": "Meglio scatole o divisori per organizzare l’armadio?",
             "icon": "lightning_bolt",
-            "row_content": "<p>Le scatole sono ideali per conservare capi fuori stagione e maglieria, mentre i divisori sono perfetti per organizzare accessori e piccoli indumenti nei cassetti. <strong>Utilizzarli insieme</strong> permette di mantenere l’armadio più ordinato nel tempo.</p>",
+            "row_content": "<p>Le scatole sono ideali per conservare capi fuori stagione e maglieria, mentre i divisori sono perfetti per organizzare accessori e piccoli indumenti nei cassetti. <a href=\"/collections/complementi-arredo-scatole-armadio\" title=\"Scatole per Armadio\"><strong>Utilizzarli insieme</strong></a> permette di mantenere l’armadio più ordinato nel tempo.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -1117,7 +1117,7 @@
           "settings": {
             "heading": "Come mantenere l’armadio ordinato nel tempo?",
             "icon": "lightning_bolt",
-            "row_content": "<p>Per mantenere l’armadio ordinato è importante creare un sistema semplice e ripetibile. <strong>Utilizzare contenitori coordinati, divisori per cassetti e organizzare i capi per categoria</strong> permette di mantenere ordine più a lungo e di trovare subito ciò che serve.</p>",
+            "row_content": "<p>Per mantenere l’armadio ordinato è importante creare un sistema semplice e ripetibile. <strong>Utilizzare </strong><a href=\"/collections/complementi-arredo-scatole-armadio\" title=\"Scatole per Armadio\"><strong>contenitori coordinati</strong></a><strong>, divisori per cassetti e organizzare i capi per categoria</strong> permette di mantenere ordine più a lungo e di trovare subito ciò che serve.</p>",
             "page": "",
             "liquid_content": ""
           }
