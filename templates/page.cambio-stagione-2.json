@@ -79,14 +79,17 @@
           "settings": {
             "title": "<strong>Come organizzare l’armadio in modo efficace?</strong>",
             "text": "<p>Per organizzare <strong>l’armadio </strong>in modo <strong>funzionale </strong>bastano alcuni passaggi chiave:</p><ol><li><strong>Selezionare </strong>i capi che utilizzi davvero</li><li><strong>Dividere </strong>vestiti e accessori per categoria</li><li><strong>Sfruttare lo spazio </strong>verticale con contenitori e organizer</li><li><strong>Separare </strong>i capi per stagione</li><li><strong>Utilizzare divisori </strong>per mantenere ordine nei cassetti</li></ol><p>Seguendo questo metodo l’armadio diventa più <strong>ordinato </strong>e molto più <strong>semplice </strong>da mantenere nel tempo.</p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "🧰 Kit perfetto per il cambio stagione?",
+            "link": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual"
           }
         }
       },
       "block_order": [
         "column_Tp6qBM",
         "column_DhWp9r"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
       ],
       "settings": {
         "title": "",
@@ -253,12 +256,15 @@
             "title": "",
             "text": "<p><em>🎯 </em>Il segreto per un cambio di stagione efficace non è solo spostare i vestiti, ma <strong>fare una selezione : Decluttering!</strong><em><br/></em></p>",
             "link_label": "",
-            "link": ""
+            "link": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual"
           }
         }
       },
       "block_order": [
         "column_7QAYWz"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
       ],
       "settings": {
         "title": "",
@@ -657,8 +663,8 @@
             "caption": "",
             "heading": "Come organizzare una cabina armadio in modo elegante e funzionale",
             "text": "<p>Quando lo spazio è più ampio, come nel caso di una cabina armadio, l’organizzazione diventa anche una questione estetica.</p><p>Utilizzare<strong> contenitori coordinati aiuta a creare ordine visivo</strong> e rende lo spazio molto più armonioso.</p><p><strong>Dividere i capi per categoria </strong>– camicie, pantaloni, maglieria, accessori – permette di trovare subito ciò che cerchi.</p><p>Anche piccoli dettagli come cestini in fibre naturali o scatole coordinate aiutano a mantenere la cabina armadio ordinata e piacevole da utilizzare.</p>",
-            "button_label": "",
-            "button_link": ""
+            "button_label": "Inizia il cambio stagione",
+            "button_link": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual"
           }
         },
         "row_E7FE39": {
@@ -668,8 +674,8 @@
             "caption": "",
             "heading": "Come dividere l’armadio per stagione",
             "text": "<p>Organizzare l’armadio per stagione è uno dei metodi più efficaci per mantenere ordine durante tutto l’anno.</p><p>I <strong>capi fuori stagione</strong> possono essere riposti nei ripiani più alti oppure all’interno di<strong> contenitori dedicati.</strong></p><p><strong>Le scatole con coperchio </strong>proteggono i tessuti dalla polvere e mantengono l’armadio visivamente più ordinato. Per gli abiti più delicati invece possono essere utili<strong> custodie traspiranti.</strong></p><p>Separare i capi per stagione rende l’armadio più leggibile e più semplice da gestire ogni giorno.</p>",
-            "button_label": "",
-            "button_link": ""
+            "button_label": "Tutto quello che ti serve!",
+            "button_link": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual"
           }
         }
       },
@@ -871,7 +877,7 @@
         "button_t4afDf": {
           "type": "button",
           "settings": {
-            "button_label": "👉 Guarda la nostra selezione di accessori per lavanderia",
+            "button_label": "Guarda la nostra selezione di accessori per lavanderia!",
             "button_link": "shopify://collections/stendibiancheria-e-portabiancheria-brabantia",
             "button_style_secondary": true
           }
@@ -1015,8 +1021,8 @@
           "settings": {
             "title": "",
             "text": "<h3><strong>E per le scarpe? </strong>Shoecase di Joseph Joseph ti cambia la vita: impilabile, ventilato, elegante.<br/></h3><p><br/>Qui serve una soluzione altrettanto intelligente. Il nostro consiglio è <strong>Shoecase di Joseph Joseph</strong>: una <strong>scatola modulare per scarpe</strong> con apertura frontale ventilata e design impilabile, perfetta per proteggere sneakers, stivaletti o décolleté anche fuori stagione<br/></p>",
-            "link_label": "Shoecase di Joseph Joseph",
-            "link": "shopify://products/joseph-joseph-shoecase-premium-shoe-storage-box"
+            "link_label": "",
+            "link": ""
           }
         },
         "column_hNy6An": {
@@ -1034,6 +1040,7 @@
         "column_kwipJ8",
         "column_hNy6An"
       ],
+      "custom_css": [],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -1043,9 +1050,9 @@
         "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
+        "button_label": "Shoecase di Joseph Joseph",
+        "button_link": "shopify://products/joseph-joseph-shoecase-premium-shoe-storage-box",
+        "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 20,
