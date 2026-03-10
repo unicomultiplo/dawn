@@ -663,7 +663,7 @@
             "caption": "",
             "heading": "Come organizzare una cabina armadio in modo elegante e funzionale",
             "text": "<p>Quando lo spazio è più ampio, come nel caso di una cabina armadio, l’organizzazione diventa anche una questione estetica.</p><p>Utilizzare<strong> contenitori coordinati aiuta a creare ordine visivo</strong> e rende lo spazio molto più armonioso.</p><p><strong>Dividere i capi per categoria </strong>– camicie, pantaloni, maglieria, accessori – permette di trovare subito ciò che cerchi.</p><p>Anche piccoli dettagli come cestini in fibre naturali o scatole coordinate aiutano a mantenere la cabina armadio ordinata e piacevole da utilizzare.</p>",
-            "button_label": "Inizia il cambio stagione",
+            "button_label": "Inizia il cambio stagione!",
             "button_link": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual"
           }
         },
@@ -812,7 +812,7 @@
         "button_tEkbTL": {
           "type": "button",
           "settings": {
-            "button_label": "👉 Scopri i nostri [stendini da muro e modelli compatti]",
+            "button_label": "Scopri i nostri [stendini da muro e modelli compatti]",
             "button_link": "shopify://collections/stendibiancheria-e-portabiancheria-brabantia",
             "button_style_secondary": true
           }
