@@ -32,7 +32,7 @@
         "column_Tk9def": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/come-organizzare-l-armadio-accessori.jpg",
+            "image": "shopify://shop_images/cambio-stagione-tips--organizzazione-armadio.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -503,7 +503,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Scatole-armadio-Reisenthel-_1_-_1.webp",
+        "image": "shopify://shop_images/cambina-armadio-organizzare-cambio-stagione.webp",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -653,7 +653,7 @@
         "row_ji6iCF": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/LaundryEcruRange-cambio-stagione-armadio-organizzato-e-funzionale.webp",
+            "image": "shopify://shop_images/cabina-armadio-come-fare-il-cambio-stagione.webp",
             "caption": "",
             "heading": "Come organizzare una cabina armadio in modo elegante e funzionale",
             "text": "<p>Quando lo spazio è più ampio, come nel caso di una cabina armadio, l’organizzazione diventa anche una questione estetica.</p><p>Utilizzare<strong> contenitori coordinati aiuta a creare ordine visivo</strong> e rende lo spazio molto più armonioso.</p><p><strong>Dividere i capi per categoria </strong>– camicie, pantaloni, maglieria, accessori – permette di trovare subito ciò che cerchi.</p><p>Anche piccoli dettagli come cestini in fibre naturali o scatole coordinate aiutano a mantenere la cabina armadio ordinata e piacevole da utilizzare.</p>",
@@ -664,7 +664,7 @@
         "row_E7FE39": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Scatole-armadio-Reisenthel-_1_-_1.webp",
+            "image": "shopify://shop_images/decluttering-cambio-stagione-come-organizzarlo.webp",
             "caption": "",
             "heading": "Come dividere l’armadio per stagione",
             "text": "<p>Organizzare l’armadio per stagione è uno dei metodi più efficaci per mantenere ordine durante tutto l’anno.</p><p>I <strong>capi fuori stagione</strong> possono essere riposti nei ripiani più alti oppure all’interno di<strong> contenitori dedicati.</strong></p><p><strong>Le scatole con coperchio </strong>proteggono i tessuti dalla polvere e mantengono l’armadio visivamente più ordinato. Per gli abiti più delicati invece possono essere utili<strong> custodie traspiranti.</strong></p><p>Separare i capi per stagione rende l’armadio più leggibile e più semplice da gestire ogni giorno.</p>",
@@ -1134,7 +1134,7 @@
         "color_scheme": "",
         "container_color_scheme": "",
         "open_first_collapsible_row": true,
-        "image": "shopify://shop_images/cambio-armadio-stagione-decluttering.webp",
+        "image": "shopify://shop_images/LaundryEcruRange-cambio-stagione-armadio-organizzato-e-funzionale.webp",
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "padding_top": 36,
