@@ -9,14 +9,6 @@
  */
 {
   "sections": {
-    "shogun-helper": {
-      "type": "shogun-helper",
-      "settings": {}
-    },
-    "shogun-above": {
-      "type": "shogun-above",
-      "settings": {}
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -50,10 +42,6 @@
             "custom_liquid": "<div class=\"feedaty_widget\" data-ver=\"2021\" data-id=\"6791fcc64fd07\" data-type=\"product\" data-variant=\"Striscia-full-nologo\" data-lang=\"all\" data-gui=\"all\" data-sku=\"{{ product.id }}\" data-snippets=\"4\" style=\"padding-top: 15px; padding-bottom: 15px; margin-left: -5px;\"></div>"
           }
         },
-        "glo_color_swatch_variant_image_product_bundles_quantity_breaks_kYYRV9": {
-          "type": "shopify://apps/glo-color-swatch-variant-image/blocks/product-bundles-quantity-breaks/4394f710-096c-4021-bbde-8ebb26057c11",
-          "settings": {}
-        },
         "qty_disclaimer_6icb8M": {
           "type": "qty_disclaimer",
           "settings": {}
@@ -69,54 +57,11 @@
             "show_gift_card_recipient": false
           }
         },
-        "glo_color_swatch_variant_image_product_swatches_detail_bnrCBj": {
-          "type": "shopify://apps/glo-color-swatch-variant-image/blocks/product-swatches-detail/4394f710-096c-4021-bbde-8ebb26057c11",
-          "settings": {}
-        },
-        "glo_color_swatch_variant_image_product_groups_detail_dQNqQC": {
-          "type": "shopify://apps/glo-color-swatch-variant-image/blocks/product-groups-detail/4394f710-096c-4021-bbde-8ebb26057c11",
-          "settings": {}
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
             "picker_type": "button",
             "swatch_shape": "square"
-          }
-        },
-        "custom_liquid_tm8pXP": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "<div>{{ product.metafields.custom.short_description | newline_to_br }}\n</div>"
-          }
-        },
-        "collapsible_tab_pjWwye": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Materiale:  Bone China",
-            "icon": "serving_dish",
-            "content": "<p><a href=\"/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola\" title=\"Bone China: Scopri la Porcellana Più Elegante per la Tua Tavola\"> Il Top della Porcellana. Leggi di più!</a></p>",
-            "page": "bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola"
-          }
-        },
-        "sku_C4aTJC": {
-          "type": "sku",
-          "disabled": true,
-          "settings": {
-            "text_style": "body"
-          }
-        },
-        "description": {
-          "type": "description",
-          "disabled": true,
-          "settings": {}
-        },
-        "custom_liquid_zVHD4U": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "{% for metafield in product.metafields.custom %}\n  <p>\n    <strong>{{ metafield[0] }}:</strong> \n    {{ metafield[1] | json }}\n  </p>\n{% endfor %}"
           }
         }
       },
@@ -127,18 +72,10 @@
         "price_XLK3Aj",
         "custom_liquid_EJXmHi",
         "custom_liquid_W3qmEe",
-        "glo_color_swatch_variant_image_product_bundles_quantity_breaks_kYYRV9",
         "qty_disclaimer_6icb8M",
         "quantity_selector",
         "buy_buttons",
-        "glo_color_swatch_variant_image_product_swatches_detail_bnrCBj",
-        "glo_color_swatch_variant_image_product_groups_detail_dQNqQC",
-        "variant_picker",
-        "custom_liquid_tm8pXP",
-        "collapsible_tab_pjWwye",
-        "sku_C4aTJC",
-        "description",
-        "custom_liquid_zVHD4U"
+        "variant_picker"
       ],
       "custom_css": [
         ".qty-disclaimer {text-decoration: underline;}"
@@ -194,24 +131,12 @@
         "padding_top": 40,
         "padding_bottom": 28
       }
-    },
-    "shogun-below": {
-      "type": "shogun-below",
-      "settings": {}
-    },
-    "shogun-optimizer": {
-      "type": "shogun-optimizer",
-      "settings": {}
     }
   },
   "order": [
-    "shogun-helper",
-    "shogun-above",
     "main",
     "custom_liquid_C84pYx",
     "custom_liquid_q83gja",
-    "related-products",
-    "shogun-below",
-    "shogun-optimizer"
+    "related-products"
   ]
 }
