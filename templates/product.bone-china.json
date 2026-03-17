@@ -30,6 +30,13 @@
           "type": "price",
           "settings": {}
         },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
         "custom_liquid_EJXmHi": {
           "type": "custom_liquid",
           "settings": {
@@ -53,15 +60,8 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true,
+            "show_dynamic_checkout": false,
             "show_gift_card_recipient": false
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "square"
           }
         }
       },
@@ -70,19 +70,19 @@
         "title",
         "variant_sku_BLBrqe",
         "price_XLK3Aj",
+        "variant_picker",
         "custom_liquid_EJXmHi",
         "custom_liquid_W3qmEe",
         "qty_disclaimer_6icb8M",
         "quantity_selector",
-        "buy_buttons",
-        "variant_picker"
+        "buy_buttons"
       ],
       "custom_css": [
         ".qty-disclaimer {text-decoration: underline;}"
       ],
       "settings": {
         "enable_sticky_info": false,
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "color_scheme": "scheme-1",
         "media_size": "medium",
         "constrain_to_viewport": true,
         "media_fit": "contain",
