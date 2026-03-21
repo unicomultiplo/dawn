@@ -15,18 +15,18 @@
         "slide_KAnp8F": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Seletti-portasapone-teschio.webp",
-            "heading": "BRAIN WASH",
+            "image": "shopify://shop_images/Pasqua-2026-per-la-tavola-1.webp",
+            "heading": "",
             "heading_size": "h0",
-            "subheading": "<strong>Brain Wash: perché anche le idee hanno bisogno di una rinfrescata</strong>",
+            "subheading": "",
             "button_label": "Vedi tutti i dettagli",
-            "link": "shopify://products/seletti-brainwash-porta-saponetta-e-saponetta-bianco",
+            "link": "shopify://collections/idee-regalo-pasqua",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
-            "text_alignment": "center",
+            "text_alignment": "right",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1c6927a6-b6c0-4c5b-9242-e2590ebdfb40",
+            "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
             "text_alignment_mobile": "center"
           }
         },
