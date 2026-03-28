@@ -33,18 +33,18 @@
         "slide_aEtLTa": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Matteo-Thun-rodriguez.png",
-            "heading": "KnIndustrie",
+            "image": "shopify://shop_images/specchio-circus-seletti.webp",
+            "heading": "Rifletti il tuo stile",
             "heading_size": "h0",
-            "subheading": "Realizzata in cristallo al Magnesio, la linea Reggia deve la sua bellezza senza tempo alle sue linee nette e alle trasparenze.",
-            "button_label": "Scopri Reggia →",
-            "link": "shopify://products/knindustrie-reggia-bicchieri",
+            "subheading": "<strong>Lo specchio Circus di SELETTI: ironia e design in un unico pezzo da collezione.</strong>",
+            "button_label": "Scopri lo specchio →",
+            "link": "https://www.unicoemultiplo.com/products/seletti-specchio-circus-mirror-superhero",
             "button_style_secondary": true,
             "box_align": "top-left",
             "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 10,
-            "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+            "image_overlay_opacity": 20,
+            "color_scheme": "scheme-5",
             "text_alignment_mobile": "center"
           }
         }
