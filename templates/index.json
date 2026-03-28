@@ -106,40 +106,40 @@
         "column_XrjaiE": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/KnIndustruie-bicchiewri-reggia-Matteo-Thun.jpg",
+            "image": "shopify://shop_images/knimndustrie-bitossi-seletti-tavola.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://products/knindustrie-reggia-bicchieri"
+            "link": "https://www.unicoemultiplo.com/products/bitossi-home-abracadabra-piatto-frutta-indovino"
           }
         },
         "column_RUzwg4": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/KnIndustruie-Piatti-reggia-Matteo-Thun.jpg",
+            "image": "shopify://shop_images/knimndustrie-bitossi-seletti-tavola-1.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/products/knindustrie-reggia-piatto-bianco-bone-china"
+            "link": "https://www.unicoemultiplo.com/products/1533-knindustrie-shabbychic-piatti-piani-o27"
           }
         },
         "column_XCzETy": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/KnIndustruie-piatti-legno-reggia-Matteo-Thun.jpg",
+            "image": "shopify://shop_images/knimndustrie-bitossi-seletti-tavola-2.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/products/knindustrie-sovrapposizioni-piatto-in-legno-cm-27"
+            "link": "shopify://products/bitossi-home-bamboo-set-24-pezzi-posate"
           }
         },
         "column_qimwBB": {
           "type": "column",
           "settings": {
-            "title": "Matteo Thun & Partners",
-            "text": "<p>Matteo Thun, architetto e designer originario dell'Alto Adige, si forma artisticamente con maestri come Oskar Kokoschka ed Emilio Vedova all'Accademia di Salisburgo, per poi laurearsi con lode in Architettura presso l'Università di Firenze.</p><p></p><p>Nel 1981 è tra i co-fondatori del Memphis Group insieme a Ettore Sottsass, esperienza che segna profondamente il suo linguaggio creativo. Nel 1984 apre a Milano il proprio studio di architettura e design, dando avvio a un percorso internazionale fatto di ricerca, innovazione e attenzione alla sostenibilità.</p><p><strong>Scopri la collezione di porcellane e ceramiche di design</strong> firmate Matteo Thun & Partners, dove tradizione artigianale e visione contemporanea si incontrano per dare vita a pezzi unici per la tavola.</p>",
+            "title": "<strong> Essenziale ed elegante</strong>",
+            "text": "<p><br/>Selezioni di design per la tua tavola.<br/><br/>Linee contemporanee, materiali autentici, dettagli che fanno la differenza.<br/><br/>Scopri le collezioni firmate KnIndustrie e Bitossi e seletti<br/><br/></p>",
             "link_label": "Scopri la collezione",
-            "link": "https://www.unicoemultiplo.com/search?q=matteo+thun&options%5Bprefix%5D=last"
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti"
           }
         }
       },
@@ -157,7 +157,7 @@
         ".multicolumn-list__item:last-child .multicolumn-card__info {display: flex; flex-direction: column;}"
       ],
       "settings": {
-        "title": "Matteo Thun & Partners per KnIndustrie",
+        "title": "Porta in tavola la primavera.Colori delicati, dettagli che fioriscono, momenti da condividere",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
