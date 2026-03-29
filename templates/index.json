@@ -541,7 +541,7 @@
         "text_VRF4TV": {
           "type": "text",
           "settings": {
-            "text": "<p>Le proposte dei migliori designer italiani e internazionali, le ultime proposte e i classici d'autore. <br/>Lo stile come non lo hai mai visto!</p>"
+            "text": "<p>Selezioniamo brand che uniscono design, qualità e ricerca. Oggetti pensati per durare e distinguersi, ogni giorno.<br/><br/></p>"
           }
         }
       },
@@ -631,7 +631,7 @@
         "columns_desktop": 5,
         "column_alignment": "center",
         "background_style": "none",
-        "button_label": "Vedi tutti ->",
+        "button_label": "Esplora i brand ->",
         "button_link": "shopify://pages/i-nostri-brand",
         "color_scheme": "scheme-a993bf00-7e7e-44f4-ab72-12da0a52eace",
         "columns_mobile": "2",
