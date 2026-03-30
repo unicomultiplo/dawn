@@ -293,11 +293,7 @@
             {%- endif -%}
           </div>
         </div>
-         {% if card_product.available %}
-  <p style="color: green; font-size: 0.85em; margin-bottom: 6px; margin-top: 4px;">
-    ✓ Disponibile – consegna in 24/48h
-  </p>
-{% endif %}
+         
 
         {% assign product_form_id = 'quick-add-' | append: section_id | append: card_product.id %}
         {% if quick_add == 'standard' %}
