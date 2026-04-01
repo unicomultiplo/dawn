@@ -285,7 +285,7 @@
       "settings": {
         "title": "<strong>Scopri lampade, piatti e idee regalo più iconici Seletti</strong>",
         "heading_size": "h2",
-        "image_ratio": "square",
+        "image_ratio": "portrait",
         "columns_desktop": 6,
         "color_scheme": "scheme-2",
         "show_view_all": false,
