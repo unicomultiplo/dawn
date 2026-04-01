@@ -15,7 +15,7 @@
         "a {color: #598db2;}"
       ],
       "settings": {
-        "show_collection_description": true,
+        "show_collection_description": false,
         "show_collection_image": false,
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
       }
@@ -23,15 +23,6 @@
     "multicolumn_4fT4dH": {
       "type": "multicolumn",
       "blocks": {
-        "column_tYqADn": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Dal 1964, <strong>Seletti </strong>ha rivoluzionato il complemento d'arredo grazie alla qualità e all'eccellenza del Made in Italy. Innovazione e originalità sono nel DNA del brand: il geniale design quotidiano e fantasioso inizia con <strong>Romano</strong> e prosegue con <strong>Stefano Seletti. </strong></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_qFQxcM": {
           "type": "column",
           "settings": {
@@ -40,11 +31,20 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_tYqADn": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Oggetti di design iconici, tra arte e provocazione</strong>",
+            "text": "<p>Scopri lampade, piatti e complementi Seletti che trasformano ogni ambiente. Dalla collezione Kintsugi ai servizi Hybrid, fino alle idee regalo più originali.</p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "column_tYqADn",
-        "column_qFQxcM"
+        "column_qFQxcM",
+        "column_tYqADn"
       ],
       "settings": {
         "title": "",
@@ -191,23 +191,39 @@
         "buttons_JLXXhx": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "NEW! Seletti Bic Lamp",
+            "button_label_1": "NEW! Seletti Bic Lamp.",
             "button_link_1": "shopify://products/seletti-bic-lamp-black",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "text_WDeHeE": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Scopri i pezzi più iconici Seletti.</strong>",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "heading_eXcWLX": {
+          "type": "heading",
+          "settings": {
+            "heading": "Non è decorazione. È carattere.",
+            "heading_size": "h2"
+          }
         }
       },
       "block_order": [
-        "buttons_JLXXhx"
+        "buttons_JLXXhx",
+        "text_WDeHeE",
+        "heading_eXcWLX"
       ],
       "settings": {
         "image": "shopify://shop_images/seletti-bic-cristal-pen-mario-paroli-new.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
+        "image_height": "adapt",
+        "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-1",
@@ -217,59 +233,23 @@
         "show_text_below": true
       }
     },
-    "image_with_text_7gxWGt": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_Xk7Jqm": {
-          "type": "heading",
-          "settings": {
-            "heading": "NEW! Seletti BIC® Lamp",
-            "heading_size": "h1"
-          }
-        },
-        "caption_GQnb8z": {
-          "type": "caption",
-          "settings": {
-            "caption": "La lampada che non sapevi di desiderare.",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
-        },
-        "text_PePwpm": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Sì, è proprio lei: la mitica penna BIC® che hai usato mille volte, ora diventa una lampada oversize firmata <strong>Seletti</strong>.<br/>Un’idea geniale, pop, fuori scala – da usare a terra, a parete o a soffitto – che accende la casa con luce calda e un’ironia inconfondibile.<br/>Disponibile in <strong>blu, nero e rosso</strong>, la <strong>BIC®  Lamp</strong> è già un’icona di design contemporaneo.<br/><br/>Se ti piace stupire, <strong>questa è la novità che fa per te.</strong></p>",
-            "text_style": "body"
-          }
-        },
-        "button_kEi6Qw": {
-          "type": "button",
-          "settings": {
-            "button_label": "Scoprila ora!",
-            "button_link": "shopify://products/seletti-bic-lamp-blue",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_Xk7Jqm",
-        "caption_GQnb8z",
-        "text_PePwpm",
-        "button_kEi6Qw"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/seletti-bic-lampada-new-biro-BIC-lamp-blue.webp",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-1",
-        "color_scheme": "scheme-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
+        "products_per_page": 8,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "standard",
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -653,6 +633,63 @@
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "image_with_text_7gxWGt": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Xk7Jqm": {
+          "type": "heading",
+          "settings": {
+            "heading": "NEW! Seletti BIC® Lamp",
+            "heading_size": "h1"
+          }
+        },
+        "caption_GQnb8z": {
+          "type": "caption",
+          "settings": {
+            "caption": "La lampada che non sapevi di desiderare.",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "text_PePwpm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sì, è proprio lei: la mitica penna BIC® che hai usato mille volte, ora diventa una lampada oversize firmata <strong>Seletti</strong>.<br/>Un’idea geniale, pop, fuori scala – da usare a terra, a parete o a soffitto – che accende la casa con luce calda e un’ironia inconfondibile.<br/>Disponibile in <strong>blu, nero e rosso</strong>, la <strong>BIC®  Lamp</strong> è già un’icona di design contemporaneo.<br/><br/>Se ti piace stupire, <strong>questa è la novità che fa per te.</strong></p>",
+            "text_style": "body"
+          }
+        },
+        "button_kEi6Qw": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scoprila ora!",
+            "button_link": "shopify://products/seletti-bic-lamp-blue",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Xk7Jqm",
+        "caption_GQnb8z",
+        "text_PePwpm",
+        "button_kEi6Qw"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/seletti-bic-lampada-new-biro-BIC-lamp-blue.webp",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn_Webjiz": {
@@ -1110,27 +1147,6 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
-    },
-    "product-grid": {
-      "type": "main-collection-product-grid",
-      "disabled": true,
-      "settings": {
-        "products_per_page": 36,
-        "columns_desktop": 4,
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": true,
-        "quick_add": "standard",
-        "enable_filtering": true,
-        "filter_type": "drawer",
-        "enable_sorting": true,
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -1140,7 +1156,7 @@
     "multicolumn_TCmKJE",
     "multicolumn_nxxwFr",
     "image_banner_HUnNNM",
-    "image_with_text_7gxWGt",
+    "product-grid",
     "multicolumn_kp8jzB",
     "collection_list_DFkntc",
     "collection_list_LxpCcQ",
@@ -1148,6 +1164,7 @@
     "collection_list_YNNqw7",
     "collection_list_TjThGx",
     "collection_list_Qdy6e7",
+    "image_with_text_7gxWGt",
     "multicolumn_Webjiz",
     "collection_list_pekHrY",
     "collection_list_qbh9yb",
@@ -1155,7 +1172,6 @@
     "collection_list_ky7KpY",
     "collection_list_jLjhzz",
     "collection_list_J4zThk",
-    "multicolumn_Q3fPtj",
-    "product-grid"
+    "multicolumn_Q3fPtj"
   ]
 }
