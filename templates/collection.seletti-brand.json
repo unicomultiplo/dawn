@@ -240,7 +240,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Kintsugi_set_Tableware.webp",
-            "title": "<strong>Seletti Kintsugi </strong>➝",
+            "title": "<strong>Kintsugi </strong>➝",
             "text": "<p>Per una tavola elegante ma non banale.</p>",
             "link_label": "",
             "link": "shopify://collections/seletti-catalogo-prodotti-kintsugi"
@@ -250,7 +250,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Seletti-Hybrid.webp",
-            "title": "<strong>Seletti Hybrid </strong>➝",
+            "title": "<strong>Hybrid </strong>➝",
             "text": "<p>Per una tavola scenografica.</p>",
             "link_label": "",
             "link": "shopify://collections/seletti-catalogo-prodotti-hybrid"
@@ -260,7 +260,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/toiletpaper-seletti-idee-regalo-iconiche.webp",
-            "title": "Seletti Toiletpaper ➝",
+            "title": "<strong>Toiletpaper </strong>➝",
             "text": "<p>Per chi ama rompere le regole.</p>",
             "link_label": "",
             "link": "shopify://collections/seletti-catalogo-prodotti-toiletpaper"
