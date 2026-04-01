@@ -223,7 +223,7 @@
         "button_QkwrGY": {
           "type": "button",
           "settings": {
-            "button_label": "Esplora ora le Collezioni Bone China",
+            "button_label": "Scopri i servizi completi",
             "button_link": "shopify://collections/piatti-in-bone-china",
             "button_style_secondary": true
           }
@@ -597,7 +597,7 @@
         "button_9TwHya": {
           "type": "button",
           "settings": {
-            "button_label": "Scopri Ora!",
+            "button_label": "Acquista i piatti in Bone China!",
             "button_link": "shopify://collections/piatti-in-bone-china",
             "button_style_secondary": true,
             "button_label_2": "",
