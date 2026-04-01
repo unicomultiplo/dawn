@@ -202,7 +202,7 @@
         "text_WDeHeE": {
           "type": "text",
           "settings": {
-            "text": "<strong>Scopri i pezzi più iconici Seletti.</strong>",
+            "text": "<strong>Se vuoi una casa che non assomiglia a nessun’altra, sei nel posto giusto.</strong>",
             "text_style": "caption-with-letter-spacing"
           }
         },
@@ -233,62 +233,90 @@
         "show_text_below": true
       }
     },
-    "collection_list_XNxzLc": {
-      "type": "collection-list",
+    "multicolumn_wgHnTj": {
+      "type": "multicolumn",
       "blocks": {
-        "featured_collection_bDNCP6": {
-          "type": "featured_collection",
+        "column_VFcbM6": {
+          "type": "column",
           "settings": {
-            "collection": "seletti-catalogo-prodotti-kintsugi"
+            "image": "shopify://shop_images/Kintsugi_set_Tableware.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         },
-        "featured_collection_3beqEf": {
-          "type": "featured_collection",
+        "column_X88kPE": {
+          "type": "column",
           "settings": {
-            "collection": "seletti-hybrid-piatti"
+            "image": "shopify://shop_images/Seletti-Hybrid.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         },
-        "featured_collection_9nLycV": {
-          "type": "featured_collection",
+        "column_qENU8G": {
+          "type": "column",
           "settings": {
-            "collection": "seletti-catalogo-prodotti-toiletpaper"
+            "image": "shopify://shop_images/toiletpaper-seletti-idee-regalo-iconiche.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         },
-        "featured_collection_ncTgEG": {
-          "type": "featured_collection",
+        "column_cK6ib3": {
+          "type": "column",
           "settings": {
-            "collection": "love-in-bloom-seletti"
+            "image": "shopify://shop_images/09920_LOVE_IN_BLOOM_LIFESTYLE_BLUE_FLOWER.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         },
-        "featured_collection_Frtr8y": {
-          "type": "featured_collection",
+        "column_CqDziX": {
+          "type": "column",
           "settings": {
-            "collection": "oggetto-luce-seletti"
+            "image": "shopify://shop_images/14883-14881-14880-14882-monkeylamp-seletti-sciammia_1.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         },
-        "featured_collection_9DWgfG": {
-          "type": "featured_collection",
+        "column_WWAd83": {
+          "type": "column",
           "settings": {
-            "collection": "oggetto-decorativo-regalo-seletti"
+            "image": "shopify://shop_images/seletti-lucky-temple-oggetto-decorativo-32.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "featured_collection_bDNCP6",
-        "featured_collection_3beqEf",
-        "featured_collection_9nLycV",
-        "featured_collection_ncTgEG",
-        "featured_collection_Frtr8y",
-        "featured_collection_9DWgfG"
+        "column_VFcbM6",
+        "column_X88kPE",
+        "column_qENU8G",
+        "column_cK6ib3",
+        "column_CqDziX",
+        "column_WWAd83"
       ],
-      "name": "t:sections.collection-list.presets.name",
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>Scopri lampade, piatti e idee regalo più iconici Seletti</strong>",
-        "heading_size": "h2",
-        "image_ratio": "portrait",
+        "title": "Scopri lampade, piatti e idee regalo più iconici Seletti",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
         "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "scheme-2",
-        "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
@@ -1218,7 +1246,7 @@
     "multicolumn_TCmKJE",
     "multicolumn_nxxwFr",
     "image_banner_HUnNNM",
-    "collection_list_XNxzLc",
+    "multicolumn_wgHnTj",
     "product-grid",
     "multicolumn_kp8jzB",
     "collection_list_DFkntc",
