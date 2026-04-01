@@ -240,30 +240,30 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Kintsugi_set_Tableware.webp",
-            "title": "",
-            "text": "",
+            "title": "<strong>Seletti Kintsugi </strong>➝",
+            "text": "<p>Per una tavola elegante ma non banale.</p>",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/seletti-catalogo-prodotti-kintsugi"
           }
         },
         "column_X88kPE": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Seletti-Hybrid.webp",
-            "title": "",
-            "text": "",
+            "title": "<strong>Seletti Hybrid </strong>➝",
+            "text": "<p>Per una tavola scenografica.</p>",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/seletti-catalogo-prodotti-hybrid"
           }
         },
         "column_qENU8G": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/toiletpaper-seletti-idee-regalo-iconiche.webp",
-            "title": "",
-            "text": "",
+            "title": "Seletti Toiletpaper ➝",
+            "text": "<p>Per chi ama rompere le regole.</p>",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/seletti-catalogo-prodotti-toiletpaper"
           }
         },
         "column_cK6ib3": {
@@ -304,6 +304,9 @@
         "column_cK6ib3",
         "column_CqDziX",
         "column_WWAd83"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
