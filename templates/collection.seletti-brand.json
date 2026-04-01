@@ -233,6 +233,68 @@
         "show_text_below": true
       }
     },
+    "collection_list_XNxzLc": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_bDNCP6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-catalogo-prodotti-kintsugi"
+          }
+        },
+        "featured_collection_3beqEf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-hybrid-piatti"
+          }
+        },
+        "featured_collection_9nLycV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-catalogo-prodotti-toiletpaper"
+          }
+        },
+        "featured_collection_ncTgEG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "love-in-bloom-seletti"
+          }
+        },
+        "featured_collection_Frtr8y": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "oggetto-luce-seletti"
+          }
+        },
+        "featured_collection_9DWgfG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "oggetto-decorativo-regalo-seletti"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_bDNCP6",
+        "featured_collection_3beqEf",
+        "featured_collection_9nLycV",
+        "featured_collection_ncTgEG",
+        "featured_collection_Frtr8y",
+        "featured_collection_9DWgfG"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "<strong>Scopri lampade, piatti e idee regalo più iconici Seletti</strong>",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "scheme-2",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "disabled": true,
@@ -1156,6 +1218,7 @@
     "multicolumn_TCmKJE",
     "multicolumn_nxxwFr",
     "image_banner_HUnNNM",
+    "collection_list_XNxzLc",
     "product-grid",
     "multicolumn_kp8jzB",
     "collection_list_DFkntc",
