@@ -19,18 +19,18 @@
     "image_banner_VC4GDe": {
       "type": "image-banner",
       "blocks": {
-        "heading_awipGh": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Eleganza senza tempo</strong>",
-            "heading_size": "h2"
-          }
-        },
         "text_jFNBBB": {
           "type": "text",
           "settings": {
             "text": "<strong>Scopri la nostra selezione di piatti e servizi in bone china: design eleganti, qualità selezionata </strong>",
             "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "heading_awipGh": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Eleganza senza tempo</strong>",
+            "heading_size": "h2"
           }
         },
         "buttons_ikW4ax": {
@@ -46,8 +46,8 @@
         }
       },
       "block_order": [
-        "heading_awipGh",
         "text_jFNBBB",
+        "heading_awipGh",
         "buttons_ikW4ax"
       ],
       "settings": {
@@ -93,67 +93,6 @@
         "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "collection_list_kjc7qg": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_cETjLG": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "piatti-in-bone-china"
-          }
-        },
-        "featured_collection_EnhJUD": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "shabbychic-knindustrie"
-          }
-        },
-        "featured_collection_egmnGj": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-hybrid-piatti"
-          }
-        },
-        "featured_collection_Fce7QT": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "knindustrie-catalogo-prodotti-davide-oldani"
-          }
-        },
-        "featured_collection_gKtyq6": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bon-ton-bitossi-home"
-          }
-        },
-        "featured_collection_GweJry": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "minimal-bitossi-home"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_cETjLG",
-        "featured_collection_EnhJUD",
-        "featured_collection_egmnGj",
-        "featured_collection_Fce7QT",
-        "featured_collection_gKtyq6",
-        "featured_collection_GweJry"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -391,28 +330,61 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_8kCVCG": {
-      "type": "featured-collection",
+    "collection_list_kjc7qg": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_cETjLG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "piatti-in-bone-china"
+          }
+        },
+        "featured_collection_EnhJUD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shabbychic-knindustrie"
+          }
+        },
+        "featured_collection_egmnGj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-hybrid-piatti"
+          }
+        },
+        "featured_collection_Fce7QT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-catalogo-prodotti-davide-oldani"
+          }
+        },
+        "featured_collection_gKtyq6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bon-ton-bitossi-home"
+          }
+        },
+        "featured_collection_GweJry": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "minimal-bitossi-home"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_cETjLG",
+        "featured_collection_EnhJUD",
+        "featured_collection_egmnGj",
+        "featured_collection_Fce7QT",
+        "featured_collection_gKtyq6",
+        "featured_collection_GweJry"
+      ],
       "settings": {
         "title": "<strong>Esplora ora</strong> le collezioni in Bone China e aggiungi un tocco di classe alla tua tavola",
         "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "piatti-in-bone-china",
-        "products_to_show": 10,
+        "image_ratio": "square",
         "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
         "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
+        "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
@@ -1061,13 +1033,12 @@
     "main",
     "image_banner_VC4GDe",
     "multicolumn_VR4EHF",
-    "collection_list_kjc7qg",
     "multicolumn_6fXjNw",
     "multicolumn_eQWbbm",
     "image_with_text_LCL7jb",
     "image_with_text_CBxYKc",
     "multicolumn_T79FP8",
-    "featured_collection_8kCVCG",
+    "collection_list_kjc7qg",
     "multicolumn_bEDH9B",
     "multicolumn_KKQxqM",
     "rich_text_73PwUA",
