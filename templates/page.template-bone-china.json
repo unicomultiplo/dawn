@@ -18,18 +18,50 @@
     },
     "image_banner_VC4GDe": {
       "type": "image-banner",
+      "blocks": {
+        "heading_awipGh": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Eleganza senza tempo</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_jFNBBB": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Scopri la nostra selezione di piatti e servizi in bone china: design eleganti, qualità selezionata </strong>",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "buttons_ikW4ax": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Scopri la collezione in Bone China",
+            "button_link_1": "shopify://collections/piatti-in-bone-china",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_awipGh",
+        "text_jFNBBB",
+        "buttons_ikW4ax"
+      ],
       "settings": {
         "image": "shopify://shop_images/Bone-China.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "desktop_content_position": "top-left",
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "multicolumn_VR4EHF": {
@@ -61,6 +93,53 @@
         "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collection_list_kjc7qg": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_cETjLG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "piatti-in-bone-china"
+          }
+        },
+        "featured_collection_egmnGj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-hybrid-piatti"
+          }
+        },
+        "featured_collection_Fce7QT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-catalogo-prodotti-davide-oldani"
+          }
+        },
+        "featured_collection_gKtyq6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-total-white-brandani"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_cETjLG",
+        "featured_collection_egmnGj",
+        "featured_collection_Fce7QT",
+        "featured_collection_gKtyq6"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -862,7 +941,8 @@
             "heading": "Cosa significa davvero “Bone China”?",
             "icon": "eye",
             "row_content": "<p>Il nome <strong>Bone China</strong> potrebbe suonare misterioso, ma il suo significato è semplice: si tratta di una <strong>porcellana arricchita con cenere d’osso</strong>, un ingrediente che le conferisce la sua incredibile <strong>lucentezza, leggerezza e resistenza</strong>.</p>",
-            "page": ""
+            "page": "",
+            "liquid_content": ""
           }
         },
         "collapsible_row_AcEcTi": {
@@ -871,7 +951,8 @@
             "heading": "Perché la Bone China è considerata così preziosa?",
             "icon": "eye",
             "row_content": "<p>La <strong>Bone China</strong> è preziosa perché racchiude il meglio di due mondi: la <strong>raffinatezza della porcellana</strong> e una <strong>resistenza sorprendente</strong>. Ciò che la rende unica è la sua composizione speciale.</p><p>A differenza della porcellana tradizionale, è più <strong>dura ma sottile</strong>, risultando elegante e al tempo stesso pratica. Per questo è sempre stata associata a un’idea di <strong>lusso senza tempo.</strong></p><p>Che sia per un’occasione speciale o per l’uso quotidiano, la <strong>Bone China</strong> è un investimento di stile e qualità, capace di durare nel tempo senza perdere il suo fascino. </p><p></p>",
-            "page": ""
+            "page": "",
+            "liquid_content": ""
           }
         },
         "collapsible_row_KKXYBt": {
@@ -880,7 +961,8 @@
             "heading": "La Bone China è sicura per gli alimenti caldi?",
             "icon": "eye",
             "row_content": "<p>Sì, assolutamente! La <strong>Bone China</strong> è <strong>perfettamente sicura</strong> per servire cibi e bevande calde. Grazie alla sua composizione speciale, resiste bene alle alte temperature senza assorbire sapori o odori.</p><p>Tuttavia, è sempre meglio evitare sbalzi termici troppo bruschi (ad esempio, non metterla direttamente dal freezer al microonde) per preservarne l’integrità nel tempo.</p><p><strong>Se cerchi eleganza e praticità per la tua tavola, la Bone China è la scelta ideale! </strong></p>",
-            "page": ""
+            "page": "",
+            "liquid_content": ""
           }
         },
         "collapsible_row_qpbR9i": {
@@ -889,7 +971,8 @@
             "heading": " Cosa fare (e cosa evitare) per prendersi cura della Bone China?",
             "icon": "eye",
             "row_content": "<p><strong>La Bone China è resistente ma richiede attenzioni</strong> particolari. Può essere lavata in lavastoviglie solo se priva di decori metallici, usando cicli delicati a bassa temperatura.</p><p> Il lavaggio a mano resta il metodo più sicuro: usa<strong> acqua tiepida</strong>, detersivo delicato e una spugna morbida.</p><p><strong>Evita</strong> spugne <strong>abrasive</strong>, <strong>sbalzi termici </strong>e l’esposizione diretta a fiamme o <strong>microonde</strong>, soprattutto se i pezzi hanno finiture in oro o argento. </p><p>Per conservarla, <strong>impila </strong>piatti e tazze separandoli con un <strong>panno o foglio di carta per evitare graffi e</strong> scheggiature. </p><p>Con queste semplici cure, resterà bella a lungo.<br/><br/></p>",
-            "page": ""
+            "page": "",
+            "liquid_content": ""
           }
         }
       },
@@ -958,59 +1041,13 @@
         "padding_top": 36,
         "padding_bottom": 0
       }
-    },
-    "collection_list_kjc7qg": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_cETjLG": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "piatti-in-bone-china"
-          }
-        },
-        "featured_collection_egmnGj": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-hybrid-piatti"
-          }
-        },
-        "featured_collection_Fce7QT": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "knindustrie-catalogo-prodotti-davide-oldani"
-          }
-        },
-        "featured_collection_gKtyq6": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-total-white-brandani"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_cETjLG",
-        "featured_collection_egmnGj",
-        "featured_collection_Fce7QT",
-        "featured_collection_gKtyq6"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "main",
     "image_banner_VC4GDe",
     "multicolumn_VR4EHF",
+    "collection_list_kjc7qg",
     "multicolumn_6fXjNw",
     "multicolumn_eQWbbm",
     "image_with_text_LCL7jb",
@@ -1031,7 +1068,6 @@
     "multicolumn_Exw9py",
     "rich_text_6qfX7g",
     "collapsible_content_4C3RVT",
-    "multicolumn_HpnGYB",
-    "collection_list_kjc7qg"
+    "multicolumn_HpnGYB"
   ]
 }
