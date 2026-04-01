@@ -270,30 +270,30 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/09920_LOVE_IN_BLOOM_LIFESTYLE_BLUE_FLOWER.webp",
-            "title": "",
-            "text": "",
+            "title": "<strong>Love in Bloom </strong>➝",
+            "text": "<p>Per sorprendere, anche quando pensi di non avere idee.</p>",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/love-in-bloom-seletti"
           }
         },
         "column_CqDziX": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/14883-14881-14880-14882-monkeylamp-seletti-sciammia_1.webp",
-            "title": "",
-            "text": "",
+            "title": "<strong>Monkey Lamp </strong>➝",
+            "text": "<p>Per dare carattere a qualsiasi ambiente.</p>",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/seletti-catalogo-prodotti-seletti-marcantonio-monkey-lamp"
           }
         },
         "column_WWAd83": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/seletti-lucky-temple-oggetto-decorativo-32.webp",
-            "title": "",
-            "text": "",
+            "title": "Idee Regalo ➝",
+            "text": "<p>Regalare un oggetto che custodisce significati e stile.</p>",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/oggetto-decorativo-regalo-seletti"
           }
         }
       },
