@@ -106,6 +106,12 @@
             "collection": "piatti-in-bone-china"
           }
         },
+        "featured_collection_EnhJUD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shabbychic-knindustrie"
+          }
+        },
         "featured_collection_egmnGj": {
           "type": "featured_collection",
           "settings": {
@@ -121,15 +127,23 @@
         "featured_collection_gKtyq6": {
           "type": "featured_collection",
           "settings": {
-            "collection": "brandani-total-white-brandani"
+            "collection": "bon-ton-bitossi-home"
+          }
+        },
+        "featured_collection_GweJry": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "minimal-bitossi-home"
           }
         }
       },
       "block_order": [
         "featured_collection_cETjLG",
+        "featured_collection_EnhJUD",
         "featured_collection_egmnGj",
         "featured_collection_Fce7QT",
-        "featured_collection_gKtyq6"
+        "featured_collection_gKtyq6",
+        "featured_collection_GweJry"
       ],
       "settings": {
         "title": "",
