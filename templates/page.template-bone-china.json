@@ -153,6 +153,7 @@
         "column_Ey4w4m",
         "column_bnrgcr"
       ],
+      "custom_css": [],
       "settings": {
         "title": "Ti guideremo alla <strong>scoperta della Bone China</strong>, dalle sue origini alla manutenzione perfetta, con consigli per l'acquisto.",
         "heading_size": "h2",
@@ -177,7 +178,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><em>📌 </em><em><strong>Cos'è la Bone China? </strong></em><em>La </em><a href=\"/collections/piatti-in-bone-china\" title=\"Piatti in Bone China\"><em><strong>Bone China</strong></em></a><em> è una delle</em><em><strong> porcellane più pregiate al mondo</strong></em><em>, apprezzata per la sua trasparenza, brillantezza e resistenza. Il suo segreto? Un'innovativa composizione che la rendono incredibilmente </em><em><strong>leggera ma resistente</strong></em><em>.</em></p>",
+            "text": "<p><em>📌 </em><em><strong>Cos'è la Bone China? <br/></strong></em><em>La </em><a href=\"/collections/piatti-in-bone-china\" title=\"Piatti in Bone China\"><em><strong>Bone China</strong></em></a><em> è una delle</em><em><strong> porcellane più pregiate al mondo</strong></em><em>, apprezzata per la sua trasparenza, brillantezza e resistenza. Il suo segreto? Un'innovativa composizione che la rendono incredibilmente </em><em><strong>leggera ma resistente</strong></em><em>.</em></p>",
             "link_label": "",
             "link": ""
           }
@@ -379,7 +380,7 @@
         "featured_collection_GweJry"
       ],
       "settings": {
-        "title": "<strong>Esplora ora</strong> le collezioni in Bone China e aggiungi un tocco di classe alla tua tavola",
+        "title": "<strong>Esplora ora</strong> le collezioni in <strong>Bone China</strong> e aggiungi un tocco di classe alla tua tavola",
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 6,
@@ -443,7 +444,26 @@
             "title": "",
             "text": "<h3><strong>Perché la Bone China è considerata un lusso intramontabile</strong></h3><ul><li>Fin dalla sua nascita, la <strong>Bone China</strong> è stata sinonimo di <strong>eleganza e qualità</strong>, conquistando nobiltà e maestri artigiani in tutta Europa. </li><li>La sua combinazione unica di <strong>leggerezza, brillantezza e resistenza</strong> l'ha resa la scelta perfetta per chi cerca raffinatezza senza compromessi. </li></ul><p></p><p></p><p>Ancora oggi, è il materiale preferito per piatti e servizi da tavola di alta gamma, aggiungendo un tocco di lusso senza tempo a ogni mise en place.</p>",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/piatti-in-bone-china"
+          }
+        },
+        "column_BFK6j8": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong><br/></strong>👉 <strong>Scegli il servizio in  Bone China perfetto per la tua tavola!</strong></h3>",
+            "link_label": "",
+            "link": "shopify://collections/piatti-in-bone-china"
+          }
+        },
+        "column_kXpwKJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Solaria-KnIndustrie-piatti-Bone-China.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/piatti-in-bone-china"
           }
         },
         "column_QjeBJh": {
@@ -463,24 +483,18 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_kXpwKJ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Solaria-KnIndustrie-piatti-Bone-China.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://collections/piatti-in-bone-china"
-          }
         }
       },
       "block_order": [
         "column_ChXLxh",
         "column_zAVLFP",
+        "column_BFK6j8",
+        "column_kXpwKJ",
         "column_QjeBJh",
-        "column_GPdbat",
-        "column_kXpwKJ"
+        "column_GPdbat"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
       ],
       "settings": {
         "title": "<strong> La storia della Bone China: un’antica tradizione di eleganza</strong>",
