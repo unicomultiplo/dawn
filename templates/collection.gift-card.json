@@ -512,9 +512,9 @@
           "settings": {
             "image": "shopify://shop_images/idee-regalo-seletti.webp",
             "title": "",
-            "text": "<p>SELETTI</p>",
+            "text": "<p>Seletti</p>",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/tappeti-e-tappetini-seletti?filter.v.price.gte=&filter.v.price.lte=60&sort_by=created-descending"
+            "link": "shopify://collections/seletti"
           }
         },
         "column_mPJdWC": {
@@ -522,9 +522,9 @@
           "settings": {
             "image": "shopify://shop_images/knIndustrie_Collezione_Storm__mood.webp",
             "title": "",
-            "text": "<p>KNINDUSTRIE</p>",
+            "text": "<p>KnIndustrie</p>",
             "link_label": "",
-            "link": "shopify://products/1558-knindustrie-not-ice-cubetti-pietra-ollare"
+            "link": "shopify://collections/knindustrie"
           }
         },
         "column_cQLFkJ": {
@@ -532,9 +532,9 @@
           "settings": {
             "image": "shopify://shop_images/bitossi-home-catalogo-novita.webp",
             "title": "",
-            "text": "<p>BITOSSI HOME</p>",
+            "text": "<p>Bitossi Home</p>",
             "link_label": "",
-            "link": "shopify://collections/torchon-bitossi-home"
+            "link": "shopify://collections/bitossi-home"
           }
         },
         "column_CWEJdV": {
@@ -542,7 +542,7 @@
           "settings": {
             "image": "shopify://shop_images/oh-yeah-spoon-e-vissero-felici-e-contenti-set-torta-3.webp",
             "title": "",
-            "text": "<p>OH YEAH SPOON!</p>",
+            "text": "<p>Oh Yeah Spoon!</p>",
             "link_label": "",
             "link": "shopify://products/oh-yeah-spoon-set-dolce-posate-vintage-placcate-in-argento"
           }
@@ -552,9 +552,9 @@
           "settings": {
             "image": "shopify://shop_images/miho-mystic-violet-tappeto-taftati-7.webp",
             "title": "",
-            "text": "<p>MIHO</p>",
+            "text": "<p>Miho</p>",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/miho?filter.v.price.gte=&filter.v.price.lte=55&sort_by=manual"
+            "link": "shopify://collections/miho"
           }
         },
         "column_7Xkjqn": {
@@ -562,7 +562,7 @@
           "settings": {
             "image": "shopify://shop_images/vanilla-fly-LA86_LA290_LA291_LA303_CHAIR.webp",
             "title": "",
-            "text": "<p>VANILLA FLY</p>",
+            "text": "<p>Vanilla Fly</p>",
             "link_label": "",
             "link": "shopify://collections/vanilla-fly"
           }
