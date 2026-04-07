@@ -50,8 +50,8 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/idee-regalo-seletti-san-valentino-originali.webp",
-        "image_overlay_opacity": 0,
+        "image": "shopify://shop_images/storm-vassoio-50x20-cm.webp",
+        "image_overlay_opacity": 10,
         "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
@@ -61,30 +61,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": false
-      }
-    },
-    "featured_blog_heaLnh": {
-      "type": "featured-blog",
-      "custom_css": [
-        ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
-        "h3.card__heading {font-size: 16px;}",
-        "p.article-card__excerpt {font-size: 12px;}",
-        "h1.title--primary {display: none !important;}",
-        "a#ViewAll-template--22267420573961__featured_blog_bnjUDn {margin-top: 0 !important;}"
-      ],
-      "settings": {
-        "heading": "Cucina che Passione",
-        "heading_size": "h2",
-        "blog": "cucina-che-passione",
-        "post_limit": 4,
-        "columns_desktop": 4,
-        "color_scheme": "",
-        "show_image": true,
-        "show_date": false,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 16,
-        "padding_bottom": 0
       }
     },
     "featured_blog_bnjUDn": {
@@ -108,6 +84,30 @@
         "show_author": false,
         "show_view_all": true,
         "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "featured_blog_heaLnh": {
+      "type": "featured-blog",
+      "custom_css": [
+        ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
+        "h3.card__heading {font-size: 16px;}",
+        "p.article-card__excerpt {font-size: 12px;}",
+        "h1.title--primary {display: none !important;}",
+        "a#ViewAll-template--22267420573961__featured_blog_bnjUDn {margin-top: 0 !important;}"
+      ],
+      "settings": {
+        "heading": "Cucina che Passione",
+        "heading_size": "h2",
+        "blog": "cucina-che-passione",
+        "post_limit": 4,
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 16,
         "padding_bottom": 0
       }
     },
@@ -177,9 +177,9 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/idee-regalo-seletti.webp",
+        "image": "shopify://shop_images/09920_LOVE_IN_BLOOM_LIFESTYLE_BLUE_FLOWER.webp",
         "height": "medium",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
@@ -338,6 +338,16 @@
     "multicolumn_xYAXka": {
       "type": "multicolumn",
       "blocks": {
+        "column_gPqQMV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/come-organizzare-l-armadio-accessori-cambio-di-stagione.png",
+            "title": "",
+            "text": "",
+            "link_label": "Cambio di stagione, guida completa",
+            "link": "shopify://pages/il-grande-classico-come-fare-il-cambio-di-stagione-e-non-impazzire"
+          }
+        },
         "column_KmWNfm": {
           "type": "column",
           "settings": {
@@ -364,26 +374,16 @@
             "image": "shopify://shop_images/IMG_1980.webp",
             "title": "",
             "text": "",
-            "link_label": "Consigli per le Tue Bomboniere 2025",
+            "link_label": "Consigli per le Tue Bomboniere",
             "link": "https://www.unicoemultiplo.com/pages/bomboniere-brandani"
-          }
-        },
-        "column_gPqQMV": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/come-organizzare-l-armadio-accessori-cambio-di-stagione.png",
-            "title": "",
-            "text": "",
-            "link_label": "Cambio di stagione, guida completa",
-            "link": "shopify://pages/il-grande-classico-come-fare-il-cambio-di-stagione-e-non-impazzire"
           }
         }
       },
       "block_order": [
+        "column_gPqQMV",
         "column_KmWNfm",
         "column_hxikiy",
-        "column_C3bNqP",
-        "column_gPqQMV"
+        "column_C3bNqP"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -555,8 +555,8 @@
   "order": [
     "main",
     "image_banner_dPbXBj",
-    "featured_blog_heaLnh",
     "featured_blog_bnjUDn",
+    "featured_blog_heaLnh",
     "featured_blog_abHrVD",
     "image_with_text_8BeU3P",
     "featured_blog_KyiK6b",

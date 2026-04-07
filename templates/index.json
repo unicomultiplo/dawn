@@ -12,24 +12,6 @@
     "slideshow_dUd4mz": {
       "type": "slideshow",
       "blocks": {
-        "slide_KAnp8F": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/pasqua-2026-idee-regalo-originali.webp",
-            "heading": "Pasqua a tavola, con stile.",
-            "heading_size": "h2",
-            "subheading": "Dettagli che trasformano ogni momento.",
-            "button_label": "Scopri Ora →",
-            "link": "shopify://collections/idee-regalo-pasqua",
-            "button_style_secondary": true,
-            "box_align": "top-left",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_aEtLTa": {
           "type": "slide",
           "settings": {
@@ -50,7 +32,6 @@
         }
       },
       "block_order": [
-        "slide_KAnp8F",
         "slide_aEtLTa"
       ],
       "settings": {
@@ -73,12 +54,12 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "idee-regalo-pasqua",
+        "collection": "seletti",
         "products_to_show": 23,
         "columns_desktop": 6,
         "full_width": true,
         "show_view_all": true,
-        "view_all_style": "solid",
+        "view_all_style": "outline",
         "enable_desktop_slider": true,
         "color_scheme": "scheme-1",
         "image_ratio": "square",
@@ -157,7 +138,7 @@
         ".multicolumn-list__item:last-child .multicolumn-card__info {display: flex; flex-direction: column;}"
       ],
       "settings": {
-        "title": "Porta in tavola la primavera.Colori delicati, dettagli che fioriscono, momenti da condividere",
+        "title": "Porta in tavola la primavera. Colori delicati, dettagli che fioriscono, momenti da condividere",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
@@ -690,16 +671,6 @@
             "link": "shopify://pages/il-grande-classico-come-fare-il-cambio-di-stagione-e-non-impazzire"
           }
         },
-        "column_zQeJAx": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/bitossi-natale-idee-regalo.webp",
-            "title": "",
-            "text": "<p>La Tavola di Pasqua: Idee per una Mise en Place innovativa <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://blogs/apparecchiare-con-stile/la-tavola-di-pasqua-idee-per-una-mise-en-place-innovativa"
-          }
-        },
         "column_cJAYUe": {
           "type": "column",
           "settings": {
@@ -733,7 +704,6 @@
       },
       "block_order": [
         "column_JyzPxx",
-        "column_zQeJAx",
         "column_cJAYUe",
         "column_bYmCt9",
         "column_B9rnKn"
@@ -747,7 +717,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 4,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "Il Blog U&M →",
