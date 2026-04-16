@@ -271,6 +271,12 @@
           "settings": {
             "collection": "very-goods-studio"
           }
+        },
+        "featured_collection_HWQTkJ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "vluv"
+          }
         }
       },
       "block_order": [
@@ -280,7 +286,8 @@
         "featured_collection_XjBFQc",
         "featured_collection_gd7zU7",
         "featured_collection_rUqiVW",
-        "featured_collection_APeCpT"
+        "featured_collection_APeCpT",
+        "featured_collection_HWQTkJ"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
