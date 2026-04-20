@@ -29,10 +29,29 @@
             "color_scheme": "scheme-5",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_YHqDyt": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Sedute-Vluv-morbide_-versatili-e-perfette-per-arredare-con-leggerezza.webp",
+            "heading": "Il comfort incontra il design",
+            "heading_size": "h0",
+            "subheading": "Sedute Vluv: morbide, versatili e perfette per arredare con leggerezza.",
+            "button_label": "Scopri Vluv →",
+            "link": "https://www.unicoemultiplo.com/collections/vluv",
+            "button_style_secondary": true,
+            "box_align": "top-left",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 20,
+            "color_scheme": "scheme-5",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
-        "slide_aEtLTa"
+        "slide_aEtLTa",
+        "slide_YHqDyt"
       ],
       "settings": {
         "layout": "full_bleed",
