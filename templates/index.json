@@ -214,7 +214,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "",
+        "title": "<strong>Il profumo dell’eleganza</strong>",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
