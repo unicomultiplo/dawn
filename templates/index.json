@@ -185,7 +185,7 @@
         "column_LdyctV": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/gift-card-unico-e-multiplo-buono-regalo.gif",
+            "image": "shopify://shop_images/DIFFUSORE-PROFUMO-DERITREA.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -195,10 +195,10 @@
         "column_r7gR4e": {
           "type": "column",
           "settings": {
-            "title": "<strong>Non sai cosa regalare?</strong>",
-            "text": "<p>La <strong>Gift Card U&M</strong> è il modo più semplice ed elegante per regalare libertà di scelta tra oggetti per la casa, la tavola e il design.</p><p>È <strong>digitale</strong>, utilizzabile <strong>online su unicoemultiplo.com</strong> o nel negozio di <strong>Civitanova Marche</strong>.<br/><br/>Puoi scegliere di <strong>inviarla </strong>direttamente al <strong>destinatario </strong>via mail con un messaggio personalizzato.<br/><br/><strong>Perfetta </strong>per compleanni, anniversari, nuove case o per un<strong> pensiero speciale</strong>.<br/><br/><strong>Scopri di più -&gt;</strong></p>",
+            "title": "DIFFUSORE A BASTONCINI",
+            "text": "<p><strong>Il fascino di un’antica farmacia, il profumo che veste la casa</strong><br/><br/>Diffusore in vetro scuro con 500 ml di Essenza Aromatica d’Eritrea e bastoncini naturali in bambù, confezionato in un’elegante scatola regalo.<br/></p><p><br/><strong>Profuma i tuoi spazi con stile -&gt;</strong><br/><br/><br/></p>",
             "link_label": "",
-            "link": "shopify://collections/buoni-regalo-e-gift-card-unico-multiplo"
+            "link": "shopify://products/diffusore-a-bastoncini-carta-deritrea-500ml"
           }
         }
       },
