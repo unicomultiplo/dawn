@@ -106,7 +106,7 @@
         "column_XrjaiE": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knimndustrie-bitossi-seletti-tavola.webp",
+            "image": "shopify://shop_images/Seletti-vaso-on-acid.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -116,7 +116,7 @@
         "column_RUzwg4": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knimndustrie-bitossi-seletti-tavola-1.webp",
+            "image": "shopify://shop_images/Seletti-vaso-hybrid.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -126,7 +126,7 @@
         "column_XCzETy": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knimndustrie-bitossi-seletti-tavola-2.webp",
+            "image": "shopify://shop_images/seletti-vasi-kintsugi.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -137,9 +137,9 @@
           "type": "column",
           "settings": {
             "title": "<strong> Essenziale ed elegante</strong>",
-            "text": "<p><br/>Selezioni di design per la tua tavola.<br/><br/>Linee contemporanee, materiali autentici, dettagli che fanno la differenza.<br/><br/>Scopri le collezioni firmate KnIndustrie e Bitossi e seletti<br/><br/></p>",
+            "text": "<p><strong>Essenziale o sorprendente</strong></p><p>Selezioni di design per arredare con personalità.<br/><br/>Linee artistiche, finiture ricercate, dettagli che fanno la differenza.<br/><br/>Scopri i vasi Seletti e porta in casa un tocco creativo fuori dal comune.</p>",
             "link_label": "Scopri la collezione",
-            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti"
+            "link": ""
           }
         }
       },
@@ -157,7 +157,7 @@
         ".multicolumn-list__item:last-child .multicolumn-card__info {display: flex; flex-direction: column;}"
       ],
       "settings": {
-        "title": "Porta in tavola la primavera. Colori delicati, dettagli che fioriscono, momenti da condividere",
+        "title": "Oggetti che fanno fiorire lo stile",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
