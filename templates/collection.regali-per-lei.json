@@ -73,7 +73,7 @@
             "title": "<strong>Per la mamma che ama la tavola</strong>",
             "text": "<h6>Tazze, vassoi, piatti speciali, accessori da portata</h6>",
             "link_label": "",
-            "link": "shopify://collections/illuminazione-candelabri-e-candele"
+            "link": "https://collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=CUCINA+%26+TAVOLA&sort_by=manual"
           }
         },
         "column_rHGYQ9": {
@@ -83,7 +83,7 @@
             "title": "<strong>Per la mamma che ama la casa</strong>",
             "text": "<h6>Vasi, fragranze, lampade, dettagli decorativi</h6>",
             "link_label": "",
-            "link": "shopify://collections/kikkerland"
+            "link": "https://collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=ARREDO+%26+COMPLEMENTI&sort_by=manual"
           }
         },
         "column_P4wFY4": {
@@ -93,7 +93,7 @@
             "title": "<strong>Per la mamma che ama le cose utili ma belle</strong>",
             "text": "<h6>Accessori cucina, organizer, oggetti funzionali di design</h6>",
             "link_label": "",
-            "link": "shopify://collections/doiy"
+            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.p.tag=idee+regalo+per+casa+e+cucina&page=2&sort_by=manual&_gl"
           }
         },
         "column_67fKQP": {
@@ -103,7 +103,7 @@
             "title": "<strong>Per la mamma che ama i gesti semplici</strong>",
             "text": "<h6>Piccoli prezzi, grandi idee regalo</h6>",
             "link_label": "",
-            "link": "shopify://collections/disegnetti-depressetti"
+            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Idee+Regalo+Economiche+sotto+i+50%E2%82%AC&sort_by=manual#template--22793522249993__product-grid"
           }
         }
       },
@@ -142,6 +142,38 @@
         "color_scheme": "scheme-1",
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "custom_css": [
+        "h1 {display: none;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 36,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "none",
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "collection_list_jLGpVy": {
@@ -204,38 +236,6 @@
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "banner": {
-      "type": "main-collection-banner",
-      "disabled": true,
-      "custom_css": [
-        "h1 {display: none;}"
-      ],
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": false,
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
-      }
-    },
-    "product-grid": {
-      "type": "main-collection-product-grid",
-      "settings": {
-        "products_per_page": 36,
-        "columns_desktop": 4,
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": true,
-        "quick_add": "none",
-        "enable_filtering": true,
-        "filter_type": "drawer",
-        "enable_sorting": true,
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "multicolumn_nEp8EE": {
