@@ -14,7 +14,7 @@
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
         "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h1>{{ collection.title }}</h1>\n</div>\n</section>",
-        "color_scheme": "scheme-5152f450-2781-4fd5-8e48-921adbaa0cbc",
+        "color_scheme": "scheme-1",
         "padding_top": 20,
         "padding_bottom": 0
       }
@@ -56,7 +56,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-5152f450-2781-4fd5-8e48-921adbaa0cbc",
+        "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 0,
