@@ -192,7 +192,6 @@
         "featured_collection_NCXTyL",
         "featured_collection_BmGXdd"
       ],
-      "disabled": true,
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
@@ -891,9 +890,9 @@
     "multicolumn_MtQULr",
     "multicolumn_HtCLj3",
     "custom_liquid_V4d3KX",
-    "collection_list_jLGpVy",
     "banner",
     "product-grid",
+    "collection_list_jLGpVy",
     "multicolumn_nEp8EE",
     "image_with_text_bkAqWb",
     "image_with_text_KGfyjb",
