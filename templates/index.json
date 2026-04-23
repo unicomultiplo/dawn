@@ -14,12 +14,11 @@
       "blocks": {
         "slide_ezdQKB": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/festa-della-mamma-selezione-idee-regalo-originali.webp",
             "heading": "Festa della Mamma",
             "heading_size": "h0",
-            "subheading": "Scopri la selezione di idee regalo pensate per sorprendere con eleganza e personalità.",
+            "subheading": "Scopri la selezione di <strong>idee regalo</strong> pensate per sorprendere con eleganza e personalità.",
             "button_label": "Scopri la Selezione",
             "link": "shopify://collections/idee-regalo-regali-per-lei",
             "button_style_secondary": false,
