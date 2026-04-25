@@ -48,7 +48,7 @@
         "button_DgMbdr": {
           "type": "button",
           "settings": {
-            "button_label": "Acquista ora!",
+            "button_label": "Scegli la tua Turbo Moka →",
             "button_link": "shopify://products/turbo-moka-caffettiera-3-tazze",
             "button_style_secondary": true
           }
