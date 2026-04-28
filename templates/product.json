@@ -23,6 +23,13 @@
           "type": "title",
           "settings": {}
         },
+        "sku_C4aTJC": {
+          "type": "sku",
+          "disabled": true,
+          "settings": {
+            "text_style": "body"
+          }
+        },
         "variant_sku_BLBrqe": {
           "type": "variant_sku",
           "settings": {}
@@ -43,7 +50,7 @@
           "settings": {}
         },
         "glo_color_swatch_variant_image_product_swatches_detail_FpE3Un": {
-          "type": "shopify://apps/globo-color-swatch/blocks/product-swatches-detail/4394f710-096c-4021-bbde-8ebb26057c11",
+          "type": "shopify://apps/glo-color-swatch/blocks/product-swatches-detail/4394f710-096c-4021-bbde-8ebb26057c11",
           "settings": {}
         },
         "quantity_selector": {
@@ -76,7 +83,7 @@
           "settings": {}
         },
         "glo_color_swatch_variant_image_product_groups_detail_bwq8iX": {
-          "type": "shopify://apps/globo-color-swatch/blocks/product-groups-detail/4394f710-096c-4021-bbde-8ebb26057c11",
+          "type": "shopify://apps/glo-color-swatch/blocks/product-groups-detail/4394f710-096c-4021-bbde-8ebb26057c11",
           "settings": {}
         },
         "complementary_4zLgiK": {
@@ -109,13 +116,6 @@
           "disabled": true,
           "settings": {
             "custom_liquid": "{% assign page_id = product.metafields.custom.pagina_approfondimento %}\n\n\n{% if page_id and pages[page_id] %}\n<div class=\"product__text inline-richtext\">\n<a href=\"{{ pages[page_id].url }}\">{{ pages[page_id].title }}</a>\n</div>\n{% endif %}"
-          }
-        },
-        "sku_C4aTJC": {
-          "type": "sku",
-          "disabled": true,
-          "settings": {
-            "text_style": "body"
           }
         },
         "custom_liquid_TjXBEh": {
@@ -164,6 +164,7 @@
       "block_order": [
         "custom_liquid_xJQknK",
         "title",
+        "sku_C4aTJC",
         "variant_sku_BLBrqe",
         "price_XLK3Aj",
         "custom_liquid_W3qmEe",
@@ -178,7 +179,6 @@
         "complementary_4zLgiK",
         "collapsible_tab_zVcJHM",
         "custom_liquid_EJXmHi",
-        "sku_C4aTJC",
         "custom_liquid_TjXBEh",
         "collapsible_tab_gGi8MG",
         "collapsible_tab_NXcbW9",
@@ -241,11 +241,22 @@
             "page": "",
             "liquid_content": "{% if product.metafields.shopify.material %}\n<div>\n  Materiale: {% for material in product.metafields.shopify.material.value %}\n          {{ material.label }}\n       {% endfor %}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.lunghezza.value %}\n<div>\n  Lunghezza: {{ product.metafields.custom.lunghezza.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.altezza_2.value %}\n<div>\n  Altezza: {{ product.metafields.custom.altezza_2.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.profondita.value %}\n<div>\n  Profondita: {{ product.metafields.custom.profondita.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.diametro_2.value %}\n<div>\n  Diametro: {{ product.metafields.custom.diametro_2.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.designer.value %}\n<div>\n  Designer: {{ product.metafields.custom.designer.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.capacit_.value %}\n<div>\n  Capacita: {{ product.metafields.custom.capacit_.value }}\n</div>\n{% endif %}"
           }
+        },
+        "collapsible_row_rBdUrT": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "SKU",
+            "icon": "clipboard",
+            "row_content": "",
+            "page": "",
+            "liquid_content": "{{ product.selected_or_first_available_variant.sku }}"
+          }
         }
       },
       "block_order": [
         "collapsible_row_PbrTiV",
-        "collapsible_row_kDkCBc"
+        "collapsible_row_kDkCBc",
+        "collapsible_row_rBdUrT"
       ],
       "custom_css": [
         ".collapsible-content-wrapper-narrow {max-width: 100%; padding: 0px;}",
