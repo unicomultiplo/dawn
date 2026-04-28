@@ -58,8 +58,8 @@
         ".mega-menu__list > li {width: 10em;}",
         ".list-menu__item {font-size: 1.3rem;}",
         ".list-menu__item .icon-caret {top: calc(50% - 0.4rem);}",
-        "#HeaderMenu-san-valentino span,#HeaderMenu-san-valentino {color: #fff !important; background: #d01f2c;}",
-        "#HeaderMenu-san-valentino span {border-radius: 20px; padding: 6px 15px 4px 15px; margin: -5px;}"
+        "#HeaderMenu-festa-della-mamma span,#HeaderMenu-festa-della-mamma {color: #930e40 !important; font-weight: bold !important;}",
+        "#HeaderDrawer-festa-della-mamma,#HeaderDrawer-festa-della-mamma span,.header__menu-item[href*=\"festa-della-mamma\"],a[href*=\"festa-della-mamma\"] {color: #930e40 !important; font-weight: bold !important;}"
       ],
       "settings": {
         "logo_position": "top-left",
