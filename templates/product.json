@@ -241,22 +241,11 @@
             "page": "",
             "liquid_content": "{% if product.metafields.shopify.material %}\n<div>\n  Materiale: {% for material in product.metafields.shopify.material.value %}\n          {{ material.label }}\n       {% endfor %}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.lunghezza.value %}\n<div>\n  Lunghezza: {{ product.metafields.custom.lunghezza.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.altezza_2.value %}\n<div>\n  Altezza: {{ product.metafields.custom.altezza_2.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.profondita.value %}\n<div>\n  Profondita: {{ product.metafields.custom.profondita.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.diametro_2.value %}\n<div>\n  Diametro: {{ product.metafields.custom.diametro_2.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.designer.value %}\n<div>\n  Designer: {{ product.metafields.custom.designer.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.capacit_.value %}\n<div>\n  Capacita: {{ product.metafields.custom.capacit_.value }}\n</div>\n{% endif %}"
           }
-        },
-        "collapsible_row_rBdUrT": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "SKU",
-            "icon": "clipboard",
-            "row_content": "",
-            "page": "",
-            "liquid_content": "{{ product.selected_or_first_available_variant.sku }}"
-          }
         }
       },
       "block_order": [
         "collapsible_row_PbrTiV",
-        "collapsible_row_kDkCBc",
-        "collapsible_row_rBdUrT"
+        "collapsible_row_kDkCBc"
       ],
       "custom_css": [
         ".collapsible-content-wrapper-narrow {max-width: 100%; padding: 0px;}",
@@ -277,6 +266,16 @@
         "desktop_layout": "image_second",
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "custom_liquid_bTUjmp": {
+      "type": "custom-liquid",
+      "custom_css": [],
+      "settings": {
+        "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<p>SKU: {{ product.selected_or_first_available_variant.sku }}</p>\n</div>\n</section>",
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "related-products": {
@@ -302,6 +301,7 @@
     "main",
     "custom_liquid_q83gja",
     "collapsible_content_rDxxtT",
+    "custom_liquid_bTUjmp",
     "related-products"
   ]
 }
