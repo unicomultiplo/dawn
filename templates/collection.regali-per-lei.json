@@ -176,6 +176,50 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_nEp8EE": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_LPw6bA": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_jCfNXF": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><strong>Ogni donna è unica</strong>, e anche il suo regalo dovrebbe esserlo.<br/>Il dono giusto nasce da <strong>attenzione, affetto e conoscenza</strong>: valorizza gusti, passioni e piccole abitudini quotidiane, raccontando il legame che vi unisce.<br/>Che si tratti di un <strong>pensiero per un’amica, di un regalo per la mamma o di un gesto d’amore per la tua compagna</strong>, qui trovi ispirazioni adatte a ogni tipo di relazione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_LPw6bA",
+        "column_jCfNXF"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Idee regalo pensate su misura per lei",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
     "collection_list_jLGpVy": {
       "type": "collection-list",
       "blocks": {
@@ -235,50 +279,6 @@
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_nEp8EE": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_LPw6bA": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_jCfNXF": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p><strong>Ogni donna è unica</strong>, e anche il suo regalo dovrebbe esserlo.<br/>Il dono giusto nasce da <strong>attenzione, affetto e conoscenza</strong>: valorizza gusti, passioni e piccole abitudini quotidiane, raccontando il legame che vi unisce.<br/>Che si tratti di un <strong>pensiero per un’amica, di un regalo per la mamma o di un gesto d’amore per la tua compagna</strong>, qui trovi ispirazioni adatte a ogni tipo di relazione.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_LPw6bA",
-        "column_jCfNXF"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Idee regalo pensate su misura per lei",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
         "padding_bottom": 0
       }
     },
@@ -892,8 +892,8 @@
     "custom_liquid_V4d3KX",
     "banner",
     "product-grid",
-    "collection_list_jLGpVy",
     "multicolumn_nEp8EE",
+    "collection_list_jLGpVy",
     "image_with_text_bkAqWb",
     "image_with_text_KGfyjb",
     "multicolumn_TUCLxM",
