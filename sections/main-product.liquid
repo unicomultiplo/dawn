@@ -114,15 +114,6 @@
                     </p>
                   {% endif %}
                 </div>
-              {%- when 'variant_sku' -%}
-                <div id="sku-{{ section.id }}" class="product-sku-wrapper" {{ block.shopify_attributes }}>
-                  {% if product.selected_or_first_available_variant.sku != blank %}
-                    <p id="product-sku">
-                      <span class="product-sku-label">SKU:</span>
-                      {{ product.selected_or_first_available_variant.sku }}
-                    </p>
-                  {% endif %}
-                </div>
               {%- when 'text' -%}
                 <p
                   class="product__text inline-richtext{% if block.settings.text_style == 'uppercase' %} caption-with-letter-spacing{% elsif block.settings.text_style == 'subtitle' %} subtitle{% endif %}"
@@ -226,16 +217,6 @@
                     {{ product.description }}
                   </div>
                 {%- endif -%}
-              {%- when 'sku' -%}
-                <p
-                  class="product__sku{% if block.settings.text_style == 'uppercase' %} caption-with-letter-spacing{% elsif block.settings.text_style == 'subtitle' %} subtitle{% endif %}{% if product.selected_or_first_available_variant.sku.size == 0 %} visibility-hidden{% endif %}"
-                  id="Sku-{{ section.id }}"
-                  role="status"
-                  {{ block.shopify_attributes }}
-                >
-                  <span class="visually-hidden">{{ 'products.product.sku' | t }}:</span>
-                  {{- product.selected_or_first_available_variant.sku -}}
-                </p>
               {%- when 'custom_liquid' -%}
                 {{ block.settings.custom_liquid }}
               {%- when 'collapsible_tab' -%}
