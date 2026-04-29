@@ -91,24 +91,7 @@
                 {% render block %}
               {%- when 'qty_disclaimer' -%}
                 <div id="qty-disclaimer-{{ section.id }}" class="qty-disclaimer" {{ block.shopify_attributes }}>
-                  {% assign has_shipping_delay = false %}
-                  {% if product.metafields.custom.banner-spedizione-in-gg != blank
-                    and product.selected_or_first_available_variant.inventory_quantity <= 0
-                  %}
-                    {% assign has_shipping_delay = true %}
-                  {% endif %}
-
-                  {% if has_shipping_delay %}
-                    <p class="availability-badge availability-badge--unavailable">
-                      <span class="svg-wrapper">
-                        {{- 'icon-info.svg' | inline_asset_content -}}
-                      </span>
-                      {% assign days_to_add = product.metafields.custom.banner-spedizione-in-gg | plus: 0 %}
-                      {% assign seconds_to_add = days_to_add | times: 86400 %}
-                      {% assign future_date = 'now' | date: '%s' | plus: seconds_to_add | date: '%d/%m/%Y' %}
-                      Spedito dopo il {{ future_date }}
-                    </p>
-                  {% elsif product.selected_or_first_available_variant.available %}
+                  {% if product.selected_or_first_available_variant.available %}
                     <p class="availability-badge availability-badge--available">
                       <span class="svg-wrapper">
                         {{- 'icon-success.svg' | inline_asset_content -}}
@@ -120,7 +103,14 @@
                       <span class="svg-wrapper">
                         {{- 'icon-info.svg' | inline_asset_content -}}
                       </span>
-                      Temporaneamente non disponibile
+                      {% if product.metafields.custom.banner-spedizione-in-gg != blank %}
+                        {% assign days_to_add = product.metafields.custom.banner-spedizione-in-gg | plus: 0 %}
+                        {% assign seconds_to_add = days_to_add | times: 86400 %}
+                        {% assign future_date = 'now' | date: '%s' | plus: seconds_to_add | date: '%d/%m/%Y' %}
+                        Spedito dopo il {{ future_date }}
+                      {% else %}
+                        Temporaneamente non disponibile
+                      {% endif %}
                     </p>
                   {% endif %}
                 </div>
