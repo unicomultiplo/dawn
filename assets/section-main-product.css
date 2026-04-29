@@ -371,34 +371,6 @@ a.product__text {
   max-width: 44rem;
 }
 
-.product-form__trust-badges {
-  display: grid;
-  gap: 0.8rem;
-  margin-top: 1.2rem;
-  color: rgba(var(--color-foreground), 0.85);
-}
-
-.product-form__trust-item {
-  display: flex;
-  align-items: center;
-  gap: 0.8rem;
-  margin: 0;
-  font-size: 1.3rem;
-  line-height: 1.4;
-}
-
-.product-form__trust-item .svg-wrapper {
-  display: inline-flex;
-  width: 1.6rem;
-  height: 1.6rem;
-  color: rgb(var(--color-foreground));
-}
-
-.product-form__trust-item .svg-wrapper svg {
-  width: 100%;
-  height: 100%;
-}
-
 .product--no-media .product__info-container > modal-opener {
   display: block;
   text-align: center;
@@ -1258,42 +1230,6 @@ a.product__text {
   opacity: 0.3;
 }
 
-.qty-disclaimer {
-  margin: 0.8rem 0 1.6rem;
-}
-
-.availability-badge {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.7rem;
-  margin: 0;
-  padding: 0.6rem 1rem;
-  border-radius: 0.6rem;
-  font-size: 1.3rem;
-  font-weight: 600;
-  line-height: 1.4;
-}
-
-.availability-badge .svg-wrapper {
-  width: 1.4rem;
-  height: 1.4rem;
-}
-
-.availability-badge .svg-wrapper svg {
-  width: 100%;
-  height: 100%;
-}
-
-.availability-badge--available {
-  color: #1f7d45;
-  background: #ebf9ef;
-}
-
-.availability-badge--unavailable {
-  color: #8a6d1d;
-  background: #fff8df;
-}
-
 /* Icon with text */
 .icon-with-text {
   --icon-size: calc(var(--font-heading-scale) * 3rem);
@@ -1367,19 +1303,6 @@ a.product__text {
 
 .product__sku.visibility-hidden::after {
   content: '#';
-}
-
-.product-sku-wrapper #product-sku {
-  margin: 0.8rem 0 1.2rem;
-  font-size: 1.2rem;
-  line-height: 1.4;
-  color: rgba(var(--color-foreground), 0.7);
-}
-
-.product-sku-label {
-  margin-right: 0.4rem;
-  font-weight: 600;
-  letter-spacing: 0.02em;
 }
 
 /* Product-thumbnail snippet */

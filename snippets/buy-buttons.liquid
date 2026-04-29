@@ -97,20 +97,6 @@
             {{ form | payment_button }}
           {%- endif -%}
         </div>
-        <div class="product-form__trust-badges" aria-label="Vantaggi acquisto">
-          <p class="product-form__trust-item">
-            <span class="svg-wrapper">{{- 'icon-truck.svg' | inline_asset_content -}}</span>
-            Spedizione tracciata
-          </p>
-          <p class="product-form__trust-item">
-            <span class="svg-wrapper">{{- 'icon-box.svg' | inline_asset_content -}}</span>
-            Imballo sicuro
-          </p>
-          <p class="product-form__trust-item">
-            <span class="svg-wrapper">{{- 'icon-return.svg' | inline_asset_content -}}</span>
-            Reso semplice
-          </p>
-        </div>
       {%- endform -%}
     </product-form>
   {%- else -%}

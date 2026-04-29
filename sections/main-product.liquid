@@ -89,38 +89,22 @@
             {%- case block.type -%}
               {%- when '@app' -%}
                 {% render block %}
-              {%- when 'qty_disclaimer' -%}
-                <div id="qty-disclaimer-{{ section.id }}" class="qty-disclaimer" {{ block.shopify_attributes }}>
-                  {% if product.selected_or_first_available_variant.available %}
-                    <p class="availability-badge availability-badge--available">
-                      <span class="svg-wrapper">
-                        {{- 'icon-success.svg' | inline_asset_content -}}
-                      </span>
-                      Disponibile
-                    </p>
-                  {% else %}
-                    <p class="availability-badge availability-badge--unavailable">
-                      <span class="svg-wrapper">
-                        {{- 'icon-info.svg' | inline_asset_content -}}
-                      </span>
-                      {% if product.metafields.custom.banner-spedizione-in-gg != blank %}
-                        {% assign days_to_add = product.metafields.custom.banner-spedizione-in-gg | plus: 0 %}
-                        {% assign seconds_to_add = days_to_add | times: 86400 %}
-                        {% assign future_date = 'now' | date: '%s' | plus: seconds_to_add | date: '%d/%m/%Y' %}
-                        Spedito dopo il {{ future_date }}
-                      {% else %}
-                        Temporaneamente non disponibile
-                      {% endif %}
-                    </p>
+              {%- when 'qty_disclaimer' -%} 
+                <div id="qty-disclaimer-{{ section.id }}" class="qty-disclaimer" {{ block.shopify_attributes }}> 
+                  {% if product.selected_or_first_available_variant.inventory_quantity <= 0 %}
+                    {%  if product.metafields.custom.banner-spedizione-in-gg != blank %}
+                      {% assign days_to_add = product.metafields.custom.banner-spedizione-in-gg | plus: 0 %}
+                      {% assign seconds_to_add = days_to_add | times: 86400 %}
+                      {% assign future_date = 'now' | date: '%s' | plus: seconds_to_add | date: '%d/%m/%Y' %}
+                      
+                      <p>Spedito dopo il {{ future_date }}</p>
+                    {% endif %}
                   {% endif %}
                 </div>
-              {%- when 'variant_sku' -%}
-                <div id="sku-{{ section.id }}" class="product-sku-wrapper" {{ block.shopify_attributes }}>
+              {%- when 'variant_sku' -%} 
+                <div id="sku-{{ section.id }}" {{ block.shopify_attributes }}> 
                   {% if product.selected_or_first_available_variant.sku != blank %}
-                    <p id="product-sku">
-                      <span class="product-sku-label">SKU:</span>
-                      {{ product.selected_or_first_available_variant.sku }}
-                    </p>
+                    <p id="product-sku">{{ product.selected_or_first_available_variant.sku }} </p>
                   {% endif %}
                 </div>
               {%- when 'text' -%}
