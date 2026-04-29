@@ -125,6 +125,7 @@ if (!customElements.get('product-info')) {
             this.pendingRequestUrl = null;
             const html = new DOMParser().parseFromString(responseText, 'text/html');
 
+            this.updateDynamic(`sku-${this.dataset.section}`, html);
             this.updateDynamic(`qty-disclaimer-${this.dataset.section}`, html);
 
             callback(html);
