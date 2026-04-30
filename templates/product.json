@@ -23,6 +23,10 @@
           "type": "title",
           "settings": {}
         },
+        "variant_sku_7UamDJ": {
+          "type": "variant_sku",
+          "settings": {}
+        },
         "price_XLK3Aj": {
           "type": "price",
           "settings": {}
@@ -153,6 +157,7 @@
       "block_order": [
         "custom_liquid_xJQknK",
         "title",
+        "variant_sku_7UamDJ",
         "price_XLK3Aj",
         "custom_liquid_W3qmEe",
         "qty_disclaimer_6icb8M",
