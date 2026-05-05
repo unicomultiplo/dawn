@@ -935,6 +935,16 @@
     "collapsible_content_4C3RVT": {
       "type": "collapsible-content",
       "blocks": {
+        "collapsible_row_rgFGnh": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Qual è la differenza tra Bone China e porcellana?",
+            "icon": "eye",
+            "row_content": "<p><br/>La Bone China è una porcellana fine, più luminosa e leggera rispetto alla porcellana tradizionale. Si distingue per la delicata trasparenza e per una resistenza sorprendente, ideale sia per l’uso quotidiano sia per una tavola raffinata.<br/><br/></p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
         "collapsible_row_dPxdha": {
           "type": "collapsible_row",
           "settings": {
@@ -977,6 +987,7 @@
         }
       },
       "block_order": [
+        "collapsible_row_rgFGnh",
         "collapsible_row_dPxdha",
         "collapsible_row_AcEcTi",
         "collapsible_row_KKXYBt",
