@@ -12,6 +12,25 @@
     "slideshow_dUd4mz": {
       "type": "slideshow",
       "blocks": {
+        "slide_wFUX39": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/novita-bitossi-home-orto-decori-dama_1.webp",
+            "heading": "Slide immagine",
+            "heading_size": "h1",
+            "subheading": "Racconta la storia del tuo brand con video e immagini",
+            "button_label": "Etichetta pulsante",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_ezdQKB": {
           "type": "slide",
           "settings": {
@@ -68,6 +87,7 @@
         }
       },
       "block_order": [
+        "slide_wFUX39",
         "slide_ezdQKB",
         "slide_YHqDyt",
         "slide_aEtLTa"

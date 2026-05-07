@@ -36,7 +36,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Bitossi Home veste la tua tavola e la tua casa. Dai piatti ai calici, dalle clessidre ai vasi, questo brand toscano è tutto da esplorare. Natura, tradizione, simbolismo, spirito cosmopolita e concetti innovativi generano un carosello di collezioni singolari e pittoresche. </p>",
+            "text": "<p><strong>Bitossi Home </strong>veste la tua tavola e la tua casa. Dai piatti ai calici, dalle clessidre ai vasi, questo brand toscano è tutto da esplorare. <strong>Natura, tradizione, simbolismo, spirito cosmopolita </strong>e concetti innovativi generano un carosello di collezioni singolari e pittoresche. </p>",
             "link_label": "",
             "link": ""
           }
@@ -65,24 +65,8 @@
     },
     "image_banner_dc8VCJ": {
       "type": "image-banner",
-      "blocks": {
-        "buttons_XRC7DM": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "",
-            "button_link_1": "shopify://collections/bitossi-home-natale",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "buttons_XRC7DM"
-      ],
       "settings": {
-        "image": "shopify://shop_images/bitossi-home-catalogo-offerte-promo-unico-multiplo_1_1ab661e1-726e-4660-924e-1cd4d236b0a1.png",
+        "image": "shopify://shop_images/bitossi-home-new-orto-dama-ciao-mondo.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -138,37 +122,54 @@
         "padding_bottom": 0
       }
     },
-    "image_banner_yEDFWe": {
+    "image_banner_NgePmi": {
       "type": "image-banner",
       "blocks": {
-        "buttons_tkcgi9": {
+        "heading_KzJUcn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Immagine banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_mx9Ge3": {
+          "type": "text",
+          "settings": {
+            "text": "Fornisci ai clienti dettagli sulle immagini del banner o sul contenuto del modello.",
+            "text_style": "body"
+          }
+        },
+        "buttons_RTxctK": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "👉 Scopri la collezione Posate",
-            "button_link_1": "shopify://collections/torchon-bitossi-home",
+            "button_label_1": "Etichetta pulsante",
+            "button_link_1": "",
             "button_style_secondary_1": false,
-            "button_label_2": "",
+            "button_label_2": "Etichetta pulsante",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "buttons_tkcgi9"
+        "heading_KzJUcn",
+        "text_mx9Ge3",
+        "buttons_RTxctK"
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/torchon-bitossi-home-novita-posate.webp",
+        "image": "shopify://shop_images/bitossi-home-l-orto-limone2_1.webp",
+        "image_2": "shopify://shop_images/bitossi-home-tutti-l-orto-fragola-1_1.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "top-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
+        "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "featured_collection_EihEex": {
@@ -867,7 +868,7 @@
     "multicolumn_4fT4dH",
     "image_banner_dc8VCJ",
     "multicolumn_c7Bg4Y",
-    "image_banner_yEDFWe",
+    "image_banner_NgePmi",
     "featured_collection_EihEex",
     "multicolumn_gaht3W",
     "collection_list_DFkntc",
