@@ -14,6 +14,7 @@
       "blocks": {
         "slide_wFUX39": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/novita-bitossi-home-orto-decori-dama_1.webp",
             "heading": "L'orto",
