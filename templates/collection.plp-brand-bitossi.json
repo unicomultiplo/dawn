@@ -352,6 +352,39 @@
         "padding_bottom": 0
       }
     },
+    "collection_list_kB4XJK": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_y9RUYw": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "lorto-bitossi-home"
+          }
+        },
+        "featured_collection_c3Hx9X": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ciao-mondo-bitossi-home"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_y9RUYw",
+        "featured_collection_c3Hx9X"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "collection_list_kdtLc8": {
       "type": "collection-list",
       "blocks": {
@@ -873,6 +906,7 @@
     "multicolumn_gaht3W",
     "collection_list_DFkntc",
     "collection_list_LxpCcQ",
+    "collection_list_kB4XJK",
     "collection_list_kdtLc8",
     "collection_list_DkYHyh",
     "collection_list_yH8cEE",
