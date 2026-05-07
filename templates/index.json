@@ -17,16 +17,16 @@
           "settings": {
             "image": "shopify://shop_images/novita-bitossi-home-orto-decori-dama_1.webp",
             "heading": "L'orto",
-            "heading_size": "h1",
+            "heading_size": "h0",
             "subheading": "<strong>Pomodori, cavoli, carciofi e foglie diventano protagonisti</strong> di una tavola ironica, creativa e sorprendentemente elegante.",
-            "button_label": "Etichetta pulsante",
-            "link": "",
-            "button_style_secondary": true,
-            "box_align": "bottom-center",
+            "button_label": "Soprila Ora!",
+            "link": "shopify://collections/lorto-bitossi-home",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+            "color_scheme": "scheme-2e5c87f5-32a3-471b-8a2f-9099229130c1",
             "text_alignment_mobile": "center"
           }
         },
