@@ -84,7 +84,7 @@
       "settings": {
         "image": "shopify://shop_images/l-orto-bitossi-home.webp",
         "image_overlay_opacity": 0,
-        "image_height": "adapt",
+        "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
