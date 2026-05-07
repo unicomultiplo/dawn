@@ -23,15 +23,6 @@
     "multicolumn_4fT4dH": {
       "type": "multicolumn",
       "blocks": {
-        "column_qFQxcM": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_tYqADn": {
           "type": "column",
           "settings": {
@@ -40,11 +31,20 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_qFQxcM": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "column_qFQxcM",
-        "column_tYqADn"
+        "column_tYqADn",
+        "column_qFQxcM"
       ],
       "settings": {
         "title": "",
@@ -65,6 +65,22 @@
     },
     "image_banner_dc8VCJ": {
       "type": "image-banner",
+      "blocks": {
+        "buttons_R3WWHb": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Scopri L'orto Bitossi Home",
+            "button_link_1": "shopify://collections/lorto-bitossi-home",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "buttons_R3WWHb"
+      ],
       "settings": {
         "image": "shopify://shop_images/l-orto-bitossi-home.webp",
         "image_overlay_opacity": 0,
@@ -72,7 +88,7 @@
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-1464a208-fcdd-4ba9-b1e4-de3cd41e6336",
+        "color_scheme": "scheme-2e5c87f5-32a3-471b-8a2f-9099229130c1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
@@ -85,10 +101,10 @@
         "column_PjDh4N": {
           "type": "column",
           "settings": {
-            "title": "<strong>Torchon Bitossi Home</strong>",
-            "text": "<p><br/>Stile <strong>artigianale</strong>, anima <strong>contemporanea</strong>. La collezione Torchon mescola linee essenziali e dettagli preziosi per portare in tavola <strong>carattere e originalità.</strong> Oggetti che sembrano usciti da un bistrot francese, ma pensati per la quotidianità di chi ama ricevere con gusto. Design che cattura lo sguardo, perfetti per dare personalità a ogni mise en place, dal <strong>brunch informale alla cena più curata.</strong></p>",
-            "link_label": "👉 Scopri la collezione Torchon",
-            "link": "shopify://collections/torchon-bitossi-home"
+            "title": "<strong>Bitossi Home L'Orto</strong>",
+            "text": "<p><strong>Pomodori, cavoli, carciofi e foglie diventano protagonisti</strong> di una tavola ironica, creativa e sorprendentemente elegante. La collezione Orto di Bitossi Home porta in casa il fascino autentico dei mercati italiani e lo trasforma in piatti, ciotole e dettagli decorativi dal carattere vivace. <strong>Colori intensi, forme botaniche</strong> e lavorazioni ricche di personalità danno vita a mise en place fresche e conviviali, perfette per la bella stagione e per chi ama apparecchiare con stile senza prendersi troppo sul serio.</p>",
+            "link_label": "👉 Scopri la collezione Orto Bitossi Home",
+            "link": "shopify://collections/lorto-bitossi-home"
           }
         },
         "column_f8NyNW": {
@@ -125,35 +141,19 @@
     "image_banner_NgePmi": {
       "type": "image-banner",
       "blocks": {
-        "heading_KzJUcn": {
-          "type": "heading",
-          "settings": {
-            "heading": "Immagine banner",
-            "heading_size": "h1"
-          }
-        },
-        "text_mx9Ge3": {
-          "type": "text",
-          "settings": {
-            "text": "Fornisci ai clienti dettagli sulle immagini del banner o sul contenuto del modello.",
-            "text_style": "body"
-          }
-        },
         "buttons_RTxctK": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Etichetta pulsante",
-            "button_link_1": "",
+            "button_label_1": "L'orto Bitossi Home",
+            "button_link_1": "shopify://collections/lorto-bitossi-home",
             "button_style_secondary_1": false,
-            "button_label_2": "Etichetta pulsante",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading_KzJUcn",
-        "text_mx9Ge3",
         "buttons_RTxctK"
       ],
       "name": "t:sections.image-banner.presets.name",
@@ -165,7 +165,7 @@
         "desktop_content_position": "top-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "scheme-2e5c87f5-32a3-471b-8a2f-9099229130c1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
