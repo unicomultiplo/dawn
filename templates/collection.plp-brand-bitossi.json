@@ -601,6 +601,46 @@
         "padding_bottom": 0
       }
     },
+    "collection_list_xyeLLt": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_dJDCRg": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dama-bitossi-home"
+          }
+        },
+        "featured_collection_pU8nYQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "candy-bitossi-home"
+          }
+        },
+        "featured_collection_tzNEWk": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "decor-bitossi-home"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_dJDCRg",
+        "featured_collection_pU8nYQ",
+        "featured_collection_tzNEWk"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn_Webjiz": {
       "type": "multicolumn",
       "blocks": {
@@ -918,6 +958,7 @@
     "collection_list_DkYHyh",
     "collection_list_yH8cEE",
     "collection_list_Qdy6e7",
+    "collection_list_xyeLLt",
     "multicolumn_Webjiz",
     "collection_list_pekHrY",
     "collection_list_qbh9yb",
