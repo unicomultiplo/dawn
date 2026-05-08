@@ -372,19 +372,12 @@
           "settings": {
             "collection": "dipinto-bitossi-home"
           }
-        },
-        "featured_collection_kgQB8p": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "dama-bitossi-home"
-          }
         }
       },
       "block_order": [
         "featured_collection_y9RUYw",
         "featured_collection_c3Hx9X",
-        "featured_collection_Deb3V6",
-        "featured_collection_kgQB8p"
+        "featured_collection_Deb3V6"
       ],
       "settings": {
         "title": "",
@@ -815,61 +808,61 @@
         "column_E36b7h": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/bitossi-home-i-piattini.webp",
+            "image": "shopify://shop_images/bitossi-home-la-tavola-scomposta-torchon.webp",
             "title": "",
             "text": "",
             "link_label": "",
             "link": "shopify://collections/bitossi-home-i-piattini-bitossi-home"
           }
         },
-        "column_8nnMib": {
+        "column_MP9iUa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/fiocco-bitossi-home-natale.webp",
+            "image": "shopify://shop_images/bitossi-home-la-tavola-abracadabra.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://products/bitossi-home-porta-candela-fiocco"
+            "link": "shopify://collections/bitossi-home-abracadabra"
           }
         },
         "column_WKAwtd": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/grazie-dei-fiori-bitossi-natale.webp",
+            "image": "shopify://shop_images/bitossi-home-la-tavola-l-orto.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://products/2339-bitossi-home-tavola-scomposta-grazie-dei-fiori-vaso-ceramica"
+            "link": "shopify://collections/lorto-bitossi-home"
           }
         },
         "column_H7JJW8": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/vuotatasche-bitossi-home.webp",
+            "image": "shopify://shop_images/la-tavola-scomposta.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/bitossi-home-il-frutto-della-passione-bitossi-home"
+            "link": "shopify://collections/fabula-bitossi-home"
           }
         },
-        "column_MP9iUa": {
+        "column_8nnMib": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/natale-abracadabra-bitossi-home.webp",
+            "image": "shopify://shop_images/bitossi-home-portacandela-fiocco.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/bitossi-home-abracadabra"
+            "link": "shopify://products/bitossi-home-porta-candela-fiocco"
           }
         }
       },
       "block_order": [
         "column_dbkhmp",
         "column_E36b7h",
-        "column_8nnMib",
+        "column_MP9iUa",
         "column_WKAwtd",
         "column_H7JJW8",
-        "column_MP9iUa"
+        "column_8nnMib"
       ],
       "settings": {
         "title": "",
