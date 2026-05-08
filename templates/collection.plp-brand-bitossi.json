@@ -372,12 +372,19 @@
           "settings": {
             "collection": "dipinto-bitossi-home"
           }
+        },
+        "featured_collection_kgQB8p": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dama-bitossi-home"
+          }
         }
       },
       "block_order": [
         "featured_collection_y9RUYw",
         "featured_collection_c3Hx9X",
-        "featured_collection_Deb3V6"
+        "featured_collection_Deb3V6",
+        "featured_collection_kgQB8p"
       ],
       "settings": {
         "title": "",
