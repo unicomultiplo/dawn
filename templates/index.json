@@ -31,24 +31,6 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_ezdQKB": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/festa-della-mamma-selezione-idee-regalo-originali.webp",
-            "heading": "Festa della Mamma",
-            "heading_size": "h0",
-            "subheading": "Scopri la selezione di <strong>idee regalo</strong> pensate per sorprendere con eleganza e personalità.",
-            "button_label": "Scopri la Selezione",
-            "link": "shopify://collections/idee-regalo-regali-per-lei",
-            "button_style_secondary": false,
-            "box_align": "top-left",
-            "show_text_box": false,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-5152f450-2781-4fd5-8e48-921adbaa0cbc",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_YHqDyt": {
           "type": "slide",
           "settings": {
@@ -88,7 +70,6 @@
       },
       "block_order": [
         "slide_wFUX39",
-        "slide_ezdQKB",
         "slide_YHqDyt",
         "slide_aEtLTa"
       ],
