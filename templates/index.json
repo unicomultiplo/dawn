@@ -14,16 +14,15 @@
       "blocks": {
         "slide_wFUX39": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/bitossi-home-la-tavola-tutti-i-frutti.webp",
+            "image": "shopify://shop_images/l-orto-new-bitossi-home-collection.webp",
             "heading": "L'orto",
             "heading_size": "h0",
-            "subheading": "<strong>Pomodori, cavoli, carciofi e foglie diventano protagonisti</strong> di una tavola ironica, creativa e sorprendentemente elegante.",
+            "subheading": "<strong>Pomodori, cavoli, carciofi e foglie diventano protagonisti di una tavola ironica, creativa e sorprendentemente elegante.</strong>",
             "button_label": "Soprila Ora!",
             "link": "shopify://collections/lorto-bitossi-home",
             "button_style_secondary": false,
-            "box_align": "bottom-left",
+            "box_align": "bottom-center",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
@@ -48,30 +47,11 @@
             "color_scheme": "scheme-5",
             "text_alignment_mobile": "center"
           }
-        },
-        "slide_aEtLTa": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/specchio-circus-seletti.webp",
-            "heading": "Il design che non ti aspetti",
-            "heading_size": "h0",
-            "subheading": "<strong>Dettagli scenografici per spazi unici.</strong>",
-            "button_label": "Scopri Seletti →",
-            "link": "https://www.unicoemultiplo.com/products/seletti-specchio-circus-mirror-superhero",
-            "button_style_secondary": true,
-            "box_align": "top-left",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 20,
-            "color_scheme": "scheme-5",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
         "slide_wFUX39",
-        "slide_YHqDyt",
-        "slide_aEtLTa"
+        "slide_YHqDyt"
       ],
       "settings": {
         "layout": "full_bleed",
