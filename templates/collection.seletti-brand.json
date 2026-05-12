@@ -188,22 +188,22 @@
     "image_banner_HUnNNM": {
       "type": "image-banner",
       "blocks": {
+        "text_WDeHeE": {
+          "type": "text",
+          "settings": {
+            "text": "Il design che rompe le regole",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
         "buttons_JLXXhx": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "NEW! Seletti Bic Lamp.",
-            "button_link_1": "shopify://products/seletti-bic-lamp-black",
+            "button_label_1": "Scopri l’universo Seletti!",
+            "button_link_1": "shopify://collections/seletti-catalogo-prodotti-marcantonio",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
-          }
-        },
-        "text_WDeHeE": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>Se vuoi una casa che non assomiglia a nessun’altra, sei nel posto giusto.</strong>",
-            "text_style": "caption-with-letter-spacing"
           }
         },
         "heading_eXcWLX": {
@@ -215,15 +215,15 @@
         }
       },
       "block_order": [
-        "buttons_JLXXhx",
         "text_WDeHeE",
+        "buttons_JLXXhx",
         "heading_eXcWLX"
       ],
       "settings": {
-        "image": "shopify://shop_images/seletti-bic-cristal-pen-mario-paroli-new.jpg",
+        "image": "shopify://shop_images/seletti-tiny-la-timida-moon-brain-wash-kintsugi-wonder.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "top-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-1",
@@ -770,7 +770,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/seletti-bic-lampada-new-biro-BIC-lamp-blue.webp",
+        "image": "shopify://shop_images/bic-lamp-seletti-new-2026.webp",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
