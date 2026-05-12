@@ -69,7 +69,7 @@
         "buttons_R3WWHb": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Scopri L'orto Bitossi Home",
+            "button_label_1": "Scopri L'Orto Bitossi Home",
             "button_link_1": "shopify://collections/lorto-bitossi-home",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -162,7 +162,7 @@
         "image_2": "shopify://shop_images/bitossi-home-tutti-l-orto-fragola-1_1.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
-        "desktop_content_position": "top-center",
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-2e5c87f5-32a3-471b-8a2f-9099229130c1",
