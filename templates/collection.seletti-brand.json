@@ -222,7 +222,7 @@
       "settings": {
         "image": "shopify://shop_images/seletti-tiny-la-timida-moon-brain-wash-kintsugi-wonder.png",
         "image_overlay_opacity": 0,
-        "image_height": "adapt",
+        "image_height": "medium",
         "desktop_content_position": "top-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
