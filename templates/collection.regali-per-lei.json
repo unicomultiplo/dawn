@@ -19,120 +19,6 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_MtQULr": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_NgQEVn": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_NETpGp": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p><strong>Ordina entro il 6 maggio per ricevere in tempo per la Festa della Mamma.<br/>  </strong><br/></p><p><strong>Per la mamma</strong> che dice sempre “non mi serve niente”, ma poi <strong>si emoziona davanti al regalo giusto.<br/></strong>Scopri idee<strong> regalo </strong>belle, <strong>utili</strong> e originali per la<strong> tavola</strong>, la <strong>cucina </strong>e la <strong>casa</strong>: oggetti scelti per s<strong>orprenderla con eleganza</strong>, personalità e un dettaglio in più.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_NgQEVn",
-        "column_NETpGp"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_HtCLj3": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_HzE7ha": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/oh-yeah-spoon-set-dolce-posate-vintage-placcate-in-argento.webp",
-            "title": "<strong>Per la mamma che ama la tavola</strong>",
-            "text": "<h6>Tazze, vassoi, piatti speciali, accessori da portata</h6>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=mamma+tavola&sort_by=manual#product-grid"
-          }
-        },
-        "column_rHGYQ9": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-vasi-kintsugi.webp",
-            "title": "<strong>Per la mamma che ama la casa</strong>",
-            "text": "<h6>Vasi, fragranze, lampade, dettagli decorativi</h6>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=mamma+casa&sort_by=manual#product-grid"
-          }
-        },
-        "column_P4wFY4": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Bowl-Shapeless-knIndustrie.webp",
-            "title": "<strong>Per la mamma che ama le cose utili ma belle</strong>",
-            "text": "<h6>Accessori cucina, organizer, oggetti funzionali di design</h6>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.p.tag=mamma+cose+belle&sort_by=manual#product-grid"
-          }
-        },
-        "column_67fKQP": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/portagioie-the-new-look-blu-printworks-2.webp",
-            "title": "<strong>Per la mamma che ama i gesti semplici</strong>",
-            "text": "<h6>Piccoli prezzi, grandi idee regalo</h6>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/idee-regalo-regali-per-lei?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=mamma+gesti+semplici&sort_by=manual#product-grid"
-          }
-        }
-      },
-      "block_order": [
-        "column_HzE7ha",
-        "column_rHGYQ9",
-        "column_P4wFY4",
-        "column_67fKQP"
-      ],
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-5152f450-2781-4fd5-8e48-921adbaa0cbc",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "custom_liquid_V4d3KX": {
       "type": "custom-liquid",
       "disabled": true,
@@ -146,7 +32,6 @@
     },
     "banner": {
       "type": "main-collection-banner",
-      "disabled": true,
       "custom_css": [
         "h1 {display: none;}"
       ],
@@ -887,13 +772,11 @@
   },
   "order": [
     "custom_liquid_janaYD",
-    "multicolumn_MtQULr",
-    "multicolumn_HtCLj3",
+    "collection_list_jLGpVy",
     "custom_liquid_V4d3KX",
     "banner",
     "product-grid",
     "multicolumn_nEp8EE",
-    "collection_list_jLGpVy",
     "image_with_text_bkAqWb",
     "image_with_text_KGfyjb",
     "multicolumn_TUCLxM",
