@@ -57,9 +57,7 @@
         "mobile.mega-menu__list {display: flex; flex-wrap: wrap;}",
         ".mega-menu__list > li {width: 10em;}",
         ".list-menu__item {font-size: 1.3rem;}",
-        ".list-menu__item .icon-caret {top: calc(50% - 0.4rem);}",
-        "#HeaderMenu-festa-della-mamma span,#HeaderMenu-festa-della-mamma {color: #930e40 !important; font-weight: bold !important;}",
-        "#HeaderDrawer-festa-della-mamma,#HeaderDrawer-festa-della-mamma span,.header__menu-item[href*=\"festa-della-mamma\"],a[href*=\"festa-della-mamma\"] {color: #930e40 !important; font-weight: bold !important;}"
+        ".list-menu__item .icon-caret {top: calc(50% - 0.4rem);}"
       ],
       "settings": {
         "logo_position": "top-left",
