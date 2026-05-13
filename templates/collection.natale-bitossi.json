@@ -58,7 +58,7 @@
             "title": "",
             "text": "<p><strong>Dipinto</strong><br/>Simboli da portata<strong> </strong>→</p>",
             "link_label": "",
-            "link": "shopify://collections/bitossi-home-il-frutto-della-passione-bitossi-home"
+            "link": "shopify://collections/dipinto-bitossi-home"
           }
         },
         "column_GXKYMF": {
@@ -156,6 +156,7 @@
         "column_Ej4CCk",
         "column_UJ8fax"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Idee e collezioni Bitossi Home per un Natale creativo",
@@ -281,6 +282,7 @@
         "column_gfxHib",
         "column_eYnXjJ"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -406,6 +408,7 @@
         "column_fGMJpc",
         "column_PGetmF"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -542,6 +545,7 @@
         "column_ExJ4ph",
         "column_KUHCxg"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Tavola e offerte Bitossi Home per il Natale",
@@ -585,6 +589,7 @@
       "blocks": {
         "column_Pjyd9t": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "<strong>Tavola di Natale Bitossi Home tra colore e creatività</strong>",
             "text": "<p>Con Bitossi Home la tavola non segue regole.<br/><strong>Piatti illustrati, bordi irregolari, decori fuori dal comune</strong>: ogni elemento è pensato per essere combinato, sovrapposto, reinterpretato. <br/>Bitossi Home è per chi ama <strong>mescolare piatti diversi</strong>, giocare con <strong>colori accesi</strong>, cambiare disposizione ogni volta. Ci sono <strong>piatti illustrati</strong>, con bordi mossi o finiture opache, da accostare senza paura.<br/><strong>Bicchieri in vetro colorato</strong>, che portano luce e movimento sulla tavola.<br/><strong>Posate dorate o smaltate</strong>, che bastano da sole a rendere speciale anche il piatto più semplice.<br/>E poi <strong>alzate, candelabri, oggetti decorativi</strong>: tutto contribuisce a costruire un’atmosfera viva, personale. </p><p><em>La tavola delle feste non dev’essere perfetta: dev’essere tua. E con Bitossi, lo è sempre.</em></p>",
