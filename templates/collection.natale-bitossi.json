@@ -13,9 +13,9 @@
       "type": "main-collection-banner",
       "custom_css": [],
       "settings": {
-        "show_collection_description": true,
+        "show_collection_description": false,
         "show_collection_image": false,
-        "color_scheme": "scheme-1464a208-fcdd-4ba9-b1e4-de3cd41e6336"
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828"
       }
     },
     "multicolumn_ReMqxa": {
@@ -34,7 +34,7 @@
         "column_k8bKVg": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/fiocco-bitossi-home-natale.webp",
+            "image": "shopify://shop_images/bitossi-home-la-tavola-scomposta-accessori.webp",
             "title": "",
             "text": "<p><strong>Le Decorazioni<br/></strong>Dettagli wow! →</p>",
             "link_label": "",
@@ -44,7 +44,7 @@
         "column_XJqBn9": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/la-tavola-scomposta-bitossi-home.jpg",
+            "image": "shopify://shop_images/bitossi-home-la-tavola-scomposta-piattini.webp",
             "title": "",
             "text": "<p><strong>La Tavola Scomposta<br/></strong>Mix & match <strong>→</strong></p>",
             "link_label": "",
@@ -54,9 +54,9 @@
         "column_NTb3HH": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/il-frutto-della-passione-pangea-natale.webp",
+            "image": "shopify://shop_images/bitossi-home-dipinto_2.webp",
             "title": "",
-            "text": "<p><strong>Il Frutto della Passione</strong><br/>Simboli da portata<strong> </strong>→</p>",
+            "text": "<p><strong>Dipinto</strong><br/>Simboli da portata<strong> </strong>→</p>",
             "link_label": "",
             "link": "shopify://collections/bitossi-home-il-frutto-della-passione-bitossi-home"
           }
@@ -64,7 +64,7 @@
         "column_GXKYMF": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/natale-abracadabra-bitossi-home.webp",
+            "image": "shopify://shop_images/bitossi-home-la-tavola-abracadabra.webp",
             "title": "",
             "text": "<p><strong>Abracadabra</strong><br/>Incantesimo di forme <strong>→</strong></p>",
             "link_label": "",
@@ -97,7 +97,7 @@
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "square",
+        "image_ratio": "portrait",
         "columns_desktop": 6,
         "column_alignment": "center",
         "background_style": "primary",
