@@ -572,7 +572,7 @@
       "settings": {
         "section_height": 1000,
         "image_padding": 10,
-        "left_image": "shopify://shop_images/natale-bitossi-il_frutto_della-passione.webp",
+        "left_image": "shopify://shop_images/bitossi-home-la-tavola-tutti-i-frutti.webp",
         "left_link": "shopify://collections/bitossi-home-il-frutto-della-passione-bitossi-home",
         "left_text": "Il Frutto della Passione",
         "right_top_image": "shopify://shop_images/botanica-natale-bitossi-home.webp",
@@ -702,12 +702,12 @@
         "slide_MmcpKy": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/natale-con-bitossi_2.webp",
-            "heading": "La Tavola Scomposta",
+            "image": "shopify://shop_images/l-orto-new-bitossi-home-collection.webp",
+            "heading": "L'orto",
             "heading_size": "h2",
-            "subheading": "La Tavola di Natale Mix & Match",
+            "subheading": "Botanica",
             "button_label": "Scoprila ora!",
-            "link": "shopify://collections/bitossi-home-funky-table-tavola-scomposta",
+            "link": "shopify://collections/lorto-bitossi-home",
             "button_style_secondary": true,
             "box_align": "middle-center",
             "show_text_box": true,
