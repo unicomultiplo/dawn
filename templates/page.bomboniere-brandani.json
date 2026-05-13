@@ -117,7 +117,7 @@
       "custom_css": [],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>Scopri tutte le diverse Collezioni Bomboniere Brandani 2025</strong>, tra nuove proposte e oggetti imperdibili.",
+        "title": "<strong>Scopri tutte le diverse Collezioni Bomboniere Brandani 2026</strong>, tra nuove proposte e oggetti imperdibili.",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
@@ -235,8 +235,6 @@
       "custom_css": [],
       "name": "Separator Line",
       "settings": {
-        "top_spacing": 0,
-        "bottom_spacing": 0,
         "line_thickness": 4
       }
     },
@@ -542,8 +540,6 @@
       "type": "separator",
       "name": "Separator Line",
       "settings": {
-        "top_spacing": 0,
-        "bottom_spacing": 0,
         "line_thickness": 4
       }
     },
