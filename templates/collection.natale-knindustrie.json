@@ -13,9 +13,9 @@
       "type": "main-collection-banner",
       "custom_css": [],
       "settings": {
-        "show_collection_description": true,
+        "show_collection_description": false,
         "show_collection_image": false,
-        "color_scheme": "scheme-1464a208-fcdd-4ba9-b1e4-de3cd41e6336"
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828"
       }
     },
     "multicolumn_ReMqxa": {
@@ -34,7 +34,7 @@
         "column_k8bKVg": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/la-tavola-di-natale.webp",
+            "image": "shopify://shop_images/Oliera-the-Salad-Family-KnIndustrie-piattino_5037771b-70b6-48f4-bc6b-34b37eb9cdf9.webp",
             "title": "",
             "text": "<p><strong>Idee regalo</strong><br/>Design che sorprende <strong>→</strong></p>",
             "link_label": "",
@@ -54,7 +54,7 @@
         "column_XJqBn9": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/1558-knindustrie-not-ice-cubetti-pietra-ollare.webp",
+            "image": "shopify://shop_images/KnIndustrie-Lime-Line-Moscow-Mule.jpg",
             "title": "",
             "text": "<p><strong>Bicchieri </strong><br/>Eleganza cristallina<strong> →</strong></p>",
             "link_label": "",
@@ -64,7 +64,7 @@
         "column_NTb3HH": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Tavola-natale-2025.webp",
+            "image": "shopify://shop_images/knimndustrie-bitossi-seletti-tavola-2.webp",
             "title": "",
             "text": "<p><strong>Piatti KnIndustrie</strong><br/>Stile essenziale in tavola<strong>→</strong></p>",
             "link_label": "",
@@ -97,7 +97,7 @@
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "portrait",
+        "image_ratio": "square",
         "columns_desktop": 6,
         "column_alignment": "center",
         "background_style": "primary",
