@@ -13,9 +13,9 @@
       "type": "main-collection-banner",
       "custom_css": [],
       "settings": {
-        "show_collection_description": true,
+        "show_collection_description": false,
         "show_collection_image": false,
-        "color_scheme": "scheme-1464a208-fcdd-4ba9-b1e4-de3cd41e6336"
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828"
       }
     },
     "multicolumn_ReMqxa": {
@@ -679,73 +679,6 @@
         "padding_bottom": 0
       }
     },
-    "collection_list_iWB7qW": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_FJcb76": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "piatti-seletti"
-          }
-        },
-        "featured_collection_FcjRr4": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bicchieri-e-calici-seletti"
-          }
-        },
-        "featured_collection_VawqLp": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "posate-seletti"
-          }
-        },
-        "featured_collection_JKKGcH": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bottiglie-e-caraffe-seletti"
-          }
-        },
-        "featured_collection_A6LwVq": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "candele-e-candelabri-seletti"
-          }
-        },
-        "featured_collection_TzEy43": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "tovaglie-tovagliette-e-sottopiatti-seletti"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_FJcb76",
-        "featured_collection_FcjRr4",
-        "featured_collection_VawqLp",
-        "featured_collection_JKKGcH",
-        "featured_collection_A6LwVq",
-        "featured_collection_TzEy43"
-      ],
-      "custom_css": [
-        ".media--transparent {background-color: var(--product-background-color);}",
-        ".media--transparent img {mix-blend-mode: multiply;}",
-        ".card__content,.card__information {padding-left: 0px;}"
-      ],
-      "name": "t:sections.collection-list.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "portrait",
-        "columns_desktop": 6,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "slideshow_HNxCmk": {
       "type": "slideshow",
       "blocks": {
@@ -818,6 +751,73 @@
         "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": ""
+      }
+    },
+    "collection_list_iWB7qW": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_FJcb76": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "piatti-seletti"
+          }
+        },
+        "featured_collection_FcjRr4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bicchieri-e-calici-seletti"
+          }
+        },
+        "featured_collection_VawqLp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "posate-seletti"
+          }
+        },
+        "featured_collection_JKKGcH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bottiglie-e-caraffe-seletti"
+          }
+        },
+        "featured_collection_A6LwVq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "candele-e-candelabri-seletti"
+          }
+        },
+        "featured_collection_TzEy43": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tovaglie-tovagliette-e-sottopiatti-seletti"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_FJcb76",
+        "featured_collection_FcjRr4",
+        "featured_collection_VawqLp",
+        "featured_collection_JKKGcH",
+        "featured_collection_A6LwVq",
+        "featured_collection_TzEy43"
+      ],
+      "custom_css": [
+        ".media--transparent {background-color: var(--product-background-color);}",
+        ".media--transparent img {mix-blend-mode: multiply;}",
+        ".card__content,.card__information {padding-left: 0px;}"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "portrait",
+        "columns_desktop": 6,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     }
   },
