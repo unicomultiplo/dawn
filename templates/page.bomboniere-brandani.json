@@ -16,6 +16,49 @@
         "padding_bottom": 0
       }
     },
+    "rich_text_pUzUYt": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_QT3nhH": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_UHwnYz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Aggiornato Maggio 2026</p>"
+          }
+        },
+        "button_WYk7xf": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_QT3nhH",
+        "text_UHwnYz",
+        "button_WYk7xf"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "image_with_text_C7p6TD": {
       "type": "image-with-text",
       "blocks": {
@@ -622,6 +665,7 @@
   },
   "order": [
     "main",
+    "rich_text_pUzUYt",
     "image_with_text_C7p6TD",
     "multicolumn_NptETT",
     "collection_list_dUzHjH",
