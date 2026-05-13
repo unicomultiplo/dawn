@@ -200,6 +200,7 @@
         "column_Ej4CCk",
         "column_UJ8fax"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Idee regalo e collezioni Seletti per il Natale",
@@ -215,7 +216,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 0
+        "padding_bottom": 24
       }
     },
     "multicolumn_CzbkJY": {
@@ -336,6 +337,7 @@
         "column_gfxHib",
         "column_eYnXjJ"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -461,6 +463,7 @@
         "column_fGMJpc",
         "column_PGetmF"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -597,6 +600,7 @@
         "column_ExJ4ph",
         "column_KUHCxg"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Tavola e decorazioni di Natale con lo stile Seletti",
@@ -661,6 +665,7 @@
         "column_Pjyd9t",
         "column_yQhiCE"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -677,6 +682,13 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 0
+      }
+    },
+    "separator_VpT3fx": {
+      "type": "separator",
+      "name": "Separator Line",
+      "settings": {
+        "line_thickness": 1
       }
     },
     "slideshow_HNxCmk": {
@@ -834,6 +846,7 @@
     "multicolumn_xAgMMd",
     "dual_images_PgFJyJ",
     "multicolumn_tim83c",
+    "separator_VpT3fx",
     "slideshow_HNxCmk",
     "collection_list_iWB7qW"
   ]
