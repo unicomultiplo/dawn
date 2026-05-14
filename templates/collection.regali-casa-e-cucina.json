@@ -312,16 +312,6 @@
             "link": "shopify://collections/complementi-arredo-specchi-da-parete"
           }
         },
-        "column_N8PWUL": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-burnt-carpet-tappeto-2-the-dream-5.webp",
-            "title": "",
-            "text": "<p><strong>Tappeti e Tappetini</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/tappeti-e-tappetini-seletti"
-          }
-        },
         "column_aKHebH": {
           "type": "column",
           "settings": {
@@ -341,13 +331,23 @@
             "link_label": "",
             "link": "shopify://collections/complementi-arredo-tessili-casa"
           }
+        },
+        "column_N8PWUL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-burnt-carpet-tappeto-2-the-dream-5.webp",
+            "title": "",
+            "text": "<p><strong>Tappeti e Tappetini</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/tappeti-e-tappetini-seletti"
+          }
         }
       },
       "block_order": [
         "column_Yn3MXw",
-        "column_N8PWUL",
         "column_aKHebH",
-        "column_DT6RJR"
+        "column_DT6RJR",
+        "column_N8PWUL"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -478,7 +478,7 @@
         "column_YRCWeY": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-bicchiere-sparky-lara-caffi-20.webp",
+            "image": "shopify://shop_images/alzata-knindustrie.webp",
             "title": "",
             "text": "<p><strong>KnIndustrie</strong> - essenzialità e innovazione</p>",
             "link_label": "",
@@ -488,7 +488,7 @@
         "column_9aFwWC": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/hybrid-tavola-natale-seletti.webp",
+            "image": "shopify://shop_images/toiletpaper-seletti-idee-regalo-iconiche.webp",
             "title": "",
             "text": "<p><strong>Seletti </strong>- Creatività Pop e Ironia per la casa</p>",
             "link_label": "",
@@ -508,9 +508,9 @@
         "column_PG6r8E": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/miho-duetto-candelabri-artigiali.jpg",
+            "image": "shopify://shop_images/vluv-kapsul-vlip-sgabello-ergonomico-balance-velluto-a-coste-14.webp",
             "title": "",
-            "text": "<p><strong>Miho - </strong>Design poetico e sostenibile</p>",
+            "text": "<p><strong>Vluv - </strong>Design ergonomico</p>",
             "link_label": "",
             "link": "shopify://collections/miho"
           }
