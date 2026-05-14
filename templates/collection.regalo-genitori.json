@@ -209,7 +209,7 @@
           "settings": {
             "image": "shopify://shop_images/Pixel-Mirrors-Seletti.jpg",
             "title": "",
-            "text": "<p><strong>Specchi</strong><br/>I riflessi che arredano <strong>→</strong></p>",
+            "text": "<p><strong>Specchi</strong><br/>Riflessi che arredano <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/complementi-arredo-specchi-da-parete"
           }
@@ -239,7 +239,7 @@
           "settings": {
             "image": "shopify://shop_images/Knindustrie-calice-sparky-1.webp",
             "title": "",
-            "text": "<p><strong>KnIndustrie</strong><br/>Calice Sparky <strong>→</strong></p>",
+            "text": "<p><strong>KnIndustrie</strong><br/>Sparky Bicchiere <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://products/knindustrie-bicchiere-sparky-lara-caffi"
           }
@@ -343,51 +343,51 @@
         "column_dJDEHi": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/vanilla-fly-cuscino-blu.webp",
+            "image": "shopify://shop_images/oh-yeah-spoon-e-vissero-felici-e-contenti-set-torta-9.webp",
             "title": "",
-            "text": "<p><strong>CUSCINI VANILLA FLY<br/></strong>Stile Eclettico </p>",
+            "text": "<p><strong>OH YEAH SPOON!<br/></strong>Argenteria Romantica</p>",
             "link_label": "",
-            "link": "shopify://collections/vanilla-fly"
+            "link": "shopify://products/oh-yeah-spoon-e-vissero-felici-e-contenti-set-torta"
           }
         },
         "column_aCBCHW": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/joseph-joseph-tota-90l-laundry-basket-ecru-_5.jpg",
+            "image": "shopify://shop_images/taglieri-scultura-materials-knindustrie.webp",
             "title": "",
-            "text": "<p><strong>PORTABIANCHERIA </strong><br/>Eleganza funzionale</p>",
+            "text": "<p><strong>TAGLIERI E CENTROTAVOLA</strong><br/>Essenzialità Artigianale</p><p></p>",
             "link_label": "",
-            "link": "shopify://products/joseph-joseph-tota-trio-90l-portabiancheria-laundry-basket-ecru"
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-taglieri-workstation"
           }
         },
         "column_TYXyPL": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/specchio-luminoso-supercurve-seletti.jpg",
+            "image": "shopify://shop_images/bitossi-home-dipinto_2.webp",
             "title": "",
-            "text": "<p><strong>SPECCHI</strong></p><p>Riflessi Inconfondibili</p>",
+            "text": "<p><strong>PIATTI</strong></p><p>Dettagli Conviviali</p>",
             "link_label": "",
-            "link": "shopify://collections/complementi-arredo-specchi-da-parete"
+            "link": "shopify://collections/cucina-e-tavola-piatti"
           }
         },
         "column_8b8LKj": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/reisenthel-scatole-armadio_-_AI_16850822-1bff-45f4-8348-a61e2f039b4b.jpg",
+            "image": "shopify://shop_images/knindustrie-groove-set-6-tumbler-tronco-cono-3-5.webp",
             "title": "",
-            "text": "<p><strong>SCATOLE DA ARMADIO</strong></p><p>Regalo Funzionale</p>",
+            "text": "<p><strong>Bicchieri</strong></p><p>Regalo Funzionale</p>",
             "link_label": "",
-            "link": "shopify://collections/complementi-arredo-scatole-armadio"
+            "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
           }
         },
         "column_DL7dhm": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Sparrow-Lamps-Seletti.jpg",
+            "image": "shopify://shop_images/BrickLanest.washedGold1.jpg",
             "title": "",
-            "text": "<p><strong>LAMPADE</strong></p><p>Dettagli che illuminano</p>",
+            "text": "<p><strong>POSATE</strong></p><p>Dettagli che illuminano</p>",
             "link_label": "",
-            "link": "shopify://collections/lampade"
+            "link": "shopify://collections/cucina-e-tavola-posate"
           }
         }
       },
