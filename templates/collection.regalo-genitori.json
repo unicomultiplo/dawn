@@ -29,6 +29,12 @@
             "collection": "idee-regalo-per-casa-e-cucina"
           }
         },
+        "featured_collection_4nAkVX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-regali-sotto-100-euro"
+          }
+        },
         "featured_collection_PqQKW8": {
           "type": "featured_collection",
           "settings": {
@@ -41,32 +47,33 @@
             "collection": "idee-regalo-regali-per-lui"
           }
         },
-        "featured_collection_4nAkVX": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo"
-          }
-        },
         "featured_collection_N3nwBf": {
           "type": "featured_collection",
           "settings": {
             "collection": "buoni-regalo-e-gift-card-unico-multiplo"
           }
+        },
+        "featured_collection_8TcULz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "vluv"
+          }
         }
       },
       "block_order": [
         "featured_collection_dCLJTD",
+        "featured_collection_4nAkVX",
         "featured_collection_PqQKW8",
         "featured_collection_XNtLxB",
-        "featured_collection_4nAkVX",
-        "featured_collection_N3nwBf"
+        "featured_collection_N3nwBf",
+        "featured_collection_8TcULz"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "2",
