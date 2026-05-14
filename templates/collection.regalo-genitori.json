@@ -469,11 +469,11 @@
         "column_3qth6P": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/taglieri-scultura-materials-knindustrie.webp",
+            "image": "shopify://shop_images/seletti-marcantonio-my_-tiny-moon-lampada-2.jpg",
             "title": "",
-            "text": "<p><strong>KnIndustrie</strong> - Essenzialità artigianale</p>",
+            "text": "<p><strong>Seletti </strong>My Tiny Moon</p>",
             "link_label": "",
-            "link": "shopify://products/5095-knindustrie-materials-taglieri-scultura"
+            "link": "shopify://products/seletti-marcantonio-my-tiny-moon-lampada"
           }
         },
         "column_79zfLw": {
@@ -501,7 +501,7 @@
           "settings": {
             "image": "shopify://shop_images/Seletti-mani-Marcantonio-2.webp",
             "title": "",
-            "text": "<p><strong>With Me Lamp</strong></p>",
+            "text": "<p><strong>Seletti </strong>With Me Lamp</p>",
             "link_label": "",
             "link": "shopify://products/4625-seletti-marcantonio-with-me-lamp-lampada-mani-intrecciate"
           }
