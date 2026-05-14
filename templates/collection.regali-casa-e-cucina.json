@@ -143,7 +143,7 @@
         "column_zVwnq7": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-Kintsugi-1.jpg",
+            "image": "shopify://shop_images/bitossi-home-dipinto-smerlo.webp",
             "title": "",
             "text": "<p><strong>Piatti da Tavola</strong></p>",
             "link_label": "",
@@ -315,11 +315,11 @@
         "column_N8PWUL": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Marinette_c696c502-67c7-4d57-95b8-fa921a0b1d97.webp",
+            "image": "shopify://shop_images/seletti-burnt-carpet-tappeto-2-the-dream-5.webp",
             "title": "",
-            "text": "<p><strong>Plaid</strong></p>",
+            "text": "<p><strong>Tappeti e Tappetini</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/marinette-saint-tropez"
+            "link": "shopify://collections/tappeti-e-tappetini-seletti"
           }
         },
         "column_aKHebH": {
