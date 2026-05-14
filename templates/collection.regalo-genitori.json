@@ -340,26 +340,6 @@
             "link": "shopify://collections/turbo-moka"
           }
         },
-        "column_dJDEHi": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/oh-yeah-spoon-e-vissero-felici-e-contenti-set-torta-9.webp",
-            "title": "",
-            "text": "<p><strong>OH YEAH SPOON!<br/></strong>Argenteria Romantica</p>",
-            "link_label": "",
-            "link": "shopify://products/oh-yeah-spoon-e-vissero-felici-e-contenti-set-torta"
-          }
-        },
-        "column_aCBCHW": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/taglieri-scultura-materials-knindustrie.webp",
-            "title": "",
-            "text": "<p><strong>TAGLIERI E CENTROTAVOLA</strong><br/>Essenzialità Artigianale</p><p></p>",
-            "link_label": "",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-taglieri-workstation"
-          }
-        },
         "column_TYXyPL": {
           "type": "column",
           "settings": {
@@ -389,15 +369,35 @@
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-posate"
           }
+        },
+        "column_dJDEHi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/oh-yeah-spoon-e-vissero-felici-e-contenti-set-torta-9.webp",
+            "title": "",
+            "text": "<p><strong>OH YEAH SPOON!<br/></strong>Argenteria Romantica</p>",
+            "link_label": "",
+            "link": "shopify://products/oh-yeah-spoon-e-vissero-felici-e-contenti-set-torta"
+          }
+        },
+        "column_aCBCHW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/taglieri-scultura-materials-knindustrie.webp",
+            "title": "",
+            "text": "<p><strong>TAGLIERI E CENTROTAVOLA</strong><br/>Essenzialità Artigianale</p><p></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-taglieri-workstation"
+          }
         }
       },
       "block_order": [
         "column_HFUX4k",
-        "column_dJDEHi",
-        "column_aCBCHW",
         "column_TYXyPL",
         "column_8b8LKj",
-        "column_DL7dhm"
+        "column_DL7dhm",
+        "column_dJDEHi",
+        "column_aCBCHW"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
