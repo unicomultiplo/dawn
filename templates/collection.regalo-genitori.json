@@ -1,0 +1,947 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        "a {color: #598db2;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
+      }
+    },
+    "collection_list_9xnNba": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_dCLJTD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-per-casa-e-cucina"
+          }
+        },
+        "featured_collection_PqQKW8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-regali-per-lei"
+          }
+        },
+        "featured_collection_XNtLxB": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-regali-per-lui"
+          }
+        },
+        "featured_collection_4nAkVX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo"
+          }
+        },
+        "featured_collection_N3nwBf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "buoni-regalo-e-gift-card-unico-multiplo"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_dCLJTD",
+        "featured_collection_PqQKW8",
+        "featured_collection_XNtLxB",
+        "featured_collection_4nAkVX",
+        "featured_collection_N3nwBf"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 36,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "none",
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_rFLwme": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_7XMNfm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/idee-regalo-matrimonio-sposi-originali.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_tfnRnb": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Ogni coppia ha esigenze e personalità diverse: c’è chi ama l’utile, chi preferisce un regalo fuori dal comune e chi cerca oggetti eleganti per la nuova casa.<strong> Ecco alcune ispirazioni per trovare il dono giusto.</strong></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_7XMNfm",
+        "column_tfnRnb"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Idee regalo matrimonio per sorprendere gli sposi",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_tNwL4w": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_8bzYje": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wqV3kq": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>Regali originali e particolari<br/></strong></h3><p>Se vuoi qualcosa che si distingua dai regali tradizionali, punta su oggetti creativi, personalizzabili o dal design inaspettato. Sono idee perfette per lasciare un ricordo unico agli sposi.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_8bzYje",
+        "column_wqV3kq"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_NkmqAE": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_4aqcfn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/miho-mystic-violet-tappeto-taftati-7.webp",
+            "title": "",
+            "text": "<p><strong>Miho<br/></strong>Tappeto<strong> </strong>Mystic Violet<strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/miho-mystic-violet-tappeto-taftati"
+          }
+        },
+        "column_3P9tX6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/oh-yeah-spoon-i-love-you-cucchiaino-caffe-5_cad95c68-e66d-4c1b-ba6e-a1a332d2917a.webp",
+            "title": "",
+            "text": "<p><strong>Oh Yeah Spoon</strong> <br/>\"Ancora una fettina\" Set dolce <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/oh-yeah-spoon-set-dolce-posate-vintage-placcate-in-argento"
+          }
+        },
+        "column_Lw7xMN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/printwork-moments-that-matter-the-most-album-foto-15.webp",
+            "title": "",
+            "text": "<p><strong>Printworks </strong><br/>Album foto Moments that matter <strong>→</strong><br/></p>",
+            "link_label": "",
+            "link": "shopify://products/printwork-moments-that-matter-the-most-album-foto"
+          }
+        },
+        "column_7qTfqm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-classics-on-acid-vaso-in-porcellana-floral-delft-h30-cm-4.webp",
+            "title": "",
+            "text": "<p><strong>Seletti <br/></strong>Vaso Floral Delft <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-classics-on-acid-vaso-in-porcellana-floral-delft-h30-cm"
+          }
+        },
+        "column_h6qL4f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-nuvola-lamp-4.webp",
+            "title": "",
+            "text": "<p><strong>Seletti </strong><br/>Nuvola Lamp <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-nuvola-lamp"
+          }
+        }
+      },
+      "block_order": [
+        "column_4aqcfn",
+        "column_3P9tX6",
+        "column_Lw7xMN",
+        "column_7qTfqm",
+        "column_h6qL4f"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "multicolumn_iybDdk": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_kYf7AU": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PrRA4K": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>Regali utili per la vita a due di tutti i giorni<br/></strong></h3><p>Soluzioni pratiche e curate, pensate per accompagnare la coppia nella quotidianità: accessori per la casa, utensili di qualità, oggetti funzionali ma belli da vedere.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_kYf7AU",
+        "column_PrRA4K"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_LPTCMh": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_HFUX4k": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/turbo-moka-made-in-italy-design-brevettato_9aeddead-f78a-4e62-b7ce-b0dad787eb1c.webp",
+            "title": "",
+            "text": "<p><strong>TURBO MOKA</strong><br/>Il Regalo che Cercavi</p>",
+            "link_label": "",
+            "link": "shopify://collections/turbo-moka"
+          }
+        },
+        "column_dJDEHi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/vanilla-fly-cuscino-blu.webp",
+            "title": "",
+            "text": "<p><strong>CUSCINI VANILLA FLY<br/></strong>Stile Eclettico </p>",
+            "link_label": "",
+            "link": "shopify://collections/vanilla-fly"
+          }
+        },
+        "column_aCBCHW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/joseph-joseph-tota-90l-laundry-basket-ecru-_5.jpg",
+            "title": "",
+            "text": "<p><strong>PORTABIANCHERIA </strong><br/>Eleganza funzionale</p>",
+            "link_label": "",
+            "link": "shopify://products/joseph-joseph-tota-trio-90l-portabiancheria-laundry-basket-ecru"
+          }
+        },
+        "column_TYXyPL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/specchio-luminoso-supercurve-seletti.jpg",
+            "title": "",
+            "text": "<p><strong>SPECCHI</strong></p><p>Riflessi Inconfondibili</p>",
+            "link_label": "",
+            "link": "shopify://collections/complementi-arredo-specchi-da-parete"
+          }
+        },
+        "column_8b8LKj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/reisenthel-scatole-armadio_-_AI_16850822-1bff-45f4-8348-a61e2f039b4b.jpg",
+            "title": "",
+            "text": "<p><strong>SCATOLE DA ARMADIO</strong></p><p>Regalo Funzionale</p>",
+            "link_label": "",
+            "link": "shopify://collections/complementi-arredo-scatole-armadio"
+          }
+        },
+        "column_DL7dhm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Sparrow-Lamps-Seletti.jpg",
+            "title": "",
+            "text": "<p><strong>LAMPADE</strong></p><p>Dettagli che illuminano</p>",
+            "link_label": "",
+            "link": "shopify://collections/lampade"
+          }
+        }
+      },
+      "block_order": [
+        "column_HFUX4k",
+        "column_dJDEHi",
+        "column_aCBCHW",
+        "column_TYXyPL",
+        "column_8b8LKj",
+        "column_DL7dhm"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "shopify://blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale",
+        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
+    "multicolumn_FK3mQN": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_xpxJnb": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GpWGL8": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>Oggetti di design per un matrimonio elegante<br/></strong></h3><p>Per chi ama l’estetica e i dettagli ricercati, il design è sempre una scelta sicura. Idee raffinate che uniscono stile e valore, perfette per la casa nuova.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_xpxJnb",
+        "column_GpWGL8"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_NBhDQA": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3qth6P": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/taglieri-scultura-materials-knindustrie.webp",
+            "title": "",
+            "text": "<p><strong>KnIndustrie</strong> - Essenzialità artigianale</p>",
+            "link_label": "",
+            "link": "shopify://products/5095-knindustrie-materials-taglieri-scultura"
+          }
+        },
+        "column_79zfLw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Pixel-Mirrors-Seletti.jpg",
+            "title": "",
+            "text": "<p><strong>Seletti </strong>- Creatività Pop </p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-pixel-mirror-specchio-con-cornice-in-mdf-heart"
+          }
+        },
+        "column_HLMBiV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/fiocco-bitossi-home-natale.webp",
+            "title": "",
+            "text": "<p><strong>Bitossi Home </strong>- Colore e Allegria</p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home"
+          }
+        },
+        "column_RRWRxh": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-norma-tegame-low-casserole-28-cm-4.jpg",
+            "title": "",
+            "text": "<p><strong>KnIndustrie</strong> - Essenzialità e Innovazione</p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-norma"
+          }
+        },
+        "column_DtRt7W": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-magna-graecia-capitello-in-terracotta-blu-4_1.webp",
+            "title": "",
+            "text": "<p><strong>Seletti </strong>- Magna Graecia Capitello</p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-magna-graecia-capitello"
+          }
+        },
+        "column_fYPem3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-storm-vassoio-stone-washed-6.webp",
+            "title": "",
+            "text": "<p><strong>KnIndustrie</strong> - Essenzialità e Innovazione</p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie"
+          }
+        }
+      },
+      "block_order": [
+        "column_3qth6P",
+        "column_79zfLw",
+        "column_HLMBiV",
+        "column_RRWRxh",
+        "column_DtRt7W",
+        "column_fYPem3"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Scopri tutti i Nostri Brand ->",
+        "button_link": "shopify://pages/i-nostri-brand",
+        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
+    "multicolumn_xMxCQk": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_PbpGDq": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Non serve spendere una fortuna: con la giusta attenzione si possono trovare regali eleganti e significativi in ogni fascia di prezzo.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_FiX3rb": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_PbpGDq",
+        "column_FiX3rb"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Idee Regalo per gli Sposi, calibrate sul budget",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_Gkr4nf": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_P8bmtx": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_QzqpAk": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>Regali economici ma sempre raffinati<br/></strong></h3><p>Piccoli pensieri che non rinunciano allo stile, ideali per un dono simbolico o per accompagnare una busta.</p>",
+            "link_label": "Idee Regalo Sotto i 50€",
+            "link": "shopify://collections/idee-regalo-economiche"
+          }
+        }
+      },
+      "block_order": [
+        "column_P8bmtx",
+        "column_QzqpAk"
+      ],
+      "custom_css": [],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_pUhwyU": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_bxTfzN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/la-tavola-scomposta-bitossi-home.jpg",
+            "title": "",
+            "text": "<p><strong>Bitossi Home<br/></strong>Mix & Match →</p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-i-piattini-bitossi-home"
+          }
+        },
+        "column_fqk7i3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/oh-yeah-spoon-e-vissero-felici-e-contenti-set-torta-8.webp",
+            "title": "",
+            "text": "<p><strong>OH YEAH SPOON</strong><br/>Design Artigianale <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/doiy"
+          }
+        },
+        "column_Y3bdBM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-toiletpaper-tappeto-bagno-sea-girl.jpg",
+            "title": "",
+            "text": "<p><strong>Seletti</strong><br/>Ironia  Creativa <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-toiletpaper-tappeto-bagno-sea-girl"
+          }
+        },
+        "column_miyPBj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Shapeless-KnIndustrie-Cestino-Portapane_1.jpg",
+            "title": "",
+            "text": "<p><strong>KnIndustrie</strong><br/>Inconfondibilmente Elegante <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/knindustrie-shapeless-cestino-portapane"
+          }
+        },
+        "column_jqKzxk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/sottopiatti-hybrid-natale-2025-seletti.webp",
+            "title": "",
+            "text": "<p><strong>Tovagliette Seletti</strong><br/>Design d'Amore <strong>→</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-tovaglie-e-tovagliette?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Bitossi+Home&filter.p.vendor=Seletti&sort_by=title-descending"
+          }
+        }
+      },
+      "block_order": [
+        "column_bxTfzN",
+        "column_fqk7i3",
+        "column_Y3bdBM",
+        "column_miyPBj",
+        "column_jqKzxk"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "shopify://collections/idee-regalo-economiche",
+        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "rich_text_AAdtP9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_d6haDa": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Regali entro 100€ o 150€</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_JVwBTF": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Quando la scelta diventa difficile, parti dal tuo budget.</em><br/>Proposte di fascia media per chi desidera un regalo più consistente senza esagerare.<br/></p>"
+          }
+        },
+        "button_YakFQ6": {
+          "type": "button",
+          "settings": {
+            "button_label": "Idee Regalo Sotto 100€",
+            "button_link": "shopify://collections/idee-regalo-regali-sotto-100-euro",
+            "button_style_secondary": false,
+            "button_label_2": "Idee Regalo Sotto 150€",
+            "button_link_2": "shopify://collections/idee-regalo-regali-sotto-150-euro",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_d6haDa",
+        "text_JVwBTF",
+        "button_YakFQ6"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-2",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "multicolumn_ifUFPk": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_c9Rdtq": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Il matrimonio è un inizio, ma anche un momento che coinvolge amici e famiglia: ecco pensieri per altre figure importanti e per anniversari speciali.<br/><br/></p><h3><strong>Proposte romantiche per anniversari e San Valentino</strong></h3><p>Idee e oggetti dedicati all’amore, perfetti anche per celebrare un anniversario degli sposi o la festa dell'Amore.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_dnmcaB": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_c9Rdtq",
+        "column_dnmcaB"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Regali Simbolici per Anniversari e Ricorrenze",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_8Bf6AX": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_RNYcdq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Love-in-Bloom-Seletti_196422cc-27a4-45b1-8a92-bd393047e649.webp",
+            "title": "",
+            "text": "<p><strong>Seletti Love In Bloom<br/></strong>Cuore in Vaso <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/love-in-bloom-seletti"
+          }
+        },
+        "column_766j3r": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/natale-bitossi-il_frutto_della-passione.webp",
+            "title": "",
+            "text": "<p><strong>Il Frutto della Passione</strong><br/>Simboli da portata<strong> </strong>→</p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-il-frutto-della-passione-bitossi-home"
+          }
+        },
+        "column_QmNpN4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-mani-Marcantonio-2.webp",
+            "title": "",
+            "text": "<p><strong>Seletti Marcantonio </strong>With me Lamp<strong> </strong>→</p>",
+            "link_label": "",
+            "link": "shopify://products/4625-seletti-marcantonio-with-me-lamp-lampada-mani-intrecciate"
+          }
+        },
+        "column_zb9DJg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-1_3ce9b986-5711-4645-b25a-9e61f155342d.webp",
+            "title": "",
+            "text": "<p><strong>Candele e Candelabri<br/></strong>Dettagli wow! →</p>",
+            "link_label": "",
+            "link": "shopify://collections/illuminazione-candelabri-e-candele"
+          }
+        },
+        "column_detGP7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/san-valentino-idee-regalo-romantiche-originali.webp",
+            "title": "",
+            "text": "<p><strong>Esplora <br/></strong>Tutta la collezione <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/idee-regalo-san-valentino"
+          }
+        }
+      },
+      "block_order": [
+        "column_RNYcdq",
+        "column_766j3r",
+        "column_QmNpN4",
+        "column_zb9DJg",
+        "column_detGP7"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "image_banner_fNqNdc": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_QPaUqG": {
+          "type": "heading",
+          "settings": {
+            "heading": "Suggerimenti extra per vivere da vicino il matrimonio",
+            "heading_size": "h1"
+          }
+        },
+        "text_zfCMGy": {
+          "type": "text",
+          "settings": {
+            "text": "Se cerchi qualcosa di più originale dei regali tradizionali, puoi esplorare idee legate all’esperienza del matrimonio stesso, perfette per stupire.",
+            "text_style": "body"
+          }
+        },
+        "buttons_mtydTg": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Apparecchiare con Stile",
+            "button_link_1": "shopify://blogs/apparecchiare-con-stile",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_QPaUqG",
+        "text_zfCMGy",
+        "buttons_mtydTg"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/idee-regalo-sposi_8e9a1b27-9596-49ca-ad1d-e3cacfc2953f.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "collection_list_9xnNba",
+    "product-grid",
+    "multicolumn_rFLwme",
+    "multicolumn_tNwL4w",
+    "multicolumn_NkmqAE",
+    "multicolumn_iybDdk",
+    "multicolumn_LPTCMh",
+    "multicolumn_FK3mQN",
+    "multicolumn_NBhDQA",
+    "multicolumn_xMxCQk",
+    "multicolumn_Gkr4nf",
+    "multicolumn_pUhwyU",
+    "rich_text_AAdtP9",
+    "multicolumn_ifUFPk",
+    "multicolumn_8Bf6AX",
+    "image_banner_fNqNdc"
+  ]
+}
