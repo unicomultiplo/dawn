@@ -207,31 +207,31 @@
         "column_3P9tX6": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/oh-yeah-spoon-i-love-you-cucchiaino-caffe-5_cad95c68-e66d-4c1b-ba6e-a1a332d2917a.webp",
+            "image": "shopify://shop_images/Pixel-Mirrors-Seletti.jpg",
             "title": "",
-            "text": "<p><strong>Oh Yeah Spoon</strong> <br/>\"Ancora una fettina\" Set dolce <strong>→</strong></p>",
+            "text": "<p><strong>Specchi</strong><br/>I riflessi che arredano <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://products/oh-yeah-spoon-set-dolce-posate-vintage-placcate-in-argento"
+            "link": "shopify://collections/complementi-arredo-specchi-da-parete"
           }
         },
         "column_Lw7xMN": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/printwork-moments-that-matter-the-most-album-foto-15.webp",
+            "image": "shopify://shop_images/album-matrimonio-happily-ever-after-printworks-2.webp",
             "title": "",
-            "text": "<p><strong>Printworks </strong><br/>Album foto Moments that matter <strong>→</strong><br/></p>",
+            "text": "<p><strong>Printworks </strong><br/>Album foto  <strong>→</strong><br/></p>",
             "link_label": "",
-            "link": "shopify://products/printwork-moments-that-matter-the-most-album-foto"
+            "link": "shopify://products/printwork-happily-ever-after-album-fotp"
           }
         },
         "column_7qTfqm": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-classics-on-acid-vaso-in-porcellana-floral-delft-h30-cm-4.webp",
+            "image": "shopify://shop_images/bitossi-home-la-tavola-tutti-i_frutti.webp",
             "title": "",
-            "text": "<p><strong>Seletti <br/></strong>Vaso Floral Delft <strong>→</strong></p>",
+            "text": "<p><strong>Bitossi <br/></strong>Tutti i Frutti <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://products/seletti-classics-on-acid-vaso-in-porcellana-floral-delft-h30-cm"
+            "link": "shopify://collections/tutti-i-frutti-bitossi-home"
           }
         },
         "column_h6qL4f": {
@@ -243,6 +243,16 @@
             "link_label": "",
             "link": "shopify://products/seletti-nuvola-lamp"
           }
+        },
+        "column_Q4dkcn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/vanilla-fly-LA288_LA287_LA286_SOFA.webp",
+            "title": "",
+            "text": "<p><strong>Vanilla Fly</strong><br/>Cuscini <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/vanilla-fly"
+          }
         }
       },
       "block_order": [
@@ -250,7 +260,8 @@
         "column_3P9tX6",
         "column_Lw7xMN",
         "column_7qTfqm",
-        "column_h6qL4f"
+        "column_h6qL4f",
+        "column_Q4dkcn"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -260,7 +271,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "portrait",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
