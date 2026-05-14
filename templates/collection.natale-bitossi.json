@@ -473,21 +473,21 @@
         "column_64LbyE": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/decor-bitossi-home.jpg",
+            "image": "shopify://shop_images/bitossi-home-tutti-l-orto-fragola-1_1.webp",
             "title": "",
-            "text": "<p><strong>Decor</strong><br/>Colori pastello <strong>→</strong></p>",
+            "text": "<p><strong>L'orto</strong><br/>Colori Vegetali <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/decor-bitossi-home"
+            "link": "shopify://collections/lorto-bitossi-home"
           }
         },
         "column_CKqdec": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi-home-le-clessidre.webp",
+            "image": "shopify://shop_images/bitossi-home-dama-tessile-set-2-tovagliette-20.jpg",
             "title": "",
-            "text": "<p><strong>Clessidre</strong><br/>Sabbia calma →</p>",
+            "text": "<p><strong>Tessile</strong><br/>Vesti la Tua Tavola →</p>",
             "link_label": "",
-            "link": "shopify://collections/bitossi-home-clessidre"
+            "link": "shopify://collections/bitossi-home-tovagliette-e-vassoi"
           }
         }
       },
@@ -566,6 +566,7 @@
     },
     "dual_images_PgFJyJ": {
       "type": "dual-images",
+      "disabled": true,
       "custom_css": [
         ".image-text {color: #000 !important;}"
       ],
@@ -705,7 +706,7 @@
             "image": "shopify://shop_images/l-orto-new-bitossi-home-collection.webp",
             "heading": "L'orto",
             "heading_size": "h2",
-            "subheading": "Botanica",
+            "subheading": "",
             "button_label": "Scoprila ora!",
             "link": "shopify://collections/lorto-bitossi-home",
             "button_style_secondary": true,
