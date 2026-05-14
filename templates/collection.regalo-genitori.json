@@ -129,6 +129,7 @@
         "column_7XMNfm",
         "column_tfnRnb"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Idee regalo matrimonio per sorprendere gli sposi",
@@ -173,6 +174,7 @@
         "column_8bzYje",
         "column_wqV3kq"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -252,6 +254,7 @@
         "column_7qTfqm",
         "column_h6qL4f"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -298,6 +301,7 @@
         "column_kYf7AU",
         "column_PrRA4K"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -388,6 +392,7 @@
         "column_8b8LKj",
         "column_DL7dhm"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -434,6 +439,7 @@
         "column_xpxJnb",
         "column_GpWGL8"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -524,6 +530,7 @@
         "column_DtRt7W",
         "column_fYPem3"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -570,6 +577,7 @@
         "column_PbpGDq",
         "column_FiX3rb"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Idee Regalo per gli Sposi, calibrate sul budget",
@@ -614,6 +622,7 @@
         "column_P8bmtx",
         "column_QzqpAk"
       ],
+      "disabled": true,
       "custom_css": [],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -694,6 +703,7 @@
         "column_miyPBj",
         "column_jqKzxk"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -747,6 +757,7 @@
         "text_JVwBTF",
         "button_YakFQ6"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
@@ -783,6 +794,7 @@
         "column_c9Rdtq",
         "column_dnmcaB"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Regali Simbolici per Anniversari e Ricorrenze",
@@ -862,6 +874,7 @@
         "column_zb9DJg",
         "column_detGP7"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -916,6 +929,7 @@
         "text_zfCMGy",
         "buttons_mtydTg"
       ],
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/idee-regalo-sposi_8e9a1b27-9596-49ca-ad1d-e3cacfc2953f.webp",
