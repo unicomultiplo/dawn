@@ -119,7 +119,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Scegliere un regalo per mamma e papà significa pensare a qualcosa che possano vivere insieme, giorno dopo giorno. Accessori per la casa, oggetti per la tavola, dettagli per la cucina e complementi di design diventano idee regalo perfette per accompagnare i piccoli rituali della quotidianità: una colazione lenta, una cena in famiglia, un brindisi speciale o un momento di relax.<br/><br/>In questa selezione trovi regali per genitori pensati per unire utilità, estetica e valore affettivo. Oggetti belli da usare, facili da inserire in casa e scelti per trasformare anche i gesti più semplici in qualcosa da ricordare.</p>",
+            "text": "<p>Scegliere un <strong>regalo per mamma e papà </strong>significa pensare a qualcosa che possano vivere insieme, giorno dopo giorno. <br/><br/>Accessori per la casa, oggetti per la tavola, dettagli per la cucina e complementi di design diventano<strong> idee regalo perfette</strong> per accompagnare i piccoli rituali della <strong>quotidianità</strong>: una colazione lenta, una cena in famiglia, un brindisi speciale o un momento di relax.<br/><br/>In questa selezione trovi regali per genitori pensati per unire utilità, estetica e valore affettivo. <strong>Oggetti belli da usare</strong>, facili da inserire in casa e scelti per trasformare anche i gesti più semplici in qualcosa da ricordare.</p>",
             "link_label": "",
             "link": ""
           }
@@ -163,7 +163,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3><strong>Regali originali e particolari<br/></strong></h3><p>Se vuoi qualcosa che si distingua dai regali tradizionali, punta su oggetti creativi, personalizzabili o dal design inaspettato. Sono idee perfette per lasciare un ricordo unico agli sposi.</p>",
+            "text": "<h3><strong>Idee regalo per mamma e papà, per ogni stile di casa<br/></strong></h3><p>Scegliere un regalo per i genitori diventa più semplice con proposte trasversali, curate e facili da abbinare a stili diversi. Accessori decorativi, oggetti per la cucina, complementi per il living e idee utili che trovano spazio nella quotidianità con naturalezza.</p>",
             "link_label": "",
             "link": ""
           }
@@ -288,7 +288,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3><strong>Regali utili per la vita a due di tutti i giorni<br/></strong></h3><p>Soluzioni pratiche e curate, pensate per accompagnare la coppia nella quotidianità: accessori per la casa, utensili di qualità, oggetti funzionali ma belli da vedere.</p>",
+            "text": "<h3><strong>Regali per la tavola e la cucina da vivere insieme<br/></strong></h3><p>La cucina è uno degli spazi più condivisi della casa: per questo gli accessori per cucinare, servire e apparecchiare diventano idee regalo perfette per mamma e papà.<br/><br/>Piatti, bicchieri, caraffe, utensili e accessori da cucina aiutano a creare momenti conviviali e trasformano ogni occasione in qualcosa di speciale, dalla cena quotidiana al pranzo in famiglia.</p>",
             "link_label": "",
             "link": ""
           }
@@ -298,7 +298,6 @@
         "column_kYf7AU",
         "column_PrRA4K"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -389,7 +388,6 @@
         "column_8b8LKj",
         "column_DL7dhm"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -426,7 +424,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3><strong>Oggetti di design per un matrimonio elegante<br/></strong></h3><p>Per chi ama l’estetica e i dettagli ricercati, il design è sempre una scelta sicura. Idee raffinate che uniscono stile e valore, perfette per la casa nuova.</p>",
+            "text": "<h3><strong>Idee originali per sorprendere i genitori con qualcosa di diverso<br/></strong></h3><p>Per chi cerca un<strong> regalo meno prevedibile</strong>, le proposte di design permettono di scegliere oggetti decorativi, accessori <strong>particolari </strong>e dettagli capaci di lasciare il segno.</p><p><strong>Vasi, complementi ironici, oggetti artistici e accessori ricercati diventano idee regalo perfette </strong>per genitori che amano arredare la casa con personalità e attenzione ai dettagli.</p>",
             "link_label": "",
             "link": ""
           }
@@ -436,7 +434,6 @@
         "column_xpxJnb",
         "column_GpWGL8"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -527,7 +524,6 @@
         "column_DtRt7W",
         "column_fYPem3"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
