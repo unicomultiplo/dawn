@@ -621,6 +621,7 @@
     },
     "dual_images_PgFJyJ": {
       "type": "dual-images",
+      "disabled": true,
       "custom_css": [
         ".image-text {color: #000 !important;}"
       ],
