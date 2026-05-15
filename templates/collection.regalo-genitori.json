@@ -105,6 +105,15 @@
     "multicolumn_rFLwme": {
       "type": "multicolumn",
       "blocks": {
+        "column_eFtpnU": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Scegliere un <strong>regalo per mamma e papà </strong>significa pensare a qualcosa che possano vivere insieme, giorno dopo giorno. <br/>Accessori per la casa, oggetti per la tavola, dettagli per la cucina e complementi di design diventano<strong> idee regalo perfette</strong> per accompagnare i piccoli rituali della <strong>quotidianità</strong>: una colazione lenta, una cena in famiglia, un brindisi speciale o un momento di relax.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_7XMNfm": {
           "type": "column",
           "settings": {
@@ -119,13 +128,14 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Scegliere un <strong>regalo per mamma e papà </strong>significa pensare a qualcosa che possano vivere insieme, giorno dopo giorno. <br/>Accessori per la casa, oggetti per la tavola, dettagli per la cucina e complementi di design diventano<strong> idee regalo perfette</strong> per accompagnare i piccoli rituali della <strong>quotidianità</strong>: una colazione lenta, una cena in famiglia, un brindisi speciale o un momento di relax.<br/><br/>In questa selezione trovi regali per genitori pensati per unire utilità, estetica e valore affettivo. <strong>Oggetti belli da usare</strong>, facili da inserire in casa e scelti per trasformare anche i gesti più semplici in qualcosa da ricordare.</p>",
+            "text": "<p>In questa selezione trovi regali per genitori pensati per unire utilità, estetica e valore affettivo. <strong>Oggetti belli da usare</strong>, facili da inserire in casa e scelti per trasformare anche i gesti più semplici in qualcosa da ricordare.</p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
+        "column_eFtpnU",
         "column_7XMNfm",
         "column_tfnRnb"
       ],
@@ -898,18 +908,25 @@
     "image_banner_fNqNdc": {
       "type": "image-banner",
       "blocks": {
+        "heading_MbWVNz": {
+          "type": "heading",
+          "settings": {
+            "heading": "Regali importanti per mamma e papà",
+            "heading_size": "h2"
+          }
+        },
         "text_zfCMGy": {
           "type": "text",
           "settings": {
-            "text": "Se cerchi qualcosa di più originale dei regali tradizionali, puoi esplorare idee legate all’esperienza del matrimonio stesso, perfette per stupire.",
+            "text": "<strong>Se cerchi qualcosa di più originale dei regali tradizionali, puoi esplorare idee legate all’esperienza del matrimonio stesso, perfette per stupire.</strong>",
             "text_style": "body"
           }
         },
         "buttons_mtydTg": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Apparecchiare con Stile",
-            "button_link_1": "shopify://blogs/apparecchiare-con-stile",
+            "button_label_1": "Regali Importanti",
+            "button_link_1": "https://www.unicoemultiplo.com/collections/idee-regalo?filter.v.price.gte=150&filter.v.price.lte=1620&sort_by=manual",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -918,6 +935,7 @@
         }
       },
       "block_order": [
+        "heading_MbWVNz",
         "text_zfCMGy",
         "buttons_mtydTg"
       ],
@@ -927,7 +945,7 @@
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "",
         "image_behavior": "none",
