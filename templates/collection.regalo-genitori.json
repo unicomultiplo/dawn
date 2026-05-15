@@ -1105,16 +1105,6 @@
             "link": "shopify://products/oh-yeah-spoon-e-vissero-felici-e-contenti-set-torta"
           }
         },
-        "column_Y3bdBM": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-toiletpaper-tappeto-bagno-sea-girl.jpg",
-            "title": "",
-            "text": "<p><strong>Seletti</strong><br/>Ironia  Creativa <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://products/seletti-toiletpaper-tappeto-bagno-sea-girl"
-          }
-        },
         "column_miyPBj": {
           "type": "column",
           "settings": {
@@ -1123,6 +1113,16 @@
             "text": "<p><strong>KnIndustrie</strong><br/>Inconfondibilmente Elegante <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/knindustrie-accessori-tavola"
+          }
+        },
+        "column_Y3bdBM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-toiletpaper-tappeto-bagno-sea-girl.jpg",
+            "title": "",
+            "text": "<p><strong>Seletti</strong><br/>Ironia  Creativa <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-toiletpaper-tappeto-bagno-sea-girl"
           }
         },
         "column_jqKzxk": {
@@ -1149,8 +1149,8 @@
       "block_order": [
         "column_bxTfzN",
         "column_fqk7i3",
-        "column_Y3bdBM",
         "column_miyPBj",
+        "column_Y3bdBM",
         "column_jqKzxk",
         "column_bMtbXt"
       ],
