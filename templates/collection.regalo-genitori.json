@@ -822,24 +822,24 @@
             "link": "shopify://collections/bitossi-home"
           }
         },
-        "column_WGHhge": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/vluv-kapsul-vlip-sgabello-ergonomico-balance-velluto-a-coste-14.webp",
-            "title": "",
-            "text": "<p><strong>Vluv - </strong>Design ergonomico</p>",
-            "link_label": "",
-            "link": "shopify://collections/vluv"
-          }
-        },
         "column_CqVmJL": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/vanilla-fly-cuscino-velluto-retro-velluto-brown-fan-1.jpg",
+            "image": "shopify://shop_images/vanilla-fly-LA86_LA290_LA291_LA303_CHAIR.webp",
             "title": "",
             "text": "<p><strong>Vanilla Fly - </strong>Stile eclettico e fascino vintage</p>",
             "link_label": "",
             "link": "shopify://collections/vanilla-fly"
+          }
+        },
+        "column_WGHhge": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/vluv-bol-diva-boucle-palla-da-seduta-ergonomica-65-cm-5.webp",
+            "title": "",
+            "text": "<p><strong>Vluv - </strong>Design ergonomico</p>",
+            "link_label": "",
+            "link": "shopify://collections/vluv"
           }
         }
       },
@@ -847,8 +847,8 @@
         "column_FbWiA7",
         "column_VTEPcL",
         "column_t9pXFb",
-        "column_WGHhge",
-        "column_CqVmJL"
+        "column_CqVmJL",
+        "column_WGHhge"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -920,7 +920,7 @@
         "column_RNYcdq": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Love-in-Bloom-Seletti_196422cc-27a4-45b1-8a92-bd393047e649.webp",
+            "image": "shopify://shop_images/09920_LOVE_IN_BLOOM_LIFESTYLE_BLUE_FLOWER.webp",
             "title": "",
             "text": "<p><strong>Seletti Love In Bloom<br/></strong>Cuore in Vaso <strong>→</strong></p>",
             "link_label": "",
@@ -940,7 +940,7 @@
         "column_QmNpN4": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-mani-Marcantonio-2.webp",
+            "image": "shopify://shop_images/MARCANTONIO_WITH_ME_LAMP_1.webp",
             "title": "",
             "text": "<p><strong>Seletti Marcantonio </strong>With me Lamp<strong> </strong>→</p>",
             "link_label": "",
