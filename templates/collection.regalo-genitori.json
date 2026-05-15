@@ -653,6 +653,98 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_BPydwh": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_taiFrM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/la-tavola-scomposta.webp",
+            "title": "",
+            "text": "<p><strong>Piatti da Tavola</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-piatti"
+          }
+        },
+        "column_6rUh37": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-lime-lane-tumbler.webp",
+            "title": "",
+            "text": "<p><strong>Bicchieri e Calici</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
+          }
+        },
+        "column_fnnNen": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-rubin-alzata-in-vetro-con-piatto-in-legno-3.webp",
+            "title": "",
+            "text": "<p><strong>Centrotavola</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
+          }
+        },
+        "column_qFDe3V": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-bic-crystal-pen-mario-paroli_1.webp",
+            "title": "",
+            "text": "<h3><strong>Lampade</strong></h3>",
+            "link_label": "",
+            "link": "shopify://collections/lampade"
+          }
+        },
+        "column_B8Qj4B": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-toiletpaper-tappeto-bagno-milky-boots-2.jpg",
+            "title": "",
+            "text": "<p><strong>Tessile </strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/complementi-arredo-tessili-casa"
+          }
+        },
+        "column_Yp8XbM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-vasi-kintsugi.webp",
+            "title": "",
+            "text": "<p><strong>Vasi</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/complementi-arredo-vasi"
+          }
+        }
+      },
+      "block_order": [
+        "column_taiFrM",
+        "column_6rUh37",
+        "column_fnnNen",
+        "column_qFDe3V",
+        "column_B8Qj4B",
+        "column_Yp8XbM"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
     "multicolumn_PrRDxf": {
       "type": "multicolumn",
       "blocks": {
@@ -713,7 +805,7 @@
         "column_VTEPcL": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/toiletpaper-seletti-idee-regalo-iconiche.webp",
+            "image": "shopify://shop_images/seletti-toiletpaper-sedia-metallo-pieghevole-126.webp",
             "title": "",
             "text": "<p><strong>Seletti </strong>- Creatività Pop e Ironia per la casa</p>",
             "link_label": "",
@@ -723,7 +815,7 @@
         "column_t9pXFb": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi-abracabra-natale-2025.webp",
+            "image": "shopify://shop_images/bitossi-home-la-tavola-scomposta-torchon.webp",
             "title": "",
             "text": "<p><strong>Bitossi Home </strong>- Colore e Allegria per la Tavola</p>",
             "link_label": "",
@@ -1145,6 +1237,7 @@
     "multicolumn_NBhDQA",
     "multicolumn_xMxCQk",
     "multicolumn_HCtt3r",
+    "multicolumn_BPydwh",
     "multicolumn_PrRDxf",
     "multicolumn_XyYVY3",
     "multicolumn_hmFfjw",
