@@ -119,7 +119,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Scegliere un <strong>regalo per mamma e papà </strong>significa pensare a qualcosa che possano vivere insieme, giorno dopo giorno. <br/><br/>Accessori per la casa, oggetti per la tavola, dettagli per la cucina e complementi di design diventano<strong> idee regalo perfette</strong> per accompagnare i piccoli rituali della <strong>quotidianità</strong>: una colazione lenta, una cena in famiglia, un brindisi speciale o un momento di relax.<br/><br/>In questa selezione trovi regali per genitori pensati per unire utilità, estetica e valore affettivo. <strong>Oggetti belli da usare</strong>, facili da inserire in casa e scelti per trasformare anche i gesti più semplici in qualcosa da ricordare.</p>",
+            "text": "<p>Scegliere un <strong>regalo per mamma e papà </strong>significa pensare a qualcosa che possano vivere insieme, giorno dopo giorno. <br/>Accessori per la casa, oggetti per la tavola, dettagli per la cucina e complementi di design diventano<strong> idee regalo perfette</strong> per accompagnare i piccoli rituali della <strong>quotidianità</strong>: una colazione lenta, una cena in famiglia, un brindisi speciale o un momento di relax.<br/><br/>In questa selezione trovi regali per genitori pensati per unire utilità, estetica e valore affettivo. <strong>Oggetti belli da usare</strong>, facili da inserire in casa e scelti per trasformare anche i gesti più semplici in qualcosa da ricordare.</p>",
             "link_label": "",
             "link": ""
           }
@@ -163,7 +163,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3><strong>Idee regalo per mamma e papà, per ogni stile di casa<br/></strong></h3><p>Scegliere un regalo per i genitori diventa più semplice con proposte trasversali, curate e facili da abbinare a stili diversi. Accessori decorativi, oggetti per la cucina, complementi per il living e idee utili che trovano spazio nella quotidianità con naturalezza.</p>",
+            "text": "<h3><strong>Idee regalo per mamma e papà, per ogni stile di casa<br/></strong></h3><p><strong>Scegliere un regalo</strong> per i genitori diventa più semplice con proposte trasversali, curate e facili da abbinare a stili diversi. <strong>Accessori </strong>decorativi, <strong>oggetti </strong>per la <strong>cucina</strong>, complementi per il living e<strong> idee utili </strong>che trovano spazio nella quotidianità con naturalezza.</p>",
             "link_label": "",
             "link": ""
           }
@@ -199,9 +199,9 @@
           "settings": {
             "image": "shopify://shop_images/miho-mystic-violet-tappeto-taftati-7.webp",
             "title": "",
-            "text": "<p><strong>Miho<br/></strong>Tappeto<strong> </strong>Mystic Violet<strong>→</strong></p>",
+            "text": "<p><strong>Tappeti<br/></strong>Il Regalo che veste la casa<strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://products/miho-mystic-violet-tappeto-taftati"
+            "link": "https://www.unicoemultiplo.com/collections/complementi-arredo-tessili-casa?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Tappeti&sort_by=created-descending"
           }
         },
         "column_3P9tX6": {
@@ -209,7 +209,7 @@
           "settings": {
             "image": "shopify://shop_images/Pixel-Mirrors-Seletti.jpg",
             "title": "",
-            "text": "<p><strong>Specchi</strong><br/>Riflessi che arredano <strong>→</strong></p>",
+            "text": "<p><strong>Specchi</strong><br/>Riflessi che arredano<strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/complementi-arredo-specchi-da-parete"
           }
@@ -217,9 +217,9 @@
         "column_Lw7xMN": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/album-matrimonio-happily-ever-after-printworks-2.webp",
+            "image": "shopify://shop_images/printwork-i-love-story-album-foto-3.webp",
             "title": "",
-            "text": "<p><strong>Printworks </strong><br/>Album foto  <strong>→</strong><br/></p>",
+            "text": "<p><strong>Printworks </strong><br/>Ricordi da Sfogliare<strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://products/printwork-happily-ever-after-album-fotp"
           }
@@ -227,21 +227,11 @@
         "column_7qTfqm": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/bitossi-home-la-tavola-tutti-i_frutti.webp",
+            "image": "shopify://shop_images/bitossi-home-l-orto-limone2.jpg",
             "title": "",
-            "text": "<p><strong>Bitossi <br/></strong>Tutti i Frutti <strong>→</strong></p>",
+            "text": "<p><strong>Bitossi L'Orto<br/></strong>Tavola Botanica<strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/tutti-i-frutti-bitossi-home"
-          }
-        },
-        "column_h6qL4f": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Knindustrie-calice-sparky-1.webp",
-            "title": "",
-            "text": "<p><strong>KnIndustrie</strong><br/>Sparky Bicchiere <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://products/knindustrie-bicchiere-sparky-lara-caffi"
           }
         },
         "column_Q4dkcn": {
@@ -249,9 +239,19 @@
           "settings": {
             "image": "shopify://shop_images/vanilla-fly-LA288_LA287_LA286_SOFA.webp",
             "title": "",
-            "text": "<p><strong>Vanilla Fly</strong><br/>Cuscini <strong>→</strong></p>",
+            "text": "<p><strong>Vanilla Fly Cuscini <br/></strong>Regali Morbidi<strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/vanilla-fly"
+          }
+        },
+        "column_h6qL4f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Knindustrie-calice-sparky-1.webp",
+            "title": "",
+            "text": "<p><strong>KnIndustrie Sparky<br/></strong>Brindisi speciali<strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/knindustrie-bicchiere-sparky-lara-caffi"
           }
         }
       },
@@ -260,8 +260,8 @@
         "column_3P9tX6",
         "column_Lw7xMN",
         "column_7qTfqm",
-        "column_h6qL4f",
-        "column_Q4dkcn"
+        "column_Q4dkcn",
+        "column_h6qL4f"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -299,7 +299,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3><strong>Regali per la tavola e la cucina da vivere insieme<br/></strong></h3><p>La cucina è uno degli spazi più condivisi della casa: per questo gli accessori per cucinare, servire e apparecchiare diventano idee regalo perfette per mamma e papà.<br/><br/>Piatti, bicchieri, caraffe, utensili e accessori da cucina aiutano a creare momenti conviviali e trasformano ogni occasione in qualcosa di speciale, dalla cena quotidiana al pranzo in famiglia.</p>",
+            "text": "<h3><strong>Regali per la tavola e la cucina da vivere insieme<br/></strong></h3><p>La <strong>cucina </strong>è uno degli spazi più condivisi della <strong>casa</strong>: per questo gli accessori per cucinare, servire e apparecchiare diventano <strong>idee regalo perfette</strong> per mamma e papà.<br/><br/>Piatti, bicchieri, caraffe, utensili e accessori da cucina <strong>aiutano </strong>a creare<strong> momenti conviviali</strong> e trasformano ogni occasione in qualcosa di <strong>speciale</strong>, dalla cena quotidiana al pranzo in famiglia.</p>",
             "link_label": "",
             "link": ""
           }
@@ -335,7 +335,7 @@
           "settings": {
             "image": "shopify://shop_images/turbo-moka-made-in-italy-design-brevettato_9aeddead-f78a-4e62-b7ce-b0dad787eb1c.webp",
             "title": "",
-            "text": "<p><strong>TURBO MOKA</strong><br/>Il Regalo che Cercavi</p>",
+            "text": "<p><strong>Turbo Moka - </strong>Il Regalo che Cercavi</p>",
             "link_label": "",
             "link": "shopify://collections/turbo-moka"
           }
@@ -345,7 +345,7 @@
           "settings": {
             "image": "shopify://shop_images/bitossi-home-dipinto_2.webp",
             "title": "",
-            "text": "<p><strong>PIATTI</strong></p><p>Dettagli Conviviali</p>",
+            "text": "<p><strong>Piatti - </strong>Dettagli Conviviali</p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-piatti"
           }
@@ -355,7 +355,7 @@
           "settings": {
             "image": "shopify://shop_images/knindustrie-groove-set-6-tumbler-tronco-cono-3-5.webp",
             "title": "",
-            "text": "<p><strong>Bicchieri</strong></p><p>Regalo Funzionale</p>",
+            "text": "<p><strong>Bicchieri - </strong>Funzionali, mai Banali</p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
           }
@@ -365,7 +365,7 @@
           "settings": {
             "image": "shopify://shop_images/BrickLanest.washedGold1.jpg",
             "title": "",
-            "text": "<p><strong>POSATE</strong></p><p>Dettagli che illuminano</p>",
+            "text": "<p><strong>Posate - </strong>Dettagli che illuminano</p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-posate"
           }
@@ -375,7 +375,7 @@
           "settings": {
             "image": "shopify://shop_images/oh-yeah-spoon-e-vissero-felici-e-contenti-set-torta-9.webp",
             "title": "",
-            "text": "<p><strong>OH YEAH SPOON!<br/></strong>Argenteria Romantica</p>",
+            "text": "<p><strong>OH YEAH SPOON! - </strong>Argenteria Romantica</p>",
             "link_label": "",
             "link": "shopify://products/oh-yeah-spoon-e-vissero-felici-e-contenti-set-torta"
           }
@@ -383,11 +383,11 @@
         "column_aCBCHW": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/taglieri-scultura-materials-knindustrie.webp",
+            "image": "shopify://shop_images/knindustrie-oliera-acetiera-4.jpg",
             "title": "",
-            "text": "<p><strong>TAGLIERI E CENTROTAVOLA</strong><br/>Essenzialità Artigianale</p><p></p>",
+            "text": "<p><strong>TAGLIERI E CENTROTAVOLA - </strong>Essenzialità Artigianale</p><p></p>",
             "link_label": "",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-taglieri-workstation"
+            "link": "shopify://collections/knindustrie-accessori-tavola"
           }
         }
       },
@@ -471,7 +471,7 @@
           "settings": {
             "image": "shopify://shop_images/seletti-marcantonio-my_-tiny-moon-lampada-2.jpg",
             "title": "",
-            "text": "<p><strong>Seletti </strong>My Tiny Moon</p>",
+            "text": "<p><strong>Seletti - </strong>My Tiny Moon</p>",
             "link_label": "",
             "link": "shopify://products/seletti-marcantonio-my-tiny-moon-lampada"
           }
@@ -491,7 +491,7 @@
           "settings": {
             "image": "shopify://shop_images/bitossi-home-tutti-i-frutti-cestini.webp",
             "title": "",
-            "text": "<p><strong>Bitossi Home </strong>- Colore e Allegria</p>",
+            "text": "<p><strong>Bitossi Home </strong>- Tutti i Frutti</p>",
             "link_label": "",
             "link": "shopify://collections/tutti-i-frutti-bitossi-home"
           }
@@ -501,7 +501,7 @@
           "settings": {
             "image": "shopify://shop_images/Seletti-mani-Marcantonio-2.webp",
             "title": "",
-            "text": "<p><strong>Seletti </strong>With Me Lamp</p>",
+            "text": "<p><strong>Seletti - </strong>With Me Lamp</p>",
             "link_label": "",
             "link": "shopify://products/4625-seletti-marcantonio-with-me-lamp-lampada-mani-intrecciate"
           }
@@ -521,7 +521,7 @@
           "settings": {
             "image": "shopify://shop_images/vluv-bol-sova-oliva-palla-da-seduta-ergonomica-65-cm_2e5d6ccc-d112-4b88-86a4-f100beb43d2b.webp",
             "title": "",
-            "text": "<p><strong>VLUV - </strong>Design Ergonomica</p>",
+            "text": "<p><strong>VLUV - </strong>Design Ergonomico</p>",
             "link_label": "",
             "link": "shopify://collections/vluv"
           }
@@ -796,7 +796,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "portrait",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
