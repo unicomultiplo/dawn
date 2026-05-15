@@ -1010,7 +1010,7 @@
             "title": "",
             "text": "<p><strong>OH YEAH SPOON</strong><br/>Design Artigianale <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/doiy"
+            "link": "shopify://products/oh-yeah-spoon-e-vissero-felici-e-contenti-set-torta"
           }
         },
         "column_Y3bdBM": {
@@ -1030,17 +1030,27 @@
             "title": "",
             "text": "<p><strong>KnIndustrie</strong><br/>Inconfondibilmente Elegante <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://products/knindustrie-shapeless-cestino-portapane"
+            "link": "shopify://collections/knindustrie-accessori-tavola"
           }
         },
         "column_jqKzxk": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/bitossi-home-dama-tessile-set-2-tovagliette-20.jpg",
+            "image": "shopify://shop_images/sottopiatti-hybrid-natale-2025-seletti.webp",
             "title": "",
-            "text": "<p><strong>Tovagliette Bitossi</strong><br/>Design a Tavola <strong>→</strong></p>",
+            "text": "<p><strong>Tovagliette Seletti</strong><br/>Design a Tavola <strong>→</strong></p>",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-tovaglie-e-tovagliette?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Bitossi+Home&filter.p.vendor=Seletti&sort_by=title-descending"
+            "link": "shopify://collections/tovaglie-tovagliette-e-sottopiatti-seletti"
+          }
+        },
+        "column_bMtbXt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-home-torchon-formaggi-posate_feb622f1-a39e-4178-afcc-1f2d056a348b.webp",
+            "title": "",
+            "text": "<p><strong>Bitossi Torchon</strong><br/>Attenzione ai Dettagli <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/torchon-bitossi-home"
           }
         }
       },
@@ -1049,7 +1059,8 @@
         "column_fqk7i3",
         "column_Y3bdBM",
         "column_miyPBj",
-        "column_jqKzxk"
+        "column_jqKzxk",
+        "column_bMtbXt"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -1059,7 +1070,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "portrait",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
