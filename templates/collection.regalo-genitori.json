@@ -556,7 +556,7 @@
         "columns_desktop": 6,
         "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "Scopri tutti i Nostri Brand ->",
+        "button_label": "",
         "button_link": "shopify://pages/i-nostri-brand",
         "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
         "columns_mobile": "2",
@@ -609,10 +609,10 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_Gkr4nf": {
+    "multicolumn_HCtt3r": {
       "type": "multicolumn",
       "blocks": {
-        "column_P8bmtx": {
+        "column_rWzAYW": {
           "type": "column",
           "settings": {
             "title": "",
@@ -621,22 +621,20 @@
             "link": ""
           }
         },
-        "column_QzqpAk": {
+        "column_mC3mfy": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3><strong>Regali economici ma sempre raffinati<br/></strong></h3><p>Piccoli pensieri che non rinunciano allo stile, ideali per un dono simbolico o per accompagnare una busta.</p>",
-            "link_label": "Idee Regalo Sotto i 50€",
-            "link": "shopify://collections/idee-regalo-economiche"
+            "text": "<h3><strong>Cose da regalare ai genitori che restano nel tempo</strong></h3><p>Gli oggetti destinati a durare diventano parte della casa e delle abitudini quotidiane. Per questo materiali di qualità, design senza tempo e funzionalità sono elementi centrali nella scelta di un regalo per mamma e papà.</p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "column_P8bmtx",
-        "column_QzqpAk"
+        "column_rWzAYW",
+        "column_mC3mfy"
       ],
-      "disabled": true,
-      "custom_css": [],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -655,86 +653,173 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_pUhwyU": {
+    "multicolumn_PrRDxf": {
       "type": "multicolumn",
       "blocks": {
-        "column_bxTfzN": {
+        "column_b4MVpG": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/la-tavola-scomposta-bitossi-home.jpg",
             "title": "",
-            "text": "<p><strong>Bitossi Home<br/></strong>Mix & Match →</p>",
+            "text": "",
             "link_label": "",
-            "link": "shopify://collections/bitossi-home-i-piattini-bitossi-home"
+            "link": ""
           }
         },
-        "column_fqk7i3": {
+        "column_Pk3kCL": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/oh-yeah-spoon-e-vissero-felici-e-contenti-set-torta-8.webp",
             "title": "",
-            "text": "<p><strong>OH YEAH SPOON</strong><br/>Design Artigianale <strong>→</strong></p>",
+            "text": "<h3><strong>Regalo di coppia per genitori: idee utili ma speciali</strong><br/></h3><p>I regali condivisi funzionano perché entrano davvero nella vita quotidiana della coppia. L’ideale è scegliere oggetti utili, ma con una componente estetica o progettuale che li renda speciali.</p>",
             "link_label": "",
-            "link": "shopify://collections/doiy"
-          }
-        },
-        "column_Y3bdBM": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-toiletpaper-tappeto-bagno-sea-girl.jpg",
-            "title": "",
-            "text": "<p><strong>Seletti</strong><br/>Ironia  Creativa <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://products/seletti-toiletpaper-tappeto-bagno-sea-girl"
-          }
-        },
-        "column_miyPBj": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Shapeless-KnIndustrie-Cestino-Portapane_1.jpg",
-            "title": "",
-            "text": "<p><strong>KnIndustrie</strong><br/>Inconfondibilmente Elegante <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://products/knindustrie-shapeless-cestino-portapane"
-          }
-        },
-        "column_jqKzxk": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/sottopiatti-hybrid-natale-2025-seletti.webp",
-            "title": "",
-            "text": "<p><strong>Tovagliette Seletti</strong><br/>Design d'Amore <strong>→</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-tovaglie-e-tovagliette?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Bitossi+Home&filter.p.vendor=Seletti&sort_by=title-descending"
+            "link": ""
           }
         }
       },
       "block_order": [
-        "column_bxTfzN",
-        "column_fqk7i3",
-        "column_Y3bdBM",
-        "column_miyPBj",
-        "column_jqKzxk"
+        "column_b4MVpG",
+        "column_Pk3kCL"
       ],
-      "disabled": true,
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_yHenLC": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_6BTdef": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/alzata-knindustrie.webp",
+            "title": "",
+            "text": "<p><strong>KnIndustrie</strong> - essenzialità e innovazione</p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie"
+          }
+        },
+        "column_8NpgLj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/toiletpaper-seletti-idee-regalo-iconiche.webp",
+            "title": "",
+            "text": "<p><strong>Seletti </strong>- Creatività Pop e Ironia per la casa</p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti"
+          }
+        },
+        "column_Uz8gxU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-abracabra-natale-2025.webp",
+            "title": "",
+            "text": "<p><strong>Bitossi Home </strong>- Colore e Allegria per la Tavola</p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home"
+          }
+        },
+        "column_LKLzeh": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/vluv-kapsul-vlip-sgabello-ergonomico-balance-velluto-a-coste-14.webp",
+            "title": "",
+            "text": "<p><strong>Vluv - </strong>Design ergonomico</p>",
+            "link_label": "",
+            "link": "shopify://collections/vluv"
+          }
+        },
+        "column_8JAq9G": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/vanilla-fly-cuscino-velluto-retro-velluto-brown-fan-1.jpg",
+            "title": "",
+            "text": "<p><strong>Vanilla Fly - </strong>Stile eclettico e fascino vintage</p>",
+            "link_label": "",
+            "link": "shopify://collections/vanilla-fly"
+          }
+        }
+      },
+      "block_order": [
+        "column_6BTdef",
+        "column_8NpgLj",
+        "column_Uz8gxU",
+        "column_LKLzeh",
+        "column_8JAq9G"
+      ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
       "settings": {
         "title": "",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_width": "full",
-        "image_ratio": "portrait",
+        "image_ratio": "square",
         "columns_desktop": 5,
-        "column_alignment": "center",
+        "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "",
-        "button_link": "shopify://collections/idee-regalo-economiche",
+        "button_label": "Scopri tutti i Nostri Brand ->",
+        "button_link": "shopify://pages/i-nostri-brand",
         "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
-        "padding_bottom": 20
+        "padding_bottom": 16
+      }
+    },
+    "multicolumn_hmFfjw": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Qe4zDB": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_A6jWqe": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>Idee regalo eleganti per occasioni importanti</strong><br/></h3><p>I regali condivisi funzionano perché entrano davvero nella vita quotidiana della coppia. L’ideale è scegliere oggetti utili, ma con una componente estetica o progettuale che li renda speciali.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Qe4zDB",
+        "column_A6jWqe"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multicolumn_8Bf6AX": {
@@ -806,7 +891,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "portrait",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
@@ -905,6 +990,87 @@
         "padding_bottom": 40
       }
     },
+    "multicolumn_pUhwyU": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_bxTfzN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/la-tavola-scomposta-bitossi-home.jpg",
+            "title": "",
+            "text": "<p><strong>Bitossi Home<br/></strong>Mix & Match →</p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-i-piattini-bitossi-home"
+          }
+        },
+        "column_fqk7i3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/oh-yeah-spoon-e-vissero-felici-e-contenti-set-torta-8.webp",
+            "title": "",
+            "text": "<p><strong>OH YEAH SPOON</strong><br/>Design Artigianale <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/doiy"
+          }
+        },
+        "column_Y3bdBM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-toiletpaper-tappeto-bagno-sea-girl.jpg",
+            "title": "",
+            "text": "<p><strong>Seletti</strong><br/>Ironia  Creativa <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-toiletpaper-tappeto-bagno-sea-girl"
+          }
+        },
+        "column_miyPBj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Shapeless-KnIndustrie-Cestino-Portapane_1.jpg",
+            "title": "",
+            "text": "<p><strong>KnIndustrie</strong><br/>Inconfondibilmente Elegante <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/knindustrie-shapeless-cestino-portapane"
+          }
+        },
+        "column_jqKzxk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/sottopiatti-hybrid-natale-2025-seletti.webp",
+            "title": "",
+            "text": "<p><strong>Tovagliette Seletti</strong><br/>Design d'Amore <strong>→</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-tovaglie-e-tovagliette?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Bitossi+Home&filter.p.vendor=Seletti&sort_by=title-descending"
+          }
+        }
+      },
+      "block_order": [
+        "column_bxTfzN",
+        "column_fqk7i3",
+        "column_Y3bdBM",
+        "column_miyPBj",
+        "column_jqKzxk"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "shopify://collections/idee-regalo-economiche",
+        "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
     "image_banner_fNqNdc": {
       "type": "image-banner",
       "blocks": {
@@ -967,11 +1133,14 @@
     "multicolumn_FK3mQN",
     "multicolumn_NBhDQA",
     "multicolumn_xMxCQk",
-    "multicolumn_Gkr4nf",
-    "multicolumn_pUhwyU",
+    "multicolumn_HCtt3r",
+    "multicolumn_PrRDxf",
+    "multicolumn_yHenLC",
+    "multicolumn_hmFfjw",
     "multicolumn_8Bf6AX",
     "multicolumn_ifUFPk",
     "rich_text_AAdtP9",
+    "multicolumn_pUhwyU",
     "image_banner_fNqNdc"
   ]
 }
