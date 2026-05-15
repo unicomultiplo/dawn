@@ -194,14 +194,24 @@
     "multicolumn_NkmqAE": {
       "type": "multicolumn",
       "blocks": {
-        "column_4aqcfn": {
+        "column_Q4dkcn": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/miho-mystic-violet-tappeto-taftati-7.webp",
+            "image": "shopify://shop_images/vanilla-fly-LA288_LA287_LA286_SOFA.webp",
             "title": "",
-            "text": "<p><strong>Tappeti<br/></strong>Il Regalo che veste la casa<strong>→</strong></p>",
+            "text": "<p><strong>Vanilla Fly Cuscini <br/></strong>Regali Morbidi<strong>→</strong></p>",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/complementi-arredo-tessili-casa?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Tappeti&sort_by=created-descending"
+            "link": "shopify://collections/vanilla-fly"
+          }
+        },
+        "column_7qTfqm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-3.webp",
+            "title": "",
+            "text": "<p><strong>Candele e Candelabri<br/></strong>Dettagli wow! →</p>",
+            "link_label": "",
+            "link": "shopify://collections/illuminazione-candelabri-e-candele"
           }
         },
         "column_3P9tX6": {
@@ -224,26 +234,6 @@
             "link": "shopify://products/printwork-happily-ever-after-album-fotp"
           }
         },
-        "column_7qTfqm": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/bitossi-home-l-orto-limone2.jpg",
-            "title": "",
-            "text": "<p><strong>Bitossi L'Orto<br/></strong>Tavola Botanica<strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/lorto-bitossi-home"
-          }
-        },
-        "column_Q4dkcn": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/vanilla-fly-LA288_LA287_LA286_SOFA.webp",
-            "title": "",
-            "text": "<p><strong>Vanilla Fly Cuscini <br/></strong>Regali Morbidi<strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/vanilla-fly"
-          }
-        },
         "column_h6qL4f": {
           "type": "column",
           "settings": {
@@ -253,15 +243,25 @@
             "link_label": "",
             "link": "shopify://products/knindustrie-bicchiere-sparky-lara-caffi"
           }
+        },
+        "column_4aqcfn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/miho-mystic-violet-tappeto-taftati-7.webp",
+            "title": "",
+            "text": "<p><strong>Tappeti<br/></strong>Il Regalo che veste la casa<strong>→</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/complementi-arredo-tessili-casa?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Tappeti&sort_by=created-descending"
+          }
         }
       },
       "block_order": [
-        "column_4aqcfn",
+        "column_Q4dkcn",
+        "column_7qTfqm",
         "column_3P9tX6",
         "column_Lw7xMN",
-        "column_7qTfqm",
-        "column_Q4dkcn",
-        "column_h6qL4f"
+        "column_h6qL4f",
+        "column_4aqcfn"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -385,7 +385,7 @@
           "settings": {
             "image": "shopify://shop_images/knindustrie-oliera-acetiera-4.jpg",
             "title": "",
-            "text": "<p><strong>TAGLIERI E CENTROTAVOLA - </strong>Essenzialità Artigianale</p><p></p>",
+            "text": "<p><strong>KnIndustrie -</strong> Accessori tavola </p>",
             "link_label": "",
             "link": "shopify://collections/knindustrie-accessori-tavola"
           }
