@@ -26,7 +26,7 @@
         "column_FCX3wX": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/bitossi-home-dipinto-smerlo.webp",
+            "image": "shopify://shop_images/piatti-servizi-cucina-e-tavola.jpg",
             "title": "",
             "text": "<p><strong>Piatti da Tavola</strong></p>",
             "link_label": "",
@@ -36,7 +36,7 @@
         "column_WbVyTD": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/posate-bitossi-home.jpg",
+            "image": "shopify://shop_images/bitossi-home-torchon-formaggi-posate_feb622f1-a39e-4178-afcc-1f2d056a348b.webp",
             "title": "",
             "text": "<p><strong>Posate</strong></p>",
             "link_label": "",
@@ -56,7 +56,7 @@
         "column_DwkYyQ": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi_Home_Smerlo_Se-_4-tovagliette-bordo-smerlato.jpg",
+            "image": "shopify://shop_images/Bitossi_Home_Smerlo_Se-_4-tovagliette-bordo-smerlato_1.jpg",
             "title": "",
             "text": "<p><strong>Sottopiatti e Tovagliette</strong></p>",
             "link_label": "",
@@ -116,7 +116,7 @@
         "column_WXtPTq": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-Vassoio-Meltdown.webp",
+            "image": "shopify://shop_images/VASSOI_MOOD.webp",
             "title": "",
             "text": "<p><strong>Vassoi</strong></p>",
             "link_label": "",
