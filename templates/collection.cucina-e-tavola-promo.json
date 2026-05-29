@@ -68,11 +68,10 @@
         "featured_collection_QcfWiy",
         "featured_collection_KmdGkC"
       ],
-      "disabled": true,
       "name": "t:sections.collection-list.presets.name",
       "settings": {
-        "title": "",
-        "heading_size": "h1",
+        "title": "Scegli da dove iniziare",
+        "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 6,
         "color_scheme": "",
