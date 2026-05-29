@@ -63,6 +63,26 @@
             "link": "shopify://collections/cucina-e-tavola-tovaglie-e-tovagliette"
           }
         },
+        "column_XqnTCQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/girevole-nero-knindustrie-centrotavola.webp",
+            "title": "",
+            "text": "<p><strong>Centrotavola e Alzate</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
+          }
+        },
+        "column_kzPkbn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-foodwear-padella-vassoio-1.webp",
+            "title": "",
+            "text": "<p><strong>Pentole e Padelle</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-pentole-padelle-tegami"
+          }
+        },
         "column_77eT6x": {
           "type": "column",
           "settings": {
@@ -81,26 +101,6 @@
             "text": "<p><strong>Coltelli</strong></p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-coltelli"
-          }
-        },
-        "column_kzPkbn": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-foodwear-padella-vassoio-1.webp",
-            "title": "",
-            "text": "<p><strong>Pentole e Padelle</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-pentole-padelle-tegami"
-          }
-        },
-        "column_XqnTCQ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/girevole-nero-knindustrie-centrotavola.webp",
-            "title": "",
-            "text": "<p><strong>Centrotavola e Alzate</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
           }
         },
         "column_9MegKt": {
@@ -129,10 +129,10 @@
         "column_WbVyTD",
         "column_nFhCYE",
         "column_DwkYyQ",
+        "column_XqnTCQ",
+        "column_kzPkbn",
         "column_77eT6x",
         "column_F8gx46",
-        "column_kzPkbn",
-        "column_XqnTCQ",
         "column_9MegKt",
         "column_WXtPTq"
       ],
