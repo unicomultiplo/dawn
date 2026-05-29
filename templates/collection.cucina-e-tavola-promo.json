@@ -116,7 +116,7 @@
         "column_WXtPTq": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/VASSOI_MOOD.webp",
+            "image": "shopify://shop_images/knindustrie-storm-vassoio-stone-washed-10.jpg",
             "title": "",
             "text": "<p><strong>Vassoi</strong></p>",
             "link_label": "",
@@ -140,7 +140,7 @@
         "a {color: black; text-decoration: none;}"
       ],
       "settings": {
-        "title": "<strong>Scegli da dove inziare</strong>",
+        "title": "<strong>Scegli da dove inziare.</strong>",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
