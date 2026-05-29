@@ -43,6 +43,16 @@
             "link": "shopify://collections/cucina-e-tavola-posate"
           }
         },
+        "column_XqnTCQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/girevole-nero-knindustrie-centrotavola.webp",
+            "title": "",
+            "text": "<p><strong>Centrotavola e Alzate</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
+          }
+        },
         "column_nFhCYE": {
           "type": "column",
           "settings": {
@@ -63,16 +73,6 @@
             "link": "shopify://collections/cucina-e-tavola-tovaglie-e-tovagliette"
           }
         },
-        "column_XqnTCQ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/girevole-nero-knindustrie-centrotavola.webp",
-            "title": "",
-            "text": "<p><strong>Centrotavola e Alzate</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
-          }
-        },
         "column_kzPkbn": {
           "type": "column",
           "settings": {
@@ -81,26 +81,6 @@
             "text": "<p><strong>Pentole e Padelle</strong></p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-pentole-padelle-tegami"
-          }
-        },
-        "column_77eT6x": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-book-tagliere-in-legno-5.jpg",
-            "title": "",
-            "text": "<p><strong>Taglieri</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-taglieri"
-          }
-        },
-        "column_F8gx46": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Jpseph-joseph-ceppo-coltelli-con-forbici.webp",
-            "title": "",
-            "text": "<p><strong>Coltelli</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-coltelli"
           }
         },
         "column_9MegKt": {
@@ -122,19 +102,39 @@
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata"
           }
+        },
+        "column_F8gx46": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Jpseph-joseph-ceppo-coltelli-con-forbici.webp",
+            "title": "",
+            "text": "<p><strong>Coltelli</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-coltelli"
+          }
+        },
+        "column_77eT6x": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-book-tagliere-in-legno-5.jpg",
+            "title": "",
+            "text": "<p><strong>Taglieri</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-taglieri"
+          }
         }
       },
       "block_order": [
         "column_FCX3wX",
         "column_WbVyTD",
+        "column_XqnTCQ",
         "column_nFhCYE",
         "column_DwkYyQ",
-        "column_XqnTCQ",
         "column_kzPkbn",
-        "column_77eT6x",
-        "column_F8gx46",
         "column_9MegKt",
-        "column_WXtPTq"
+        "column_WXtPTq",
+        "column_F8gx46",
+        "column_77eT6x"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
