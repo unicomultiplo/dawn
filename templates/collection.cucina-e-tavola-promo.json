@@ -36,7 +36,7 @@
         "column_WbVyTD": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/bitossi-home-torchon-formaggi-posate_feb622f1-a39e-4178-afcc-1f2d056a348b.webp",
+            "image": "shopify://shop_images/dem-servizio-posate-16-pezzi-con-appendino.jpg",
             "title": "",
             "text": "<p><strong>Posate</strong></p>",
             "link_label": "",
@@ -46,7 +46,7 @@
         "column_nFhCYE": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-lime-lane-tumbler.webp",
+            "image": "shopify://shop_images/seletti-kintsugi-tumbler-bicchiere-basso.webp",
             "title": "",
             "text": "<p><strong>Bicchieri e Calici</strong></p>",
             "link_label": "",
@@ -56,7 +56,7 @@
         "column_DwkYyQ": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi_Home_Smerlo_Se-_4-tovagliette-bordo-smerlato_1.jpg",
+            "image": "shopify://shop_images/seletti-hybrid-tovaglietta-bersabea-2_1.jpg",
             "title": "",
             "text": "<p><strong>Sottopiatti e Tovagliette</strong></p>",
             "link_label": "",
@@ -66,7 +66,7 @@
         "column_77eT6x": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-slab-tagliere-in-larice-e-acciaio-3.jpg",
+            "image": "shopify://shop_images/knindustrie-book-tagliere-in-legno-5.jpg",
             "title": "",
             "text": "<p><strong>Taglieri</strong></p>",
             "link_label": "",
@@ -76,7 +76,7 @@
         "column_F8gx46": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-coltelli-beknife-buy-now.webp",
+            "image": "shopify://shop_images/Jpseph-joseph-ceppo-coltelli-con-forbici.webp",
             "title": "",
             "text": "<p><strong>Coltelli</strong></p>",
             "link_label": "",
@@ -86,7 +86,7 @@
         "column_kzPkbn": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/KnIndustrie-ABCT-coperchi-in-mogano-1.jpg",
+            "image": "shopify://shop_images/knindustrie-foodwear-padella-vassoio-1.webp",
             "title": "",
             "text": "<p><strong>Pentole e Padelle</strong></p>",
             "link_label": "",
@@ -96,9 +96,9 @@
         "column_XqnTCQ": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-rubin-alzata-in-vetro-con-piatto-in-legno-3.webp",
+            "image": "shopify://shop_images/girevole-nero-knindustrie-centrotavola.webp",
             "title": "",
-            "text": "<p><strong>Centrotavola</strong></p>",
+            "text": "<p><strong>Centrotavola e Alzate</strong></p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
           }
