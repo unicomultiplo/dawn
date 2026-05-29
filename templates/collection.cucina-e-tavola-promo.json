@@ -20,66 +20,140 @@
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
       }
     },
-    "collection_list_AMPd7W": {
-      "type": "collection-list",
+    "multicolumn_6xWCFn": {
+      "type": "multicolumn",
       "blocks": {
-        "featured_collection_CcPfHB": {
-          "type": "featured_collection",
+        "column_FCX3wX": {
+          "type": "column",
           "settings": {
-            "collection": "cucina-e-tavola-piatti"
+            "image": "shopify://shop_images/bitossi-home-dipinto-smerlo.webp",
+            "title": "",
+            "text": "<p><strong>Piatti da Tavola</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-piatti"
           }
         },
-        "featured_collection_zVhNXx": {
-          "type": "featured_collection",
+        "column_WbVyTD": {
+          "type": "column",
           "settings": {
-            "collection": "cucina-e-tavola-vassoi-e-piatti-portata"
+            "image": "shopify://shop_images/posate-bitossi-home.jpg",
+            "title": "",
+            "text": "<p><strong>Posate</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-posate"
           }
         },
-        "featured_collection_R7b63G": {
-          "type": "featured_collection",
+        "column_nFhCYE": {
+          "type": "column",
           "settings": {
-            "collection": "cucina-e-tavola-pentole-padelle-tegami"
+            "image": "shopify://shop_images/knindustrie-lime-lane-tumbler.webp",
+            "title": "",
+            "text": "<p><strong>Bicchieri e Calici</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
           }
         },
-        "featured_collection_hDw99E": {
-          "type": "featured_collection",
+        "column_DwkYyQ": {
+          "type": "column",
           "settings": {
-            "collection": "cucina-e-tavola-bicchieri-e-calici-tumbler"
+            "image": "shopify://shop_images/Bitossi_Home_Smerlo_Se-_4-tovagliette-bordo-smerlato.jpg",
+            "title": "",
+            "text": "<p><strong>Sottopiatti e Tovagliette</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-tovaglie-e-tovagliette"
           }
         },
-        "featured_collection_QcfWiy": {
-          "type": "featured_collection",
+        "column_77eT6x": {
+          "type": "column",
           "settings": {
-            "collection": "cucina-e-tavola-set-olio-aceto-sale-pepe"
+            "image": "shopify://shop_images/knindustrie-slab-tagliere-in-larice-e-acciaio-3.jpg",
+            "title": "",
+            "text": "<p><strong>Taglieri</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-taglieri"
           }
         },
-        "featured_collection_KmdGkC": {
-          "type": "featured_collection",
+        "column_F8gx46": {
+          "type": "column",
           "settings": {
-            "collection": "cucina-e-tavola-centrotavola-e-alzate"
+            "image": "shopify://shop_images/knindustrie-coltelli-beknife-buy-now.webp",
+            "title": "",
+            "text": "<p><strong>Coltelli</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-coltelli"
+          }
+        },
+        "column_kzPkbn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/KnIndustrie-ABCT-coperchi-in-mogano-1.jpg",
+            "title": "",
+            "text": "<p><strong>Pentole e Padelle</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-pentole-padelle-tegami"
+          }
+        },
+        "column_XqnTCQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-rubin-alzata-in-vetro-con-piatto-in-legno-3.webp",
+            "title": "",
+            "text": "<p><strong>Centrotavola</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
+          }
+        },
+        "column_9MegKt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-oliera-acetiera-3.jpg",
+            "title": "",
+            "text": "<p><strong>Set Condimenti</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
+          }
+        },
+        "column_WXtPTq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-Vassoio-Meltdown.webp",
+            "title": "",
+            "text": "<p><strong>Vassoi</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata"
           }
         }
       },
       "block_order": [
-        "featured_collection_CcPfHB",
-        "featured_collection_zVhNXx",
-        "featured_collection_R7b63G",
-        "featured_collection_hDw99E",
-        "featured_collection_QcfWiy",
-        "featured_collection_KmdGkC"
+        "column_FCX3wX",
+        "column_WbVyTD",
+        "column_nFhCYE",
+        "column_DwkYyQ",
+        "column_77eT6x",
+        "column_F8gx46",
+        "column_kzPkbn",
+        "column_XqnTCQ",
+        "column_9MegKt",
+        "column_WXtPTq"
       ],
-      "name": "t:sections.collection-list.presets.name",
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
       "settings": {
-        "title": "Scegli da dove iniziare",
+        "title": "<strong>Scegli da dove inziare</strong>",
         "heading_size": "h2",
+        "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 6,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "2",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "product-grid": {
@@ -105,7 +179,7 @@
   },
   "order": [
     "banner",
-    "collection_list_AMPd7W",
+    "multicolumn_6xWCFn",
     "product-grid"
   ]
 }
