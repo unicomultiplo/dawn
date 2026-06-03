@@ -192,7 +192,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>La cucina e la tavola sono due luoghi della casa in cui funzionalità e stile si incontrano ogni giorno. Scegliere gli articoli giusti significa rendere più semplici i gesti quotidiani, ma anche dare carattere ai momenti condivisi: una colazione lenta, un pranzo in famiglia, una cena con amici o un aperitivo improvvisato.</p>",
+            "text": "<p>La cucina e la tavola sono due luoghi della casa in cui funzionalità e stile si incontrano ogni giorno. Scegliere gli articoli giusti significa rendere più semplici i gesti quotidiani, ma anche dare carattere ai momenti condivisi: una colazione lenta, un pranzo in famiglia, una cena con amici o un aperitivo improvvisato.</p><p>Nella selezione Cucina & Tavola di Unico & Multiplo trovi accessori di cucina e articoli per la tavola pensati per accompagnare ogni occasione: piatti, bicchieri, calici, posate, vassoi, taglieri, tazze, pentole, padelle, teiere, centrotavola e piccoli oggetti funzionali. Ogni proposta è scelta per unire utilità, qualità e personalità, con uno stile riconoscibile e mai scontato.<br/><br/></p>",
             "link_label": "",
             "link": ""
           }
@@ -220,31 +220,63 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_NWhdaG": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_FYdzhb": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qXnNV9": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Materiali, colori e abbinamenti</strong>",
+            "text": "<p>Ceramica, porcellana, vetro, acciaio, legno e materiali tecnici raccontano stili diversi. La ceramica e la porcellana sono perfette per una tavola espressiva e curata; il vetro valorizza bicchieri, calici, bottiglie e caraffe; l’acciaio e i materiali performanti sono ideali per cucina e cottura; il legno aggiunge calore e naturalezza.</p><p>Per un risultato equilibrato puoi partire da una base neutra e aggiungere dettagli più audaci: un set di bicchieri colorati, un piatto da portata decorato, una tazza ironica o un centrotavola importante. Se ami uno stile più deciso, scegli invece una palette riconoscibile e ripetila tra piatti, tessili, vassoi e accessori.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_FYdzhb",
+        "column_qXnNV9"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collection_list_KeQdtP": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_P6Y8d7": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "knindustrie-catalogo-prodotti-taglieri-workstation"
-          }
-        },
-        "featured_collection_YwagRn": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "knindustrie-catalogo-prodotti-bicchieri"
-          }
-        },
         "featured_collection_acV3wj": {
           "type": "featured_collection",
           "settings": {
             "collection": "piatti-in-bone-china"
           }
         },
-        "featured_collection_mfJTLn": {
+        "featured_collection_QWJrGi": {
           "type": "featured_collection",
           "settings": {
-            "collection": "cucina-e-tavola-piatti-melamina"
+            "collection": "knindustrie-catalogo-prodotti-abct"
           }
         },
         "featured_collection_ycmmUL": {
@@ -253,24 +285,36 @@
             "collection": "seletti-seletti-magna-graecia"
           }
         },
-        "featured_collection_QWJrGi": {
+        "featured_collection_YwagRn": {
           "type": "featured_collection",
           "settings": {
-            "collection": "knindustrie-catalogo-prodotti-abct"
+            "collection": "knindustrie-catalogo-prodotti-bicchieri"
+          }
+        },
+        "featured_collection_mfJTLn": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cucina-e-tavola-piatti-melamina"
+          }
+        },
+        "featured_collection_P6Y8d7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-catalogo-prodotti-hybrid"
           }
         }
       },
       "block_order": [
-        "featured_collection_P6Y8d7",
-        "featured_collection_YwagRn",
         "featured_collection_acV3wj",
-        "featured_collection_mfJTLn",
+        "featured_collection_QWJrGi",
         "featured_collection_ycmmUL",
-        "featured_collection_QWJrGi"
+        "featured_collection_YwagRn",
+        "featured_collection_mfJTLn",
+        "featured_collection_P6Y8d7"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
-        "title": "Materiali, colori e abbinamenti",
+        "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 6,
@@ -278,7 +322,7 @@
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
@@ -297,8 +341,8 @@
         "column_wBRPWD": {
           "type": "column",
           "settings": {
-            "title": "",
-            "text": "<p> Gli articoli per cucina e tavola sono anche ottime idee regalo: utili, belli e facili da personalizzare in base a gusti, occasioni e budget. Una coppia di calici, un set di tazze, un vassoio decorativo, un piatto speciale, una caffettiera, una teiera o un accessorio cucina particolare sono regali che entrano davvero nella vita quotidiana di chi li riceve.</p>",
+            "title": "<strong>Idee regalo per chi ama cucina e tavola</strong>",
+            "text": "<p>Gli articoli per cucina e tavola sono anche ottime idee regalo: utili, belli e facili da personalizzare in base a gusti, occasioni e budget. Una coppia di calici, un set di tazze, un vassoio decorativo, un piatto speciale, una caffettiera, una teiera o un accessorio cucina particolare sono regali che entrano davvero nella vita quotidiana di chi li riceve.</p>",
             "link_label": "",
             "link": ""
           }
@@ -310,7 +354,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>Idee regalo per chi ama cucina e tavola</strong>",
+        "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -322,25 +366,25 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 24,
+        "padding_bottom": 0
       }
     },
     "image_banner_hf7WRX": {
       "type": "image-banner",
       "blocks": {
-        "heading_7nALCz": {
-          "type": "heading",
-          "settings": {
-            "heading": "Idee regalo per casa e cucina",
-            "heading_size": "h1"
-          }
-        },
         "text_8xqydc": {
           "type": "text",
           "settings": {
             "text": "Oggetti utili, originali e facili da regalare per chi ama vivere la casa con personalità",
-            "text_style": "body"
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "heading_7nALCz": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Idee regalo per casa e cucina</strong>",
+            "heading_size": "h2"
           }
         },
         "buttons_ALFMPq": {
@@ -356,8 +400,8 @@
         }
       },
       "block_order": [
-        "heading_7nALCz",
         "text_8xqydc",
+        "heading_7nALCz",
         "buttons_ALFMPq"
       ],
       "name": "t:sections.image-banner.presets.name",
@@ -459,6 +503,7 @@
     "multicolumn_6xWCFn",
     "product-grid",
     "multicolumn_KWHCjy",
+    "multicolumn_NWhdaG",
     "collection_list_KeQdtP",
     "multicolumn_FnyeXB",
     "image_banner_hf7WRX",
