@@ -485,7 +485,7 @@
         "layout": "row",
         "color_scheme": "",
         "container_color_scheme": "scheme-2",
-        "open_first_collapsible_row": true,
+        "open_first_collapsible_row": false,
         "image": "shopify://shop_images/bitossi-home-la-tavola-scomposta-domande-frequenti.jpg",
         "image_ratio": "adapt",
         "desktop_layout": "image_first",
