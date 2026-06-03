@@ -392,7 +392,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/kn_mood_colazione_2.webp",
+        "image": "shopify://shop_images/knindustrie-mood-colazione-cucina-e-tavolo.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
