@@ -451,8 +451,8 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "collection_list_dVBEiF": {
@@ -557,8 +557,8 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "collection_list_KeQdtP": {
@@ -830,7 +830,7 @@
           "settings": {
             "heading": "Che cosa trovi nella collezione Cucina & Tavola di Unico & Multiplo?",
             "icon": "check_mark",
-            "row_content": "<p>Nella collezione Cucina & Tavola trovi articoli per la tavola e accessori di cucina selezionati per unire funzionalità e design: piatti, bicchieri, calici, posate, vassoi, tazze, pentole, padelle, taglieri, caraffe, teiere e piccoli oggetti per la casa.</p>",
+            "row_content": "<p>Nella collezione Cucina & Tavola trovi <strong>articoli </strong>per la tavola e accessori di cucina <strong>selezionati </strong>per unire funzionalità e design: piatti, bicchieri, calici, posate, vassoi, tazze, pentole, padelle, taglieri, caraffe, teiere e <strong>piccoli oggetti per la casa.</strong></p>",
             "page": "",
             "liquid_content": ""
           }
@@ -840,7 +840,7 @@
           "settings": {
             "heading": "Come scegliere gli accessori per la tavola?",
             "icon": "check_mark",
-            "row_content": "<p>Scegli gli accessori per la tavola in base all’occasione, allo stile della casa e all’uso quotidiano. Per una tavola versatile punta su piatti, bicchieri e posate facili da abbinare; per un effetto più scenografico aggiungi vassoi, centrotavola, calici colorati e pezzi decorativi.</p>",
+            "row_content": "<p><strong>Scegli</strong> gli accessori per la tavola <strong>in base all’occasione</strong>, allo stile della casa e all’uso quotidiano. Per una tavola versatile punta su <strong>piatti, bicchieri e posate facili da abbinare;</strong> per un effetto più scenografico aggiungi vassoi, centrotavola, <strong>calici colorati e pezzi decorativi.</strong></p>",
             "page": "",
             "liquid_content": ""
           }
@@ -850,7 +850,7 @@
           "settings": {
             "heading": "Quali accessori cucina sono utili da avere?",
             "icon": "check_mark",
-            "row_content": "<p>Tra gli accessori cucina più utili ci sono taglieri, coltelli, pentole, padelle, barattoli, caraffe, ciotole, utensili e contenitori. Scegli prodotti pratici, resistenti e belli da vedere, così da usarli ogni giorno e integrarli nello stile della cucina.</p>",
+            "row_content": "<p>Tra gli accessori cucina più utili ci sono <strong>taglieri, coltelli, pentole, padelle, barattoli, caraffe, ciotole, utensili e contenitori.</strong> Scegli prodotti pratici, resistenti e belli da vedere, così da usarli ogni giorno e integrarli nello stile della cucina.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -860,7 +860,7 @@
           "settings": {
             "heading": "Gli articoli cucina e tavola sono adatti come idea regalo?",
             "icon": "check_mark",
-            "row_content": "<p>Sì, gli articoli per cucina e tavola sono idee regalo versatili perché uniscono utilità e stile. Tazze, calici, vassoi, piatti decorativi, teiere, caffettiere e accessori cucina sono perfetti per compleanni, Natale, matrimoni, nuove case e piccoli pensieri di design.</p>",
+            "row_content": "<p>Sì, gli articoli per cucina e tavola sono idee <strong>regalo versatili </strong>perché uniscono utilità e stile. Tazze, calici, vassoi, piatti decorativi, teiere, caffettiere e accessori cucina sono perfetti per compleanni, Natale, matrimoni, <strong>nuove case e piccoli pensieri di design.</strong></p>",
             "page": "",
             "liquid_content": ""
           }
