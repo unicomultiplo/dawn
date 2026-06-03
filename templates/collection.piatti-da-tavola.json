@@ -23,40 +23,40 @@
     "multicolumn_6xWCFn": {
       "type": "multicolumn",
       "blocks": {
-        "column_WXtPTq": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-storm-vassoio-stone-washed-10.jpg",
-            "title": "",
-            "text": "<p><strong>Vassoi</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata"
-          }
-        },
         "column_F8gx46": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Jpseph-joseph-ceppo-coltelli-con-forbici.webp",
+            "image": "shopify://shop_images/seletti-hybrid-piatti-tavola.webp",
             "title": "",
-            "text": "<p><strong>Coltelli</strong></p>",
+            "text": "<p><strong>Seletti</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-coltelli"
+            "link": "shopify://collections/piatti-seletti"
+          }
+        },
+        "column_WXtPTq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/tovaglie-tovagliette-bitossi-home_2_1.webp",
+            "title": "",
+            "text": "<p><strong>Bitossi Home</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-piatti"
           }
         },
         "column_77eT6x": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-book-tagliere-in-legno-5.jpg",
+            "image": "shopify://shop_images/Knindustrie-servizi-piatti.webp",
             "title": "",
-            "text": "<p><strong>Taglieri</strong></p>",
+            "text": "<p><strong>KnIndustrie</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-taglieri"
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-piatti"
           }
         }
       },
       "block_order": [
-        "column_WXtPTq",
         "column_F8gx46",
+        "column_WXtPTq",
         "column_77eT6x"
       ],
       "custom_css": [
@@ -68,7 +68,7 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
