@@ -461,37 +461,37 @@
         "featured_collection_iikrJc": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bitossi-home-smerlo-bitossi-home"
+            "collection": "cosmic-diner-seletti"
           }
         },
         "featured_collection_UjCcD3": {
           "type": "featured_collection",
           "settings": {
-            "collection": "lorto-bitossi-home"
+            "collection": "seletti-catalogo-prodotti-seletti-hybrid-bicchieri"
           }
         },
         "featured_collection_PiRnjd": {
           "type": "featured_collection",
           "settings": {
-            "collection": "knindustrie-accessori-tavola"
+            "collection": "torchon-bitossi-home"
           }
         },
         "featured_collection_8TB4eF": {
           "type": "featured_collection",
           "settings": {
-            "collection": "knindustrie-catalogo-prodotti-beyond-basic"
+            "collection": "dama-bitossi-home"
           }
         },
         "featured_collection_iWiLE9": {
           "type": "featured_collection",
           "settings": {
-            "collection": "seletti-catalogo-prodotti-kintsugi"
+            "collection": "centrotavola-gastronomico-knindustrie"
           }
         },
         "featured_collection_bQBjhg": {
           "type": "featured_collection",
           "settings": {
-            "collection": "seletti-diesel-living-seletti-classics-on-acid"
+            "collection": "knindustrie-catalogo-prodotti-experimental-cocktail"
           }
         }
       },
@@ -503,7 +503,6 @@
         "featured_collection_iWiLE9",
         "featured_collection_bQBjhg"
       ],
-      "disabled": true,
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
@@ -592,7 +591,7 @@
         "featured_collection_mfJTLn": {
           "type": "featured_collection",
           "settings": {
-            "collection": "seletti-catalogo-prodotti-kintsugi"
+            "collection": "ciao-mondo-bitossi-home"
           }
         },
         "featured_collection_P6Y8d7": {
