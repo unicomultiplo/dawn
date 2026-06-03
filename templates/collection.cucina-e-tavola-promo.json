@@ -220,140 +220,110 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_nzjBHh": {
-      "type": "multicolumn",
+    "collection_list_KeQdtP": {
+      "type": "collection-list",
       "blocks": {
-        "column_MMKMyn": {
-          "type": "column",
+        "featured_collection_P6Y8d7": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/bitossi-home-la-tavola-the-club-aperitivo.webp",
-            "title": "",
-            "text": "<p><strong>Piatti da Tavola</strong></p><p></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-piatti"
+            "collection": "knindustrie-catalogo-prodotti-taglieri-workstation"
           }
         },
-        "column_bkapkB": {
-          "type": "column",
+        "featured_collection_YwagRn": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/dem-servizio-posate-16-pezzi-con-appendino.jpg",
-            "title": "",
-            "text": "<p><strong>Posate</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-posate"
+            "collection": "knindustrie-catalogo-prodotti-bicchieri"
           }
         },
-        "column_ATqBNJ": {
-          "type": "column",
+        "featured_collection_acV3wj": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/girevole-nero-knindustrie-centrotavola.webp",
-            "title": "",
-            "text": "<p><strong>Centrotavola e Alzate</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
+            "collection": "piatti-in-bone-china"
           }
         },
-        "column_kBTCTj": {
-          "type": "column",
+        "featured_collection_mfJTLn": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/seletti-kintsugi-tumbler-bicchiere-basso.webp",
-            "title": "",
-            "text": "<p><strong>Bicchieri e Calici </strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
+            "collection": "cucina-e-tavola-piatti-melamina"
           }
         },
-        "column_WKEGdX": {
-          "type": "column",
+        "featured_collection_ycmmUL": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/seletti-hybrid-tovaglietta-bersabea-2_1.jpg",
-            "title": "",
-            "text": "<p><strong>Sottopiatti e Tovagliette</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-tovaglie-e-tovagliette"
+            "collection": "seletti-seletti-magna-graecia"
           }
         },
-        "column_CaATXP": {
-          "type": "column",
+        "featured_collection_QWJrGi": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-foodwear-padella-vassoio-1.webp",
-            "title": "",
-            "text": "<p><strong>Pentole e Padelle</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-pentole-padelle-tegami"
-          }
-        },
-        "column_EwD339": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-oliera-acetiera-3.jpg",
-            "title": "",
-            "text": "<p><strong>Set Condimenti</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-set-olio-aceto-sale-pepe"
-          }
-        },
-        "column_nfM9GW": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-storm-vassoio-stone-washed-10.jpg",
-            "title": "",
-            "text": "<p><strong>Vassoi</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata"
-          }
-        },
-        "column_riiLmt": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Jpseph-joseph-ceppo-coltelli-con-forbici.webp",
-            "title": "",
-            "text": "<p><strong>Coltelli</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-coltelli"
-          }
-        },
-        "column_7hPycP": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-book-tagliere-in-legno-5.jpg",
-            "title": "",
-            "text": "<p><strong>Taglieri</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-taglieri"
+            "collection": "knindustrie-catalogo-prodotti-abct"
           }
         }
       },
       "block_order": [
-        "column_MMKMyn",
-        "column_bkapkB",
-        "column_ATqBNJ",
-        "column_kBTCTj",
-        "column_WKEGdX",
-        "column_CaATXP",
-        "column_EwD339",
-        "column_nfM9GW",
-        "column_riiLmt",
-        "column_7hPycP"
+        "featured_collection_P6Y8d7",
+        "featured_collection_YwagRn",
+        "featured_collection_acV3wj",
+        "featured_collection_mfJTLn",
+        "featured_collection_ycmmUL",
+        "featured_collection_QWJrGi"
       ],
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
+      "name": "t:sections.collection-list.presets.name",
       "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
+        "title": "Materiali, colori e abbinamenti",
+        "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 5,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 16
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_FnyeXB": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_hxxKx7": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wBRPWD": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p> Gli articoli per cucina e tavola sono anche ottime idee regalo: utili, belli e facili da personalizzare in base a gusti, occasioni e budget. Una coppia di calici, un set di tazze, un vassoio decorativo, un piatto speciale, una caffettiera, una teiera o un accessorio cucina particolare sono regali che entrano davvero nella vita quotidiana di chi li riceve.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_hxxKx7",
+        "column_wBRPWD"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<strong>Idee regalo per chi ama cucina e tavola</strong>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "image_banner_hf7WRX": {
@@ -489,7 +459,8 @@
     "multicolumn_6xWCFn",
     "product-grid",
     "multicolumn_KWHCjy",
-    "multicolumn_nzjBHh",
+    "collection_list_KeQdtP",
+    "multicolumn_FnyeXB",
     "image_banner_hf7WRX",
     "collapsible_content_dP6Ppz"
   ]
