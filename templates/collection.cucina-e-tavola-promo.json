@@ -226,17 +226,27 @@
         "column_PEgQFN": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/bitossi-home-la-tavola-the-club-aperitivo.webp",
+            "image": "shopify://shop_images/piatti-servizi-cucina-e-tavola.jpg",
             "title": "",
             "text": "<p><strong>Piatti da Tavola</strong></p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-piatti"
           }
         },
+        "column_WXTDhX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-home-ciao-mondo-torchon.webp",
+            "title": "",
+            "text": "<p><strong>Piatti Dessert e da Frutta</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-piatti-frutta-e-dessert"
+          }
+        },
         "column_XhtNci": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/dem-servizio-posate-16-pezzi-con-appendino.jpg",
+            "image": "shopify://shop_images/knindustrie-800-posate-set-24-pezzi-3.webp",
             "title": "",
             "text": "<p><strong>Posate</strong></p>",
             "link_label": "",
@@ -246,7 +256,7 @@
         "column_tFAVda": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/girevole-nero-knindustrie-centrotavola.webp",
+            "image": "shopify://shop_images/seletti-kintsugi-alzata-in-porcellana-e-oro.webp",
             "title": "",
             "text": "<p><strong>Centrotavola e Alzate</strong></p>",
             "link_label": "",
@@ -256,17 +266,27 @@
         "column_kTNB4M": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-kintsugi-tumbler-bicchiere-basso.webp",
+            "image": "shopify://shop_images/Bitossi-home-Diseguale-bicchieri.webp",
             "title": "",
             "text": "<p><strong>Bicchieri e Calici</strong></p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
           }
         },
+        "column_yGHgtx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Knindistrie-Groove-set-6-tumbler-quadrato.webp",
+            "title": "",
+            "text": "<p><strong>Bicchieri Tumbler</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici-tumbler"
+          }
+        },
         "column_Tdd6yw": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-hybrid-tovaglietta-bersabea-2_1.jpg",
+            "image": "shopify://shop_images/sottopiatti-hybrid-natale-2025-seletti.webp",
             "title": "",
             "text": "<p><strong>Sottopiatti e Tovagliette</strong></p>",
             "link_label": "",
@@ -276,7 +296,7 @@
         "column_UQFmrN": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-foodwear-padella-vassoio-1.webp",
+            "image": "shopify://shop_images/knindustrie-backup-tegame-34-cm.jpg",
             "title": "",
             "text": "<p><strong>Pentole e Padelle</strong></p>",
             "link_label": "",
@@ -286,7 +306,7 @@
         "column_FTLEFm": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-oliera-acetiera-3.jpg",
+            "image": "shopify://shop_images/seletti-hybrid-piattino-per-il-pane-in-porcellana-zobeide_1.webp",
             "title": "",
             "text": "<p><strong>Set Condimenti</strong></p>",
             "link_label": "",
@@ -296,7 +316,7 @@
         "column_KpmyN9": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-storm-vassoio-stone-washed-10.jpg",
+            "image": "shopify://shop_images/knindustrie-materials-vassoio-girevole-bianco.webp",
             "title": "",
             "text": "<p><strong>Vassoi</strong></p>",
             "link_label": "",
@@ -306,7 +326,7 @@
         "column_ahRK7g": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Jpseph-joseph-ceppo-coltelli-con-forbici.webp",
+            "image": "shopify://shop_images/knindustrie-coltelli-beknife-buy-now.webp",
             "title": "",
             "text": "<p><strong>Coltelli</strong></p>",
             "link_label": "",
@@ -316,72 +336,57 @@
         "column_VRTh4n": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-book-tagliere-in-legno-5.jpg",
+            "image": "shopify://shop_images/knindustrie-bluefish-tagliere-forma-pesce3.jpg",
             "title": "",
             "text": "<p><strong>Taglieri</strong></p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-taglieri"
           }
         },
-        "column_WXTDhX": {
-          "type": "column",
-          "settings": {
-            "title": "Colonna",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_yGHgtx": {
-          "type": "column",
-          "settings": {
-            "title": "Colonna",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_Ax6MgG": {
           "type": "column",
           "settings": {
-            "title": "Colonna",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "image": "shopify://shop_images/seletti-newlithic-set-2-tazzine-da-caffe-in-porcellana-5.webp",
+            "title": "",
+            "text": "<p><strong>Tazze, Tazzine e Mug</strong></p>",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/cucina-e-tavola-tazze-tazzine-mug"
           }
         },
         "column_HbwUNg": {
           "type": "column",
           "settings": {
-            "title": "Colonna",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "image": "shopify://shop_images/doiy-sweetie-sugar-zuccheriera-3.webp",
+            "title": "",
+            "text": "<p><strong>Zuccheriere</strong></p>",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/cucina-e-tavola-zuccheriere"
           }
         },
         "column_gYBhUk": {
           "type": "column",
           "settings": {
-            "title": "Colonna",
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "image": "shopify://shop_images/seletti-seletti-wears-toiletpaper-ciotole-in-metallo-smaltato-1.jpg",
+            "title": "",
+            "text": "<p><strong>Coppette Macedonia e Gelato</strong></p>",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/cucina-e-tavola-coppette-macedonia-gelato"
           }
         }
       },
       "block_order": [
         "column_PEgQFN",
+        "column_WXTDhX",
         "column_XhtNci",
         "column_tFAVda",
         "column_kTNB4M",
+        "column_yGHgtx",
         "column_Tdd6yw",
         "column_UQFmrN",
         "column_FTLEFm",
         "column_KpmyN9",
         "column_ahRK7g",
         "column_VRTh4n",
-        "column_WXTDhX",
-        "column_yGHgtx",
         "column_Ax6MgG",
         "column_HbwUNg",
         "column_gYBhUk"
