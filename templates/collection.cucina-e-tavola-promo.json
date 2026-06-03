@@ -401,7 +401,7 @@
         "image_ratio": "square",
         "columns_desktop": 5,
         "column_alignment": "left",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-1",
