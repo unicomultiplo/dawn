@@ -506,31 +506,31 @@
         "featured_collection_QWJrGi": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bottiglie-e-caraffe-bitossi-home"
+            "collection": "lorto-bitossi-home"
           }
         },
         "featured_collection_ycmmUL": {
           "type": "featured_collection",
           "settings": {
-            "collection": "the-storm-collection-knindustrie"
+            "collection": "knindustrie-accessori-tavola"
           }
         },
         "featured_collection_YwagRn": {
           "type": "featured_collection",
           "settings": {
-            "collection": "knindustrie-catalogo-prodotti-bicchieri"
+            "collection": "knindustrie-catalogo-prodotti-beyond-basic"
           }
         },
         "featured_collection_mfJTLn": {
           "type": "featured_collection",
           "settings": {
-            "collection": "cucina-e-tavola-piatti-melamina"
+            "collection": "seletti-catalogo-prodotti-kintsugi"
           }
         },
         "featured_collection_P6Y8d7": {
           "type": "featured_collection",
           "settings": {
-            "collection": "seletti-catalogo-prodotti-hybrid"
+            "collection": "seletti-diesel-living-seletti-classics-on-acid"
           }
         }
       },
@@ -627,16 +627,16 @@
             "collection": "knindustrie-catalogo-prodotti-bicchieri"
           }
         },
-        "featured_collection_jnLghw": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "cucina-e-tavola-piatti-melamina"
-          }
-        },
         "featured_collection_C3XKrQ": {
           "type": "featured_collection",
           "settings": {
             "collection": "seletti-catalogo-prodotti-hybrid"
+          }
+        },
+        "featured_collection_jnLghw": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cucina-e-tavola-piatti-melamina"
           }
         }
       },
@@ -645,8 +645,8 @@
         "featured_collection_eXJCCg",
         "featured_collection_fycyBH",
         "featured_collection_KXH9Qd",
-        "featured_collection_jnLghw",
-        "featured_collection_C3XKrQ"
+        "featured_collection_C3XKrQ",
+        "featured_collection_jnLghw"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
