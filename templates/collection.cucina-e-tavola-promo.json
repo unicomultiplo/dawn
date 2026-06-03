@@ -336,7 +336,6 @@
         "column_riiLmt",
         "column_7hPycP"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -355,6 +354,16 @@
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 16
+      }
+    },
+    "custom_liquid_iiRPMk": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<section class=\"collection-seo-block\">\n  <div class=\"page-width\">\n    <h3>Come scegliere gli articoli per la tavola</h3>\n\n    <p>\n      Per costruire una tavola armoniosa parti dall’uso che ne farai. Se cerchi soluzioni per tutti i giorni,\n      punta su piatti, bicchieri e posate resistenti, facili da abbinare e capaci di adattarsi a diversi momenti.\n      Se invece vuoi creare una tavola scenografica, scegli pezzi più decorativi: piatti illustrati, calici colorati,\n      vassoi importanti, centrotavola e accessori capaci di diventare protagonisti.\n    </p>\n\n    <p>\n      Il segreto è bilanciare coerenza e sorpresa. Puoi coordinare forme e materiali, oppure creare una tavola\n      più personale mixando colori, pattern e finiture diverse. La tavola contemporanea non deve essere perfetta:\n      deve raccontare il tuo modo di vivere la casa.\n    </p>\n  </div>\n</section>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "image_banner_hf7WRX": {
@@ -395,7 +404,7 @@
       "settings": {
         "image": "shopify://shop_images/kn_mood_colazione_2.webp",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -405,6 +414,84 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "collapsible_content_dP6Ppz": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_DATUwP": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Che cosa trovi nella collezione Cucina & Tavola di Unico & Multiplo?",
+            "icon": "check_mark",
+            "row_content": "<p>Nella collezione Cucina & Tavola trovi articoli per la tavola e accessori di cucina selezionati per unire funzionalità e design: piatti, bicchieri, calici, posate, vassoi, tazze, pentole, padelle, taglieri, caraffe, teiere e piccoli oggetti per la casa.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_hJdMc6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Come scegliere gli accessori per la tavola?",
+            "icon": "check_mark",
+            "row_content": "<p>Scegli gli accessori per la tavola in base all’occasione, allo stile della casa e all’uso quotidiano. Per una tavola versatile punta su piatti, bicchieri e posate facili da abbinare; per un effetto più scenografico aggiungi vassoi, centrotavola, calici colorati e pezzi decorativi.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_GG6eXA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quali accessori cucina sono utili da avere?",
+            "icon": "check_mark",
+            "row_content": "<p>Tra gli accessori cucina più utili ci sono taglieri, coltelli, pentole, padelle, barattoli, caraffe, ciotole, utensili e contenitori. Scegli prodotti pratici, resistenti e belli da vedere, così da usarli ogni giorno e integrarli nello stile della cucina.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_fKiyG6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Gli articoli cucina e tavola sono adatti come idea regalo?",
+            "icon": "check_mark",
+            "row_content": "<p>Sì, gli articoli per cucina e tavola sono idee regalo versatili perché uniscono utilità e stile. Tazze, calici, vassoi, piatti decorativi, teiere, caffettiere e accessori cucina sono perfetti per compleanni, Natale, matrimoni, nuove case e piccoli pensieri di design.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_3zyPPt": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quali brand trovi nella selezione Cucina & Tavola?",
+            "icon": "check_mark",
+            "row_content": "<p>Nella selezione Cucina & Tavola puoi trovare brand come <strong>Bitossi Home, Brandani, KnIndustrie, Seletti, Brabantia</strong> e altri marchi scelti per qualità, estetica e funzionalità.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_DATUwP",
+        "collapsible_row_hJdMc6",
+        "collapsible_row_GG6eXA",
+        "collapsible_row_fKiyG6",
+        "collapsible_row_3zyPPt"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "Una guida rapida per scegliere articoli per la tavola, accessori cucina e idee regalo legate al mondo Cucina & Tavola di Unico & Multiplo.",
+        "heading": "FAQ - Domande frequenti su cucina e tavola",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "",
+        "container_color_scheme": "scheme-2",
+        "open_first_collapsible_row": true,
+        "image": "shopify://shop_images/bitossi-home-la-tavola-scomposta-domande-frequenti.jpg",
+        "image_ratio": "adapt",
+        "desktop_layout": "image_first",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -413,6 +500,8 @@
     "product-grid",
     "multicolumn_KWHCjy",
     "multicolumn_nzjBHh",
-    "image_banner_hf7WRX"
+    "custom_liquid_iiRPMk",
+    "image_banner_hf7WRX",
+    "collapsible_content_dP6Ppz"
   ]
 }
