@@ -455,6 +455,69 @@
         "padding_bottom": 36
       }
     },
+    "collection_list_dVBEiF": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_iikrJc": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-smerlo-bitossi-home"
+          }
+        },
+        "featured_collection_UjCcD3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "lorto-bitossi-home"
+          }
+        },
+        "featured_collection_PiRnjd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-accessori-tavola"
+          }
+        },
+        "featured_collection_8TB4eF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-catalogo-prodotti-beyond-basic"
+          }
+        },
+        "featured_collection_iWiLE9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-catalogo-prodotti-kintsugi"
+          }
+        },
+        "featured_collection_bQBjhg": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-diesel-living-seletti-classics-on-acid"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_iikrJc",
+        "featured_collection_UjCcD3",
+        "featured_collection_PiRnjd",
+        "featured_collection_8TB4eF",
+        "featured_collection_iWiLE9",
+        "featured_collection_bQBjhg"
+      ],
+      "disabled": true,
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn_eVRgXi": {
       "type": "multicolumn",
       "blocks": {
@@ -846,6 +909,7 @@
     "multicolumn_KWHCjy",
     "multicolumn_KqNQMn",
     "multicolumn_NWhdaG",
+    "collection_list_dVBEiF",
     "multicolumn_eVRgXi",
     "collection_list_KeQdtP",
     "multicolumn_WeCHGF",
