@@ -217,7 +217,193 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_KqNQMn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_PEgQFN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-home-la-tavola-the-club-aperitivo.webp",
+            "title": "",
+            "text": "<p><strong>Piatti da Tavola</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-piatti"
+          }
+        },
+        "column_XhtNci": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/dem-servizio-posate-16-pezzi-con-appendino.jpg",
+            "title": "",
+            "text": "<p><strong>Posate</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-posate"
+          }
+        },
+        "column_tFAVda": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/girevole-nero-knindustrie-centrotavola.webp",
+            "title": "",
+            "text": "<p><strong>Centrotavola e Alzate</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
+          }
+        },
+        "column_kTNB4M": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-kintsugi-tumbler-bicchiere-basso.webp",
+            "title": "",
+            "text": "<p><strong>Bicchieri e Calici</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
+          }
+        },
+        "column_Tdd6yw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-hybrid-tovaglietta-bersabea-2_1.jpg",
+            "title": "",
+            "text": "<p><strong>Sottopiatti e Tovagliette</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-tovaglie-e-tovagliette"
+          }
+        },
+        "column_UQFmrN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-foodwear-padella-vassoio-1.webp",
+            "title": "",
+            "text": "<p><strong>Pentole e Padelle</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-pentole-padelle-tegami"
+          }
+        },
+        "column_FTLEFm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-oliera-acetiera-3.jpg",
+            "title": "",
+            "text": "<p><strong>Set Condimenti</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-set-olio-aceto-sale-pepe"
+          }
+        },
+        "column_KpmyN9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-storm-vassoio-stone-washed-10.jpg",
+            "title": "",
+            "text": "<p><strong>Vassoi</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata"
+          }
+        },
+        "column_ahRK7g": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Jpseph-joseph-ceppo-coltelli-con-forbici.webp",
+            "title": "",
+            "text": "<p><strong>Coltelli</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-coltelli"
+          }
+        },
+        "column_VRTh4n": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-book-tagliere-in-legno-5.jpg",
+            "title": "",
+            "text": "<p><strong>Taglieri</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-taglieri"
+          }
+        },
+        "column_WXTDhX": {
+          "type": "column",
+          "settings": {
+            "title": "Colonna",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yGHgtx": {
+          "type": "column",
+          "settings": {
+            "title": "Colonna",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Ax6MgG": {
+          "type": "column",
+          "settings": {
+            "title": "Colonna",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_HbwUNg": {
+          "type": "column",
+          "settings": {
+            "title": "Colonna",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_gYBhUk": {
+          "type": "column",
+          "settings": {
+            "title": "Colonna",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_PEgQFN",
+        "column_XhtNci",
+        "column_tFAVda",
+        "column_kTNB4M",
+        "column_Tdd6yw",
+        "column_UQFmrN",
+        "column_FTLEFm",
+        "column_KpmyN9",
+        "column_ahRK7g",
+        "column_VRTh4n",
+        "column_WXTDhX",
+        "column_yGHgtx",
+        "column_Ax6MgG",
+        "column_HbwUNg",
+        "column_gYBhUk"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 16
       }
     },
     "multicolumn_NWhdaG": {
@@ -308,69 +494,25 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_WeCHGF": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_tyBEhE": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_dQJmWD": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Materiali, colori e abbinamenti</strong>",
-            "text": "<p>Ceramica, porcellana, vetro, acciaio, legno e materiali tecnici raccontano stili diversi. La ceramica e la porcellana sono perfette per una tavola espressiva e curata; il vetro valorizza bicchieri, calici, bottiglie e caraffe; l’acciaio e i materiali performanti sono ideali per cucina e cottura; il legno aggiunge calore e naturalezza.</p><p>Per un risultato equilibrato puoi partire da una base neutra e aggiungere dettagli più audaci: un set di bicchieri colorati, un piatto da portata decorato, una tazza ironica o un centrotavola importante. Se ami uno stile più deciso, scegli invece una palette riconoscibile e ripetila tra piatti, tessili, vassoi e accessori.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_tyBEhE",
-        "column_dQJmWD"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "collection_list_KeQdtP": {
       "type": "collection-list",
       "blocks": {
         "featured_collection_acV3wj": {
           "type": "featured_collection",
           "settings": {
-            "collection": "piatti-in-bone-china"
+            "collection": "bitossi-home-smerlo-bitossi-home"
           }
         },
         "featured_collection_QWJrGi": {
           "type": "featured_collection",
           "settings": {
-            "collection": "knindustrie-catalogo-prodotti-abct"
+            "collection": "bottiglie-e-caraffe-bitossi-home"
           }
         },
         "featured_collection_ycmmUL": {
           "type": "featured_collection",
           "settings": {
-            "collection": "seletti-seletti-magna-graecia"
+            "collection": "the-storm-collection-knindustrie"
           }
         },
         "featured_collection_YwagRn": {
@@ -411,7 +553,113 @@
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
-        "padding_bottom": 36
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_WeCHGF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_tyBEhE": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_dQJmWD": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Materiali, colori e abbinamenti</strong>",
+            "text": "<p>Ceramica, porcellana, vetro, acciaio, legno e materiali tecnici raccontano stili diversi. La ceramica e la porcellana sono perfette per una tavola espressiva e curata; il vetro valorizza bicchieri, calici, bottiglie e caraffe; l’acciaio e i materiali performanti sono ideali per cucina e cottura; il legno aggiunge calore e naturalezza.</p><p>Per un risultato equilibrato puoi partire da una base neutra e aggiungere dettagli più audaci: un set di bicchieri colorati, un piatto da portata decorato, una tazza ironica o un centrotavola importante. Se ami uno stile più deciso, scegli invece una palette riconoscibile e ripetila tra piatti, tessili, vassoi e accessori.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_tyBEhE",
+        "column_dQJmWD"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_RYQEeH": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_URmKtb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "piatti-in-bone-china"
+          }
+        },
+        "featured_collection_eXJCCg": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-catalogo-prodotti-abct"
+          }
+        },
+        "featured_collection_fycyBH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-storm-collection-knindustrie"
+          }
+        },
+        "featured_collection_KXH9Qd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-catalogo-prodotti-bicchieri"
+          }
+        },
+        "featured_collection_jnLghw": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cucina-e-tavola-piatti-melamina"
+          }
+        },
+        "featured_collection_C3XKrQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-catalogo-prodotti-hybrid"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_URmKtb",
+        "featured_collection_eXJCCg",
+        "featured_collection_fycyBH",
+        "featured_collection_KXH9Qd",
+        "featured_collection_jnLghw",
+        "featured_collection_C3XKrQ"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multicolumn_FnyeXB": {
@@ -454,7 +702,7 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 24,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -591,10 +839,12 @@
     "multicolumn_6xWCFn",
     "product-grid",
     "multicolumn_KWHCjy",
+    "multicolumn_KqNQMn",
     "multicolumn_NWhdaG",
     "multicolumn_eVRgXi",
-    "multicolumn_WeCHGF",
     "collection_list_KeQdtP",
+    "multicolumn_WeCHGF",
+    "collection_list_RYQEeH",
     "multicolumn_FnyeXB",
     "image_banner_hf7WRX",
     "collapsible_content_dP6Ppz"
