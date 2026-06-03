@@ -228,7 +228,7 @@
           "settings": {
             "image": "shopify://shop_images/bitossi-home-la-tavola-the-club-aperitivo.webp",
             "title": "",
-            "text": "<p><strong>Piatti da Tavola </strong>Per creare mise en place quotidiane o scenografiche con piatti piani, fondi, dessert e servizi dal design riconoscibile.</p>",
+            "text": "<p><strong>Piatti da Tavola</strong></p><p></p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-piatti"
           }
@@ -258,7 +258,7 @@
           "settings": {
             "image": "shopify://shop_images/seletti-kintsugi-tumbler-bicchiere-basso.webp",
             "title": "",
-            "text": "<p><strong>Bicchieri e Calici </strong>Bicchieri per acqua, vino, cocktail e liquori: dettagli che completano la tavola e rendono speciale ogni brindisi.</p>",
+            "text": "<p><strong>Bicchieri e Calici </strong></p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
           }
@@ -354,16 +354,6 @@
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 16
-      }
-    },
-    "custom_liquid_iiRPMk": {
-      "type": "custom-liquid",
-      "name": "t:sections.custom-liquid.presets.name",
-      "settings": {
-        "custom_liquid": "<section class=\"collection-seo-block\">\n  <div class=\"page-width\">\n    <h3>Come scegliere gli articoli per la tavola</h3>\n\n    <p>\n      Per costruire una tavola armoniosa parti dall’uso che ne farai. Se cerchi soluzioni per tutti i giorni,\n      punta su piatti, bicchieri e posate resistenti, facili da abbinare e capaci di adattarsi a diversi momenti.\n      Se invece vuoi creare una tavola scenografica, scegli pezzi più decorativi: piatti illustrati, calici colorati,\n      vassoi importanti, centrotavola e accessori capaci di diventare protagonisti.\n    </p>\n\n    <p>\n      Il segreto è bilanciare coerenza e sorpresa. Puoi coordinare forme e materiali, oppure creare una tavola\n      più personale mixando colori, pattern e finiture diverse. La tavola contemporanea non deve essere perfetta:\n      deve raccontare il tuo modo di vivere la casa.\n    </p>\n  </div>\n</section>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "image_banner_hf7WRX": {
@@ -500,7 +490,6 @@
     "product-grid",
     "multicolumn_KWHCjy",
     "multicolumn_nzjBHh",
-    "custom_liquid_iiRPMk",
     "image_banner_hf7WRX",
     "collapsible_content_dP6Ppz"
   ]
