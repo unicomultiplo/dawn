@@ -283,17 +283,18 @@
             "second_image": true
           }
         },
-        "collection_7cw8ie": {
-          "type": "collection",
+        "product_YyKAqm": {
+          "type": "product",
           "settings": {
-            "collection": "cucina-e-tavola-centrotavola-e-alzate"
+            "product": "bitossi-home-tutti-i-frutti-alzata",
+            "second_image": false
           }
         }
       },
       "block_order": [
         "image_jyQnUP",
         "product_eAykWe",
-        "collection_7cw8ie"
+        "product_YyKAqm"
       ],
       "custom_css": [
         ".media--transparent img {mix-blend-mode: multiply; max-height: 1500px; overflow: hidden;}",
