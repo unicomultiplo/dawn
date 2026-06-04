@@ -279,25 +279,24 @@
         "product_eAykWe": {
           "type": "product",
           "settings": {
-            "product": "joseph-joseph-eclipse-stendibiancheria-3-ripiani-con-schermo-ecru",
+            "product": "vanilla-fly-cestino-decorativo-rotondo-in-rattan-naturale-con-bordo-ondulato",
             "second_image": true
           }
         },
-        "product_BVWfAx": {
-          "type": "product",
+        "collection_7cw8ie": {
+          "type": "collection",
           "settings": {
-            "product": "joseph-joseph-tota-90l-portabiancheria-laundry-basket-ecru",
-            "second_image": true
+            "collection": "cucina-e-tavola-centrotavola-e-alzate"
           }
         }
       },
       "block_order": [
         "image_jyQnUP",
         "product_eAykWe",
-        "product_BVWfAx"
+        "collection_7cw8ie"
       ],
       "custom_css": [
-        ".media--transparent img {mix-blend-mode: multiply; max-height: 1500px; overflow: hidden;}",
+        ".media--transparent img {mix-blend-mode: multiply; max-height: 1000px; overflow: hidden;}",
         ".media,.card {background-color: var(--product-background-color);}"
       ],
       "settings": {
