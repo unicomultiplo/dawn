@@ -296,7 +296,7 @@
         "collection_7cw8ie"
       ],
       "custom_css": [
-        ".media--transparent img {mix-blend-mode: multiply; max-height: 1000px; overflow: hidden;}",
+        ".media--transparent img {mix-blend-mode: multiply; max-height: 1500px; overflow: hidden;}",
         ".media,.card {background-color: var(--product-background-color);}"
       ],
       "settings": {
