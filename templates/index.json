@@ -297,8 +297,8 @@
         "product_BVWfAx"
       ],
       "custom_css": [
-        ".media--transparent img {mix-blend-mode: multiply;}",
-        ".media,.card {background-color: var(--product-background-color); max-height: 2000px; overflow: hidden;}"
+        ".media--transparent img {mix-blend-mode: multiply; max-height: 1500px; overflow: hidden;}",
+        ".media,.card {background-color: var(--product-background-color);}"
       ],
       "settings": {
         "heading": "",
