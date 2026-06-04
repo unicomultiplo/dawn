@@ -137,7 +137,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>La cucina e la tavola sono due luoghi della casa in cui funzionalità e stile si incontrano ogni giorno. <strong>Scegliere gli articoli giusti significa rendere più semplici i gesti quotidiani</strong>, ma anche dare carattere ai momenti condivisi: una colazione lenta, un pranzo in famiglia, una cena con amici o un aperitivo improvvisato.</p><p>Nella selezione <strong>Cucina & Tavola </strong>di Unico & Multiplo trovi accessori di cucina e articoli per la tavola pensati per accompagnare ogni occasione: piatti, bicchieri, calici, posate, vassoi, taglieri, tazze, pentole, padelle, teiere, centrotavola e piccoli oggetti funzionali. <strong>Ogni proposta è scelta per unire utilità, qualità e personalità,</strong> con uno stile riconoscibile e mai scontato.<br/><br/></p>",
+            "text": "<p>I <strong>piatti </strong>da tavola sono uno degli elementi piu <strong>importanti </strong>della mise en place: definiscono lo stile della tavola, accompagnano ogni portata e contribuiscono a rendere piu <strong>curato anche il pasto piu semplice.</strong></p><p>Nella selezione Piatti da Tavola di Unico & Multiplo trovi piatti piani, piatti fondi, piatti dessert, set e servizi pensati per unire funzionalita e design. <strong>Ogni proposta e scelta per dare carattere alla tavola,</strong> con forme, colori e decorazioni adatte sia all uso quotidiano sia alle occasioni speciali.</p>",
             "link_label": "",
             "link": ""
           }
@@ -149,7 +149,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Cucina & Tavola: come scegliere e abbinare",
+        "title": "<strong>Piatti da Tavola: come scegliere e abbinare</strong>",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -168,173 +168,74 @@
     "multicolumn_KqNQMn": {
       "type": "multicolumn",
       "blocks": {
-        "column_PEgQFN": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/piatti-servizi-cucina-e-tavola.jpg",
-            "title": "",
-            "text": "<p><strong>Piatti da Tavola</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-piatti"
-          }
-        },
         "column_WXTDhX": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/bitossi-home-ciao-mondo-torchon.webp",
+            "image": "shopify://shop_images/Il_Frutto_della_Passione_Bitossi_Home-piatti.webp",
+            "title": "",
+            "text": "<p><strong>Piatti Piani</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Piani&sort_by=manual#product-grid"
+          }
+        },
+        "column_PUYF8Y": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-kintsugi-servizio-18-pz-9.webp",
+            "title": "",
+            "text": "<p><strong>Piatti Fondi</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Fondi&sort_by=manual#product-grid"
+          }
+        },
+        "column_FQDx4z": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-home-la-tavola-ciao-mondo-piattini.webp",
             "title": "",
             "text": "<p><strong>Piatti Dessert e da Frutta</strong></p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-piatti-frutta-e-dessert"
           }
         },
-        "column_XhtNci": {
+        "column_h4KgFm": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-800-posate-set-24-pezzi-3.webp",
+            "image": "shopify://shop_images/bitossi-home-la-tavola-abracadabra.webp",
             "title": "",
-            "text": "<p><strong>Posate</strong></p>",
+            "text": "<p><strong>Servizi Di Piatti</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-posate"
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Servizi+di+Piatti&sort_by=manual#product-grid"
           }
         },
-        "column_tFAVda": {
+        "column_DGTkwt": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-kintsugi-alzata-in-porcellana-e-oro.webp",
+            "image": "shopify://shop_images/the-club-piatto-pizza.jpg",
             "title": "",
-            "text": "<p><strong>Centrotavola e Alzate</strong></p>",
+            "text": "<p><strong>Piatti Pizza</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
-          }
-        },
-        "column_kTNB4M": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Bitossi-home-Diseguale-bicchieri.webp",
-            "title": "",
-            "text": "<p><strong>Bicchieri e Calici</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
-          }
-        },
-        "column_yGHgtx": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Knindistrie-Groove-set-6-tumbler-quadrato.webp",
-            "title": "",
-            "text": "<p><strong>Bicchieri Tumbler</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici-tumbler"
-          }
-        },
-        "column_Tdd6yw": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/sottopiatti-hybrid-natale-2025-seletti.webp",
-            "title": "",
-            "text": "<p><strong>Sottopiatti e Tovagliette</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-tovaglie-e-tovagliette"
-          }
-        },
-        "column_UQFmrN": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-backup-tegame-34-cm.jpg",
-            "title": "",
-            "text": "<p><strong>Pentole e Padelle</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-pentole-padelle-tegami"
-          }
-        },
-        "column_FTLEFm": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-hybrid-piattino-per-il-pane-in-porcellana-zobeide_1.webp",
-            "title": "",
-            "text": "<p><strong>Set Condimenti</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-set-olio-aceto-sale-pepe"
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Pizza&sort_by=manual#product-grid"
           }
         },
         "column_KpmyN9": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-materials-vassoio-girevole-bianco.webp",
+            "image": "shopify://shop_images/knindustrie-storm-vassoio-stone-washed-4.webp",
             "title": "",
             "text": "<p><strong>Vassoi</strong></p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata"
           }
-        },
-        "column_ahRK7g": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-coltelli-beknife-buy-now.webp",
-            "title": "",
-            "text": "<p><strong>Coltelli</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-coltelli"
-          }
-        },
-        "column_VRTh4n": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-bluefish-tagliere-forma-pesce3.jpg",
-            "title": "",
-            "text": "<p><strong>Taglieri</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-taglieri"
-          }
-        },
-        "column_Ax6MgG": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-newlithic-set-2-tazzine-da-caffe-in-porcellana-5.webp",
-            "title": "",
-            "text": "<p><strong>Tazze, Tazzine e Mug</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-tazze-tazzine-mug"
-          }
-        },
-        "column_HbwUNg": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/doiy-sweetie-sugar-zuccheriera-3.webp",
-            "title": "",
-            "text": "<p><strong>Zuccheriere</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-zuccheriere"
-          }
-        },
-        "column_gYBhUk": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/coppette-macedonia-frutta-cucina.webp",
-            "title": "",
-            "text": "<p><strong>Coppette Macedonia e Gelato</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-coppette-macedonia-gelato"
-          }
         }
       },
       "block_order": [
-        "column_PEgQFN",
         "column_WXTDhX",
-        "column_XhtNci",
-        "column_tFAVda",
-        "column_kTNB4M",
-        "column_yGHgtx",
-        "column_Tdd6yw",
-        "column_UQFmrN",
-        "column_FTLEFm",
-        "column_KpmyN9",
-        "column_ahRK7g",
-        "column_VRTh4n",
-        "column_Ax6MgG",
-        "column_HbwUNg",
-        "column_gYBhUk"
+        "column_PUYF8Y",
+        "column_FQDx4z",
+        "column_h4KgFm",
+        "column_DGTkwt",
+        "column_KpmyN9"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -344,7 +245,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
@@ -382,6 +283,7 @@
         "column_FYdzhb",
         "column_qXnNV9"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -448,6 +350,7 @@
         "featured_collection_iWiLE9",
         "featured_collection_bQBjhg"
       ],
+      "disabled": true,
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
@@ -488,6 +391,7 @@
         "column_MpLpbN",
         "column_8rhBew"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -554,6 +458,7 @@
         "featured_collection_mfJTLn",
         "featured_collection_P6Y8d7"
       ],
+      "disabled": true,
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
@@ -594,6 +499,7 @@
         "column_tyBEhE",
         "column_dQJmWD"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -660,6 +566,7 @@
         "featured_collection_C3XKrQ",
         "featured_collection_jnLghw"
       ],
+      "disabled": true,
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
@@ -700,6 +607,7 @@
         "column_hxxKx7",
         "column_wBRPWD"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -828,6 +736,7 @@
         "collapsible_row_fKiyG6",
         "collapsible_row_3zyPPt"
       ],
+      "disabled": true,
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
         "caption": "Una guida rapida per scegliere articoli per la tavola, accessori cucina e idee regalo legate al mondo Cucina & Tavola di Unico & Multiplo.",
