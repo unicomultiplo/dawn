@@ -63,12 +63,23 @@
             "link_label": "",
             "link": "shopify://collections/knindustrie-catalogo-prodotti-piatti"
           }
+        },
+        "column_yEMeA6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/calipso-brandani-servizio.webp",
+            "title": "",
+            "text": "<p><strong>Brandani</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/brandani-piatti"
+          }
         }
       },
       "block_order": [
         "column_F8gx46",
         "column_WXtPTq",
-        "column_77eT6x"
+        "column_77eT6x",
+        "column_yEMeA6"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -78,7 +89,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
