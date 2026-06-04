@@ -185,7 +185,7 @@
         "column_LdyctV": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DIFFUSORE-PROFUMO-DERITREA.jpg",
+            "image": "shopify://shop_images/tovaglietta-gina-cotone.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -195,10 +195,10 @@
         "column_r7gR4e": {
           "type": "column",
           "settings": {
-            "title": "DIFFUSORE A BASTONCINI",
-            "text": "<p><strong>Il fascino di un’antica farmacia, il profumo che veste la casa</strong><br/><br/>Diffusore in vetro scuro con 500 ml di Essenza Aromatica d’Eritrea e bastoncini naturali in bambù, confezionato in un’elegante scatola regalo.<br/></p><p><br/><strong>Profuma i tuoi spazi con stile -&gt;</strong><br/><br/><br/></p>",
+            "title": "<strong>TOVAGLIETTA  GINA</strong>",
+            "text": "<p></p><p><strong>La bellezza dei dettagli che rendono speciale ogni tavola</strong></p><p>Realizzata artigianalmente in Italia in cotone 100%, Gina unisce una delicata fantasia a quadri tono su tono a un elegante bordo ondulato. Le sue sfumature naturali e la consistenza sostenuta del tessuto donano ordine, armonia e una raffinata semplicità alla tavola di ogni giorno.</p><p><strong>Scopri Gina →</strong></p>",
             "link_label": "",
-            "link": "shopify://products/diffusore-a-bastoncini-carta-deritrea-500ml"
+            "link": "https://www.unicoemultiplo.com/products/tovaglietta-americana-scacco-matto-in-cotone-100"
           }
         }
       },
