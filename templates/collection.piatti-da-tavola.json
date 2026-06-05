@@ -449,6 +449,131 @@
         "show_text_below": true
       }
     },
+    "multicolumn_wDLcLp": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_CGCdFb": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_r6hUa6": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Completa la tua Tavola</strong>",
+            "text": "<p>Completa la tua tavola esplorando le collezioni correlate: bicchieri, calici, vassoi, accessori per servire e tutta la selezione Cucina & Tavola.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_CGCdFb",
+        "column_r6hUa6"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 24,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_fteU4T": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_yxYYXF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-800-posate-set-24-pezzi-3.webp",
+            "title": "",
+            "text": "<p><strong>Posate</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-posate"
+          }
+        },
+        "column_mjiBaV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-home-Diseguale-bicchieri.webp",
+            "title": "",
+            "text": "<p><strong>Bicchieri e Calici</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
+          }
+        },
+        "column_4eEi6Q": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/coppette-macedonia-frutta-cucina.webp",
+            "title": "",
+            "text": "<p><strong>Coppette Macedonia e Gelato</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-coppette-macedonia-gelato"
+          }
+        },
+        "column_AwYUHa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/sottopiatti-hybrid-natale-2025-seletti.webp",
+            "title": "",
+            "text": "<p><strong>Sottopiatti e Tovagliette</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-tovaglie-e-tovagliette"
+          }
+        },
+        "column_apfD9k": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-materials-vassoio-girevole-bianco.webp",
+            "title": "",
+            "text": "<p><strong>Vassoi</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata"
+          }
+        }
+      },
+      "block_order": [
+        "column_yxYYXF",
+        "column_mjiBaV",
+        "column_4eEi6Q",
+        "column_AwYUHa",
+        "column_apfD9k"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
     "collapsible_content_dP6Ppz": {
       "type": "collapsible-content",
       "blocks": {
@@ -540,6 +665,8 @@
     "custom_liquid_AWdhed",
     "multicolumn_ikALKg",
     "image_banner_hf7WRX",
+    "multicolumn_wDLcLp",
+    "multicolumn_fteU4T",
     "collapsible_content_dP6Ppz"
   ]
 }
