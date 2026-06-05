@@ -301,86 +301,188 @@
         "padding_bottom": 0
       }
     },
-    "collection_list_rbmznQ": {
-      "type": "collection-list",
+    "multicolumn_J8w6Dd": {
+      "type": "multicolumn",
       "blocks": {
-        "featured_collection_fnCPCP": {
-          "type": "featured_collection",
+        "column_hbMD4X": {
+          "type": "column",
           "settings": {
-            "collection": ""
+            "image": "shopify://shop_images/bitossi-home-petalo-piatti.webp",
+            "title": "",
+            "text": "<p><strong>Bitossi Home - I senza Tempo</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/bitossi-home?#shopify-section-template--24628389380361__collection_list_kdtLc8"
           }
         },
-        "featured_collection_fW4fWU": {
-          "type": "featured_collection",
+        "column_DbUdFj": {
+          "type": "column",
           "settings": {
-            "collection": ""
+            "image": "shopify://shop_images/seletti-kintsugi-servizio-18-pz-9.webp",
+            "title": "",
+            "text": "<p><strong>Piatti Fondi</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Fondi&sort_by=manual#product-grid"
           }
         },
-        "featured_collection_MwBk9F": {
-          "type": "featured_collection",
+        "column_VmxGzy": {
+          "type": "column",
           "settings": {
-            "collection": ""
+            "image": "shopify://shop_images/bitossi-home-la-tavola-ciao-mondo-piattini.webp",
+            "title": "",
+            "text": "<p><strong>Piatti Dessert e da Frutta</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-piatti-frutta-e-dessert"
+          }
+        },
+        "column_CbPFeM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-home-la-tavola-abracadabra.webp",
+            "title": "",
+            "text": "<p><strong>Servizi Di Piatti</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Servizi+di+Piatti&sort_by=manual#product-grid"
+          }
+        },
+        "column_eLeqwk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/the-club-piatto-pizza.jpg",
+            "title": "",
+            "text": "<p><strong>Piatti Pizza</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Pizza&sort_by=manual#product-grid"
+          }
+        },
+        "column_KgJaLF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/treccia-bitossi-home-vimini_1.jpg",
+            "title": "",
+            "text": "<p><strong>Vassoi</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata"
           }
         }
       },
       "block_order": [
-        "featured_collection_fnCPCP",
-        "featured_collection_fW4fWU",
-        "featured_collection_MwBk9F"
+        "column_hbMD4X",
+        "column_DbUdFj",
+        "column_VmxGzy",
+        "column_CbPFeM",
+        "column_eLeqwk",
+        "column_KgJaLF"
       ],
-      "name": "t:sections.collection-list.presets.name",
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
       "settings": {
         "title": "Scelte Per il Quotidiano",
         "heading_size": "h2",
+        "image_width": "full",
         "image_ratio": "square",
         "columns_desktop": 6,
-        "color_scheme": "",
-        "show_view_all": false,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 16
       }
     },
-    "collection_list_4F6rqW": {
-      "type": "collection-list",
+    "multicolumn_MtNpp6": {
+      "type": "multicolumn",
       "blocks": {
-        "featured_collection_z6TKiK": {
-          "type": "featured_collection",
+        "column_nJjcE9": {
+          "type": "column",
           "settings": {
-            "collection": ""
+            "image": "shopify://shop_images/Il_Frutto_della_Passione_Bitossi_Home-piatti.webp",
+            "title": "",
+            "text": "<p><strong>Piatti Piani</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Piani&sort_by=manual#product-grid"
           }
         },
-        "featured_collection_hjxkLG": {
-          "type": "featured_collection",
+        "column_zRbwgV": {
+          "type": "column",
           "settings": {
-            "collection": ""
+            "image": "shopify://shop_images/seletti-kintsugi-servizio-18-pz-9.webp",
+            "title": "",
+            "text": "<p><strong>Piatti Fondi</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Fondi&sort_by=manual#product-grid"
           }
         },
-        "featured_collection_RGiUDy": {
-          "type": "featured_collection",
+        "column_79VmYx": {
+          "type": "column",
           "settings": {
-            "collection": ""
+            "image": "shopify://shop_images/bitossi-home-la-tavola-ciao-mondo-piattini.webp",
+            "title": "",
+            "text": "<p><strong>Piatti Dessert e da Frutta</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-piatti-frutta-e-dessert"
+          }
+        },
+        "column_TXq4wT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-home-la-tavola-abracadabra.webp",
+            "title": "",
+            "text": "<p><strong>Servizi Di Piatti</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Servizi+di+Piatti&sort_by=manual#product-grid"
+          }
+        },
+        "column_YdwjVc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/the-club-piatto-pizza.jpg",
+            "title": "",
+            "text": "<p><strong>Piatti Pizza</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Pizza&sort_by=manual#product-grid"
+          }
+        },
+        "column_tJ3WDr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/treccia-bitossi-home-vimini_1.jpg",
+            "title": "",
+            "text": "<p><strong>Vassoi</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata"
           }
         }
       },
       "block_order": [
-        "featured_collection_z6TKiK",
-        "featured_collection_hjxkLG",
-        "featured_collection_RGiUDy"
+        "column_nJjcE9",
+        "column_zRbwgV",
+        "column_79VmYx",
+        "column_TXq4wT",
+        "column_YdwjVc",
+        "column_tJ3WDr"
       ],
-      "name": "t:sections.collection-list.presets.name",
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
       "settings": {
         "title": "Tavola Scenografica",
         "heading_size": "h2",
+        "image_width": "full",
         "image_ratio": "square",
         "columns_desktop": 6,
-        "color_scheme": "",
-        "show_view_all": false,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 16
       }
     },
     "multicolumn_FnyeXB": {
@@ -742,8 +844,8 @@
     "multicolumn_KWHCjy",
     "multicolumn_KqNQMn",
     "multicolumn_izfzBV",
-    "collection_list_rbmznQ",
-    "collection_list_4F6rqW",
+    "multicolumn_J8w6Dd",
+    "multicolumn_MtNpp6",
     "multicolumn_FnyeXB",
     "custom_liquid_AWdhed",
     "multicolumn_ikALKg",
