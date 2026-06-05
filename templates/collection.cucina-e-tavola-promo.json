@@ -553,7 +553,7 @@
         "column_dPKibK": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/la-tavola-scomposta-bitossi-home.jpg",
+            "image": "shopify://shop_images/bitossi-home-tavola-scomposta-vassoio-tondo.png",
             "title": "",
             "text": "<p><strong>Bitossi Home - La Tavola Scomposta </strong></p>",
             "link_label": "",
@@ -563,7 +563,7 @@
         "column_QtJJ7p": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-kintsugi-servizio-18-pz-10.webp",
+            "image": "shopify://shop_images/seletti-kintsugi-servizio-18-pz-8.webp",
             "title": "",
             "text": "<p><strong>Seletti - Kintsugi</strong></p>",
             "link_label": "",
@@ -573,7 +573,7 @@
         "column_Vhtq8V": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/1533-knindustrie-shabbychic-piatti-piani-o27.webp",
+            "image": "shopify://shop_images/Shabbychic_knindustrie.webp",
             "title": "",
             "text": "<p><strong>KnIndustrie - Shabbychic</strong></p>",
             "link_label": "",
@@ -583,31 +583,31 @@
         "column_GPacjd": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-classics-on-acid-vaso-in-porcellana-h23-cm-4.webp",
+            "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-2.webp",
             "title": "",
             "text": "<p><strong>Seletti - Classic On Acid</strong></p>",
             "link_label": "",
             "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid"
           }
         },
-        "column_94bdK4": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Oldani-KnIndustrie.jpg",
-            "title": "",
-            "text": "<p><strong>KnIndustrie - Davide Oldani</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-davide-oldani"
-          }
-        },
         "column_ebi78r": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Natale-con-i-piatti-Seletti-Hybrid.webp",
+            "image": "shopify://shop_images/Discover_now_our_Hybrid_collection_by_f21b3c46-c7b9-4678-acf9-839ef4db4b0c.webp",
             "title": "",
             "text": "<p><strong>Seletti - Hybrid</strong></p>",
             "link_label": "",
             "link": "shopify://collections/seletti-catalogo-prodotti-hybrid"
+          }
+        },
+        "column_94bdK4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/vanilla-fly-cestino-decorativo-rotondo-in-rattan-naturale-con-bordo-ondulato-8.webp",
+            "title": "",
+            "text": "<p><strong>Alzate e Centrotavola</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
           }
         }
       },
@@ -616,8 +616,8 @@
         "column_QtJJ7p",
         "column_Vhtq8V",
         "column_GPacjd",
-        "column_94bdK4",
-        "column_ebi78r"
+        "column_ebi78r",
+        "column_94bdK4"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
