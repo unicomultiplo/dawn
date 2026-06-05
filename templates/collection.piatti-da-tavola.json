@@ -596,8 +596,8 @@
         "column_wBRPWD": {
           "type": "column",
           "settings": {
-            "title": "<strong>Idee regalo per chi ama cucina e tavola</strong>",
-            "text": "<p><strong>Gli articoli per cucina e tavola sono anche ottime idee regalo:</strong> utili, belli e facili da personalizzare in base a gusti, occasioni e budget. Una coppia di calici, un set di tazze, un vassoio decorativo, un piatto speciale, una caffettiera, una teiera o un accessorio cucina particolare sono <strong>regali che entrano davvero nella vita quotidiana di chi li riceve.</strong></p>",
+            "title": "<strong>Set da tavola e Idee Regalo</strong>",
+            "text": "<p><strong>Un set di piatti da tavola</strong> è una scelta pratica per chi vuole una mise en place coordinata e pronta all'uso. Può essere essenziale, con piatti piani e fondi, oppure piu completo, con piatti dessert e pezzi da portata abbinati.</p><p>È una <strong>soluzione utile</strong> sia per rinnovare la tavola di casa sia per creare una base elegante da personalizzare con bicchieri, posate e accessori.</p><p><br/>I piatti sono anche un <strong>ottima idea </strong>regalo per<strong> nuove case</strong>, <strong>matrimoni</strong>, <strong>compleanni </strong>e occasioni speciali. Un piatto decorativo, un set colorato o un servizio dal design originale sono  perfetti per chi ama vivere la tavola con cura e personalità.</p>",
             "link_label": "",
             "link": ""
           }
@@ -607,7 +607,6 @@
         "column_hxxKx7",
         "column_wBRPWD"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -632,22 +631,22 @@
         "text_8xqydc": {
           "type": "text",
           "settings": {
-            "text": "Oggetti utili, originali e facili da regalare per chi ama vivere la casa con personalità",
+            "text": "Oggetti utili, originali e facili da regalare per chi ama vivere la tavola con personalità",
             "text_style": "caption-with-letter-spacing"
           }
         },
         "heading_7nALCz": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Idee regalo per casa e cucina</strong>",
+            "heading": "<strong>Set da Tavola</strong>",
             "heading_size": "h2"
           }
         },
         "buttons_ALFMPq": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Trova un’idea regalo",
-            "button_link_1": "shopify://collections/idee-regalo-per-casa-e-cucina",
+            "button_label_1": "Trova la tua idea regalo",
+            "button_link_1": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Servizi+di+Piatti&sort_by=manual#product-grid",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -662,7 +661,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/knindustrie-mood-colazione-cucina-e-tavolo.webp",
+        "image": "shopify://shop_images/regali-invito-a-cena-casa-nuova.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
