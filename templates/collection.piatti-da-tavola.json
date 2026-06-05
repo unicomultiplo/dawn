@@ -373,6 +373,7 @@
         "column_3Ke9KA",
         "column_8FEETg"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -485,6 +486,7 @@
         "featured_collection_iWiLE9",
         "featured_collection_bQBjhg"
       ],
+      "disabled": true,
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
