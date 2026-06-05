@@ -700,9 +700,9 @@
         "collapsible_row_GG6eXA": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Quali accessori cucina sono utili da avere?",
+            "heading": "Meglio un servizio coordinato o piatti diversi tra loro?",
             "icon": "check_mark",
-            "row_content": "<p>Tra gli accessori cucina più utili ci sono <strong>taglieri, coltelli, pentole, padelle, barattoli, caraffe, ciotole, utensili e contenitori.</strong> Scegli prodotti pratici, resistenti e belli da vedere, così da usarli ogni giorno e integrarli nello stile della cucina.</p>",
+            "row_content": "<p>Dipende dallo stile che vuoi ottenere. Un <strong>servizio coordinato crea una tavola ordinata ed elegante</strong>, mentre<strong> piatti diversi tra loro permettono una mise en place piu creativa e personale</strong>. Puoi anche partire da una base neutra e aggiungere alcuni piatti decorativi o colorati.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -710,9 +710,9 @@
         "collapsible_row_fKiyG6": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Gli articoli cucina e tavola sono adatti come idea regalo?",
+            "heading": "I piatti da tavola sono una buona idea regalo?",
             "icon": "check_mark",
-            "row_content": "<p>Sì, gli articoli per cucina e tavola sono idee <strong>regalo versatili </strong>perché uniscono utilità e stile. Tazze, calici, vassoi, piatti decorativi, teiere, caffettiere e accessori cucina sono perfetti per compleanni, Natale, matrimoni, <strong>nuove case e piccoli pensieri di design.</strong></p>",
+            "row_content": "<p><strong>Si,</strong> i piatti da tavola sono una buona idea regalo perchè sono utili, durano nel tempo e possono avere un forte valore estetico. Un set di piatti, un piatto decorativo o un servizio <strong>originale </strong>sono adatti <strong>per nuove case, matrimoni, compleanni e occasioni speciali.</strong></p>",
             "page": "",
             "liquid_content": ""
           }
@@ -720,9 +720,9 @@
         "collapsible_row_3zyPPt": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Quali brand trovi nella selezione Cucina & Tavola?",
+            "heading": "Quali brand trovi nella selezione Piatti da Tavola?",
             "icon": "check_mark",
-            "row_content": "<p>Nella selezione Cucina & Tavola puoi trovare brand come <strong>Bitossi Home, Brandani, KnIndustrie, Seletti, Brabantia</strong> e altri marchi scelti per qualità, estetica e funzionalità.</p>",
+            "row_content": "<p>Nella selezione <strong>Piatti </strong>da Tavola puoi trovare brand come <strong>Bitossi Home, Brandani, KnIndustrie, Seletti </strong>e altri marchi scelti per qualità, estetica e funzionalità, in linea con lo stile di Unico & Multiplo.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -744,9 +744,9 @@
         "layout": "row",
         "color_scheme": "",
         "container_color_scheme": "scheme-2",
-        "open_first_collapsible_row": false,
-        "image": "shopify://shop_images/Bone-China-la-porcellana-piu-raffinata-che-ce.webp",
-        "image_ratio": "small",
+        "open_first_collapsible_row": true,
+        "image": "shopify://shop_images/Bitossi-Home-Piatti_1.webp",
+        "image_ratio": "adapt",
         "desktop_layout": "image_first",
         "padding_top": 36,
         "padding_bottom": 36
