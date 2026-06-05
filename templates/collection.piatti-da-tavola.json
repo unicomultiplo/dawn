@@ -307,9 +307,9 @@
         "column_hbMD4X": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/bitossi-home-petalo-piatti.webp",
+            "image": "shopify://shop_images/Petalo-Bitossi-Home.jpg",
             "title": "",
-            "text": "<p><strong>Bitossi Home - I senza Tempo</strong></p>",
+            "text": "<p><strong>Bitossi Home - I Senza Tempo</strong></p>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/bitossi-home?#shopify-section-template--24628389380361__collection_list_kdtLc8"
           }
@@ -317,51 +317,41 @@
         "column_DbUdFj": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-kintsugi-servizio-18-pz-9.webp",
+            "image": "shopify://shop_images/lunch-layers-knindustrie.webp",
             "title": "",
-            "text": "<p><strong>Piatti Fondi</strong></p>",
+            "text": "<p><strong>KnIndustrie - Lunch Layers</strong></p>",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Fondi&sort_by=manual#product-grid"
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-lunch-layers"
           }
         },
         "column_VmxGzy": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/bitossi-home-la-tavola-ciao-mondo-piattini.webp",
+            "image": "shopify://shop_images/Piatti-total-white-brandani-1.jpg",
             "title": "",
-            "text": "<p><strong>Piatti Dessert e da Frutta</strong></p>",
+            "text": "<p><strong>Brandani - Total White</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-piatti-frutta-e-dessert"
-          }
-        },
-        "column_CbPFeM": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/bitossi-home-la-tavola-abracadabra.webp",
-            "title": "",
-            "text": "<p><strong>Servizi Di Piatti</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Servizi+di+Piatti&sort_by=manual#product-grid"
+            "link": "shopify://collections/brandani-total-white-brandani"
           }
         },
         "column_eLeqwk": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/the-club-piatto-pizza.jpg",
+            "image": "shopify://shop_images/Seletti-promo-estetico-quotidiano.webp",
             "title": "",
-            "text": "<p><strong>Piatti Pizza</strong></p>",
+            "text": "<p><strong>Seletti - Estetico Quotidiano</strong></p>",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Pizza&sort_by=manual#product-grid"
+            "link": "shopify://collections/seletti-catalogo-prodotti-estetico-quotidiano"
           }
         },
-        "column_KgJaLF": {
+        "column_CbPFeM": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/treccia-bitossi-home-vimini_1.jpg",
+            "image": "shopify://shop_images/calipso-brandani.webp",
             "title": "",
-            "text": "<p><strong>Vassoi</strong></p>",
+            "text": "<p><strong>Brandani - Calipso</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata"
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Servizi+di+Piatti&sort_by=manual#product-grid"
           }
         }
       },
@@ -369,9 +359,8 @@
         "column_hbMD4X",
         "column_DbUdFj",
         "column_VmxGzy",
-        "column_CbPFeM",
         "column_eLeqwk",
-        "column_KgJaLF"
+        "column_CbPFeM"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -381,7 +370,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
@@ -399,11 +388,11 @@
         "column_nJjcE9": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Il_Frutto_della_Passione_Bitossi_Home-piatti.webp",
+            "image": "shopify://shop_images/la-tavola-scomposta-bitossi-home.jpg",
             "title": "",
-            "text": "<p><strong>Piatti Piani</strong></p>",
+            "text": "<p><strong>Bitossi Home - La Tavola Scomposta </strong></p>",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Piani&sort_by=manual#product-grid"
+            "link": "https://www.unicoemultiplo.com/collections/bitossi-home?#shopify-section-template--24628389380361__collection_list_DFkntc"
           }
         },
         "column_zRbwgV": {
@@ -445,16 +434,6 @@
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Pizza&sort_by=manual#product-grid"
           }
-        },
-        "column_tJ3WDr": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/treccia-bitossi-home-vimini_1.jpg",
-            "title": "",
-            "text": "<p><strong>Vassoi</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata"
-          }
         }
       },
       "block_order": [
@@ -462,8 +441,7 @@
         "column_zRbwgV",
         "column_79VmYx",
         "column_TXq4wT",
-        "column_YdwjVc",
-        "column_tJ3WDr"
+        "column_YdwjVc"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -473,7 +451,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
