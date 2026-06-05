@@ -257,10 +257,10 @@
         "padding_bottom": 16
       }
     },
-    "multicolumn_NWhdaG": {
+    "multicolumn_izfzBV": {
       "type": "multicolumn",
       "blocks": {
-        "column_FYdzhb": {
+        "column_aLGeD3": {
           "type": "column",
           "settings": {
             "title": "",
@@ -269,25 +269,160 @@
             "link": ""
           }
         },
-        "column_qXnNV9": {
+        "column_NkM7f8": {
           "type": "column",
           "settings": {
-            "title": "<strong>Come scegliere gli articoli per la tavola</strong>",
-            "text": "<p>Per costruire una tavola armoniosa parti dall’uso che ne farai. Se cerchi <strong>soluzioni per tutti i giorni</strong>, punta su piatti, bicchieri e posate resistenti, facili da abbinare e capaci di adattarsi a diversi momenti. Se invece vuoi creare una <strong>tavola scenografica,</strong> scegli pezzi più decorativi: piatti illustrati, calici colorati, vassoi importanti, centrotavola e accessori capaci di<strong> diventare protagonisti.</strong></p><p>Il segreto è<strong> bilanciare coerenza e sorpresa</strong>. Puoi coordinare forme e materiali, oppure creare una tavola più personale mixando colori, pattern e finiture diverse. La <strong>tavola contemporanea</strong> non deve essere perfetta: deve raccontare il tuo modo di vivere la casa.</p>",
+            "title": "<strong>Come scegliere i piatti da tavola</strong>",
+            "text": "<p>Per scegliere i piatti da tavola giusti <strong>parti dalle tue abitudini.</strong> Se cerchi piatti per tutti i giorni, punta su modelli resistenti, facili da lavare e semplici da abbinare a bicchieri, posate e tovagliato. Se invece vuoi creare una tavola piu scenografica, scegli piatti decorati, colorati o con forme particolari.</p><p><strong>Una buona selezione dovrebbe includere piatti piani, piatti fondi e piatti dessert, </strong>cosi da accompagnare ogni momento del pasto. Puoi scegliere un servizio <strong>coordinato per un effetto ordinato</strong>, oppure mixare <strong>fantasie e colori diversi per una tavola piu personale e contemporanea.</strong></p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "column_FYdzhb",
-        "column_qXnNV9"
+        "column_aLGeD3",
+        "column_NkM7f8"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
-        "heading_size": "h1",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_F8appd": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_PtHyMF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Il_Frutto_della_Passione_Bitossi_Home-piatti.webp",
+            "title": "",
+            "text": "<p><strong>Piatti Piani</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Piani&sort_by=manual#product-grid"
+          }
+        },
+        "column_Q4FJ9m": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-kintsugi-servizio-18-pz-9.webp",
+            "title": "",
+            "text": "<p><strong>Piatti Fondi</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Fondi&sort_by=manual#product-grid"
+          }
+        },
+        "column_RpWmVk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-home-la-tavola-ciao-mondo-piattini.webp",
+            "title": "",
+            "text": "<p><strong>Piatti Dessert e da Frutta</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-piatti-frutta-e-dessert"
+          }
+        },
+        "column_wHtbQh": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-home-la-tavola-abracadabra.webp",
+            "title": "",
+            "text": "<p><strong>Servizi Di Piatti</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Servizi+di+Piatti&sort_by=manual#product-grid"
+          }
+        },
+        "column_3Ke9KA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/the-club-piatto-pizza.jpg",
+            "title": "",
+            "text": "<p><strong>Piatti Pizza</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Pizza&sort_by=manual#product-grid"
+          }
+        },
+        "column_8FEETg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/treccia-bitossi-home-vimini_1.jpg",
+            "title": "",
+            "text": "<p><strong>Vassoi</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata"
+          }
+        }
+      },
+      "block_order": [
+        "column_PtHyMF",
+        "column_Q4FJ9m",
+        "column_RpWmVk",
+        "column_wHtbQh",
+        "column_3Ke9KA",
+        "column_8FEETg"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
+    "multicolumn_FnyeXB": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_hxxKx7": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wBRPWD": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Piatti piani, fondi e dessert: quali usare</strong>",
+            "text": "<p>I piatti piani sono i piu versatili: si usano per secondi, contorni, piatti unici e portate principali. I piatti fondi sono ideali per primi piatti, zuppe, vellutate, minestre e preparazioni piu cremose. I piatti dessert, invece, completano il servizio e sono perfetti per dolci, frutta, antipasti o piccole porzioni.</p><p>Avere piatti piani e fondi coordinati aiuta a creare una tavola equilibrata, ma non e obbligatorio scegliere tutto uguale. Abbinare forme diverse, colori complementari o decorazioni a contrasto puo rendere la mise en place piu dinamica e originale.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_hxxKx7",
+        "column_wBRPWD"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
@@ -350,7 +485,6 @@
         "featured_collection_iWiLE9",
         "featured_collection_bQBjhg"
       ],
-      "disabled": true,
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
@@ -365,10 +499,10 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_eVRgXi": {
+    "multicolumn_ikALKg": {
       "type": "multicolumn",
       "blocks": {
-        "column_MpLpbN": {
+        "column_A8rPaP": {
           "type": "column",
           "settings": {
             "title": "",
@@ -377,223 +511,7 @@
             "link": ""
           }
         },
-        "column_8rhBew": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Accessori cucina belli, utili e funzionali</strong>",
-            "text": "<p>Gli <strong>accessori </strong>di cucina non sono solo strumenti da usare: possono<strong> diventare parte dell’atmosfera della casa. </strong>Taglieri, coltelli, pentole, padelle, barattoli, caraffe e utensili ben scelti aiutano a cucinare meglio, organizzare lo spazio e rendere più piacevoli anche le preparazioni quotidiane.</p><p><strong>Per scegliere bene valuta materiali, praticità e stile.</strong> Le pentole e le padelle devono rispondere alle tue abitudini in cucina; bicchieri, tazze e caraffe devono essere comodi da usare ma anche belli da portare in tavola; vassoi e piatti da portata devono <strong>facilitare il servizio e aggiungere un tocco decorativo.</strong></p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_MpLpbN",
-        "column_8rhBew"
-      ],
-      "disabled": true,
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "collection_list_KeQdtP": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_acV3wj": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home-smerlo-bitossi-home"
-          }
-        },
-        "featured_collection_QWJrGi": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "lorto-bitossi-home"
-          }
-        },
-        "featured_collection_ycmmUL": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "knindustrie-accessori-tavola"
-          }
-        },
-        "featured_collection_YwagRn": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "knindustrie-catalogo-prodotti-beyond-basic"
-          }
-        },
-        "featured_collection_mfJTLn": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "ciao-mondo-bitossi-home"
-          }
-        },
-        "featured_collection_P6Y8d7": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-diesel-living-seletti-classics-on-acid"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_acV3wj",
-        "featured_collection_QWJrGi",
-        "featured_collection_ycmmUL",
-        "featured_collection_YwagRn",
-        "featured_collection_mfJTLn",
-        "featured_collection_P6Y8d7"
-      ],
-      "disabled": true,
-      "name": "t:sections.collection-list.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_WeCHGF": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_tyBEhE": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_dQJmWD": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Materiali, colori e abbinamenti</strong>",
-            "text": "<p>Ceramica, porcellana, vetro, acciaio, legno e materiali tecnici raccontano stili diversi. <strong>La ceramica e la porcellana sono perfette per una tavola espressiva </strong>e curata; il <strong>vetro </strong>valorizza bicchieri, calici, bottiglie e caraffe; <strong>l’acciaio </strong>e i <strong>materiali performanti </strong>sono ideali per cucina e cottura; il legno aggiunge calore e naturalezza.</p><p><strong>Per un risultato equilibrato puoi partire da una base neutra e aggiungere dettagli più audaci: </strong>un set di bicchieri colorati, un piatto da portata decorato, una tazza ironica o un centrotavola importante. Se ami uno stile più deciso, scegli invece una palette riconoscibile e ripetila tra piatti, tessili, vassoi e accessori.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_tyBEhE",
-        "column_dQJmWD"
-      ],
-      "disabled": true,
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "collection_list_RYQEeH": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_URmKtb": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "piatti-in-bone-china"
-          }
-        },
-        "featured_collection_eXJCCg": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "knindustrie-catalogo-prodotti-abct"
-          }
-        },
-        "featured_collection_fycyBH": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "the-storm-collection-knindustrie"
-          }
-        },
-        "featured_collection_KXH9Qd": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "knindustrie-catalogo-prodotti-bicchieri"
-          }
-        },
-        "featured_collection_C3XKrQ": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-hybrid"
-          }
-        },
-        "featured_collection_jnLghw": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "cucina-e-tavola-piatti-melamina"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_URmKtb",
-        "featured_collection_eXJCCg",
-        "featured_collection_fycyBH",
-        "featured_collection_KXH9Qd",
-        "featured_collection_C3XKrQ",
-        "featured_collection_jnLghw"
-      ],
-      "disabled": true,
-      "name": "t:sections.collection-list.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_FnyeXB": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_hxxKx7": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_wBRPWD": {
+        "column_T3f7Di": {
           "type": "column",
           "settings": {
             "title": "<strong>Set da tavola e Idee Regalo</strong>",
@@ -604,8 +522,8 @@
         }
       },
       "block_order": [
-        "column_hxxKx7",
-        "column_wBRPWD"
+        "column_A8rPaP",
+        "column_T3f7Di"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -760,13 +678,11 @@
     "product-grid",
     "multicolumn_KWHCjy",
     "multicolumn_KqNQMn",
-    "multicolumn_NWhdaG",
-    "collection_list_dVBEiF",
-    "multicolumn_eVRgXi",
-    "collection_list_KeQdtP",
-    "multicolumn_WeCHGF",
-    "collection_list_RYQEeH",
+    "multicolumn_izfzBV",
+    "multicolumn_F8appd",
     "multicolumn_FnyeXB",
+    "collection_list_dVBEiF",
+    "multicolumn_ikALKg",
     "image_banner_hf7WRX",
     "collapsible_content_dP6Ppz"
   ]
