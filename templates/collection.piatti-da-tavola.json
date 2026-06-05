@@ -490,7 +490,7 @@
           "type": "column",
           "settings": {
             "title": "<strong>Piatti piani, fondi e dessert: quali usare</strong>",
-            "text": "<p>I piatti piani sono i piu versatili: si usano per secondi, contorni, piatti unici e portate principali. I piatti fondi sono ideali per primi piatti, zuppe, vellutate, minestre e preparazioni piu cremose. I piatti dessert, invece, completano il servizio e sono perfetti per dolci, frutta, antipasti o piccole porzioni.</p><p>Avere piatti piani e fondi coordinati aiuta a creare una tavola equilibrata, ma non e obbligatorio scegliere tutto uguale. Abbinare forme diverse, colori complementari o decorazioni a contrasto puo rendere la mise en place piu dinamica e originale.</p>",
+            "text": "<p>I piatti piani sono i piu versatili: si usano per secondi, contorni, piatti unici e portate principali. I piatti fondi sono ideali per primi piatti, zuppe, vellutate, minestre e preparazioni piu cremose. I piatti dessert, invece, completano il servizio e sono perfetti per dolci, frutta, antipasti o piccole porzioni.</p><p>Avere piatti piani e fondi coordinati aiuta a creare una tavola equilibrata, ma non è obbligatorio scegliere tutto uguale. Abbinare forme diverse, colori complementari o decorazioni a contrasto può rendere la mise en place piu dinamica e originale.</p>",
             "link_label": "",
             "link": ""
           }
@@ -544,7 +544,7 @@
           "type": "column",
           "settings": {
             "title": "<strong>Set da tavola e Idee Regalo</strong>",
-            "text": "<p><strong>Un set di piatti da tavola</strong> è una scelta pratica per chi vuole una mise en place coordinata e pronta all'uso. Può essere essenziale, con piatti piani e fondi, oppure piu completo, con piatti dessert e pezzi da portata abbinati.</p><p>È una <strong>soluzione utile</strong> sia per rinnovare la tavola di casa sia per creare una base elegante da personalizzare con bicchieri, posate e accessori.</p><p><br/>I piatti sono anche un <strong>ottima idea </strong>regalo per<strong> nuove case</strong>, <strong>matrimoni</strong>, <strong>compleanni </strong>e occasioni speciali. Un piatto decorativo, un set colorato o un servizio dal design originale sono  perfetti per chi ama vivere la tavola con cura e personalità.</p>",
+            "text": "<p><strong>Un set di piatti da tavola</strong> è una scelta pratica per chi vuole una mise en place coordinata e pronta all'uso. Può essere essenziale, con piatti piani e fondi, oppure piu completo, con piatti dessert e pezzi da portata abbinati.</p><p>È una <strong>soluzione utile</strong> sia per rinnovare la tavola di casa sia per creare una base elegante da personalizzare con bicchieri, posate e accessori.</p><p><br/>I piatti sono anche un' <strong>ottima idea </strong>regalo per<strong> nuove case</strong>, <strong>matrimoni</strong>, <strong>compleanni </strong>e occasioni speciali. Un piatto decorativo, un set colorato o un servizio dal design originale sono  perfetti per chi ama vivere la tavola con cura e personalità.</p>",
             "link_label": "",
             "link": ""
           }
@@ -774,7 +774,7 @@
           "settings": {
             "heading": "Meglio un servizio coordinato o piatti diversi tra loro?",
             "icon": "check_mark",
-            "row_content": "<p>Dipende dallo stile che vuoi ottenere. Un <strong>servizio coordinato crea una tavola ordinata ed elegante</strong>, mentre<strong> piatti diversi tra loro permettono una mise en place piu creativa e personale</strong>. Puoi anche partire da una base neutra e aggiungere alcuni piatti decorativi o colorati.</p>",
+            "row_content": "<p>Dipende dallo stile che vuoi ottenere. Un <strong>servizio coordinato crea una tavola ordinata ed elegante</strong>, mentre<strong> piatti diversi tra loro permettono una mise en place più creativa e personale</strong>. Puoi anche partire da una base neutra e aggiungere alcuni piatti decorativi o colorati.</p>",
             "page": "",
             "liquid_content": ""
           }
