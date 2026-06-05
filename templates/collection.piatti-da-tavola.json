@@ -438,6 +438,17 @@
         "padding_bottom": 0
       }
     },
+    "custom_liquid_AWdhed": {
+      "type": "custom-liquid",
+      "custom_css": [],
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Piatti\">\n  <nav class=\"quick-links-piatti\">\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Piani&sort_by=manual#product-grid\" class=\"button button--primary button--small\">Piatti Piani</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Fondi&sort_by=manual#product-grid\" class=\"button button--primary button--small\">Piatti Fondi</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti-frutta-e-dessert\" class=\"button button--primary button--small\">Piatti Frutta</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Servizi+di+Piatti&sort_by=manual#product-grid\" class=\"button button--primary button--small\">Set da Tavola</a>\n  </nav>\n</div>\n\n<style>\n  .quick-links-piatti {\n    display: flex;\n    flex-wrap: wrap;\n    gap: .5rem;\n    margin: .5rem 0 1rem;\n    justify-content: center;\n  }\n</style>",
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "collection_list_dVBEiF": {
       "type": "collection-list",
       "blocks": {
@@ -683,6 +694,7 @@
     "multicolumn_izfzBV",
     "multicolumn_F8appd",
     "multicolumn_FnyeXB",
+    "custom_liquid_AWdhed",
     "collection_list_dVBEiF",
     "multicolumn_ikALKg",
     "image_banner_hf7WRX",
