@@ -680,9 +680,9 @@
         "collapsible_row_DATUwP": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Che cosa trovi nella collezione Cucina & Tavola di Unico & Multiplo?",
+            "heading": "Che cosa trovi nella collezione Piatti da Tavola?",
             "icon": "check_mark",
-            "row_content": "<p>Nella collezione Cucina & Tavola trovi <strong>articoli </strong>per la tavola e accessori di cucina <strong>selezionati </strong>per unire funzionalità e design: piatti, bicchieri, calici, posate, vassoi, tazze, pentole, padelle, taglieri, caraffe, teiere e <strong>piccoli oggetti per la casa.</strong></p>",
+            "row_content": "<p>Nella collezione Piatti da Tavola <strong>trovi piatti piani, piatti fondi, piatti dessert, set e servizi selezionati </strong>per apparecchiare con stile. Le proposte uniscono funzionalità, design e personalità, con soluzioni adatte sia all'<strong>uso quotidiano sia alle occasioni speciali</strong>.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -690,9 +690,9 @@
         "collapsible_row_hJdMc6": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Come scegliere gli accessori per la tavola?",
+            "heading": "Come scegliere i piatti da tavola?",
             "icon": "check_mark",
-            "row_content": "<p><strong>Scegli</strong> gli accessori per la tavola <strong>in base all’occasione</strong>, allo stile della casa e all’uso quotidiano. Per una tavola versatile punta su <strong>piatti, bicchieri e posate facili da abbinare;</strong> per un effetto più scenografico aggiungi vassoi, centrotavola, <strong>calici colorati e pezzi decorativi.</strong></p>",
+            "row_content": "<p>Per scegliere i piatti da tavola <strong>considera l'uso che ne farai,</strong> lo stile della casa e il tipo di apparecchiatura che vuoi creare. <strong>Per tutti i giorni</strong> sono ideali piatti <strong>resistenti </strong>e facili da abbinare; per una <strong>tavola più scenografica </strong>puoi scegliere piatti <strong>decorati, colorati o con forme particolari.</strong></p>",
             "page": "",
             "liquid_content": ""
           }
@@ -735,11 +735,10 @@
         "collapsible_row_fKiyG6",
         "collapsible_row_3zyPPt"
       ],
-      "disabled": true,
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
-        "caption": "Una guida rapida per scegliere articoli per la tavola, accessori cucina e idee regalo legate al mondo Cucina & Tavola di Unico & Multiplo.",
-        "heading": "FAQ - Domande frequenti su Cucina e Tavola",
+        "caption": "Una guida rapida per scegliere piatti da tavola e idee regalo dal mondo Unico & Multiplo.",
+        "heading": "FAQ - Domande frequenti su Piatti da Tavola",
         "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "row",
