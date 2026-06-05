@@ -481,11 +481,11 @@
         "column_4DhNp4": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/lunch-layers-knindustrie.webp",
+            "image": "shopify://shop_images/bitossi-home-pizzo-tovaglietta-rettangolare-bordo-pizzo-1.jpg",
             "title": "",
-            "text": "<p><strong>KnIndustrie - Lunch Layers</strong></p>",
+            "text": "<p><strong>Sottopiatti e Tovagliette</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-lunch-layers"
+            "link": "shopify://collections/cucina-e-tavola-tovaglie-e-tovagliette"
           }
         },
         "column_dJUMHL": {
@@ -501,19 +501,19 @@
         "column_LxMmgg": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-estetico-quotidiano-portauovo-portasalatini-1.jpg",
+            "image": "shopify://shop_images/set-aperitivo-design-bicchieri-vetro-vassoio-stone-washed.webp",
             "title": "",
-            "text": "<p><strong>Seletti - Estetico Quotidiano</strong></p>",
+            "text": "<p><strong>Bicchieri e Calici</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-estetico-quotidiano"
+            "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
           }
         },
         "column_raxQBG": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/calipso-brandani.webp",
+            "image": "shopify://shop_images/Bitossi-home-tazze-e-tazzine.webp",
             "title": "",
-            "text": "<p><strong>Brandani - Calipso</strong></p>",
+            "text": "<p><strong>Tazze e Tazzine</strong></p>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Servizi+di+Piatti&sort_by=manual#product-grid"
           }
@@ -532,6 +532,98 @@
       ],
       "settings": {
         "title": "Scelte Per il Quotidiano",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
+    "multicolumn_6MEcfB": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_dPKibK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/la-tavola-scomposta-bitossi-home.jpg",
+            "title": "",
+            "text": "<p><strong>Bitossi Home - La Tavola Scomposta </strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/bitossi-home?#shopify-section-template--24628389380361__collection_list_DFkntc"
+          }
+        },
+        "column_QtJJ7p": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-kintsugi-servizio-18-pz-10.webp",
+            "title": "",
+            "text": "<p><strong>Seletti - Kintsugi</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-catalogo-prodotti-kintsugi"
+          }
+        },
+        "column_Vhtq8V": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1533-knindustrie-shabbychic-piatti-piani-o27.webp",
+            "title": "",
+            "text": "<p><strong>KnIndustrie - Shabbychic</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/shabbychic-knindustrie"
+          }
+        },
+        "column_GPacjd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-classics-on-acid-vaso-in-porcellana-h23-cm-4.webp",
+            "title": "",
+            "text": "<p><strong>Seletti - Classic On Acid</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid"
+          }
+        },
+        "column_94bdK4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Oldani-KnIndustrie.jpg",
+            "title": "",
+            "text": "<p><strong>KnIndustrie - Davide Oldani</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-davide-oldani"
+          }
+        },
+        "column_ebi78r": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Natale-con-i-piatti-Seletti-Hybrid.webp",
+            "title": "",
+            "text": "<p><strong>Seletti - Hybrid</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-catalogo-prodotti-hybrid"
+          }
+        }
+      },
+      "block_order": [
+        "column_dPKibK",
+        "column_QtJJ7p",
+        "column_Vhtq8V",
+        "column_GPacjd",
+        "column_94bdK4",
+        "column_ebi78r"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "Tavola Scenografica",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
@@ -939,6 +1031,7 @@
     "multicolumn_KqNQMn",
     "multicolumn_NWhdaG",
     "multicolumn_hCGEhn",
+    "multicolumn_6MEcfB",
     "multicolumn_eVRgXi",
     "collection_list_KeQdtP",
     "multicolumn_WeCHGF",
