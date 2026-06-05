@@ -273,7 +273,7 @@
           "type": "column",
           "settings": {
             "title": "<strong>Come scegliere i piatti da tavola</strong>",
-            "text": "<p>Per scegliere i piatti da tavola giusti <strong>parti dalle tue abitudini.</strong> Se cerchi piatti per tutti i giorni, punta su modelli resistenti, facili da lavare e semplici da abbinare a bicchieri, posate e tovagliato. Se invece vuoi creare una tavola piu scenografica, scegli piatti decorati, colorati o con forme particolari.</p><p><strong>Una buona selezione dovrebbe includere piatti piani, piatti fondi e piatti dessert, </strong>cosi da accompagnare ogni momento del pasto. Puoi scegliere un servizio <strong>coordinato per un effetto ordinato</strong>, oppure mixare <strong>fantasie e colori diversi per una tavola piu personale e contemporanea.</strong></p>",
+            "text": "<p>Per scegliere i piatti da tavola giusti parti dalle tue abitudini. Se cerchi <strong>piatti per tutti i giorni,</strong> punta su modelli resistenti, facili da lavare e semplici da abbinare a bicchieri, posate e tovagliato. Se invece vuoi creare una <strong>tavola piu scenografica</strong>, scegli piatti decorati, colorati o con forme particolari.</p><p>Una buona selezione dovrebbe includere piatti piani, piatti fondi e piatti dessert, cosi da accompagnare ogni momento del pasto. Puoi scegliere un servizio <strong>coordinato per un effetto ordinato</strong>, oppure mixare <strong>fantasie e colori diversi per una tavola piu personale e contemporanea.</strong></p>",
             "link_label": "",
             "link": ""
           }
@@ -297,6 +297,88 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_rbmznQ": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_fnCPCP": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_fW4fWU": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_MwBk9F": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_fnCPCP",
+        "featured_collection_fW4fWU",
+        "featured_collection_MwBk9F"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "Scelte Per il Quotidiano",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_4F6rqW": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_z6TKiK": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_hjxkLG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_RGiUDy": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_z6TKiK",
+        "featured_collection_hjxkLG",
+        "featured_collection_RGiUDy"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "Tavola Scenografica",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -347,7 +429,6 @@
     },
     "custom_liquid_AWdhed": {
       "type": "custom-liquid",
-      "custom_css": [],
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
         "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Piatti\">\n  <nav class=\"quick-links-piatti\">\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Piani&sort_by=manual#product-grid\" class=\"button button--secondary button--small\">Piatti Piani</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Fondi&sort_by=manual#product-grid\" class=\"button button--secondary button--small\">Piatti Fondi</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti-frutta-e-dessert\" class=\"button button--secondary button--small\">Piatti Frutta</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Servizi+di+Piatti&sort_by=manual#product-grid\" class=\"button button--secondary button--small\">Set da Tavola</a>\n  </nav>\n</div>\n\n<style>\n  .quick-links-piatti {\n    display: flex;\n    flex-wrap: wrap;\n    gap: .5rem;\n    margin: .5rem 0 1rem;\n    justify-content: flex-start;\n  }\n</style>",
@@ -661,6 +742,8 @@
     "multicolumn_KWHCjy",
     "multicolumn_KqNQMn",
     "multicolumn_izfzBV",
+    "collection_list_rbmznQ",
+    "collection_list_4F6rqW",
     "multicolumn_FnyeXB",
     "custom_liquid_AWdhed",
     "multicolumn_ikALKg",
