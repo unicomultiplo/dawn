@@ -398,11 +398,21 @@
         "column_zRbwgV": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-tazze-kintsugi.webp",
+            "image": "shopify://shop_images/seletti-kintsugi-servizio-18-pz-10.webp",
             "title": "",
             "text": "<p><strong>Seletti - Kintsugi</strong></p>",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Fondi&sort_by=manual#product-grid"
+            "link": "shopify://collections/seletti-catalogo-prodotti-kintsugi"
+          }
+        },
+        "column_TXq4wT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1533-knindustrie-shabbychic-piatti-piani-o27.webp",
+            "title": "",
+            "text": "<p><strong>KnIndustrie - Shabbychic</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/shabbychic-knindustrie"
           }
         },
         "column_79VmYx": {
@@ -410,38 +420,39 @@
           "settings": {
             "image": "shopify://shop_images/seletti-classics-on-acid-vaso-in-porcellana-h23-cm-4.webp",
             "title": "",
-            "text": "<p><strong>Piatti Dessert e da Frutta</strong></p>",
+            "text": "<p><strong>Seletti - Classic On Acid</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-piatti-frutta-e-dessert"
-          }
-        },
-        "column_TXq4wT": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/bitossi-home-la-tavola-abracadabra.webp",
-            "title": "",
-            "text": "<p><strong>Servizi Di Piatti</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Servizi+di+Piatti&sort_by=manual#product-grid"
+            "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid"
           }
         },
         "column_YdwjVc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/the-club-piatto-pizza.jpg",
+            "image": "shopify://shop_images/Oldani-KnIndustrie.jpg",
             "title": "",
-            "text": "<p><strong>Piatti Pizza</strong></p>",
+            "text": "<p><strong>KnIndustrie - Davide Oldani</strong></p>",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Pizza&sort_by=manual#product-grid"
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-davide-oldani"
+          }
+        },
+        "column_fcACXf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Natale-con-i-piatti-Seletti-Hybrid.webp",
+            "title": "",
+            "text": "<p><strong>Seletti - Hybrid</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-catalogo-prodotti-hybrid"
           }
         }
       },
       "block_order": [
         "column_nJjcE9",
         "column_zRbwgV",
-        "column_79VmYx",
         "column_TXq4wT",
-        "column_YdwjVc"
+        "column_79VmYx",
+        "column_YdwjVc",
+        "column_fcACXf"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -451,7 +462,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
