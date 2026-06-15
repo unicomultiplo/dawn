@@ -12,24 +12,6 @@
     "slideshow_dUd4mz": {
       "type": "slideshow",
       "blocks": {
-        "slide_wFUX39": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/l-orto-new-bitossi-home-collection.webp",
-            "heading": "L'orto",
-            "heading_size": "h0",
-            "subheading": "<strong>Pomodori, cavoli, carciofi e foglie diventano protagonisti di una tavola ironica, creativa e sorprendentemente elegante.</strong>",
-            "button_label": "Soprila Ora!",
-            "link": "shopify://collections/lorto-bitossi-home",
-            "button_style_secondary": false,
-            "box_align": "bottom-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-2e5c87f5-32a3-471b-8a2f-9099229130c1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_YHqDyt": {
           "type": "slide",
           "settings": {
@@ -47,11 +29,29 @@
             "color_scheme": "scheme-5",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_wFUX39": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/l-orto-new-bitossi-home-collection.webp",
+            "heading": "L'orto",
+            "heading_size": "h0",
+            "subheading": "<strong>Pomodori, cavoli, carciofi e foglie diventano protagonisti di una tavola ironica, creativa e sorprendentemente elegante.</strong>",
+            "button_label": "Soprila Ora!",
+            "link": "shopify://collections/lorto-bitossi-home",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-2e5c87f5-32a3-471b-8a2f-9099229130c1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
-        "slide_wFUX39",
-        "slide_YHqDyt"
+        "slide_YHqDyt",
+        "slide_wFUX39"
       ],
       "settings": {
         "layout": "full_bleed",
