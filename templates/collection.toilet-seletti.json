@@ -31,6 +31,16 @@
             "link": "https://www.unicoemultiplo.com/collections/seletti-catalogo-prodotti-toiletpaper?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=CUCINA+%26+TAVOLA"
           }
         },
+        "column_yLtjNV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/TP_PETS_CUSHIONS_LIFESTYLE_FLOATING.webp",
+            "title": "",
+            "text": "<p>Toiletpaper Pets</p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-toiletpaper-pets"
+          }
+        },
         "column_ccRecz": {
           "type": "column",
           "settings": {
@@ -54,30 +64,20 @@
         "column_ymYqfT": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/idee-regalo-seletti.webp",
+            "image": "shopify://shop_images/Seletti-Frames-Mirrors-scaled.webp",
             "title": "",
             "text": "<p>Idee Regalo<br/></p>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/seletti-catalogo-prodotti-toiletpaper?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=IDEE+REGALO"
           }
-        },
-        "column_yLtjNV": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/TP_PETS_CUSHIONS_LIFESTYLE_FLOATING.webp",
-            "title": "",
-            "text": "<p>Toiletpaper Pets</p>",
-            "link_label": "",
-            "link": "shopify://collections/seletti-toiletpaper-pets"
-          }
         }
       },
       "block_order": [
         "column_HFbdPQ",
+        "column_yLtjNV",
         "column_ccRecz",
         "column_x7XrbV",
-        "column_ymYqfT",
-        "column_yLtjNV"
+        "column_ymYqfT"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
