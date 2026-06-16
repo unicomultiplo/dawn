@@ -263,6 +263,12 @@
         "featured_collection_rUqiVW": {
           "type": "featured_collection",
           "settings": {
+            "collection": "unico-multiplo"
+          }
+        },
+        "featured_collection_CqbJCj": {
+          "type": "featured_collection",
+          "settings": {
             "collection": "vanilla-fly"
           }
         },
@@ -286,6 +292,7 @@
         "featured_collection_XjBFQc",
         "featured_collection_gd7zU7",
         "featured_collection_rUqiVW",
+        "featured_collection_CqbJCj",
         "featured_collection_APeCpT",
         "featured_collection_HWQTkJ"
       ],
