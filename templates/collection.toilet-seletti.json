@@ -25,8 +25,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/SELETTI-TOILETPAPER-PORCELAIN-PLATES.webp",
-            "title": "Arte della Tavola",
-            "text": "",
+            "title": "",
+            "text": "<p>Arte della Tavola</p>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/seletti-catalogo-prodotti-toiletpaper?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=CUCINA+%26+TAVOLA"
           }
@@ -35,8 +35,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/SELETTIARMCHAIRS.webp",
-            "title": "Arredo",
-            "text": "",
+            "title": "",
+            "text": "<p>Arredo</p>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/seletti-catalogo-prodotti-toiletpaper?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=ARREDO+%26+COMPLEMENTI"
           }
@@ -45,8 +45,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/toiletpaper_seletti-1.webp",
-            "title": "Oggetti Luce",
-            "text": "",
+            "title": "",
+            "text": "<p>Oggetti Luce</p>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/seletti-catalogo-prodotti-toiletpaper?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=ILLUMINAZIONE"
           }
@@ -55,10 +55,20 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Seletti-Frames-Mirrors-scaled.webp",
-            "title": "Idee Regalo",
-            "text": "",
+            "title": "",
+            "text": "<p>Idee Regalo<br/></p>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/seletti-catalogo-prodotti-toiletpaper?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=IDEE+REGALO"
+          }
+        },
+        "column_yLtjNV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/TP_PETS_CUSHIONS_LIFESTYLE_FLOATING.webp",
+            "title": "",
+            "text": "<p>Toiletpaper Pets</p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-toiletpaper-pets"
           }
         }
       },
@@ -66,7 +76,11 @@
         "column_HFbdPQ",
         "column_ccRecz",
         "column_x7XrbV",
-        "column_ymYqfT"
+        "column_ymYqfT",
+        "column_yLtjNV"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
       ],
       "settings": {
         "title": "",
