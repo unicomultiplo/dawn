@@ -220,12 +220,12 @@
         "heading_eXcWLX"
       ],
       "settings": {
-        "image": "shopify://shop_images/seletti-sedie-toiletpaper-pets-new-2026-cats.webp",
+        "image": "shopify://shop_images/seletti-sedie-toiletpaper-pets-new2026.webp",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "bottom-right",
         "show_text_box": false,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "right",
         "color_scheme": "scheme-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
