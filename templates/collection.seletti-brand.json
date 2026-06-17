@@ -198,8 +198,8 @@
         "buttons_JLXXhx": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Scopri l’universo Seletti!",
-            "button_link_1": "shopify://collections/seletti-catalogo-prodotti-marcantonio",
+            "button_label_1": "Scopri l’universo Toiletpaper Pets!",
+            "button_link_1": "shopify://collections/seletti-toiletpaper-pets",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -220,7 +220,7 @@
         "heading_eXcWLX"
       ],
       "settings": {
-        "image": "shopify://shop_images/seletti-tiny-la-timida-moon-brain-wash-kintsugi-wonder.png",
+        "image": "shopify://shop_images/seletti-toiletpaper-pets-novita2026.webp",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "top-center",
