@@ -198,7 +198,7 @@
         "buttons_JLXXhx": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Scopri l’universo Toiletpaper Pets!",
+            "button_label_1": "NEW! Toiletpaper Pets!",
             "button_link_1": "shopify://collections/seletti-toiletpaper-pets",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -220,7 +220,7 @@
         "heading_eXcWLX"
       ],
       "settings": {
-        "image": "shopify://shop_images/seletti-sedie-toiletpaper-pets-new2026.webp",
+        "image": "shopify://shop_images/seletti_sfondocielo-best-seller.gif",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "bottom-center",
@@ -249,7 +249,7 @@
         "column_X88kPE": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-Hybrid.webp",
+            "image": "shopify://shop_images/seletti-hybrd-tazze.jpg",
             "title": "<strong>Hybrid </strong>➝",
             "text": "<p>Per una tavola scenografica.</p>",
             "link_label": "",
@@ -259,7 +259,7 @@
         "column_qENU8G": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/toiletpaper-seletti-idee-regalo-iconiche.webp",
+            "image": "shopify://shop_images/seletti-toiletpaper-snakes.webp",
             "title": "<strong>Toiletpaper </strong>➝",
             "text": "<p>Per chi ama rompere le regole.</p>",
             "link_label": "",
@@ -269,7 +269,7 @@
         "column_cK6ib3": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/09920_LOVE_IN_BLOOM_LIFESTYLE_BLUE_FLOWER.webp",
+            "image": "shopify://shop_images/love_in_bloom_cielo_seletti-macantonio.gif",
             "title": "<strong>Love in Bloom </strong>➝",
             "text": "<p>Per sorprendere, anche quando pensi di non avere idee.</p>",
             "link_label": "",
