@@ -31,19 +31,19 @@
             "link": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual"
           }
         },
-        "column_7yaUAU": {
+        "column_wppV7z": {
           "type": "column",
           "settings": {
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/vetro-borosilicato"
+            "link": ""
           }
         }
       },
       "block_order": [
         "column_Tk9def",
-        "column_7yaUAU"
+        "column_wppV7z"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -53,7 +53,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 2,
+        "columns_desktop": 1,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
