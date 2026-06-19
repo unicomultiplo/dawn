@@ -315,6 +315,7 @@
         "column_EnYmWU": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/knindustrie-groove-set-6-tumbler-tronco-cono-3.webp",
             "title": "<strong>Leggerezza da utilizzare ogni giorno</strong>",
             "text": "<p>Il vetro borosilicato offre una piacevole sensazione di leggerezza che rende l'utilizzo quotidiano semplice e naturale.</p>",
             "link_label": "👉 Scopri il bicchiere",
@@ -324,6 +325,7 @@
         "column_i7ifeJ": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/knindustrie-lime-lane-tumbler.webp",
             "title": "<strong>Pensato per bevande calde e fredde</strong>",
             "text": "<p>La sua resistenza agli sbalzi termici lo rende particolarmente apprezzato per tè, tisane e infusioni.</p>",
             "link_label": "👉 Scopri la teiera",
