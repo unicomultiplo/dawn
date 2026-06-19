@@ -118,7 +118,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>Perché il cambio di stagione crea sempre disordine ➝</li></ul>",
+            "text": "<ul><li>Cos'è il Vetro Borosilicato ➝</li></ul>",
             "link_label": "",
             "link": "#shopify-section-template--25700835852553__multicolumn_BtLArj"
           }
@@ -127,7 +127,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>Da dove iniziare: selezionare prima di riorganizzare ➝</li></ul>",
+            "text": "<ul><li>Differenze dal Vetro Tradizionale ➝</li></ul>",
             "link_label": "",
             "link": "#shopify-section-template--25700835852553__image_with_text_CM6mRN"
           }
@@ -136,52 +136,16 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>Come organizzare un armadio piccolo senza rinunciare a nulla ➝</li></ul>",
+            "text": "<ul><li>Cristallo e Vetro Borosilicato ➝</li></ul>",
             "link_label": "",
             "link": "#shopify-section-template--25700835852553__image_with_text_AxkmYJ"
-          }
-        },
-        "column_Ey4w4m": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<ul><li>Come organizzare una cabina armadio in modo elegante e funzionale ➝</li></ul>",
-            "link_label": "",
-            "link": "#shopify-section-template--25700835852553__multirow_nHmjAQ"
-          }
-        },
-        "column_bnrgcr": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<ul><li>Come dividere l’armadio per stagione ➝</li></ul>",
-            "link_label": "",
-            "link": "#shopify-section-template--25700835852553__multirow_nHmjAQ"
-          }
-        },
-        "column_48EAhi": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<ul><li>5 errori che rendono l’armadio sempre disordinato ➝</li></ul>",
-            "link_label": "",
-            "link": "#shopify-section-template--25700835852553__multicolumn_bexKhm"
-          }
-        },
-        "column_zxwYYe": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<ul><li>Gli accessori indispensabili per un armadio davvero ordinato ➝</li></ul>",
-            "link_label": "",
-            "link": "#shopify-section-template--25700835852553__image_banner_cazaWW"
           }
         },
         "column_dCgpKr": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>Domande frequenti su come organizzare l’armadio➝</li></ul>",
+            "text": "<ul><li>Domande frequenti sul Vetro Borosilicato➝</li></ul>",
             "link_label": "",
             "link": "#shopify-section-template--25700835852553__collapsible_content_gi3eni"
           }
@@ -191,10 +155,6 @@
         "column_LnRFgT",
         "column_bN6gr3",
         "column_fkMzE8",
-        "column_Ey4w4m",
-        "column_bnrgcr",
-        "column_48EAhi",
-        "column_zxwYYe",
         "column_dCgpKr"
       ],
       "custom_css": [
