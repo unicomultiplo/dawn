@@ -18,65 +18,36 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_FjffwH": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_Tk9def": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Tumbler-natale-2025-bicchieri-1.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual"
-          }
-        },
-        "column_wppV7z": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_Tk9def",
-        "column_wppV7z"
-      ],
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
+    "custom_liquid_xxkqYV": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "title": "Vetro Borosilicato: Cos'è, Caratteristiche e Perché Viene Scelto per la Tavola Contemporanea",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
+        "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h1>{{ page.title }}</h1>\n</div>\n</section>",
         "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 28,
-        "padding_bottom": 20
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_DgJxnQ": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/le-forme-del-bere-come-scegliere-il-giusto-bicchiere.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "multicolumn_xxGrrA": {
       "type": "multicolumn",
       "blocks": {
-        "column_Tp6qBM": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_DhWp9r": {
           "type": "column",
           "settings": {
@@ -85,29 +56,38 @@
             "link_label": "🍸 Scopri subito la nostra selezione in Vetro Borosilicato",
             "link": "shopify://collections/vetro-borosilicato"
           }
+        },
+        "column_Tp6qBM": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "column_Tp6qBM",
-        "column_DhWp9r"
+        "column_DhWp9r",
+        "column_Tp6qBM"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
       "settings": {
         "title": "",
-        "heading_size": "h0",
+        "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
-        "column_alignment": "center",
+        "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 8,
+        "padding_top": 28,
         "padding_bottom": 8
       }
     },
@@ -1070,7 +1050,8 @@
   },
   "order": [
     "main",
-    "multicolumn_FjffwH",
+    "custom_liquid_xxkqYV",
+    "image_banner_DgJxnQ",
     "multicolumn_xxGrrA",
     "multicolumn_6fXjNw",
     "multicolumn_Anyn8K",
