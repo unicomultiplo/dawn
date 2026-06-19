@@ -246,50 +246,6 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_BtLArj": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_9Kq9Ny": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_qJfQG6": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Ogni anno la scena è la stessa: scatole aperte sul letto, pile di vestiti fuori stagione e la sensazione che l’armadio sia sempre più pieno.<br/><br/>Il motivo è semplice. <strong>Il cambio di stagione viene spesso affrontato come uno spostamento veloce dei vestiti, </strong>non come una vera riorganizzazione dello spazio.</p><p>Si tolgono i capi invernali per fare spazio a quelli estivi, oppure il contrario, ma senza un criterio preciso. Il risultato è un armadio più pieno, meno leggibile e difficile da mantenere ordinato.<br/><br/>Il<strong> cambio di stagione dovrebbe invece diventare l’occasione perfetta per riorganizzare l’armadio </strong>e creare un sistema più funzionale per i mesi successivi.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_9Kq9Ny",
-        "column_qJfQG6"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Perché il cambio di stagione crea sempre disordine",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
     "multicolumn_7pqqwm": {
       "type": "multicolumn",
       "blocks": {
@@ -341,7 +297,7 @@
         "heading_VzREwc": {
           "type": "heading",
           "settings": {
-            "heading": "Da dove iniziare: selezionare prima di riorganizzare",
+            "heading": "Cos'è il vetro borosilicato?",
             "heading_size": "h1"
           }
         },
@@ -423,7 +379,7 @@
         "column_bcCJfe"
       ],
       "settings": {
-        "title": "",
+        "title": "Perché viene scelto?",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
@@ -435,54 +391,6 @@
         "color_scheme": "scheme-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "image_with_text_AxkmYJ": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_YtcjtD": {
-          "type": "heading",
-          "settings": {
-            "heading": "Come organizzare un armadio piccolo senza rinunciare a nulla",
-            "heading_size": "h1"
-          }
-        },
-        "text_r8DwMF": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Uno spazio ridotto non è necessariamente un problema. Spesso è solo una questione di <strong>organizzazione</strong>.</p><p>In un armadio piccolo è fondamentale <strong>sfruttare lo spazio verticale</strong>. I ripiani alti e il fondo dell’armadio possono diventare preziosi se utilizzati con i contenitori giusti.</p><p>Le <strong>scatole impilabili</strong> permettono di separare maglieria, accessori e capi fuori stagione mantenendo lo spazio ordinato e visivamente più pulito.</p><p>Anche i cassetti diventano molto più funzionali con l’aiuto dei <strong>divisori</strong>, che permettono di separare cinture, foulard, calze e piccoli accessori.</p><p>Con un <strong>sistema semplice di contenitori e divisori </strong>è possibile organizzare l’armadio piccolo in modo molto più efficiente.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_ctDdfX": {
-          "type": "button",
-          "settings": {
-            "button_label": "Le nostre proposte →",
-            "button_link": "shopify://collections/complementi-arredo-scatole-armadio",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_YtcjtD",
-        "text_r8DwMF",
-        "button_ctDdfX"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/cambina-armadio-organizzare-cambio-stagione.webp",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 0
       }
@@ -1167,11 +1075,9 @@
     "multicolumn_6fXjNw",
     "multicolumn_Anyn8K",
     "multicolumn_VR4EHF",
-    "multicolumn_BtLArj",
     "multicolumn_7pqqwm",
     "image_with_text_CM6mRN",
     "multicolumn_qjWjLF",
-    "image_with_text_AxkmYJ",
     "collapsible_content_dqtXmG",
     "featured_collection_q8jCYY",
     "multirow_nHmjAQ",
