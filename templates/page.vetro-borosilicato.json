@@ -382,108 +382,9 @@
         "padding_bottom": 0
       }
     },
-    "collapsible_content_dqtXmG": {
-      "type": "collapsible-content",
-      "blocks": {
-        "collapsible_row_mwf3Yf": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Scatole traspiranti e pieghevoli:",
-            "icon": "check_mark",
-            "row_content": "<p>Il vantaggio delle scatole pieghevoli è che, durante il cambio di stagione, se ne avanza qualcuna puoi semplicemente piegarla e riporla occupando il minimo spazio.</p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_7zUNY3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Protezione completa",
-            "icon": "check_mark",
-            "row_content": "<p>Il coperchio con cerniera mantiene il contenuto al riparo da polvere, umidità e sporco, garantendo vestiti sempre puliti e ordinati.</p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_T8ckV7": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Praticità d’uso",
-            "icon": "check_mark",
-            "row_content": "<p>La cerniera consente di aprire e chiudere facilmente la scatola, senza doverla smontare o spostare.</p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_XXcX9D": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Ordine e organizzazione",
-            "icon": "check_mark",
-            "row_content": "<p>Perfette per suddividere capi e accessori per stagione o tipologia, aiutano a mantenere l’armadio sempre ordinato.</p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_ANxgah": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Salvaspazio",
-            "icon": "check_mark",
-            "row_content": "<p>Grazie alla forma rettangolare e ai coperchi, le scatole si impilano in modo stabile, sfruttando al meglio lo spazio disponibile.</p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_XQDTce": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Versatilità",
-            "icon": "check_mark",
-            "row_content": "<p>Ideali non solo per l’armadio, ma anche per ripostigli, mensole o sotto letto.</p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_hAPrqz": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Estetica curata",
-            "icon": "check_mark",
-            "row_content": "<p>Disponibili in diversi colori, rendono l’organizzazione più gradevole anche alla vista.</p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_row_mwf3Yf",
-        "collapsible_row_7zUNY3",
-        "collapsible_row_T8ckV7",
-        "collapsible_row_XXcX9D",
-        "collapsible_row_ANxgah",
-        "collapsible_row_XQDTce",
-        "collapsible_row_hAPrqz"
-      ],
-      "name": "t:sections.collapsible_content.presets.name",
-      "settings": {
-        "caption": "",
-        "heading": "Scatole da armadio con cerniere e coperchi: i vantaggi!",
-        "heading_size": "h2",
-        "heading_alignment": "center",
-        "layout": "none",
-        "color_scheme": "scheme-1",
-        "container_color_scheme": "scheme-1",
-        "open_first_collapsible_row": true,
-        "image": "shopify://shop_images/reisenthel-scatole-armadio_-_cambio-di-stagione.png",
-        "image_ratio": "adapt",
-        "desktop_layout": "image_first",
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
     "featured_collection_q8jCYY": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "title": "Scopri le nostre scatole da armadio in tessuto tecnico ideali per proteggere con stile.",
@@ -541,6 +442,7 @@
         "row_ji6iCF",
         "row_E7FE39"
       ],
+      "disabled": true,
       "name": "t:sections.multirow.presets.name",
       "settings": {
         "image_height": "small",
@@ -584,6 +486,7 @@
         "column_tcMfpn",
         "column_EQPP6K"
       ],
+      "disabled": true,
       "settings": {
         "title": "5 errori che rendono l’armadio sempre disordinato",
         "heading_size": "h1",
@@ -635,6 +538,7 @@
         "text_UrUaMN",
         "buttons_bVr7JG"
       ],
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/come-organizzare-l-armadio-accessori-cambio-stagione-decluttering.webp",
@@ -681,6 +585,7 @@
         "text_cdJtez",
         "button_tEkbTL"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/Stendibiancheria-Eclipse-3ripiani-ecru-con-schermo-joseph-joseph.webp",
@@ -700,6 +605,7 @@
     },
     "video_nVJMEL": {
       "type": "video",
+      "disabled": true,
       "name": "t:sections.video.presets.name",
       "settings": {
         "heading": "<a href=\"/products/joseph-joseph-eclipse-stendibiancheria-3-ripiani-con-schermo-ecru\" title=\"Joseph Joseph Eclipse Stendibiancheria 3 ripiani con schermo Ecrù\">👉 Scopri Joseph Joseph Eclipse Stendibiancheria 3 ripiani con schermo Ecrù</a>",
@@ -746,6 +652,7 @@
         "text_8PrNhr",
         "button_t4afDf"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/5000015-joseph-joseph-Cesto-portabiancheria-pieghevole-Hold-All-Ecru-35litri.webp",
@@ -824,6 +731,7 @@
         "column_adq6Vw",
         "column_NG6h9t"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -844,6 +752,7 @@
     },
     "featured_collection_CJ7bQY": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "title": "👉 Guarda la nostra selezione di accessori per lavanderia",
@@ -898,6 +807,7 @@
         "column_kwipJ8",
         "column_hNy6An"
       ],
+      "disabled": true,
       "custom_css": [],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -923,9 +833,9 @@
         "collapsible_row_qtMxYD": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Come organizzare un armadio molto pieno?",
+            "heading": "Il vetro borosilicato è resistente al calore?",
             "icon": "lightning_bolt",
-            "row_content": "<p>Quando l’armadio è molto pieno la prima cosa da fare è <strong>selezionare i capi e dividerli </strong>per categoria. Utilizzare contenitori, <a href=\"/collections/complementi-arredo-scatole-armadio\" title=\"Scatole per Armadio\"><strong>scatole e divisori</strong></a> permette di separare maglieria, accessori e capi fuori stagione mantenendo lo spazio più <strong>ordinato e facile da gestire.</strong></p>",
+            "row_content": "<p>Sì. È progettato per offrire una maggiore resistenza agli sbalzi termici rispetto al vetro tradizionale.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -933,9 +843,9 @@
         "collapsible_row_VmNf4w": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Come organizzare un armadio piccolo senza perdere spazio?",
+            "heading": "Qual è la differenza tra vetro borosilicato e vetro normale?",
             "icon": "lightning_bolt",
-            "row_content": "<p>In un armadio piccolo è fondamentale sfruttare lo<strong> spazio verticale. </strong><a href=\"/collections/complementi-arredo-scatole-armadio\" title=\"Scatole per Armadio\"><strong>Contenitori impilabili</strong></a>, organizer sospesi e divisori per cassetti permettono di creare più livelli e mantenere ogni capo facilmente accessibile.</p>",
+            "row_content": "<p>La principale differenza risiede nella composizione. La presenza dell'ossido di boro contribuisce a migliorare la stabilità alle variazioni di temperatura e la durata del materiale.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -943,39 +853,9 @@
         "collapsible_row_J4Jq94": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Ogni quanto bisogna fare il cambio di stagione?",
+            "heading": "Il vetro borosilicato assorbe odori o sapori?",
             "icon": "lightning_bolt",
-            "row_content": "<p>Il cambio di stagione si fa generalmente due volte l’anno, all<strong>’inizio della primavera e dell’autunno.</strong> Questo momento è ideale per selezionare i capi, liberare spazio e <a href=\"https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual\" title=\"Kit cambio di Stagione\"><strong>riorganizzare l’armadio</strong></a> in modo più funzionale.</p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_iNhR9g": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Meglio scatole o divisori per organizzare l’armadio?",
-            "icon": "lightning_bolt",
-            "row_content": "<p>Le scatole sono ideali per conservare capi fuori stagione e maglieria, mentre i divisori sono perfetti per organizzare accessori e piccoli indumenti nei cassetti. <a href=\"/collections/complementi-arredo-scatole-armadio\" title=\"Scatole per Armadio\"><strong>Utilizzarli insieme</strong></a> permette di mantenere l’armadio più ordinato nel tempo.</p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_gJYXrx": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Come organizzare i cassetti dell’armadio?",
-            "icon": "lightning_bolt",
-            "row_content": "<p>Per organizzare i cassetti dell’armadio è utile utilizzare<strong> divisori o piccoli contenitori </strong>che separano calze, cinture, foulard e accessori. In questo modo ogni elemento ha il suo spazio e il cassetto rimane ordinato più a lungo.</p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_fmPbPi": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Come mantenere l’armadio ordinato nel tempo?",
-            "icon": "lightning_bolt",
-            "row_content": "<p>Per mantenere l’armadio ordinato è importante creare un sistema semplice e ripetibile. <strong>Utilizzare </strong><a href=\"/collections/complementi-arredo-scatole-armadio\" title=\"Scatole per Armadio\"><strong>contenitori coordinati</strong></a><strong>, divisori per cassetti e organizzare i capi per categoria</strong> permette di mantenere ordine più a lungo e di trovare subito ciò che serve.</p>",
+            "row_content": "<p>No. La sua superficie liscia e non porosa aiuta a preservare aromi e sapori senza alterazioni.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -984,72 +864,21 @@
       "block_order": [
         "collapsible_row_qtMxYD",
         "collapsible_row_VmNf4w",
-        "collapsible_row_J4Jq94",
-        "collapsible_row_iNhR9g",
-        "collapsible_row_gJYXrx",
-        "collapsible_row_fmPbPi"
+        "collapsible_row_J4Jq94"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
         "caption": "FAQ",
-        "heading": "Domande frequenti su come organizzare l’armadio",
+        "heading": "Domande frequenti sul Vetro Borosilicato",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
         "color_scheme": "",
         "container_color_scheme": "",
         "open_first_collapsible_row": true,
-        "image": "shopify://shop_images/LaundryEcruRange-cambio-stagione-armadio-organizzato-e-funzionale.webp",
-        "image_ratio": "adapt",
+        "image": "shopify://shop_images/knindustrie-lime-line-bicchieri_1.webp",
+        "image_ratio": "small",
         "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_9Y3Kef": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_FMRTMj": {
-          "type": "heading",
-          "settings": {
-            "heading": "📝 Conclusione:",
-            "heading_size": "h1"
-          }
-        },
-        "text_xXpcd9": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Organizzare l’armadio</strong> non significa solo piegare meglio i vestiti. Significa creare uno spazio funzionale che renda la <strong>vita quotidiana più semplice</strong>.</p><p>Con un metodo chiaro, una selezione consapevole dei capi e gli accessori giusti è possibile trasformare anche l’armadio più pieno in uno <strong>spazio ordinato e facile da gestire.</strong></p><p>Con<strong> pochi prodotti</strong> scelti con cura e un minimo di <strong>organizzazione</strong>, puoi renderlo un’occasione per prenderti cura del tuo spazio, dei tuoi vestiti e (perché no?) anche di te stessa.</p><p>Noi di <em>Unico & Multiplo</em> ti aiutiamo a farlo con <strong>stile, funzionalità e un pizzico di bellezza.</strong></p>",
-            "text_style": "body"
-          }
-        },
-        "button_RKCARa": {
-          "type": "button",
-          "settings": {
-            "button_label": "🧰 Kit perfetto per il cambio stagione →",
-            "button_link": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_FMRTMj",
-        "text_xXpcd9",
-        "button_RKCARa"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/cambio-armadio-stagione-decluttering.webp",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -1066,7 +895,6 @@
     "multicolumn_7pqqwm",
     "image_with_text_CM6mRN",
     "multicolumn_qjWjLF",
-    "collapsible_content_dqtXmG",
     "featured_collection_q8jCYY",
     "multirow_nHmjAQ",
     "multicolumn_bexKhm",
@@ -1077,7 +905,6 @@
     "multicolumn_cdCAzB",
     "featured_collection_CJ7bQY",
     "multicolumn_6t3PtW",
-    "collapsible_content_gi3eni",
-    "image_with_text_9Y3Kef"
+    "collapsible_content_gi3eni"
   ]
 }
