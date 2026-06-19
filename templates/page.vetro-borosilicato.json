@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "padding_top": 20,
@@ -20,33 +21,35 @@
     "multicolumn_FjffwH": {
       "type": "multicolumn",
       "blocks": {
-        "column_7yaUAU": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Se ogni mattina perdi tempo davanti a un <strong>armadio pieno ma disordinato</strong>, il <strong>problema </strong>non è la quantità di vestiti. È <strong>l’organizzazione dello spazio.<br/></strong><br/>Un <strong>armadio organizzato</strong> bene rende la <strong>vita </strong>quotidiana molto più <strong>semplice</strong>: trovare ciò che cerchi diventa immediato, mantenere ordine richiede meno tempo e anche vestirsi al mattino diventa più veloce.<br/><br/>Il <strong>cambio di stagione</strong> è il momento <strong>ideale per rimettere tutto in ordine</strong> e creare un sistema che funzioni davvero. Con qualche accorgimento pratico e con gli accessori giusti – contenitori, divisori e organizer – anche un armadio piccolo può trasformarsi in uno spazio ordinato, <strong>funzionale e facile da gestire</strong>.<br/><br/>Vediamo quindi come organizzare l’armadio passo dopo passo!</p>",
-            "link_label": "🧰 Kit perfetto per il cambio stagione?",
-            "link": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual"
-          }
-        },
         "column_Tk9def": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/cambio-stagione-tips--organizzazione-armadio.webp",
+            "image": "shopify://shop_images/Tumbler-natale-2025-bicchieri-1.webp",
             "title": "",
             "text": "",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual"
           }
+        },
+        "column_7yaUAU": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Un materiale leggero, resistente e pensato per la quotidianità</strong>",
+            "text": "<p>Il vetro borosilicato è apprezzato per la sua trasparenza cristallina, la leggerezza e la capacità di resistere agli sbalzi termici.</p><p>Nato per applicazioni tecniche e scientifiche, è oggi utilizzato anche nel design contemporaneo e negli accessori per la tavola grazie al suo equilibrio tra funzionalità ed estetica.</p><p>Dalle teiere ai bicchieri, dalle bottiglie alle caraffe, il vetro borosilicato accompagna i gesti quotidiani con semplicità, eleganza e praticità.</p>",
+            "link_label": "🍸 Scopri subito la nostra selezione in Vetro Borosilicato",
+            "link": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual"
+          }
         }
       },
       "block_order": [
-        "column_7yaUAU",
-        "column_Tk9def"
+        "column_Tk9def",
+        "column_7yaUAU"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
       "settings": {
-        "title": "",
+        "title": "Vetro Borosilicato: Cos'è, Caratteristiche e Perché Viene Scelto per la Tavola Contemporanea",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
