@@ -197,7 +197,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><em>🎯 </em>Il segreto per un cambio di stagione efficace non è solo spostare i vestiti, ma <strong>fare una selezione : Decluttering!</strong><em><br/></em></p>",
+            "text": "<p><em>🎯</em>Il vetro borosilicato offre una piacevole sensazione di leggerezza che rende l'utilizzo quotidiano semplice e naturale.</p>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual"
           }
@@ -284,27 +284,17 @@
         "text_XbVWhK": {
           "type": "text",
           "settings": {
-            "text": "<p>Prima di rimettere tutto nell’armadio, fermati e fai una selezione. Meno capi hai da gestire, più semplice sarà mantenere ordine nel tempo.</p><p>Quando prendi in mano <strong>ogni capo chiediti:</strong></p><ul><li>L’ho indossato nell’ultimo anno?</li><li>Mi sta ancora bene e mi fa sentire a mio agio?</li><li>È in buone condizioni?</li></ul><p><strong>Se la risposta è no, probabilmente è il momento di lasciarlo andare</strong>. Donare o mettere da parte ciò che non utilizzi libera spazio e rende l’organizzazione molto più semplice.</p><p>Solo <strong>dopo</strong> questa <strong>selezione </strong>ha senso <strong>riorganizzare </strong>davvero l’armadio.</p>",
+            "text": "<p><strong>Il vetro borosilicato</strong> è un materiale sviluppato per offrire elevate prestazioni in termini di resistenza termica e affidabilità.<br/>A differenza del vetro comune, la presenza dell'ossido di boro contribuisce a renderlo più stabile in presenza di variazioni di temperatura e adatto a molteplici utilizzi quotidiani.<br/>La sua superficie liscia e non porosa contribuisce inoltre a preservare aromi e sapori senza assorbire odori nel tempo.<br/>Per questo viene frequentemente utilizzato nella realizzazione di: Bicchieri e tazze, Teiere, Bottiglie, Caraffe, Contenitori per alimenti, accessori per tè e caffè.</p>",
             "text_style": "body"
-          }
-        },
-        "button_icWmT4": {
-          "type": "button",
-          "settings": {
-            "button_label": "Grucce coordinate = Armadio ordinato →",
-            "button_link": "shopify://collections/complementi-arredo-appendiabiti-e-grucce",
-            "button_style_secondary": true
           }
         }
       },
       "block_order": [
         "heading_VzREwc",
-        "text_XbVWhK",
-        "button_icWmT4"
+        "text_XbVWhK"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/brabantia-appendiabiti-cambio-di-stagione.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -325,45 +315,62 @@
         "column_EnYmWU": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/brabantia-gruccia-set-4-grucce-in-alluminio-linn-1.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Con le grucce giuste eviti che gli abiti scivolino o si deformino",
-            "link": "shopify://products/3150-brabantia-gruccia-set-4-grucce-in-alluminio-nero-linn"
+            "title": "<strong>Leggerezza da utilizzare ogni giorno</strong>",
+            "text": "<p>Il vetro borosilicato offre una piacevole sensazione di leggerezza che rende l'utilizzo quotidiano semplice e naturale.</p>",
+            "link_label": "👉 Scopri il bicchiere",
+            "link": ""
           }
         },
-        "column_3ChXTK": {
+        "column_i7ifeJ": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/brabantia-gruccia-set-4-grucce-in-alluminio-linn-6.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Con le grucce coordinate risparmi spazio",
-            "link": "shopify://collections/complementi-arredo-appendiabiti-e-grucce"
+            "title": "<strong>Pensato per bevande calde e fredde</strong>",
+            "text": "<p>La sua resistenza agli sbalzi termici lo rende particolarmente apprezzato per tè, tisane e infusioni.</p>",
+            "link_label": "👉 Scopri la teiera",
+            "link": ""
           }
         },
-        "column_bcCJfe": {
+        "column_nPrjEk": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/brabantia-laundry-set-3-grucce-soft-touch-rivestite-in-tessuto.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Con un appendiabiti dai un tocco da boutique al tuo guardaroba",
-            "link": "shopify://collections/complementi-arredo-appendiabiti-e-grucce"
+            "title": "<strong>Trasparenza che valorizza ogni dettaglio</strong>",
+            "text": "<p>La luminosità del materiale mette in risalto colori, infusioni e preparazioni con un'estetica essenziale e raffinata.</p>",
+            "link_label": "👉 Scopri la collezione",
+            "link": ""
+          }
+        },
+        "column_CE7pX4": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Trasparenza che valorizza ogni dettaglio</strong>",
+            "text": "<p>La luminosità del materiale mette in risalto colori, infusioni e preparazioni con un'estetica essenziale e raffinata.</p>",
+            "link_label": "👉 Scopri la collezione",
+            "link": ""
+          }
+        },
+        "column_th7wiF": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Pensato per durare nel tempo</strong>",
+            "text": "<p>Oggetti progettati per accompagnare la quotidianità con semplicità e funzionalità.</p>",
+            "link_label": "👉 Scopri la collezione",
+            "link": ""
           }
         }
       },
       "block_order": [
         "column_EnYmWU",
-        "column_3ChXTK",
-        "column_bcCJfe"
+        "column_i7ifeJ",
+        "column_nPrjEk",
+        "column_CE7pX4",
+        "column_th7wiF"
       ],
       "settings": {
         "title": "Perché viene scelto?",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 3,
+        "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
