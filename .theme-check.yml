@@ -2,3 +2,24 @@ MatchingTranslations:
   enabled: false
 TemplateLength:
   enabled: false
+
+# Dawn uses dynamic tag names (e.g. <sticky-header> vs <div>) via Liquid
+# conditionals inside the opening tag. The parser can't handle this pattern
+# even though it's valid Shopify Liquid.
+LiquidHTMLSyntaxError:
+  ignore:
+    - sections/header.liquid
+
+# Third-party Shogun page-builder app snippet. It intentionally wraps
+# content_for_header to inject its own scripts — modifying the snippet
+# would break the app.
+ContentForHeaderModification:
+  ignore:
+    - snippets/shogun-content-handler.liquid
+
+# "templates" is a valid Shopify section schema property that restricts
+# which templates a section can be added to. theme-check incorrectly flags
+# it as unknown.
+ValidSchema:
+  ignore:
+    - sections/email-signup-banner.liquid
