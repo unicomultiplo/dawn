@@ -54,7 +54,12 @@
 {%- style -%}
   .collection-hero__description.to-expand {
     max-height: 555px;
-    
+  }
+
+  @media screen and (max-width: 749px) {
+    .collection-hero__description.to-expand {
+      max-height: 250px;
+    }
   }
 
   .collection-hero__description.to-expand .collection-hero__description__expand {
@@ -91,8 +96,9 @@
 
   if (collectionHeroEl && collectionReadMoreEl) {
     const collectionHeroHeight = collectionHeroEl.getBoundingClientRect().height;
+    const threshold = window.matchMedia('(max-width: 749px)').matches ? 250 : 555;
 
-    if (collectionHeroHeight > 555) {
+    if (collectionHeroHeight > threshold) {
       collectionHeroEl.classList.add('to-expand');
     }
     
