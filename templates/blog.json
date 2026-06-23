@@ -338,16 +338,6 @@
     "multicolumn_xYAXka": {
       "type": "multicolumn",
       "blocks": {
-        "column_gPqQMV": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/come-organizzare-l-armadio-accessori-cambio-di-stagione.png",
-            "title": "",
-            "text": "",
-            "link_label": "Cambio di stagione, guida completa",
-            "link": "shopify://pages/il-grande-classico-come-fare-il-cambio-di-stagione-e-non-impazzire"
-          }
-        },
         "column_KmWNfm": {
           "type": "column",
           "settings": {
@@ -356,6 +346,16 @@
             "text": "",
             "link_label": "Bone China, scopri la Porcellana Più Elegante",
             "link": "shopify://pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola"
+          }
+        },
+        "column_HKTVrK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-bicchiere-sparky-lara-caffi-20.webp",
+            "title": "",
+            "text": "",
+            "link_label": "Vetro Borosilicato, perchè sceglierlo?",
+            "link": "shopify://pages/padelle-antiaderenti-guida-completa"
           }
         },
         "column_hxikiy": {
@@ -377,13 +377,24 @@
             "link_label": "Consigli per le Tue Bomboniere",
             "link": "https://www.unicoemultiplo.com/pages/bomboniere-brandani"
           }
+        },
+        "column_gPqQMV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/come-organizzare-l-armadio-accessori-cambio-di-stagione.png",
+            "title": "",
+            "text": "",
+            "link_label": "Cambio di stagione, guida completa",
+            "link": "shopify://pages/il-grande-classico-come-fare-il-cambio-di-stagione-e-non-impazzire"
+          }
         }
       },
       "block_order": [
-        "column_gPqQMV",
         "column_KmWNfm",
+        "column_HKTVrK",
         "column_hxikiy",
-        "column_C3bNqP"
+        "column_C3bNqP",
+        "column_gPqQMV"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -391,7 +402,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 4,
+        "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
