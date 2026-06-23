@@ -100,7 +100,7 @@
             "title": "",
             "text": "<ul><li>Cos'è il Vetro Borosilicato ➝</li></ul>",
             "link_label": "",
-            "link": "#shopify-section-template--25700835852553__multicolumn_BtLArj"
+            "link": "#shopify-section-template--26184196292873__image_with_text_CM6mRN"
           }
         },
         "column_bN6gr3": {
@@ -127,7 +127,7 @@
             "title": "",
             "text": "<ul><li>Domande frequenti sul Vetro Borosilicato➝</li></ul>",
             "link_label": "",
-            "link": "#shopify-section-template--25700835852553__collapsible_content_gi3eni"
+            "link": "#shopify-section=template--26184196292873__collapsible_content"
           }
         }
       },
@@ -295,7 +295,8 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "height": "adapt",
+        "image": "shopify://shop_images/alzata-knindustrie.webp",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
@@ -318,34 +319,36 @@
             "image": "shopify://shop_images/knindustrie-groove-set-6-tumbler-tronco-cono-3.webp",
             "title": "<strong>Leggerezza da utilizzare ogni giorno</strong>",
             "text": "<p>Il vetro borosilicato offre una piacevole sensazione di leggerezza che rende l'utilizzo quotidiano semplice e naturale.</p>",
-            "link_label": "👉 Scopri il bicchiere",
-            "link": ""
+            "link_label": "👉 Scopri i bicchieri",
+            "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
           }
         },
         "column_i7ifeJ": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-lime-lane-tumbler.webp",
+            "image": "shopify://shop_images/2469-knindustrie-the-kettle-bollilatte-10.webp",
             "title": "<strong>Pensato per bevande calde e fredde</strong>",
             "text": "<p>La sua resistenza agli sbalzi termici lo rende particolarmente apprezzato per tè, tisane e infusioni.</p>",
-            "link_label": "👉 Scopri la teiera",
-            "link": ""
+            "link_label": "👉 Scopri le pentole",
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-pentole-padelle-tegami?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Vetro+Borosilicato&sort_by=manual"
           }
         },
         "column_nPrjEk": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/knIndustrie-centrotavola-vetro-verde-qsvqe4s2ldj8rqsodhp18tfrvozao861d2dfxyujkw.jpg",
             "title": "<strong>Trasparenza che valorizza ogni dettaglio</strong>",
             "text": "<p>La luminosità del materiale mette in risalto colori, infusioni e preparazioni con un'estetica essenziale e raffinata.</p>",
             "link_label": "👉 Scopri la collezione",
-            "link": ""
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-centrotavola-e-alzate?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Vetro+Borosilicato&sort_by=manual"
           }
         },
         "column_CE7pX4": {
           "type": "column",
           "settings": {
-            "title": "<strong>Trasparenza che valorizza ogni dettaglio</strong>",
-            "text": "<p>La luminosità del materiale mette in risalto colori, infusioni e preparazioni con un'estetica essenziale e raffinata.</p>",
+            "image": "shopify://shop_images/knindustrie-rubin-alzata-in-vetro-con-piatto-in-legno-3.webp",
+            "title": "<strong>Un design essenziale e senza tempo</strong>",
+            "text": "<p>Linee pulite e materiali autentici si integrano con naturalezza negli ambienti contemporanei.</p>",
             "link_label": "👉 Scopri la collezione",
             "link": ""
           }
@@ -353,6 +356,7 @@
         "column_th7wiF": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/img-categoria-bicchieri_360x_97d2ff08-3d34-467d-b663-d7106089ebe8.webp",
             "title": "<strong>Pensato per durare nel tempo</strong>",
             "text": "<p>Oggetti progettati per accompagnare la quotidianità con semplicità e funzionalità.</p>",
             "link_label": "👉 Scopri la collezione",
