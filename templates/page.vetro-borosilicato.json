@@ -397,54 +397,6 @@
         "padding_bottom": 0
       }
     },
-    "multirow_nHmjAQ": {
-      "type": "multirow",
-      "blocks": {
-        "row_ji6iCF": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/cabina-armadio-come-fare-il-cambio-stagione.webp",
-            "caption": "",
-            "heading": "Come organizzare una cabina armadio in modo elegante e funzionale",
-            "text": "<p>Quando lo spazio è più ampio, come nel caso di una cabina armadio, l’organizzazione diventa anche una questione estetica.</p><p>Utilizzare<strong> contenitori coordinati aiuta a creare ordine visivo</strong> e rende lo spazio molto più armonioso.</p><p><strong>Dividere i capi per categoria </strong>– camicie, pantaloni, maglieria, accessori – permette di trovare subito ciò che cerchi.</p><p>Anche piccoli dettagli come cestini in fibre naturali o scatole coordinate aiutano a mantenere la cabina armadio ordinata e piacevole da utilizzare.</p>",
-            "button_label": "Inizia il cambio stagione →",
-            "button_link": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual"
-          }
-        },
-        "row_E7FE39": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/decluttering-cambio-stagione-come-organizzarlo.webp",
-            "caption": "",
-            "heading": "Come dividere l’armadio per stagione",
-            "text": "<p>Organizzare l’armadio per stagione è uno dei metodi più efficaci per mantenere ordine durante tutto l’anno.</p><p>I <strong>capi fuori stagione</strong> possono essere riposti nei ripiani più alti oppure all’interno di<strong> contenitori dedicati.</strong></p><p><strong>Le scatole con coperchio </strong>proteggono i tessuti dalla polvere e mantengono l’armadio visivamente più ordinato. Per gli abiti più delicati invece possono essere utili<strong> custodie traspiranti.</strong></p><p>Separare i capi per stagione rende l’armadio più leggibile e più semplice da gestire ogni giorno.</p>",
-            "button_label": "Tutto quello che ti serve →",
-            "button_link": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual"
-          }
-        }
-      },
-      "block_order": [
-        "row_ji6iCF",
-        "row_E7FE39"
-      ],
-      "disabled": true,
-      "name": "t:sections.multirow.presets.name",
-      "settings": {
-        "image_height": "small",
-        "desktop_image_width": "small",
-        "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "",
-        "row_color_scheme": "",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn_bexKhm": {
       "type": "multicolumn",
       "blocks": {
@@ -655,163 +607,6 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_cdCAzB": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_AhUrmf": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brabantia-borsa-per-bucato-pepper-black-55-litri.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://products/brabantia-borsa-per-bucato-pepper-black-55-litri"
-          }
-        },
-        "column_aFXKiR": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brabantia-stackable-portabiancheria-impilabile-grey-linn2.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://products/3147-brabantia-stackable-portabiancheria-impilabile-pepper-black-linn"
-          }
-        },
-        "column_3KmqnV": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/joseph-joseph-tota-90l-laundry-basket-ecru-_13.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://products/joseph-joseph-tota-90l-portabiancheria-laundry-basket-ecru"
-          }
-        },
-        "column_adq6Vw": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/joseph-joseph-Cesto-portabiancheria-pieghevole-Hold-All.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://products/joseph-joseph-hold-all-cesto-portabiancheria-pieghevole-35-litri-ecru"
-          }
-        },
-        "column_NG6h9t": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brabantia-cesto-per-la-biancheria-pieghevole-6.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://products/brabantia-cesto-per-la-biancheria-pieghevole"
-          }
-        }
-      },
-      "block_order": [
-        "column_AhUrmf",
-        "column_aFXKiR",
-        "column_3KmqnV",
-        "column_adq6Vw",
-        "column_NG6h9t"
-      ],
-      "disabled": true,
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "portrait",
-        "columns_desktop": 5,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "featured_collection_CJ7bQY": {
-      "type": "featured-collection",
-      "disabled": true,
-      "name": "t:sections.featured-collection.presets.name",
-      "settings": {
-        "title": "👉 Guarda la nostra selezione di accessori per lavanderia",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "stendibiancheria-e-portabiancheria-brabantia",
-        "products_to_show": 13,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "link",
-        "enable_desktop_slider": true,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn_6t3PtW": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_kwipJ8": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h3><strong>E per le scarpe? </strong>Shoecase di Joseph Joseph ti cambia la vita: impilabile, ventilato, elegante.<br/></h3><p><br/>Qui serve una soluzione altrettanto intelligente. Il nostro consiglio è <strong>Shoecase di Joseph Joseph</strong>: una <strong>scatola modulare per scarpe</strong> con apertura frontale ventilata e design impilabile, perfetta per proteggere sneakers, stivaletti o décolleté anche fuori stagione<br/></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_hNy6An": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Add_a_heading_9.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://products/joseph-joseph-shoecase-premium-shoe-storage-box"
-          }
-        }
-      },
-      "block_order": [
-        "column_kwipJ8",
-        "column_hNy6An"
-      ],
-      "disabled": true,
-      "custom_css": [],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "Shoecase di Joseph Joseph",
-        "button_link": "shopify://products/joseph-joseph-shoecase-premium-shoe-storage-box",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
     "custom_liquid_jTnb7B": {
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
@@ -871,11 +666,92 @@
         "show_text_below": true
       }
     },
+    "multirow_nHmjAQ": {
+      "type": "multirow",
+      "blocks": {
+        "row_E7FE39": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Knindustrie-sparky-bicchiere.webp",
+            "caption": "",
+            "heading": "",
+            "text": "<h3><strong>Un materiale che valorizza aromi e sapori</strong><br/></h3><p><strong>La superficie del vetro borosilicato è liscia e non porosa.</strong></p><p>Questa caratteristica aiuta a preservare le qualità organolettiche di tè, tisane, caffè e altre bevande, <strong>evitando l'assorbimento di odori e sapori residui.</strong></p><p>Un dettaglio che contribuisce a rendere l'esperienza di <strong>degustazione più autentica e piacevole.</strong></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_E7FE39"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_6t3PtW": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_kwipJ8": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>Pensato per accompagnare il tempo<br/><br/></strong></h3><p>Scegliere materiali durevoli significa investire in oggetti destinati a essere utilizzati a lungo.</p><p>Il vetro borosilicato è apprezzato anche per la capacità di mantenere nel tempo le proprie caratteristiche estetiche e funzionali, accompagnando la quotidianità con discrezione e affidabilità.</p><p>Una scelta che unisce praticità, bellezza e attenzione per i dettagli.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hNy6An": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Add_a_heading_9.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://products/joseph-joseph-shoecase-premium-shoe-storage-box"
+          }
+        }
+      },
+      "block_order": [
+        "column_kwipJ8",
+        "column_hNy6An"
+      ],
+      "custom_css": [],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "featured_collection_q8jCYY": {
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "title": "",
+        "title": "<strong>Dove viene utilizzato il vetro borosilicato?</strong>",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -1001,17 +877,15 @@
     "multicolumn_7pqqwm",
     "image_with_text_CM6mRN",
     "multicolumn_qjWjLF",
-    "multirow_nHmjAQ",
     "multicolumn_bexKhm",
     "image_banner_cazaWW",
     "image_with_text_PWDdLC",
     "video_nVJMEL",
     "image_with_text_RUebzm",
-    "multicolumn_cdCAzB",
-    "featured_collection_CJ7bQY",
-    "multicolumn_6t3PtW",
     "custom_liquid_jTnb7B",
     "image_banner_EJzFFe",
+    "multirow_nHmjAQ",
+    "multicolumn_6t3PtW",
     "featured_collection_q8jCYY",
     "collapsible_content_gi3eni"
   ]
