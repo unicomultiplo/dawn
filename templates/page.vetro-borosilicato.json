@@ -397,36 +397,6 @@
         "padding_bottom": 0
       }
     },
-    "featured_collection_q8jCYY": {
-      "type": "featured-collection",
-      "disabled": true,
-      "name": "t:sections.featured-collection.presets.name",
-      "settings": {
-        "title": "Scopri le nostre scatole da armadio in tessuto tecnico ideali per proteggere con stile.",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "complementi-arredo-scatole-armadio",
-        "products_to_show": 25,
-        "columns_desktop": 6,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "multirow_nHmjAQ": {
       "type": "multirow",
       "blocks": {
@@ -901,6 +871,35 @@
         "show_text_below": true
       }
     },
+    "featured_collection_q8jCYY": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "Scopri le nostre scatole da armadio in tessuto tecnico ideali per proteggere con stile.",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "vetro-borosilicato",
+        "products_to_show": 16,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "collapsible_content_gi3eni": {
       "type": "collapsible-content",
       "blocks": {
@@ -1002,7 +1001,6 @@
     "multicolumn_7pqqwm",
     "image_with_text_CM6mRN",
     "multicolumn_qjWjLF",
-    "featured_collection_q8jCYY",
     "multirow_nHmjAQ",
     "multicolumn_bexKhm",
     "image_banner_cazaWW",
@@ -1014,6 +1012,7 @@
     "multicolumn_6t3PtW",
     "custom_liquid_jTnb7B",
     "image_banner_EJzFFe",
+    "featured_collection_q8jCYY",
     "collapsible_content_gi3eni"
   ]
 }
