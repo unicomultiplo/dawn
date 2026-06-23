@@ -372,7 +372,7 @@
         "column_th7wiF"
       ],
       "settings": {
-        "title": "Perché viene scelto?",
+        "title": "<strong>Perché viene scelto?</strong>",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
@@ -865,12 +865,23 @@
             "page": "",
             "liquid_content": ""
           }
+        },
+        "collapsible_row_dd8j8B": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "",
+            "liquid_content": ""
+          }
         }
       },
       "block_order": [
         "collapsible_row_qtMxYD",
         "collapsible_row_VmNf4w",
-        "collapsible_row_J4Jq94"
+        "collapsible_row_J4Jq94",
+        "collapsible_row_dd8j8B"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
