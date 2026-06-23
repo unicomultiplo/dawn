@@ -869,9 +869,29 @@
         "collapsible_row_dd8j8B": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "È adatto per bevande calde e fredde?",
+            "icon": "lightning_bolt",
+            "row_content": "<p>Sì. Viene comunemente utilizzato sia per bevande calde sia per bevande fredde.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_fHWiAX": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Il vetro borosilicato è adatto al contatto con alimenti e bevande?",
+            "icon": "lightning_bolt",
+            "row_content": "<p>Sì. È un materiale comunemente utilizzato per prodotti destinati all'uso alimentare.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_QiChta": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Può essere lavato in lavastoviglie?",
+            "icon": "lightning_bolt",
+            "row_content": "<p>Sì. È un materiale comunemente utilizzato per prodotti destinati all'uso alimentare. Molti prodotti in vetro borosilicato sono compatibili con la lavastoviglie. È comunque consigliabile verificare sempre le indicazioni specifiche del produttore.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -881,7 +901,9 @@
         "collapsible_row_qtMxYD",
         "collapsible_row_VmNf4w",
         "collapsible_row_J4Jq94",
-        "collapsible_row_dd8j8B"
+        "collapsible_row_dd8j8B",
+        "collapsible_row_fHWiAX",
+        "collapsible_row_QiChta"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
