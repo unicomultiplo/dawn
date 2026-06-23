@@ -397,216 +397,6 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_bexKhm": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_tcMfpn": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Anche con le migliori intenzioni, alcuni errori comuni rendono difficile mantenere l’ordine.<br/><br/><strong>- Accatastare i vestiti</strong> Pile troppo alte finiscono sempre per crollare.<br/><strong>- Non sfruttare lo spazio verticale</strong> Ripiani alti e fondo dell’armadio sono spesso inutilizzati.<br/><strong>-Mescolare stagioni diverse</strong> Questo rende difficile trovare i capi giusti.<br/><strong>-Utilizzare contenitori diversi tra loro</strong> Creano disordine visivo.<br/><strong>-Non avere un sistema fisso</strong> Se ogni volta cambi metodo, l’ordine non durerà.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_EQPP6K": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_tcMfpn",
-        "column_EQPP6K"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "5 errori che rendono l’armadio sempre disordinato",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 24,
-        "padding_bottom": 24
-      }
-    },
-    "image_banner_cazaWW": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_FbGJyq": {
-          "type": "heading",
-          "settings": {
-            "heading": "Gli accessori indispensabili per un armadio davvero ordinato",
-            "heading_size": "h1"
-          }
-        },
-        "text_UrUaMN": {
-          "type": "text",
-          "settings": {
-            "text": "Per mantenere l’armadio organizzato nel tempo non basta piegare bene i vestiti. Gli accessori giusti fanno la differenza.Contenitori coordinati aiutano a separare maglieria, accessori e capi fuori stagione mantenendo l’armadio più ordinato.I divisori per cassetti permettono di organizzare piccoli accessori senza creare disordine.Gli organizer verticali invece sfruttano meglio lo spazio disponibile e permettono di moltiplicare i ripiani.Con pochi strumenti scelti bene è possibile trasformare completamente l’organizzazione dell’armadio.",
-            "text_style": "body"
-          }
-        },
-        "buttons_bVr7JG": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Kit Cambio Stagione →",
-            "button_link_1": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_FbGJyq",
-        "text_UrUaMN",
-        "buttons_bVr7JG"
-      ],
-      "disabled": true,
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/come-organizzare-l-armadio-accessori-cambio-stagione-decluttering.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "top-right",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "image_with_text_PWDdLC": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_qCEpLi": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_cdJtez": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>Uno stendino salvaspazio fa la differenza<br/></h3><p>Durante il <strong>cambio stagione </strong>si lavano tanti capi. Uno <strong>stendino </strong>solido, funzionale e salvaspazio è essenziale, soprattutto se non hai molto spazio in casa. Considera:</p><ul><li><em>stendini da parete<br/></em></li><li><em>modelli pieghevoli o estensibili<br/></em></li><li><em>materiali resistenti all'umidità.</em></li></ul><p>Perfetti anche per <strong>piccoli appartamenti</strong>.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_tEkbTL": {
-          "type": "button",
-          "settings": {
-            "button_label": "Scopri i nostri [stendini da muro e modelli compatti] →",
-            "button_link": "shopify://collections/stendibiancheria-e-portabiancheria-brabantia",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_qCEpLi",
-        "text_cdJtez",
-        "button_tEkbTL"
-      ],
-      "disabled": true,
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/Stendibiancheria-Eclipse-3ripiani-ecru-con-schermo-joseph-joseph.webp",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "video_nVJMEL": {
-      "type": "video",
-      "disabled": true,
-      "name": "t:sections.video.presets.name",
-      "settings": {
-        "heading": "<a href=\"/products/joseph-joseph-eclipse-stendibiancheria-3-ripiani-con-schermo-ecru\" title=\"Joseph Joseph Eclipse Stendibiancheria 3 ripiani con schermo Ecrù\">👉 Scopri Joseph Joseph Eclipse Stendibiancheria 3 ripiani con schermo Ecrù</a>",
-        "heading_size": "h2",
-        "enable_video_looping": true,
-        "video": "shopify://files/videos/50055_eclipse_screen_airer_ecru (1080p).mp4",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "cover_image": "shopify://shop_images/Stendibiancheria-Eclipse-3ripiani-ecru-con-schermo-joseph-joseph.webp",
-        "description": "Joseph Joseph Eclipse Stendibiancheria 3 ripiani con schermo Ecrù",
-        "full_width": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "image_with_text_RUebzm": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_jEyPcL": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_8PrNhr": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>Il dettaglio che fa la differenza? Una buona lavanderia da casa</h3><p><strong>Completa il kit con una tavola da stiro </strong>ben progettata: ti aiuta non solo durante il cambio stagione ma in ogni momento dell’anno. Se poi la abbini a una sacca portabiancheria e a dei contenitori profumati... hai appena trasformato un noioso dovere in un piccolo rituale di <strong>benessere domestico</strong>.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_t4afDf": {
-          "type": "button",
-          "settings": {
-            "button_label": "Guarda la nostra selezione di accessori per lavanderia!",
-            "button_link": "shopify://collections/stendibiancheria-e-portabiancheria-brabantia",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_jEyPcL",
-        "text_8PrNhr",
-        "button_t4afDf"
-      ],
-      "disabled": true,
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/5000015-joseph-joseph-Cesto-portabiancheria-pieghevole-Hold-All-Ecru-35litri.webp",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
     "custom_liquid_jTnb7B": {
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
@@ -679,10 +469,22 @@
             "button_label": "",
             "button_link": ""
           }
+        },
+        "row_gh3NLC": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-groove-set-6-tumbler-tronco-cono-5.webp",
+            "caption": "",
+            "heading": "",
+            "text": "<h3><strong>Pensato per accompagnare il tempo<br/><br/></strong></h3><p>Scegliere materiali durevoli significa investire in oggetti<strong> destinati a essere utilizzati a lungo.</strong></p><p><strong>Il vetro borosilicato</strong> è apprezzato anche per la capacità di mantenere nel tempo le proprie<strong> caratteristiche estetiche e funzionali</strong>, accompagnando la quotidianità con discrezione e affidabilità.</p><p><strong>Una scelta che unisce praticità, bellezza e attenzione per i dettagli.</strong></p>",
+            "button_label": "🍸 Scopri subito la nostra selezione in Vetro Borosilicato",
+            "button_link": "shopify://collections/vetro-borosilicato"
+          }
         }
       },
       "block_order": [
-        "row_E7FE39"
+        "row_E7FE39",
+        "row_gh3NLC"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
@@ -699,52 +501,6 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "multicolumn_6t3PtW": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_kwipJ8": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h3><strong>Pensato per accompagnare il tempo<br/><br/></strong></h3><p>Scegliere materiali durevoli significa investire in oggetti<strong> destinati a essere utilizzati a lungo.</strong></p><p><strong>Il vetro borosilicato</strong> è apprezzato anche per la capacità di mantenere nel tempo le proprie<strong> caratteristiche estetiche e funzionali</strong>, accompagnando la quotidianità con discrezione e affidabilità.</p><p><strong>Una scelta che unisce praticità, bellezza e attenzione per i dettagli.</strong></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_hNy6An": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-groove-brocca-cilindrica-rigata.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://products/joseph-joseph-shoecase-premium-shoe-storage-box"
-          }
-        }
-      },
-      "block_order": [
-        "column_kwipJ8",
-        "column_hNy6An"
-      ],
-      "custom_css": [],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "Scopri la collezione in vetro borosilicato",
-        "button_link": "shopify://collections/vetro-borosilicato",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 20,
-        "padding_bottom": 20
       }
     },
     "featured_collection_q8jCYY": {
@@ -774,6 +530,42 @@
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "multicolumn_Qg4ap4": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_k4ChiY": {
+          "type": "column",
+          "settings": {
+            "title": "<em>🎯</em><strong> Perché scegliamo il vetro borosilicato?</strong>",
+            "text": "<p>Nella selezione dei materiali ricerchiamo un equilibrio tra estetica, qualità e utilizzo quotidiano.</p><p>Il vetro borosilicato risponde perfettamente a questa filosofia.</p><p>Un materiale essenziale, autentico e senza tempo!</p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual"
+          }
+        }
+      },
+      "block_order": [
+        "column_k4ChiY"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "collapsible_content_gi3eni": {
@@ -877,16 +669,11 @@
     "multicolumn_7pqqwm",
     "image_with_text_CM6mRN",
     "multicolumn_qjWjLF",
-    "multicolumn_bexKhm",
-    "image_banner_cazaWW",
-    "image_with_text_PWDdLC",
-    "video_nVJMEL",
-    "image_with_text_RUebzm",
     "custom_liquid_jTnb7B",
     "image_banner_EJzFFe",
     "multirow_nHmjAQ",
-    "multicolumn_6t3PtW",
     "featured_collection_q8jCYY",
+    "multicolumn_Qg4ap4",
     "collapsible_content_gi3eni"
   ]
 }
