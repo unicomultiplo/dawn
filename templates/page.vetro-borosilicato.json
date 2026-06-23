@@ -109,7 +109,7 @@
             "title": "",
             "text": "<ul><li>Differenze dal Vetro Tradizionale ➝</li></ul>",
             "link_label": "",
-            "link": "#shopify-section-template--25700835852553__image_with_text_CM6mRN"
+            "link": "#shopify-section-template--26184196292873__custom_liquid_jTnb7B"
           }
         },
         "column_fkMzE8": {
@@ -287,18 +287,27 @@
             "text": "<p><strong>Il vetro borosilicato</strong> è un materiale sviluppato per offrire elevate prestazioni in termini di <strong>resistenza termica e affidabilità.</strong><br/>A differenza del vetro comune, la presenza dell'ossido di boro contribuisce a renderlo più<strong> stabile in presenza di variazioni di temperatura</strong> e adatto a molteplici utilizzi quotidiani.<br/>La sua superficie liscia e non porosa contribuisce inoltre a preservare aromi e sapori senza assorbire odori nel tempo.<br/><strong>Per questo viene frequentemente utilizzato</strong> nella realizzazione di: Bicchieri e tazze, Teiere, Bottiglie, Caraffe, Contenitori per alimenti, accessori per tè e caffè.</p>",
             "text_style": "body"
           }
+        },
+        "button_AbGq8f": {
+          "type": "button",
+          "settings": {
+            "button_label": "🍸 Scopri subito la nostra selezione in Vetro Borosilicato",
+            "button_link": "shopify://collections/vetro-borosilicato",
+            "button_style_secondary": true
+          }
         }
       },
       "block_order": [
         "heading_VzREwc",
-        "text_XbVWhK"
+        "text_XbVWhK",
+        "button_AbGq8f"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/alzata-knindustrie.webp",
         "height": "small",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -372,7 +381,7 @@
         "column_th7wiF"
       ],
       "settings": {
-        "title": "<strong>Perché viene scelto?</strong>",
+        "title": "<strong>Perché viene scelto? </strong>Tutte le sue qualità",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
@@ -833,6 +842,16 @@
         "padding_bottom": 20
       }
     },
+    "custom_liquid_jTnb7B": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "{% comment %}\n  Vetro Borosilicato - Sezione informativa con tabella comparativa\n{% endcomment %}\n\n<section class=\"bs-info\">\n  <div class=\"page-width\">\n\n    <h2 class=\"bs-title\">Il vetro borosilicato: differenze dal vetro tradizionale</h2>\n    <p class=\"bs-subtitle\">\n      Il vetro borosilicato unisce caratteristiche che raramente si trovano nello stesso materiale. È resistente ma leggero, raffinato ma pratico, adatto all'utilizzo quotidiano senza rinunciare all'estetica.\n    </p>\n\n    <!-- QUALITÀ PRINCIPALI -->\n    <ul class=\"bs-features\">\n      <li>Elevata resistenza agli sbalzi termici</li>\n      <li>Leggerezza</li>\n      <li>Trasparenza brillante</li>\n      <li>Superficie non porosa</li>\n      <li>Lunga durata nel tempo</li>\n    </ul>\n\n    <p class=\"bs-closing\">\n      Caratteristiche che lo rendono ideale sia per l'utilizzo quotidiano sia per una tavola più curata ed elegante.\n    </p>\n\n    <!-- TABELLA COMPARATIVA -->\n    <div class=\"bs-table\">\n      <table>\n        <thead>\n          <tr>\n            <th>Caratteristica</th>\n            <th>Vetro Tradizionale</th>\n            <th>Vetro Borosilicato</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td>Resistenza agli sbalzi termici</td>\n            <td>Standard</td>\n            <td><strong>Elevata</strong></td>\n          </tr>\n          <tr>\n            <td>Peso</td>\n            <td>Maggiore</td>\n            <td><strong>Più leggero</strong></td>\n          </tr>\n          <tr>\n            <td>Trasparenza</td>\n            <td>Buona</td>\n            <td><strong>Molto elevata</strong></td>\n          </tr>\n          <tr>\n            <td>Utilizzo con bevande calde</td>\n            <td>Limitato</td>\n            <td><strong>Ideale</strong></td>\n          </tr>\n          <tr>\n            <td>Durata nel tempo</td>\n            <td>Standard</td>\n            <td><strong>Maggiore</strong></td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n\n  </div>\n</section>\n\n<style>\n.bs-info {\n  margin: 60px 0;\n}\n\n.bs-title {\n  margin-bottom: 10px;\n}\n\n.bs-subtitle {\n  margin-bottom: 24px;\n  opacity: 0.85;\n}\n\n.bs-features {\n  list-style: none;\n  padding: 0;\n  margin: 0 0 20px 0;\n  display: flex;\n  flex-wrap: wrap;\n  gap: 10px;\n}\n\n.bs-features li {\n  background: #f4f4f4;\n  border-radius: 8px;\n  padding: 8px 16px;\n  font-size: 14px;\n  font-weight: 500;\n}\n\n.bs-closing {\n  margin-bottom: 30px;\n  opacity: 0.85;\n}\n\n.bs-table table {\n  width: 100%;\n  border-collapse: collapse;\n  margin-top: 10px;\n}\n\n.bs-table th,\n.bs-table td {\n  border: 1px solid #e5e5e5;\n  padding: 12px;\n  text-align: center;\n}\n\n.bs-table th {\n  background: #f8f8f8;\n  font-weight: 600;\n}\n\n.bs-table tbody tr:nth-child(even) {\n  background: #fafafa;\n}\n\n.bs-table td:first-child {\n  text-align: left;\n  font-weight: 500;\n}\n\n@media screen and (max-width: 749px) {\n  .bs-features {\n    flex-direction: column;\n  }\n\n  .bs-table th,\n  .bs-table td {\n    padding: 8px;\n    font-size: 13px;\n  }\n}\n</style>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "collapsible_content_gi3eni": {
       "type": "collapsible-content",
       "blocks": {
@@ -944,6 +963,7 @@
     "multicolumn_cdCAzB",
     "featured_collection_CJ7bQY",
     "multicolumn_6t3PtW",
+    "custom_liquid_jTnb7B",
     "collapsible_content_gi3eni"
   ]
 }
