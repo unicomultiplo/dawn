@@ -708,7 +708,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h3><strong>Pensato per accompagnare il tempo<br/><br/></strong></h3><p>Scegliere materiali durevoli significa investire in oggetti destinati a essere utilizzati a lungo.</p><p>Il vetro borosilicato è apprezzato anche per la capacità di mantenere nel tempo le proprie caratteristiche estetiche e funzionali, accompagnando la quotidianità con discrezione e affidabilità.</p><p>Una scelta che unisce praticità, bellezza e attenzione per i dettagli.</p>",
+            "text": "<h3><strong>Pensato per accompagnare il tempo<br/><br/></strong></h3><p>Scegliere materiali durevoli significa investire in oggetti<strong> destinati a essere utilizzati a lungo.</strong></p><p><strong>Il vetro borosilicato</strong> è apprezzato anche per la capacità di mantenere nel tempo le proprie<strong> caratteristiche estetiche e funzionali</strong>, accompagnando la quotidianità con discrezione e affidabilità.</p><p><strong>Una scelta che unisce praticità, bellezza e attenzione per i dettagli.</strong></p>",
             "link_label": "",
             "link": ""
           }
@@ -716,7 +716,7 @@
         "column_hNy6An": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Add_a_heading_9.png",
+            "image": "shopify://shop_images/knindustrie-groove-brocca-cilindrica-rigata.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -738,8 +738,8 @@
         "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "none",
-        "button_label": "",
-        "button_link": "",
+        "button_label": "Scopri la collezione in vetro borosilicato",
+        "button_link": "shopify://collections/vetro-borosilicato",
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
