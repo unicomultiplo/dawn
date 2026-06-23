@@ -197,7 +197,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><em>🎯</em>Il vetro borosilicato offre una piacevole sensazione di leggerezza che rende l'utilizzo quotidiano semplice e naturale.</p>",
+            "text": "<p><em>🎯</em><strong> Scopri cos'è il vetro borosilicato</strong>, perché viene scelto per bicchieri, teiere, bottiglie e caraffe e quali vantaggi offre rispetto al vetro tradizionale.</p>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual"
           }
@@ -284,7 +284,7 @@
         "text_XbVWhK": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Il vetro borosilicato</strong> è un materiale sviluppato per offrire elevate prestazioni in termini di <strong>resistenza termica e affidabilità.</strong><br/>A differenza del vetro comune, la presenza dell'ossido di boro contribuisce a renderlo più<strong> stabile in presenza di variazioni di temperatura</strong> e adatto a molteplici utilizzi quotidiani.<br/>La sua superficie liscia e non porosa contribuisce inoltre a preservare aromi e sapori senza assorbire odori nel tempo.<br/>Per questo viene frequentemente utilizzato nella realizzazione di: Bicchieri e tazze, Teiere, Bottiglie, Caraffe, Contenitori per alimenti, accessori per tè e caffè.</p>",
+            "text": "<p><strong>Il vetro borosilicato</strong> è un materiale sviluppato per offrire elevate prestazioni in termini di <strong>resistenza termica e affidabilità.</strong><br/>A differenza del vetro comune, la presenza dell'ossido di boro contribuisce a renderlo più<strong> stabile in presenza di variazioni di temperatura</strong> e adatto a molteplici utilizzi quotidiani.<br/>La sua superficie liscia e non porosa contribuisce inoltre a preservare aromi e sapori senza assorbire odori nel tempo.<br/><strong>Per questo viene frequentemente utilizzato</strong> nella realizzazione di: Bicchieri e tazze, Teiere, Bottiglie, Caraffe, Contenitori per alimenti, accessori per tè e caffè.</p>",
             "text_style": "body"
           }
         }
