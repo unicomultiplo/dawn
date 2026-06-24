@@ -538,10 +538,10 @@
         "column_k4ChiY": {
           "type": "column",
           "settings": {
-            "title": "<em>🎯</em><strong> Perché scegliamo il vetro borosilicato?</strong>",
-            "text": "<p>Nella selezione dei materiali ricerchiamo un equilibrio tra estetica, qualità e utilizzo quotidiano.</p><p>Il vetro borosilicato risponde perfettamente a questa filosofia.</p><p>Un materiale essenziale, autentico e senza tempo!</p>",
+            "title": "<em>🎯 </em><strong>Perché abbiamo scelto il vetro borosilicato?</strong>",
+            "text": "<p>Spesso si pensa che gli oggetti di design debbano essere trattati con troppa delicatezza, quasi guardati da lontano. Noi di <em>Unico&Multiplo</em> crediamo nel contrario: la vera bellezza di un oggetto si rivela quando entra a far parte dei gesti di ogni giorno.</p><p>Abbiamo scelto il vetro borosilicato perché elimina ogni compromesso. Ci permette di proporre oggetti dalla trasparenza cristallina e dalle linee minimali, che però non temono lo shock termico di un tè bollente o la fretta di una colazione quotidiana.<br/> È un materiale essenziale, leggero e incredibilmente durevole, pensato per chi ama circondarsi di cose belle, fatte per essere vissute.</p>",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual"
+            "link": ""
           }
         }
       },
@@ -630,6 +630,16 @@
             "page": "",
             "liquid_content": ""
           }
+        },
+        "collapsible_row_JxcYfg": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Il vetro borosilicato va nel forno e nel microonde?",
+            "icon": "lightning_bolt",
+            "row_content": "<p>La risposta è <strong>sì, assolutamente sì</strong>, ed è una delle sue caratteristiche commerciali più forti. <br/>Il vetro tradizionale rischia di spaccarsi nel microonde o nel forno a causa del riscaldamento non uniforme dei liquidi (shock termico localizzato), mentre il borosilicato resiste senza problemi.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
         }
       },
       "block_order": [
@@ -638,7 +648,8 @@
         "collapsible_row_J4Jq94",
         "collapsible_row_dd8j8B",
         "collapsible_row_fHWiAX",
-        "collapsible_row_QiChta"
+        "collapsible_row_QiChta",
+        "collapsible_row_JxcYfg"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
