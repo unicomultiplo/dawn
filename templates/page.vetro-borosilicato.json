@@ -503,11 +503,57 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_BQAXnU": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_h6q6UA": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Dove viene utilizzato il vetro borosilicato?</strong>",
+            "text": "<p>Grazie alla sua <strong>versatilità </strong>viene impiegato <strong>in numerosi prodotti per la casa e la tavola</strong>: bicchieri, tazze, teiere, bottiglie, caraffe, contenitori alimentari, bollitori e pentole, accessori per tè e caffè.<br/>La sua presenza è sempre più diffusa negli oggetti progettati per <strong>coniugare design e funzionalità.</strong><br/></p>",
+            "link_label": "🍸 Esplora subito la nostra selezione prodotti in Vetro Borosilicato",
+            "link": "shopify://collections/vetro-borosilicato"
+          }
+        },
+        "column_79LXMX": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_h6q6UA",
+        "column_79LXMX"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 16,
+        "padding_bottom": 8
+      }
+    },
     "featured_collection_q8jCYY": {
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "title": "<strong>Dove viene utilizzato il vetro borosilicato?</strong>",
+        "title": "",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -683,6 +729,7 @@
     "custom_liquid_jTnb7B",
     "image_banner_EJzFFe",
     "multirow_nHmjAQ",
+    "multicolumn_BQAXnU",
     "featured_collection_q8jCYY",
     "multicolumn_Qg4ap4",
     "collapsible_content_gi3eni"
