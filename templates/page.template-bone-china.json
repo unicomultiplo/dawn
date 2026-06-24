@@ -103,7 +103,7 @@
         "column_LnRFgT": {
           "type": "column",
           "settings": {
-            "title": "Cos'è la Bone China e perché tutti ne parlano?",
+            "title": "• Cos'è la Bone China e perché tutti ne parlano? ➝",
             "text": "",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola?#shopify-section-template--23360006586633__image_with_text_LCL7jb"
@@ -112,7 +112,7 @@
         "column_fkMzE8": {
           "type": "column",
           "settings": {
-            "title": " Un’antica tradizione di eleganza: la storia della Bone China",
+            "title": "• Un’antica tradizione di eleganza: la storia della Bone China ➝",
             "text": "",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola?#shopify-section-template--23360006586633__multicolumn_KKQxqM"
@@ -121,7 +121,7 @@
         "column_bN6gr3": {
           "type": "column",
           "settings": {
-            "title": "I servizi di piatti Bone China: le migliori collezioni",
+            "title": "• I servizi di piatti Bone China: le migliori collezioni ➝",
             "text": "",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola?#shopify-section-template--23360006586633__multicolumn_kiWfNN"
@@ -130,7 +130,7 @@
         "column_Ey4w4m": {
           "type": "column",
           "settings": {
-            "title": "Come usare e conservare la Bone China (senza paura di rovinarla)",
+            "title": "• Come usare e conservare la Bone China (senza paura di rovinarla) ➝",
             "text": "",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola?#shopify-section-template--23360006586633__multicolumn_Exw9py"
@@ -139,7 +139,7 @@
         "column_bnrgcr": {
           "type": "column",
           "settings": {
-            "title": "Domande frequenti sulla Bone China",
+            "title": "• Domande frequenti sulla Bone China ➝",
             "text": "",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola?#shopify-section-template--23360006586633__collapsible_content_4C3RVT"
@@ -153,7 +153,9 @@
         "column_Ey4w4m",
         "column_bnrgcr"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
       "settings": {
         "title": "Ti guideremo alla <strong>scoperta della Bone China</strong>, dalle sue origini alla manutenzione perfetta, con consigli per l'acquisto.",
         "heading_size": "h2",
