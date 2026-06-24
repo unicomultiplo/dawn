@@ -374,7 +374,7 @@
             "image": "shopify://shop_images/knindustrie-collezione-lime-line-ambra-set-6-pz-2_7bdfa559-cf34-4ab7-95c7-da0009e73239.webp",
             "title": "<strong>Leggerezza da utilizzare ogni giorno</strong>",
             "text": "<p>Il vetro borosilicato offre una piacevole sensazione di leggerezza che rende l'utilizzo quotidiano semplice e naturale.</p>",
-            "link_label": "👉 Scopri i bicchieri",
+            "link_label": "👉Scopri i bicchieri",
             "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
           }
         },
@@ -394,7 +394,7 @@
             "image": "shopify://shop_images/knIndustrie-centrotavola-vetro-verde-qsvqe4s2ldj8rqsodhp18tfrvozao861d2dfxyujkw.jpg",
             "title": "<strong>Trasparenza che valorizza ogni dettaglio</strong>",
             "text": "<p>La luminosità del materiale mette in risalto colori e preparazioni con un'estetica essenziale e raffinata.</p>",
-            "link_label": "👉 Scopri la collezione",
+            "link_label": "👉Scopri la collezione",
             "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-centrotavola-e-alzate?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Vetro+Borosilicato&sort_by=manual"
           }
         },
@@ -404,7 +404,7 @@
             "image": "shopify://shop_images/knindustrie-bicchiere-sparky-lara-caffi-20.webp",
             "title": "<strong>Un design essenziale e senza tempo</strong>",
             "text": "<p>Linee pulite e materiali autentici si integrano con naturalezza negli ambienti contemporanei e nelle tavole più moderne.</p>",
-            "link_label": "👉 Scopri Sparky",
+            "link_label": "👉Scopri Sparky",
             "link": "shopify://products/knindustrie-bicchiere-sparky-lara-caffi"
           }
         },
@@ -413,8 +413,8 @@
           "settings": {
             "image": "shopify://shop_images/toiletpaper-seletti-glasses-bicchieri-borosilicato.webp",
             "title": "<strong>Pensato per durare nel tempo</strong>",
-            "text": "<p>Oggetti progettati per accompagnare la quotidianità con semplicità, funzionalità e brillantezza.</p>",
-            "link_label": "👉 Scopri la collezione",
+            "text": "<p>Oggetti progettati per accompagnare la quotidianità con semplicità, funzionalità, brillantezza e durevolezza.</p>",
+            "link_label": "👉Scopri la collezione",
             "link": "shopify://collections/vetro-borosilicato"
           }
         }
