@@ -147,6 +147,7 @@
         "column_Q3cHjM",
         "column_antQzJ"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "<strong>Piatti da Tavola: come scegliere e abbinare</strong>",
@@ -237,6 +238,7 @@
         "column_DGTkwt",
         "column_KpmyN9"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -283,6 +285,7 @@
         "column_aLGeD3",
         "column_NkM7f8"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -362,6 +365,7 @@
         "column_eLeqwk",
         "column_CbPFeM"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -454,6 +458,7 @@
         "column_YdwjVc",
         "column_fcACXf"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -500,6 +505,7 @@
         "column_hxxKx7",
         "column_wBRPWD"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -520,6 +526,7 @@
     },
     "custom_liquid_AWdhed": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
         "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Piatti\">\n  <nav class=\"quick-links-piatti\">\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Piani&sort_by=manual#product-grid\" class=\"button button--secondary button--small\">Piatti Piani</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Fondi&sort_by=manual#product-grid\" class=\"button button--secondary button--small\">Piatti Fondi</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti-frutta-e-dessert\" class=\"button button--secondary button--small\">Piatti Frutta</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Servizi+di+Piatti&sort_by=manual#product-grid\" class=\"button button--secondary button--small\">Set da Tavola</a>\n  </nav>\n</div>\n\n<style>\n  .quick-links-piatti {\n    display: flex;\n    flex-wrap: wrap;\n    gap: .5rem;\n    margin: .5rem 0 1rem;\n    justify-content: flex-start;\n  }\n</style>",
@@ -554,6 +561,7 @@
         "column_A8rPaP",
         "column_T3f7Di"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -606,6 +614,7 @@
         "heading_7nALCz",
         "buttons_ALFMPq"
       ],
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/regali-invito-a-cena-casa-nuova.webp",
@@ -647,6 +656,7 @@
         "column_CGCdFb",
         "column_r6hUa6"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -726,6 +736,7 @@
         "column_AwYUHa",
         "column_apfD9k"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -807,6 +818,7 @@
         "collapsible_row_fKiyG6",
         "collapsible_row_3zyPPt"
       ],
+      "disabled": true,
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
         "caption": "Una guida rapida per scegliere piatti da tavola e idee regalo dal mondo Unico & Multiplo.",
