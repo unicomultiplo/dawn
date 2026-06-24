@@ -1,0 +1,846 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        "a {color: #598db2;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
+      }
+    },
+    "custom_liquid_LepCX8": {
+      "type": "custom-liquid",
+      "custom_css": [],
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Piatti\">\n  <h2><strong>Scegli per Tipologia</strong></h2>\n  <nav class=\"quick-links-piatti\">\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Piani&sort_by=manual#product-grid\" class=\"button button--secondary button--small\">Piatti Piani</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Fondi&sort_by=manual#product-grid\" class=\"button button--secondary button--small\">Piatti Fondi</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti-frutta-e-dessert\" class=\"button button--secondary button--small\">Piatti Frutta</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Servizi+di+Piatti&sort_by=manual#product-grid\" class=\"button button--secondary button--small\">Set da Tavola</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Pizza&sort_by=manual#product-grid\" class=\"button button--secondary button--small\">Piatti Pizza</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-vassoi-e-piatti-portata\" class=\"button button--secondary button--small\">Vassoi e Portata</a>\n  </nav>\n</div>\n\n<style>\n  .quick-links-piatti {\n    display: flex;\n    flex-wrap: wrap;\n    gap: .5rem;\n    margin: .5rem 0 1rem;\n    justify-content: flex-start;\n  }\n</style>",
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_6xWCFn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_F8gx46": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-hybrid-piatti-tavola.webp",
+            "title": "",
+            "text": "<p><strong>Seletti</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/piatti-seletti"
+          }
+        },
+        "column_WXtPTq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/tovaglie-tovagliette-bitossi-home_2_1.webp",
+            "title": "",
+            "text": "<p><strong>Bitossi Home</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-piatti"
+          }
+        },
+        "column_77eT6x": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Knindustrie-servizi-piatti.webp",
+            "title": "",
+            "text": "<p><strong>KnIndustrie</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-piatti"
+          }
+        },
+        "column_yEMeA6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/calipso-brandani-servizio.webp",
+            "title": "",
+            "text": "<p><strong>Brandani</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/brandani-piatti"
+          }
+        }
+      },
+      "block_order": [
+        "column_F8gx46",
+        "column_WXtPTq",
+        "column_77eT6x",
+        "column_yEMeA6"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "<strong>Scegli per Brand</strong>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 12,
+        "padding_bottom": 0
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 36,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "none",
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_KWHCjy": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Q3cHjM": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_antQzJ": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>I <strong>piatti </strong>da tavola sono uno degli elementi piu <strong>importanti </strong>della mise en place: definiscono lo stile della tavola, accompagnano ogni portata e contribuiscono a rendere più <strong>curato anche il pasto più semplice.</strong></p><p>Nella selezione Piatti da Tavola di Unico & Multiplo trovi piatti piani, fondi, piatti dessert, set e servizi pensati per unire funzionalita e design. <strong>Ogni proposta è scelta per dare carattere alla tavola,</strong> con forme, colori e decorazioni adatte sia all uso quotidiano sia alle occasioni speciali.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Q3cHjM",
+        "column_antQzJ"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<strong>Piatti da Tavola: come scegliere e abbinare</strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_KqNQMn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_WXTDhX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Il_Frutto_della_Passione_Bitossi_Home-piatti.webp",
+            "title": "",
+            "text": "<p><strong>Piatti Piani</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Piani&sort_by=manual#product-grid"
+          }
+        },
+        "column_PUYF8Y": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-kintsugi-servizio-18-pz-9.webp",
+            "title": "",
+            "text": "<p><strong>Piatti Fondi</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Fondi&sort_by=manual#product-grid"
+          }
+        },
+        "column_FQDx4z": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-home-la-tavola-ciao-mondo-piattini.webp",
+            "title": "",
+            "text": "<p><strong>Piatti Dessert e da Frutta</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-piatti-frutta-e-dessert"
+          }
+        },
+        "column_h4KgFm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-home-la-tavola-abracadabra.webp",
+            "title": "",
+            "text": "<p><strong>Servizi Di Piatti</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Servizi+di+Piatti&sort_by=manual#product-grid"
+          }
+        },
+        "column_DGTkwt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/the-club-piatto-pizza.jpg",
+            "title": "",
+            "text": "<p><strong>Piatti Pizza</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Pizza&sort_by=manual#product-grid"
+          }
+        },
+        "column_KpmyN9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/treccia-bitossi-home-vimini_1.jpg",
+            "title": "",
+            "text": "<p><strong>Vassoi</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata"
+          }
+        }
+      },
+      "block_order": [
+        "column_WXTDhX",
+        "column_PUYF8Y",
+        "column_FQDx4z",
+        "column_h4KgFm",
+        "column_DGTkwt",
+        "column_KpmyN9"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
+    "multicolumn_izfzBV": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_aLGeD3": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_NkM7f8": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Come scegliere i piatti da tavola</strong>",
+            "text": "<p>Per scegliere i piatti da tavola giusti parti dalle tue abitudini. Se cerchi <strong>piatti per tutti i giorni,</strong> punta su modelli resistenti, facili da lavare e semplici da abbinare a bicchieri, posate e tovagliato. Se invece vuoi creare una <strong>tavola piu scenografica</strong>, scegli piatti decorati, colorati o con forme particolari.</p><p>Una buona selezione dovrebbe includere piatti piani, piatti fondi e piatti dessert, cosi da accompagnare ogni momento del pasto. Puoi scegliere un servizio <strong>coordinato per un effetto ordinato</strong>, oppure mixare <strong>fantasie e colori diversi per una tavola piu personale e contemporanea.</strong></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_aLGeD3",
+        "column_NkM7f8"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_J8w6Dd": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_hbMD4X": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Petalo-Bitossi-Home.jpg",
+            "title": "",
+            "text": "<p><strong>Bitossi Home - I Senza Tempo</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/bitossi-home?#shopify-section-template--24628389380361__collection_list_kdtLc8"
+          }
+        },
+        "column_DbUdFj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/lunch-layers-knindustrie.webp",
+            "title": "",
+            "text": "<p><strong>KnIndustrie - Lunch Layers</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-lunch-layers"
+          }
+        },
+        "column_VmxGzy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Piatti-total-white-brandani-1.jpg",
+            "title": "",
+            "text": "<p><strong>Brandani - Total White</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/brandani-total-white-brandani"
+          }
+        },
+        "column_eLeqwk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-estetico-quotidiano-portauovo-portasalatini-1.jpg",
+            "title": "",
+            "text": "<p><strong>Seletti - Estetico Quotidiano</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-catalogo-prodotti-estetico-quotidiano"
+          }
+        },
+        "column_CbPFeM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/calipso-brandani.webp",
+            "title": "",
+            "text": "<p><strong>Brandani - Calipso</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Servizi+di+Piatti&sort_by=manual#product-grid"
+          }
+        }
+      },
+      "block_order": [
+        "column_hbMD4X",
+        "column_DbUdFj",
+        "column_VmxGzy",
+        "column_eLeqwk",
+        "column_CbPFeM"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "Scelte Per il Quotidiano",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
+    "multicolumn_MtNpp6": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_nJjcE9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/la-tavola-scomposta-bitossi-home.jpg",
+            "title": "",
+            "text": "<p><strong>Bitossi Home - La Tavola Scomposta </strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/bitossi-home?#shopify-section-template--24628389380361__collection_list_DFkntc"
+          }
+        },
+        "column_zRbwgV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-kintsugi-servizio-18-pz-10.webp",
+            "title": "",
+            "text": "<p><strong>Seletti - Kintsugi</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-catalogo-prodotti-kintsugi"
+          }
+        },
+        "column_TXq4wT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1533-knindustrie-shabbychic-piatti-piani-o27.webp",
+            "title": "",
+            "text": "<p><strong>KnIndustrie - Shabbychic</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/shabbychic-knindustrie"
+          }
+        },
+        "column_79VmYx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-classics-on-acid-vaso-in-porcellana-h23-cm-4.webp",
+            "title": "",
+            "text": "<p><strong>Seletti - Classic On Acid</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid"
+          }
+        },
+        "column_YdwjVc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Oldani-KnIndustrie.jpg",
+            "title": "",
+            "text": "<p><strong>KnIndustrie - Davide Oldani</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-davide-oldani"
+          }
+        },
+        "column_fcACXf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Natale-con-i-piatti-Seletti-Hybrid.webp",
+            "title": "",
+            "text": "<p><strong>Seletti - Hybrid</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti-catalogo-prodotti-hybrid"
+          }
+        }
+      },
+      "block_order": [
+        "column_nJjcE9",
+        "column_zRbwgV",
+        "column_TXq4wT",
+        "column_79VmYx",
+        "column_YdwjVc",
+        "column_fcACXf"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "Tavola Scenografica",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
+    "multicolumn_FnyeXB": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_hxxKx7": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wBRPWD": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Piatti piani, fondi e dessert: quali usare</strong>",
+            "text": "<p>I piatti piani sono i piu versatili: si usano per secondi, contorni, piatti unici e portate principali. I piatti fondi sono ideali per primi piatti, zuppe, vellutate, minestre e preparazioni piu cremose. I piatti dessert, invece, completano il servizio e sono perfetti per dolci, frutta, antipasti o piccole porzioni.</p><p>Avere piatti piani e fondi coordinati aiuta a creare una tavola equilibrata, ma non è obbligatorio scegliere tutto uguale. Abbinare forme diverse, colori complementari o decorazioni a contrasto può rendere la mise en place piu dinamica e originale.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_hxxKx7",
+        "column_wBRPWD"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_AWdhed": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Piatti\">\n  <nav class=\"quick-links-piatti\">\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Piani&sort_by=manual#product-grid\" class=\"button button--secondary button--small\">Piatti Piani</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Fondi&sort_by=manual#product-grid\" class=\"button button--secondary button--small\">Piatti Fondi</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti-frutta-e-dessert\" class=\"button button--secondary button--small\">Piatti Frutta</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Servizi+di+Piatti&sort_by=manual#product-grid\" class=\"button button--secondary button--small\">Set da Tavola</a>\n  </nav>\n</div>\n\n<style>\n  .quick-links-piatti {\n    display: flex;\n    flex-wrap: wrap;\n    gap: .5rem;\n    margin: .5rem 0 1rem;\n    justify-content: flex-start;\n  }\n</style>",
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_ikALKg": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_A8rPaP": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_T3f7Di": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Set da tavola e Idee Regalo</strong>",
+            "text": "<p><strong>Un set di piatti da tavola</strong> è una scelta pratica per chi vuole una mise en place coordinata e pronta all'uso. Può essere essenziale, con piatti piani e fondi, oppure piu completo, con piatti dessert e pezzi da portata abbinati.</p><p>È una <strong>soluzione utile</strong> sia per rinnovare la tavola di casa sia per creare una base elegante da personalizzare con bicchieri, posate e accessori.</p><p><br/>I piatti sono anche un' <strong>ottima idea </strong>regalo per<strong> nuove case</strong>, <strong>matrimoni</strong>, <strong>compleanni </strong>e occasioni speciali. Un piatto decorativo, un set colorato o un servizio dal design originale sono  perfetti per chi ama vivere la tavola con cura e personalità.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_A8rPaP",
+        "column_T3f7Di"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_hf7WRX": {
+      "type": "image-banner",
+      "blocks": {
+        "text_8xqydc": {
+          "type": "text",
+          "settings": {
+            "text": "Oggetti utili, originali e facili da regalare per chi ama vivere la tavola con personalità",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "heading_7nALCz": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Set da Tavola</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "buttons_ALFMPq": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Trova la tua idea regalo",
+            "button_link_1": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Servizi+di+Piatti&sort_by=manual#product-grid",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_8xqydc",
+        "heading_7nALCz",
+        "buttons_ALFMPq"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/regali-invito-a-cena-casa-nuova.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "multicolumn_wDLcLp": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_CGCdFb": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_r6hUa6": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Completa la tua Tavola</strong>",
+            "text": "<p>Completa la tua tavola esplorando le collezioni correlate: bicchieri, calici, vassoi, accessori per servire e tutta la selezione Cucina & Tavola.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_CGCdFb",
+        "column_r6hUa6"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 24,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_fteU4T": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_yxYYXF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/oh-yeah-spoon-set-dolce-posate-vintage-placcate-in-argento-2.webp",
+            "title": "",
+            "text": "<p><strong>Posate</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-posate"
+          }
+        },
+        "column_mjiBaV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bicchierie-Calici-Bitossi-Home.webp",
+            "title": "",
+            "text": "<p><strong>Bicchieri e Calici</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
+          }
+        },
+        "column_4eEi6Q": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/coppette-macedonia-frutta-cucina.webp",
+            "title": "",
+            "text": "<p><strong>Coppette Macedonia e Gelato</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-coppette-macedonia-gelato"
+          }
+        },
+        "column_AwYUHa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/tovaglietta-gina-cotone.webp",
+            "title": "",
+            "text": "<p><strong>Sottopiatti e Tovagliette</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-tovaglie-e-tovagliette"
+          }
+        },
+        "column_apfD9k": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-foodwear-padella-vassoio.webp",
+            "title": "",
+            "text": "<p><strong>Vassoi</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata"
+          }
+        }
+      },
+      "block_order": [
+        "column_yxYYXF",
+        "column_mjiBaV",
+        "column_4eEi6Q",
+        "column_AwYUHa",
+        "column_apfD9k"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
+    "collapsible_content_dP6Ppz": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_DATUwP": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Che cosa trovi nella collezione Piatti da Tavola?",
+            "icon": "check_mark",
+            "row_content": "<p>Nella collezione Piatti da Tavola <strong>trovi piatti piani, piatti fondi, piatti dessert, set e servizi selezionati </strong>per apparecchiare con stile. Le proposte uniscono funzionalità, design e personalità, con soluzioni adatte sia all'<strong>uso quotidiano sia alle occasioni speciali</strong>.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_hJdMc6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Come scegliere i piatti da tavola?",
+            "icon": "check_mark",
+            "row_content": "<p>Per scegliere i piatti da tavola <strong>considera l'uso che ne farai,</strong> lo stile della casa e il tipo di apparecchiatura che vuoi creare. <strong>Per tutti i giorni</strong> sono ideali piatti <strong>resistenti </strong>e facili da abbinare; per una <strong>tavola più scenografica </strong>puoi scegliere piatti <strong>decorati, colorati o con forme particolari.</strong></p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_GG6eXA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Meglio un servizio coordinato o piatti diversi tra loro?",
+            "icon": "check_mark",
+            "row_content": "<p>Dipende dallo stile che vuoi ottenere. Un <strong>servizio coordinato crea una tavola ordinata ed elegante</strong>, mentre<strong> piatti diversi tra loro permettono una mise en place più creativa e personale</strong>. Puoi anche partire da una base neutra e aggiungere alcuni piatti decorativi o colorati.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_fKiyG6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I piatti da tavola sono una buona idea regalo?",
+            "icon": "check_mark",
+            "row_content": "<p><strong>Si,</strong> i piatti da tavola sono una buona idea regalo perchè sono utili, durano nel tempo e possono avere un forte valore estetico. Un set di piatti, un piatto decorativo o un servizio <strong>originale </strong>sono adatti <strong>per nuove case, matrimoni, compleanni e occasioni speciali.</strong></p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_3zyPPt": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quali brand trovi nella selezione Piatti da Tavola?",
+            "icon": "check_mark",
+            "row_content": "<p>Nella selezione <strong>Piatti </strong>da Tavola puoi trovare brand come <strong>Bitossi Home, Brandani, KnIndustrie, Seletti </strong>e altri marchi scelti per qualità, estetica e funzionalità, in linea con lo stile di Unico & Multiplo.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_DATUwP",
+        "collapsible_row_hJdMc6",
+        "collapsible_row_GG6eXA",
+        "collapsible_row_fKiyG6",
+        "collapsible_row_3zyPPt"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "Una guida rapida per scegliere piatti da tavola e idee regalo dal mondo Unico & Multiplo.",
+        "heading": "FAQ - Domande frequenti su Piatti da Tavola",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "",
+        "container_color_scheme": "scheme-2",
+        "open_first_collapsible_row": true,
+        "image": "shopify://shop_images/Bitossi-Home-Piatti_1.webp",
+        "image_ratio": "adapt",
+        "desktop_layout": "image_first",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "custom_liquid_LepCX8",
+    "multicolumn_6xWCFn",
+    "product-grid",
+    "multicolumn_KWHCjy",
+    "multicolumn_KqNQMn",
+    "multicolumn_izfzBV",
+    "multicolumn_J8w6Dd",
+    "multicolumn_MtNpp6",
+    "multicolumn_FnyeXB",
+    "custom_liquid_AWdhed",
+    "multicolumn_ikALKg",
+    "image_banner_hf7WRX",
+    "multicolumn_wDLcLp",
+    "multicolumn_fteU4T",
+    "collapsible_content_dP6Ppz"
+  ]
+}
