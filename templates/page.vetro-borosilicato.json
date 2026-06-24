@@ -197,9 +197,9 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><em>🎯</em><strong> Perché scegliamo il vetro borosilicato? </strong>Nella selezione dei materiali ricerchiamo un equilibrio tra estetica, qualità e utilizzo quotidiano.</p><p>Il vetro borosilicato risponde perfettamente a questa filosofia.</p><p>Un materiale essenziale, autentico e senza tempo!</p>",
+            "text": "<p><em>🎯</em><strong> Perché scegliamo il vetro borosilicato? </strong><br/>Nella selezione dei materiali, noi di Unico&Multiplo ricerchiamo un equilibrio tra estetica, qualità e funzionalità per l’uso quotidiano.</p><p>Il vetro borosilicato risponde perfettamente a questa filosofia.</p><p>Un materiale essenziale, autentico e senza tempo!</p>",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/complementi-arredo?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Cambio+di+Stagione&sort_by=manual"
+            "link": ""
           }
         }
       },
