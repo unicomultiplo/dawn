@@ -672,7 +672,7 @@
           "settings": {
             "heading": "Può essere lavato in lavastoviglie?",
             "icon": "lightning_bolt",
-            "row_content": "<p>Sì. È un materiale comunemente utilizzato per prodotti destinati all'uso alimentare. Molti prodotti in vetro borosilicato sono compatibili con la lavastoviglie. È comunque consigliabile verificare sempre le indicazioni specifiche del produttore.</p>",
+            "row_content": "<p>Sì. Molti prodotti in vetro borosilicato sono compatibili con la lavastoviglie. È comunque consigliabile verificare sempre le indicazioni specifiche del produttore.</p>",
             "page": "",
             "liquid_content": ""
           }
