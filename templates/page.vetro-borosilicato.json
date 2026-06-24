@@ -381,9 +381,9 @@
         "column_i7ifeJ": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/vetro-borosilicato-bicchieri-tazze-resistenti-alte-temperature-1.webp",
-            "title": "<strong>Pensato per bevande calde e fredde</strong>",
-            "text": "<p>La sua resistenza agli sbalzi termici lo rende particolarmente apprezzato per tè, tisane e per cotture scenografiche.</p>",
+            "image": "shopify://shop_images/glass-pot-knindustrie-vetro-borosilicato.jpg",
+            "title": "<strong>Pensato per cotture e bevande calde e fredde</strong>",
+            "text": "<p>La sua resistenza agli sbalzi termici lo rende particolarmente apprezzato per cotture e servizi scenografici.</p>",
             "link_label": "👉 Scopri le pentole",
             "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-pentole-padelle-tegami?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Vetro+Borosilicato&sort_by=manual"
           }
@@ -413,7 +413,7 @@
           "settings": {
             "image": "shopify://shop_images/toiletpaper-seletti-glasses-bicchieri-borosilicato.webp",
             "title": "<strong>Pensato per durare nel tempo</strong>",
-            "text": "<p>Oggetti progettati per accompagnare la quotidianità con semplicità e funzionalità.</p>",
+            "text": "<p>Oggetti progettati per accompagnare la quotidianità con semplicità e funzionalità e brillantezza.</p>",
             "link_label": "👉 Scopri tutta la collezione",
             "link": "shopify://collections/vetro-borosilicato"
           }
