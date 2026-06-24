@@ -28,6 +28,52 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_xxGrrA": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_DhWp9r": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h5>✔️ Più leggero del vetro tradizionale, ✔️ Resistente agli sbalzi termici,✔️ Ideale per tè, tisane e bevande fredde,✔️ Trasparenza luminosa e design contemporaneo</h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Tp6qBM": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_DhWp9r",
+        "column_Tp6qBM"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "image_banner_DgJxnQ": {
       "type": "image-banner",
       "name": "t:sections.image-banner.presets.name",
@@ -45,19 +91,19 @@
         "show_text_below": true
       }
     },
-    "multicolumn_xxGrrA": {
+    "multicolumn_LKkF4C": {
       "type": "multicolumn",
       "blocks": {
-        "column_DhWp9r": {
+        "column_9zCbM9": {
           "type": "column",
           "settings": {
             "title": "<strong>Un materiale leggero, resistente e pensato per la quotidianità</strong>",
-            "text": "<p>Il vetro borosilicato è apprezzato per la sua trasparenza cristallina, la leggerezza e la capacità di resistere agli sbalzi termici.</p><p>Nato per applicazioni tecniche e scientifiche, è oggi utilizzato anche nel design contemporaneo e negli accessori per la tavola grazie al suo equilibrio tra funzionalità ed estetica.</p><p>Dalle teiere ai bicchieri, dalle bottiglie alle caraffe, il vetro borosilicato accompagna i gesti quotidiani con semplicità, eleganza e praticità.</p>",
+            "text": "<p>Il<strong> vetro borosilicato</strong> è un materiale composto da <strong>silice e ossido di boro</strong>, apprezzato per leggerezza, trasparenza e resistenza agli sbalzi termici. </p><p>Nato per applicazioni tecniche e scientifiche, è oggi utilizzato per bicchieri, teiere, bottiglie e accessori per la tavola grazie al suo <strong>equilibrio tra funzionalità ed estetica.</strong></p>",
             "link_label": "🍸 Scopri subito la nostra selezione in Vetro Borosilicato",
             "link": "shopify://collections/vetro-borosilicato"
           }
         },
-        "column_Tp6qBM": {
+        "column_M9tRdA": {
           "type": "column",
           "settings": {
             "title": "",
@@ -68,8 +114,8 @@
         }
       },
       "block_order": [
-        "column_DhWp9r",
-        "column_Tp6qBM"
+        "column_9zCbM9",
+        "column_M9tRdA"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -718,8 +764,9 @@
   "order": [
     "main",
     "custom_liquid_xxkqYV",
-    "image_banner_DgJxnQ",
     "multicolumn_xxGrrA",
+    "image_banner_DgJxnQ",
+    "multicolumn_LKkF4C",
     "multicolumn_6fXjNw",
     "multicolumn_Anyn8K",
     "multicolumn_VR4EHF",
