@@ -659,7 +659,7 @@
         "column_Pf3nRn": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/oh-yeah-spoon-set-dolce-posate-vintage-placcate-in-argento-2.webp",
+            "image": "shopify://shop_images/img-categoria-posate_360x_4d025c2a-b614-41a5-a541-f6e1490c1e6f.webp",
             "title": "",
             "text": "<p><strong>Posate</strong></p>",
             "link_label": "",
@@ -689,7 +689,7 @@
         "column_yxYYXF": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/TP_PETS_CUSHIONS_LIFESTYLE_FLOATING.webp",
+            "image": "shopify://shop_images/Seletti-tazze-kintsugi.webp",
             "title": "",
             "text": "<p><strong>Tazze, Tazzine e Mug</strong></p>",
             "link_label": "",
@@ -699,7 +699,7 @@
         "column_AwYUHa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/tovaglietta-gina-cotone.webp",
+            "image": "shopify://shop_images/sottopiatti-hybrid-natale-2025-seletti.webp",
             "title": "",
             "text": "<p><strong>Sottopiatti e Tovagliette</strong></p>",
             "link_label": "",
@@ -709,7 +709,7 @@
         "column_apfD9k": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-foodwear-padella-vassoio.webp",
+            "image": "shopify://shop_images/Seletti-Vassoio-Meltdown.webp",
             "title": "",
             "text": "<p><strong>Vassoi</strong></p>",
             "link_label": "",
@@ -791,9 +791,19 @@
         "collapsible_row_3zyPPt": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Quali brand trovi nella selezione Piatti da Tavola?",
+            "heading": "Quali brand sono presenti nella collezione Piatti Frutta?",
             "icon": "check_mark",
-            "row_content": "<p>Nella selezione <strong>Piatti </strong>da Tavola puoi trovare brand come <strong>Bitossi Home, Brandani, KnIndustrie, Seletti </strong>e altri marchi scelti per qualità, estetica e funzionalità, in linea con lo stile di Unico & Multiplo.</p>",
+            "row_content": "<p>La selezione comprende proposte firmate da diversi marchi dedicati al design e alla tavola contemporanea, tra cui <strong>Bitossi Home, Brandani, Seletti KnIndustrie</strong> e altri brand presenti nel catalogo Unico & Multiplo. </p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_MLAUny": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Sono una buona idea regalo?",
+            "icon": "check_mark",
+            "row_content": "<p><strong>Sì. I piatti da frutta e dessert sono</strong> un regalo <strong>utile, versatile e sempre apprezzato, </strong>soprattutto per chi ama la casa, la tavola, il design e i dettagli originali.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -804,7 +814,8 @@
         "collapsible_row_hJdMc6",
         "collapsible_row_GG6eXA",
         "collapsible_row_fKiyG6",
-        "collapsible_row_3zyPPt"
+        "collapsible_row_3zyPPt",
+        "collapsible_row_MLAUny"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
