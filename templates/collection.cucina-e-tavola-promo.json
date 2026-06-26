@@ -140,7 +140,7 @@
         "a {color: black; text-decoration: none;}"
       ],
       "settings": {
-        "title": "<strong>Scegli da dove inziare.</strong>",
+        "title": "<strong>Scegli da dove iniziare.</strong>",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
