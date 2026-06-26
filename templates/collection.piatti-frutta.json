@@ -752,7 +752,7 @@
           "settings": {
             "heading": "Cosa comprende questa collezione?",
             "icon": "check_mark",
-            "row_content": "<p>La collezione raccoglie <strong>piatti da frutta, piatti dessert, piattini decorativi e proposte dedicate alla tavola </strong>contemporanea provenienti da diversi brand selezionati da Unico & Multiplo</p>",
+            "row_content": "<p>La collezione raccoglie <strong>piatti da frutta, piatti dessert, piattini decorativi e proposte dedicate alla tavola </strong>contemporanea provenienti da diversi brand selezionati da Unico & Multiplo.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -782,7 +782,7 @@
           "settings": {
             "heading": "Quali brand sono presenti nella collezione Piatti Frutta?",
             "icon": "check_mark",
-            "row_content": "<p>La selezione comprende proposte firmate da diversi marchi dedicati al design e alla tavola contemporanea, tra cui <strong>Bitossi Home, Brandani, Seletti KnIndustrie</strong> e altri brand presenti nel catalogo Unico & Multiplo. </p>",
+            "row_content": "<p>La selezione comprende proposte firmate da diversi marchi dedicati al design e alla tavola contemporanea, tra cui <strong>Bitossi Home, Brandani, Seletti, KnIndustrie</strong> e altri brand presenti nel catalogo Unico & Multiplo. </p>",
             "page": "",
             "liquid_content": ""
           }
