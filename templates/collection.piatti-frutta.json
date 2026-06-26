@@ -181,7 +181,7 @@
         "column_WmmMJT": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/cucina-e-tavola-piatti-frutta-e-dessert.webp",
+            "image": "shopify://shop_images/bitossi-home-orto-new-2026_1a3c5de0-f0f0-48f1-b9c8-7495649bf955.webp",
             "title": "<strong>Una selezione di piatti da frutta e dessert per ogni occasione</strong>",
             "text": "<p>All’interno della collezione trovi proposte pensate per interpretare esigenze e stili differenti: piatti <strong>dessert </strong>di design per <strong>torte</strong>, <strong>pasticcini </strong>e <strong>dolci </strong>monoporzione; piatti da <strong>frutta </strong>perfetti per <strong>colazione</strong>, <strong>merenda </strong>e fine pasto; piattini decorativi capaci di aggiungere colore e personalità alla tavola; piatti piccoli ideali anche per aperitivi, finger food e momenti informali.</p><p>Dalle linee più essenziali alle decorazioni più creative, la selezione raccoglie proposte adatte sia alla quotidianità sia alle occasioni speciali. Puoi scegliere <strong>piatti coordinati per una tavola ordinata</strong> oppure <strong>combinare colori, fantasie e brand diversi per un effetto mix & match più personale.</strong></p>",
             "link_label": "",
@@ -292,51 +292,6 @@
         "padding_bottom": 16
       }
     },
-    "multicolumn_izfzBV": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_aLGeD3": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_NkM7f8": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/cucina-e-tavola-piatti-frutta-e-dessert.webp",
-            "title": "<strong>Una selezione di piatti da frutta e dessert per ogni occasione</strong>",
-            "text": "<p>All’interno della collezione trovi proposte pensate per interpretare esigenze e stili differenti: piatti <strong>dessert </strong>di design per <strong>torte</strong>, <strong>pasticcini </strong>e <strong>dolci </strong>monoporzione; piatti da <strong>frutta </strong>perfetti per <strong>colazione</strong>, <strong>merenda </strong>e fine pasto; piattini decorativi capaci di aggiungere colore e personalità alla tavola; piatti piccoli ideali anche per aperitivi, finger food e momenti informali.</p><p>Dalle linee più essenziali alle decorazioni più creative, la selezione raccoglie proposte adatte sia alla quotidianità sia alle occasioni speciali. Puoi scegliere <strong>piatti coordinati per una tavola ordinata</strong> oppure <strong>combinare colori, fantasie e brand diversi per un effetto mix & match più personale.</strong></p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_aLGeD3",
-        "column_NkM7f8"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "multicolumn_MtNpp6": {
       "type": "multicolumn",
       "blocks": {
@@ -433,8 +388,8 @@
         "column_wBRPWD": {
           "type": "column",
           "settings": {
-            "title": "<strong>Piatti piani, fondi e dessert: quali usare</strong>",
-            "text": "<p>I piatti piani sono i piu versatili: si usano per secondi, contorni, piatti unici e portate principali. I piatti fondi sono ideali per primi piatti, zuppe, vellutate, minestre e preparazioni piu cremose. I piatti dessert, invece, completano il servizio e sono perfetti per dolci, frutta, antipasti o piccole porzioni.</p><p>Avere piatti piani e fondi coordinati aiuta a creare una tavola equilibrata, ma non è obbligatorio scegliere tutto uguale. Abbinare forme diverse, colori complementari o decorazioni a contrasto può rendere la mise en place piu dinamica e originale.</p>",
+            "title": "<strong>I brand protagonisti della selezione</strong>",
+            "text": "<p>La collezione riunisce piatti da frutta e dessert firmati da alcuni dei marchi più interessanti del panorama design e home decor contemporaneo. Ogni brand interpreta il piatto dessert in modo differente: c’è chi punta su colori e decorazioni, chi su linee essenziali e chi su dettagli capaci di trasformare un semplice accessorio da tavola in un vero elemento decorativo.<br/><br/>Questa varietà permette di trovare facilmente il prodotto più adatto al proprio stile e di costruire una tavola coerente, vivace o volutamente eclettica.</p>",
             "link_label": "",
             "link": ""
           }
@@ -462,9 +417,78 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_chXi8C": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3xFfxt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-kintsugi-servizio-18-pz-10.webp",
+            "title": "",
+            "text": "<p><strong>Seletti</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti-frutta-e-dessert?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=manual#shopify-section-template--26193522327817__product-grid"
+          }
+        },
+        "column_YzajCb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-home-ciao-mondo.webp",
+            "title": "",
+            "text": "<p><strong>Bitossi Home</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti-frutta-e-dessert?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Bitossi+Home&sort_by=title-ascending#shopify-section-template--26193522327817__product-grid"
+          }
+        },
+        "column_FQVEpz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-shabbychic-piatti-frutta-o21-5.jpg",
+            "title": "",
+            "text": "<p><strong>KnIndustrie</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti-frutta-e-dessert?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=KnIndustrie&sort_by=manual#shopify-section-template--26193522327817__product-grid"
+          }
+        },
+        "column_tbgMgt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/brandani-piatto-frutta-dessert-calipso-stoneware.webp",
+            "title": "",
+            "text": "<p><strong>Brandani</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti-frutta-e-dessert?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=manual#shopify-section-template--26193522327817__product-grid"
+          }
+        }
+      },
+      "block_order": [
+        "column_3xFfxt",
+        "column_YzajCb",
+        "column_FQVEpz",
+        "column_tbgMgt"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "custom_liquid_AWdhed": {
       "type": "custom-liquid",
-      "disabled": true,
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
         "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Piatti\">\n  <nav class=\"quick-links-piatti\">\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Piani&sort_by=manual#product-grid\" class=\"button button--secondary button--small\">Piatti Piani</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Fondi&sort_by=manual#product-grid\" class=\"button button--secondary button--small\">Piatti Fondi</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti-frutta-e-dessert\" class=\"button button--secondary button--small\">Piatti Frutta</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Servizi+di+Piatti&sort_by=manual#product-grid\" class=\"button button--secondary button--small\">Set da Tavola</a>\n  </nav>\n</div>\n\n<style>\n  .quick-links-piatti {\n    display: flex;\n    flex-wrap: wrap;\n    gap: .5rem;\n    margin: .5rem 0 1rem;\n    justify-content: flex-start;\n  }\n</style>",
@@ -782,9 +806,9 @@
     "multicolumn_KWHCjy",
     "multicolumn_JNpC9x",
     "multicolumn_J8w6Dd",
-    "multicolumn_izfzBV",
     "multicolumn_MtNpp6",
     "multicolumn_FnyeXB",
+    "multicolumn_chXi8C",
     "custom_liquid_AWdhed",
     "multicolumn_ikALKg",
     "image_banner_hf7WRX",
