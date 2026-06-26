@@ -68,7 +68,7 @@
         "column_yEMeA6": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/brandani-flora-piattino-set-2-_pz-in-porcellana.jpg",
+            "image": "shopify://shop_images/brandani-piatto-frutta-dessert-calipso-stoneware.webp",
             "title": "",
             "text": "<p><strong>Brandani</strong></p>",
             "link_label": "",
@@ -138,7 +138,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>I <strong>piatti </strong>da tavola sono uno degli elementi piu <strong>importanti </strong>della mise en place: definiscono lo stile della tavola, accompagnano ogni portata e contribuiscono a rendere più <strong>curato anche il pasto più semplice.</strong></p><p>Nella selezione Piatti da Tavola di Unico & Multiplo trovi piatti piani, fondi, piatti dessert, set e servizi pensati per unire funzionalita e design. <strong>Ogni proposta è scelta per dare carattere alla tavola,</strong> con forme, colori e decorazioni adatte sia all uso quotidiano sia alle occasioni speciali.</p>",
+            "text": "<p>Per noi di Unico & Multiplo <strong>la tavola è fatta di dettagli</strong>. I <strong>piatti da frutta </strong>e dessert sono tra gli <strong>elementi più versatili </strong>di un servizio perché accompagnano dolci, frutta fresca, colazioni, merende, aperitivi e <strong>momenti conviviali durante tutta la giornata.<br/></strong><br/>Grazie alle loro dimensioni contenute e alla varietà di forme, materiali e decorazioni disponibili, questi piattini di design permettono di <strong>personalizzare la mise en place e di rendere speciale anche un gesto semplice</strong>: servire una fetta di torta, offrire dei biscotti con il caffè, presentare una macedonia o preparare piccoli assaggi per gli ospiti.</p>",
             "link_label": "",
             "link": ""
           }
@@ -148,10 +148,9 @@
         "column_Q3cHjM",
         "column_antQzJ"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>Piatti da Tavola: come scegliere e abbinare</strong>",
+        "title": "Piatti dessert e piatti da frutta: piccoli protagonisti della tavola contemporanea",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
