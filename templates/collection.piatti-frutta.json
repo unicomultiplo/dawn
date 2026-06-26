@@ -308,41 +308,21 @@
         "column_zRbwgV": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-kintsugi-servizio-18-pz-10.webp",
+            "image": "shopify://shop_images/Seletti-tazze-kintsugi.webp",
             "title": "",
             "text": "<p><strong>Seletti - Kintsugi</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-kintsugi"
+            "link": "shopify://products/2465-seletti-kintsugi-piatto-piano-piccolo"
           }
         },
         "column_TXq4wT": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/1533-knindustrie-shabbychic-piatti-piani-o27.webp",
+            "image": "shopify://shop_images/knindustrie-shabbychic-piatti-fondi-o-23-3.jpg",
             "title": "",
             "text": "<p><strong>KnIndustrie - Shabbychic</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/shabbychic-knindustrie"
-          }
-        },
-        "column_79VmYx": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-classics-on-acid-vaso-in-porcellana-h23-cm-4.webp",
-            "title": "",
-            "text": "<p><strong>Seletti - Classic On Acid</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid"
-          }
-        },
-        "column_YdwjVc": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Oldani-KnIndustrie.jpg",
-            "title": "",
-            "text": "<p><strong>KnIndustrie - Davide Oldani</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/knindustrie-catalogo-prodotti-davide-oldani"
+            "link": "shopify://products/1530-knindustrie-shabbychic-piatti-frutta-o21"
           }
         },
         "column_fcACXf": {
@@ -352,7 +332,17 @@
             "title": "",
             "text": "<p><strong>Seletti - Hybrid</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/seletti-catalogo-prodotti-hybrid"
+            "link": "shopify://products/4304-seletti-hybrid-piatti-frutta"
+          }
+        },
+        "column_79VmYx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-classic-on-acid-servizio-18-pz-6-posti-tavola-116.gif",
+            "title": "",
+            "text": "<p><strong>Seletti - Classic On Acid</strong></p>",
+            "link_label": "",
+            "link": "shopify://products/seletti-diesel-living-classic-on-acid-piatti-frutta"
           }
         }
       },
@@ -360,9 +350,8 @@
         "column_nJjcE9",
         "column_zRbwgV",
         "column_TXq4wT",
-        "column_79VmYx",
-        "column_YdwjVc",
-        "column_fcACXf"
+        "column_fcACXf",
+        "column_79VmYx"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -372,7 +361,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
