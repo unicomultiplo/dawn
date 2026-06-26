@@ -373,6 +373,78 @@
         "padding_bottom": 16
       }
     },
+    "multicolumn_ikALKg": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_A8rPaP": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_T3f7Di": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Materiali e finiture che uniscono estetica e praticità</strong>",
+            "text": "<p>La selezione comprende piatti realizzati in <strong>porcellana, ceramica decorata, stoneware, melamina </strong>e altri materiali scelti per garantire qualità, resistenza e piacevolezza d’uso.</p><p><br/>La <strong>porcellana </strong>è ideale per una tavola <strong>elegante </strong>e luminosa, la <strong>ceramica</strong> e lo stoneware aggiungono una nota <strong>materica </strong>e contemporanea, mentre<strong> la melamina è pratica</strong>, leggera e adatta anche a contesti più <strong>informali</strong> e infine l<em>a </em><em><strong>bone china</strong></em><em> è la scelta per chi cerca il massimo della </em><em><strong>raffinatezza </strong></em><em>a tavola.</em></p><p><br/>Ogni finitura è pensata per integrarsi con naturalezza in ambienti contemporanei e per creare abbinamenti armoniosi con il resto del servizio tavola.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_A8rPaP",
+        "column_T3f7Di"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_af4HHa": {
+      "type": "rich-text",
+      "blocks": {
+        "button_GJRKhK": {
+          "type": "button",
+          "settings": {
+            "button_label": "Melamina",
+            "button_link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti-melamina?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Piatti+Dessert+e+da+Frutta&sort_by=manual",
+            "button_style_secondary": false,
+            "button_label_2": "Bone China",
+            "button_link_2": "https://www.unicoemultiplo.com/collections/piatti-in-bone-china?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Piatti+Dessert+e+da+Frutta&sort_by=manual",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_GJRKhK"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 24
+      }
+    },
     "multicolumn_FnyeXB": {
       "type": "multicolumn",
       "blocks": {
@@ -487,78 +559,6 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_ikALKg": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_A8rPaP": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_T3f7Di": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Materiali e finiture che uniscono estetica e praticità</strong>",
-            "text": "<p>La selezione comprende piatti realizzati in <strong>porcellana, ceramica decorata, stoneware, melamina </strong>e altri materiali scelti per garantire qualità, resistenza e piacevolezza d’uso.</p><p><br/>La <strong>porcellana </strong>è ideale per una tavola <strong>elegante </strong>e luminosa, la <strong>ceramica</strong> e lo stoneware aggiungono una nota <strong>materica </strong>e contemporanea, mentre<strong> la melamina è pratica</strong>, leggera e adatta anche a contesti più <strong>informali</strong> e infine l<em>a </em><em><strong>bone china</strong></em><em> è la scelta per chi cerca il massimo della </em><em><strong>raffinatezza </strong></em><em>a tavola.</em></p><p><br/>Ogni finitura è pensata per integrarsi con naturalezza in ambienti contemporanei e per creare abbinamenti armoniosi con il resto del servizio tavola.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_A8rPaP",
-        "column_T3f7Di"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "rich_text_af4HHa": {
-      "type": "rich-text",
-      "blocks": {
-        "button_GJRKhK": {
-          "type": "button",
-          "settings": {
-            "button_label": "Melamina",
-            "button_link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti-melamina?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Piatti+Dessert+e+da+Frutta&sort_by=manual",
-            "button_style_secondary": true,
-            "button_label_2": "Bone China",
-            "button_link_2": "https://www.unicoemultiplo.com/collections/piatti-in-bone-china?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Piatti+Dessert+e+da+Frutta&sort_by=manual",
-            "button_style_secondary_2": true
-          }
-        }
-      },
-      "block_order": [
-        "button_GJRKhK"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 24
-      }
-    },
     "image_banner_hf7WRX": {
       "type": "image-banner",
       "blocks": {
@@ -624,8 +624,8 @@
         "column_r6hUa6": {
           "type": "column",
           "settings": {
-            "title": "<strong>Completa la tua Tavola</strong>",
-            "text": "<p>Completa la tua tavola esplorando le collezioni correlate: bicchieri, calici, vassoi, accessori per servire e tutta la selezione Cucina & Tavola.</p>",
+            "title": "<strong>Come abbinarli alla tavola</strong>",
+            "text": "<p>Per creare una mise en place armoniosa puoi <strong>completare la tavola con bicchieri, calici, tazze e accessori dedicati al servizio del dessert. </strong>Le collezioni più decorative permettono inoltre di sperimentare con il <strong>mix & match</strong> di colori, fantasie e materiali, creando una <strong>tavola personale e ricca di carattere.<br/></strong><br/></p>",
             "link_label": "",
             "link": ""
           }
@@ -635,7 +635,6 @@
         "column_CGCdFb",
         "column_r6hUa6"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -657,7 +656,7 @@
     "multicolumn_fteU4T": {
       "type": "multicolumn",
       "blocks": {
-        "column_yxYYXF": {
+        "column_Pf3nRn": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/oh-yeah-spoon-set-dolce-posate-vintage-placcate-in-argento-2.webp",
@@ -687,6 +686,16 @@
             "link": "shopify://collections/cucina-e-tavola-coppette-macedonia-gelato"
           }
         },
+        "column_yxYYXF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/TP_PETS_CUSHIONS_LIFESTYLE_FLOATING.webp",
+            "title": "",
+            "text": "<p><strong>Tazze, Tazzine e Mug</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-tazze-tazzine-mug"
+          }
+        },
         "column_AwYUHa": {
           "type": "column",
           "settings": {
@@ -709,13 +718,13 @@
         }
       },
       "block_order": [
-        "column_yxYYXF",
+        "column_Pf3nRn",
         "column_mjiBaV",
         "column_4eEi6Q",
+        "column_yxYYXF",
         "column_AwYUHa",
         "column_apfD9k"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -724,7 +733,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 6,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
@@ -824,10 +833,10 @@
     "multicolumn_JNpC9x",
     "multicolumn_J8w6Dd",
     "multicolumn_MtNpp6",
-    "multicolumn_FnyeXB",
-    "multicolumn_chXi8C",
     "multicolumn_ikALKg",
     "rich_text_af4HHa",
+    "multicolumn_FnyeXB",
+    "multicolumn_chXi8C",
     "image_banner_hf7WRX",
     "multicolumn_wDLcLp",
     "multicolumn_fteU4T",
