@@ -166,10 +166,10 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_izfzBV": {
+    "multicolumn_JNpC9x": {
       "type": "multicolumn",
       "blocks": {
-        "column_aLGeD3": {
+        "column_RCVfWp": {
           "type": "column",
           "settings": {
             "title": "",
@@ -178,7 +178,7 @@
             "link": ""
           }
         },
-        "column_NkM7f8": {
+        "column_WmmMJT": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/cucina-e-tavola-piatti-frutta-e-dessert.webp",
@@ -190,8 +190,8 @@
         }
       },
       "block_order": [
-        "column_aLGeD3",
-        "column_NkM7f8"
+        "column_RCVfWp",
+        "column_WmmMJT"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -290,6 +290,51 @@
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 16
+      }
+    },
+    "multicolumn_izfzBV": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_aLGeD3": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_NkM7f8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/cucina-e-tavola-piatti-frutta-e-dessert.webp",
+            "title": "<strong>Una selezione di piatti da frutta e dessert per ogni occasione</strong>",
+            "text": "<p>All’interno della collezione trovi proposte pensate per interpretare esigenze e stili differenti: piatti <strong>dessert </strong>di design per <strong>torte</strong>, <strong>pasticcini </strong>e <strong>dolci </strong>monoporzione; piatti da <strong>frutta </strong>perfetti per <strong>colazione</strong>, <strong>merenda </strong>e fine pasto; piattini decorativi capaci di aggiungere colore e personalità alla tavola; piatti piccoli ideali anche per aperitivi, finger food e momenti informali.</p><p>Dalle linee più essenziali alle decorazioni più creative, la selezione raccoglie proposte adatte sia alla quotidianità sia alle occasioni speciali. Puoi scegliere <strong>piatti coordinati per una tavola ordinata</strong> oppure <strong>combinare colori, fantasie e brand diversi per un effetto mix & match più personale.</strong></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_aLGeD3",
+        "column_NkM7f8"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multicolumn_MtNpp6": {
@@ -399,7 +444,6 @@
         "column_hxxKx7",
         "column_wBRPWD"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -736,8 +780,9 @@
     "multicolumn_6xWCFn",
     "product-grid",
     "multicolumn_KWHCjy",
-    "multicolumn_izfzBV",
+    "multicolumn_JNpC9x",
     "multicolumn_J8w6Dd",
+    "multicolumn_izfzBV",
     "multicolumn_MtNpp6",
     "multicolumn_FnyeXB",
     "custom_liquid_AWdhed",
