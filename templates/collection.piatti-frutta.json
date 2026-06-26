@@ -751,9 +751,9 @@
         "collapsible_row_DATUwP": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Che cosa trovi nella collezione Piatti da Tavola?",
+            "heading": "Cosa comprende questa collezione?",
             "icon": "check_mark",
-            "row_content": "<p>Nella collezione Piatti da Tavola <strong>trovi piatti piani, piatti fondi, piatti dessert, set e servizi selezionati </strong>per apparecchiare con stile. Le proposte uniscono funzionalità, design e personalità, con soluzioni adatte sia all'<strong>uso quotidiano sia alle occasioni speciali</strong>.</p>",
+            "row_content": "<p>La collezione raccoglie <strong>piatti da frutta, piatti dessert, piattini decorativi e proposte dedicate alla tavola </strong>contemporanea provenienti da diversi brand selezionati da Unico & Multiplo</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -761,9 +761,9 @@
         "collapsible_row_hJdMc6": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Come scegliere i piatti da tavola?",
+            "heading": "Qual è la differenza tra un piatto da frutta e un piatto dessert?",
             "icon": "check_mark",
-            "row_content": "<p>Per scegliere i piatti da tavola <strong>considera l'uso che ne farai,</strong> lo stile della casa e il tipo di apparecchiatura che vuoi creare. <strong>Per tutti i giorni</strong> sono ideali piatti <strong>resistenti </strong>e facili da abbinare; per una <strong>tavola più scenografica </strong>puoi scegliere piatti <strong>decorati, colorati o con forme particolari.</strong></p>",
+            "row_content": "<p>Oggi le due<strong> tipologie </strong>vengono spesso utilizzate in modo<strong> intercambiabile. </strong>Entrambe sono adatte per servire dolci, frutta fresca, biscotti, colazioni leggere, merende e piccoli aperitivi.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -771,9 +771,9 @@
         "collapsible_row_GG6eXA": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Meglio un servizio coordinato o piatti diversi tra loro?",
+            "heading": "Questi piatti possono essere utilizzati anche per aperitivi e finger food?",
             "icon": "check_mark",
-            "row_content": "<p>Dipende dallo stile che vuoi ottenere. Un <strong>servizio coordinato crea una tavola ordinata ed elegante</strong>, mentre<strong> piatti diversi tra loro permettono una mise en place più creativa e personale</strong>. Puoi anche partire da una base neutra e aggiungere alcuni piatti decorativi o colorati.</p>",
+            "row_content": "<p><strong>Sì</strong>. Grazie alle loro dimensioni contenute sono <strong>ideali </strong>anche per snack, assaggi, finger food, piccoli antipasti e momenti informali.</p>",
             "page": "",
             "liquid_content": ""
           }
