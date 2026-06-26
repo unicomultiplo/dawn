@@ -389,7 +389,7 @@
           "type": "column",
           "settings": {
             "title": "<strong>I brand protagonisti della selezione</strong>",
-            "text": "<p>La collezione riunisce piatti da frutta e dessert firmati da alcuni dei marchi più interessanti del panorama design e home decor contemporaneo. Ogni brand interpreta il piatto dessert in modo differente: c’è chi punta su colori e decorazioni, chi su linee essenziali e chi su dettagli capaci di trasformare un semplice accessorio da tavola in un vero elemento decorativo.<br/><br/>Questa varietà permette di trovare facilmente il prodotto più adatto al proprio stile e di costruire una tavola coerente, vivace o volutamente eclettica.</p>",
+            "text": "<p>La collezione riunisce piatti da frutta e dessert firmati da alcuni dei brand più interessanti del panorama design e home decor contemporaneo. Ogni brand interpreta il piatto dessert in modo differente: c’è chi punta su <strong>colori e decorazioni, </strong>chi su <strong>linee essenziali</strong> e chi su dettagli capaci di trasformare un semplice accessorio da tavola in un vero elemento decorativo.<br/><br/>Questa <strong>varietà </strong>ti permette di trovare facilmente il prodotto più adatto al tuo <strong>stile </strong>e di costruire una tavola <strong>coerente, vivace o volutamente eclettica.</strong></p>",
             "link_label": "",
             "link": ""
           }
@@ -423,7 +423,7 @@
         "column_3xFfxt": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-kintsugi-servizio-18-pz-10.webp",
+            "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-2.webp",
             "title": "",
             "text": "<p><strong>Seletti</strong></p>",
             "link_label": "",
@@ -433,7 +433,7 @@
         "column_YzajCb": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/bitossi-home-ciao-mondo.webp",
+            "image": "shopify://shop_images/bitossi-home-dipinto-smerlo.webp",
             "title": "",
             "text": "<p><strong>Bitossi Home</strong></p>",
             "link_label": "",
@@ -443,7 +443,7 @@
         "column_FQVEpz": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-shabbychic-piatti-frutta-o21-5.jpg",
+            "image": "shopify://shop_images/KnIndustrie-Composizi-ne-Shabbychic_-posto-tavola_-set-pezzi-6.webp",
             "title": "",
             "text": "<p><strong>KnIndustrie</strong></p>",
             "link_label": "",
@@ -453,7 +453,7 @@
         "column_tbgMgt": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/brandani-piatto-frutta-dessert-calipso-stoneware.webp",
+            "image": "shopify://shop_images/brandani-oasi-vassoio-new-bone-china.jpg",
             "title": "",
             "text": "<p><strong>Brandani</strong></p>",
             "link_label": "",
@@ -487,16 +487,6 @@
         "padding_bottom": 0
       }
     },
-    "custom_liquid_AWdhed": {
-      "type": "custom-liquid",
-      "name": "t:sections.custom-liquid.presets.name",
-      "settings": {
-        "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Piatti\">\n  <nav class=\"quick-links-piatti\">\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Piani&sort_by=manual#product-grid\" class=\"button button--secondary button--small\">Piatti Piani</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Fondi&sort_by=manual#product-grid\" class=\"button button--secondary button--small\">Piatti Fondi</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti-frutta-e-dessert\" class=\"button button--secondary button--small\">Piatti Frutta</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Servizi+di+Piatti&sort_by=manual#product-grid\" class=\"button button--secondary button--small\">Set da Tavola</a>\n  </nav>\n</div>\n\n<style>\n  .quick-links-piatti {\n    display: flex;\n    flex-wrap: wrap;\n    gap: .5rem;\n    margin: .5rem 0 1rem;\n    justify-content: flex-start;\n  }\n</style>",
-        "color_scheme": "scheme-1",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "multicolumn_ikALKg": {
       "type": "multicolumn",
       "blocks": {
@@ -512,8 +502,8 @@
         "column_T3f7Di": {
           "type": "column",
           "settings": {
-            "title": "<strong>Set da tavola e Idee Regalo</strong>",
-            "text": "<p><strong>Un set di piatti da tavola</strong> è una scelta pratica per chi vuole una mise en place coordinata e pronta all'uso. Può essere essenziale, con piatti piani e fondi, oppure piu completo, con piatti dessert e pezzi da portata abbinati.</p><p>È una <strong>soluzione utile</strong> sia per rinnovare la tavola di casa sia per creare una base elegante da personalizzare con bicchieri, posate e accessori.</p><p><br/>I piatti sono anche un' <strong>ottima idea </strong>regalo per<strong> nuove case</strong>, <strong>matrimoni</strong>, <strong>compleanni </strong>e occasioni speciali. Un piatto decorativo, un set colorato o un servizio dal design originale sono  perfetti per chi ama vivere la tavola con cura e personalità.</p>",
+            "title": "<strong>Materiali e finiture che uniscono estetica e praticità</strong>",
+            "text": "<p>La selezione comprende piatti realizzati in <strong>porcellana, ceramica decorata, stoneware, melamina </strong>e altri materiali scelti per garantire qualità, resistenza e piacevolezza d’uso.</p><p><br/>La <strong>porcellana </strong>è ideale per una tavola <strong>elegante </strong>e luminosa, la <strong>ceramica</strong> e lo stoneware aggiungono una nota <strong>materica </strong>e contemporanea, mentre<strong> la melamina è pratica</strong>, leggera e adatta anche a contesti più <strong>informali</strong> e infine l<em>a </em><em><strong>bone china</strong></em><em> è la scelta per chi cerca il massimo della </em><em><strong>raffinatezza </strong></em><em>a tavola.</em></p><p><br/>Ogni finitura è pensata per integrarsi con naturalezza in ambienti contemporanei e per creare abbinamenti armoniosi con il resto del servizio tavola.</p>",
             "link_label": "",
             "link": ""
           }
@@ -523,7 +513,6 @@
         "column_A8rPaP",
         "column_T3f7Di"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -809,7 +798,6 @@
     "multicolumn_MtNpp6",
     "multicolumn_FnyeXB",
     "multicolumn_chXi8C",
-    "custom_liquid_AWdhed",
     "multicolumn_ikALKg",
     "image_banner_hf7WRX",
     "multicolumn_wDLcLp",
