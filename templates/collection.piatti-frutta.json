@@ -806,6 +806,16 @@
             "page": "",
             "liquid_content": ""
           }
+        },
+        "collapsible_row_L64hzD": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Meglio acquistare piatti da frutta singoli o set coordinati?",
+            "icon": "check_mark",
+            "row_content": "<p><strong>Dipende </strong>dall’uso. <strong>I piatti singoli </strong>sono ideali per creare una<strong> tavola mix & match</strong> o aggiungere un dettaglio decorativo. I set <strong>coordinati </strong>sono più indicati se vuoi completare <strong>un servizio tavola o fare un regalo pratico e già pronto all’uso.</strong></p>",
+            "page": "",
+            "liquid_content": ""
+          }
         }
       },
       "block_order": [
@@ -814,7 +824,8 @@
         "collapsible_row_GG6eXA",
         "collapsible_row_fKiyG6",
         "collapsible_row_3zyPPt",
-        "collapsible_row_MLAUny"
+        "collapsible_row_MLAUny",
+        "collapsible_row_L64hzD"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
