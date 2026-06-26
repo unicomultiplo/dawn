@@ -166,99 +166,6 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_KqNQMn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_WXTDhX": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Il_Frutto_della_Passione_Bitossi_Home-piatti.webp",
-            "title": "",
-            "text": "<p><strong>Piatti Piani</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Piani&sort_by=manual#product-grid"
-          }
-        },
-        "column_PUYF8Y": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-kintsugi-servizio-18-pz-9.webp",
-            "title": "",
-            "text": "<p><strong>Piatti Fondi</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Fondi&sort_by=manual#product-grid"
-          }
-        },
-        "column_FQDx4z": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/bitossi-home-la-tavola-ciao-mondo-piattini.webp",
-            "title": "",
-            "text": "<p><strong>Piatti Dessert e da Frutta</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-piatti-frutta-e-dessert"
-          }
-        },
-        "column_h4KgFm": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/bitossi-home-la-tavola-abracadabra.webp",
-            "title": "",
-            "text": "<p><strong>Servizi Di Piatti</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Servizi+di+Piatti&sort_by=manual#product-grid"
-          }
-        },
-        "column_DGTkwt": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/the-club-piatto-pizza.jpg",
-            "title": "",
-            "text": "<p><strong>Piatti Pizza</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Pizza&sort_by=manual#product-grid"
-          }
-        },
-        "column_KpmyN9": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/treccia-bitossi-home-vimini_1.jpg",
-            "title": "",
-            "text": "<p><strong>Vassoi</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata"
-          }
-        }
-      },
-      "block_order": [
-        "column_WXTDhX",
-        "column_PUYF8Y",
-        "column_FQDx4z",
-        "column_h4KgFm",
-        "column_DGTkwt",
-        "column_KpmyN9"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 16
-      }
-    },
     "multicolumn_izfzBV": {
       "type": "multicolumn",
       "blocks": {
@@ -274,8 +181,9 @@
         "column_NkM7f8": {
           "type": "column",
           "settings": {
-            "title": "<strong>Come scegliere i piatti da tavola</strong>",
-            "text": "<p>Per scegliere i piatti da tavola giusti parti dalle tue abitudini. Se cerchi <strong>piatti per tutti i giorni,</strong> punta su modelli resistenti, facili da lavare e semplici da abbinare a bicchieri, posate e tovagliato. Se invece vuoi creare una <strong>tavola piu scenografica</strong>, scegli piatti decorati, colorati o con forme particolari.</p><p>Una buona selezione dovrebbe includere piatti piani, piatti fondi e piatti dessert, cosi da accompagnare ogni momento del pasto. Puoi scegliere un servizio <strong>coordinato per un effetto ordinato</strong>, oppure mixare <strong>fantasie e colori diversi per una tavola piu personale e contemporanea.</strong></p>",
+            "image": "shopify://shop_images/cucina-e-tavola-piatti-frutta-e-dessert.webp",
+            "title": "<strong>Una selezione di piatti da frutta e dessert per ogni occasione</strong>",
+            "text": "<p>All’interno della collezione trovi proposte pensate per interpretare esigenze e stili differenti: piatti <strong>dessert </strong>di design per <strong>torte</strong>, <strong>pasticcini </strong>e <strong>dolci </strong>monoporzione; piatti da <strong>frutta </strong>perfetti per <strong>colazione</strong>, <strong>merenda </strong>e fine pasto; piattini decorativi capaci di aggiungere colore e personalità alla tavola; piatti piccoli ideali anche per aperitivi, finger food e momenti informali.</p><p>Dalle linee più essenziali alle decorazioni più creative, la selezione raccoglie proposte adatte sia alla quotidianità sia alle occasioni speciali. Puoi scegliere <strong>piatti coordinati per una tavola ordinata</strong> oppure <strong>combinare colori, fantasie e brand diversi per un effetto mix & match più personale.</strong></p>",
             "link_label": "",
             "link": ""
           }
@@ -285,7 +193,6 @@
         "column_aLGeD3",
         "column_NkM7f8"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -365,7 +272,6 @@
         "column_eLeqwk",
         "column_CbPFeM"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -458,7 +364,6 @@
         "column_YdwjVc",
         "column_fcACXf"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -818,19 +723,18 @@
         "collapsible_row_fKiyG6",
         "collapsible_row_3zyPPt"
       ],
-      "disabled": true,
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
-        "caption": "Una guida rapida per scegliere piatti da tavola e idee regalo dal mondo Unico & Multiplo.",
-        "heading": "FAQ - Domande frequenti su Piatti da Tavola",
+        "caption": "Una guida rapida per scegliere piatti da frutta dal mondo Unico & Multiplo.",
+        "heading": "FAQ - Domande frequenti su Piatti da Frutta",
         "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "row",
         "color_scheme": "",
         "container_color_scheme": "scheme-2",
         "open_first_collapsible_row": true,
-        "image": "shopify://shop_images/Bitossi-Home-Piatti_1.webp",
-        "image_ratio": "adapt",
+        "image": "shopify://shop_images/bitossi-home-ciao-mondo-torchon.webp",
+        "image_ratio": "large",
         "desktop_layout": "image_first",
         "padding_top": 36,
         "padding_bottom": 36
@@ -843,7 +747,6 @@
     "multicolumn_6xWCFn",
     "product-grid",
     "multicolumn_KWHCjy",
-    "multicolumn_KqNQMn",
     "multicolumn_izfzBV",
     "multicolumn_J8w6Dd",
     "multicolumn_MtNpp6",
