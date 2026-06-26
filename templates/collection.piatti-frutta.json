@@ -37,7 +37,7 @@
         "column_F8gx46": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-hybrid-piatti-tavola.webp",
+            "image": "shopify://shop_images/seletti-kintsugi-servizio-18-pz-10.webp",
             "title": "",
             "text": "<p><strong>Seletti</strong></p>",
             "link_label": "",
@@ -47,7 +47,7 @@
         "column_WXtPTq": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/tovaglie-tovagliette-bitossi-home_2_1.webp",
+            "image": "shopify://shop_images/bitossi-home-ciao-mondo.webp",
             "title": "",
             "text": "<p><strong>Bitossi Home</strong></p>",
             "link_label": "",
@@ -57,7 +57,7 @@
         "column_77eT6x": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Knindustrie-servizi-piatti.webp",
+            "image": "shopify://shop_images/knindustrie-shabbychic-piatti-frutta-o21-5.jpg",
             "title": "",
             "text": "<p><strong>KnIndustrie</strong></p>",
             "link_label": "",
@@ -67,7 +67,7 @@
         "column_yEMeA6": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/calipso-brandani-servizio.webp",
+            "image": "shopify://shop_images/brandani-flora-piattino-set-2-_pz-in-porcellana.jpg",
             "title": "",
             "text": "<p><strong>Brandani</strong></p>",
             "link_label": "",
@@ -88,7 +88,7 @@
         "title": "<strong>Scegli per Brand</strong>",
         "heading_size": "h2",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "none",
