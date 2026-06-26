@@ -388,7 +388,7 @@
           "type": "column",
           "settings": {
             "title": "<strong>Materiali e finiture che uniscono estetica e praticità</strong>",
-            "text": "<p>La selezione comprende piatti realizzati in <strong>porcellana, ceramica decorata, stoneware, melamina </strong>e altri materiali scelti per garantire qualità, resistenza e piacevolezza d’uso.</p><p><br/>La <strong>porcellana </strong>è ideale per una tavola <strong>elegante </strong>e luminosa, la <strong>ceramica</strong> e lo stoneware aggiungono una nota <strong>materica </strong>e contemporanea, mentre<strong> la melamina è pratica</strong>, leggera e adatta anche a contesti più <strong>informali</strong> e infine l<em>a </em><em><strong>bone china</strong></em><em> è la scelta per chi cerca il massimo della </em><em><strong>raffinatezza </strong></em><em>a tavola.</em></p><p><br/>Ogni finitura è pensata per integrarsi con naturalezza in ambienti contemporanei e per creare abbinamenti armoniosi con il resto del servizio tavola.</p>",
+            "text": "<p>La selezione comprende piatti realizzati in <strong>porcellana, ceramica decorata, stoneware, melamina </strong>e altri materiali scelti per garantire qualità, resistenza e piacevolezza d’uso.</p><p><br/>La <strong>porcellana </strong>è ideale per una tavola <strong>elegante </strong>e luminosa, la <strong>ceramica</strong> e lo stoneware aggiungono una nota <strong>materica </strong>e contemporanea, mentre<strong> la melamina è pratica</strong>, leggera e adatta anche a contesti più <strong>informali</strong> e infine la<em> </em><em><strong>bone china</strong></em><em> è la scelta per chi cerca il massimo della </em><em><strong>raffinatezza </strong></em><em>a tavola.</em></p><p><br/>Ogni finitura è pensata per integrarsi con naturalezza in ambienti contemporanei e per creare abbinamenti armoniosi con il resto del servizio tavola.</p>",
             "link_label": "",
             "link": ""
           }
@@ -777,16 +777,6 @@
             "liquid_content": ""
           }
         },
-        "collapsible_row_fKiyG6": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "I piatti da tavola sono una buona idea regalo?",
-            "icon": "check_mark",
-            "row_content": "<p><strong>Si,</strong> i piatti da tavola sono una buona idea regalo perchè sono utili, durano nel tempo e possono avere un forte valore estetico. Un set di piatti, un piatto decorativo o un servizio <strong>originale </strong>sono adatti <strong>per nuove case, matrimoni, compleanni e occasioni speciali.</strong></p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
         "collapsible_row_3zyPPt": {
           "type": "collapsible_row",
           "settings": {
@@ -800,7 +790,7 @@
         "collapsible_row_MLAUny": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Sono una buona idea regalo?",
+            "heading": "I Piatti Frutta sono una buona idea regalo?",
             "icon": "check_mark",
             "row_content": "<p><strong>Sì. I piatti da frutta e dessert sono</strong> un regalo <strong>utile, versatile e sempre apprezzato, </strong>soprattutto per chi ama la casa, la tavola, il design e i dettagli originali.</p>",
             "page": "",
@@ -822,7 +812,6 @@
         "collapsible_row_DATUwP",
         "collapsible_row_hJdMc6",
         "collapsible_row_GG6eXA",
-        "collapsible_row_fKiyG6",
         "collapsible_row_3zyPPt",
         "collapsible_row_MLAUny",
         "collapsible_row_L64hzD"
