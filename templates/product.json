@@ -231,7 +231,7 @@
             "icon": "ruler",
             "row_content": "",
             "page": "",
-            "liquid_content": "{% if product.metafields.shopify.material %}\n<div>\n  Materiale: {% for material in product.metafields.shopify.material.value %}\n          {{ material.label }}\n       {% endfor %}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.lunghezza.value %}\n<div>\n  Lunghezza: {{ product.metafields.custom.lunghezza.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.altezza_2.value %}\n<div>\n  Altezza: {{ product.metafields.custom.altezza_2.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.profondita.value %}\n<div>\n  Profondita: {{ product.metafields.custom.profondita.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.diametro_2.value %}\n<div>\n  Diametro: {{ product.metafields.custom.diametro_2.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.designer.value %}\n<div>\n  Designer: {{ product.metafields.custom.designer.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.capacit_.value %}\n<div>\n  Capacita: {{ product.metafields.custom.capacit_.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.collezione.value %}\n<div>\n  Collezione: {% for collezione in product.metafields.custom.collezione.value %}\n    <a href=\"{{ collezione.url }}\">{{ collezione.title }}</a>{% unless forloop.last %}, {% endunless %}\n  {% endfor %}\n</div>\n{% endif %}"
+            "liquid_content": "{% if product.metafields.shopify.material %}\n<div>\n  Materiale: {% for material in product.metafields.shopify.material.value %}\n          {{ material.label }}\n       {% endfor %}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.lunghezza.value %}\n<div>\n  Lunghezza: {{ product.metafields.custom.lunghezza.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.altezza_2.value %}\n<div>\n  Altezza: {{ product.metafields.custom.altezza_2.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.profondita.value %}\n<div>\n  Profondita: {{ product.metafields.custom.profondita.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.diametro_2.value %}\n<div>\n  Diametro: {{ product.metafields.custom.diametro_2.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.designer.value %}\n<div>\n  Designer: {{ product.metafields.custom.designer.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.capacit_.value %}\n<div>\n  Capacita: {{ product.metafields.custom.capacit_.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.collezione.value %}\n<div>\n  Collezione: {% for collezione in product.metafields.custom.collezione.value %}\n    <strong><a href=\"{{ collezione.url }}\">{{ collezione.title }}</strong></a>{% unless forloop.last %}, {% endunless %}\n  {% endfor %}\n</div>\n{% endif %}"
           }
         }
       },
@@ -242,7 +242,8 @@
       "custom_css": [
         ".collapsible-content-wrapper-narrow {max-width: 100%; padding: 0px;}",
         ".gradient {background: transparent !important;}",
-        ".collapsible-content {padding-top: 0px; padding-bottom: 0px;}"
+        ".collapsible-content {padding-top: 0px; padding-bottom: 0px;}",
+        "a,a:link,a:visited {color: var(--highlight-color-2) !important; text-decoration-color: var(--highlight-color-2) !important;}"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
