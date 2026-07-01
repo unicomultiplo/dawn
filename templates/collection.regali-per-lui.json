@@ -13,7 +13,7 @@
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h1>{{ collection.title }}</h1>\n</div>\n</section>",
+        "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h2 class=\"h1\">{{ collection.title }}</h2>\n</div>\n</section>",
         "color_scheme": "",
         "padding_top": 20,
         "padding_bottom": 0
@@ -92,17 +92,6 @@
         "padding_bottom": 0
       }
     },
-    "banner": {
-      "type": "main-collection-banner",
-      "custom_css": [
-        "h1 {display: none;}"
-      ],
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": false,
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -123,6 +112,15 @@
         "padding_bottom": 36
       }
     },
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
+      }
+    },
     "multicolumn_nEp8EE": {
       "type": "multicolumn",
       "blocks": {
@@ -139,7 +137,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Ogni uomo<strong> ha il suo stile, i suoi interessi</strong> e un’idea diversa di cosa sia “utile” o “speciale”. Scegliere un regalo davvero azzeccato significa partire da <strong>chi è</strong>, dal suo modo di vivere e dal valore che dà alle cose.</p>",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -151,7 +149,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Idee regalo pensate su misura per lui",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -173,14 +171,14 @@
         "heading_DzJgYi": {
           "type": "heading",
           "settings": {
-            "heading": "",
+            "heading": "Idee regalo pensate su misura per lui",
             "heading_size": "h1"
           }
         },
         "text_beWgtQ": {
           "type": "text",
           "settings": {
-            "text": "<h3><strong>Un regalo per il fidanzato o per il marito che non sia mai banale</strong></h3><p>Sorprendere chi ami ogni volta è possibile, basta puntare su oggetti che uniscano <strong>design, significato e cura del dettaglio</strong>.<br/>Pensa ad un accessorio con un dettaglio simbolico, a un orologio dal fascino senza tempo, o a un’esperienza da condividere: il regalo perfetto è quello che racconta la vostra storia.<br/></p>",
+            "text": "<p>Ogni uomo<strong> ha il suo stile, i suoi interessi</strong> e un’idea diversa di cosa sia “utile” o “speciale”. Scegliere un regalo davvero azzeccato significa partire da <strong>chi è</strong>, dal suo modo di vivere e dal valore che dà alle cose.</p><h3><strong>Un regalo per il fidanzato o per il marito che non sia mai banale</strong></h3><p>Sorprendere chi ami ogni volta è possibile, basta puntare su oggetti che uniscano <strong>design, significato e cura del dettaglio</strong>.<br/>Pensa ad un accessorio con un dettaglio simbolico, a un orologio dal fascino senza tempo, o a un’esperienza da condividere: il regalo perfetto è quello che racconta la vostra storia.<br/></p>",
             "text_style": "body"
           }
         },
@@ -752,8 +750,8 @@
     "custom_liquid_qhaW9a",
     "custom_liquid_V4d3KX",
     "collection_list_rE9hxw",
-    "banner",
     "product-grid",
+    "banner",
     "multicolumn_nEp8EE",
     "image_with_text_bkAqWb",
     "image_with_text_berWQ6",
