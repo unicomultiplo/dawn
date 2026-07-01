@@ -141,7 +141,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>Come scegliere un regalo originale</strong>",
+        "title": "<strong>Come scegliere un regalo originale </strong><a><em>🎯</em><strong> </strong></a>",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
