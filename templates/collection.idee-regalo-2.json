@@ -102,24 +102,13 @@
         "padding_bottom": 36
       }
     },
-    "banner": {
-      "type": "main-collection-banner",
-      "custom_css": [
-        "a {color: #598db2;}"
-      ],
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": true,
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
-      }
-    },
     "multicolumn_MEiyUc": {
       "type": "multicolumn",
       "blocks": {
         "column_AdAkhU": {
           "type": "column",
           "settings": {
-            "title": "🛍️ <strong>Acquistare un regalo online senza pensieri</strong>",
+            "title": "<strong>Acquistare un regalo online senza pensieri</strong>",
             "text": "<p>Su <strong>Unico & Multiplo</strong> trovi idee regalo originali e di design per ogni occasione, con un'esperienza d'acquisto semplice e sicura.<br/><br/>🎁<em> Confezione regalo disponibile<br/>🚚 Spedizione gratuita sopra 79€<br/>🏪 Ritiro gratuito in negozio<br/>💬 Consulenza via WhatsApp per aiutarti a trovare il regalo ideale</em></p>",
             "link_label": "",
             "link": ""
@@ -157,6 +146,17 @@
         "padding_bottom": 0
       }
     },
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        "a {color: #598db2;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
+      }
+    },
     "multicolumn_gQFfTd": {
       "type": "multicolumn",
       "blocks": {
@@ -164,7 +164,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Chi ha detto che un regalo debba essere serio? A volte il dono più bello è quello che fa sorridere, sorprende e resta impresso. In questa collezione trovi <strong>idee regalo originali e divertenti</strong>, perfette per chi ama oggetti creativi, curiosi e un po’ fuori dagli schemi.</p><p>Dimentica i pensieri prevedibili: qui ci sono <strong>sorprese utili ma con un twist ironico</strong>, accessori ingegnosi e dettagli che sanno stupire con leggerezza. <br/><br/></p><h3><strong>Regali divertenti che fanno sorridere<br/></strong></h3><p>Regalare qualcosa di inatteso è un piacere autentico: piccoli gesti che sorprendono e fanno stare bene. <strong>Piccole sorprese con grande effetto: idee regalo spiritose, inattese e piene di allegria. Perché il dono più bello è quello che strappa un sorriso.</strong><br/>Scopri la selezione <strong>Fun & Wow</strong>: regali originali e sorprendenti pensati per portare buonumore e stupore a ogni occasione.</p>",
+            "text": "<p>Chi ha detto che un regalo debba essere serio? A volte il dono più bello è quello che fa sorridere, sorprende e resta impresso. In questa collezione trovi <strong>idee regalo originali e divertenti</strong>, perfette per chi ama oggetti creativi, curiosi e un po’ fuori dagli schemi.</p><p>Dimentica i pensieri prevedibili: qui ci sono <strong>sorprese utili ma con un twist ironico</strong>, accessori ingegnosi e dettagli che sanno stupire con leggerezza. <br/><br/></p><h3><strong>Regali divertenti che fanno sorridere<br/></strong></h3><p>Regalare qualcosa di inatteso è un piacere autentico: piccoli gesti che sorprendono e fanno stare bene. <strong>Piccole sorprese con grande effetto: idee regalo spiritose, inattese e piene di allegria. Perché il dono più bello è quello che strappa un sorriso.</strong><br/>Scopri la selezione <strong>Fun & Wow</strong>: regali originali e sorprendenti pensati per portare buonumore e stupore a ogni occasione.</p><p></p><p></p>",
             "link_label": "",
             "link": ""
           }
@@ -219,7 +219,7 @@
           "settings": {
             "image": "shopify://shop_images/disegnetti-depressetti-portachiavi_4.webp",
             "title": "",
-            "text": "<p><strong>Disgnetti Depressetti</strong><br/>Ironia nera, umore chiaro<strong> →</strong></p>",
+            "text": "<p><strong>Disegnetti Depressetti</strong><br/>Ironia nera, umore chiaro<strong> →</strong></p>",
             "link_label": "",
             "link": "shopify://collections/disegnetti-depressetti"
           }
@@ -299,7 +299,7 @@
         "column_bete6U": {
           "type": "column",
           "settings": {
-            "title": "<a><em>🎯</em><strong> </strong></a><strong>Come scegliere un regalo originale</strong>",
+            "title": "<strong>Come scegliere un regalo originale</strong>",
             "text": "<p>Per scegliere un regalo originale parti da tre domande: <br/></p><ol><li><strong>A chi è destinato?</strong></li><li><strong>In quale occasione verrà donato?</strong></li><li><strong>Quale budget vuoi rispettare?</strong></li></ol><p></p><p>Il regalo giusto non deve solo sorprendere: deve essere utile, <strong>coerente con lo stile di chi lo riceve </strong>e capace di restare nel tempo.</p><p><br/><strong>Per chi ama la casa</strong> funzionano oggetti decorativi, lampade, accessori per la tavola e complementi di design;<strong> per chi preferisce pensieri pratici </strong>sono ideali articoli per cucina, viaggio, relax o quotidianità.</p>",
             "link_label": "",
             "link": ""
@@ -345,7 +345,7 @@
           "settings": {
             "title": "",
             "text": "<p>Ci sono doni che parlano da soli. Un dono di design è qualcosa che non si limita a stupire al primo sguardo: resta, si fa notare ogni giorno, diventa parte dei ricordi più belli. Per questo un regalo con stile non è mai banale, ma è un segno di attenzione che racconta chi sei e cosa vuoi trasmettere.<br/><br/></p><h3><strong>Oggetti iconici che non passano di moda</strong></h3><p>Ci sono pezzi che non invecchiano mai: nascono da idee audaci e diventano simboli di creatività.<br/>Gli oggetti  visionari e irriverenti di <a href=\"/collections/seletti\" title=\"Seletti\"><strong>Seletti</strong></a>, le collezioni colorate e senza tempo di <a href=\"/collections/bitossi-home\" title=\"Bitossi Home\"><strong>Bitossi</strong>,</a> o le linee essenziali firmate per <a href=\"/collections/knindustrie\" title=\"KnIndustrie\"><strong>KnIndustrie</strong>:</a> oggetti che parlano di sogni, ironia e bellezza. Un regalo così non è solo un pensiero: è una storia che continua nel tempo.</p>",
-            "link_label": "",
+            "link_label": "Scopri la nostra selezione Design Pick: una raccolta di oggetti iconici scelti per chi ama distinguersi.",
             "link": ""
           }
         },
@@ -434,7 +434,7 @@
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
-        "title": "Scopri la nostra selezione <em>Design Pick</em>: una raccolta di oggetti iconici scelti per chi ama distinguersi.",
+        "title": "",
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 6,
@@ -791,13 +791,6 @@
     "image_with_text_naHbji": {
       "type": "image-with-text",
       "blocks": {
-        "heading_xAJCLb": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h2"
-          }
-        },
         "text_TggLKE": {
           "type": "text",
           "settings": {
@@ -815,7 +808,6 @@
         }
       },
       "block_order": [
-        "heading_xAJCLb",
         "text_TggLKE",
         "button_ayA6t3"
       ],
@@ -991,8 +983,8 @@
           "settings": {
             "image": "shopify://shop_images/IMG_6489.jpg",
             "caption": "",
-            "heading": "",
-            "text": "<h3><strong>Regali last-minute e confezione regalo</strong></h3><p>Hai poco tempo ma non vuoi rinunciare a stupire? Con noi non è un problema: puoi contare su spedizioni rapide e sulla possibilità di <a href=\"/policies/contact-information\" title=\"Contact Information\"><strong>ritiro in negozio sempre attiva</strong></a>, così il tuo regalo è subito nelle tue mani.<br/><br/>E se desideri un tocco in più, la <strong>confezione regalo è sempre disponibile</strong>: curata nei dettagli, elegante e pronta per essere donata.<br/><br/>Per qualsiasi esigenza speciale, basta <a href=\"/policies/contact-information\" title=\"Contact Information\"><strong>scriverci</strong></a>: amiamo il rapporto<strong> con i nostri clienti</strong>, perché ogni regalo merita attenzione personale e la certezza di essere perfetto.</p>",
+            "heading": "Regali last-minute e confezione regalo",
+            "text": "<p>Hai poco tempo ma non vuoi rinunciare a stupire? Con noi non è un problema: puoi contare su spedizioni rapide e sulla possibilità di <a href=\"/policies/contact-information\" title=\"Contact Information\"><strong>ritiro in negozio sempre attiva</strong></a>, così il tuo regalo è subito nelle tue mani.<br/><br/>E se desideri un tocco in più, la <strong>confezione regalo è sempre disponibile</strong>: curata nei dettagli, elegante e pronta per essere donata.<br/><br/>Per qualsiasi esigenza speciale, basta <a href=\"/policies/contact-information\" title=\"Contact Information\"><strong>scriverci</strong></a>: amiamo il rapporto<strong> con i nostri clienti</strong>, perché ogni regalo merita attenzione personale e la certezza di essere perfetto.</p>",
             "button_label": "Scrivici su WhatsApp!",
             "button_link": "https://api.whatsapp.com/send?phone=390733810100&text=&source=&data=&app_absent="
           }
@@ -1002,8 +994,8 @@
           "settings": {
             "image": "shopify://shop_images/logo-unico-e-multiplo_698f486d-399f-47b4-9525-c0f0a67a6fd8.webp",
             "caption": "",
-            "heading": "",
-            "text": "<h3><strong>Regali sicuri, con reso e cambi semplici</strong></h3><p><br/>Fare un regalo è ancora più piacevole se lo fai in totale tranquillità. Con Unico & Multiplo hai la certezza di acquistare senza pensieri: le nostre <a href=\"/policies/shipping-policy\" title=\"Shipping Policy\"><strong>politiche di reso e cambio</strong></a> sono semplici, trasparenti e veloci.<br/><br/>Se il regalo non è perfetto o c’è bisogno di un cambio, ti seguiamo passo dopo passo fino alla soluzione, perché la tua esperienza deve essere serena tanto quanto il sorriso di chi riceve il dono.<br/><br/>In più, hai sempre la <strong>spedizione gratuita sopra i 79€</strong>, così sorprendere chi ami diventa ancora più conveniente.</p>",
+            "heading": "Regali sicuri, con reso e cambi semplici",
+            "text": "<p>Fare un regalo è ancora più piacevole se lo fai in totale tranquillità. Con Unico & Multiplo hai la certezza di acquistare senza pensieri: le nostre <a href=\"/policies/shipping-policy\" title=\"Shipping Policy\"><strong>politiche di reso e cambio</strong></a> sono semplici, trasparenti e veloci.<br/><br/>Se il regalo non è perfetto o c’è bisogno di un cambio, ti seguiamo passo dopo passo fino alla soluzione, perché la tua esperienza deve essere serena tanto quanto il sorriso di chi riceve il dono.<br/><br/>In più, hai sempre la <strong>spedizione gratuita sopra i 79€</strong>, così sorprendere chi ami diventa ancora più conveniente.</p>",
             "button_label": "Scopri tutti i dettagli nella nostra policy di spedizione, reso e cambi",
             "button_link": "shopify://policies/shipping-policy"
           }
@@ -1097,7 +1089,7 @@
       "custom_css": [],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
-        "caption": "",
+        "caption": "FAQ",
         "heading": "Consigli e spunti per scegliere il regalo giusto",
         "heading_size": "h1",
         "heading_alignment": "center",
@@ -1230,8 +1222,8 @@
     "custom_liquid_wjxQE8",
     "collection_list_NNiNDw",
     "product-grid",
-    "banner",
     "multicolumn_MEiyUc",
+    "banner",
     "multicolumn_gQFfTd",
     "multicolumn_nDWC38",
     "multicolumn_mJL4ce",
