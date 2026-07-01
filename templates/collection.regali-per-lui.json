@@ -70,7 +70,7 @@
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 6,
         "color_scheme": "",
