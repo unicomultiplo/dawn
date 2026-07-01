@@ -843,8 +843,8 @@
         "column_jxh3hD": {
           "type": "column",
           "settings": {
-            "title": "",
-            "text": "<h3><strong>Idee regalo per fascia di prezzo, da 50€ a 150€</strong><br/></h3><p><br/>Scegliere un regalo diventa più semplice quando sai già qual è il budget: non si tratta solo di una cifra, ma di <strong>un modo diverso di raccontare attenzione e affetto</strong>.<br/>Che tu stia cercando un pensiero leggero, un dono dal giusto equilibrio o un oggetto speciale per un’occasione importante, troverai sempre un’idea originale pronta a sorprendere.<em> Ecco tre soglie di prezzo pensate per guidarti, senza rinunciare all’originalità.</em></p>",
+            "title": "<strong>Idee regalo per fascia di prezzo, da 50€ a 150€</strong>",
+            "text": "<p>Scegliere un regalo diventa più semplice quando sai già qual è il budget: non si tratta solo di una cifra, ma di <strong>un modo diverso di raccontare attenzione e affetto</strong>.<br/>Che tu stia cercando un pensiero leggero, un dono dal giusto equilibrio o un oggetto speciale per un’occasione importante, troverai sempre un’idea originale pronta a sorprendere.<em> Ecco tre soglie di prezzo pensate per guidarti, senza rinunciare all’originalità.</em></p>",
             "link_label": "",
             "link": ""
           }
@@ -1042,8 +1042,8 @@
         "collapsible_row_dDchUM": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "",
-            "icon": "none",
+            "heading": "Trovare il regalo perfetto?",
+            "icon": "star",
             "row_content": "<p>Trovare il <strong>regalo perfetto</strong> non è sempre semplice: vuoi sorprendere, ma senza esagerare, e soprattutto vuoi che chi lo riceve lo apprezzi davvero. <strong>Ecco qualche consiglio</strong> per orientarti nella scelta, tra regali che strappano un sorriso e quelli che semplificano davvero la vita.</p>",
             "page": "",
             "liquid_content": ""
@@ -1054,7 +1054,7 @@
           "settings": {
             "heading": "Originale o utile? Trova l’equilibrio",
             "icon": "star",
-            "row_content": "<p>Un dono speciale nasce dall’armonia tra sorpresa e significato: qualcosa che colpisca il cuore con la sua originalità, ma che sappia anche accompagnare la vita di tutti i giorni. L’equilibrio perfetto si trova pensando a chi lo riceverà e al momento che si vuole celebrare.</p><p><strong>Ogni regalo è un’emozione da toccare.</strong><br/><br/>Per un<a href=\"/collections/idee-regalo-regali-per-lui\" title=\"Idee Regalo per Lui\"> <strong>amico o un partner</strong> </a>diventa un ricordo vivo: un’esperienza da condividere, un oggetto che custodisce sorrisi e battute segrete.<br/><br/><a href=\"/collections/idee-regalo-economiche\" title=\"Idee Regalo Economiche sotto i 50€\"><strong>Per i colleghi</strong></a> è leggerezza: un piccolo gesto che sorprende, un dettaglio ironico che illumina la giornata.<br/><br/><a href=\"/collections/idee-regalo-per-casa-e-cucina\" title=\"Idee Regalo per Casa e Cucina\">Per chi ama la <strong>praticità</strong>,</a> il dono giusto unisce bellezza e funzione: il calore del legno, la trasparenza del vetro, linee che semplificano la vita quotidiana.<br/><br/>E nei <strong>momenti che contano davvero</strong>, come una laurea, il regalo si fa simbolo: memoria di un passaggio, promessa di nuovi inizi.<br/><br/></p>",
+            "row_content": "<p>Un dono speciale nasce dall’armonia tra sorpresa e significato: qualcosa che colpisca il cuore con la sua originalità, ma che sappia anche accompagnare la vita di tutti i giorni. L’equilibrio perfetto si trova pensando a chi lo riceverà e al momento che si vuole celebrare.</p><p><strong>Ogni regalo è un’emozione da toccare.</strong><br/><br/>Per un <a href=\"/collections/idee-regalo-regali-per-lui\" title=\"Idee Regalo per Lui\"><strong>amico o un partner</strong> </a>diventa un ricordo vivo: un’esperienza da condividere, un oggetto che custodisce sorrisi e battute segrete.<br/><br/><a href=\"/collections/idee-regalo-economiche\" title=\"Idee Regalo Economiche sotto i 50€\"><strong>Per i colleghi</strong></a> è leggerezza: un piccolo gesto che sorprende, un dettaglio ironico che illumina la giornata.<br/><br/><a href=\"/collections/idee-regalo-per-casa-e-cucina\" title=\"Idee Regalo per Casa e Cucina\">Per chi ama la <strong>praticità</strong>,</a> il dono giusto unisce bellezza e funzione: il calore del legno, la trasparenza del vetro, linee che semplificano la vita quotidiana.<br/><br/>E nei <strong>momenti che contano davvero</strong>, come una laurea, il regalo si fa simbolo: memoria di un passaggio, promessa di nuovi inizi.<br/><br/></p>",
             "page": "",
             "liquid_content": ""
           }
