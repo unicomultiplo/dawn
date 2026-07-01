@@ -13,9 +13,9 @@
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h1>{{ collection.title }}</h1>\n</div>\n</section>",
+        "custom_liquid": "<section class=\"page-width\">\n  <div class=\"animate--slide-in scroll-trigger isolate\">\n    <h2 class=\"h1\">{{ collection.title }}</h2>\n  </div>\n</section>",
         "color_scheme": "scheme-1",
-        "padding_top": 20,
+        "padding_top": 16,
         "padding_bottom": 0
       }
     },
