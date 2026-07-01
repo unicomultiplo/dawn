@@ -109,7 +109,7 @@
       ],
       "settings": {
         "show_collection_description": true,
-        "show_collection_image": false,
+        "show_collection_image": true,
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
       }
     },
@@ -119,8 +119,8 @@
         "column_AdAkhU": {
           "type": "column",
           "settings": {
-            "title": "",
-            "text": "<p>Per scegliere un regalo originale parti da tre domande: <br/></p><ol><li><strong>A chi è destinato?</strong></li><li><strong>In quale occasione verrà donato?</strong></li><li><strong>Quale budget vuoi rispettare?</strong></li></ol><p></p><p>Il regalo giusto non deve solo sorprendere: deve essere utile, <strong>coerente con lo stile di chi lo riceve </strong>e capace di restare nel tempo.</p><p><br/><strong>Per chi ama la casa</strong> funzionano oggetti decorativi, lampade, accessori per la tavola e complementi di design;<strong> per chi preferisce pensieri pratici </strong>sono ideali articoli per cucina, viaggio, relax o quotidianità.</p>",
+            "title": "🛍️ <strong>Acquistare un regalo online senza pensieri</strong>",
+            "text": "<p>Su <strong>Unico & Multiplo</strong> trovi idee regalo originali e di design per ogni occasione, con un'esperienza d'acquisto semplice e sicura.<br/><br/>🎁<em> Confezione regalo disponibile<br/>🚚 Spedizione gratuita sopra 79€<br/>🏪 Ritiro gratuito in negozio<br/>💬 Consulenza via WhatsApp per aiutarti a trovare il regalo ideale</em></p>",
             "link_label": "",
             "link": ""
           }
@@ -141,7 +141,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>Come scegliere un regalo originale </strong><a><em>🎯</em><strong> </strong></a>",
+        "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -291,6 +291,50 @@
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 20
+      }
+    },
+    "multicolumn_mJL4ce": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_bete6U": {
+          "type": "column",
+          "settings": {
+            "title": "<a><em>🎯</em><strong> </strong></a><strong>Come scegliere un regalo originale</strong>",
+            "text": "<p>Per scegliere un regalo originale parti da tre domande: <br/></p><ol><li><strong>A chi è destinato?</strong></li><li><strong>In quale occasione verrà donato?</strong></li><li><strong>Quale budget vuoi rispettare?</strong></li></ol><p></p><p>Il regalo giusto non deve solo sorprendere: deve essere utile, <strong>coerente con lo stile di chi lo riceve </strong>e capace di restare nel tempo.</p><p><br/><strong>Per chi ama la casa</strong> funzionano oggetti decorativi, lampade, accessori per la tavola e complementi di design;<strong> per chi preferisce pensieri pratici </strong>sono ideali articoli per cucina, viaggio, relax o quotidianità.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pkikUJ": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_bete6U",
+        "column_pkikUJ"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 0
       }
     },
     "multicolumn_FJwELC": {
@@ -1190,6 +1234,7 @@
     "multicolumn_MEiyUc",
     "multicolumn_gQFfTd",
     "multicolumn_nDWC38",
+    "multicolumn_mJL4ce",
     "multicolumn_FJwELC",
     "collection_list_WFPANW",
     "multicolumn_NVe4JB",
