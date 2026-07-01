@@ -677,6 +677,74 @@
         "padding_bottom": 16
       }
     },
+    "collapsible_content_QkNdac": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_tmjiCN": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Cosa regalare a un uomo che ha già tutto?",
+            "icon": "star",
+            "row_content": "<p>Scegli un oggetto<strong> non banale ma utile:</strong> una lampada di design, un accessorio per la casa, un set per caffè o cocktail, un oggetto decorativo ironico o un regalo<strong> legato alle sue passioni.</strong></p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_kzfdfR": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quali sono le migliori idee regalo uomo?",
+            "icon": "star",
+            "row_content": "<p>Le <strong>migliori</strong> idee regalo uomo sono quelle che<strong> uniscono utilità, stile e personalità: </strong>accessori per la tavola, oggetti di design, articoli lifestyle, lampade, giochi da tavolo, set caffè e idee per il tempo libero.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_cAbpDP": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Cosa regalare a un fidanzato o marito?",
+            "icon": "star",
+            "row_content": "<p>Per un fidanzato o un marito scegli un <strong>regalo più personale:</strong> un oggetto <strong>simbolico</strong>, un complemento di design, un accessorio per la casa condivisa o un pensiero legato a un <strong>vostro rituale quotidiano.</strong></p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_cx7wRd": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Cosa regalare a un amico uomo?",
+            "icon": "star",
+            "row_content": "<p>Per un <strong>amico </strong>funzionano <strong>regali pratici, ironici o sorprendenti</strong>: accessori lifestyle, oggetti per la scrivania, giochi, articoli per cocktail, tazze, candele o piccoli oggetti di design.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_tmjiCN",
+        "collapsible_row_kzfdfR",
+        "collapsible_row_cAbpDP",
+        "collapsible_row_cx7wRd"
+      ],
+      "custom_css": [],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "FAQ",
+        "heading": "Consigli e spunti per scegliere il regalo giusto per lui",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": true,
+        "image": "shopify://shop_images/set-regalo-moka-lady-anne-brandani-queen.webp",
+        "image_ratio": "small",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner_Y4zkTQ": {
       "type": "image-banner",
       "blocks": {
@@ -742,6 +810,7 @@
     "multicolumn_8GyJR6",
     "multicolumn_LjNpMM",
     "multicolumn_dNWMPk",
+    "collapsible_content_QkNdac",
     "image_banner_Y4zkTQ"
   ]
 }
