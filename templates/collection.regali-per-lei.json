@@ -777,13 +777,24 @@
             "page": "",
             "liquid_content": ""
           }
+        },
+        "collapsible_row_dgPCjx": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Cosa regalare a un’amica o collega?",
+            "icon": "heart",
+            "row_content": "<p>Per un’amica o una collega scegli un <strong>regalo elegante, pratico o leggero:</strong> tazze, diffusori, piccoli accessori da scrivania, oggetti decorativi, beauty case o articoli lifestyle.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
         }
       },
       "block_order": [
         "collapsible_row_q4Ndg7",
         "collapsible_row_KwwJTx",
         "collapsible_row_c4F6hY",
-        "collapsible_row_6df7t3"
+        "collapsible_row_6df7t3",
+        "collapsible_row_dgPCjx"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
