@@ -112,15 +112,6 @@
         "padding_bottom": 36
       }
     },
-    "banner": {
-      "type": "main-collection-banner",
-      "custom_css": [],
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": false,
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
-      }
-    },
     "multicolumn_RwLTfX": {
       "type": "multicolumn",
       "blocks": {
@@ -163,6 +154,15 @@
         "swipe_on_mobile": false,
         "padding_top": 20,
         "padding_bottom": 0
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
       }
     },
     "multicolumn_nEp8EE": {
@@ -762,6 +762,72 @@
         "padding_bottom": 36
       }
     },
+    "collapsible_content_GXUjYW": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_q4Ndg7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Cosa regalare a una donna?",
+            "icon": "heart",
+            "row_content": "<p>Per scegliere un regalo adatto a una donna<strong> valuta stile, passioni e occasione. </strong>Per chi ama la casa funzionano lampade, vasi, oggetti decorativi, accessori per la tavola e profumazioni. Per chi preferisce regali utili sono più adatti articoli per cucina, beauty, viaggio, scrivania o tempo libero. Per mamma, compagna o sorella scegli un pensiero personale; per amica o collega meglio un oggetto <strong>elegante, pratico o sorprendente</strong></p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_KwwJTx": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Cosa regalare a una donna che ha già tutto?",
+            "icon": "heart",
+            "row_content": "<p><strong>Scegli un oggetto originale ma utile:</strong> una lampada di design, un vaso, una profumazione per ambienti, un accessorio per la tavola o un complemento decorativo <strong>legato al suo stile.</strong></p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_c4F6hY": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quali sono le migliori idee regalo per lei?",
+            "icon": "heart",
+            "row_content": "<p>Le migliori idee regalo per lei <strong>uniscono utilità, gusto e personalità</strong>: oggetti per la casa, accessori per cucina e tavola, lampade, beauty case, profumazioni, decorazioni e<strong> piccoli oggetti di design.</strong></p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_6df7t3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "",
+            "liquid_content": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_q4Ndg7",
+        "collapsible_row_KwwJTx",
+        "collapsible_row_c4F6hY",
+        "collapsible_row_6df7t3"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "FAQ",
+        "heading": "Contenuto comprimibile",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner_Y4zkTQ": {
       "type": "image-banner",
       "blocks": {
@@ -796,6 +862,7 @@
         "text_4VB6mP",
         "buttons_h43rUr"
       ],
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/idee-regalo-mogli-amica-fidanzata.-mamma.webp",
@@ -817,8 +884,8 @@
     "collection_list_jLGpVy",
     "custom_liquid_V4d3KX",
     "product-grid",
-    "banner",
     "multicolumn_RwLTfX",
+    "banner",
     "multicolumn_nEp8EE",
     "image_with_text_bkAqWb",
     "image_with_text_KGfyjb",
@@ -829,6 +896,7 @@
     "multicolumn_AYtpXd",
     "multicolumn_hMt3Yz",
     "multicolumn_DYHtJg",
+    "collapsible_content_GXUjYW",
     "image_banner_Y4zkTQ"
   ]
 }
