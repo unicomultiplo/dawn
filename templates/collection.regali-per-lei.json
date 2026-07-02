@@ -13,95 +13,9 @@
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h1>{{ collection.title }}</h1>\n</div>\n</section>",
+        "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h2 class=\"h1\">{{ collection.title }}</h2>\n</div>\n</section>",
         "color_scheme": "scheme-1",
         "padding_top": 20,
-        "padding_bottom": 0
-      }
-    },
-    "custom_liquid_V4d3KX": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "name": "t:sections.custom-liquid.presets.name",
-      "settings": {
-        "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Natale\">\n  <nav class=\"xmas-quick-links\">\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-compleanno\" class=\"button button--primary button--small\">Idee Regalo Compleanno</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-sposi\" class=\"button button--primary button--small\">Idee Regalo Anniversario</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-san-valentino\" class=\"button button--primary button--small\">Idee Regalo San Valentino</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-economiche\" class=\"button button--primary button--small\">Idee Regalo Sotto 50€</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-sotto-100-euro\" class=\"button button--primary button--small\">Idee Regalo Sotto 100€</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-sotto-150-euro\" class=\"button button--primary button--small\">Idee Regalo Sotto 150€</a>\n  </nav>\n</div>\n\n<style>\n  .xmas-quick-links {\n    display:flex;\n    flex-wrap:wrap;\n    gap:.5rem;\n    margin:.5rem 0 1rem;\n  }\n  /* Optional: bottoni a tutta larghezza su mobile */\n  @media (max-width: 749px) {\n    .xmas-quick-links a {\n      width: 100%;\n      justify-content: center;\n    }\n  }\n</style>",
-        "color_scheme": "scheme-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "banner": {
-      "type": "main-collection-banner",
-      "custom_css": [
-        "h1 {display: none;}"
-      ],
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": false,
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
-      }
-    },
-    "product-grid": {
-      "type": "main-collection-product-grid",
-      "settings": {
-        "products_per_page": 36,
-        "columns_desktop": 4,
-        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": true,
-        "quick_add": "none",
-        "enable_filtering": true,
-        "filter_type": "drawer",
-        "enable_sorting": true,
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn_nEp8EE": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_LPw6bA": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_jCfNXF": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p><strong>Ogni donna è unica</strong>, e anche il suo regalo dovrebbe esserlo.<br/>Il dono giusto nasce da <strong>attenzione, affetto e conoscenza</strong>: valorizza gusti, passioni e piccole abitudini quotidiane, raccontando il legame che vi unisce.<br/>Che si tratti di un <strong>pensiero per un’amica, di un regalo per la mamma o di un gesto d’amore per la tua compagna</strong>, qui trovi ispirazioni adatte a ogni tipo di relazione.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_LPw6bA",
-        "column_jCfNXF"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Idee regalo pensate su misura per lei",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
         "padding_bottom": 0
       }
     },
@@ -164,6 +78,90 @@
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_V4d3KX": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Natale\">\n  <nav class=\"xmas-quick-links\">\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-compleanno\" class=\"button button--primary button--small\">Idee Regalo Compleanno</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-sposi\" class=\"button button--primary button--small\">Idee Regalo Anniversario</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-san-valentino\" class=\"button button--primary button--small\">Idee Regalo San Valentino</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-economiche\" class=\"button button--primary button--small\">Idee Regalo Sotto 50€</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-sotto-100-euro\" class=\"button button--primary button--small\">Idee Regalo Sotto 100€</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-sotto-150-euro\" class=\"button button--primary button--small\">Idee Regalo Sotto 150€</a>\n  </nav>\n</div>\n\n<style>\n  .xmas-quick-links {\n    display:flex;\n    flex-wrap:wrap;\n    gap:.5rem;\n    margin:.5rem 0 1rem;\n  }\n  /* Optional: bottoni a tutta larghezza su mobile */\n  @media (max-width: 749px) {\n    .xmas-quick-links a {\n      width: 100%;\n      justify-content: center;\n    }\n  }\n</style>",
+        "color_scheme": "scheme-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 36,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "none",
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
+      }
+    },
+    "multicolumn_nEp8EE": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_LPw6bA": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_jCfNXF": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><strong>Ogni donna è unica</strong>, e anche il suo regalo dovrebbe esserlo.<br/>Il dono giusto nasce da <strong>attenzione, affetto e conoscenza</strong>: valorizza gusti, passioni e piccole abitudini quotidiane, raccontando il legame che vi unisce.<br/>Che si tratti di un <strong>pensiero per un’amica, di un regalo per la mamma o di un gesto d’amore per la tua compagna</strong>, qui trovi ispirazioni adatte a ogni tipo di relazione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_LPw6bA",
+        "column_jCfNXF"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Idee regalo pensate su misura per lei",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
         "padding_bottom": 0
       }
     },
@@ -774,8 +772,8 @@
     "custom_liquid_janaYD",
     "collection_list_jLGpVy",
     "custom_liquid_V4d3KX",
-    "banner",
     "product-grid",
+    "banner",
     "multicolumn_nEp8EE",
     "image_with_text_bkAqWb",
     "image_with_text_KGfyjb",
