@@ -173,7 +173,7 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
@@ -794,6 +794,50 @@
         "padding_bottom": 40
       }
     },
+    "multicolumn_izHCVW": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_iLjQrE": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Quanto spendere per un regalo di matrimonio?</strong>",
+            "text": "<p><em>Dipende dal rapporto con gli sposi e dal tipo di dono. </em></p><p><br/>🎁 Sotto i 50€ puoi scegliere oggetti simbolici o accessori per la casa.<br/><em>🏪 </em>Tra 50€ e 150€ trovi regali più completi per cucina, tavola e arredo. <br/>💝Sopra i 150€ puoi orientarti su complementi di design, set importanti o una gift card</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hzcAdj": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_iLjQrE",
+        "column_hzcAdj"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn_ifUFPk": {
       "type": "multicolumn",
       "blocks": {
@@ -985,6 +1029,7 @@
     "multicolumn_Gkr4nf",
     "multicolumn_pUhwyU",
     "rich_text_AAdtP9",
+    "multicolumn_izHCVW",
     "multicolumn_ifUFPk",
     "multicolumn_8Bf6AX",
     "image_banner_fNqNdc"
