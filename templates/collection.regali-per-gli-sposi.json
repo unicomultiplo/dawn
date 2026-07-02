@@ -140,6 +140,50 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_qprHFB": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_t9Fzgc": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_j6zzYC": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Cosa regalare agli sposi?</strong>",
+            "text": "<p> Per scegliere un regalo di matrimonio adatto agli sposi parti da tre elementi:</p><ol><li><strong> il loro stile di vita</strong></li><li><strong>la casa che stanno costruendo insieme</strong></li><li><strong>il rapporto che hai con la coppia.</strong></li></ol><p> Se vuoi un dono <strong>utile</strong>, scegli accessori per cucina e tavola, calici, vassoi, pentole, tessili o complementi per la casa. <br/>Se cerchi un regalo più <strong>originale</strong>, punta su lampade, vasi, oggetti decorativi o pezzi di design capaci di restare nel tempo.<br/>Per chi preferisce lasciare <strong>libertà </strong>di scelta, una <a href=\"/collections/buoni-regalo-e-gift-card-unico-multiplo\" title=\"Buoni Regalo e Gift Card Unico & Multiplo\"><strong>gift card</strong></a> può essere un’alternativa elegante alla classica busta.<br/><br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_t9Fzgc",
+        "column_j6zzYC"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn_tNwL4w": {
       "type": "multicolumn",
       "blocks": {
@@ -930,6 +974,7 @@
     "collection_list_9xnNba",
     "product-grid",
     "multicolumn_rFLwme",
+    "multicolumn_qprHFB",
     "multicolumn_tNwL4w",
     "multicolumn_NkmqAE",
     "multicolumn_iybDdk",
