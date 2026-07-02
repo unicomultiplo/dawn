@@ -81,17 +81,6 @@
         "padding_bottom": 0
       }
     },
-    "custom_liquid_V4d3KX": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "name": "t:sections.custom-liquid.presets.name",
-      "settings": {
-        "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Natale\">\n  <nav class=\"xmas-quick-links\">\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-compleanno\" class=\"button button--primary button--small\">Idee Regalo Compleanno</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-sposi\" class=\"button button--primary button--small\">Idee Regalo Anniversario</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-san-valentino\" class=\"button button--primary button--small\">Idee Regalo San Valentino</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-economiche\" class=\"button button--primary button--small\">Idee Regalo Sotto 50€</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-sotto-100-euro\" class=\"button button--primary button--small\">Idee Regalo Sotto 100€</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-sotto-150-euro\" class=\"button button--primary button--small\">Idee Regalo Sotto 150€</a>\n  </nav>\n</div>\n\n<style>\n  .xmas-quick-links {\n    display:flex;\n    flex-wrap:wrap;\n    gap:.5rem;\n    margin:.5rem 0 1rem;\n  }\n  /* Optional: bottoni a tutta larghezza su mobile */\n  @media (max-width: 749px) {\n    .xmas-quick-links a {\n      width: 100%;\n      justify-content: center;\n    }\n  }\n</style>",
-        "color_scheme": "scheme-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -754,7 +743,7 @@
           "settings": {
             "heading": "Cosa regalare a una donna?",
             "icon": "heart",
-            "row_content": "<p>Per scegliere un regalo adatto a una donna<strong> valuta stile, passioni e occasione. </strong>Per chi ama la casa funzionano lampade, vasi, oggetti decorativi, accessori per la tavola e profumazioni. Per chi preferisce regali utili sono più adatti articoli per cucina, beauty, viaggio, scrivania o tempo libero. Per mamma, compagna o sorella scegli un pensiero personale; per amica o collega meglio un oggetto <strong>elegante, pratico o sorprendente</strong></p>",
+            "row_content": "<p>Per scegliere un regalo adatto a una donna<strong> valuta stile, passioni e occasione. </strong>Per chi ama la casa funzionano lampade, vasi, oggetti decorativi, accessori per la tavola e profumazioni. Per chi preferisce regali utili sono più adatti articoli per cucina, beauty, viaggio, scrivania o tempo libero. Per mamma, compagna o sorella scegli un pensiero personale; per amica o collega meglio un oggetto <strong>elegante, pratico o sorprendente.</strong></p>",
             "page": "",
             "liquid_content": ""
           }
@@ -784,7 +773,7 @@
           "settings": {
             "heading": "Cosa regalare a una donna per il compleanno?",
             "icon": "heart",
-            "row_content": "<p>Per il compleanno funzionano regali <strong>personali ma non troppo generic</strong>i: accessori per la casa, oggetti decorativi, articoli per la tavola, lampade, profumazioni o pensieri <strong>legati alle sue passioni.</strong></p>",
+            "row_content": "<p>Per il compleanno funzionano regali <strong>personali ma non troppo generici:</strong> accessori per la casa, oggetti decorativi, articoli per la tavola, lampade, profumazioni o pensieri <strong>legati alle sue passioni.</strong></p>",
             "page": "",
             "liquid_content": ""
           }
@@ -867,7 +856,6 @@
   "order": [
     "custom_liquid_janaYD",
     "collection_list_jLGpVy",
-    "custom_liquid_V4d3KX",
     "product-grid",
     "multicolumn_RwLTfX",
     "banner",
