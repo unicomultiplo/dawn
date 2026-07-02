@@ -121,6 +121,50 @@
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
       }
     },
+    "multicolumn_RwLTfX": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_9HVjUW": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Regali per lei scelti senza stress</strong>",
+            "text": "<p>Su Unico & Multiplo trovi <strong>idee regalo per donna originali</strong>, utili e di design. Non ti resta che scegliere il pensiero più adatto.<br/><br/>🎁<em> Confezione regalo disponibile<br/>🚚 Spedizione gratuita sopra 79€<br/>🏪 Ritiro gratuito in negozio<br/>💬 Consulenza via WhatsApp per aiutarti a trovare il regalo ideale</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_EVNygw": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_9HVjUW",
+        "column_EVNygw"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn_nEp8EE": {
       "type": "multicolumn",
       "blocks": {
@@ -774,6 +818,7 @@
     "custom_liquid_V4d3KX",
     "product-grid",
     "banner",
+    "multicolumn_RwLTfX",
     "multicolumn_nEp8EE",
     "image_with_text_bkAqWb",
     "image_with_text_KGfyjb",
