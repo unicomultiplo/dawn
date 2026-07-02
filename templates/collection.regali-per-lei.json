@@ -212,13 +212,6 @@
     "image_with_text_bkAqWb": {
       "type": "image-with-text",
       "blocks": {
-        "heading_DzJgYi": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
         "text_beWgtQ": {
           "type": "text",
           "settings": {
@@ -236,7 +229,6 @@
         }
       },
       "block_order": [
-        "heading_DzJgYi",
         "text_beWgtQ",
         "button_LfpcHc"
       ],
@@ -260,13 +252,6 @@
     "image_with_text_KGfyjb": {
       "type": "image-with-text",
       "blocks": {
-        "heading_KyPfWQ": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
         "text_LWe9UV": {
           "type": "text",
           "settings": {
@@ -284,7 +269,6 @@
         }
       },
       "block_order": [
-        "heading_KyPfWQ",
         "text_LWe9UV",
         "button_azT8cf"
       ],
@@ -413,7 +397,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Ogni evento ha il suo dono ideale: dai momenti romantici alle grandi ricorrenze.<br/>Che si tratti di <strong>un anniversario, un compleanno o una cerimonia</strong>, qui trovi spunti per celebrare ogni tappa della sua storia con gusto e originalità.</p><h3><br/><strong>Regalo per fidanzata o moglie, tra emozione e design<br/></strong></h3><p>Romantico sì, ma mai banale! Scegli tra <strong>idee che raccontano amore con stile</strong>: oggetti di design, accessori eleganti o piccoli gesti simbolici che fanno emozionare.<br/>Regali che uniscono cuore ed estetica, perfetti per chi ama <strong>sorprendere con raffinatezza</strong>.</p><h3><br/><strong>Idee regalo compleanno donna per ogni età e personalità<br/></strong></h3><p>Ogni compleanno merita un’idea su misura: per la ragazza piena di energia, la donna elegante o la creativa sempre in movimento. Dalle proposte più ironiche a quelle raffinate, troverai <strong>regali che rispecchiano la sua personalità</strong>.<br/></p><h3><br/><strong>Regali per damigelle, testimoni e amiche per l’addio al nubilato<br/></strong></h3><p>Piccoli pensieri coordinati per ringraziare chi condivide con lei momenti unici.<strong> Oggetti simbolici, divertenti o utili </strong>che restano come ricordo di un giorno speciale.<br/></p>",
+            "text": "<p>Ogni evento ha il suo dono ideale: dai momenti romantici alle grandi ricorrenze.<br/>Che si tratti di <strong>un anniversario, un compleanno o una cerimonia</strong>, qui trovi spunti per celebrare ogni tappa della sua storia con gusto e originalità.</p><h3><br/><strong>Regalo per fidanzata o moglie, tra emozione e design</strong></h3><p>Romantico sì, ma mai banale! Scegli tra <strong>idee che raccontano amore con stile</strong>: oggetti di design, accessori eleganti o piccoli gesti simbolici che fanno emozionare.<br/>Regali che uniscono cuore ed estetica, perfetti per chi ama <strong>sorprendere con raffinatezza</strong>.</p><h3><br/><strong>Idee regalo compleanno donna per ogni età e personalità<br/></strong></h3><p>Ogni compleanno merita un’idea su misura: per la ragazza piena di energia, la donna elegante o la creativa sempre in movimento. Dalle proposte più ironiche a quelle raffinate, troverai <strong>regali che rispecchiano la sua personalità</strong>.<br/></p><h3><br/><strong>Regali per damigelle, testimoni e amiche per l’addio al nubilato<br/></strong></h3><p>Piccoli pensieri coordinati per ringraziare chi condivide con lei momenti unici.<strong> Oggetti simbolici, divertenti o utili </strong>che restano come ricordo di un giorno speciale.<br/></p>",
             "link_label": "",
             "link": ""
           }
