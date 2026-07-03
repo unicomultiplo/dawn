@@ -989,9 +989,9 @@
         "collapsible_row_zneJaz": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Meglio un regalo o una busta per il matrimonio?",
+            "icon": "heart",
+            "row_content": "<p><strong>Dipende dal rapporto con gli sposi </strong>e dalle loro preferenze. Un regalo di design è più personale e resta nel tempo; una<strong> gift card </strong>può essere una soluzione flessibile quando vuoi lasciare libertà di scelta.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -999,9 +999,9 @@
         "collapsible_row_d4TyFJ": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Cosa regalare a una coppia che va a vivere insieme?",
+            "icon": "heart",
+            "row_content": "<p>Per una <strong>coppia </strong>che costruisce casa sono utili <strong>accessori </strong>per <strong>cucina</strong>, <strong>set tavola,</strong> illuminazione, tessili, profumazioni, vasi, <strong>specchi</strong> e piccoli complementi d’arredo.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -1009,9 +1009,9 @@
         "collapsible_row_6YVrtw": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Quanto spendere per un regalo di matrimonio?",
+            "icon": "heart",
+            "row_content": "<p>Non esiste una cifra valida per tutti. Puoi scegliere un <strong>piccolo pensiero sotto i 50€,</strong> un regalo completo tra 50€ e 150€, oppure un oggetto di design<strong> più importante sopra i 150€.</strong></p>",
             "page": "",
             "liquid_content": ""
           }
