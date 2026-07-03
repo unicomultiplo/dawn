@@ -582,7 +582,7 @@
         "columns_desktop": 6,
         "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "Scopri tutti i Nostri Brand ->",
+        "button_label": "Scopri tutti i Nostri Brand →",
         "button_link": "shopify://pages/i-nostri-brand",
         "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
         "columns_mobile": "2",
@@ -855,7 +855,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Il matrimonio è un inizio, ma anche un momento che coinvolge amici e famiglia: ecco pensieri per altre figure importanti e per anniversari speciali.<br/><br/></p><h3><strong>Proposte romantiche per anniversari e San Valentino</strong></h3><p>Idee e oggetti dedicati all’amore, perfetti anche per celebrare un anniversario degli sposi o la festa dell'Amore.</p>",
+            "text": "<p>Il matrimonio è un inizio, ma anche un momento che coinvolge amici e famiglia: ecco pensieri per altre figure importanti e per anniversari speciali.<br/><br/></p><h3><strong>Proposte romantiche per anniversari e San Valentino</strong></h3><p>Idee e oggetti dedicati all’amore, perfetti anche per celebrare un anniversario degli sposi o la festa dell'amore.</p>",
             "link_label": "",
             "link": ""
           }
