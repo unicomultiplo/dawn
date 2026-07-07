@@ -57,7 +57,9 @@
         "mobile.mega-menu__list {display: flex; flex-wrap: wrap;}",
         ".mega-menu__list > li {width: 10em;}",
         ".list-menu__item {font-size: 1.3rem;}",
-        ".list-menu__item .icon-caret {top: calc(50% - 0.4rem);}"
+        ".list-menu__item .icon-caret {top: calc(50% - 0.4rem);}",
+        "a[href*=\"offerte-e-promo\"] {color: #000000 !important; position: relative; z-index: 1;}",
+        "a[href*=\"offerte-e-promo\"] {background-color: #f4cf5f !important; color: #000000 !important; border-radius: 2px;}"
       ],
       "settings": {
         "logo_position": "top-left",
