@@ -690,26 +690,6 @@
             "link": "shopify://blogs/apparecchiare-con-stile/come-apparecchiare-una-tavola-elegante-guida-completa"
           }
         },
-        "column_cJAYUe": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-abct-padella-wok-diametro-32-cm-bianca-1.jpg",
-            "title": "",
-            "text": "<p>Padelle antiaderenti, guida all'acquisto <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://pages/padelle-antiaderenti-guida-completa"
-          }
-        },
-        "column_bYmCt9": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Seletti-piatti-diesel.png",
-            "title": "",
-            "text": "<p>Seletti, per allestire la tua Tavola Scenografica <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://blogs/apparecchiare-con-stile/piatti-seletti-collezioni-tavola"
-          }
-        },
         "column_B9rnKn": {
           "type": "column",
           "settings": {
@@ -723,20 +703,40 @@
         "column_d79q6b": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/bone-china-curiosita-unico-e-multiplo.jpg",
+            "image": "shopify://shop_images/seletti-piatti-melamina-giampiero-2.png",
             "title": "",
             "text": "<p>Melamina: Tutto quello che c'è da sapere <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://blogs/apparecchiare-con-stile/tutto-cio-che-vorresti-sapere-sulle-stoviglie-in-melamina-e-anche-di-piu"
           }
+        },
+        "column_bYmCt9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-piatti-diesel.png",
+            "title": "",
+            "text": "<p>Seletti, per allestire la tua Tavola Scenografica <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://blogs/apparecchiare-con-stile/piatti-seletti-collezioni-tavola"
+          }
+        },
+        "column_cJAYUe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-abct-padella-wok-diametro-32-cm-bianca-1.jpg",
+            "title": "",
+            "text": "<p>Padelle antiaderenti, guida all'acquisto <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://pages/padelle-antiaderenti-guida-completa"
+          }
         }
       },
       "block_order": [
         "column_JyzPxx",
-        "column_cJAYUe",
-        "column_bYmCt9",
         "column_B9rnKn",
-        "column_d79q6b"
+        "column_d79q6b",
+        "column_bYmCt9",
+        "column_cJAYUe"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
