@@ -34,15 +34,14 @@
             "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending#shopify-section-template--23127397794057__product-grid"
           }
         },
-        "column_6neVed": {
+        "column_AB83rg": {
           "type": "column",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/natale-conveniente_43435971-607c-4eb9-a8b2-0cb359261244.png",
+            "image": "shopify://shop_images/vluv-promo-sedute-ergonomiche_1.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/illuminazione-luci-addobbi-alberi-natale"
+            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=VLUV&sort_by=manual"
           }
         },
         "column_gH4afb": {
@@ -53,6 +52,17 @@
             "text": "",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=KnIndustrie&sort_by=title-ascending#shopify-section-template--23127397794057__product-grid"
+          }
+        },
+        "column_6neVed": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/natale-conveniente_43435971-607c-4eb9-a8b2-0cb359261244.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/illuminazione-luci-addobbi-alberi-natale"
           }
         },
         "column_EgwtKK": {
@@ -84,26 +94,16 @@
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Bitossi+Home&sort_by=title-ascending#shopify-section-template--23127397794057__product-grid"
           }
-        },
-        "column_AB83rg": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/vluv-promo-sedute-ergonomiche_1.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/offerte-e-promo?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=VLUV&sort_by=manual"
-          }
         }
       },
       "block_order": [
         "column_kGrUQx",
-        "column_6neVed",
+        "column_AB83rg",
         "column_gH4afb",
+        "column_6neVed",
         "column_EgwtKK",
         "column_JfatKn",
-        "column_GKwhLk",
-        "column_AB83rg"
+        "column_GKwhLk"
       ],
       "custom_css": [
         ".multicolumn-list {--grid-desktop-horizontal-spacing: 2rem;}",
@@ -120,8 +120,8 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
         "padding_top": 24,
         "padding_bottom": 0
       }
