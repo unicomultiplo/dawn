@@ -687,7 +687,7 @@
             "title": "",
             "text": "<p>Come apparecchiare una tavola elegante <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://pages/il-grande-classico-come-fare-il-cambio-di-stagione-e-non-impazzire"
+            "link": "shopify://blogs/apparecchiare-con-stile/come-apparecchiare-una-tavola-elegante-guida-completa"
           }
         },
         "column_cJAYUe": {
@@ -719,13 +719,24 @@
             "link_label": "",
             "link": "shopify://pages/bone-china-scopri-la-porcellana-piu-elegante-per-la-tua-tavola"
           }
+        },
+        "column_d79q6b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bone-china-curiosita-unico-e-multiplo.jpg",
+            "title": "",
+            "text": "<p>Melamina: Tutto quello che c'è da sapere <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://blogs/apparecchiare-con-stile/tutto-cio-che-vorresti-sapere-sulle-stoviglie-in-melamina-e-anche-di-piu"
+          }
         }
       },
       "block_order": [
         "column_JyzPxx",
         "column_cJAYUe",
         "column_bYmCt9",
-        "column_B9rnKn"
+        "column_B9rnKn",
+        "column_d79q6b"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
@@ -736,7 +747,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 4,
+        "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "Il Blog U&M →",
