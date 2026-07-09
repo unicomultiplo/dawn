@@ -80,8 +80,8 @@
         "columns_desktop": 5,
         "color_scheme": "",
         "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -122,7 +122,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Per noi di Unico & Multiplo <strong>la tavola è fatta di dettagli</strong>. I <strong>piatti da frutta </strong>e dessert sono tra gli <strong>elementi più versatili </strong>di un servizio perché accompagnano dolci, frutta fresca, colazioni, merende, aperitivi e <strong>momenti conviviali durante tutta la giornata.<br/></strong><br/>Grazie alle loro dimensioni contenute e alla varietà di forme, materiali e decorazioni disponibili, questi piattini di design permettono di <strong>personalizzare la mise en place e di rendere speciale anche un gesto semplice</strong>: servire una fetta di torta, offrire dei biscotti con il caffè, presentare una macedonia o preparare piccoli assaggi per gli ospiti.</p>",
+            "text": "<p><strong>I bicchieri e i calici </strong>sono dettagli essenziali per definire lo stile della tavola. Non servono solo a completare il servizio, ma <strong>contribuiscono a creare atmosfera:</strong> più <strong>essenziale </strong>nella quotidianità, più <strong>ricercata </strong>durante una cena <strong>speciale</strong>, più informale quando si prepara un aperitivo con amici.</p><p>In questa <strong>selezione trovi bicchieri da acqua, calici, tumbler</strong> e proposte decorative pensate per accompagnare bevande diverse e momenti diversi della giornata. La <strong>scelta può partire dall’uso, ma anche dal carattere che desideri dare alla mise en place: </strong>trasparente e luminosa, colorata e contemporanea, elegante o volutamente originale.</p>",
             "link_label": "",
             "link": ""
           }
@@ -134,7 +134,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Piatti dessert e piatti da frutta: piccoli protagonisti della tavola contemporanea",
+        "title": "Come scegliere bicchieri e calici per la tua tavola",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -150,6 +150,54 @@
         "padding_bottom": 0
       }
     },
+    "image_with_text_jXdDJq": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_3NUj7j": {
+          "type": "heading",
+          "settings": {
+            "heading": "Immagine con testo",
+            "heading_size": "h1"
+          }
+        },
+        "text_LBjDyp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_ig7Fgg": {
+          "type": "button",
+          "settings": {
+            "button_label": "Etichetta pulsante",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_3NUj7j",
+        "text_LBjDyp",
+        "button_ig7Fgg"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/KnIndustrie-bicchieri.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_JNpC9x": {
       "type": "multicolumn",
       "blocks": {
@@ -161,21 +209,10 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_WmmMJT": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/bitossi-home-orto-new-2026_1a3c5de0-f0f0-48f1-b9c8-7495649bf955.webp",
-            "title": "<strong>Una selezione di piatti da frutta e dessert per ogni occasione</strong>",
-            "text": "<p>All’interno della collezione trovi proposte pensate per interpretare esigenze e stili differenti: piatti <strong>dessert </strong>di design per <strong>torte</strong>, <strong>pasticcini </strong>e <strong>dolci </strong>monoporzione; piatti da <strong>frutta </strong>perfetti per <strong>colazione</strong>, <strong>merenda </strong>e fine pasto; piattini decorativi capaci di aggiungere colore e personalità alla tavola; piatti piccoli ideali anche per aperitivi, finger food e momenti informali.</p><p>Dalle linee più essenziali alle decorazioni più creative, la selezione raccoglie proposte adatte sia alla quotidianità sia alle occasioni speciali. Puoi scegliere <strong>piatti coordinati per una tavola ordinata</strong> oppure <strong>combinare colori, fantasie e brand diversi per un effetto mix & match più personale.</strong></p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "column_RCVfWp",
-        "column_WmmMJT"
+        "column_RCVfWp"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -858,6 +895,7 @@
     "collection_list_Dqiq6d",
     "product-grid",
     "multicolumn_KWHCjy",
+    "image_with_text_jXdDJq",
     "multicolumn_JNpC9x",
     "multicolumn_J8w6Dd",
     "multicolumn_MtNpp6",
