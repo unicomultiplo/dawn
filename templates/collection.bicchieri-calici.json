@@ -761,9 +761,9 @@
         "collapsible_row_GG6eXA": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Questi piatti possono essere utilizzati anche per aperitivi e finger food?",
+            "heading": "Quali prodotti comprende questa collection?",
             "icon": "check_mark",
-            "row_content": "<p><strong>Sì</strong>. Grazie alle loro dimensioni contenute sono <strong>ideali </strong>anche per snack, assaggi, finger food, piccoli antipasti e momenti informali.</p>",
+            "row_content": "<p>La collection raccoglie<strong> bicchieri</strong> da acqua, <strong>calici, tumbler </strong>e bicchieri per cocktail, aperitivo e occasioni speciali.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -771,19 +771,9 @@
         "collapsible_row_3zyPPt": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Quali brand sono presenti nella collezione Piatti Frutta?",
+            "heading": "Come scegliere tra bicchieri e calici?",
             "icon": "check_mark",
-            "row_content": "<p>La selezione comprende proposte firmate da diversi marchi dedicati al design e alla tavola contemporanea, tra cui <strong>Bitossi Home, Brandani, Seletti, KnIndustrie</strong> e altri brand presenti nel catalogo Unico & Multiplo. </p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_MLAUny": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "I Piatti Frutta sono una buona idea regalo?",
-            "icon": "check_mark",
-            "row_content": "<p><strong>Sì. I piatti da frutta e dessert sono</strong> un regalo <strong>utile, versatile e sempre apprezzato, </strong>soprattutto per chi ama la casa, la tavola, il design e i dettagli originali.</p>",
+            "row_content": "<p><strong>Scegli in base all’uso: </strong>bicchieri da acqua per la tavola quotidiana, calici per vino e bollicine,<strong> tumbler per acqua, cocktail, succhi e aperitivi.</strong></p>",
             "page": "",
             "liquid_content": ""
           }
@@ -793,7 +783,7 @@
           "settings": {
             "heading": "Dove trovo solo bicchieri tumbler?",
             "icon": "check_mark",
-            "row_content": "<p>Per <strong>bicchieri tumbler bassi, medi e alti</strong> è consigliata la <strong>collection Tumbler dedicata</strong>.</p>",
+            "row_content": "<p>Per <strong>bicchieri tumbler bassi, medi e alti</strong> visita la <a href=\"/collections/cucina-e-tavola-bicchieri-e-calici-tumbler\" title=\"Bicchieri Tumbler\"><strong>collection Tumbler dedicata</strong>.</a></p>",
             "page": "",
             "liquid_content": ""
           }
@@ -803,7 +793,7 @@
           "settings": {
             "heading": "Dove trovo i bicchieri per brand specifico?",
             "icon": "check_mark",
-            "row_content": "<p>Per brand specifici usa le <strong>collection dedicate a Seletti, Brandani, KnIndustrie e Bitossi Home</strong>, così la navigazione resta più chiara.</p>",
+            "row_content": "<p>Per brand specifici usa le <strong>collection dedicate a </strong><a href=\"/collections/bicchieri-e-calici-seletti\" title=\"Bicchieri e Calici Seletti\"><strong>Seletti,</strong></a><strong> </strong><a href=\"/collections/brandani-bicchieri-e-calici\" title=\"Bicchieri e Calici Brandani\"><strong>Brandani</strong></a><strong>, </strong><a href=\"/collections/knindustrie-catalogo-prodotti-bicchieri\" title=\"KnIndustrie: Bicchieri\"><strong>KnIndustrie</strong></a><strong> e </strong><a href=\"/collections/bitossi-home-bicchieri-e-calici\" title=\"Bicchieri e Calici Bitossi Home\"><strong>Bitossi Home</strong></a>, così la navigazione resta più chiara.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -817,48 +807,14 @@
             "page": "",
             "liquid_content": ""
           }
-        },
-        "collapsible_row_wn7a3b": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Come scegliere tra bicchieri e calici?",
-            "icon": "check_mark",
-            "row_content": "<p>Scegli in base all'uso: <strong>bicchieri da acqua</strong> per la tavola quotidiana, <strong>calici</strong> per vino e bollicine, <strong>tumbler</strong> per acqua, cocktail, succhi e aperitivi.</p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_XDdpjp": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Quali prodotti comprende questa collection?",
-            "icon": "check_mark",
-            "row_content": "<p>La collection raccoglie <strong>bicchieri da acqua, calici, tumbler e bicchieri per cocktail, aperitivo e occasioni speciali</strong> provenienti da diversi brand selezionati da Unico & Multiplo.</p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_L64hzD": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Meglio acquistare piatti da frutta singoli o set coordinati?",
-            "icon": "check_mark",
-            "row_content": "<p><strong>Dipende </strong>dall’uso. <strong>I piatti singoli </strong>sono ideali per creare una<strong> tavola mix & match</strong> o aggiungere un dettaglio decorativo. I set <strong>coordinati </strong>sono più indicati se vuoi completare <strong>un servizio tavola o fare un regalo pratico e già pronto all’uso.</strong></p>",
-            "page": "",
-            "liquid_content": ""
-          }
         }
       },
       "block_order": [
         "collapsible_row_GG6eXA",
         "collapsible_row_3zyPPt",
-        "collapsible_row_MLAUny",
         "collapsible_row_qRcJNt",
         "collapsible_row_pyQ6eE",
-        "collapsible_row_4FRJ9a",
-        "collapsible_row_wn7a3b",
-        "collapsible_row_XDdpjp",
-        "collapsible_row_L64hzD"
+        "collapsible_row_4FRJ9a"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
