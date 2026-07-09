@@ -117,20 +117,10 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_antQzJ": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p><strong>I bicchieri e i calici </strong>sono dettagli essenziali per definire lo stile della tavola. Non servono solo a completare il servizio, ma <strong>contribuiscono a creare atmosfera:</strong> più <strong>essenziale </strong>nella quotidianità, più <strong>ricercata </strong>durante una cena <strong>speciale</strong>, più informale quando si prepara un aperitivo con amici.</p><p>In questa <strong>selezione trovi bicchieri da acqua, calici, tumbler</strong> e proposte decorative pensate per accompagnare bevande diverse e momenti diversi della giornata. La <strong>scelta può partire dall’uso, ma anche dal carattere che desideri dare alla mise en place: </strong>trasparente e luminosa, colorata e contemporanea, elegante o volutamente originale.</p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "column_Q3cHjM",
-        "column_antQzJ"
+        "column_Q3cHjM"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -153,33 +143,24 @@
     "image_with_text_jXdDJq": {
       "type": "image-with-text",
       "blocks": {
-        "heading_3NUj7j": {
+        "heading_MzfeAt": {
           "type": "heading",
           "settings": {
-            "heading": "Immagine con testo",
-            "heading_size": "h1"
+            "heading": "<strong>Bicchieri da tavola per ogni momento</strong>",
+            "heading_size": "h2"
           }
         },
         "text_LBjDyp": {
           "type": "text",
           "settings": {
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "text": "<p><strong>I bicchieri e i calici </strong>sono dettagli <strong>essenziali </strong>per definire lo stile della tavola. Non servono solo a completare il servizio, ma contribuiscono a creare atmosfera: più essenziale nella quotidianità, più ricercata durante una cena speciale, più informale quando si prepara un aperitivo con amici.</p><p>In questa selezione trovi bicchieri da acqua, calici, tumbler e proposte decorative pensate per accompagnare bevande diverse e momenti diversi della giornata. La scelta può partire dall’uso, ma anche dal carattere che desideri dare alla mise en place: trasparente e luminosa, colorata e contemporanea, elegante o volutamente originale.</p>",
             "text_style": "body"
-          }
-        },
-        "button_ig7Fgg": {
-          "type": "button",
-          "settings": {
-            "button_label": "Etichetta pulsante",
-            "button_link": "",
-            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "heading_3NUj7j",
-        "text_LBjDyp",
-        "button_ig7Fgg"
+        "heading_MzfeAt",
+        "text_LBjDyp"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
