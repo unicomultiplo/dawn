@@ -153,7 +153,7 @@
         "text_LBjDyp": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>I bicchieri e i calici </strong>sono dettagli <strong>essenziali </strong>per definire lo stile della tavola. Non servono solo a completare il servizio, ma contribuiscono a creare atmosfera: più essenziale nella quotidianità, più ricercata durante una cena speciale, più informale quando si prepara un aperitivo con amici.</p><p>In questa selezione trovi bicchieri da acqua, calici, tumbler e proposte decorative pensate per accompagnare bevande diverse e momenti diversi della giornata. La scelta può partire dall’uso, ma anche dal carattere che desideri dare alla mise en place: trasparente e luminosa, colorata e contemporanea, elegante o volutamente originale.</p>",
+            "text": "<p><strong>I bicchieri e i calici </strong>sono dettagli <strong>essenziali </strong>per definire lo stile della tavola. Non servono solo a completare il servizio, ma contribuiscono a <strong>creare atmosfera:</strong> più essenziale nella quotidianità, più ricercata durante una cena speciale, più informale quando si prepara un aperitivo con amici.</p><p>In questa selezione <strong>trovi bicchieri da acqua, calici, tumbler</strong> e proposte decorative pensate per accompagnare bevande diverse e momenti diversi della giornata. <strong>La scelta può partire dall’uso, ma anche dal carattere che desideri dare alla mise en place:</strong> trasparente e luminosa, colorata e contemporanea, elegante o volutamente originale.</p>",
             "text_style": "body"
           }
         }
@@ -274,6 +274,7 @@
         "column_CbPFeM",
         "column_eLeqwk"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -355,6 +356,7 @@
         "column_fcACXf",
         "column_79VmYx"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -401,6 +403,7 @@
         "column_A8rPaP",
         "column_T3f7Di"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -437,6 +440,7 @@
       "block_order": [
         "button_GJRKhK"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
@@ -473,6 +477,7 @@
         "column_hxxKx7",
         "column_wBRPWD"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -541,6 +546,7 @@
         "column_FQVEpz",
         "column_tbgMgt"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -637,6 +643,7 @@
         "column_CGCdFb",
         "column_r6hUa6"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -727,6 +734,7 @@
         "column_AwYUHa",
         "column_apfD9k"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -854,7 +862,7 @@
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
-        "caption": "Una guida rapida per scegliere bicchieri e calici dal mondo Unico & Multiplo.",
+        "caption": "Domande rapide su come scegliere bicchieri e calici dal mondo Unico & Multiplo.",
         "heading": "Come scegliere bicchieri e calici per la tua tavola",
         "heading_size": "h2",
         "heading_alignment": "center",
@@ -862,8 +870,8 @@
         "color_scheme": "",
         "container_color_scheme": "scheme-2",
         "open_first_collapsible_row": true,
-        "image": "shopify://shop_images/bitossi-home-ciao-mondo-torchon.webp",
-        "image_ratio": "large",
+        "image": "shopify://shop_images/img-categoria-bicchieri_360x_97d2ff08-3d34-467d-b663-d7106089ebe8.webp",
+        "image_ratio": "adapt",
         "desktop_layout": "image_first",
         "padding_top": 0,
         "padding_bottom": 36
