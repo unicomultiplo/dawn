@@ -31,74 +31,59 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_6xWCFn": {
-      "type": "multicolumn",
+    "collection_list_Dqiq6d": {
+      "type": "collection-list",
       "blocks": {
-        "column_F8gx46": {
-          "type": "column",
+        "featured_collection_PcxNij": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/seletti-kintsugi-servizio-18-pz-10.webp",
-            "title": "",
-            "text": "<p><strong>Seletti</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti-frutta-e-dessert?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=manual#shopify-section-template--26193522327817__product-grid"
+            "collection": "cucina-e-tavola-bicchieri-e-calici-tumbler"
           }
         },
-        "column_WXtPTq": {
-          "type": "column",
+        "featured_collection_eitpRA": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/bitossi-home-ciao-mondo.webp",
-            "title": "",
-            "text": "<p><strong>Bitossi Home</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti-frutta-e-dessert?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Bitossi+Home&sort_by=title-ascending#shopify-section-template--26193522327817__product-grid"
+            "collection": "bitossi-home-bicchieri-e-calici"
           }
         },
-        "column_77eT6x": {
-          "type": "column",
+        "featured_collection_WXJXpE": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-shabbychic-piatti-frutta-o21-5.jpg",
-            "title": "",
-            "text": "<p><strong>KnIndustrie</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti-frutta-e-dessert?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=KnIndustrie&sort_by=manual#shopify-section-template--26193522327817__product-grid"
+            "collection": "bicchieri-e-calici-seletti"
           }
         },
-        "column_yEMeA6": {
-          "type": "column",
+        "featured_collection_YjfbXB": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/brandani-piatto-frutta-dessert-calipso-stoneware.webp",
-            "title": "",
-            "text": "<p><strong>Brandani</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti-frutta-e-dessert?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=manual#shopify-section-template--26193522327817__product-grid"
+            "collection": "brandani-bicchieri-e-calici"
+          }
+        },
+        "featured_collection_himhQQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-catalogo-prodotti-bicchieri"
           }
         }
       },
       "block_order": [
-        "column_F8gx46",
-        "column_WXtPTq",
-        "column_77eT6x",
-        "column_yEMeA6"
+        "featured_collection_PcxNij",
+        "featured_collection_eitpRA",
+        "featured_collection_WXJXpE",
+        "featured_collection_YjfbXB",
+        "featured_collection_himhQQ"
       ],
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
+      "name": "t:sections.collection-list.presets.name",
       "settings": {
-        "title": "<strong>Inizia da qui</strong>",
-        "heading_size": "h2",
-        "image_width": "full",
+        "title": "Collezioni",
+        "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 12,
-        "padding_bottom": 0
+        "columns_desktop": 5,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "product-grid": {
@@ -870,7 +855,7 @@
   "order": [
     "banner",
     "custom_liquid_LepCX8",
-    "multicolumn_6xWCFn",
+    "collection_list_Dqiq6d",
     "product-grid",
     "multicolumn_KWHCjy",
     "multicolumn_JNpC9x",
