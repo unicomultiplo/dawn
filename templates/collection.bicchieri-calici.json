@@ -632,8 +632,8 @@
         "column_r6hUa6": {
           "type": "column",
           "settings": {
-            "title": "<strong>Come abbinarli alla tavola</strong>",
-            "text": "<p>Per creare una mise en place armoniosa puoi <strong>completare la tavola con bicchieri, calici, tazze e accessori dedicati al servizio del dessert. </strong>Le collezioni più decorative permettono inoltre di sperimentare con il <strong>mix & match</strong> di colori, fantasie e materiali, creando una <strong>tavola personale e ricca di carattere.<br/></strong><br/></p>",
+            "title": "<strong>Completa la tavola</strong>",
+            "text": "<p>Per creare una<strong> tavola coerente </strong>puoi abbinare bicchieri e calici a piatti, posate, vassoi, caraffe, tovagliette e accessori decorativi. Il <strong>risultato </strong>può essere <strong>coordinato oppure </strong>volutamente <strong>mixato</strong>: <strong>l’importante è mantenere un equilibrio</strong> tra colori, materiali e occasioni d’uso.</p>",
             "link_label": "",
             "link": ""
           }
@@ -643,7 +643,6 @@
         "column_CGCdFb",
         "column_r6hUa6"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -665,10 +664,20 @@
     "multicolumn_fteU4T": {
       "type": "multicolumn",
       "blocks": {
+        "column_4eEi6Q": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Diesel-Living-with-Seletti-2022-cover.webp",
+            "title": "",
+            "text": "<p><strong>Piatti da Tavola</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-piatti"
+          }
+        },
         "column_Pf3nRn": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/img-categoria-posate_360x_4d025c2a-b614-41a5-a541-f6e1490c1e6f.webp",
+            "image": "shopify://shop_images/Biossi-home-posate-bamboo-5.webp",
             "title": "",
             "text": "<p><strong>Posate</strong></p>",
             "link_label": "",
@@ -685,20 +694,10 @@
             "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
           }
         },
-        "column_4eEi6Q": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/coppette-macedonia-frutta-cucina.webp",
-            "title": "",
-            "text": "<p><strong>Coppette Macedonia e Gelato</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-coppette-macedonia-gelato"
-          }
-        },
         "column_yxYYXF": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-tazze-kintsugi.webp",
+            "image": "shopify://shop_images/seletti-hybrd-tazze.jpg",
             "title": "",
             "text": "<p><strong>Tazze, Tazzine e Mug</strong></p>",
             "link_label": "",
@@ -708,7 +707,7 @@
         "column_AwYUHa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/sottopiatti-hybrid-natale-2025-seletti.webp",
+            "image": "shopify://shop_images/tovaglietta-gina-cotone.webp",
             "title": "",
             "text": "<p><strong>Sottopiatti e Tovagliette</strong></p>",
             "link_label": "",
@@ -718,7 +717,7 @@
         "column_apfD9k": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-Vassoio-Meltdown.webp",
+            "image": "shopify://shop_images/grafiche_scritte_retro_vassoi-01.webp",
             "title": "",
             "text": "<p><strong>Vassoi</strong></p>",
             "link_label": "",
@@ -727,14 +726,13 @@
         }
       },
       "block_order": [
+        "column_4eEi6Q",
         "column_Pf3nRn",
         "column_mjiBaV",
-        "column_4eEi6Q",
         "column_yxYYXF",
         "column_AwYUHa",
         "column_apfD9k"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
