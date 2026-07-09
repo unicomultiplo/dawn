@@ -52,16 +52,16 @@
             "collection": "bicchieri-e-calici-seletti"
           }
         },
-        "featured_collection_YjfbXB": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-bicchieri-e-calici"
-          }
-        },
         "featured_collection_himhQQ": {
           "type": "featured_collection",
           "settings": {
             "collection": "knindustrie-catalogo-prodotti-bicchieri"
+          }
+        },
+        "featured_collection_YjfbXB": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-bicchieri-e-calici"
           }
         }
       },
@@ -69,12 +69,12 @@
         "featured_collection_PcxNij",
         "featured_collection_eitpRA",
         "featured_collection_WXJXpE",
-        "featured_collection_YjfbXB",
-        "featured_collection_himhQQ"
+        "featured_collection_himhQQ",
+        "featured_collection_YjfbXB"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
-        "title": "Collezioni",
+        "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 5,
@@ -82,8 +82,8 @@
         "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "product-grid": {
