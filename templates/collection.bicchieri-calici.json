@@ -16,7 +16,7 @@
       ],
       "settings": {
         "show_collection_description": true,
-        "show_collection_image": false,
+        "show_collection_image": true,
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
       }
     },
@@ -25,7 +25,7 @@
       "custom_css": [],
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Piatti\">\n <h2><strong>Completa la tua Tavola</strong></h2>\n  <nav class=\"quick-links-piatti\">\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Piani&sort_by=manual#product-grid\" class=\"button button--secondary button--small\">Piatti Piani</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Piatti+Fondi&sort_by=manual#product-grid\" class=\"button button--secondary button--small\">Piatti Fondi</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Servizi+di+Piatti&sort_by=manual#product-grid\" class=\"button button--secondary button--small\">Set da Tavola</a>  <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-posate\" class=\"button button--secondary button--small\">Posate</a>\n   <a href=\"https://www.unicoemultiplo.com/collections/cucina-e-tavola-bicchieri-e-calici\" class=\"button button--secondary button--small\">Bicchieri e Calici</a>\n\n  </nav>\n</div>\n\n<style>\n  .quick-links-piatti {\n    display: flex;\n    flex-wrap: wrap;\n    gap: .5rem;\n    margin: .5rem 0 1rem;\n    justify-content: flex-start;\n  }\n</style>",
+        "custom_liquid": "",
         "color_scheme": "scheme-1",
         "padding_top": 0,
         "padding_bottom": 0
@@ -85,7 +85,7 @@
         "a {color: black; text-decoration: none;}"
       ],
       "settings": {
-        "title": "<strong>Scegli per Brand</strong>",
+        "title": "<strong>Inizia da qui</strong>",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
@@ -747,26 +747,6 @@
     "collapsible_content_dP6Ppz": {
       "type": "collapsible-content",
       "blocks": {
-        "collapsible_row_DATUwP": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Cosa comprende questa collezione?",
-            "icon": "check_mark",
-            "row_content": "<p>La collezione raccoglie <strong>piatti da frutta, piatti dessert, piattini decorativi e proposte dedicate alla tavola </strong>contemporanea provenienti da diversi brand selezionati da Unico & Multiplo.</p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_hJdMc6": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Qual è la differenza tra un piatto da frutta e un piatto dessert?",
-            "icon": "check_mark",
-            "row_content": "<p>Oggi le due<strong> tipologie </strong>vengono spesso utilizzate in modo<strong> intercambiabile. </strong>Entrambe sono adatte per servire dolci, frutta fresca, biscotti, colazioni leggere, merende e piccoli aperitivi.</p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
         "collapsible_row_GG6eXA": {
           "type": "collapsible_row",
           "settings": {
@@ -797,6 +777,56 @@
             "liquid_content": ""
           }
         },
+        "collapsible_row_qRcJNt": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Dove trovo solo bicchieri tumbler?",
+            "icon": "check_mark",
+            "row_content": "<p>Per <strong>bicchieri tumbler bassi, medi e alti</strong> è consigliata la <strong>collection Tumbler dedicata</strong>.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_pyQ6eE": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Dove trovo i bicchieri per brand specifico?",
+            "icon": "check_mark",
+            "row_content": "<p>Per brand specifici usa le <strong>collection dedicate a Seletti, Brandani, KnIndustrie e Bitossi Home</strong>, così la navigazione resta più chiara.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_4FRJ9a": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I bicchieri e i calici di design sono adatti anche come regalo?",
+            "icon": "check_mark",
+            "row_content": "<p><strong>Sì</strong>, sono idee regalo <strong>utili e raffinate</strong> per nuove case, matrimoni, anniversari, compleanni e per chi ama la tavola curata.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_wn7a3b": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Come scegliere tra bicchieri e calici?",
+            "icon": "check_mark",
+            "row_content": "<p>Scegli in base all'uso: <strong>bicchieri da acqua</strong> per la tavola quotidiana, <strong>calici</strong> per vino e bollicine, <strong>tumbler</strong> per acqua, cocktail, succhi e aperitivi.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_XDdpjp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quali prodotti comprende questa collection?",
+            "icon": "check_mark",
+            "row_content": "<p>La collection raccoglie <strong>bicchieri da acqua, calici, tumbler e bicchieri per cocktail, aperitivo e occasioni speciali</strong> provenienti da diversi brand selezionati da Unico & Multiplo.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
         "collapsible_row_L64hzD": {
           "type": "collapsible_row",
           "settings": {
@@ -809,17 +839,20 @@
         }
       },
       "block_order": [
-        "collapsible_row_DATUwP",
-        "collapsible_row_hJdMc6",
         "collapsible_row_GG6eXA",
         "collapsible_row_3zyPPt",
         "collapsible_row_MLAUny",
+        "collapsible_row_qRcJNt",
+        "collapsible_row_pyQ6eE",
+        "collapsible_row_4FRJ9a",
+        "collapsible_row_wn7a3b",
+        "collapsible_row_XDdpjp",
         "collapsible_row_L64hzD"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
-        "caption": "Una guida rapida per scegliere piatti da frutta dal mondo Unico & Multiplo.",
-        "heading": "FAQ - Domande frequenti su Piatti da Frutta",
+        "caption": "Una guida rapida per scegliere bicchieri e calici dal mondo Unico & Multiplo.",
+        "heading": "Come scegliere bicchieri e calici per la tua tavola",
         "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "row",
