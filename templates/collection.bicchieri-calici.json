@@ -604,7 +604,7 @@
       "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/regali-invito-a-cena-casa-nuova.webp",
+        "image": "shopify://shop_images/vetro-borosilicato.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
