@@ -570,25 +570,25 @@
     "image_banner_hf7WRX": {
       "type": "image-banner",
       "blocks": {
-        "text_8xqydc": {
-          "type": "text",
-          "settings": {
-            "text": "Oggetti utili, originali e facili da regalare per chi ama vivere la tavola con personalità",
-            "text_style": "caption-with-letter-spacing"
-          }
-        },
         "heading_7nALCz": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Set da Tavola</strong>",
+            "heading": "<strong>Vetro borosilicato</strong>: leggerezza, resistenza ed eleganza essenziale",
             "heading_size": "h2"
+          }
+        },
+        "text_8xqydc": {
+          "type": "text",
+          "settings": {
+            "text": "Cos'è, Vantaggi e Differenze dal Vetro Tradizionale",
+            "text_style": "caption-with-letter-spacing"
           }
         },
         "buttons_ALFMPq": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Trova la tua idea regalo",
-            "button_link_1": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti?filter.p.tag=Servizi+di+Piatti&sort_by=manual#product-grid",
+            "button_label_1": "Scopri tutto sul Vetro Borosilicato",
+            "button_link_1": "https://www.unicoemultiplo.com/pages/vetro-borosilicato",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -597,16 +597,15 @@
         }
       },
       "block_order": [
-        "text_8xqydc",
         "heading_7nALCz",
+        "text_8xqydc",
         "buttons_ALFMPq"
       ],
-      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/vetro-borosilicato.webp",
+        "image": "shopify://shop_images/knindustrie-midday-focus-vetro-borosilicato.webp",
         "image_overlay_opacity": 0,
-        "image_height": "small",
+        "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
