@@ -156,20 +156,11 @@
             "text": "<p><strong>I bicchieri e i calici </strong>sono dettagli <strong>essenziali </strong>per definire lo stile della tavola. Non servono solo a completare il servizio, ma contribuiscono a <strong>creare atmosfera:</strong> più essenziale nella quotidianità, più ricercata durante una cena speciale, più informale quando si prepara un aperitivo con amici.</p><p>In questa selezione <strong>trovi bicchieri da acqua, calici, tumbler</strong> e proposte decorative pensate per accompagnare bevande diverse e momenti diversi della giornata. <strong>La scelta può partire dall’uso, ma anche dal carattere che desideri dare alla mise en place:</strong> trasparente e luminosa, colorata e contemporanea, elegante o volutamente originale.</p>",
             "text_style": "body"
           }
-        },
-        "button_TjNtjm": {
-          "type": "button",
-          "settings": {
-            "button_label": "Lime Line Knindustrie",
-            "button_link": "shopify://collections/lime-line-knindustrie",
-            "button_style_secondary": true
-          }
         }
       },
       "block_order": [
         "heading_MzfeAt",
-        "text_LBjDyp",
-        "button_TjNtjm"
+        "text_LBjDyp"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
