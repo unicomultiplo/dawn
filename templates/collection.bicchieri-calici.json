@@ -603,7 +603,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/knindustrie-midday-focus-vetro-borosilicato.webp",
+        "image": "shopify://shop_images/knindustrie-Alzata_in_vetro_trasparente_mood-vetro-borosilicato.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -770,7 +770,7 @@
           "settings": {
             "heading": "Come scegliere tra bicchieri e calici?",
             "icon": "check_mark",
-            "row_content": "<p><strong>Scegli in base all’uso: </strong>bicchieri da acqua per la tavola quotidiana, calici per vino e bollicine,<strong> tumbler per acqua, cocktail, succhi e aperitivi.</strong></p>",
+            "row_content": "<p><strong>Scegli in base all’uso: </strong>bicchieri da acqua per la tavola quotidiana, <strong>calici per vino </strong>e bollicine,<strong> tumbler per acqua, cocktail, succhi e aperitivi.</strong></p>",
             "page": "",
             "liquid_content": ""
           }
@@ -804,6 +804,16 @@
             "page": "",
             "liquid_content": ""
           }
+        },
+        "collapsible_row_CHhrTh": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Come posso abbinarli al resto della tavola?",
+            "icon": "check_mark",
+            "row_content": "<p>Puoi abbinarli a piatti, posate, caraffe, brocche, tovagliette e centrotavola, creando una<strong> mise en place coordinata o giocando con contrasti di colore, forma e materiale.</strong></p>",
+            "page": "",
+            "liquid_content": ""
+          }
         }
       },
       "block_order": [
@@ -811,7 +821,8 @@
         "collapsible_row_3zyPPt",
         "collapsible_row_qRcJNt",
         "collapsible_row_pyQ6eE",
-        "collapsible_row_4FRJ9a"
+        "collapsible_row_4FRJ9a",
+        "collapsible_row_CHhrTh"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
@@ -823,8 +834,8 @@
         "color_scheme": "",
         "container_color_scheme": "scheme-2",
         "open_first_collapsible_row": true,
-        "image": "shopify://shop_images/img-categoria-bicchieri_360x_97d2ff08-3d34-467d-b663-d7106089ebe8.webp",
-        "image_ratio": "adapt",
+        "image": "shopify://shop_images/knindustrie-Alzata_in_vetro_trasparente_mood.webp",
+        "image_ratio": "small",
         "desktop_layout": "image_first",
         "padding_top": 0,
         "padding_bottom": 36
