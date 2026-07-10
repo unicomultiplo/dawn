@@ -686,11 +686,11 @@
         "column_mjiBaV": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knIndustrie_outdoor_dining.webp",
+            "image": "shopify://shop_images/knindustrie-totem.webp",
             "title": "",
-            "text": "<p><strong>Bicchieri e Calici</strong></p>",
+            "text": "<p><strong>Centrotavola e Alzate</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
+            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
           }
         },
         "column_yxYYXF": {
