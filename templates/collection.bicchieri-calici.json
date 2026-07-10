@@ -156,11 +156,20 @@
             "text": "<p><strong>I bicchieri e i calici </strong>sono dettagli <strong>essenziali </strong>per definire lo stile della tavola. Non servono solo a completare il servizio, ma contribuiscono a <strong>creare atmosfera:</strong> più essenziale nella quotidianità, più ricercata durante una cena speciale, più informale quando si prepara un aperitivo con amici.</p><p>In questa selezione <strong>trovi bicchieri da acqua, calici, tumbler</strong> e proposte decorative pensate per accompagnare bevande diverse e momenti diversi della giornata. <strong>La scelta può partire dall’uso, ma anche dal carattere che desideri dare alla mise en place:</strong> trasparente e luminosa, colorata e contemporanea, elegante o volutamente originale.</p>",
             "text_style": "body"
           }
+        },
+        "button_TjNtjm": {
+          "type": "button",
+          "settings": {
+            "button_label": "Lime Line Knindustrie",
+            "button_link": "shopify://collections/lime-line-knindustrie",
+            "button_style_secondary": true
+          }
         }
       },
       "block_order": [
         "heading_MzfeAt",
-        "text_LBjDyp"
+        "text_LBjDyp",
+        "button_TjNtjm"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
@@ -228,8 +237,8 @@
         "column_wBRPWD": {
           "type": "column",
           "settings": {
-            "title": "<strong>I brand protagonisti della selezione</strong>",
-            "text": "<p>La collezione riunisce piatti da frutta e dessert firmati da alcuni dei brand più interessanti del panorama design e home decor contemporaneo. Ogni brand interpreta il piatto dessert in modo differente: c’è chi punta su <strong>colori e decorazioni, </strong>chi su <strong>linee essenziali</strong> e chi su dettagli capaci di trasformare un semplice accessorio da tavola in un vero elemento decorativo.<br/><br/>Questa <strong>varietà </strong>ti permette di trovare facilmente il prodotto più adatto al tuo <strong>stile </strong>e di costruire una tavola <strong>coerente, vivace o volutamente eclettica.</strong></p>",
+            "title": "",
+            "text": "<p>Il<strong> vetro trasparente</strong> è una scelta <strong>versatile</strong>, facile da abbinare a piatti e posate di stili diversi. I <strong>bicchieri colorati </strong>o decorati aggiungono <strong>personalità </strong>e diventano un elemento visivo importante, soprattutto su tavole essenziali o monocromatiche. Le <strong>forme più particolari</strong> aiutano invece a creare un<strong> punto focale </strong>e a rendere riconoscibile l’apparecchiatura.</p>",
             "link_label": "",
             "link": ""
           }
@@ -241,7 +250,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "",
+        "title": "<strong>Design, colori e materiali per una mise en place personale</strong>",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -257,85 +266,66 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_MtNpp6": {
-      "type": "multicolumn",
+    "collection_list_J9CqrE": {
+      "type": "collection-list",
       "blocks": {
-        "column_nJjcE9": {
-          "type": "column",
+        "featured_collection_jjreiQ": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/bitossi-home-la-tavola-ciao-mondo_bde3f73b-7853-4014-8809-840da1e97f61.webp",
-            "title": "",
-            "text": "<p><strong>Bitossi Home - La Tavola Scomposta </strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/bitossi-home-i-piattini-bitossi-home"
+            "collection": "lime-line-knindustrie"
           }
         },
-        "column_zRbwgV": {
-          "type": "column",
+        "featured_collection_atGfQH": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/seletti-kintsugi-dessert-plate.webp",
-            "title": "",
-            "text": "<p><strong>Seletti - Kintsugi</strong></p>",
-            "link_label": "",
-            "link": "shopify://products/2465-seletti-kintsugi-piatto-piano-piccolo"
+            "collection": "bitossi-home-diseguale"
           }
         },
-        "column_TXq4wT": {
-          "type": "column",
+        "featured_collection_hhWrMH": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-shabbychic-piatti-fondi-o-23-3.jpg",
-            "title": "",
-            "text": "<p><strong>KnIndustrie - Shabbychic</strong></p>",
-            "link_label": "",
-            "link": "shopify://products/1530-knindustrie-shabbychic-piatti-frutta-o21"
+            "collection": "seletti-catalogo-prodotti-seletti-hybrid-bicchieri"
           }
         },
-        "column_fcACXf": {
-          "type": "column",
+        "featured_collection_BxTycC": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/Natale-con-i-piatti-Seletti-Hybrid.webp",
-            "title": "",
-            "text": "<p><strong>Seletti - Hybrid</strong></p>",
-            "link_label": "",
-            "link": "shopify://products/4304-seletti-hybrid-piatti-frutta"
+            "collection": "groove-knindustrie"
           }
         },
-        "column_79VmYx": {
-          "type": "column",
+        "featured_collection_GjVeME": {
+          "type": "featured_collection",
           "settings": {
-            "image": "shopify://shop_images/Diesel-Living-with-Seletti-2022-cover.webp",
-            "title": "",
-            "text": "<p><strong>Seletti - Classic On Acid</strong></p>",
-            "link_label": "",
-            "link": "shopify://products/seletti-diesel-living-classic-on-acid-piatti-frutta"
+            "collection": "boulevard-brandani"
+          }
+        },
+        "featured_collection_xNeiyB": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-catalogo-prodotti-davide-oldani-e-knindustrie-verres-d-o-bicchieri"
           }
         }
       },
       "block_order": [
-        "column_nJjcE9",
-        "column_zRbwgV",
-        "column_TXq4wT",
-        "column_fcACXf",
-        "column_79VmYx"
+        "featured_collection_jjreiQ",
+        "featured_collection_atGfQH",
+        "featured_collection_hhWrMH",
+        "featured_collection_BxTycC",
+        "featured_collection_GjVeME",
+        "featured_collection_xNeiyB"
       ],
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
+      "name": "t:sections.collection-list.presets.name",
       "settings": {
-        "title": "Tavola Scenografica",
-        "heading_size": "h2",
-        "image_width": "full",
+        "title": "",
+        "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 5,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
+        "columns_desktop": 6,
+        "color_scheme": "",
+        "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 16
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "image_banner_hf7WRX": {
@@ -427,8 +417,8 @@
         "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 20,
+        "padding_bottom": 16
       }
     },
     "multicolumn_wDLcLp": {
@@ -666,7 +656,7 @@
     "image_with_text_jXdDJq",
     "multicolumn_JNpC9x",
     "multicolumn_FnyeXB",
-    "multicolumn_MtNpp6",
+    "collection_list_J9CqrE",
     "image_banner_hf7WRX",
     "multicolumn_ikALKg",
     "multicolumn_wDLcLp",
