@@ -213,86 +213,48 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_J8w6Dd": {
+    "multicolumn_FnyeXB": {
       "type": "multicolumn",
       "blocks": {
-        "column_hbMD4X": {
+        "column_hxxKx7": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Petalo-Bitossi-Home.jpg",
             "title": "",
-            "text": "<p><strong>Bitossi Home - Petalo</strong></p>",
+            "text": "",
             "link_label": "",
-            "link": "shopify://products/bitossi-home-petalo-piatto-frutta-bordo-smerlato-azzurro"
+            "link": ""
           }
         },
-        "column_DbUdFj": {
+        "column_wBRPWD": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-aida-servizio-piatti_1.webp",
-            "title": "",
-            "text": "<p><strong>KnIndustrie - Aida</strong></p>",
+            "title": "<strong>I brand protagonisti della selezione</strong>",
+            "text": "<p>La collezione riunisce piatti da frutta e dessert firmati da alcuni dei brand più interessanti del panorama design e home decor contemporaneo. Ogni brand interpreta il piatto dessert in modo differente: c’è chi punta su <strong>colori e decorazioni, </strong>chi su <strong>linee essenziali</strong> e chi su dettagli capaci di trasformare un semplice accessorio da tavola in un vero elemento decorativo.<br/><br/>Questa <strong>varietà </strong>ti permette di trovare facilmente il prodotto più adatto al tuo <strong>stile </strong>e di costruire una tavola <strong>coerente, vivace o volutamente eclettica.</strong></p>",
             "link_label": "",
-            "link": "shopify://products/1524-knindustrie-aida-servizio-piatti"
-          }
-        },
-        "column_VmxGzy": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Piatti-total-white-brandani.webp",
-            "title": "",
-            "text": "<p><strong>Brandani - Total White</strong></p>",
-            "link_label": "",
-            "link": "shopify://products/brandani-total-white-piattino-bianco"
-          }
-        },
-        "column_CbPFeM": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brandani-piattino-calipso-stoneware.webp",
-            "title": "",
-            "text": "<p><strong>Brandani - Calipso</strong></p>",
-            "link_label": "",
-            "link": "shopify://products/brandani-calipso-piatto-frutta-stoneware-set-6-pz"
-          }
-        },
-        "column_eLeqwk": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brandani-flora-piattino-set-2-_pz-in-porcellana.jpg",
-            "title": "",
-            "text": "<p><strong>Brandani - Flora</strong></p>",
-            "link_label": "",
-            "link": "shopify://products/brandani-flora-piattino-set-2-pz"
+            "link": ""
           }
         }
       },
       "block_order": [
-        "column_hbMD4X",
-        "column_DbUdFj",
-        "column_VmxGzy",
-        "column_CbPFeM",
-        "column_eLeqwk"
+        "column_hxxKx7",
+        "column_wBRPWD"
       ],
-      "disabled": true,
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Scelte Per il Quotidiano",
+        "title": "",
         "heading_size": "h2",
         "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 5,
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
         "column_alignment": "left",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 0,
-        "padding_bottom": 16
+        "padding_bottom": 0
       }
     },
     "multicolumn_MtNpp6": {
@@ -356,7 +318,6 @@
         "column_fcACXf",
         "column_79VmYx"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -375,196 +336,6 @@
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 16
-      }
-    },
-    "multicolumn_ikALKg": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_A8rPaP": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_T3f7Di": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Materiali e finiture che uniscono estetica e praticità</strong>",
-            "text": "<p>La selezione comprende piatti realizzati in <strong>porcellana</strong>, <strong>ceramica decorata</strong>, <strong>stoneware</strong>, <strong>melamina</strong> e <strong>bone china</strong>, materiali scelti per offrire <strong>qualità</strong>, <strong>resistenza</strong> e <strong>piacevolezza d’uso.<br/></strong><br/>La <strong>porcellana</strong> è ideale per una tavola elegante e luminosa; <strong>ceramica</strong> e <strong>stoneware</strong> aggiungono una nota materica e contemporanea; la <strong>melamina</strong> è pratica, leggera e adatta anche a contesti più informali; la <strong>bone china</strong> è perfetta per chi cerca il massimo della raffinatezza a tavola.<br/><br/>Ogni finitura è pensata per integrarsi con naturalezza in <strong>ambienti contemporanei</strong> e per creare <strong>abbinamenti armoniosi</strong> con il resto del servizio tavola.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_A8rPaP",
-        "column_T3f7Di"
-      ],
-      "disabled": true,
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "rich_text_af4HHa": {
-      "type": "rich-text",
-      "blocks": {
-        "button_GJRKhK": {
-          "type": "button",
-          "settings": {
-            "button_label": "Melamina",
-            "button_link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti-melamina?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Piatti+Dessert+e+da+Frutta&sort_by=manual",
-            "button_style_secondary": false,
-            "button_label_2": "Bone China",
-            "button_link_2": "https://www.unicoemultiplo.com/collections/piatti-in-bone-china?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Piatti+Dessert+e+da+Frutta&sort_by=manual",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "button_GJRKhK"
-      ],
-      "disabled": true,
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 24
-      }
-    },
-    "multicolumn_FnyeXB": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_hxxKx7": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_wBRPWD": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>I brand protagonisti della selezione</strong>",
-            "text": "<p>La collezione riunisce piatti da frutta e dessert firmati da alcuni dei brand più interessanti del panorama design e home decor contemporaneo. Ogni brand interpreta il piatto dessert in modo differente: c’è chi punta su <strong>colori e decorazioni, </strong>chi su <strong>linee essenziali</strong> e chi su dettagli capaci di trasformare un semplice accessorio da tavola in un vero elemento decorativo.<br/><br/>Questa <strong>varietà </strong>ti permette di trovare facilmente il prodotto più adatto al tuo <strong>stile </strong>e di costruire una tavola <strong>coerente, vivace o volutamente eclettica.</strong></p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_hxxKx7",
-        "column_wBRPWD"
-      ],
-      "disabled": true,
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_chXi8C": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_3xFfxt": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-2.webp",
-            "title": "",
-            "text": "<p><strong>Seletti</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti-frutta-e-dessert?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=manual#shopify-section-template--26193522327817__product-grid"
-          }
-        },
-        "column_YzajCb": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/bitossi-home-dipinto-smerlo.webp",
-            "title": "",
-            "text": "<p><strong>Bitossi Home</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti-frutta-e-dessert?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Bitossi+Home&sort_by=title-ascending#shopify-section-template--26193522327817__product-grid"
-          }
-        },
-        "column_FQVEpz": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/KnIndustrie-Composizi-ne-Shabbychic_-posto-tavola_-set-pezzi-6.webp",
-            "title": "",
-            "text": "<p><strong>KnIndustrie</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti-frutta-e-dessert?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=KnIndustrie&sort_by=manual#shopify-section-template--26193522327817__product-grid"
-          }
-        },
-        "column_tbgMgt": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/brandani-oasi-vassoio-new-bone-china.jpg",
-            "title": "",
-            "text": "<p><strong>Brandani</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/cucina-e-tavola-piatti-frutta-e-dessert?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Brandani&sort_by=manual#shopify-section-template--26193522327817__product-grid"
-          }
-        }
-      },
-      "block_order": [
-        "column_3xFfxt",
-        "column_YzajCb",
-        "column_FQVEpz",
-        "column_tbgMgt"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
       }
     },
     "image_banner_hf7WRX": {
@@ -614,6 +385,50 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "multicolumn_ikALKg": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_A8rPaP": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_T3f7Di": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Un set di bicchieri o calici <strong>è un regalo utile, elegante e facile</strong> da inserire nella vita quotidiana. </p><p>È una scelta adatta per nuove case, matrimoni, anniversari, compleanni e per chi ama curare la tavola con oggetti belli ma funzionali.</p><p>Le linee più decorative possono diventare anche piccoli <strong>elementi da collezione, ideali </strong>per chi cerca un regalo originale per la casa.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_A8rPaP",
+        "column_T3f7Di"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<strong>Bicchieri e calici come idea regalo</strong>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Idee Regalo Casa & Cucina",
+        "button_link": "shopify://collections/idee-regalo-per-casa-e-cucina",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multicolumn_wDLcLp": {
@@ -850,13 +665,10 @@
     "multicolumn_KWHCjy",
     "image_with_text_jXdDJq",
     "multicolumn_JNpC9x",
-    "multicolumn_J8w6Dd",
-    "multicolumn_MtNpp6",
-    "multicolumn_ikALKg",
-    "rich_text_af4HHa",
     "multicolumn_FnyeXB",
-    "multicolumn_chXi8C",
+    "multicolumn_MtNpp6",
     "image_banner_hf7WRX",
+    "multicolumn_ikALKg",
     "multicolumn_wDLcLp",
     "multicolumn_fteU4T",
     "collapsible_content_dP6Ppz"
