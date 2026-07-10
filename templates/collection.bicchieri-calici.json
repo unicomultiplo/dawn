@@ -365,7 +365,7 @@
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "image_with_text_gYmdLm": {
@@ -419,6 +419,15 @@
     "multicolumn_wDLcLp": {
       "type": "multicolumn",
       "blocks": {
+        "column_r6hUa6": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Per creare una<strong> tavola coerente </strong>puoi abbinare bicchieri e calici a piatti, posate, vassoi, caraffe, tovagliette e accessori decorativi. Il <strong>risultato </strong>può essere <strong>coordinato oppure </strong>volutamente <strong>mixato</strong>: <strong>l’importante è mantenere un equilibrio</strong> tra colori, materiali e occasioni d’uso.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_CGCdFb": {
           "type": "column",
           "settings": {
@@ -427,24 +436,15 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_r6hUa6": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Completa la tavola</strong>",
-            "text": "<p>Per creare una<strong> tavola coerente </strong>puoi abbinare bicchieri e calici a piatti, posate, vassoi, caraffe, tovagliette e accessori decorativi. Il <strong>risultato </strong>può essere <strong>coordinato oppure </strong>volutamente <strong>mixato</strong>: <strong>l’importante è mantenere un equilibrio</strong> tra colori, materiali e occasioni d’uso.</p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "column_CGCdFb",
-        "column_r6hUa6"
+        "column_r6hUa6",
+        "column_CGCdFb"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "",
+        "title": "<strong>Completa la tavola</strong>",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
