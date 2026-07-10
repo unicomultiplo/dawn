@@ -213,50 +213,6 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_FnyeXB": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_hxxKx7": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_wBRPWD": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Il<strong> vetro trasparente</strong> è una scelta <strong>versatile</strong>, facile da abbinare a piatti e posate di stili diversi. I <strong>bicchieri colorati </strong>o decorati aggiungono <strong>personalità </strong>e diventano un elemento visivo importante, soprattutto su tavole essenziali o monocromatiche. Le <strong>forme più particolari</strong> aiutano invece a creare un<strong> punto focale </strong>e a rendere riconoscibile l’apparecchiatura.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_hxxKx7",
-        "column_wBRPWD"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "<strong>Design, colori e materiali per una mise en place personale</strong>",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "collection_list_J9CqrE": {
       "type": "collection-list",
       "blocks": {
@@ -315,6 +271,50 @@
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_FnyeXB": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_hxxKx7": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wBRPWD": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Il<strong> vetro trasparente</strong> è una scelta <strong>versatile</strong>, facile da abbinare a piatti e posate di stili diversi. I <strong>bicchieri colorati </strong>o decorati aggiungono <strong>personalità </strong>e diventano un elemento visivo importante, soprattutto su tavole essenziali o monocromatiche. Le <strong>forme più particolari</strong> aiutano invece a creare un<strong> punto focale </strong>e a rendere riconoscibile l’apparecchiatura.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_hxxKx7",
+        "column_wBRPWD"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<strong>Design, colori e materiali per una mise en place personale</strong>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -646,8 +646,8 @@
     "multicolumn_KWHCjy",
     "image_with_text_jXdDJq",
     "multicolumn_JNpC9x",
-    "multicolumn_FnyeXB",
     "collection_list_J9CqrE",
+    "multicolumn_FnyeXB",
     "image_banner_hf7WRX",
     "multicolumn_ikALKg",
     "multicolumn_wDLcLp",
