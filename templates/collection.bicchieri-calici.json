@@ -686,7 +686,7 @@
         "column_mjiBaV": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bicchierie-Calici-Bitossi-Home.webp",
+            "image": "shopify://shop_images/knIndustrie_outdoor_dining.webp",
             "title": "",
             "text": "<p><strong>Bicchieri e Calici</strong></p>",
             "link_label": "",
@@ -834,7 +834,7 @@
         "color_scheme": "",
         "container_color_scheme": "scheme-2",
         "open_first_collapsible_row": true,
-        "image": "shopify://shop_images/knindustrie-k4_Sissi_Valassina-vetro.webp",
+        "image": "shopify://shop_images/knIndustrie_outdoor_dining.webp",
         "image_ratio": "large",
         "desktop_layout": "image_first",
         "padding_top": 0,
