@@ -563,9 +563,9 @@
         "collapsible_row_GG6eXA": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Quali prodotti comprende questa collection?",
+            "heading": "Quali prodotti comprende la collezione Bicchieri e Calici?",
             "icon": "check_mark",
-            "row_content": "<p>La collection raccoglie<strong> bicchieri</strong> da acqua, <strong>calici, tumbler </strong>e bicchieri per cocktail, aperitivo e occasioni speciali.</p>",
+            "row_content": "<p>La collezione raccoglie<strong> bicchieri</strong> da acqua, <strong>calici, tumbler </strong>e bicchieri per cocktail, aperitivo e occasioni speciali.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -585,7 +585,7 @@
           "settings": {
             "heading": "Dove trovo solo bicchieri tumbler?",
             "icon": "check_mark",
-            "row_content": "<p>Per <strong>bicchieri tumbler bassi, medi e alti</strong> visita la <a href=\"/collections/cucina-e-tavola-bicchieri-e-calici-tumbler\" title=\"Bicchieri Tumbler\"><strong>collection Tumbler dedicata</strong>.</a></p>",
+            "row_content": "<p>Per <strong>bicchieri tumbler bassi, medi e alti</strong> visita la <a href=\"/collections/cucina-e-tavola-bicchieri-e-calici-tumbler\" title=\"Bicchieri Tumbler\"><strong>collezione Tumbler dedicata</strong>.</a></p>",
             "page": "",
             "liquid_content": ""
           }
@@ -632,7 +632,7 @@
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
         "caption": "Domande rapide su come scegliere bicchieri e calici dal mondo Unico & Multiplo.",
-        "heading": "Come scegliere bicchieri e calici per la tua tavola",
+        "heading": "Domande frequenti su bicchieri e calici da tavola",
         "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "row",
