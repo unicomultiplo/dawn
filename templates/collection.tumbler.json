@@ -360,9 +360,9 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Per creare una <strong>tavola armoniosa</strong>, i <strong>tumbler </strong>possono essere abbinati a piatti, posate, caraffe, brocche, tovagliette, sottobicchieri e accessori per l’aperitivo. Le versioni <strong>trasparenti </strong>valorizzano mise en place <strong>eleganti </strong>e luminose, mentre i tumbler <strong>colorati </strong>possono diventare il dettaglio protagonista di una tavola più <strong>creativa</strong>.</p><p><em>“Le forme del bere: come scegliere il giusto bicchiere”</em>, è il nostro <strong>articolo blog </strong>pensato come <strong>guida </strong>informativa alla scelta del bicchiere più adatto.</p>",
-            "link_label": "Le forme del bere: come scegliere il giusto bicchiere",
-            "link": "shopify://blogs/apparecchiare-con-stile/le-forme-del-bere-come-scegliere-il-giusto-bicchiere"
+            "text": "<p>Per creare una <strong>tavola armoniosa</strong>, i <strong>tumbler </strong>possono essere abbinati a piatti, posate, caraffe, brocche, tovagliette, sottobicchieri e accessori per l’aperitivo. Le versioni <strong>trasparenti </strong>valorizzano mise en place <strong>eleganti </strong>e luminose, mentre i tumbler <strong>colorati </strong>possono diventare il dettaglio protagonista di una tavola più <strong>creativa</strong>.</p>",
+            "link_label": "",
+            "link": ""
           }
         },
         "column_CGCdFb": {
