@@ -85,6 +85,46 @@
         "padding_bottom": 0
       }
     },
+    "image_with_text_jXdDJq": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_LBjDyp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Il <strong>tumbler </strong>è uno dei bicchieri più <strong>versatili </strong>della tavola contemporanea. La sua forma essenziale lo rende adatto a tanti utilizzi diversi, dalla <strong>colazione </strong>al <strong>pranzo </strong>quotidiano, dall’<strong>aperitivo </strong>informale fino ai <strong>cocktail </strong>serviti in casa. È un bicchiere pratico, ma anche capace di diventare un <strong>dettaglio di stile </strong>quando viene scelto in <strong>versioni colorate, decorate o dal design ricercato</strong>.</p><p>Questa collezione è dedicata a una tipologia precisa: i bicchieri tumbler. Qui trovi modelli pensati per chi desidera <strong>unire comodità d’uso, estetica e personalità,</strong> senza rinunciare alla funzionalità nella vita di tutti i giorni.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_6yBPT7": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scopri tutta la nostra collezione Bicchieri e Calici",
+            "button_link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "text_LBjDyp",
+        "button_6yBPT7"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/knindustrie-lime-lane-tumbler.webp",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn_JNpC9x": {
       "type": "multicolumn",
       "blocks": {
@@ -260,47 +300,56 @@
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 28
       }
     },
-    "image_with_text_jXdDJq": {
-      "type": "image-with-text",
+    "image_banner_hf7WRX": {
+      "type": "image-banner",
       "blocks": {
-        "text_LBjDyp": {
-          "type": "text",
+        "heading_7nALCz": {
+          "type": "heading",
           "settings": {
-            "text": "<p>Il <strong>tumbler </strong>è uno dei bicchieri più <strong>versatili </strong>della tavola contemporanea. La sua forma essenziale lo rende adatto a tanti utilizzi diversi, dalla <strong>colazione </strong>al <strong>pranzo </strong>quotidiano, dall’<strong>aperitivo </strong>informale fino ai <strong>cocktail </strong>serviti in casa. È un bicchiere pratico, ma anche capace di diventare un <strong>dettaglio di stile </strong>quando viene scelto in <strong>versioni colorate, decorate o dal design ricercato</strong>.</p><p>Questa collezione è dedicata a una tipologia precisa: i bicchieri tumbler. Qui trovi modelli pensati per chi desidera <strong>unire comodità d’uso, estetica e personalità,</strong> senza rinunciare alla funzionalità nella vita di tutti i giorni.</p>",
-            "text_style": "body"
+            "heading": "<strong>Vetro borosilicato</strong>: leggerezza, resistenza ed eleganza essenziale",
+            "heading_size": "h2"
           }
         },
-        "button_6yBPT7": {
-          "type": "button",
+        "text_8xqydc": {
+          "type": "text",
           "settings": {
-            "button_label": "Scopri tutta la nostra collezione Bicchieri e Calici",
-            "button_link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici",
-            "button_style_secondary": true
+            "text": "Cos'è, Vantaggi e Differenze dal Vetro Tradizionale",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "buttons_ALFMPq": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Scopri tutto sul Vetro Borosilicato",
+            "button_link_1": "https://www.unicoemultiplo.com/pages/vetro-borosilicato",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "text_LBjDyp",
-        "button_6yBPT7"
+        "heading_7nALCz",
+        "text_8xqydc",
+        "buttons_ALFMPq"
       ],
-      "name": "t:sections.image-with-text.presets.name",
+      "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/knindustrie-lime-lane-tumbler.webp",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
+        "image": "shopify://shop_images/knindustrie-Alzata_in_vetro_trasparente_mood-vetro-borosilicato.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "bottom-right",
+        "show_text_box": false,
+        "desktop_content_alignment": "right",
         "color_scheme": "",
         "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "mobile_content_alignment": "right",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
       }
     },
     "multicolumn_wDLcLp": {
@@ -343,7 +392,7 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 0,
+        "padding_top": 28,
         "padding_bottom": 0
       }
     },
@@ -526,55 +575,6 @@
         "desktop_layout": "image_second",
         "padding_top": 28,
         "padding_bottom": 36
-      }
-    },
-    "image_banner_hf7WRX": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_7nALCz": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Vetro borosilicato</strong>: leggerezza, resistenza ed eleganza essenziale",
-            "heading_size": "h2"
-          }
-        },
-        "text_8xqydc": {
-          "type": "text",
-          "settings": {
-            "text": "Cos'è, Vantaggi e Differenze dal Vetro Tradizionale",
-            "text_style": "caption-with-letter-spacing"
-          }
-        },
-        "buttons_ALFMPq": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Scopri tutto sul Vetro Borosilicato",
-            "button_link_1": "https://www.unicoemultiplo.com/pages/vetro-borosilicato",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_7nALCz",
-        "text_8xqydc",
-        "buttons_ALFMPq"
-      ],
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/knindustrie-Alzata_in_vetro_trasparente_mood-vetro-borosilicato.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "bottom-right",
-        "show_text_box": false,
-        "desktop_content_alignment": "right",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "right",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
       }
     }
   },
