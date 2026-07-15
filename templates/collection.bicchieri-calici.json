@@ -680,7 +680,7 @@
         "image": "shopify://shop_images/knindustrie-kn_table_setting-bicchieri-vassoio.webp",
         "image_2": "shopify://shop_images/knIndustrie_point_of_view.webp",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "desktop_content_position": "bottom-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
