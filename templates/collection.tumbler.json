@@ -150,71 +150,18 @@
         "padding_bottom": 0
       }
     },
-    "collection_list_J9CqrE": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_jjreiQ": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "lime-line-knindustrie"
-          }
-        },
-        "featured_collection_atGfQH": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-seletti-hybrid-bicchieri"
-          }
-        },
-        "featured_collection_hhWrMH": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-seletti-hybrid-bicchieri"
-          }
-        },
-        "featured_collection_BxTycC": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "groove-knindustrie"
-          }
-        },
-        "featured_collection_GjVeME": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "boulevard-brandani"
-          }
-        },
-        "featured_collection_xNeiyB": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "knindustrie-catalogo-prodotti-davide-oldani-e-knindustrie-verres-d-o-bicchieri"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_jjreiQ",
-        "featured_collection_atGfQH",
-        "featured_collection_hhWrMH",
-        "featured_collection_BxTycC",
-        "featured_collection_GjVeME",
-        "featured_collection_xNeiyB"
-      ],
-      "name": "t:sections.collection-list.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "multicolumn_FnyeXB": {
       "type": "multicolumn",
       "blocks": {
+        "column_wBRPWD": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>I <strong>tumbler </strong>in vetro sono <strong>perfetti </strong>per chi ama una<strong> tavola luminosa</strong>, pulita e facile da abbinare. Le versioni trasparenti si inseriscono con naturalezza in mise en place <strong>essenziali</strong>, mentre i <strong>tumbler </strong>colorati aggiungono carattere e rendono la tavola più vivace e contemporanea.</p><p>Le superfici lavorate, le<strong> forme particolari </strong>e i dettagli decorativi permettono di scegliere bicchieri tumbler <strong>adatti a stili diversi: minimal, creativo, elegante o più giocoso.</strong> È proprio questa flessibilità a rendere il tumbler un elemento utile sia per la tavola quotidiana sia per occasioni più curate.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_hxxKx7": {
           "type": "column",
           "settings": {
@@ -223,20 +170,11 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_wBRPWD": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>I tumbler in vetro sono perfetti per chi ama una tavola luminosa, pulita e facile da abbinare. Le versioni trasparenti si inseriscono con naturalezza in mise en place essenziali, mentre i tumbler colorati aggiungono carattere e rendono la tavola più vivace e contemporanea.</p><p>Le superfici lavorate, le forme particolari e i dettagli decorativi permettono di scegliere bicchieri tumbler adatti a stili diversi: minimal, creativo, elegante o più giocoso. È proprio questa flessibilità a rendere il tumbler un elemento utile sia per la tavola quotidiana sia per occasioni più curate.</p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "column_hxxKx7",
-        "column_wBRPWD"
+        "column_wBRPWD",
+        "column_hxxKx7"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -254,55 +192,6 @@
         "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "image_banner_hf7WRX": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_7nALCz": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Vetro borosilicato</strong>: leggerezza, resistenza ed eleganza essenziale",
-            "heading_size": "h2"
-          }
-        },
-        "text_8xqydc": {
-          "type": "text",
-          "settings": {
-            "text": "Cos'è, Vantaggi e Differenze dal Vetro Tradizionale",
-            "text_style": "caption-with-letter-spacing"
-          }
-        },
-        "buttons_ALFMPq": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Scopri tutto sul Vetro Borosilicato",
-            "button_link_1": "https://www.unicoemultiplo.com/pages/vetro-borosilicato",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_7nALCz",
-        "text_8xqydc",
-        "buttons_ALFMPq"
-      ],
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/knindustrie-Alzata_in_vetro_trasparente_mood-vetro-borosilicato.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "bottom-right",
-        "show_text_box": false,
-        "desktop_content_alignment": "right",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "right",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
       }
     },
     "image_with_text_gYmdLm": {
@@ -338,8 +227,8 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/knindustrie-kn_gift-aperitivo.webp",
-        "height": "adapt",
+        "image": "shopify://shop_images/knindustrie-kn_gifts-natale.webp",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
@@ -453,11 +342,11 @@
         "column_mjiBaV": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-Alzata_in_vetro_arancio_mood.webp",
+            "image": "shopify://shop_images/img-categoria-bicchieri_360x_97d2ff08-3d34-467d-b663-d7106089ebe8.webp",
             "title": "",
-            "text": "<p><strong>Centrotavola e Alzate</strong></p>",
+            "text": "<p><strong>Bicchieri e Calici</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
+            "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
           }
         }
       },
@@ -495,9 +384,9 @@
         "collapsible_row_GG6eXA": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Quali prodotti comprende la collezione Bicchieri e Calici?",
+            "heading": "Cosa sono i bicchieri tumbler?",
             "icon": "check_mark",
-            "row_content": "<p>La collezione raccoglie<strong> bicchieri</strong> da acqua, <strong>calici, tumbler </strong>e bicchieri per cocktail, aperitivo e occasioni speciali.</p>",
+            "row_content": "<p>Il <strong>tumbler è un</strong> <strong>bicchiere </strong>per la tavola. Versatile per definizione, il tumbler si adatta a ogni occasione: è il bicchiere dell'<strong>acqua a pranzo,</strong> <strong>dell'aperitivo </strong>al tramonto, del <strong>cocktail </strong>in compagnia.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -505,9 +394,9 @@
         "collapsible_row_3zyPPt": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Come scegliere tra bicchieri e calici?",
+            "heading": "I tumbler sono adatti all’uso quotidiano?",
             "icon": "check_mark",
-            "row_content": "<p><strong>Scegli in base all’uso: </strong>bicchieri da acqua per la tavola quotidiana, <strong>calici per vino </strong>e bollicine,<strong> tumbler per acqua, cocktail, succhi e aperitivi.</strong></p>",
+            "row_content": "<p><strong>Sì, i bicchieri tumbler sono particolarmente adatti all’uso quotidiano </strong>perché sono pratici, facili da abbinare e utilizzabili in molti momenti diversi.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -515,9 +404,9 @@
         "collapsible_row_qRcJNt": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Dove trovo solo bicchieri tumbler?",
+            "heading": "Dove trovo anche i calici?",
             "icon": "check_mark",
-            "row_content": "<p>Per <strong>bicchieri tumbler bassi, medi e alti</strong> visita la <a href=\"/collections/cucina-e-tavola-bicchieri-e-calici-tumbler\" title=\"Bicchieri Tumbler\"><strong>collezione Tumbler dedicata</strong>.</a></p>",
+            "row_content": "<p>Per <strong>il resto dei bicchieri e calici </strong>visita la nostra <a href=\"/collections/cucina-e-tavola-bicchieri-e-calici\" title=\"Bicchieri e Calici di Design per la Tavola\"><strong>collezione dedicata - Bicchieri e Calici</strong>.</a></p>",
             "page": "",
             "liquid_content": ""
           }
@@ -525,9 +414,9 @@
         "collapsible_row_pyQ6eE": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Dove trovo i bicchieri per brand specifico?",
+            "heading": "Posso usare i tumbler anche per aperitivi e cocktail?",
             "icon": "check_mark",
-            "row_content": "<p>Per brand specifici usa le <strong>collection dedicate a </strong><a href=\"/collections/bicchieri-e-calici-seletti\" title=\"Bicchieri e Calici Seletti\"><strong>Seletti,</strong></a><strong> </strong><a href=\"/collections/brandani-bicchieri-e-calici\" title=\"Bicchieri e Calici Brandani\"><strong>Brandani</strong></a><strong>, </strong><a href=\"/collections/knindustrie-catalogo-prodotti-bicchieri\" title=\"KnIndustrie: Bicchieri\"><strong>KnIndustrie</strong></a><strong> e </strong><a href=\"/collections/bitossi-home-bicchieri-e-calici\" title=\"Bicchieri e Calici Bitossi Home\"><strong>Bitossi Home</strong></a>, così la navigazione resta più chiara.</p>",
+            "row_content": "<p>Sì, molti tumbler sono <strong>perfetti per aperitivi, cocktail, long drink e bevande fredde, </strong>oltre che per <strong>acqua </strong>e <strong>bibite</strong>.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -535,9 +424,9 @@
         "collapsible_row_4FRJ9a": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "I bicchieri e i calici di design sono adatti anche come regalo?",
+            "heading": "I tumbler colorati sono facili da abbinare?",
             "icon": "check_mark",
-            "row_content": "<p><strong>Sì</strong>, sono idee regalo <strong>utili e raffinate</strong> per nuove case, matrimoni, anniversari, compleanni e per chi ama la tavola curata.</p>",
+            "row_content": "<p><strong>Sì,</strong> i tumbler colorati possono essere <strong>abbinati a piatti neutri </strong>per creare contrasto <strong>oppure coordinati </strong>con tovagliette, caraffe e<strong> accessori tavola.</strong></p>",
             "page": "",
             "liquid_content": ""
           }
@@ -545,9 +434,9 @@
         "collapsible_row_CHhrTh": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Come posso abbinarli al resto della tavola?",
+            "heading": "I bicchieri tumbler sono una buona idea regalo?",
             "icon": "check_mark",
-            "row_content": "<p>Puoi abbinarli a piatti, posate, caraffe, brocche, tovagliette e centrotavola, creando una<strong> mise en place coordinata o giocando con contrasti di colore, forma e materiale.</strong></p>",
+            "row_content": "<p><strong>Sì,</strong> un set di bicchieri tumbler è un <strong>regalo utile </strong>ed elegante per nuove case, matrimoni, anniversari e<strong> persone che amano curare la tavola.</strong></p>",
             "page": "",
             "liquid_content": ""
           }
@@ -563,19 +452,68 @@
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
-        "caption": "Domande rapide su come scegliere bicchieri e calici dal mondo Unico & Multiplo.",
-        "heading": "Domande frequenti su bicchieri e calici da tavola",
+        "caption": "Domande rapide su come scegliere i tumbler",
+        "heading": "Domande frequenti sui bicchieri tumbler",
         "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "row",
         "color_scheme": "",
         "container_color_scheme": "scheme-2",
         "open_first_collapsible_row": true,
-        "image": "shopify://shop_images/knIndustrie_outdoor_dining.webp",
+        "image": "shopify://shop_images/knindustrie-k4_Sissi_Valassina-vetro.webp",
         "image_ratio": "large",
-        "desktop_layout": "image_first",
+        "desktop_layout": "image_second",
         "padding_top": 28,
         "padding_bottom": 36
+      }
+    },
+    "image_banner_hf7WRX": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_7nALCz": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Vetro borosilicato</strong>: leggerezza, resistenza ed eleganza essenziale",
+            "heading_size": "h2"
+          }
+        },
+        "text_8xqydc": {
+          "type": "text",
+          "settings": {
+            "text": "Cos'è, Vantaggi e Differenze dal Vetro Tradizionale",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "buttons_ALFMPq": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Scopri tutto sul Vetro Borosilicato",
+            "button_link_1": "https://www.unicoemultiplo.com/pages/vetro-borosilicato",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_7nALCz",
+        "text_8xqydc",
+        "buttons_ALFMPq"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/knindustrie-Alzata_in_vetro_trasparente_mood-vetro-borosilicato.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "bottom-right",
+        "show_text_box": false,
+        "desktop_content_alignment": "right",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "right",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
       }
     }
   },
@@ -586,12 +524,11 @@
     "multicolumn_KWHCjy",
     "image_with_text_jXdDJq",
     "multicolumn_JNpC9x",
-    "collection_list_J9CqrE",
     "multicolumn_FnyeXB",
-    "image_banner_hf7WRX",
     "image_with_text_gYmdLm",
     "multicolumn_wDLcLp",
     "multicolumn_fteU4T",
-    "collapsible_content_dP6Ppz"
+    "collapsible_content_dP6Ppz",
+    "image_banner_hf7WRX"
   ]
 }
