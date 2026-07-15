@@ -94,10 +94,19 @@
             "text": "<p>Il <strong>tumbler </strong>è uno dei bicchieri più <strong>versatili </strong>della tavola contemporanea. La sua forma essenziale lo rende adatto a tanti utilizzi diversi, dalla <strong>colazione </strong>al <strong>pranzo </strong>quotidiano, dall’<strong>aperitivo </strong>informale fino ai <strong>cocktail </strong>serviti in casa. È un bicchiere pratico, ma anche capace di diventare un <strong>dettaglio di stile </strong>quando viene scelto in <strong>versioni colorate, decorate o dal design ricercato</strong>.</p><p>Questa collezione è dedicata a una tipologia precisa: i bicchieri tumbler. Qui trovi modelli pensati per chi desidera <strong>unire comodità d’uso, estetica e personalità,</strong> senza rinunciare alla funzionalità nella vita di tutti i giorni.</p>",
             "text_style": "body"
           }
+        },
+        "button_6yBPT7": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scopri tutta la nostra collezione Bicchieri e Calici",
+            "button_link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici",
+            "button_style_secondary": true
+          }
         }
       },
       "block_order": [
-        "text_LBjDyp"
+        "text_LBjDyp",
+        "button_6yBPT7"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
