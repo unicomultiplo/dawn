@@ -31,61 +31,6 @@
         "padding_bottom": 0
       }
     },
-    "collection_list_Dqiq6d": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_PcxNij": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "cucina-e-tavola-bicchieri-e-calici-tumbler"
-          }
-        },
-        "featured_collection_eitpRA": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home-bicchieri-e-calici"
-          }
-        },
-        "featured_collection_WXJXpE": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bicchieri-e-calici-seletti"
-          }
-        },
-        "featured_collection_himhQQ": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "knindustrie-catalogo-prodotti-bicchieri"
-          }
-        },
-        "featured_collection_YjfbXB": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-bicchieri-e-calici"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_PcxNij",
-        "featured_collection_eitpRA",
-        "featured_collection_WXJXpE",
-        "featured_collection_himhQQ",
-        "featured_collection_YjfbXB"
-      ],
-      "name": "t:sections.collection-list.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -124,7 +69,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Come scegliere bicchieri e calici per la tua tavola",
+        "title": "Tumbler: il bicchiere che unisce praticità, stile e convivialità",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -143,29 +88,21 @@
     "image_with_text_jXdDJq": {
       "type": "image-with-text",
       "blocks": {
-        "heading_MzfeAt": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Bicchieri da tavola per ogni momento</strong>",
-            "heading_size": "h2"
-          }
-        },
         "text_LBjDyp": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>I bicchieri e i calici </strong>sono dettagli <strong>essenziali </strong>per definire lo stile della tavola. Non servono solo a completare il servizio, ma contribuiscono a <strong>creare atmosfera:</strong> più essenziale nella quotidianità, più ricercata durante una cena speciale, più informale quando si prepara un aperitivo con amici.</p><p>In questa selezione <strong>trovi bicchieri da acqua, calici, tumbler</strong> e proposte decorative pensate per accompagnare bevande diverse e momenti diversi della giornata. <strong>La scelta può partire dall’uso, ma anche dal carattere che desideri dare alla mise en place:</strong> trasparente e luminosa, colorata e contemporanea, elegante o volutamente originale.</p>",
+            "text": "<p>Il <strong>tumbler </strong>è uno dei bicchieri più <strong>versatili </strong>della tavola contemporanea. La sua forma essenziale lo rende adatto a tanti utilizzi diversi, dalla <strong>colazione </strong>al <strong>pranzo </strong>quotidiano, dall’<strong>aperitivo </strong>informale fino ai <strong>cocktail </strong>serviti in casa. È un bicchiere pratico, ma anche capace di diventare un <strong>dettaglio di stile </strong>quando viene scelto in <strong>versioni colorate, decorate o dal design ricercato</strong>.</p><p>Questa collezione è dedicata a una tipologia precisa: i bicchieri tumbler. Qui trovi modelli pensati per chi desidera <strong>unire comodità d’uso, estetica e personalità,</strong> senza rinunciare alla funzionalità nella vita di tutti i giorni.</p>",
             "text_style": "body"
           }
         }
       },
       "block_order": [
-        "heading_MzfeAt",
         "text_LBjDyp"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/KnIndustrie-bicchieri.jpg",
-        "height": "adapt",
+        "image": "shopify://shop_images/knindustrie-lime-lane-tumbler.webp",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
@@ -645,7 +582,6 @@
   "order": [
     "banner",
     "custom_liquid_LepCX8",
-    "collection_list_Dqiq6d",
     "product-grid",
     "multicolumn_KWHCjy",
     "image_with_text_jXdDJq",
