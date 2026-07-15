@@ -162,7 +162,7 @@
         "featured_collection_atGfQH": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bitossi-home-diseguale"
+            "collection": "seletti-catalogo-prodotti-seletti-hybrid-bicchieri"
           }
         },
         "featured_collection_hhWrMH": {
@@ -228,7 +228,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Il<strong> vetro trasparente</strong> è una scelta <strong>versatile</strong>, facile da abbinare a piatti e posate di stili diversi. I <strong>bicchieri colorati </strong>o decorati aggiungono <strong>personalità </strong>e diventano un elemento visivo importante, soprattutto su tavole essenziali o monocromatiche. Le <strong>forme più particolari</strong> aiutano invece a creare un<strong> punto focale </strong>e a rendere riconoscibile l’apparecchiatura.</p>",
+            "text": "<p>I tumbler in vetro sono perfetti per chi ama una tavola luminosa, pulita e facile da abbinare. Le versioni trasparenti si inseriscono con naturalezza in mise en place essenziali, mentre i tumbler colorati aggiungono carattere e rendono la tavola più vivace e contemporanea.</p><p>Le superfici lavorate, le forme particolari e i dettagli decorativi permettono di scegliere bicchieri tumbler adatti a stili diversi: minimal, creativo, elegante o più giocoso. È proprio questa flessibilità a rendere il tumbler un elemento utile sia per la tavola quotidiana sia per occasioni più curate.</p>",
             "link_label": "",
             "link": ""
           }
@@ -240,7 +240,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>Design, colori e materiali per una mise en place personale</strong>",
+        "title": "Tumbler in vetro, colorati o decorativi",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -311,14 +311,14 @@
         "heading_tAz8Dq": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Bicchieri e calici come idea regalo</strong>",
+            "heading": "<strong>Tumbler: idea regalo per la casa</strong>",
             "heading_size": "h2"
           }
         },
         "text_LddPew": {
           "type": "text",
           "settings": {
-            "text": "<p>Un set di bicchieri o calici <strong>è un regalo utile, elegante e facile</strong> da inserire nella vita quotidiana. </p><p>È una scelta adatta per nuove case, matrimoni, anniversari, compleanni e per chi ama curare la tavola con oggetti belli ma funzionali.</p><p>Le linee più decorative possono diventare anche piccoli <strong>elementi da collezione, ideali </strong>per chi cerca un regalo originale per la casa.</p>",
+            "text": "<p>I bicchieri <strong>tumbler </strong>sono anche <strong>un’ottima idea regalo</strong> per chi ama la tavola, il design e gli oggetti utili ma non banali. Un set di tumbler può essere scelto per una nuova <strong>casa</strong>, un <strong>matrimonio</strong>, un <strong>anniversario </strong>o una cena speciale, perché unisce funzionalità quotidiana e valore estetico.</p><p>Sono <strong>regali concreti</strong>, facili da usare e capaci di accompagnare chi li riceve in tanti momenti diversi: dalla colazione agli aperitivi con gli amici.</p>",
             "text_style": "body"
           }
         },
@@ -360,9 +360,9 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Per creare una<strong> tavola coerente </strong>puoi abbinare bicchieri e calici a piatti, posate, vassoi, caraffe, tovagliette e accessori decorativi. Il <strong>risultato </strong>può essere <strong>coordinato oppure </strong>volutamente <strong>mixato</strong>: <strong>l’importante è mantenere un equilibrio</strong> tra colori, materiali e occasioni d’uso.</p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p>Per creare una <strong>tavola armoniosa</strong>, i <strong>tumbler </strong>possono essere abbinati a piatti, posate, caraffe, brocche, tovagliette, sottobicchieri e accessori per l’aperitivo. Le versioni <strong>trasparenti </strong>valorizzano mise en place <strong>eleganti </strong>e luminose, mentre i tumbler <strong>colorati </strong>possono diventare il dettaglio protagonista di una tavola più <strong>creativa</strong>.</p><p><em>“Le forme del bere: come scegliere il giusto bicchiere”</em>, è il nostro <strong>articolo blog </strong>pensato come <strong>guida </strong>informativa alla scelta del bicchiere più adatto.</p>",
+            "link_label": "Le forme del bere: come scegliere il giusto bicchiere",
+            "link": "shopify://blogs/apparecchiare-con-stile/le-forme-del-bere-come-scegliere-il-giusto-bicchiere"
           }
         },
         "column_CGCdFb": {
@@ -381,7 +381,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>Completa la tavola</strong>",
+        "title": "<strong>Come abbinare i tumbler alla mise en place</strong>",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -403,7 +403,7 @@
         "column_4eEi6Q": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Diesel-Living-with-Seletti-2022-cover.webp",
+            "image": "shopify://shop_images/knindustrie-kn_food_mood-shabby-chic.webp",
             "title": "",
             "text": "<p><strong>Piatti da Tavola</strong></p>",
             "link_label": "",
@@ -413,7 +413,7 @@
         "column_Pf3nRn": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Biossi-home-posate-bamboo-5.webp",
+            "image": "shopify://shop_images/1648-bitossi-home-classic-servizio-posate-acciaio-inox.webp",
             "title": "",
             "text": "<p><strong>Posate</strong></p>",
             "link_label": "",
@@ -423,7 +423,7 @@
         "column_mjiBaV": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-totem.webp",
+            "image": "shopify://shop_images/knindustrie-Alzata_in_vetro_arancio_mood.webp",
             "title": "",
             "text": "<p><strong>Centrotavola e Alzate</strong></p>",
             "link_label": "",
@@ -433,7 +433,7 @@
         "column_yxYYXF": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-hybrd-tazze.jpg",
+            "image": "shopify://shop_images/Vintage-tazzine-bitossi-home.webp",
             "title": "",
             "text": "<p><strong>Tazze, Tazzine e Mug</strong></p>",
             "link_label": "",
@@ -443,7 +443,7 @@
         "column_AwYUHa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/tovaglietta-gina-cotone.webp",
+            "image": "shopify://shop_images/bitossi-home-pizzo-tovaglietta-rettangolare-bordo-pizzo-1.jpg",
             "title": "",
             "text": "<p><strong>Sottopiatti e Tovagliette</strong></p>",
             "link_label": "",
@@ -453,7 +453,7 @@
         "column_apfD9k": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-kn_table_setting-bicchieri-vassoio.webp",
+            "image": "shopify://shop_images/knindustrie-storm-vassoio-stone-washed-10.jpg",
             "title": "",
             "text": "<p><strong>Vassoi</strong></p>",
             "link_label": "",
