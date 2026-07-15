@@ -85,46 +85,6 @@
         "padding_bottom": 0
       }
     },
-    "image_with_text_jXdDJq": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_LBjDyp": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Il <strong>tumbler </strong>è uno dei bicchieri più <strong>versatili </strong>della tavola contemporanea. La sua forma essenziale lo rende adatto a tanti utilizzi diversi, dalla <strong>colazione </strong>al <strong>pranzo </strong>quotidiano, dall’<strong>aperitivo </strong>informale fino ai <strong>cocktail </strong>serviti in casa. È un bicchiere pratico, ma anche capace di diventare un <strong>dettaglio di stile </strong>quando viene scelto in <strong>versioni colorate, decorate o dal design ricercato</strong>.</p><p>Questa collezione è dedicata a una tipologia precisa: i bicchieri tumbler. Qui trovi modelli pensati per chi desidera <strong>unire comodità d’uso, estetica e personalità,</strong> senza rinunciare alla funzionalità nella vita di tutti i giorni.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_6yBPT7": {
-          "type": "button",
-          "settings": {
-            "button_label": "Scopri tutta la nostra collezione Bicchieri e Calici",
-            "button_link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "text_LBjDyp",
-        "button_6yBPT7"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/knindustrie-lime-lane-tumbler.webp",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "multicolumn_JNpC9x": {
       "type": "multicolumn",
       "blocks": {
@@ -292,6 +252,46 @@
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_jXdDJq": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_LBjDyp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Il <strong>tumbler </strong>è uno dei bicchieri più <strong>versatili </strong>della tavola contemporanea. La sua forma essenziale lo rende adatto a tanti utilizzi diversi, dalla <strong>colazione </strong>al <strong>pranzo </strong>quotidiano, dall’<strong>aperitivo </strong>informale fino ai <strong>cocktail </strong>serviti in casa. È un bicchiere pratico, ma anche capace di diventare un <strong>dettaglio di stile </strong>quando viene scelto in <strong>versioni colorate, decorate o dal design ricercato</strong>.</p><p>Questa collezione è dedicata a una tipologia precisa: i bicchieri tumbler. Qui trovi modelli pensati per chi desidera <strong>unire comodità d’uso, estetica e personalità,</strong> senza rinunciare alla funzionalità nella vita di tutti i giorni.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_6yBPT7": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scopri tutta la nostra collezione Bicchieri e Calici",
+            "button_link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "text_LBjDyp",
+        "button_6yBPT7"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/knindustrie-lime-lane-tumbler.webp",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -588,9 +588,9 @@
     "17841042979f23b035",
     "multicolumn_FnyeXB",
     "image_with_text_gYmdLm",
+    "image_banner_hf7WRX",
     "multicolumn_wDLcLp",
     "multicolumn_fteU4T",
-    "collapsible_content_dP6Ppz",
-    "image_banner_hf7WRX"
+    "collapsible_content_dP6Ppz"
   ]
 }
