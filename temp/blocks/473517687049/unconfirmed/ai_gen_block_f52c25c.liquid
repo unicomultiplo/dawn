@@ -1,6 +1,459 @@
+{% doc %}
+  @prompt
+    voglio icone di prodotti che ti indico cliccabil che rimandano a specifici prodotti
+{% enddoc %}
+{% assign ai_gen_id = block.id | replace: '_', '' | downcase %}
+
+{% style %}
+  .ai-product-icons-{{ ai_gen_id }} {
+    display: block;
+    width: {{ block.settings.desktop_width_percent }}%;
+    max-width: 100%;
+    padding: {{ block.settings.section_padding }}px 0;
+  }
+
+  .ai-product-icons-container-{{ ai_gen_id }} {
+    display: flex;
+    flex-wrap: wrap;
+    gap: {{ block.settings.icon_spacing }}px;
+    justify-content: {{ block.settings.alignment }};
+    align-items: center;
+  }
+
+  .ai-product-icon-item-{{ ai_gen_id }} {
+    position: relative;
+    flex-shrink: 0;
+  }
+
+  .ai-product-icon-link-{{ ai_gen_id }} {
+    display: block;
+    width: {{ block.settings.icon_size }}px;
+    height: {{ block.settings.icon_size }}px;
+    border-radius: {{ block.settings.icon_border_radius }}px;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, {{ block.settings.shadow_opacity }});
+    border: {{ block.settings.border_thickness }}px solid {{ block.settings.border_color }};
+  }
+
+  .ai-product-icon-link-{{ ai_gen_id }}:hover {
+    transform: scale({{ block.settings.hover_scale }});
+    box-shadow: 0 4px 12px rgba(0, 0, 0, {{ block.settings.hover_shadow_opacity }});
+  }
+
+  .ai-product-icon-image-{{ ai_gen_id }} {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .ai-product-icon-placeholder-{{ ai_gen_id }} {
+    width: 100%;
+    height: 100%;
+    background-color: #f4f4f4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .ai-product-icon-placeholder-{{ ai_gen_id }} svg {
+    width: 60%;
+    height: 60%;
+    opacity: 0.3;
+  }
+
+  .ai-product-icon-label-{{ ai_gen_id }} {
+    position: absolute;
+    bottom: -24px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: {{ block.settings.label_font_size }}px;
+    color: {{ block.settings.label_color }};
+    white-space: nowrap;
+    text-align: center;
+    pointer-events: none;
+  }
+
+  @media screen and (max-width: 749px) {
+    .ai-product-icons-{{ ai_gen_id }} {
+      width: 100%;
+    }
+
+    .ai-product-icon-link-{{ ai_gen_id }} {
+      width: {{ block.settings.icon_size | times: 0.8 }}px;
+      height: {{ block.settings.icon_size | times: 0.8 }}px;
+    }
+
+    .ai-product-icons-container-{{ ai_gen_id }} {
+      gap: {{ block.settings.icon_spacing | times: 0.7 }}px;
+    }
+  }
+{% endstyle %}
+
+<div class="ai-product-icons-{{ ai_gen_id }}" {{ block.shopify_attributes }}>
+  <div class="ai-product-icons-container-{{ ai_gen_id }}">
+    {% for i in (1..6) %}
+      {% liquid
+        assign product_key = 'product_' | append: i
+        assign image_key = 'product_' | append: i | append: '_image'
+        assign label_key = 'product_' | append: i | append: '_label'
+        assign show_label_key = 'show_label_' | append: i
+
+        assign product = block.settings[product_key]
+        assign custom_image = block.settings[image_key]
+        assign label = block.settings[label_key]
+        assign show_label = block.settings[show_label_key]
+      %}
+
+      {% if product != blank %}
+        <div class="ai-product-icon-item-{{ ai_gen_id }}">
+          <a
+            href="{{ product.url }}"
+            class="ai-product-icon-link-{{ ai_gen_id }}"
+            aria-label="Vai a {{ product.title }}"
+          >
+            {% if custom_image != blank %}
+              <img
+                src="{{ custom_image | image_url: width: 200 }}"
+                alt="{{ custom_image.alt | default: product.title | escape }}"
+                class="ai-product-icon-image-{{ ai_gen_id }}"
+                loading="lazy"
+                width="200"
+                height="200"
+              >
+            {% elsif product.featured_image %}
+              <img
+                src="{{ product.featured_image | image_url: width: 200 }}"
+                alt="{{ product.featured_image.alt | default: product.title | escape }}"
+                class="ai-product-icon-image-{{ ai_gen_id }}"
+                loading="lazy"
+                width="200"
+                height="200"
+              >
+            {% else %}
+              <div class="ai-product-icon-placeholder-{{ ai_gen_id }}">
+                {{ 'product-1' | placeholder_svg_tag }}
+              </div>
+            {% endif %}
+          </a>
+
+          {% if show_label and label != blank %}
+            <div class="ai-product-icon-label-{{ ai_gen_id }}">
+              {{ label }}
+            </div>
+          {% endif %}
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+
 {% schema %}
- {
-   "name": "AI_Block",
-   "tag": "shopify-ai-generated-block"
- }
+{
+  "name": "Icone prodotti cliccabili",
+  "tag": null,
+  "settings": [
+    {
+      "type": "header",
+      "content": "Layout"
+    },
+    {
+      "type": "range",
+      "id": "desktop_width_percent",
+      "label": "Larghezza desktop",
+      "min": 50,
+      "max": 100,
+      "step": 5,
+      "unit": "%",
+      "default": 100
+    },
+    {
+      "type": "select",
+      "id": "alignment",
+      "label": "Allineamento",
+      "options": [
+        {
+          "value": "flex-start",
+          "label": "Sinistra"
+        },
+        {
+          "value": "center",
+          "label": "Centro"
+        },
+        {
+          "value": "flex-end",
+          "label": "Destra"
+        }
+      ],
+      "default": "center"
+    },
+    {
+      "type": "range",
+      "id": "section_padding",
+      "label": "Padding sezione",
+      "min": 0,
+      "max": 100,
+      "step": 5,
+      "unit": "px",
+      "default": 20
+    },
+    {
+      "type": "range",
+      "id": "icon_spacing",
+      "label": "Spaziatura icone",
+      "min": 5,
+      "max": 50,
+      "step": 5,
+      "unit": "px",
+      "default": 20
+    },
+    {
+      "type": "header",
+      "content": "Stile icone"
+    },
+    {
+      "type": "range",
+      "id": "icon_size",
+      "label": "Dimensione icona",
+      "min": 40,
+      "max": 200,
+      "step": 10,
+      "unit": "px",
+      "default": 80
+    },
+    {
+      "type": "range",
+      "id": "icon_border_radius",
+      "label": "Raggio bordo",
+      "min": 0,
+      "max": 100,
+      "step": 5,
+      "unit": "px",
+      "default": 10
+    },
+    {
+      "type": "range",
+      "id": "border_thickness",
+      "label": "Spessore bordo",
+      "min": 0,
+      "max": 10,
+      "step": 1,
+      "unit": "px",
+      "default": 1
+    },
+    {
+      "type": "color",
+      "id": "border_color",
+      "label": "Colore bordo",
+      "default": "#e0e0e0"
+    },
+    {
+      "type": "range",
+      "id": "shadow_opacity",
+      "label": "Opacità ombra",
+      "min": 0,
+      "max": 1,
+      "step": 0.1,
+      "default": 0.1
+    },
+    {
+      "type": "header",
+      "content": "Effetto hover"
+    },
+    {
+      "type": "range",
+      "id": "hover_scale",
+      "label": "Scala hover",
+      "min": 1,
+      "max": 1.5,
+      "step": 0.1,
+      "default": 1.1
+    },
+    {
+      "type": "range",
+      "id": "hover_shadow_opacity",
+      "label": "Opacità ombra hover",
+      "min": 0,
+      "max": 1,
+      "step": 0.1,
+      "default": 0.2
+    },
+    {
+      "type": "header",
+      "content": "Etichette"
+    },
+    {
+      "type": "range",
+      "id": "label_font_size",
+      "label": "Dimensione font etichetta",
+      "min": 10,
+      "max": 20,
+      "step": 1,
+      "unit": "px",
+      "default": 12
+    },
+    {
+      "type": "color",
+      "id": "label_color",
+      "label": "Colore etichetta",
+      "default": "#121212"
+    },
+    {
+      "type": "header",
+      "content": "Prodotto 1"
+    },
+    {
+      "type": "product",
+      "id": "product_1",
+      "label": "Prodotto"
+    },
+    {
+      "type": "image_picker",
+      "id": "product_1_image",
+      "label": "Immagine personalizzata"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_label_1",
+      "label": "Mostra etichetta",
+      "default": false
+    },
+    {
+      "type": "text",
+      "id": "product_1_label",
+      "label": "Etichetta"
+    },
+    {
+      "type": "header",
+      "content": "Prodotto 2"
+    },
+    {
+      "type": "product",
+      "id": "product_2",
+      "label": "Prodotto"
+    },
+    {
+      "type": "image_picker",
+      "id": "product_2_image",
+      "label": "Immagine personalizzata"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_label_2",
+      "label": "Mostra etichetta",
+      "default": false
+    },
+    {
+      "type": "text",
+      "id": "product_2_label",
+      "label": "Etichetta"
+    },
+    {
+      "type": "header",
+      "content": "Prodotto 3"
+    },
+    {
+      "type": "product",
+      "id": "product_3",
+      "label": "Prodotto"
+    },
+    {
+      "type": "image_picker",
+      "id": "product_3_image",
+      "label": "Immagine personalizzata"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_label_3",
+      "label": "Mostra etichetta",
+      "default": false
+    },
+    {
+      "type": "text",
+      "id": "product_3_label",
+      "label": "Etichetta"
+    },
+    {
+      "type": "header",
+      "content": "Prodotto 4"
+    },
+    {
+      "type": "product",
+      "id": "product_4",
+      "label": "Prodotto"
+    },
+    {
+      "type": "image_picker",
+      "id": "product_4_image",
+      "label": "Immagine personalizzata"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_label_4",
+      "label": "Mostra etichetta",
+      "default": false
+    },
+    {
+      "type": "text",
+      "id": "product_4_label",
+      "label": "Etichetta"
+    },
+    {
+      "type": "header",
+      "content": "Prodotto 5"
+    },
+    {
+      "type": "product",
+      "id": "product_5",
+      "label": "Prodotto"
+    },
+    {
+      "type": "image_picker",
+      "id": "product_5_image",
+      "label": "Immagine personalizzata"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_label_5",
+      "label": "Mostra etichetta",
+      "default": false
+    },
+    {
+      "type": "text",
+      "id": "product_5_label",
+      "label": "Etichetta"
+    },
+    {
+      "type": "header",
+      "content": "Prodotto 6"
+    },
+    {
+      "type": "product",
+      "id": "product_6",
+      "label": "Prodotto"
+    },
+    {
+      "type": "image_picker",
+      "id": "product_6_image",
+      "label": "Immagine personalizzata"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_label_6",
+      "label": "Mostra etichetta",
+      "default": false
+    },
+    {
+      "type": "text",
+      "id": "product_6_label",
+      "label": "Etichetta"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Icone prodotti cliccabili"
+    }
+  ]
+}
 {% endschema %}
