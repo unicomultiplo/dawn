@@ -527,16 +527,6 @@
             "page": "",
             "liquid_content": ""
           }
-        },
-        "collapsible_row_YaBFkx": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Qual è la differenza tra tumbler bassi e alti?",
-            "icon": "check_mark",
-            "row_content": "<p>I <strong>tumbler bassi</strong> sono bicchieri compatti, stabili e versatili, ideali per <strong>acqua, drink corti, cocktail serviti con ghiaccio e momenti informali.</strong> Hanno una presenza discreta ma elegante sulla tavola e sono perfetti quando si cerca un bicchiere pratico, solido e facile da usare.</p><p>I <strong>tumbler alti</strong>, invece, hanno una forma più slanciata e capiente. Sono indicati per <strong>long drink, bibite, cocktail freschi, succhi, tè freddi e bevande servite con ghiaccio. </strong>A tavola aggiungono verticalità e leggerezza, risultando particolarmente <strong>adatti ad aperitivi, brunch </strong>e mise en place contemporanee.</p><p><strong>La scelta dipende dall’uso:</strong> il tumbler basso è più raccolto e deciso, mentre il tumbler alto è più fresco, dinamico e scenografico.</p>",
-            "page": "",
-            "liquid_content": ""
-          }
         }
       },
       "block_order": [
@@ -545,8 +535,7 @@
         "collapsible_row_3zyPPt",
         "collapsible_row_qRcJNt",
         "collapsible_row_4FRJ9a",
-        "collapsible_row_CHhrTh",
-        "collapsible_row_YaBFkx"
+        "collapsible_row_CHhrTh"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
