@@ -147,7 +147,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/bitossi-home-torchon-posate.png",
+        "image": "shopify://shop_images/knindustrie-kn-mood-posate.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -203,7 +203,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Un servizio completo di <strong>posate </strong>permette di apparecchiare con ordine e continuità, coordinando forchette, coltelli, cucchiai e cucchiaini. Le posate singole o speciali, invece, sono utili per completare un servizio già esistente, sostituire pezzi mancanti o aggiungere dettagli particolari. <br/><br/>Per una mise en place armoniosa, abbina le posate a <strong>piatti da tavola</strong>, <strong>bicchieri e calici</strong>, <strong>caraffe e brocche</strong>, tovagliette e accessori decorativi. La combinazione di materiali, colori e finiture aiuta a costruire una tavola coerente, accogliente e adatta sia alla quotidianità sia agli ospiti. </p>",
+            "text": "<p><strong>Un servizio completo di posate </strong>permette di <strong>apparecchiare con ordine </strong>e continuità, coordinando forchette, coltelli, cucchiai e cucchiaini. Le posate singole o speciali, invece, sono utili per completare un servizio già esistente, sostituire pezzi mancanti o aggiungere dettagli particolari. <br/><br/>Per una mise en place armoniosa, <strong>abbina le posate a piatti da tavola</strong>, <strong>bicchieri e calici</strong>, <strong>caraffe e brocche</strong>, tovagliette e accessori decorativi. La combinazione di materiali, colori e finiture aiuta a costruire una tavola coerente, accogliente e <strong>adatta sia alla quotidianità sia agli ospiti. </strong></p>",
             "link_label": "",
             "link": ""
           }
@@ -246,7 +246,7 @@
         "column_4eEi6Q": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Parisienne-senza-tempo-bitossi-home.webp",
+            "image": "shopify://shop_images/knindustrie-gres-bicolor-mood-piatti.webp",
             "title": "",
             "text": "<p><strong>Piatti da Tavola</strong></p>",
             "link_label": "",
@@ -266,7 +266,7 @@
         "column_mjiBaV": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/brandani-diamante-set-6-bicchieri-acqua-2.jpg",
+            "image": "shopify://shop_images/knindustrie-bicchiere-sparky-lara-caffi-20.webp",
             "title": "",
             "text": "<p><strong>Bicchieri e Calici</strong></p>",
             "link_label": "",
@@ -283,20 +283,10 @@
             "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
           }
         },
-        "column_yxYYXF": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/ChiaraPerano-conamore-d1.webp",
-            "title": "",
-            "text": "<p><strong>Tazze, Tazzine e Mug</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-tazze-tazzine-mug"
-          }
-        },
         "column_AwYUHa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/MariaNielsen-vertical-hover_1.webp",
+            "image": "shopify://shop_images/Bitossi_Home_Smerlo_Se-_4-tovagliette-bordo-smerlato_1.jpg",
             "title": "",
             "text": "<p><strong>Sottopiatti e Tovagliette</strong></p>",
             "link_label": "",
@@ -309,7 +299,6 @@
         "column_Pf3nRn",
         "column_mjiBaV",
         "column_apfD9k",
-        "column_yxYYXF",
         "column_AwYUHa"
       ],
       "custom_css": [
@@ -320,7 +309,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
@@ -380,6 +369,50 @@
         "padding_bottom": 28
       }
     },
+    "multicolumn_wDLcLp": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_r6hUa6": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Le <strong>posate </strong>sono anche una <strong>scelta regalo utile e duratura</strong>: perfette per una nuova casa, una lista nozze, un anniversario o per chi ama cucinare e ricevere. Un set ben scelto <strong>accompagna nel tempo </strong>i momenti di convivialità e aggiunge alla tavola un dettaglio <strong>pratico, elegante e sempre funzionale. </strong></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_CGCdFb": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_r6hUa6",
+        "column_CGCdFb"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<strong>Posate eleganti per idee regalo e occasioni speciali </strong>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
     "17841042979f23b035": {
       "type": "_blocks",
       "blocks": {
@@ -431,50 +464,6 @@
         "ai_gen_block_f52c25c_hmFDMX"
       ],
       "settings": {}
-    },
-    "multicolumn_wDLcLp": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_r6hUa6": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Per creare una <strong>tavola armoniosa</strong>, i <strong>tumbler </strong>possono essere abbinati a piatti, posate, caraffe, brocche, tovagliette, sottobicchieri e accessori per l’aperitivo. Le versioni <strong>trasparenti </strong>valorizzano mise en place <strong>eleganti </strong>e luminose, mentre i tumbler <strong>colorati </strong>possono diventare il dettaglio protagonista di una tavola più <strong>creativa</strong>.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_CGCdFb": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_r6hUa6",
-        "column_CGCdFb"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "<strong>Come abbinare i tumbler alla mise en place</strong>",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 28,
-        "padding_bottom": 0
-      }
     },
     "collapsible_content_dP6Ppz": {
       "type": "collapsible-content",
@@ -636,8 +625,8 @@
     "multicolumn_FnyeXB",
     "multicolumn_fteU4T",
     "image_with_text_gYmdLm",
-    "17841042979f23b035",
     "multicolumn_wDLcLp",
+    "17841042979f23b035",
     "collapsible_content_dP6Ppz",
     "image_banner_hf7WRX"
   ]
