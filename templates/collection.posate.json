@@ -365,8 +365,8 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/posate-bitossi-home.jpg",
-        "height": "small",
+        "image": "shopify://shop_images/Le-posate-per-ogni-pietanza.png",
+        "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
@@ -388,8 +388,8 @@
           "settings": {
             "desktop_width_percent": 100,
             "alignment": "center",
-            "section_padding": 25,
-            "icon_spacing": 45,
+            "section_padding": 30,
+            "icon_spacing": 20,
             "icon_size": 200,
             "icon_border_radius": 0,
             "border_thickness": 1,
@@ -397,7 +397,7 @@
             "shadow_opacity": 0.1,
             "hover_scale": 1,
             "hover_shadow_opacity": 0.2,
-            "label_font_size": 12,
+            "label_font_size": 14,
             "label_color": "#121212",
             "product_1": "oh-yeah-spoon-i-love-you-cucchiaino-caffe",
             "product_1_image": "shopify://shop_images/oh-yeah-spoon-i-love-you-cucchiaio-2.webp",
@@ -420,9 +420,9 @@
             "show_label_5": true,
             "product_5_label": "Bitossi Home - Vintage",
             "product_6": "4295-knindustrie-zest-posate-set-4-pezzi-black",
-            "product_6_image": "shopify://shop_images/bitossi-home-calici-umbler-set-6-calici-forme-assortiteambrarosa.jpg",
+            "product_6_image": "shopify://shop_images/Zest_ice_black-knindustrie.webp",
             "show_label_6": true,
-            "product_6_label": "Bitossi - Diseguale"
+            "product_6_label": "KnIndustrie - Zest Black"
           },
           "blocks": {}
         }
@@ -612,7 +612,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/knindustrie-Alzata_in_vetro_trasparente_mood-vetro-borosilicato.webp",
+        "image": "shopify://shop_images/kn_table_setting-apparecchiare-perstupire_1.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "bottom-right",
