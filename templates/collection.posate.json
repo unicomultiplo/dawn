@@ -493,7 +493,7 @@
           "settings": {
             "heading": "Come scegliere un servizio di posate elegante?",
             "icon": "check_mark",
-            "row_content": "<p>Per scegliere un servizio di posate è importante valutar<strong>e materiali, finiture, ergonomia</strong> e facilità di abbinamento con piatti, bicchieri e accessori già presenti sulla tavola.</p>",
+            "row_content": "<p>Per scegliere un servizio di posate è importante valutar<strong>e materiali, finiture, ergonomia</strong> e facilità di abbinamento con piatti, bicchieri e accessori già presenti sulla tavola.</p><p>Le finiture <strong>acciaio </strong>e argento sono <strong>versatili </strong>e adatte a molti stili. Le posate <strong>dorate o nere</strong> creano una tavola più scenografica e <strong>contemporanea</strong>. Le finiture <strong>satinate</strong>, colorate o decorate aggiungono personalità e sono ideali per mise en place più<strong> ricercate.</strong></p>",
             "page": "",
             "liquid_content": ""
           }
@@ -523,7 +523,7 @@
           "settings": {
             "heading": "Le posate da tavola sono adatte come idea regalo?",
             "icon": "check_mark",
-            "row_content": "<p><strong>Sì, un set di posate è un regalo utile, elegante e durevole</strong>, adatto a nuove case, matrimoni, anniversari e occasioni speciali.</p>",
+            "row_content": "<p><strong>Sì, un set di posate è un regalo utile, elegante e durevole</strong>, adatto a nuove case, matrimoni, anniversari e occasioni speciali. Posate di design, cucchiaini decorativi o accessori da servizio sono invece perfetti per un regalo più originale e personale.</p>",
             "page": "",
             "liquid_content": ""
           }
