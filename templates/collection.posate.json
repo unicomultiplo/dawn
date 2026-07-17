@@ -20,15 +20,52 @@
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
       }
     },
-    "custom_liquid_LepCX8": {
-      "type": "custom-liquid",
-      "custom_css": [],
-      "name": "t:sections.custom-liquid.presets.name",
+    "collection_list_iHmWdB": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_8bdw7a": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "knindustrie-catalogo-prodotti-posate"
+          }
+        },
+        "featured_collection_CMFQw9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "posate-bitossi-home"
+          }
+        },
+        "featured_collection_FUUjrU": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "posate-seletti"
+          }
+        },
+        "featured_collection_FYWByz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani-posate"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_8bdw7a",
+        "featured_collection_CMFQw9",
+        "featured_collection_FUUjrU",
+        "featured_collection_FYWByz"
+      ],
+      "name": "t:sections.collection-list.presets.name",
       "settings": {
-        "custom_liquid": "",
-        "color_scheme": "scheme-1",
+        "title": "<strong>Scegli per Brand</strong>",
+        "heading_size": "h2",
+        "image_ratio": "portrait",
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 36
       }
     },
     "product-grid": {
@@ -591,7 +628,7 @@
   },
   "order": [
     "banner",
-    "custom_liquid_LepCX8",
+    "collection_list_iHmWdB",
     "product-grid",
     "multicolumn_KWHCjy",
     "image_with_text_jXdDJq",
