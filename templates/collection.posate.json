@@ -246,7 +246,7 @@
         "column_4eEi6Q": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-kn_food_mood-shabby-chic.webp",
+            "image": "shopify://shop_images/Parisienne-senza-tempo-bitossi-home.webp",
             "title": "",
             "text": "<p><strong>Piatti da Tavola</strong></p>",
             "link_label": "",
@@ -256,61 +256,61 @@
         "column_Pf3nRn": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/1648-bitossi-home-classic-servizio-posate-acciaio-inox.webp",
+            "image": "shopify://shop_images/KnIndustrie-Lime-Line-Moscow-Mule.jpg",
             "title": "",
             "text": "<p><strong>Tumbler</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-posate"
+            "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici-tumbler"
           }
         },
-        "column_AwYUHa": {
+        "column_mjiBaV": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/bitossi-home-pizzo-tovaglietta-rettangolare-bordo-pizzo-1.jpg",
+            "image": "shopify://shop_images/brandani-diamante-set-6-bicchieri-acqua-2.jpg",
             "title": "",
-            "text": "<p><strong>Sottopiatti e Tovagliette</strong></p>",
+            "text": "<p><strong>Bicchieri e Calici</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-tovaglie-e-tovagliette"
+            "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
+          }
+        },
+        "column_apfD9k": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-Alzata_in_vetro_arancio_mood.webp",
+            "title": "",
+            "text": "<p><strong>Alzate e Centrotavola</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
           }
         },
         "column_yxYYXF": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/set-regalo-moka-lady-anne-brandani-queen.webp",
+            "image": "shopify://shop_images/ChiaraPerano-conamore-d1.webp",
             "title": "",
             "text": "<p><strong>Tazze, Tazzine e Mug</strong></p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-tazze-tazzine-mug"
           }
         },
-        "column_apfD9k": {
+        "column_AwYUHa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-storm-vassoio-stone-washed-10.jpg",
+            "image": "shopify://shop_images/MariaNielsen-vertical-hover_1.webp",
             "title": "",
-            "text": "<p><strong>Vassoi</strong></p>",
+            "text": "<p><strong>Sottopiatti e Tovagliette</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata"
-          }
-        },
-        "column_mjiBaV": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/img-categoria-bicchieri_360x_97d2ff08-3d34-467d-b663-d7106089ebe8.webp",
-            "title": "",
-            "text": "<p><strong>Bicchieri e Calici</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
+            "link": "shopify://collections/cucina-e-tavola-tovaglie-e-tovagliette"
           }
         }
       },
       "block_order": [
         "column_4eEi6Q",
         "column_Pf3nRn",
-        "column_AwYUHa",
-        "column_yxYYXF",
+        "column_mjiBaV",
         "column_apfD9k",
-        "column_mjiBaV"
+        "column_yxYYXF",
+        "column_AwYUHa"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
