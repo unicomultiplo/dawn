@@ -106,7 +106,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Tumbler: il bicchiere che unisce praticità, stile e convivialità",
+        "title": "Come scegliere le posate da tavola per una mise en place curata",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -128,15 +128,15 @@
         "text_LBjDyp": {
           "type": "text",
           "settings": {
-            "text": "<p>Il <strong>tumbler </strong>è uno dei bicchieri più <strong>versatili </strong>della tavola contemporanea. La sua forma essenziale lo rende adatto a tanti utilizzi diversi, dalla <strong>colazione </strong>al <strong>pranzo </strong>quotidiano, dall’<strong>aperitivo </strong>informale fino ai <strong>cocktail </strong>serviti in casa. È un bicchiere pratico, ma anche capace di diventare un <strong>dettaglio di stile </strong>quando viene scelto in <strong>versioni colorate, decorate o dal design ricercato</strong>.</p><p>Questa collezione è dedicata a una tipologia precisa: i bicchieri tumbler. Qui trovi modelli pensati per chi desidera <strong>unire comodità d’uso, estetica e personalità,</strong> senza rinunciare alla funzionalità nella vita di tutti i giorni.</p>",
+            "text": "<p>Scegliere le <strong>posate da tavola </strong>significa trovare il giusto<strong> incontro tra estetica, praticità</strong> e abitudini quotidiane.</p><p>Un <strong>set essenziale </strong>e coordinato è ideale per l'uso di <strong>tutti i giorni,</strong> mentre<strong> finiture particolari, </strong>dettagli colorati o forme più decorative possono valorizzare una<strong> tavola contemporanea,</strong> una cena speciale o un'occasione da ricordare.<br/><br/></p>",
             "text_style": "body"
           }
         },
         "button_6yBPT7": {
           "type": "button",
           "settings": {
-            "button_label": "Scopri tutta la nostra collezione Bicchieri e Calici",
-            "button_link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici",
+            "button_label": "Scopri tutti i nostri consigli per una tavola elegante",
+            "button_link": "shopify://blogs/apparecchiare-con-stile/come-apparecchiare-una-tavola-elegante-guida-completa",
             "button_style_secondary": true
           }
         }
@@ -147,10 +147,10 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/knindustrie-lime-lane-tumbler.webp",
-        "height": "small",
+        "image": "shopify://shop_images/bitossi-home-torchon-posate.png",
+        "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -196,58 +196,6 @@
         "padding_bottom": 0
       }
     },
-    "17841042979f23b035": {
-      "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_f52c25c_hmFDMX": {
-          "type": "ai_gen_block_f52c25c",
-          "settings": {
-            "desktop_width_percent": 100,
-            "alignment": "center",
-            "section_padding": 25,
-            "icon_spacing": 45,
-            "icon_size": 200,
-            "icon_border_radius": 0,
-            "border_thickness": 1,
-            "border_color": "#e0e0e0",
-            "shadow_opacity": 0.1,
-            "hover_scale": 1,
-            "hover_shadow_opacity": 0.2,
-            "label_font_size": 12,
-            "label_color": "#121212",
-            "product_1": "knindustrie-collezione-lime-line-ambra-set-6-pz",
-            "product_1_image": "shopify://shop_images/knindustrie-collezione-lime-line-ambra-set-6-pz-3_29db1a8c-dde6-4198-960d-983621d86d6d.webp",
-            "show_label_1": true,
-            "product_1_label": "KnIndustrie - Lime Line",
-            "product_2": "knindustrie-groove-set-6-tumbler-quadrati",
-            "product_2_image": "shopify://shop_images/Knindistrie-Groove-set-6-tumbler-quadrato.webp",
-            "show_label_2": true,
-            "product_2_label": "KnIndustrie - Groove",
-            "product_3": "3196-seletti-kintsugi-tumbler-bicchiere-basso",
-            "product_3_image": "shopify://shop_images/seletti-kintsugi-tumbler-bicchiere-basso.webp",
-            "show_label_3": true,
-            "product_3_label": "Seletti - Kintsugi",
-            "product_4": "514-seletti-hybrid-aglaura-set-3-bicchieri",
-            "product_4_image": "shopify://shop_images/Seletti-bicchieri-hybrid.webp",
-            "show_label_4": true,
-            "product_4_label": "Seletti - Hybrid",
-            "product_5": "seletti-wears-toiletpaper-home-glasses-bicchieri",
-            "product_5_image": "shopify://shop_images/toiletpaper-seletti-glasses-bicchieri-borosilicato.webp",
-            "show_label_5": true,
-            "product_5_label": "Seletti - Toiletpaper",
-            "product_6": "bitossi-home-calici-tumbler-set-6-calici-forme-assortite-ambra-rosa",
-            "product_6_image": "shopify://shop_images/bitossi-home-calici-umbler-set-6-calici-forme-assortiteambrarosa.jpg",
-            "show_label_6": true,
-            "product_6_label": "Bitossi - Diseguale"
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_f52c25c_hmFDMX"
-      ],
-      "settings": {}
-    },
     "multicolumn_FnyeXB": {
       "type": "multicolumn",
       "blocks": {
@@ -255,7 +203,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>I <strong>tumbler </strong>in vetro sono <strong>perfetti </strong>per chi ama una<strong> tavola luminosa</strong>, pulita e facile da abbinare. Le versioni trasparenti si inseriscono con naturalezza in mise en place <strong>essenziali</strong>, mentre i <strong>tumbler </strong>colorati aggiungono carattere e rendono la tavola più vivace e contemporanea.</p><p>Le superfici lavorate, le<strong> forme particolari </strong>e i dettagli decorativi permettono di scegliere bicchieri tumbler <strong>adatti a stili diversi: minimal, creativo, elegante o più giocoso.</strong> È proprio questa flessibilità a rendere il tumbler un elemento utile sia per la tavola quotidiana sia per occasioni più curate.</p>",
+            "text": "<p>Un servizio completo di <strong>posate </strong>permette di apparecchiare con ordine e continuità, coordinando forchette, coltelli, cucchiai e cucchiaini. Le posate singole o speciali, invece, sono utili per completare un servizio già esistente, sostituire pezzi mancanti o aggiungere dettagli particolari. <br/><br/>Per una mise en place armoniosa, abbina le posate a <strong>piatti da tavola</strong>, <strong>bicchieri e calici</strong>, <strong>caraffe e brocche</strong>, tovagliette e accessori decorativi. La combinazione di materiali, colori e finiture aiuta a costruire una tavola coerente, accogliente e adatta sia alla quotidianità sia agli ospiti. </p>",
             "link_label": "",
             "link": ""
           }
@@ -276,7 +224,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Tumbler in vetro, colorati o decorativi",
+        "title": "<strong>Set di posate, posate singole e dettagli per la tua mise en place </strong>",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -288,148 +236,7 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "image_with_text_gYmdLm": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_tAz8Dq": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Tumbler: idea regalo per la casa</strong>",
-            "heading_size": "h2"
-          }
-        },
-        "text_LddPew": {
-          "type": "text",
-          "settings": {
-            "text": "<p>I bicchieri <strong>tumbler </strong>sono anche <strong>un’ottima idea regalo</strong> per chi ama la tavola, il design e gli oggetti utili ma non banali. Un set di tumbler può essere scelto per una nuova <strong>casa</strong>, un <strong>matrimonio</strong>, un <strong>anniversario </strong>o una cena speciale, perché unisce funzionalità quotidiana e valore estetico.</p><p>Sono <strong>regali concreti</strong>, facili da usare e capaci di accompagnare chi li riceve in tanti momenti diversi: dalla colazione agli aperitivi con gli amici.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_Med33E": {
-          "type": "button",
-          "settings": {
-            "button_label": "Idee Regalo Casa & Cucina",
-            "button_link": "shopify://collections/idee-regalo-per-casa-e-cucina",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_tAz8Dq",
-        "text_LddPew",
-        "button_Med33E"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/knindustrie-kn_gifts-natale.webp",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
         "padding_top": 0,
-        "padding_bottom": 28
-      }
-    },
-    "image_banner_hf7WRX": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_7nALCz": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Vetro borosilicato</strong>: leggerezza, resistenza ed eleganza essenziale",
-            "heading_size": "h2"
-          }
-        },
-        "text_8xqydc": {
-          "type": "text",
-          "settings": {
-            "text": "Cos'è, Vantaggi e Differenze dal Vetro Tradizionale",
-            "text_style": "caption-with-letter-spacing"
-          }
-        },
-        "buttons_ALFMPq": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Scopri tutto sul Vetro Borosilicato",
-            "button_link_1": "https://www.unicoemultiplo.com/pages/vetro-borosilicato",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_7nALCz",
-        "text_8xqydc",
-        "buttons_ALFMPq"
-      ],
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/knindustrie-Alzata_in_vetro_trasparente_mood-vetro-borosilicato.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "bottom-right",
-        "show_text_box": false,
-        "desktop_content_alignment": "right",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "right",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
-      }
-    },
-    "multicolumn_wDLcLp": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_r6hUa6": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Per creare una <strong>tavola armoniosa</strong>, i <strong>tumbler </strong>possono essere abbinati a piatti, posate, caraffe, brocche, tovagliette, sottobicchieri e accessori per l’aperitivo. Le versioni <strong>trasparenti </strong>valorizzano mise en place <strong>eleganti </strong>e luminose, mentre i tumbler <strong>colorati </strong>possono diventare il dettaglio protagonista di una tavola più <strong>creativa</strong>.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_CGCdFb": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_r6hUa6",
-        "column_CGCdFb"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "<strong>Come abbinare i tumbler alla mise en place</strong>",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 28,
         "padding_bottom": 0
       }
     },
@@ -451,7 +258,7 @@
           "settings": {
             "image": "shopify://shop_images/1648-bitossi-home-classic-servizio-posate-acciaio-inox.webp",
             "title": "",
-            "text": "<p><strong>Posate</strong></p>",
+            "text": "<p><strong>Tumbler</strong></p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-posate"
           }
@@ -523,6 +330,150 @@
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 32
+      }
+    },
+    "image_with_text_gYmdLm": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_tAz8Dq": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Posate eleganti per idee regalo e occasioni speciali </strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_LddPew": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Le posate sono anche una scelta regalo utile e duratura: perfette per una nuova casa, una lista nozze, un anniversario o per chi ama cucinare e ricevere. Un set ben scelto accompagna nel tempo i momenti di convivialità e aggiunge alla tavola un dettaglio pratico, elegante e sempre funzionale. </p>",
+            "text_style": "body"
+          }
+        },
+        "button_Med33E": {
+          "type": "button",
+          "settings": {
+            "button_label": "Idee Regalo Casa & Cucina",
+            "button_link": "shopify://collections/idee-regalo-per-casa-e-cucina",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_tAz8Dq",
+        "text_LddPew",
+        "button_Med33E"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/knindustrie-kn_gifts-natale.webp",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 28
+      }
+    },
+    "17841042979f23b035": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_f52c25c_hmFDMX": {
+          "type": "ai_gen_block_f52c25c",
+          "settings": {
+            "desktop_width_percent": 100,
+            "alignment": "center",
+            "section_padding": 25,
+            "icon_spacing": 45,
+            "icon_size": 200,
+            "icon_border_radius": 0,
+            "border_thickness": 1,
+            "border_color": "#e0e0e0",
+            "shadow_opacity": 0.1,
+            "hover_scale": 1,
+            "hover_shadow_opacity": 0.2,
+            "label_font_size": 12,
+            "label_color": "#121212",
+            "product_1": "knindustrie-collezione-lime-line-ambra-set-6-pz",
+            "product_1_image": "shopify://shop_images/knindustrie-collezione-lime-line-ambra-set-6-pz-3_29db1a8c-dde6-4198-960d-983621d86d6d.webp",
+            "show_label_1": true,
+            "product_1_label": "KnIndustrie - Lime Line",
+            "product_2": "knindustrie-groove-set-6-tumbler-quadrati",
+            "product_2_image": "shopify://shop_images/Knindistrie-Groove-set-6-tumbler-quadrato.webp",
+            "show_label_2": true,
+            "product_2_label": "KnIndustrie - Groove",
+            "product_3": "3196-seletti-kintsugi-tumbler-bicchiere-basso",
+            "product_3_image": "shopify://shop_images/seletti-kintsugi-tumbler-bicchiere-basso.webp",
+            "show_label_3": true,
+            "product_3_label": "Seletti - Kintsugi",
+            "product_4": "514-seletti-hybrid-aglaura-set-3-bicchieri",
+            "product_4_image": "shopify://shop_images/Seletti-bicchieri-hybrid.webp",
+            "show_label_4": true,
+            "product_4_label": "Seletti - Hybrid",
+            "product_5": "seletti-wears-toiletpaper-home-glasses-bicchieri",
+            "product_5_image": "shopify://shop_images/toiletpaper-seletti-glasses-bicchieri-borosilicato.webp",
+            "show_label_5": true,
+            "product_5_label": "Seletti - Toiletpaper",
+            "product_6": "bitossi-home-calici-tumbler-set-6-calici-forme-assortite-ambra-rosa",
+            "product_6_image": "shopify://shop_images/bitossi-home-calici-umbler-set-6-calici-forme-assortiteambrarosa.jpg",
+            "show_label_6": true,
+            "product_6_label": "Bitossi - Diseguale"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_f52c25c_hmFDMX"
+      ],
+      "settings": {}
+    },
+    "multicolumn_wDLcLp": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_r6hUa6": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Per creare una <strong>tavola armoniosa</strong>, i <strong>tumbler </strong>possono essere abbinati a piatti, posate, caraffe, brocche, tovagliette, sottobicchieri e accessori per l’aperitivo. Le versioni <strong>trasparenti </strong>valorizzano mise en place <strong>eleganti </strong>e luminose, mentre i tumbler <strong>colorati </strong>possono diventare il dettaglio protagonista di una tavola più <strong>creativa</strong>.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_CGCdFb": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_r6hUa6",
+        "column_CGCdFb"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<strong>Come abbinare i tumbler alla mise en place</strong>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 0
       }
     },
     "collapsible_content_dP6Ppz": {
@@ -610,19 +561,68 @@
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
-        "caption": "Domande rapide su come scegliere i tumbler",
-        "heading": "Domande frequenti sui bicchieri tumbler",
+        "caption": "Domande rapide su come scegliere le posate",
+        "heading": "Domande frequenti sulle posate da tavola",
         "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "row",
         "color_scheme": "",
         "container_color_scheme": "scheme-2",
         "open_first_collapsible_row": true,
-        "image": "shopify://shop_images/knindustrie-k4_Sissi_Valassina-vetro.webp",
-        "image_ratio": "large",
+        "image": "shopify://shop_images/knindustrie-afternoon-recharge.webp",
+        "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "padding_top": 28,
         "padding_bottom": 36
+      }
+    },
+    "image_banner_hf7WRX": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_7nALCz": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Vetro borosilicato</strong>: leggerezza, resistenza ed eleganza essenziale",
+            "heading_size": "h2"
+          }
+        },
+        "text_8xqydc": {
+          "type": "text",
+          "settings": {
+            "text": "Cos'è, Vantaggi e Differenze dal Vetro Tradizionale",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "buttons_ALFMPq": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Scopri tutto sul Vetro Borosilicato",
+            "button_link_1": "https://www.unicoemultiplo.com/pages/vetro-borosilicato",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_7nALCz",
+        "text_8xqydc",
+        "buttons_ALFMPq"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/knindustrie-Alzata_in_vetro_trasparente_mood-vetro-borosilicato.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "bottom-right",
+        "show_text_box": false,
+        "desktop_content_alignment": "right",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "right",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
       }
     }
   },
@@ -633,12 +633,12 @@
     "multicolumn_KWHCjy",
     "image_with_text_jXdDJq",
     "multicolumn_JNpC9x",
-    "17841042979f23b035",
     "multicolumn_FnyeXB",
-    "image_with_text_gYmdLm",
-    "image_banner_hf7WRX",
-    "multicolumn_wDLcLp",
     "multicolumn_fteU4T",
-    "collapsible_content_dP6Ppz"
+    "image_with_text_gYmdLm",
+    "17841042979f23b035",
+    "multicolumn_wDLcLp",
+    "collapsible_content_dP6Ppz",
+    "image_banner_hf7WRX"
   ]
 }
