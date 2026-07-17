@@ -58,8 +58,8 @@
       "settings": {
         "title": "<strong>Scegli per Brand</strong>",
         "heading_size": "h2",
-        "image_ratio": "portrait",
-        "columns_desktop": 5,
+        "image_ratio": "square",
+        "columns_desktop": 4,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "1",
