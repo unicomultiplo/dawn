@@ -471,9 +471,9 @@
         "collapsible_row_Anfzgh": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Quali sono le migliori posate da tavola?",
+            "heading": "Quali posate scegliere per la tavola?",
             "icon": "check_mark",
-            "row_content": "<p>Le migliori posate da tavola sono quelle che <strong>combinano qualità dei materiali, comfort nell'utilizzo e design coerente </strong>con lo stile della propria casa e della propria mise en place.</p>",
+            "row_content": "<p>Per scegliere le <strong>posate </strong>da tavola <strong>valuta l’uso, il materiale, la finitura e lo stile </strong>della mise en place. Per tutti i giorni sono ideali posate resistenti e versatili; per occasioni speciali puoi scegliere set eleganti, finiture dorate, nere, satinate o collezioni di design.<br/></p>",
             "page": "",
             "liquid_content": ""
           }
@@ -491,7 +491,7 @@
         "collapsible_row_3zyPPt": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Come scegliere un servizio di posate elegante?",
+            "heading": "Quali finiture scegliere per una tavola elegante?",
             "icon": "check_mark",
             "row_content": "<p>Per scegliere un servizio di posate è importante valutar<strong>e materiali, finiture, ergonomia</strong> e facilità di abbinamento con piatti, bicchieri e accessori già presenti sulla tavola.</p><p>Le finiture <strong>acciaio </strong>e argento sono <strong>versatili </strong>e adatte a molti stili. Le posate <strong>dorate o nere</strong> creano una tavola più scenografica e <strong>contemporanea</strong>. Le finiture <strong>satinate</strong>, colorate o decorate aggiungono personalità e sono ideali per mise en place più<strong> ricercate.</strong></p>",
             "page": "",
@@ -518,6 +518,16 @@
             "liquid_content": ""
           }
         },
+        "collapsible_row_AwpiL3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quante posate servono per un servizio completo?",
+            "icon": "check_mark",
+            "row_content": "<p>Dipende dal numero di coperti e dal tipo di set. Un servizio base include <strong>solitamente 6 posti tavola:</strong> forchette, coltelli, cucchiai e cucchiaini. Per una <strong>tavola più completa </strong>si possono aggiungere<strong> posate da dessert</strong>, coltelli specifici, cucchiaini da caffè e <strong>posate da servizio.</strong></p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
         "collapsible_row_CHhrTh": {
           "type": "collapsible_row",
           "settings": {
@@ -535,6 +545,7 @@
         "collapsible_row_3zyPPt",
         "collapsible_row_qRcJNt",
         "collapsible_row_4FRJ9a",
+        "collapsible_row_AwpiL3",
         "collapsible_row_CHhrTh"
       ],
       "name": "t:sections.collapsible_content.presets.name",
