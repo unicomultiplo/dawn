@@ -582,22 +582,22 @@
         "heading_7nALCz": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Vetro borosilicato</strong>: leggerezza, resistenza ed eleganza essenziale",
+            "heading": "Come apparecchiare una tavola elegante?",
             "heading_size": "h2"
           }
         },
         "text_8xqydc": {
           "type": "text",
           "settings": {
-            "text": "Cos'è, Vantaggi e Differenze dal Vetro Tradizionale",
-            "text_style": "caption-with-letter-spacing"
+            "text": "Guida pratica alla mise en place",
+            "text_style": "subtitle"
           }
         },
         "buttons_ALFMPq": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Scopri tutto sul Vetro Borosilicato",
-            "button_link_1": "https://www.unicoemultiplo.com/pages/vetro-borosilicato",
+            "button_label_1": "Scopri tutti i inostri consigli",
+            "button_link_1": "shopify://blogs/apparecchiare-con-stile/come-apparecchiare-una-tavola-elegante-guida-completa",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -614,9 +614,9 @@
       "settings": {
         "image": "shopify://shop_images/kn_table_setting-apparecchiare-perstupire_1.webp",
         "image_overlay_opacity": 0,
-        "image_height": "small",
+        "image_height": "medium",
         "desktop_content_position": "bottom-right",
-        "show_text_box": false,
+        "show_text_box": true,
         "desktop_content_alignment": "right",
         "color_scheme": "",
         "image_behavior": "none",
