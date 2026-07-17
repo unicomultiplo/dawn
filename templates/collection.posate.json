@@ -468,12 +468,22 @@
     "collapsible_content_dP6Ppz": {
       "type": "collapsible-content",
       "blocks": {
+        "collapsible_row_Anfzgh": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quali sono le migliori posate da tavola?",
+            "icon": "check_mark",
+            "row_content": "<p>Le migliori posate da tavola sono quelle che <strong>combinano qualità dei materiali, comfort nell'utilizzo e design coerente </strong>con lo stile della propria casa e della propria mise en place.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
         "collapsible_row_GG6eXA": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Cosa sono i bicchieri tumbler?",
+            "heading": "Quali posate scegliere per la tavola di tutti i giorni?",
             "icon": "check_mark",
-            "row_content": "<p>Il <strong>tumbler è un</strong> <strong>bicchiere </strong>per la tavola. Versatile per definizione, il tumbler si adatta a ogni occasione: è il bicchiere dell'<strong>acqua a pranzo,</strong> <strong>dell'aperitivo </strong>al tramonto, del <strong>cocktail </strong>in compagnia.</p>",
+            "row_content": "<p>Per l<strong>'uso quotidiano</strong> conviene scegliere posate <strong>resistenti</strong>, pratiche da lavare e facili da abbinare a piatti e bicchieri già presenti in casa.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -481,9 +491,9 @@
         "collapsible_row_3zyPPt": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "I tumbler sono adatti all’uso quotidiano?",
+            "heading": "Come scegliere un servizio di posate elegante?",
             "icon": "check_mark",
-            "row_content": "<p><strong>Sì, i bicchieri tumbler sono particolarmente adatti all’uso quotidiano </strong>perché sono pratici, facili da abbinare e utilizzabili in molti momenti diversi.</p>",
+            "row_content": "<p>Per scegliere un servizio di posate è importante valutar<strong>e materiali, finiture, ergonomia</strong> e facilità di abbinamento con piatti, bicchieri e accessori già presenti sulla tavola.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -491,19 +501,9 @@
         "collapsible_row_qRcJNt": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Dove trovo anche i calici?",
+            "heading": "Quali materiali sono più indicati per le posate da uso quotidiano?",
             "icon": "check_mark",
-            "row_content": "<p>Per <strong>il resto dei bicchieri e calici </strong>visita la nostra <a href=\"/collections/cucina-e-tavola-bicchieri-e-calici\" title=\"Bicchieri e Calici di Design per la Tavola\"><strong>collezione dedicata - Bicchieri e Calici</strong>.</a></p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_pyQ6eE": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Posso usare i tumbler anche per aperitivi e cocktail?",
-            "icon": "check_mark",
-            "row_content": "<p>Sì, molti tumbler sono <strong>perfetti per aperitivi, cocktail, long drink e bevande fredde, </strong>oltre che per <strong>acqua </strong>e <strong>bibite</strong>.</p>",
+            "row_content": "<p><strong>L'acciaio inox</strong> è tra i materiali più apprezzati grazie alla sua resistenza, praticità e durata nel tempo, caratteristiche che lo rendono ideale per l'utilizzo quotidiano.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -511,9 +511,9 @@
         "collapsible_row_4FRJ9a": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "I tumbler colorati sono facili da abbinare?",
+            "heading": "Meglio un set di posate completo o posate singole?",
             "icon": "check_mark",
-            "row_content": "<p><strong>Sì,</strong> i tumbler colorati possono essere <strong>abbinati a piatti neutri </strong>per creare contrasto <strong>oppure coordinati </strong>con tovagliette, caraffe e<strong> accessori tavola.</strong></p>",
+            "row_content": "<p><strong>Un set completo è ideale per creare una tavola coordinata.</strong> Le<strong> posate singole </strong>sono utili per completare un servizio, sostituire pezzi mancanti o <strong>aggiungere dettagli particolari.</strong></p>",
             "page": "",
             "liquid_content": ""
           }
@@ -521,9 +521,9 @@
         "collapsible_row_CHhrTh": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "I bicchieri tumbler sono una buona idea regalo?",
+            "heading": "Le posate da tavola sono adatte come idea regalo?",
             "icon": "check_mark",
-            "row_content": "<p><strong>Sì,</strong> un set di bicchieri tumbler è un <strong>regalo utile </strong>ed elegante per nuove case, matrimoni, anniversari e<strong> persone che amano curare la tavola.</strong></p>",
+            "row_content": "<p><strong>Sì, un set di posate è un regalo utile, elegante e durevole</strong>, adatto a nuove case, matrimoni, anniversari e occasioni speciali.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -540,10 +540,10 @@
         }
       },
       "block_order": [
+        "collapsible_row_Anfzgh",
         "collapsible_row_GG6eXA",
         "collapsible_row_3zyPPt",
         "collapsible_row_qRcJNt",
-        "collapsible_row_pyQ6eE",
         "collapsible_row_4FRJ9a",
         "collapsible_row_CHhrTh",
         "collapsible_row_YaBFkx"
