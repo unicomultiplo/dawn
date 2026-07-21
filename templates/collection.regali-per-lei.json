@@ -787,6 +787,16 @@
             "page": "",
             "liquid_content": ""
           }
+        },
+        "collapsible_row_9MRDUT": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "È disponibile la confezione regalo?",
+            "icon": "heart",
+            "row_content": "<p><strong>Sì,</strong> è disponibile la confezione regalo. Puoi inoltre scegliere la spedizione oppure il ritiro gratuito in negozio e contattare l’assistenza WhatsApp per un consiglio.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
         }
       },
       "block_order": [
@@ -794,11 +804,12 @@
         "collapsible_row_KwwJTx",
         "collapsible_row_c4F6hY",
         "collapsible_row_6df7t3",
-        "collapsible_row_dgPCjx"
+        "collapsible_row_dgPCjx",
+        "collapsible_row_9MRDUT"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
-        "caption": "FAQ",
+        "caption": "FAQ idee regalo per lei",
         "heading": "Consigli e spunti per scegliere il regalo perfetto per lei",
         "heading_size": "h1",
         "heading_alignment": "center",
