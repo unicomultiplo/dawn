@@ -9,6 +9,16 @@
  */
 {
   "sections": {
+    "custom_liquid_BQHgjD": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h2 class=\"h1\">{{ collection.title }}</h2>\n</div>\n    <p class=\"collection-intro_natale__lead\">\n      Scopri idee regalo per lei originali, utili e di design,\n      selezionate per sorprendere con stile in ogni occasione.\n    </p>\n\n    <h5 class=\"collection-intro-lei__trust\" aria-label=\"Servizi disponibili\">\n      <span>✔️ Confezione regalo disponibile. </span>\n      <span>✔️ Spedizione gratuita da 79€.</span>\n      <span>✔️ Ritiro gratuito in negozio.</span>✔️\n      <a href=\"https://wa.me/390733810100\">Assistenza WhatsApp</a>\n    </h5> \n   </div>\n  </div>\n</section>",
+        "color_scheme": "scheme-1",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "custom_liquid_YVhqVc": {
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
@@ -582,6 +592,7 @@
     }
   },
   "order": [
+    "custom_liquid_BQHgjD",
     "custom_liquid_YVhqVc",
     "product-grid",
     "banner",
