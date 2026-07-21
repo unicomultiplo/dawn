@@ -793,7 +793,7 @@
           "settings": {
             "heading": "È disponibile la confezione regalo?",
             "icon": "heart",
-            "row_content": "<p><strong>Sì,</strong> è disponibile la confezione regalo. Puoi inoltre scegliere la spedizione oppure il ritiro gratuito in negozio e contattare l’assistenza WhatsApp per un consiglio.</p>",
+            "row_content": "<p><strong>Sì,</strong> è disponibile la confezione regalo. Puoi inoltre scegliere la spedizione oppure il ritiro gratuito in negozio e contattare l’<a href=\"https://wa.me/390733810100\" title=\"https://wa.me/390733810100\"><strong>assistenza WhatsApp</strong></a> per un consiglio.</p>",
             "page": "",
             "liquid_content": ""
           }
