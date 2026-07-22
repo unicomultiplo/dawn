@@ -159,13 +159,15 @@
             "product_4": "bitossi-home-smerlo-set-4-tovagliette-bordo-smerlato",
             "product_4_image": "shopify://shop_images/Bitossi_Home_Smerlo_Se-_4-tovagliette-bordo-smerlato.jpg",
             "show_label_4": true,
-            "product_4_label": "",
-            "product_5": "",
-            "show_label_5": false,
-            "product_5_label": "",
-            "product_6": "",
-            "show_label_6": false,
-            "product_6_label": ""
+            "product_4_label": "BItossi Home - Smerlo",
+            "product_5": "2035-seletti-toilet-paper-tovagliette",
+            "product_5_image": "shopify://shop_images/seletti-toilet-paper-tovagliette-6.webp",
+            "show_label_5": true,
+            "product_5_label": "Seletti - Toiletpaper",
+            "product_6": "seletti-diesel-living-classics-on-acid-tovaglietta-acid-flower-a",
+            "product_6_image": "shopify://shop_images/tovaglietta-acid-seletti-colazione-classic-on-acid.webp",
+            "show_label_6": true,
+            "product_6_label": "Seletti - Classic on Acid"
           },
           "blocks": {}
         }
