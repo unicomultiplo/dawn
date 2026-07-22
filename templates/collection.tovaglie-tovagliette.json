@@ -31,61 +31,6 @@
         "padding_bottom": 0
       }
     },
-    "collection_list_Dqiq6d": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_PcxNij": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "cucina-e-tavola-bicchieri-e-calici-tumbler"
-          }
-        },
-        "featured_collection_eitpRA": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home-bicchieri-e-calici"
-          }
-        },
-        "featured_collection_WXJXpE": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bicchieri-e-calici-seletti"
-          }
-        },
-        "featured_collection_himhQQ": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "knindustrie-catalogo-prodotti-bicchieri"
-          }
-        },
-        "featured_collection_YjfbXB": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brandani-bicchieri-e-calici"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_PcxNij",
-        "featured_collection_eitpRA",
-        "featured_collection_WXJXpE",
-        "featured_collection_himhQQ",
-        "featured_collection_YjfbXB"
-      ],
-      "name": "t:sections.collection-list.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -122,6 +67,7 @@
       "block_order": [
         "column_Q3cHjM"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Come scegliere bicchieri e calici per la tua tavola",
@@ -162,6 +108,7 @@
         "heading_MzfeAt",
         "text_LBjDyp"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/KnIndustrie-bicchieri.jpg",
@@ -195,6 +142,7 @@
       "block_order": [
         "column_RCVfWp"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -261,6 +209,7 @@
         "featured_collection_GjVeME",
         "featured_collection_xNeiyB"
       ],
+      "disabled": true,
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "",
@@ -301,6 +250,7 @@
         "column_hxxKx7",
         "column_wBRPWD"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "<strong>Design, colori e materiali per una mise en place personale</strong>",
@@ -353,6 +303,7 @@
         "text_8xqydc",
         "buttons_ALFMPq"
       ],
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/knindustrie-Alzata_in_vetro_trasparente_mood-vetro-borosilicato.webp",
@@ -399,6 +350,7 @@
         "text_LddPew",
         "button_Med33E"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/knindustrie-kn_gift-aperitivo.webp",
@@ -442,6 +394,7 @@
         "column_r6hUa6",
         "column_CGCdFb"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "<strong>Completa la tavola</strong>",
@@ -532,6 +485,7 @@
         "column_AwYUHa",
         "column_apfD9k"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -624,6 +578,7 @@
         "collapsible_row_4FRJ9a",
         "collapsible_row_CHhrTh"
       ],
+      "disabled": true,
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
         "caption": "Domande rapide su come scegliere bicchieri e calici dal mondo Unico & Multiplo.",
@@ -675,6 +630,7 @@
         "text_N3nYwd",
         "buttons_D7EnnE"
       ],
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/knindustrie-kn_table_setting-bicchieri-vassoio.webp",
@@ -695,7 +651,6 @@
   "order": [
     "banner",
     "custom_liquid_LepCX8",
-    "collection_list_Dqiq6d",
     "product-grid",
     "multicolumn_KWHCjy",
     "image_with_text_jXdDJq",
