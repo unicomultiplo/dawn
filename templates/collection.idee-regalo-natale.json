@@ -33,42 +33,6 @@
     "collection_list_EKQ7V8": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_gTXxYx": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-natale"
-          }
-        },
-        "featured_collection_xzQkRj": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "natale-con-knindustrie"
-          }
-        },
-        "featured_collection_HaHLHm": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home-natale"
-          }
-        },
-        "featured_collection_gDb8Cm": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-regali-per-lei"
-          }
-        },
-        "featured_collection_6XLYL6": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-regali-per-lui"
-          }
-        },
-        "featured_collection_GkhtVQ": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "idee-regalo-per-casa-e-cucina"
-          }
-        },
         "featured_collection_dPT46U": {
           "type": "featured_collection",
           "settings": {
@@ -87,24 +51,60 @@
             "collection": "idee-regalo-regali-sotto-150-euro"
           }
         },
+        "featured_collection_gDb8Cm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-regali-per-lei"
+          }
+        },
+        "featured_collection_6XLYL6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-regali-per-lui"
+          }
+        },
         "featured_collection_ga9idW": {
           "type": "featured_collection",
           "settings": {
             "collection": "idee-regalo-per-genitori"
           }
+        },
+        "featured_collection_GkhtVQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-per-casa-e-cucina"
+          }
+        },
+        "featured_collection_gTXxYx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "seletti-natale"
+          }
+        },
+        "featured_collection_xzQkRj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "natale-con-knindustrie"
+          }
+        },
+        "featured_collection_HaHLHm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bitossi-home-natale"
+          }
         }
       },
       "block_order": [
-        "featured_collection_gTXxYx",
-        "featured_collection_xzQkRj",
-        "featured_collection_HaHLHm",
-        "featured_collection_gDb8Cm",
-        "featured_collection_6XLYL6",
-        "featured_collection_GkhtVQ",
         "featured_collection_dPT46U",
         "featured_collection_qNrjnW",
         "featured_collection_PcL9Me",
-        "featured_collection_ga9idW"
+        "featured_collection_gDb8Cm",
+        "featured_collection_6XLYL6",
+        "featured_collection_ga9idW",
+        "featured_collection_GkhtVQ",
+        "featured_collection_gTXxYx",
+        "featured_collection_xzQkRj",
+        "featured_collection_HaHLHm"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
@@ -680,6 +680,72 @@
         "padding_top": 0,
         "padding_bottom": 36
       }
+    },
+    "collapsible_content_iiNrJf": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_3WN6Eg": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_cpUdBw": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_77iR7d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_QiJeKK": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Riga comprimibile",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "",
+            "liquid_content": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_3WN6Eg",
+        "collapsible_row_cpUdBw",
+        "collapsible_row_77iR7d",
+        "collapsible_row_QiJeKK"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "Contenuto comprimibile",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -698,6 +764,7 @@
     "multicolumn_THxWLM",
     "multicolumn_ekRxfr",
     "multicolumn_KpgrDw",
-    "multirow_c3DGJh"
+    "multirow_c3DGJh",
+    "collapsible_content_iiNrJf"
   ]
 }
