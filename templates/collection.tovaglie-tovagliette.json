@@ -67,10 +67,9 @@
       "block_order": [
         "column_Q3cHjM"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Come scegliere bicchieri e calici per la tua tavola",
+        "title": "Tovaglie, Tovaglioli, Tovagliette, Sottopiatti: come scegliere e abbinare",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -89,29 +88,20 @@
     "image_with_text_jXdDJq": {
       "type": "image-with-text",
       "blocks": {
-        "heading_MzfeAt": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Bicchieri da tavola per ogni momento</strong>",
-            "heading_size": "h2"
-          }
-        },
         "text_LBjDyp": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>I bicchieri e i calici </strong>sono dettagli <strong>essenziali </strong>per definire lo stile della tavola. Non servono solo a completare il servizio, ma contribuiscono a <strong>creare atmosfera:</strong> più essenziale nella quotidianità, più ricercata durante una cena speciale, più informale quando si prepara un aperitivo con amici.</p><p>In questa selezione <strong>trovi bicchieri da acqua, calici, tumbler</strong> e proposte decorative pensate per accompagnare bevande diverse e momenti diversi della giornata. <strong>La scelta può partire dall’uso, ma anche dal carattere che desideri dare alla mise en place:</strong> trasparente e luminosa, colorata e contemporanea, elegante o volutamente originale.</p>",
+            "text": "<p><strong>Le tovaglie, le tovagliette e i sottopiatti </strong>aiutano a definire subito il carattere della tavola. Per una <strong>colazione</strong> informale puoi scegliere una <strong>tovaglietta </strong>pratica e colorata; per una <strong>cena </strong>più curata, invece, i <strong>sottopiatti </strong>originali aggiungono profondità, ordine e un tocco decorativo alla mise en place.</p><h2>Come scegliere tovagliette e sottopiatti</h2><p><strong>La scelta dipende dall’uso e dallo stile della tavola.</strong> Le <strong>tovagliette </strong>sono ideali per apparecchiare in modo <strong>rapido</strong>, proteggere il piano e dare personalità anche ai pasti quotidiani. I <strong>sottopiatti</strong>, invece, sono perfetti quando vuoi creare una tavola più <strong>elegante</strong>, valorizzare i piatti e costruire un abbinamento più scenografico.</p>",
             "text_style": "body"
           }
         }
       },
       "block_order": [
-        "heading_MzfeAt",
         "text_LBjDyp"
       ],
-      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/KnIndustrie-bicchieri.jpg",
+        "image": "shopify://shop_images/tovaglietta-gina-cotone.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -126,234 +116,31 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_JNpC9x": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_RCVfWp": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_RCVfWp"
-      ],
-      "disabled": true,
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "collection_list_J9CqrE": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_jjreiQ": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "lime-line-knindustrie"
-          }
-        },
-        "featured_collection_atGfQH": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bitossi-home-diseguale"
-          }
-        },
-        "featured_collection_hhWrMH": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "seletti-catalogo-prodotti-seletti-hybrid-bicchieri"
-          }
-        },
-        "featured_collection_BxTycC": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "groove-knindustrie"
-          }
-        },
-        "featured_collection_GjVeME": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "boulevard-brandani"
-          }
-        },
-        "featured_collection_xNeiyB": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "knindustrie-catalogo-prodotti-davide-oldani-e-knindustrie-verres-d-o-bicchieri"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_jjreiQ",
-        "featured_collection_atGfQH",
-        "featured_collection_hhWrMH",
-        "featured_collection_BxTycC",
-        "featured_collection_GjVeME",
-        "featured_collection_xNeiyB"
-      ],
-      "disabled": true,
-      "name": "t:sections.collection-list.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 6,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_FnyeXB": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_hxxKx7": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_wBRPWD": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Il<strong> vetro trasparente</strong> è una scelta <strong>versatile</strong>, facile da abbinare a piatti e posate di stili diversi. I <strong>bicchieri colorati </strong>o decorati aggiungono <strong>personalità </strong>e diventano un elemento visivo importante, soprattutto su tavole essenziali o monocromatiche. Le <strong>forme più particolari</strong> aiutano invece a creare un<strong> punto focale </strong>e a rendere riconoscibile l’apparecchiatura.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_hxxKx7",
-        "column_wBRPWD"
-      ],
-      "disabled": true,
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "<strong>Design, colori e materiali per una mise en place personale</strong>",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "image_banner_hf7WRX": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_7nALCz": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Vetro borosilicato</strong>: leggerezza, resistenza ed eleganza essenziale",
-            "heading_size": "h2"
-          }
-        },
-        "text_8xqydc": {
-          "type": "text",
-          "settings": {
-            "text": "Cos'è, Vantaggi e Differenze dal Vetro Tradizionale",
-            "text_style": "caption-with-letter-spacing"
-          }
-        },
-        "buttons_ALFMPq": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Scopri tutto sul Vetro Borosilicato",
-            "button_link_1": "https://www.unicoemultiplo.com/pages/vetro-borosilicato",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_7nALCz",
-        "text_8xqydc",
-        "buttons_ALFMPq"
-      ],
-      "disabled": true,
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/knindustrie-Alzata_in_vetro_trasparente_mood-vetro-borosilicato.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "bottom-right",
-        "show_text_box": false,
-        "desktop_content_alignment": "right",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "right",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
-      }
-    },
     "image_with_text_gYmdLm": {
       "type": "image-with-text",
       "blocks": {
         "heading_tAz8Dq": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Bicchieri e calici come idea regalo</strong>",
+            "heading": "Materiali, colori e funzionalità",
             "heading_size": "h2"
           }
         },
         "text_LddPew": {
           "type": "text",
           "settings": {
-            "text": "<p>Un set di bicchieri o calici <strong>è un regalo utile, elegante e facile</strong> da inserire nella vita quotidiana. </p><p>È una scelta adatta per nuove case, matrimoni, anniversari, compleanni e per chi ama curare la tavola con oggetti belli ma funzionali.</p><p>Le linee più decorative possono diventare anche piccoli <strong>elementi da collezione, ideali </strong>per chi cerca un regalo originale per la casa.</p>",
+            "text": "<p>Per la cucina di tutti i giorni conviene puntare su soluzioni resistenti, facili da abbinare e semplici da gestire. Per occasioni speciali, cene con ospiti o idee regalo, puoi scegliere tovagliette e sottopiatti con texture, finiture decorative, colori intensi o dettagli più ricercati. L’obiettivo è trovare il giusto equilibrio tra praticità, design e stile personale.</p>",
             "text_style": "body"
-          }
-        },
-        "button_Med33E": {
-          "type": "button",
-          "settings": {
-            "button_label": "Idee Regalo Casa & Cucina",
-            "button_link": "shopify://collections/idee-regalo-per-casa-e-cucina",
-            "button_style_secondary": true
           }
         }
       },
       "block_order": [
         "heading_tAz8Dq",
-        "text_LddPew",
-        "button_Med33E"
+        "text_LddPew"
       ],
-      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/knindustrie-kn_gift-aperitivo.webp",
+        "image": "shopify://shop_images/tovaglia-domenica-con-rouge-arricciato-in-cotone-1.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -375,7 +162,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Per creare una<strong> tavola coerente </strong>puoi abbinare bicchieri e calici a piatti, posate, vassoi, caraffe, tovagliette e accessori decorativi. Il <strong>risultato </strong>può essere <strong>coordinato oppure </strong>volutamente <strong>mixato</strong>: <strong>l’importante è mantenere un equilibrio</strong> tra colori, materiali e occasioni d’uso.</p>",
+            "text": "<p>Per una tavola armoniosa abbina tovagliette e sottopiatti a piatti da tavola, bicchieri e calici, posate, portatovaglioli e vassoi da portata. In questo modo ogni elemento dialoga con gli altri e la tavola diventa più curata, accogliente e originale, sia nella quotidianità sia nelle occasioni da ricordare.</p>",
             "link_label": "",
             "link": ""
           }
@@ -394,10 +181,9 @@
         "column_r6hUa6",
         "column_CGCdFb"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>Completa la tavola</strong>",
+        "title": "Abbinamenti per una tavola completa",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -419,21 +205,51 @@
         "column_4eEi6Q": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Diesel-Living-with-Seletti-2022-cover.webp",
+            "image": "shopify://shop_images/knindustrie-gres-bicolor-mood-piatti.webp",
             "title": "",
             "text": "<p><strong>Piatti da Tavola</strong></p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-piatti"
           }
         },
+        "column_AwYUHa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-kn_table_setting-bicchieri-vassoio.webp",
+            "title": "",
+            "text": "<p><strong>Bicchieri e Calici </strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-tovaglie-e-tovagliette"
+          }
+        },
         "column_Pf3nRn": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Biossi-home-posate-bamboo-5.webp",
+            "image": "shopify://shop_images/503-knindustrie-dem-posate-da-tavola-set-4-pezzi-5.jpg",
             "title": "",
             "text": "<p><strong>Posate</strong></p>",
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-posate"
+          }
+        },
+        "column_yxYYXF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-oliera-acetiera-3.jpg",
+            "title": "",
+            "text": "<p><strong>Set Olio, Sale e Pepe</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-tazze-tazzine-mug"
+          }
+        },
+        "column_apfD9k": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-VASSOI_MOOD.webp",
+            "title": "",
+            "text": "<p><strong>Vassoi</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata"
           }
         },
         "column_mjiBaV": {
@@ -445,47 +261,16 @@
             "link_label": "",
             "link": "shopify://collections/cucina-e-tavola-centrotavola-e-alzate"
           }
-        },
-        "column_yxYYXF": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/seletti-hybrd-tazze.jpg",
-            "title": "",
-            "text": "<p><strong>Tazze, Tazzine e Mug</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-tazze-tazzine-mug"
-          }
-        },
-        "column_AwYUHa": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/tovaglietta-gina-cotone.webp",
-            "title": "",
-            "text": "<p><strong>Sottopiatti e Tovagliette</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-tovaglie-e-tovagliette"
-          }
-        },
-        "column_apfD9k": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-kn_table_setting-bicchieri-vassoio.webp",
-            "title": "",
-            "text": "<p><strong>Vassoi</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/cucina-e-tavola-vassoi-e-piatti-portata"
-          }
         }
       },
       "block_order": [
         "column_4eEi6Q",
-        "column_Pf3nRn",
-        "column_mjiBaV",
-        "column_yxYYXF",
         "column_AwYUHa",
-        "column_apfD9k"
+        "column_Pf3nRn",
+        "column_yxYYXF",
+        "column_apfD9k",
+        "column_mjiBaV"
       ],
-      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -506,118 +291,28 @@
         "padding_bottom": 32
       }
     },
-    "collapsible_content_dP6Ppz": {
-      "type": "collapsible-content",
-      "blocks": {
-        "collapsible_row_GG6eXA": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Quali prodotti comprende la collezione Bicchieri e Calici?",
-            "icon": "check_mark",
-            "row_content": "<p>La collezione raccoglie<strong> bicchieri</strong> da acqua, <strong>calici, tumbler </strong>e bicchieri per cocktail, aperitivo e occasioni speciali.</p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_3zyPPt": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Come scegliere tra bicchieri e calici?",
-            "icon": "check_mark",
-            "row_content": "<p><strong>Scegli in base all’uso: </strong>bicchieri da acqua per la tavola quotidiana, <strong>calici per vino </strong>e bollicine,<strong> tumbler per acqua, cocktail, succhi e aperitivi.</strong></p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_qRcJNt": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Dove trovo solo bicchieri tumbler?",
-            "icon": "check_mark",
-            "row_content": "<p>Per <strong>bicchieri tumbler bassi, medi e alti</strong> visita la <a href=\"/collections/cucina-e-tavola-bicchieri-e-calici-tumbler\" title=\"Bicchieri Tumbler\"><strong>collezione Tumbler dedicata</strong>.</a></p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_pyQ6eE": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Dove trovo i bicchieri per brand specifico?",
-            "icon": "check_mark",
-            "row_content": "<p>Per brand specifici usa le <strong>collection dedicate a </strong><a href=\"/collections/bicchieri-e-calici-seletti\" title=\"Bicchieri e Calici Seletti\"><strong>Seletti,</strong></a><strong> </strong><a href=\"/collections/brandani-bicchieri-e-calici\" title=\"Bicchieri e Calici Brandani\"><strong>Brandani</strong></a><strong>, </strong><a href=\"/collections/knindustrie-catalogo-prodotti-bicchieri\" title=\"KnIndustrie: Bicchieri\"><strong>KnIndustrie</strong></a><strong> e </strong><a href=\"/collections/bitossi-home-bicchieri-e-calici\" title=\"Bicchieri e Calici Bitossi Home\"><strong>Bitossi Home</strong></a>, così la navigazione resta più chiara.</p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_4FRJ9a": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "I bicchieri e i calici di design sono adatti anche come regalo?",
-            "icon": "check_mark",
-            "row_content": "<p><strong>Sì</strong>, sono idee regalo <strong>utili e raffinate</strong> per nuove case, matrimoni, anniversari, compleanni e per chi ama la tavola curata.</p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
-        "collapsible_row_CHhrTh": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Come posso abbinarli al resto della tavola?",
-            "icon": "check_mark",
-            "row_content": "<p>Puoi abbinarli a piatti, posate, caraffe, brocche, tovagliette e centrotavola, creando una<strong> mise en place coordinata o giocando con contrasti di colore, forma e materiale.</strong></p>",
-            "page": "",
-            "liquid_content": ""
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_row_GG6eXA",
-        "collapsible_row_3zyPPt",
-        "collapsible_row_qRcJNt",
-        "collapsible_row_pyQ6eE",
-        "collapsible_row_4FRJ9a",
-        "collapsible_row_CHhrTh"
-      ],
-      "disabled": true,
-      "name": "t:sections.collapsible_content.presets.name",
-      "settings": {
-        "caption": "Domande rapide su come scegliere bicchieri e calici dal mondo Unico & Multiplo.",
-        "heading": "Domande frequenti su bicchieri e calici da tavola",
-        "heading_size": "h2",
-        "heading_alignment": "center",
-        "layout": "row",
-        "color_scheme": "",
-        "container_color_scheme": "scheme-2",
-        "open_first_collapsible_row": true,
-        "image": "shopify://shop_images/knIndustrie_outdoor_dining.webp",
-        "image_ratio": "large",
-        "desktop_layout": "image_first",
-        "padding_top": 28,
-        "padding_bottom": 36
-      }
-    },
     "image_banner_rrDJXp": {
       "type": "image-banner",
       "blocks": {
         "heading_rFiebr": {
           "type": "heading",
           "settings": {
-            "heading": "Le forme del bere: come scegliere il bicchiere giusto",
+            "heading": "Come apparecchiare una tavola elegante",
             "heading_size": "h2"
           }
         },
         "text_N3nYwd": {
           "type": "text",
           "settings": {
-            "text": "Guida informativa alla scelta del bicchiere più adatto.",
+            "text": "Guida pratica alla mise en place",
             "text_style": "body"
           }
         },
         "buttons_D7EnnE": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Scopri di più!",
-            "button_link_1": "shopify://blogs/apparecchiare-con-stile/le-forme-del-bere-come-scegliere-il-giusto-bicchiere",
+            "button_label_1": "Scopri tutti i nostri consigli!",
+            "button_link_1": "shopify://blogs/apparecchiare-con-stile/come-apparecchiare-una-tavola-elegante-guida-completa",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -630,11 +325,9 @@
         "text_N3nYwd",
         "buttons_D7EnnE"
       ],
-      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/knindustrie-kn_table_setting-bicchieri-vassoio.webp",
-        "image_2": "shopify://shop_images/knIndustrie_point_of_view.webp",
+        "image": "shopify://shop_images/kn_table_setting-apparecchiare-perstupire_1.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "bottom-center",
@@ -654,14 +347,9 @@
     "product-grid",
     "multicolumn_KWHCjy",
     "image_with_text_jXdDJq",
-    "multicolumn_JNpC9x",
-    "collection_list_J9CqrE",
-    "multicolumn_FnyeXB",
-    "image_banner_hf7WRX",
     "image_with_text_gYmdLm",
     "multicolumn_wDLcLp",
     "multicolumn_fteU4T",
-    "collapsible_content_dP6Ppz",
     "image_banner_rrDJXp"
   ]
 }
