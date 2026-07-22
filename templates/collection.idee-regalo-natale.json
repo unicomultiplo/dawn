@@ -13,7 +13,7 @@
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h2 class=\"h1\">{{ collection.title }}</h2>\n</div>\n    <p class=\"collection-intro_natale__lead\">\n      Scopri idee regalo per lei originali, utili e di design,\n      selezionate per sorprendere con stile in ogni occasione.\n    </p>\n\n    <h5 class=\"collection-intro-lei__trust\" aria-label=\"Servizi disponibili\">\n      <span>✔️ Confezione regalo disponibile. </span>\n      <span>✔️ Spedizione gratuita da 79€.</span>\n      <span>✔️ Ritiro gratuito in negozio.</span>✔️\n      <a href=\"https://wa.me/390733810100\">Assistenza WhatsApp</a>\n    </h5> \n   </div>\n  </div>\n</section>",
+        "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h2 class=\"h1\">{{ collection.title }}</h2>\n</div>\n    <p class=\"collection-intro_natale__lead\">\n     <strong>Le idee regalo di Natale </strong>di Unico & Multiplo raccolgono oggetti per casa, cucina, tavola e lifestyle scelti per chi cerca <strong>regali originali, utili e di design.</strong>\n    </p>\n\n    <h5 class=\"collection-intro-lei__trust\" aria-label=\"Servizi disponibili\">\n      <span>✔️ Confezione regalo disponibile. </span>\n      <span>✔️ Spedizione gratuita da 79€.</span>\n      <span>✔️ Ritiro gratuito in negozio.</span>✔️\n      <a href=\"https://wa.me/390733810100\">Assistenza WhatsApp</a>\n    </h5> \n   </div>\n  </div>\n</section>",
         "color_scheme": "scheme-1",
         "padding_top": 20,
         "padding_bottom": 0
@@ -39,16 +39,34 @@
             "collection": "seletti-natale"
           }
         },
+        "featured_collection_xzQkRj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "natale-con-knindustrie"
+          }
+        },
         "featured_collection_HaHLHm": {
           "type": "featured_collection",
           "settings": {
             "collection": "bitossi-home-natale"
           }
         },
-        "featured_collection_xzQkRj": {
+        "featured_collection_gDb8Cm": {
           "type": "featured_collection",
           "settings": {
-            "collection": "natale-con-knindustrie"
+            "collection": "idee-regalo-regali-per-lei"
+          }
+        },
+        "featured_collection_6XLYL6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-regali-per-lui"
+          }
+        },
+        "featured_collection_GkhtVQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-per-casa-e-cucina"
           }
         },
         "featured_collection_dPT46U": {
@@ -68,22 +86,32 @@
           "settings": {
             "collection": "idee-regalo-regali-sotto-150-euro"
           }
+        },
+        "featured_collection_ga9idW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "idee-regalo-per-genitori"
+          }
         }
       },
       "block_order": [
         "featured_collection_gTXxYx",
-        "featured_collection_HaHLHm",
         "featured_collection_xzQkRj",
+        "featured_collection_HaHLHm",
+        "featured_collection_gDb8Cm",
+        "featured_collection_6XLYL6",
+        "featured_collection_GkhtVQ",
         "featured_collection_dPT46U",
         "featured_collection_qNrjnW",
-        "featured_collection_PcL9Me"
+        "featured_collection_PcL9Me",
+        "featured_collection_ga9idW"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
-        "title": "",
-        "heading_size": "h1",
+        "title": "Scegli il regalo per budget, destinatario o brand.",
+        "heading_size": "h2",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 5,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "2",
