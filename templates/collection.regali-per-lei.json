@@ -16,7 +16,7 @@
         "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h2 class=\"h1\">{{ collection.title }}</h2>\n</div>\n{% if collection.handle == 'idee-regalo-regali-per-lei' %}\n  <div class=\"collection-intro-lei\">\n    <p class=\"collection-intro-lei__lead\">\n      Scopri idee regalo per lei originali, utili e di design,\n      selezionate per sorprendere con stile in ogni occasione.\n    </p>\n\n    <h5 class=\"collection-intro-lei__trust\" aria-label=\"Servizi disponibili\">\n      <span>✔️ Confezione regalo disponibile. </span>\n      <span>✔️ Spedizione gratuita da 79€.</span>\n      <span>✔️ Ritiro gratuito in negozio.</span>✔️\n      <a href=\"https://wa.me/390733810100\">Assistenza WhatsApp</a>\n    </h5> \n   </div>\n  </div>\n{% endif %}\n</section>",
         "color_scheme": "scheme-1",
         "padding_top": 20,
-        "padding_bottom": 20
+        "padding_bottom": 0
       }
     },
     "collection_list_jLGpVy": {
@@ -69,8 +69,8 @@
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
-        "title": "",
-        "heading_size": "h1",
+        "title": "Filtra per budget o occasione e trova il regalo più adatto per lei.",
+        "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 6,
         "color_scheme": "scheme-1",
