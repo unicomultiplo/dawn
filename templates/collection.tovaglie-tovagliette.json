@@ -94,10 +94,19 @@
             "text": "<p><strong>Le tovaglie, le tovagliette e i sottopiatti </strong>aiutano a definire subito il carattere della tavola. Per una <strong>colazione</strong> informale puoi scegliere una <strong>tovaglietta </strong>pratica e colorata; per una <strong>cena </strong>più curata, invece, i <strong>sottopiatti </strong>originali aggiungono profondità, ordine e un tocco decorativo alla mise en place.</p><h2>Come scegliere tovagliette e sottopiatti</h2><p><strong>La scelta dipende dall’uso e dallo stile della tavola.</strong> Le <strong>tovagliette </strong>sono ideali per apparecchiare in modo <strong>rapido</strong>, proteggere il piano e dare personalità anche ai pasti quotidiani. I <strong>sottopiatti</strong>, invece, sono perfetti quando vuoi creare una tavola più <strong>elegante</strong>, valorizzare i piatti e costruire un abbinamento più scenografico.</p>",
             "text_style": "body"
           }
+        },
+        "button_h3JNPi": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scopri Gina - Tovaglietta Quadri",
+            "button_link": "shopify://products/tovaglietta-gina",
+            "button_style_secondary": true
+          }
         }
       },
       "block_order": [
-        "text_LBjDyp"
+        "text_LBjDyp",
+        "button_h3JNPi"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
@@ -129,19 +138,28 @@
         "text_LddPew": {
           "type": "text",
           "settings": {
-            "text": "<p>Per la cucina di tutti i giorni conviene puntare su soluzioni resistenti, facili da abbinare e semplici da gestire. Per occasioni speciali, cene con ospiti o idee regalo, puoi scegliere tovagliette e sottopiatti con texture, finiture decorative, colori intensi o dettagli più ricercati. L’obiettivo è trovare il giusto equilibrio tra praticità, design e stile personale.</p>",
+            "text": "<p>Per la cucina di <strong>tutti i giorni</strong> conviene puntare su <strong>soluzioni resistenti,</strong> facili da abbinare e semplici da gestire. Per <strong>occasioni speciali,</strong> cene con ospiti o idee regalo, puoi scegliere tovagliette e sottopiatti con <strong>texture, finiture decorative, colori intensi o dettagli più ricercati. </strong>L’obiettivo è trovare il giusto equilibrio tra praticità, design e stile personale.</p>",
             "text_style": "body"
+          }
+        },
+        "button_CdqBEU": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scopri Domenica  - Tovaglia Artigianale",
+            "button_link": "shopify://products/tovaglia-domenica-con-rouge-arricciato-in-cotone",
+            "button_style_secondary": true
           }
         }
       },
       "block_order": [
         "heading_tAz8Dq",
-        "text_LddPew"
+        "text_LddPew",
+        "button_CdqBEU"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/tovaglia-domenica-con-rouge-arricciato-in-cotone-1.jpg",
-        "height": "adapt",
+        "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
@@ -162,7 +180,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Per una tavola armoniosa abbina tovagliette e sottopiatti a piatti da tavola, bicchieri e calici, posate, portatovaglioli e vassoi da portata. In questo modo ogni elemento dialoga con gli altri e la tavola diventa più curata, accogliente e originale, sia nella quotidianità sia nelle occasioni da ricordare.</p>",
+            "text": "<p>Per una<strong> tavola armoniosa </strong>abbina tovagliette e sottopiatti a piatti da tavola, bicchieri e calici, posate, portatovaglioli e vassoi da portata. In questo modo <strong>ogni elemento dialoga con gli altri </strong>e la tavola diventa più curata, accogliente e originale, sia nella quotidianità sia nelle occasioni da ricordare.</p>",
             "link_label": "",
             "link": ""
           }
