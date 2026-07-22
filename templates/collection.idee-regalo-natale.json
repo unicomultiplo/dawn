@@ -681,67 +681,101 @@
         "padding_bottom": 36
       }
     },
-    "collapsible_content_iiNrJf": {
+    "collapsible_content_zNHMDW": {
       "type": "collapsible-content",
       "blocks": {
-        "collapsible_row_3WN6Eg": {
+        "collapsible_row_kDhTFf": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Quali sono le idee regalo di Natale più originali?",
+            "icon": "star",
+            "row_content": "<p>Le<strong> idee regalo di Natale</strong> più <strong>originali </strong>uniscono <strong>utilità, design e personalità</strong>. Puoi scegliere lampade decorative, accessori per la tavola e la cucina, <strong>vasi, oggetti ironici,</strong> complementi per la casa e prodotti lifestyle. <br/><strong>Il regalo giusto dovrebbe rispecchiare gli interessi e lo stile di chi lo riceve, </strong>sorprendendolo senza rinunciare alla praticità.</p>",
             "page": "",
             "liquid_content": ""
           }
         },
-        "collapsible_row_cpUdBw": {
+        "collapsible_row_rNXn98": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Cosa regalare a Natale a chi ama la casa e il design?",
+            "icon": "star",
+            "row_content": "<p>Per chi ama la casa e il design sono ideali oggetti capaci di <strong>arredare </strong>e rendere più piacevoli i gesti quotidiani: <strong>lampade, vasi, candelabri, specchi, tessili, bicchieri, accessori per la tavola e utensili da cucina </strong>dal carattere particolare. Scegli forme essenziali per uno stile minimal oppure colori, decorazioni e dettagli ironici per una casa più creativa.</p>",
             "page": "",
             "liquid_content": ""
           }
         },
-        "collapsible_row_77iR7d": {
+        "collapsible_row_D9hMRf": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Quali sono le migliori idee regalo per lei?",
+            "icon": "star",
+            "row_content": "<p>Le migliori idee regalo per lei <strong>uniscono utilità, gusto e personalità</strong>: oggetti per la casa, accessori per cucina e tavola, lampade, beauty case, profumazioni, decorazioni e<strong> piccoli oggetti di design.</strong></p>",
             "page": "",
             "liquid_content": ""
           }
         },
-        "collapsible_row_QiJeKK": {
+        "collapsible_row_Rwxqka": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Quali regali di Natale scegliere sotto i 50 €?",
+            "icon": "star",
+            "row_content": "<p><a href=\"/collections/idee-regalo-economiche\" title=\"Idee Regalo Economiche sotto i 50€\">Sotto i 50€</a> puoi trovare piccoli regali originali e curati, come<strong> tazze, accessori per la tavola, portacandele, decorazioni, oggetti lifestyle</strong>, gadget di design e piccoli complementi per la casa. Consulta la selezione dedicata alle <a href=\"/collections/idee-regalo-economiche\" title=\"Idee Regalo Economiche sotto i 50€\">idee regalo sotto i 50€</a> e utilizza il filtro per prezzo per individuare più velocemente la proposta adatta al tuo budget.<br/><br/></p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_rCXYQd": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Cosa regalare per Natale a una persona che ha già tutto?",
+            "icon": "star",
+            "row_content": "<p>A una persona che sembra avere già tutto puoi regalare un<strong> oggetto particolare, capace di raccontare una passione o aggiungere personalità alla casa. </strong>Punta su un accessorio di design, un oggetto ironico, una lampada originale o un elemento decorativo che difficilmente sceglierebbe da sola. Quando non conosci bene i suoi gusti, una <a href=\"/collections/buoni-regalo-e-gift-card-unico-multiplo\" title=\"Buoni Regalo e Gift Card Unico & Multiplo\"><strong>Gift Card</strong></a> le permette di scegliere liberamente.<br/><br/></p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_ega6yA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Come scegliere un regalo di Natale utile ma non banale?",
+            "icon": "star",
+            "row_content": "<p><strong>Parti dalle abitudini quotidiane della persona </strong>e cerca un oggetto che renda quei momenti più belli, semplici o piacevoli. Un accessorio per la cucina, una lampada, un vassoio o un complemento per la casa diventano regali non banali quando si distinguono per qualità, materiali, colore e design. L’ideale è scegliere qualcosa che<strong> venga utilizzato spesso ma che sappia anche sorprendere.</strong><br/></p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_QmmBKj": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Sono disponibili confezione regalo, spedizione e ritiro?",
+            "icon": "star",
+            "row_content": "<p>Sì, è disponibile il servizio di confezione regalo. La<strong> spedizione è gratuita </strong>per gli ordini a partire <strong>da 79€</strong> ed è possibile scegliere il ritiro gratuito presso il <strong>negozio di Civitanova Marche.</strong> Le modalità disponibili e i tempi effettivi di consegna dipendono dal prodotto e vengono <strong>indicati nella relativa scheda prodotto. </strong>Per ricevere un consiglio è disponibile anche l’assistenza via <a href=\"https://wa.me/390733810100\" title=\"https://wa.me/390733810100\"><strong>WhatsApp</strong></a>.</p>",
             "page": "",
             "liquid_content": ""
           }
         }
       },
       "block_order": [
-        "collapsible_row_3WN6Eg",
-        "collapsible_row_cpUdBw",
-        "collapsible_row_77iR7d",
-        "collapsible_row_QiJeKK"
+        "collapsible_row_kDhTFf",
+        "collapsible_row_rNXn98",
+        "collapsible_row_D9hMRf",
+        "collapsible_row_Rwxqka",
+        "collapsible_row_rCXYQd",
+        "collapsible_row_ega6yA",
+        "collapsible_row_QmmBKj"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
-        "caption": "",
-        "heading": "Contenuto comprimibile",
+        "caption": "FAQ idee regalo di Natale",
+        "heading": "Consigli e spunti per scegliere i regali di Natale",
         "heading_size": "h1",
         "heading_alignment": "center",
-        "layout": "none",
+        "layout": "row",
         "color_scheme": "",
         "container_color_scheme": "",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
+        "open_first_collapsible_row": true,
+        "image": "shopify://shop_images/knindustrie-kn_gifts-natale.webp",
+        "image_ratio": "large",
         "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
@@ -765,6 +799,6 @@
     "multicolumn_ekRxfr",
     "multicolumn_KpgrDw",
     "multirow_c3DGJh",
-    "collapsible_content_iiNrJf"
+    "collapsible_content_zNHMDW"
   ]
 }
