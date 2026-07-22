@@ -13,7 +13,7 @@
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h2 class=\"h1\">{{ collection.title }}</h2>\n</div>\n{% if collection.handle == 'idee-regalo-regali-per-lei' %}\n  <div class=\"collection-intro-lei\">\n    <p class=\"collection-intro-lei__lead\">\n      Scopri idee regalo per lei originali, utili e di design,\n      selezionate per sorprendere con stile in ogni occasione.\n    </p>\n\n    <h5 class=\"collection-intro-lei__trust\" aria-label=\"Servizi disponibili\">\n      <span>✔️ Confezione regalo disponibile. </span>\n      <span>✔️ Spedizione gratuita da 79€.</span>\n      <span>✔️ Ritiro gratuito in negozio.</span>✔️\n      <a href=\"https://wa.me/390733810100\">Assistenza WhatsApp</a>\n    </h5> \n   </div>\n  </div>\n{% endif %}\n</section>",
+        "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h2 class=\"h1\">{{ collection.title }}</h2>\n</div>\n{% if collection.handle == 'idee-regalo-regali-per-lei' %}\n  <div class=\"collection-intro-lei\">\n    <p class=\"collection-intro-lei__lead\">\n      Scopri idee regalo per lei originali, utili e di design,\n      selezionate per sorprendere con stile in ogni occasione.\n    </p>\n\n    <h5 class=\"collection-intro-lei__trust\" aria-label=\"Servizi disponibili\">\n      <span>✔️ Confezione regalo disponibile. </span> </br>\n      <span>✔️ Spedizione gratuita da 79€.</span></br>\n      <span>✔️ Ritiro gratuito in negozio.</span></br>✔️\n      <a href=\"https://wa.me/390733810100\">Assistenza WhatsApp</a>\n    </h5> \n   </div>\n  </div>\n{% endif %}\n</section>",
         "color_scheme": "scheme-1",
         "padding_top": 20,
         "padding_bottom": 0
@@ -797,6 +797,16 @@
             "page": "",
             "liquid_content": ""
           }
+        },
+        "collapsible_row_3pjY8J": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Posso chiedere un consiglio prima di scegliere il regalo?",
+            "icon": "heart",
+            "row_content": "<p><strong>Sì</strong>. Puoi contattarci su <a href=\"https://wa.me/390733810100\" title=\"https://wa.me/390733810100\"><strong>WhatsApp</strong></a> indicando occasione, budget e stile della persona: ti aiuteremo a individuare le proposte più adatte.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
         }
       },
       "block_order": [
@@ -805,7 +815,8 @@
         "collapsible_row_c4F6hY",
         "collapsible_row_6df7t3",
         "collapsible_row_dgPCjx",
-        "collapsible_row_9MRDUT"
+        "collapsible_row_9MRDUT",
+        "collapsible_row_3pjY8J"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
