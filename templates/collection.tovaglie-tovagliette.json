@@ -58,6 +58,15 @@
           "type": "column",
           "settings": {
             "title": "",
+            "text": "<p>Abbiamo scelto <strong>tovaglie, tovagliette e sottopiatti </strong>che permettono di comporre tavole diverse:<strong> quotidiane, colorate, eleganti o scenografiche</strong>. Nella selezione convivono tessili artigianali, proposte decorative Bitossi Home, pezzi iconici Seletti e soluzioni più versatili per la tavola di tutti i giorni.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_8MFqEG": {
+          "type": "column",
+          "settings": {
+            "title": "",
             "text": "",
             "link_label": "",
             "link": ""
@@ -65,7 +74,8 @@
         }
       },
       "block_order": [
-        "column_Q3cHjM"
+        "column_Q3cHjM",
+        "column_8MFqEG"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -82,6 +92,50 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_NVqE4g": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_JqLgJg": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Come scegliere tra tovaglia, tovaglietta e sottopiatto?</strong>",
+            "text": "<ul><li>Le <strong>tovaglie</strong> <strong>valorizzano</strong> l’intera superficie del <strong>tavolo, </strong>creando una base <strong>elegante </strong>e coordinata.</li><li>Le <strong>tovagliette definiscono </strong>il <strong>posto</strong> <strong>singolo</strong>, aggiungendo un tocco <strong>pratico</strong>, decorativo e personale.</li><li><strong>I sottopiatti incorniciano il piatto </strong>principale, creando una mise en place più ordinata, <strong>raffinata </strong>e curata.</li></ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_9Vw8Yt": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_JqLgJg",
+        "column_9Vw8Yt"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
         "padding_bottom": 0
       }
     },
@@ -417,6 +471,7 @@
     "custom_liquid_LepCX8",
     "product-grid",
     "multicolumn_KWHCjy",
+    "multicolumn_NVqE4g",
     "image_with_text_jXdDJq",
     "blocks_UrQBnC",
     "image_with_text_gYmdLm",
