@@ -54,15 +54,6 @@
     "multicolumn_KWHCjy": {
       "type": "multicolumn",
       "blocks": {
-        "column_Q3cHjM": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Abbiamo scelto <strong>tovaglie, tovagliette e sottopiatti </strong>che permettono di comporre tavole diverse:<strong> quotidiane, colorate, eleganti o scenografiche</strong>. Nella selezione convivono tessili artigianali, proposte decorative Bitossi Home, pezzi iconici Seletti e soluzioni più versatili per la tavola di tutti i giorni.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_8MFqEG": {
           "type": "column",
           "settings": {
@@ -71,11 +62,20 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_Q3cHjM": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><strong>Le tovaglie, le tovagliette e i sottopiatti </strong>aiutano a definire subito il carattere della tavola. Per una <strong>colazione</strong> informale puoi scegliere una <strong>tovaglietta </strong>pratica e colorata; per una <strong>cena </strong>più curata, invece, i <strong>sottopiatti </strong>originali aggiungono profondità, ordine e un tocco decorativo alla mise en place.</p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "column_Q3cHjM",
-        "column_8MFqEG"
+        "column_8MFqEG",
+        "column_Q3cHjM"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -145,7 +145,7 @@
         "text_LBjDyp": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Le tovaglie, le tovagliette e i sottopiatti </strong>aiutano a definire subito il carattere della tavola. Per una <strong>colazione</strong> informale puoi scegliere una <strong>tovaglietta </strong>pratica e colorata; per una <strong>cena </strong>più curata, invece, i <strong>sottopiatti </strong>originali aggiungono profondità, ordine e un tocco decorativo alla mise en place.</p><h2>Come scegliere tovagliette e sottopiatti</h2><p><strong>La scelta dipende dall’uso e dallo stile della tavola.</strong> Le <strong>tovagliette </strong>sono ideali per apparecchiare in modo <strong>rapido</strong>, proteggere il piano e dare personalità anche ai pasti quotidiani. I <strong>sottopiatti</strong>, invece, sono perfetti quando vuoi creare una tavola più <strong>elegante</strong>, valorizzare i piatti e costruire un abbinamento più scenografico.</p>",
+            "text": "<h2>Come scegliere tovagliette e sottopiatti</h2><p><strong>La scelta dipende dall’uso e dallo stile della tavola.</strong> Le <strong>tovagliette </strong>sono ideali per apparecchiare in modo <strong>rapido</strong>, proteggere il piano e dare personalità anche ai pasti quotidiani. I <strong>sottopiatti</strong>, invece, sono perfetti quando vuoi creare una tavola più <strong>elegante</strong>, valorizzare i piatti e costruire un abbinamento più scenografico.</p><p>Abbiamo selezionato <strong>tovaglie, tovagliette e sottopiatti </strong>che permettono di comporre tavole diverse:<strong> quotidiane, colorate, eleganti o scenografiche</strong>. Nella selezione convivono tessili artigianali, proposte decorative Bitossi Home, pezzi iconici Seletti e soluzioni più versatili per la tavola di tutti i giorni.</p>",
             "text_style": "body"
           }
         },
