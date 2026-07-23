@@ -101,8 +101,8 @@
         "column_JqLgJg": {
           "type": "column",
           "settings": {
-            "title": "<strong>Come scegliere tra tovaglia, tovaglietta e sottopiatto?</strong>",
-            "text": "<ul><li>Le <strong>tovaglie</strong> <strong>valorizzano</strong> l’intera superficie del <strong>tavolo, </strong>creando una base <strong>elegante </strong>e coordinata.</li><li>Le <strong>tovagliette definiscono </strong>il <strong>posto</strong> <strong>singolo</strong>, aggiungendo un tocco <strong>pratico</strong>, decorativo e personale.</li><li><strong>I sottopiatti incorniciano il piatto </strong>principale, creando una mise en place più ordinata, <strong>raffinata </strong>e curata.</li></ul>",
+            "title": "<strong>Scopri la nostra selezione e scegli la base giusta per la tua tavola.</strong>",
+            "text": "<p><strong>Tovaglie, tovagliette e sottopiatti</strong> sono elementi <strong>complementari </strong>della mise en place: la tovaglia veste l’intero tavolo, la tovaglietta definisce il posto singolo e il sottopiatto valorizza il piatto creando un effetto più ordinato e scenografico.</p>",
             "link_label": "",
             "link": ""
           }
@@ -416,6 +416,128 @@
         "padding_bottom": 32
       }
     },
+    "multicolumn_WztfTK": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Keqdar": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Come scegliere tra tovaglia, tovaglietta e sottopiatto?</strong>",
+            "text": "<ul><li></li></ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_9aPDgG": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Keqdar",
+        "column_9aPDgG"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "collapsible_content_yaLqnT": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_JAaih3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Come scegliere tra tovaglia, tovaglietta e sottopiatto?",
+            "icon": "check_mark",
+            "row_content": "<p>Le <strong>tovaglie</strong> <strong>valorizzano</strong> l’intera superficie del <strong>tavolo, </strong>creando una base <strong>elegante </strong>e coordinata.</p><p>Le <strong>tovagliette definiscono </strong>il <strong>posto</strong> <strong>singolo</strong>, aggiungendo un tocco <strong>pratico</strong>, decorativo e personale.</p><p><strong>I sottopiatti incorniciano il piatto </strong>principale, creando una mise en place più ordinata, <strong>raffinata </strong>e curata.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_fjgchw": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Come scegliere i piatti da tavola?",
+            "icon": "check_mark",
+            "row_content": "<p>Per scegliere i piatti da tavola <strong>considera l'uso che ne farai,</strong> lo stile della casa e il tipo di apparecchiatura che vuoi creare. <strong>Per tutti i giorni</strong> sono ideali piatti <strong>resistenti </strong>e facili da abbinare; per una <strong>tavola più scenografica </strong>puoi scegliere piatti <strong>decorati, colorati o con forme particolari.</strong></p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_3hViA6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Meglio un servizio coordinato o piatti diversi tra loro?",
+            "icon": "check_mark",
+            "row_content": "<p>Dipende dallo stile che vuoi ottenere. Un <strong>servizio coordinato crea una tavola ordinata ed elegante</strong>, mentre<strong> piatti diversi tra loro permettono una mise en place più creativa e personale</strong>. Puoi anche partire da una base neutra e aggiungere alcuni piatti decorativi o colorati.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_c9VtJt": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I piatti da tavola sono una buona idea regalo?",
+            "icon": "check_mark",
+            "row_content": "<p><strong>Si,</strong> i piatti da tavola sono una buona idea regalo perchè sono utili, durano nel tempo e possono avere un forte valore estetico. Un set di piatti, un piatto decorativo o un servizio <strong>originale </strong>sono adatti <strong>per nuove case, matrimoni, compleanni e occasioni speciali.</strong></p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_3Rrffb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quali brand trovi nella selezione Piatti da Tavola?",
+            "icon": "check_mark",
+            "row_content": "<p>Nella selezione <strong>Piatti </strong>da Tavola puoi trovare brand come <strong>Bitossi Home, Brandani, KnIndustrie, Seletti </strong>e altri marchi scelti per qualità, estetica e funzionalità, in linea con lo stile di Unico & Multiplo.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_JAaih3",
+        "collapsible_row_fjgchw",
+        "collapsible_row_3hViA6",
+        "collapsible_row_c9VtJt",
+        "collapsible_row_3Rrffb"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "Una guida rapida per scegliere tovaglie, tovagliette e sottopiatti dal mondo Unico & Multiplo.",
+        "heading": "FAQ - Domande frequenti su Tovaglie, Tovagliette e Sottopiatti",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "",
+        "container_color_scheme": "scheme-2",
+        "open_first_collapsible_row": true,
+        "image": "shopify://shop_images/bitossi-home-torchon-porta-tovaglioli-7.jpg",
+        "image_ratio": "adapt",
+        "desktop_layout": "image_first",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner_rrDJXp": {
       "type": "image-banner",
       "blocks": {
@@ -477,6 +599,8 @@
     "image_with_text_gYmdLm",
     "multicolumn_wDLcLp",
     "multicolumn_fteU4T",
+    "multicolumn_WztfTK",
+    "collapsible_content_yaLqnT",
     "image_banner_rrDJXp"
   ]
 }
