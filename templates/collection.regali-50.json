@@ -560,8 +560,8 @@
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
-        "caption": "FAQ idee regalo per lei",
-        "heading": "Consigli e spunti per scegliere il regalo perfetto per lei",
+        "caption": "FAQ idee regalo Sotto i 50 €",
+        "heading": "Consigli e spunti per scegliere il regalo economico perfetto",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "row",
