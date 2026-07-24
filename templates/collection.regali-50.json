@@ -486,6 +486,95 @@
         "padding_bottom": 16
       }
     },
+    "collapsible_content_UdMdzk": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_qeUP7q": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Cosa regalare con meno di 50 euro?",
+            "icon": "heart",
+            "row_content": "<p>Con meno di 50€ puoi scegliere tazze, candele, album fotografici, bicchieri, <strong>accessori per la casa, piccoli oggetti di design e pensieri lifestyle utili </strong>o originali.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_LMP7Hm": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quali sono i regali economici ma d’effetto?",
+            "icon": "heart",
+            "row_content": "<p>Sono regali dal prezzo contenuto che possiedono un <strong>dettaglio memorabile</strong>, come una forma particolare, un colore, una funzione utile oppure un design<strong> originale.</strong><br/></p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_LBAHmV": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Che regalo fare a un’amica spendendo poco?",
+            "icon": "heart",
+            "row_content": "<p>Per un’amica funzionano bene c<strong>andele, tazze, piccoli accessori per la casa, album fotografici e oggetti decorativi </strong>scelti in base ai suoi gusti e alle sue abitudini.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_9Xhqkh": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Un regalo sotto i 50€ può essere elegante?",
+            "icon": "heart",
+            "row_content": "<p><strong>Sì</strong>. È preferibile scegliere un oggetto <strong>piccolo </strong>ma<strong> ben fatto</strong>, utile o originale, piuttosto che un regalo più grande ma impersonale.<br/></p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_YERHLQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Posso aggiungere una confezione regalo alle idee regalo sotto i 50€?",
+            "icon": "heart",
+            "row_content": "<p><strong>Sì, puoi richiedere la confezione regalo </strong>per rendere le tue idee regalo economiche ancora più curate e pronte da consegnare. Anche un regalo originale sotto i 50€ può fare una splendida figura grazie a un packaging elegante e, dove previsto, a un messaggio personalizzato. Puoi inoltre scegliere la spedizione oppure il ritiro gratuito in negozio e contattare l’<a href=\"https://wa.me/390733810100\" title=\"https://wa.me/390733810100\"><strong>assistenza WhatsApp</strong></a> per un consiglio.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_9XdkKa": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Posso chiedere un consiglio prima di scegliere il regalo?",
+            "icon": "heart",
+            "row_content": "<p><strong>Sì</strong>. Puoi contattarci su <a href=\"https://wa.me/390733810100\" title=\"https://wa.me/390733810100\"><strong>WhatsApp</strong></a> indicando occasione, budget e stile della persona: ti aiuteremo a individuare le proposte più adatte.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_qeUP7q",
+        "collapsible_row_LMP7Hm",
+        "collapsible_row_LBAHmV",
+        "collapsible_row_9Xhqkh",
+        "collapsible_row_YERHLQ",
+        "collapsible_row_9XdkKa"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "FAQ idee regalo per lei",
+        "heading": "Consigli e spunti per scegliere il regalo perfetto per lei",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": true,
+        "image": "shopify://shop_images/knindustrie-kn_gifts-natale.webp",
+        "image_ratio": "large",
+        "desktop_layout": "image_first",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner_iRzdG6": {
       "type": "image-banner",
       "blocks": {
@@ -547,6 +636,7 @@
     "multicolumn_NT6a7n",
     "multicolumn_8Dt9UY",
     "multicolumn_wDET3k",
+    "collapsible_content_UdMdzk",
     "image_banner_iRzdG6"
   ]
 }
