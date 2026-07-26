@@ -14,3 +14,9 @@ node_modules
 # Local development #
 #####################
 .env
+
+# Screenshots from `npm run shot` — scratch output, never committed.
+.screenshots/
+
+# Per-developer Claude Code overrides. `.claude/settings.json` IS committed.
+.claude/settings.local.json
