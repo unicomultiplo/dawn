@@ -1,0 +1,8 @@
+# Local tooling — never upload to the store.
+node_modules/
+package.json
+package-lock.json
+shopify.theme.toml
+.env
+.env.example
+CLAUDE.md

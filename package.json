@@ -1,0 +1,26 @@
+{
+  "name": "unicoemultiplo-theme",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Unico e Multiplo Shopify theme (Dawn-based) — local development tooling",
+  "engines": {
+    "node": ">=20.10"
+  },
+  "scripts": {
+    "shopify": "node --env-file-if-exists=.env node_modules/@shopify/cli/bin/run.js",
+    "dev": "npm run shopify -- theme dev -e production",
+    "dev:sync": "npm run shopify -- theme dev -e production --theme-editor-sync",
+    "dev:open": "npm run shopify -- theme dev -e production --open",
+    "preview": "npm run shopify -- theme share -e production",
+    "push": "npm run shopify -- theme push -e production --unpublished",
+    "pull": "npm run shopify -- theme pull -e production",
+    "pull:settings": "npm run shopify -- theme pull -e production --only config --only templates",
+    "check": "npm run shopify -- theme check",
+    "check:fix": "npm run shopify -- theme check --auto-correct",
+    "themes": "npm run shopify -- theme list -e production",
+    "logout": "npm run shopify -- auth logout"
+  },
+  "devDependencies": {
+    "@shopify/cli": "^3.94.3"
+  }
+}
