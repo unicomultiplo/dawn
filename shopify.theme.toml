@@ -1,0 +1,11 @@
+# Shopify CLI environments.
+#
+# Every `npm run` theme script passes `-e production`, so the store never has to
+# be typed by hand. Add more environments here if a dev/sandbox store is ever
+# set up, then run e.g. `npm run shopify -- theme dev -e sandbox`.
+
+[environments.production]
+store = "a1cd90-81.myshopify.com"
+
+# [environments.sandbox]
+# store = "your-dev-store.myshopify.com"
