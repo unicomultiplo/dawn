@@ -308,6 +308,31 @@ Encoded in `package.json` (commit `70703b36`):
 
 **Add a suppression only with a comment saying why.** That precedent is the point.
 
+### D14 — `upstream` is fetch-only; PRs go to `unicomultiplo/dawn`
+
+This repo is a **fork**. `upstream` (Shopify/dawn) exists solely to fetch and
+diff Dawn releases ([D1](#d1--track-dawn-as-a-remote-sync-by-squash-at-release-boundaries)).
+Nothing may be pushed or proposed to it.
+
+On 2026-07-26 a PR was opened against the public Shopify/dawn by accident: `gh`
+had no default repo configured, and with two remotes present it resolved to
+upstream. Four layers now prevent a repeat:
+
+| Layer | Covers | Where |
+| --- | --- | --- |
+| `PreToolUse` hook denies `gh pr create` without `--repo unicomultiplo/dawn`, any gh write aimed at Shopify/dawn, and `git push upstream` | Claude Code sessions | `.claude/hooks/guard-upstream.sh` (committed) |
+| `gh repo set-default unicomultiplo/dawn` | anyone using `gh` in this clone | `.git/config` — **not committed** |
+| `upstream` push URL set to a bogus value | any `git push upstream` in this clone | `.git/config` — **not committed** |
+| This rule + [AGENTS.md](../AGENTS.md#rules) | everyone reading | committed |
+
+Because the middle two live in `.git/config`, which git does not share, every
+clone must run them. `npm install` does it automatically via the `prepare`
+script; `npm run setup:remotes` re-applies them by hand. Both are idempotent.
+
+**Read-only queries against upstream stay allowed** — `git fetch upstream`,
+`git merge upstream/main`, `gh pr list --repo Shopify/dawn`. Only writes are
+blocked, because Dawn syncs depend on fetching.
+
 ---
 
 ## 3. Known drift & cleanup backlog

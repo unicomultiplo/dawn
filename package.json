@@ -7,6 +7,8 @@
     "node": ">=20.10"
   },
   "scripts": {
+    "prepare": "node scripts/setup-remotes.mjs",
+    "setup:remotes": "node scripts/setup-remotes.mjs",
     "shopify": "node --env-file-if-exists=.env node_modules/@shopify/cli/bin/run.js",
     "dev": "npm run shopify -- theme dev -e production",
     "dev:sync": "npm run shopify -- theme dev -e production --theme-editor-sync",

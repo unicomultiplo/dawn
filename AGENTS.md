@@ -30,6 +30,19 @@ Three docs, in the order you'll want them:
 
 ## Rules
 
+**PRs go to `unicomultiplo/dawn`, never to `Shopify/dawn`.** This repo is a fork;
+`upstream` is fetch-only. Always pass `--repo` explicitly — with two remotes,
+`gh` can resolve an omitted default to the public upstream, and once did:
+
+```sh
+gh pr create --repo unicomultiplo/dawn --base main --head <branch> ...
+```
+
+A committed `PreToolUse` hook blocks the unsafe forms, and `npm install` pins
+`gh`'s default repo and disables pushing to `upstream`. Fetching and diffing
+upstream stays allowed — Dawn syncs need it. See
+[ARCHITECTURE.md D14](docs/ARCHITECTURE.md#d14--upstream-is-fetch-only-prs-go-to-unicomultiplodawn).
+
 **Never publish to live.** No npm script does, deliberately. Publishing happens in
 the Shopify admin, or via an explicit
 `npm run shopify -- theme push -e production --theme <id>` — and only after
