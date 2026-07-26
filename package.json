@@ -7,6 +7,8 @@
     "node": ">=20.10"
   },
   "scripts": {
+    "prepare": "node scripts/setup-remotes.mjs",
+    "setup:remotes": "node scripts/setup-remotes.mjs",
     "shopify": "node --env-file-if-exists=.env node_modules/@shopify/cli/bin/run.js",
     "dev": "npm run shopify -- theme dev -e production",
     "dev:sync": "npm run shopify -- theme dev -e production --theme-editor-sync",
@@ -18,9 +20,14 @@
     "check": "npm run shopify -- theme check",
     "check:fix": "npm run shopify -- theme check --auto-correct",
     "themes": "npm run shopify -- theme list -e production",
-    "logout": "npm run shopify -- auth logout"
+    "logout": "npm run shopify -- auth logout",
+    "browser": "agent-browser --session-name uem",
+    "browser:setup": "agent-browser install",
+    "browser:doctor": "agent-browser doctor",
+    "shot": "node scripts/shot.mjs"
   },
   "devDependencies": {
-    "@shopify/cli": "^3.94.3"
+    "@shopify/cli": "^3.94.3",
+    "agent-browser": "^0.27.0"
   }
 }

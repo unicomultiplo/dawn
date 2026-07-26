@@ -1,8 +1,18 @@
 # Local tooling — never upload to the store.
-node_modules/
+#
+# Use `dir/*` rather than `dir/` — the CLI warns that a bare trailing slash
+# matches unreliably.
+node_modules/*
 package.json
 package-lock.json
 shopify.theme.toml
 .env
 .env.example
+
+# Docs and agent tooling.
 CLAUDE.md
+AGENTS.md
+docs/*
+scripts/*
+.claude/*
+.screenshots/*
