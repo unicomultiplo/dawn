@@ -22,7 +22,7 @@ if (!customElements.get('product-info')) {
 
         this.onVariantChangeUnsubscriber = subscribe(
           PUB_SUB_EVENTS.optionValueSelectionChange,
-          this.handleOptionValueChange.bind(this),
+          this.handleOptionValueChange.bind(this)
         );
 
         this.initQuantityHandlers();
@@ -52,9 +52,7 @@ if (!customElements.get('product-info')) {
 
       initializeProductSwapUtility() {
         this.preProcessHtmlCallbacks.push((html) =>
-          html
-            .querySelectorAll('.scroll-trigger')
-            .forEach((element) => element.classList.add('scroll-trigger--cancel')),
+          html.querySelectorAll('.scroll-trigger').forEach((element) => element.classList.add('scroll-trigger--cancel'))
         );
         this.postProcessHtmlCallbacks.push((newNode) => {
           window?.Shopify?.PaymentButton?.init();
@@ -92,7 +90,9 @@ if (!customElements.get('product-info')) {
           this.productModal?.remove();
 
           const selector = updateFullPage ? "product-info[id^='MainProduct']" : 'product-info';
-          const variant = this.getSelectedVariant(html.querySelector(selector));
+          const sourceProductInfo = html.querySelector(selector);
+          const variant = this.getSelectedVariant(sourceProductInfo);
+          this.variantSelectors?.resolvePendingSelectPromise(variant, this.getVariantSelects(sourceProductInfo));
           this.updateURL(productUrl, variant?.id);
 
           if (updateFullPage) {
@@ -102,14 +102,14 @@ if (!customElements.get('product-info')) {
               document.querySelector('main'),
               html.querySelector('main'),
               this.preProcessHtmlCallbacks,
-              this.postProcessHtmlCallbacks,
+              this.postProcessHtmlCallbacks
             );
           } else {
             HTMLUpdateUtility.viewTransition(
               this,
               html.querySelector('product-info'),
               this.preProcessHtmlCallbacks,
-              this.postProcessHtmlCallbacks,
+              this.postProcessHtmlCallbacks
             );
           }
         };
@@ -129,8 +129,6 @@ if (!customElements.get('product-info')) {
             this.updateDynamic(`qty-disclaimer-${this.dataset.section}`, html);
 
             callback(html);
-          })
-          .then(() => {
             // set focus to last clicked option value
             document.querySelector(`#${targetId}`)?.focus();
           })
@@ -140,6 +138,7 @@ if (!customElements.get('product-info')) {
             } else {
               console.error(error);
             }
+            this.variantSelectors?.rejectPendingSelectPromise(error);
           });
       }
 
@@ -150,9 +149,20 @@ if (!customElements.get('product-info')) {
         if (source && destination) destination.innerHTML = source.innerHTML;
       }
 
+      parseJsonScript(parent, selector) {
+        try {
+          return JSON.parse(parent?.querySelector(selector)?.textContent);
+        } catch {
+          return null;
+        }
+      }
+
+      getVariantSelects(queryRoot) {
+        return queryRoot?.querySelector('variant-selects');
+      }
+
       getSelectedVariant(productInfoNode) {
-        const selectedVariant = productInfoNode.querySelector('variant-selects [data-selected-variant]')?.innerHTML;
-        return !!selectedVariant ? JSON.parse(selectedVariant) : null;
+        return this.parseJsonScript(this.getVariantSelects(productInfoNode), '[data-selected-variant]');
       }
 
       buildRequestUrlWithParams(url, optionValues, shouldFetchFullPage = false) {
@@ -176,7 +186,11 @@ if (!customElements.get('product-info')) {
 
       handleUpdateProductInfo(productUrl) {
         return (html) => {
+          const sourceVariantSelects = this.getVariantSelects(html);
           const variant = this.getSelectedVariant(html);
+
+          // Resolve product:select promise before updateOptionValues replaces the variant-selects DOM element
+          this.variantSelectors?.resolvePendingSelectPromise(variant, sourceVariantSelects);
 
           this.pickupAvailability?.update(variant);
           this.updateOptionValues(html);
@@ -211,7 +225,7 @@ if (!customElements.get('product-info')) {
 
           this.productForm?.toggleSubmitButton(
             html.getElementById(`ProductSubmitButton-${this.sectionId}`)?.hasAttribute('disabled') ?? true,
-            window.variantStrings.soldOut,
+            window.variantStrings.soldOut
           );
 
           publish(PUB_SUB_EVENTS.variantChange, {
@@ -226,7 +240,7 @@ if (!customElements.get('product-info')) {
 
       updateVariantInputs(variantId) {
         this.querySelectorAll(
-          `#product-form-${this.dataset.section}, #product-form-installment-${this.dataset.section}`,
+          `#product-form-${this.dataset.section}, #product-form-installment-${this.dataset.section}`
         ).forEach((productForm) => {
           const input = productForm.querySelector('input[name="id"]');
           input.value = variantId ?? '';
@@ -236,7 +250,7 @@ if (!customElements.get('product-info')) {
 
       updateURL(url, variantId) {
         this.querySelector('share-button')?.updateUrl(
-          `${window.shopUrl}${url}${variantId ? `?variant=${variantId}` : ''}`,
+          `${window.shopUrl}${url}${variantId ? `?variant=${variantId}` : ''}`
         );
 
         if (this.dataset.updateUrl === 'false') return;
@@ -263,7 +277,7 @@ if (!customElements.get('product-info')) {
           const mediaGallerySourceItems = Array.from(mediaGallerySource.querySelectorAll('li[data-media-id]'));
           const sourceSet = new Set(mediaGallerySourceItems.map((item) => item.dataset.mediaId));
           const sourceMap = new Map(
-            mediaGallerySourceItems.map((item, index) => [item.dataset.mediaId, { item, index }]),
+            mediaGallerySourceItems.map((item, index) => [item.dataset.mediaId, { item, index }])
           );
           return [mediaGallerySourceItems, sourceSet, sourceMap];
         };
@@ -271,7 +285,7 @@ if (!customElements.get('product-info')) {
         if (mediaGallerySource && mediaGalleryDestination) {
           let [mediaGallerySourceItems, sourceSet, sourceMap] = refreshSourceData();
           const mediaGalleryDestinationItems = Array.from(
-            mediaGalleryDestination.querySelectorAll('li[data-media-id]'),
+            mediaGalleryDestination.querySelectorAll('li[data-media-id]')
           );
           const destinationSet = new Set(mediaGalleryDestinationItems.map(({ dataset }) => dataset.mediaId));
           let shouldRefresh = false;
@@ -302,7 +316,7 @@ if (!customElements.get('product-info')) {
             if (sourceData && sourceData.index !== destinationIndex) {
               mediaGallerySource.insertBefore(
                 sourceData.item,
-                mediaGallerySource.querySelector(`li:nth-of-type(${destinationIndex + 1})`),
+                mediaGallerySource.querySelector(`li:nth-of-type(${destinationIndex + 1})`)
               );
 
               // refresh source now that it has been modified
@@ -314,7 +328,7 @@ if (!customElements.get('product-info')) {
         // set featured media as active in the media gallery
         this.querySelector(`media-gallery`)?.setActiveMedia?.(
           `${this.dataset.section}-${variantFeaturedMediaId}`,
-          true,
+          true
         );
 
         // update media modal
@@ -353,7 +367,7 @@ if (!customElements.get('product-info')) {
         if (!currentVariantId) return;
 
         this.querySelector('.quantity__rules-cart .loading__spinner').classList.remove('hidden');
-        fetch(`${this.dataset.url}?variant=${currentVariantId}&section_id=${this.dataset.section}`)
+        return fetch(`${this.dataset.url}?variant=${currentVariantId}&section_id=${this.dataset.section}`)
           .then((response) => response.text())
           .then((responseText) => {
             const html = new DOMParser().parseFromString(responseText, 'text/html');
@@ -385,6 +399,19 @@ if (!customElements.get('product-info')) {
             }
           } else {
             current.innerHTML = updated.innerHTML;
+            if (selector === '.quantity__label') {
+              const updatedAriaLabelledBy = updated.getAttribute('aria-labelledby');
+              if (updatedAriaLabelledBy) {
+                current.setAttribute('aria-labelledby', updatedAriaLabelledBy);
+                // Update the referenced visually hidden element
+                const labelId = updatedAriaLabelledBy;
+                const currentHiddenLabel = document.getElementById(labelId);
+                const updatedHiddenLabel = html.getElementById(labelId);
+                if (currentHiddenLabel && updatedHiddenLabel) {
+                  currentHiddenLabel.textContent = updatedHiddenLabel.textContent;
+                }
+              }
+            }
           }
         }
       }
@@ -408,7 +435,7 @@ if (!customElements.get('product-info')) {
       get relatedProducts() {
         const relatedProductsSectionId = SectionId.getIdForSection(
           SectionId.parseId(this.sectionId),
-          'related-products',
+          'related-products'
         );
         return document.querySelector(`product-recommendations[data-section-id^="${relatedProductsSectionId}"]`);
       }
@@ -416,7 +443,7 @@ if (!customElements.get('product-info')) {
       get quickOrderList() {
         const quickOrderListSectionId = SectionId.getIdForSection(
           SectionId.parseId(this.sectionId),
-          'quick_order_list',
+          'quick_order_list'
         );
         return document.querySelector(`quick-order-list[data-id^="${quickOrderListSectionId}"]`);
       }
@@ -424,6 +451,6 @@ if (!customElements.get('product-info')) {
       get sectionId() {
         return this.dataset.originalSection || this.dataset.section;
       }
-    },
+    }
   );
 }
