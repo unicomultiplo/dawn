@@ -26,6 +26,7 @@ class CartDrawer extends HTMLElement {
   }
 
   open(triggeredBy) {
+    if (this.classList.contains('active')) return;
     if (triggeredBy) this.setActiveElement(triggeredBy);
     const cartDrawerNote = this.querySelector('[id^="Details-"] summary');
     if (cartDrawerNote && !cartDrawerNote.hasAttribute('role')) this.setSummaryAccessibility(cartDrawerNote);
@@ -47,6 +48,11 @@ class CartDrawer extends HTMLElement {
     );
 
     document.body.classList.add('overflow-hidden');
+
+    // cart-drawer-items is a CartItems subclass that extends createViewEventElement.
+    // Its `view-event-trigger="manual"` skips auto-dispatch on connect; we fire
+    // it here when the drawer opens, with `context: 'dialog'` from the payload attribute.
+    this.querySelector('cart-drawer-items')?.dispatchViewEvent();
   }
 
   close() {

@@ -287,6 +287,7 @@ function debounce(fn, wait) {
   };
 }
 
+
 function throttle(fn, delay) {
   let lastCall = 0;
   return function (...args) {
@@ -711,6 +712,13 @@ class DeferredMedia extends HTMLElement {
         // force autoplay for safari
         deferredElement.play();
       }
+
+      // Workaround for safari iframe bug
+      const formerStyle = deferredElement.getAttribute('style');
+      deferredElement.setAttribute('style', 'display: block;');
+      window.setTimeout(() => {
+        deferredElement.setAttribute('style', formerStyle);
+      }, 0);
     }
   }
 }
@@ -1062,6 +1070,8 @@ class VariantSelects extends HTMLElement {
       const target = this.getInputForEventTarget(event.target);
       this.updateSelectionMetadata(event);
 
+      this.dispatchProductSelectEvent();
+
       publish(PUB_SUB_EVENTS.optionValueSelectionChange, {
         data: {
           event,
@@ -1070,6 +1080,69 @@ class VariantSelects extends HTMLElement {
         },
       });
     });
+  }
+
+  getAllSelectedOptions() {
+    const options = [];
+    this.querySelectorAll('fieldset, .product-form__input--dropdown').forEach((group) => {
+      const checked = group.querySelector('input:checked') || group.querySelector('select option[selected]');
+      if (checked) {
+        options.push({ name: checked.dataset.optionName || '', value: checked.value });
+      }
+    });
+    return options;
+  }
+
+  dispatchProductSelectEvent() {
+    const { ProductSelectEvent } = window.StandardEvents || {};
+    if (!ProductSelectEvent) return;
+
+    const deferred = ProductSelectEvent.createPromise();
+    this.pendingSelectPromise = deferred;
+
+    this.dispatchEvent(
+      new ProductSelectEvent({
+        product: {
+          id: this.dataset.productId,
+          title: this.dataset.productTitle,
+          handle: this.dataset.productHandle,
+        },
+        selectedOptions: this.getAllSelectedOptions(),
+        promise: deferred.promise,
+      })
+    );
+  }
+
+  takePendingSelectPromise() {
+    const deferred = this.pendingSelectPromise;
+    this.pendingSelectPromise = null;
+    return deferred;
+  }
+
+  resolvePendingSelectPromise(variant, sourceVariantSelects = this) {
+    const deferred = this.takePendingSelectPromise();
+    if (!deferred) return;
+
+    if (variant) {
+      deferred.resolve({
+        variant: {
+          id: variant.id,
+          title: variant.title,
+          availableForSale: variant.available,
+          price: {
+            amount: sourceVariantSelects?.dataset.selectedPriceAmount,
+            currencyCode: sourceVariantSelects?.dataset.currencyCode,
+          },
+          selectedOptions: this.getAllSelectedOptions(),
+        },
+      });
+    } else {
+      deferred.resolve({ variant: null });
+    }
+  }
+
+  rejectPendingSelectPromise(error) {
+    this.takePendingSelectPromise()?.reject(error);
   }
 
   updateSelectionMetadata({ target }) {
@@ -1190,15 +1263,18 @@ class AccountIcon extends HTMLElement {
 customElements.define('account-icon', AccountIcon);
 
 class BulkAdd extends HTMLElement {
+  static ASYNC_REQUEST_DELAY = 250;
+
   constructor() {
     super();
     this.queue = [];
-    this.requestStarted = false;
+    this.setRequestStarted(false);
     this.ids = [];
   }
 
   startQueue(id, quantity) {
     this.queue.push({ id, quantity });
+
     const interval = setInterval(() => {
       if (this.queue.length > 0) {
         if (!this.requestStarted) {
@@ -1207,18 +1283,90 @@ class BulkAdd extends HTMLElement {
       } else {
         clearInterval(interval);
       }
-    }, 250);
+    }, BulkAdd.ASYNC_REQUEST_DELAY);
   }
 
   sendRequest(queue) {
-    this.requestStarted = true;
+    this.setRequestStarted(true);
     const items = {};
+
     queue.forEach((queueItem) => {
       items[parseInt(queueItem.id)] = queueItem.quantity;
     });
     this.queue = this.queue.filter((queueElement) => !queue.includes(queueElement));
-    const quickBulkElement = this.closest('quick-order-list') || this.closest('quick-add-bulk');
-    quickBulkElement.updateMultipleQty(items);
+
+    this.updateMultipleQty(items);
+  }
+
+  setRequestStarted(requestStarted) {
+    this._requestStarted = requestStarted;
+  }
+
+  get requestStarted() {
+    return this._requestStarted;
+  }
+
+  getCartQuantityForLine(id) {
+    const input = this.querySelector(`#Quantity-${id}`);
+    return parseInt(input?.dataset.cartQuantity || input?.getAttribute('value') || '0', 10) || 0;
+  }
+
+  startCartLinesUpdate(items) {
+    const { CartLinesUpdateEvent } = window.StandardEvents || {};
+    if (!CartLinesUpdateEvent) return;
+
+    const linesByAction = Object.entries(items).reduce((groups, [variantId, quantity]) => {
+      const nextQuantity = parseInt(quantity, 10);
+      const currentQuantity = this.getCartQuantityForLine(variantId);
+
+      if (Number.isNaN(nextQuantity) || currentQuantity === nextQuantity) return groups;
+
+      const action = currentQuantity === 0 ? 'add' : nextQuantity === 0 ? 'remove' : 'update';
+      let line;
+      if (action === 'add') {
+        line = { merchandiseId: variantId, quantity: nextQuantity };
+      } else {
+        const lineKey = this.querySelector(`[data-quantity-variant-id="${variantId}"]`)?.dataset.quantityLineKey;
+        // No AJAX line key on the row — likely cached HTML rendered before this
+        // attribute landed. Skip rather than emit an event with id: ''.
+        if (!lineKey) return groups;
+        line = { id: lineKey, quantity: nextQuantity };
+      }
+
+      if (!groups[action]) groups[action] = [];
+      groups[action].push(line);
+      return groups;
+    }, {});
+
+    const deferreds = Object.entries(linesByAction).map(([action, lines]) => {
+      const deferred = CartLinesUpdateEvent.createPromise();
+      this.dispatchEvent(
+        new CartLinesUpdateEvent({
+          action,
+          context: 'product',
+          lines,
+          promise: deferred.promise,
+        })
+      );
+      return deferred;
+    });
+
+    return {
+      resolve: (parsedState) => {
+        const payload = { cart: CartLinesUpdateEvent.createCartFromAjaxResponse(parsedState) };
+        deferreds.forEach((deferred) => deferred.resolve(payload));
+      },
+      reject: (error) => {
+        deferreds.forEach((deferred) => deferred.reject(error));
+      },
+    };
+  }
+
+  dispatchCartErrorEvent(message, code) {
+    const { CartErrorEvent } = window.StandardEvents || {};
+    if (!CartErrorEvent) return;
+
+    this.dispatchEvent(new CartErrorEvent({ error: message, code }));
   }
 
   resetQuantityInput(id) {
@@ -1247,15 +1395,8 @@ class BulkAdd extends HTMLElement {
     } else {
       event.target.setCustomValidity('');
       event.target.reportValidity();
+      event.target.setAttribute('value', inputValue);
       this.startQueue(index, inputValue);
-    }
-  }
-
-  getSectionsUrl() {
-    if (window.pageNumber) {
-      return `${window.location.pathname}?page=${window.pageNumber}`;
-    } else {
-      return `${window.location.pathname}`;
     }
   }
 
@@ -1266,4 +1407,54 @@ class BulkAdd extends HTMLElement {
 
 if (!customElements.get('bulk-add')) {
   customElements.define('bulk-add', BulkAdd);
+}
+
+class CartPerformance {
+  static #metric_prefix = "cart-performance"
+
+  static createStartingMarker(benchmarkName) {
+    const metricName = `${CartPerformance.#metric_prefix}:${benchmarkName}`
+    return performance.mark(`${metricName}:start`);
+  }
+
+  static measureFromEvent(benchmarkName, event) {
+    const metricName = `${CartPerformance.#metric_prefix}:${benchmarkName}`
+    const startMarker = performance.mark(`${metricName}:start`, {
+      startTime: event.timeStamp
+    });
+
+    const endMarker = performance.mark(`${metricName}:end`);
+
+    performance.measure(
+      metricName,
+      `${metricName}:start`,
+      `${metricName}:end`
+    );
+  }
+
+  static measureFromMarker(benchmarkName, startMarker) {
+    const metricName = `${CartPerformance.#metric_prefix}:${benchmarkName}`
+    const endMarker = performance.mark(`${metricName}:end`);
+
+    performance.measure(
+      metricName,
+      startMarker.name,
+      `${metricName}:end`
+    );
+  }
+
+  static measure(benchmarkName, callback) {
+    const metricName = `${CartPerformance.#metric_prefix}:${benchmarkName}`
+    const startMarker = performance.mark(`${metricName}:start`);
+
+    callback();
+
+    const endMarker = performance.mark(`${metricName}:end`);
+
+    performance.measure(
+      metricName,
+      `${metricName}:start`,
+      `${metricName}:end`
+    );
+  }
 }
