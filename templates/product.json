@@ -190,9 +190,9 @@
         "constrain_to_viewport": true,
         "media_fit": "contain",
         "gallery_layout": "thumbnail_slider",
+        "mobile_thumbnails": "show",
         "media_position": "left",
         "image_zoom": "none",
-        "mobile_thumbnails": "show",
         "hide_variants": true,
         "enable_video_looping": false,
         "padding_top": 36,
@@ -252,12 +252,22 @@
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "section",
-        "color_scheme": "",
         "container_color_scheme": "",
+        "color_scheme": "",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_BRp6Nd": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<section class=\"page-width\">\n  <div id=\"smallest-collection-btn-{{ product.id }}\"></div>\n\n  <script>\n    (function() {\n      const collections = [\n        {% for col in product.collections %}\n          {\n            title: {{ col.title | json }},\n            url: {{ col.url | json }},\n            count: {{ col.products_count }}\n          }{% unless forloop.last %},{% endunless %}\n        {% endfor %}\n      ];\n\n      const smallest = collections.sort((a, b) => a.count - b.count)[0];\n\n      if (smallest) {\n        document.getElementById('smallest-collection-btn-{{ product.id }}').innerHTML =\n          '<a href=\"' + smallest.url + '\" class=\"button button--primary\">Scopri ' + smallest.title + '</a>';\n      }\n    })();\n  </script>\n</section>",
+        "color_scheme": "",
+        "padding_top": 40,
         "padding_bottom": 0
       }
     },
@@ -268,13 +278,13 @@
         "heading_size": "h2",
         "products_to_show": 10,
         "columns_desktop": 5,
+        "columns_mobile": "2",
         "color_scheme": "scheme-1",
         "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
-        "columns_mobile": "2",
         "padding_top": 40,
         "padding_bottom": 28
       }
@@ -284,6 +294,7 @@
     "main",
     "custom_liquid_q83gja",
     "collapsible_content_rDxxtT",
+    "custom_liquid_BRp6Nd",
     "related-products"
   ]
 }
