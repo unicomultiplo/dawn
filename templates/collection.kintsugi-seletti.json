@@ -34,17 +34,29 @@
         "button_Hj9gxj": {
           "type": "button",
           "settings": {
-            "button_label": "Piatti Hybrid",
-            "button_link": "shopify://collections/seletti-hybrid-piatti",
+            "button_label": "Piatti Kintsugi",
+            "button_link": "shopify://collections/seletti-catalogo-prodotti-seletti-kintsugi-piatti",
             "button_style_secondary": true,
-            "button_label_2": "Bicchieri Hybrid",
-            "button_link_2": "shopify://collections/seletti-catalogo-prodotti-seletti-hybrid-bicchieri",
+            "button_label_2": "Tazze Kintsugi",
+            "button_link_2": "shopify://collections/seletti-catalogo-prodotti-seletti-kintsugi-tazze",
             "button_style_secondary_2": true
+          }
+        },
+        "button_QE9Ai6": {
+          "type": "button",
+          "settings": {
+            "button_label": "Seletti + Marcantonio",
+            "button_link": "shopify://collections/seletti-catalogo-prodotti-marcantonio",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "button_Hj9gxj"
+        "button_Hj9gxj",
+        "button_QE9Ai6"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
