@@ -28,11 +28,40 @@
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
       }
     },
+    "rich_text_rEXHHf": {
+      "type": "rich-text",
+      "blocks": {
+        "button_Hj9gxj": {
+          "type": "button",
+          "settings": {
+            "button_label": "Piatti Hybrid",
+            "button_link": "shopify://collections/seletti-hybrid-piatti",
+            "button_style_secondary": false,
+            "button_label_2": "Bicchieri Hybrid",
+            "button_link_2": "shopify://collections/seletti-catalogo-prodotti-seletti-hybrid-bicchieri",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_Hj9gxj"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
         "products_per_page": 36,
         "columns_desktop": 4,
+        "columns_mobile": "2",
         "color_scheme": "scheme-1",
         "image_ratio": "square",
         "image_shape": "default",
@@ -43,7 +72,6 @@
         "enable_filtering": true,
         "filter_type": "drawer",
         "enable_sorting": true,
-        "columns_mobile": "2",
         "padding_top": 20,
         "padding_bottom": 36
       }
@@ -117,11 +145,11 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
+        "button_label": "",
+        "button_link": "",
         "columns_desktop": 5,
         "column_alignment": "center",
         "background_style": "none",
-        "button_label": "",
-        "button_link": "",
         "color_scheme": "scheme-2",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
@@ -172,11 +200,11 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "none",
-        "button_label": "",
-        "button_link": "",
         "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
@@ -226,11 +254,11 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "none",
-        "button_label": "",
-        "button_link": "",
         "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
@@ -242,6 +270,7 @@
   "order": [
     "custom_liquid_3dEadf",
     "banner",
+    "rich_text_rEXHHf",
     "product-grid",
     "multicolumn_kTpJKY",
     "multicolumn_MxLddP",
