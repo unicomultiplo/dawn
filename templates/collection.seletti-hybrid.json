@@ -36,10 +36,10 @@
           "settings": {
             "button_label": "Piatti Hybrid",
             "button_link": "shopify://collections/seletti-hybrid-piatti",
-            "button_style_secondary": false,
+            "button_style_secondary": true,
             "button_label_2": "Bicchieri Hybrid",
             "button_link_2": "shopify://collections/seletti-catalogo-prodotti-seletti-hybrid-bicchieri",
-            "button_style_secondary_2": false
+            "button_style_secondary_2": true
           }
         }
       },
