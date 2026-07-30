@@ -15,16 +15,16 @@
         "slide_YHqDyt": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Seletti-bicchier-Melamine-Dish-Monsters.webp",
-            "image_overlay_opacity": 20,
-            "heading": "Il design diventa gioco",
+            "image": "shopify://shop_images/tappeto-miho.webp",
+            "image_overlay_opacity": 30,
+            "heading": "Un tappeto, un’opera da vivere",
             "heading_size": "h0",
-            "subheading": "La collezione Monsters di Seletti porta colore, fantasia e allegria nella tavola e nella cameretta dei più piccoli.",
-            "button_label": "Scopri Monsters →",
-            "link": "https://www.unicoemultiplo.com/collections/monsters-seletti",
+            "subheading": "I tappeti taftati Miho trasformano il pavimento in un elemento d’arredo sorprendente. Forme floreali, colori intensi e una superficie morbida e materica, pensata per dare personalità a ogni ambiente. La lavorazione tufting crea infatti tappeti compatti, piacevoli al tatto e resistenti.",
+            "button_label": "Scopri i tappeti Miho →",
+            "link": "https://www.unicoemultiplo.com/products/miho-mystic-violet-tappeto-taftati",
             "button_style_secondary": true,
             "show_text_box": false,
-            "box_align": "top-left",
+            "box_align": "middle-left",
             "text_alignment": "center",
             "text_alignment_mobile": "center",
             "color_scheme": "scheme-5"
