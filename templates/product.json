@@ -233,11 +233,22 @@
             "page": "",
             "liquid_content": "{% if product.metafields.shopify.material %}\n<div>\n  Materiale: {% for material in product.metafields.shopify.material.value %}\n          {{ material.label }}\n       {% endfor %}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.lunghezza.value %}\n<div>\n  Lunghezza: {{ product.metafields.custom.lunghezza.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.altezza_2.value %}\n<div>\n  Altezza: {{ product.metafields.custom.altezza_2.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.profondita.value %}\n<div>\n  Profondita: {{ product.metafields.custom.profondita.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.diametro_2.value %}\n<div>\n  Diametro: {{ product.metafields.custom.diametro_2.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.designer.value %}\n<div>\n  Designer: {{ product.metafields.custom.designer.value }}\n</div>\n{% endif %}\n\n{% if product.metafields.custom.capacit_.value %}\n<div>\n  Capacita: {{ product.metafields.custom.capacit_.value }}\n</div>\n{% endif %}\n\n{%- for mf in product.metafields['shopify'] -%}\n  {%- if mf.key == 'material' -%}{%- continue -%}{%- endif -%}\n  {%- if mf.value == blank -%}{%- continue -%}{%- endif -%}\n  {%- assign label = mf.key | replace: '-', ' ' | replace: '_', ' ' | capitalize -%}\n  {%- case mf.type -%}\n    {%- when 'metaobject_reference' -%}\n      {%- assign display = mf.value.label.value | default: mf.value.name -%}\n      {%- if display != blank -%}\n        <div>{{ label }}: {{ display }}</div>\n      {%- endif -%}\n    {%- when 'list.metaobject_reference' -%}\n      {%- assign parts = '' -%}\n      {%- for item in mf.value -%}\n        {%- assign item_label = item.label.value | default: item.name -%}\n        {%- if item_label != blank -%}\n          {%- if parts != '' -%}{%- assign parts = parts | append: ', ' -%}{%- endif -%}\n          {%- assign parts = parts | append: item_label -%}\n        {%- endif -%}\n      {%- endfor -%}\n      {%- if parts != blank -%}<div>{{ label }}: {{ parts }}</div>{%- endif -%}\n    {%- when 'dimension' -%}\n      <div>{{ label }}: {{ mf.value.value }} {{ mf.value.unit | downcase }}</div>\n    {%- else -%}\n      <div>{{ label }}: {{ mf.value }}</div>\n  {%- endcase -%}\n{%- endfor -%}"
           }
+        },
+        "collapsible_row_VxmU3N": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Specifiche Tecniche",
+            "icon": "box",
+            "row_content": "",
+            "page": "",
+            "liquid_content": "{%- comment -%}\n  Metafield standard Shopify — universale per tutte le categorie\n  Mostra solo i metafield shopify.* valorizzati sul prodotto corrente\n{%- endcomment -%}\n\n{%- liquid\n  assign shopify_metafields = product.metafields.shopify\n  assign has_content = false\n\n  for mf in shopify_metafields\n    if mf.value != blank\n      assign has_content = true\n      break\n    endif\n  endfor\n-%}\n\n{%- if has_content -%}\n  <dl class=\"product-shopify-metafields\">\n    {%- for mf in shopify_metafields -%}\n      {%- unless mf.value == blank -%}\n        <div class=\"product-shopify-metafields__row\">\n          <dt class=\"product-shopify-metafields__label\">\n            {{ mf.key | replace: '-', ' ' | capitalize }}\n          </dt>\n          <dd class=\"product-shopify-metafields__value\">\n            {%- case mf.type -%}\n              {%- when 'list.metaobject_reference' -%}\n                {%- for item in mf.value -%}\n                  {{- item.system.handle | replace: '-', ' ' | capitalize -}}\n                  {%- unless forloop.last -%}, {% endunless -%}\n                {%- endfor -%}\n              {%- when 'metaobject_reference' -%}\n                {{ mf.value.system.handle | replace: '-', ' ' | capitalize }}\n              {%- when 'list.single_line_text_field' -%}\n                {{ mf.value | join: ', ' }}\n              {%- when 'boolean' -%}\n                {%- if mf.value -%}Sì{%- else -%}No{%- endif -%}\n              {%- else -%}\n                {{ mf.value }}\n            {%- endcase -%}\n          </dd>\n        </div>\n      {%- endunless -%}\n    {%- endfor -%}\n  </dl>\n{%- endif -%}"
+          }
         }
       },
       "block_order": [
         "collapsible_row_PbrTiV",
-        "collapsible_row_kDkCBc"
+        "collapsible_row_kDkCBc",
+        "collapsible_row_VxmU3N"
       ],
       "custom_css": [
         ".collapsible-content-wrapper-narrow {max-width: 100%; padding: 0px;}",
