@@ -185,7 +185,7 @@
         "column_LdyctV": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/tovaglietta-gina-cotone.webp",
+            "image": "shopify://shop_images/tovaglia-domenica-con-rouge-arricciato-in-cotone-1.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -195,10 +195,10 @@
         "column_r7gR4e": {
           "type": "column",
           "settings": {
-            "title": "<strong>TOVAGLIETTA  GINA</strong>",
-            "text": "<p></p><p><strong>La cura dei dettagli che rendono speciale ogni tavola</strong></p><p>Realizzata artigianalmente in Italia in cotone 100%, Gina unisce una delicata fantasia a quadri tono su tono a un romantico bordo ondulato. Le sue sfumature naturali e la consistenza sostenuta del tessuto donano ordine, armonia e una raffinata semplicità alla tavola di ogni giorno.</p><p></p><p></p><p><strong>Scopri Gina →</strong></p>",
+            "title": "TOVAGLIA DOMENICA",
+            "text": "<p></p><p><br/>La bellezza delle tavole preparate con cura<br/><br/></p><p><br/>Realizzata artigianalmente nelle Marche in 100% cotone, Domenica è una tovaglia bianca dal gusto raffinato, impreziosita da un ampio rouge arricciato. Elegante ma facile da vivere, accompagna i pranzi della domenica, le feste e tutte le occasioni speciali.<br/><br/></p><p></p><p></p><p><br/>Scopri Domenica →<br/><br/></p>",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/products/tovaglietta-gina"
+            "link": "https://www.unicoemultiplo.com/products/tovaglia-domenica-con-rouge-arricciato-in-cotone"
           }
         }
       },
@@ -214,7 +214,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>Il profumo dell’eleganza</strong>",
+        "title": "Domenica: la tovaglia bianca dal fascino senza tempo",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
