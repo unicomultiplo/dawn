@@ -157,7 +157,7 @@
       <div class="ai-designer-image-wrapper-{{ ai_gen_id }}">
         {% if designer_metaobject.foto.value %}
           <img
-            src="{{ designer_metaobject.immagine.value | image_url: width: 800 }}"
+            src="{{ designer_metaobject.foto.value | image_url: width: 800 }}"
             alt="{{ designer_metaobject.nome | escape }}"
             loading="lazy"
             width="800"
