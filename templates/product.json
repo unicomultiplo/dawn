@@ -291,19 +291,43 @@
         "padding_bottom": 28
       }
     },
-    "blocks_xwYGPr": {
+    "17854038226507317e": {
       "type": "_blocks",
       "blocks": {
-        "ai_gen_block_ba71b26_reArJw": {
-          "type": "ai_gen_block_ba71b26",
-          "settings": {},
+        "ai_gen_block_29af021_JNGwRa": {
+          "type": "ai_gen_block_29af021",
+          "settings": {
+            "image_width": 30,
+            "gap": 20,
+            "vertical_alignment": "flex-start",
+            "section_padding_top": 40,
+            "section_padding_bottom": 40,
+            "section_padding_horizontal": 84,
+            "heading_size": 38,
+            "text_size": 16,
+            "text_spacing": 16,
+            "text_color": "#121212",
+            "image_border_color": "#121212",
+            "button_primary_label": "il designer",
+            "button_primary_bg": "#121212",
+            "button_primary_color": "#ffffff",
+            "show_secondary_button": false,
+            "button_secondary_label": "Vedi collezione",
+            "button_secondary_link": "",
+            "button_secondary_bg": "#ffffff",
+            "button_secondary_color": "#121212",
+            "button_secondary_border": "#121212",
+            "button_text_size": 14,
+            "button_padding_vertical": 12,
+            "button_padding_horizontal": 24,
+            "button_spacing": 24
+          },
           "blocks": {}
         }
       },
       "block_order": [
-        "ai_gen_block_ba71b26_reArJw"
+        "ai_gen_block_29af021_JNGwRa"
       ],
-      "name": "Designer info",
       "settings": {}
     }
   },
@@ -313,6 +337,6 @@
     "collapsible_content_rDxxtT",
     "custom_liquid_BRp6Nd",
     "related-products",
-    "blocks_xwYGPr"
+    "17854038226507317e"
   ]
 }
