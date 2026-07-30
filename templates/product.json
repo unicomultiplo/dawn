@@ -291,20 +291,19 @@
         "padding_bottom": 28
       }
     },
-    "178540038417b9dc6e": {
+    "blocks_xwYGPr": {
       "type": "_blocks",
       "blocks": {
-        "ai_gen_block_ba71b26_LVKCqg": {
+        "ai_gen_block_ba71b26_reArJw": {
           "type": "ai_gen_block_ba71b26",
-          "name": "Designer info",
           "settings": {},
           "blocks": {}
         }
       },
       "block_order": [
-        "ai_gen_block_ba71b26_LVKCqg"
+        "ai_gen_block_ba71b26_reArJw"
       ],
-      "custom_css": [],
+      "name": "Designer info",
       "settings": {}
     }
   },
@@ -314,6 +313,6 @@
     "collapsible_content_rDxxtT",
     "custom_liquid_BRp6Nd",
     "related-products",
-    "178540038417b9dc6e"
+    "blocks_xwYGPr"
   ]
 }
