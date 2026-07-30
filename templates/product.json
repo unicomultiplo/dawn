@@ -290,6 +290,22 @@
         "padding_top": 40,
         "padding_bottom": 28
       }
+    },
+    "178540038417b9dc6e": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_ba71b26_LVKCqg": {
+          "type": "ai_gen_block_ba71b26",
+          "name": "Designer info",
+          "settings": {},
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_ba71b26_LVKCqg"
+      ],
+      "custom_css": [],
+      "settings": {}
     }
   },
   "order": [
@@ -297,6 +313,7 @@
     "custom_liquid_q83gja",
     "collapsible_content_rDxxtT",
     "custom_liquid_BRp6Nd",
-    "related-products"
+    "related-products",
+    "178540038417b9dc6e"
   ]
 }
