@@ -155,9 +155,9 @@
   {% if designer_metaobject %}
     <div class="ai-designer-container-{{ ai_gen_id }}">
       <div class="ai-designer-image-wrapper-{{ ai_gen_id }}">
-        {% if designer_metaobject.immagine %}
+        {% if designer_metaobject.foto.value %}
           <img
-            src="{{ designer_metaobject.immagine | image_url: width: 800 }}"
+            src="{{ designer_metaobject.immagine.value | image_url: width: 800 }}"
             alt="{{ designer_metaobject.nome | escape }}"
             loading="lazy"
             width="800"
@@ -183,9 +183,9 @@
         {% endif %}
 
         <div class="ai-designer-buttons-{{ ai_gen_id }}">
-          {% if designer_metaobject.url %}
+          {% if designer_metaobject.url_profilo.value %}
             <a
-              href="{{ designer_metaobject.url }}"
+              href="{{ designer_metaobject.url_profilo.value }}"
               class="ai-designer-button-{{ ai_gen_id }} ai-designer-button-primary-{{ ai_gen_id }}"
             >
               {{ block.settings.button_primary_label }}
