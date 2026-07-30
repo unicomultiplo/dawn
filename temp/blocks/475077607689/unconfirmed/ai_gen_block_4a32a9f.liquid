@@ -1,6 +1,175 @@
+{% doc %}
+  @prompt
+    Create a dynamic Designer block for a product page. The block must read the metafield custom.designer (metaobject reference type) from the current product. From the metaobject, read these fields: nome (single line text), bio (multi line text), foto (file/image reference), url_profilo (URL).
+    
+    Layout: horizontal flex row with the designer photo on the left (120x120px, circular crop, border-radius 50%) and text content on the right. Above the name show a small uppercase label "Designer" in light gray (letter-spacing 0.18em, font-size 0.7rem). Below it show the designer name in uppercase (font-size 1rem, letter-spacing 0.12em, font-weight 500). Below the name show the bio text (font-size 0.875rem, line-height 1.75, color #555). At the bottom show a "Scopri di più" link pointing to url_profilo, styled as uppercase text with only a bottom border underline (no text-decoration).
+    
+    The entire block should be wrapped in a container with border-top: 1px solid #e0e0e0, padding: 2.5rem 0, and margin-top: 2rem. The block must be hidden entirely if the metafield custom.designer is not set on the product. No JavaScript. Pure Liquid + CSS only.
+{% enddoc %}
+{% assign ai_gen_id = block.id | replace: '_', '' | downcase %}
+{% assign designer = product.metafields.custom.designer %}
+
+{% if designer != blank %}
+  {% style %}
+    .ai-designer-block-{{ ai_gen_id }} {
+      display: block;
+      border-top: 1px solid #e0e0e0;
+      padding: 2.5rem 0;
+      margin-top: 2rem;
+      width: 100%;
+    }
+
+    .ai-designer-container-{{ ai_gen_id }} {
+      display: flex;
+      flex-direction: row;
+      gap: 1.5rem;
+      align-items: flex-start;
+    }
+
+    .ai-designer-photo-{{ ai_gen_id }} {
+      flex-shrink: 0;
+      width: 120px;
+      height: 120px;
+    }
+
+    .ai-designer-photo-{{ ai_gen_id }} img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      border-radius: 50%;
+    }
+
+    .ai-designer-photo-placeholder-{{ ai_gen_id }} {
+      width: 100%;
+      height: 100%;
+      background-color: #f4f4f4;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+
+    .ai-designer-photo-placeholder-{{ ai_gen_id }} svg {
+      width: 60%;
+      height: 60%;
+      opacity: 0.3;
+    }
+
+    .ai-designer-content-{{ ai_gen_id }} {
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+
+    .ai-designer-label-{{ ai_gen_id }} {
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.18em;
+      color: #999;
+      margin: 0;
+    }
+
+    .ai-designer-name-{{ ai_gen_id }} {
+      font-size: 1rem;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      font-weight: 500;
+      margin: 0;
+      color: #121212;
+    }
+
+    .ai-designer-bio-{{ ai_gen_id }} {
+      font-size: 0.875rem;
+      line-height: 1.75;
+      color: #555;
+      margin: 0;
+    }
+
+    .ai-designer-link-{{ ai_gen_id }} {
+      font-size: 0.875rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: #121212;
+      text-decoration: none;
+      border-bottom: 1px solid #121212;
+      display: inline-block;
+      padding-bottom: 2px;
+      transition: opacity 0.2s ease;
+    }
+
+    .ai-designer-link-{{ ai_gen_id }}:hover {
+      opacity: 0.7;
+    }
+
+    @media screen and (max-width: 749px) {
+      .ai-designer-container-{{ ai_gen_id }} {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+      }
+
+      .ai-designer-photo-{{ ai_gen_id }} {
+        width: 100px;
+        height: 100px;
+      }
+    }
+  {% endstyle %}
+
+  <div class="ai-designer-block-{{ ai_gen_id }}" {{ block.shopify_attributes }}>
+    <div class="ai-designer-container-{{ ai_gen_id }}">
+      <div class="ai-designer-photo-{{ ai_gen_id }}">
+        {% if designer.foto != blank %}
+          <img
+            src="{{ designer.foto | image_url: width: 240 }}"
+            alt="{{ designer.nome | escape }}"
+            loading="lazy"
+            width="120"
+            height="120"
+          >
+        {% else %}
+          <div class="ai-designer-photo-placeholder-{{ ai_gen_id }}">
+            {{ 'image' | placeholder_svg_tag }}
+          </div>
+        {% endif %}
+      </div>
+
+      <div class="ai-designer-content-{{ ai_gen_id }}">
+        <p class="ai-designer-label-{{ ai_gen_id }}">Designer</p>
+        
+        {% if designer.nome != blank %}
+          <h3 class="ai-designer-name-{{ ai_gen_id }}">{{ designer.nome }}</h3>
+        {% endif %}
+
+        {% if designer.bio != blank %}
+          <p class="ai-designer-bio-{{ ai_gen_id }}">{{ designer.bio }}</p>
+        {% endif %}
+
+        {% if designer.url_profilo != blank %}
+          <a href="{{ designer.url_profilo }}" class="ai-designer-link-{{ ai_gen_id }}" target="_blank" rel="noopener">
+            Scopri di più
+          </a>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+{% endif %}
+
 {% schema %}
- {
-   "name": "AI_Block",
-   "tag": "shopify-ai-generated-block"
- }
+{
+  "name": "Designer info",
+  "tag": null,
+  "settings": [
+    {
+      "type": "paragraph",
+      "content": "This block displays designer information from the product.metafields.custom.designer metaobject. The block is hidden if the metafield is not set."
+    }
+  ],
+  "presets": [
+    {
+      "name": "Designer info"
+    }
+  ]
+}
 {% endschema %}
