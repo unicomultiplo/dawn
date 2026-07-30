@@ -308,7 +308,7 @@
             "text_spacing": 16,
             "text_color": "#121212",
             "image_border_color": "#121212",
-            "button_primary_label": "il designer",
+            "button_primary_label": "Scopri di più",
             "button_primary_bg": "#121212",
             "button_primary_color": "#ffffff",
             "show_secondary_button": false,
@@ -328,7 +328,6 @@
       "block_order": [
         "ai_gen_block_29af021_JNGwRa"
       ],
-      "disabled": true,
       "settings": {}
     }
   },
