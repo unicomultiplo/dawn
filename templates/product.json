@@ -311,7 +311,7 @@
             "button_primary_label": "Scopri di più",
             "button_primary_bg": "#121212",
             "button_primary_color": "#ffffff",
-            "show_secondary_button": false,
+            "show_secondary_button": true,
             "button_secondary_label": "Vedi collezione",
             "button_secondary_link": "",
             "button_secondary_bg": "#ffffff",
