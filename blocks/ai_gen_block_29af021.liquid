@@ -194,10 +194,12 @@
           {% endif %}
 
           {% if block.settings.show_secondary_button and block.settings.button_secondary_label != blank %}
-             {% assign collection_url = designer_metaobject.collezione.value.url | default: block.settings.button_secondary_link | default: '#' %}
+               {% assign collection_url = designer_metaobject.collezione.value.url | default: block.settings.button_secondary_link | default: '#' %}
                <a
                   href="{{ collection_url }}"
-              </a>
+                 class="ai-designer-button-{{ ai_gen_id }} ai-designer-button-secondary-{{ ai_gen_id }}">
+                  {{ block.settings.button_secondary_label }}
+                 </a>
           {% endif %}
         </div>
       </div>
