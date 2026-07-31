@@ -297,7 +297,7 @@
         "ai_gen_block_29af021_JNGwRa": {
           "type": "ai_gen_block_29af021",
           "settings": {
-            "image_width": 55,
+            "image_width": 40,
             "gap": 20,
             "vertical_alignment": "flex-start",
             "section_padding_top": 40,
@@ -310,12 +310,12 @@
             "image_border_color": "#121212",
             "button_primary_label": "Scopri il Designer",
             "button_primary_bg": "#000000",
-            "button_primary_color": "#FFFFFF",
+            "button_primary_color": "#ffffff",
             "show_secondary_button": true,
             "button_secondary_label": "Scopri tutti i prodotti {{ closest.product.metafields.custom.approfondimentodesigner.value.nome.value }}",
             "button_secondary_link": "",
             "button_secondary_bg": "#000000",
-            "button_secondary_color": "#FFFFFF",
+            "button_secondary_color": "#ffffff",
             "button_secondary_border": "#121212",
             "button_text_size": 14,
             "button_padding_vertical": 12,
