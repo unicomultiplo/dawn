@@ -297,8 +297,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/iconmonstr-delivery-7-240.png",
-            "title": "CONSEGNA E RESO GRATIS*",
-            "text": "<p>Per tutti gli ordini da 79,00€</p>",
+            "title": "SPEDIZIONE GRATUITA DA 79 €",
+            "text": "<p><br/>Per tutti gli ordini pari o superiori a 79 €<br/><br/></p>",
             "link_label": "",
             "link": "shopify://policies/shipping-policy"
           }
