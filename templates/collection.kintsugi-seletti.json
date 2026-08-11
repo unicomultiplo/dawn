@@ -88,6 +88,76 @@
         "padding_bottom": 36
       }
     },
+    "collapsible_content_rJLeUk": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_6jmXTy": {
+          "type": "collapsible_row",
+          "name": "Quali prodotti comprende la collezione Seletti Kintsugi?",
+          "settings": {
+            "heading": "Quali prodotti comprende la collezione Seletti Kintsugi?",
+            "icon": "check_mark",
+            "row_content": "<p><br/>La collezione comprende proposte per la tavola e la casa, tra cui piatti, tazze e diversi oggetti decorativi. La disponibilità dei singoli articoli può variare nel tempo.<br/><br/></p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_nwmfin": {
+          "type": "collapsible_row",
+          "name": "Come scegliere un prodotto Seletti Kintsugi?",
+          "settings": {
+            "heading": "Come scegliere un prodotto Seletti Kintsugi?",
+            "icon": "check_mark",
+            "row_content": "<p>Puoi partire dall’utilizzo: tavola, caffè e tè, decorazione della casa oppure regalo. Le collezioni dedicate permettono poi di approfondire le diverse tipologie di prodotto.</p><p><br/></p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_8aQhHw": {
+          "type": "collapsible_row",
+          "name": "Seletti Kintsugi può essere un’idea regalo?",
+          "settings": {
+            "heading": "Seletti Kintsugi può essere un’idea regalo?",
+            "icon": "check_mark",
+            "row_content": "<p><br/>Sì. La varietà della collezione permette di scegliere prodotti diversi per dimensione, utilizzo e occasione, dai complementi per la tavola agli oggetti decorativi.<br/><br/></p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        },
+        "collapsible_row_fF8PmA": {
+          "type": "collapsible_row",
+          "name": "Come abbinare tra loro i prodotti Seletti Kintsugi?",
+          "settings": {
+            "heading": "Come abbinare tra loro i prodotti Seletti Kintsugi?",
+            "icon": "check_mark",
+            "row_content": "<p>I diversi decori possono essere combinati liberamente. I dettagli dorati creano un elemento comune che permette di accostare pezzi differenti mantenendo una composizione riconoscibile.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_6jmXTy",
+        "collapsible_row_nwmfin",
+        "collapsible_row_8aQhHw",
+        "collapsible_row_fF8PmA"
+      ],
+      "name": "Domande frequenti su Seletti Kintsugi",
+      "settings": {
+        "caption": "Domande frequenti su Seletti Kintsugi",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "container_color_scheme": "",
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_kTpJKY": {
       "type": "multicolumn",
       "blocks": {
@@ -284,6 +354,7 @@
     "banner",
     "rich_text_rEXHHf",
     "product-grid",
+    "collapsible_content_rJLeUk",
     "multicolumn_kTpJKY",
     "multicolumn_MxLddP",
     "multicolumn_38PWQd"
