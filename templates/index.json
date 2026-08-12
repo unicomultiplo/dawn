@@ -68,7 +68,7 @@
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "collection": "miho",
+        "collection": "turbo-moka",
         "products_to_show": 23,
         "title": "",
         "heading_size": "h2",
