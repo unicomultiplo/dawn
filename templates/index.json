@@ -12,6 +12,24 @@
     "slideshow_dUd4mz": {
       "type": "slideshow",
       "blocks": {
+        "slide_wFUX39": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Turbo-moka-caffettiera-veloce.webp",
+            "image_overlay_opacity": 0,
+            "heading": "Turbo Moka, la moka che cambia ritmo",
+            "heading_size": "h1",
+            "subheading": "Design italiano e un fondo ispirato alla turbina per sfruttare meglio il calore: il caffè arriva prima, con meno energia e tutto l’aroma del rito della moka. Scopri le versioni da 1, 3 e 6 tazze e scegli la Turbo Moka più adatta a te.",
+            "button_label": "Scopri Turbo Moka →",
+            "link": "shopify://collections/turbo-moka",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "top-right",
+            "text_alignment": "left",
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-3"
+          }
+        },
         "slide_YHqDyt": {
           "type": "slide",
           "settings": {
@@ -29,29 +47,11 @@
             "text_alignment_mobile": "center",
             "color_scheme": "scheme-5"
           }
-        },
-        "slide_wFUX39": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Turbo-moka-caffettiera-veloce.webp",
-            "image_overlay_opacity": 0,
-            "heading": "Turbo Moka, la moka che cambia ritmo",
-            "heading_size": "h1",
-            "subheading": "Design italiano e un fondo ispirato alla turbina per sfruttare meglio il calore: il caffè arriva prima, con meno energia e tutto l’aroma del rito della moka. Scopri le versioni da 1, 3 e 6 tazze e scegli la Turbo Moka più adatta a te.",
-            "button_label": "Scopri Turbo Moka →",
-            "link": "shopify://collections/turbo-moka",
-            "button_style_secondary": false,
-            "show_text_box": false,
-            "box_align": "top-right",
-            "text_alignment": "left",
-            "text_alignment_mobile": "center",
-            "color_scheme": "scheme-b4b5757d-11d6-44d9-9913-c59c1623590c"
-          }
         }
       },
       "block_order": [
-        "slide_YHqDyt",
-        "slide_wFUX39"
+        "slide_wFUX39",
+        "slide_YHqDyt"
       ],
       "settings": {
         "layout": "full_bleed",
