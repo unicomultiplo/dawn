@@ -75,7 +75,6 @@
     },
     "banner": {
       "type": "main-collection-banner",
-      "disabled": true,
       "custom_css": [
         "a {color: #598db2;}"
       ],
