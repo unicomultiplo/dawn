@@ -667,7 +667,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Il vetro borosilicato è resistente al calore?",
-            "icon": "lightning_bolt",
+            "icon": "bottle",
             "row_content": "<p>Sì. È progettato per offrire una maggiore resistenza agli sbalzi termici rispetto al vetro tradizionale.</p>",
             "page": "",
             "liquid_content": ""
@@ -675,6 +675,7 @@
         },
         "collapsible_row_VmNf4w": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Qual è la differenza tra vetro borosilicato e vetro normale?",
             "icon": "lightning_bolt",
@@ -687,7 +688,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Il vetro borosilicato assorbe odori o sapori?",
-            "icon": "lightning_bolt",
+            "icon": "bottle",
             "row_content": "<p>No. La sua superficie liscia e non porosa aiuta a preservare aromi e sapori senza alterazioni.</p>",
             "page": "",
             "liquid_content": ""
@@ -697,7 +698,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "È adatto per bevande calde e fredde?",
-            "icon": "lightning_bolt",
+            "icon": "bottle",
             "row_content": "<p>Sì. Viene comunemente utilizzato sia per bevande calde sia per bevande fredde.</p>",
             "page": "",
             "liquid_content": ""
@@ -707,7 +708,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Il vetro borosilicato è adatto al contatto con alimenti e bevande?",
-            "icon": "lightning_bolt",
+            "icon": "bottle",
             "row_content": "<p>Sì. È un materiale comunemente utilizzato per prodotti destinati all'uso alimentare.</p>",
             "page": "",
             "liquid_content": ""
@@ -717,7 +718,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Può essere lavato in lavastoviglie?",
-            "icon": "lightning_bolt",
+            "icon": "bottle",
             "row_content": "<p>Sì. Molti prodotti in vetro borosilicato sono compatibili con la lavastoviglie. È comunque consigliabile verificare sempre le indicazioni specifiche del produttore.</p>",
             "page": "",
             "liquid_content": ""
@@ -727,7 +728,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Il vetro borosilicato va nel forno e nel microonde?",
-            "icon": "lightning_bolt",
+            "icon": "bottle",
             "row_content": "<p>La risposta è <strong>sì, assolutamente sì</strong>, ed è una delle sue caratteristiche commerciali più forti. <br/>Il vetro tradizionale rischia di spaccarsi nel microonde o nel forno a causa del riscaldamento non uniforme dei liquidi (shock termico localizzato), mentre il borosilicato resiste senza problemi.</p>",
             "page": "",
             "liquid_content": ""
@@ -737,7 +738,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Il vetro borosilicato è tossico?",
-            "icon": "check_mark",
+            "icon": "bottle",
             "row_content": "<p>Il vetro borosilicato è comunemente utilizzato per oggetti destinati al contatto con alimenti e bevande, come bicchieri, teiere, bottiglie e contenitori. Per un uso corretto e sicuro è sempre importante seguire le indicazioni del produttore del singolo articolo, soprattutto per forno, microonde, lavastoviglie e sbalzi termici.</p>",
             "page": "",
             "liquid_content": ""
@@ -747,7 +748,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Il vetro borosilicato è plastica?",
-            "icon": "check_mark",
+            "icon": "bottle",
             "row_content": "<p>No, il vetro borosilicato non è plastica: è un tipo di vetro composto principalmente da silice e ossido di boro. Rispetto al vetro comune è apprezzato per la maggiore resistenza agli sbalzi termici, la leggerezza e la trasparenza.</p>",
             "page": "",
             "liquid_content": ""
