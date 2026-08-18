@@ -117,7 +117,7 @@
         "text_zQHDtm": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Un modo semplice per comporre il tuo servizio</strong> è scegliere e alternare le diverse fantasie della collezione tra piatti piani, fondi e frutta. <strong>Spesso si parte da tre decori</strong> diversi, combinandoli liberamente in base ai propri colori e soggetti preferiti.</p><p><strong>Non esiste un abbinamento obbligato: </strong>ogni piatto è acquistabile singolarmente e puoi decidere quantità e fantasie secondo il tuo gusto. <strong>È proprio questo il principio della Tavola Scomposta</strong>: <strong>creare un servizio </strong>coordinato, ma mai tutto uguale, capace di diventare <strong>davvero personale.</strong></p>",
+            "text": "<p>Un modo semplice per comporre il tuo servizio è scegliere e alternare le diverse fantasie della collezione tra piatti piani, fondi e frutta. <strong>Spesso si parte da tre decori</strong> diversi, combinandoli liberamente in base ai propri colori e soggetti preferiti.</p><p><strong>Non esiste un abbinamento obbligato: </strong>ogni piatto è acquistabile singolarmente e puoi decidere quantità e fantasie secondo il tuo gusto. È proprio questo il principio della Tavola Scomposta: <strong>creare un servizio </strong>coordinato, <strong>ma mai tutto uguale</strong>, capace di diventare<strong> </strong>davvero personale.</p>",
             "text_style": "body"
           }
         },
@@ -139,7 +139,7 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/La-tavola-scomposta-bitossi-home.webp",
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "image_behavior": "none",
