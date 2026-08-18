@@ -159,6 +159,7 @@
         "column_ALewAT": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Tavola-scomposta-babukaii.webp",
             "title": "Profumo",
             "text": "<p>Decori ispirati a un giardino immaginario e segreto, tra fiori, animali e dettagli delicati. Da abbinare liberamente agli altri pezzi Fabula<br/><br/></p>",
             "link_label": "",
@@ -168,6 +169,7 @@
         "column_w6FFh7": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Untitled_design_-_2026-08-18T130825.754.webp",
             "title": "Marino",
             "text": "<p>Figure fantastiche e motivi nei toni del blu reinterpretano l’universo illustrato di Aitch con un carattere più grafico e deciso.<br/><br/></p>",
             "link_label": "",
@@ -177,6 +179,7 @@
         "column_hgEtEz": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Untitled_design_-_2026-08-18T130814.577.webp",
             "title": "Eden",
             "text": "<p>Motivi floreali e decorativi evocano un giardino immaginario e un nuovo folklore contemporaneo, da mescolare liberamente agli altri decori Fabula<br/><br/></p>",
             "link_label": "",
