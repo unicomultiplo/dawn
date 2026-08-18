@@ -153,6 +153,60 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_K84U3F": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ALewAT": {
+          "type": "column",
+          "settings": {
+            "title": "Profumo",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_w6FFh7": {
+          "type": "column",
+          "settings": {
+            "title": "Marino",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hgEtEz": {
+          "type": "column",
+          "settings": {
+            "title": "Eden",
+            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_ALewAT",
+        "column_w6FFh7",
+        "column_hgEtEz"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Scopri le fantasie Fabula di Aitch",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "Etichetta pulsante",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_MxLddP": {
       "type": "multicolumn",
       "blocks": {
@@ -356,6 +410,7 @@
     "banner",
     "product-grid",
     "image_with_text_ChYU98",
+    "multicolumn_K84U3F",
     "multicolumn_MxLddP",
     "multicolumn_4QmJn4",
     "collection_list_KGcE8i"
