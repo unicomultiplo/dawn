@@ -732,6 +732,16 @@
             "page": "",
             "liquid_content": ""
           }
+        },
+        "collapsible_row_FKQVhd": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Il vetro borosilicato è tossico?",
+            "icon": "check_mark",
+            "row_content": "<p>Il vetro borosilicato è comunemente utilizzato per oggetti destinati al contatto con alimenti e bevande, come bicchieri, teiere, bottiglie e contenitori. Per un uso corretto e sicuro è sempre importante seguire le indicazioni del produttore del singolo articolo, soprattutto per forno, microonde, lavastoviglie e sbalzi termici.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
         }
       },
       "block_order": [
@@ -741,7 +751,8 @@
         "collapsible_row_dd8j8B",
         "collapsible_row_fHWiAX",
         "collapsible_row_QiChta",
-        "collapsible_row_JxcYfg"
+        "collapsible_row_JxcYfg",
+        "collapsible_row_FKQVhd"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
