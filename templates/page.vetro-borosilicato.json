@@ -742,6 +742,16 @@
             "page": "",
             "liquid_content": ""
           }
+        },
+        "collapsible_row_UpTDiE": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Il vetro borosilicato è plastica?",
+            "icon": "check_mark",
+            "row_content": "<p>No, il vetro borosilicato non è plastica: è un tipo di vetro composto principalmente da silice e ossido di boro. Rispetto al vetro comune è apprezzato per la maggiore resistenza agli sbalzi termici, la leggerezza e la trasparenza.</p>",
+            "page": "",
+            "liquid_content": ""
+          }
         }
       },
       "block_order": [
@@ -752,7 +762,8 @@
         "collapsible_row_fHWiAX",
         "collapsible_row_QiChta",
         "collapsible_row_JxcYfg",
-        "collapsible_row_FKQVhd"
+        "collapsible_row_FKQVhd",
+        "collapsible_row_UpTDiE"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
