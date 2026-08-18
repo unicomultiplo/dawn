@@ -104,6 +104,55 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_ChYU98": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_nQVEQT": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Come comporre il tuo servizio Tavola Scomposta</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_zQHDtm": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Un modo semplice per comporre il tuo servizio</strong> è scegliere e alternare le diverse fantasie della collezione tra piatti piani, fondi e frutta. <strong>Spesso si parte da tre decori</strong> diversi, combinandoli liberamente in base ai propri colori e soggetti preferiti.</p><p><strong>Non esiste un abbinamento obbligato: </strong>ogni piatto è acquistabile singolarmente e puoi decidere quantità e fantasie secondo il tuo gusto. <strong>È proprio questo il principio della Tavola Scomposta</strong>: <strong>creare un servizio </strong>coordinato, ma mai tutto uguale, capace di diventare <strong>davvero personale.</strong></p>",
+            "text_style": "body"
+          }
+        },
+        "button_wDehjf": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Etichetta pulsante",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_nQVEQT",
+        "text_zQHDtm",
+        "button_wDehjf"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/La-tavola-scomposta-bitossi-home.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_MxLddP": {
       "type": "multicolumn",
       "blocks": {
@@ -306,6 +355,7 @@
     "multicolumn_Dkhgfq",
     "banner",
     "product-grid",
+    "image_with_text_ChYU98",
     "multicolumn_MxLddP",
     "multicolumn_4QmJn4",
     "collection_list_KGcE8i"
