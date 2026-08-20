@@ -23,13 +23,13 @@
         "image": "shopify://shop_images/La_Tavola_di_Natale_6_1.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-1",
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
+        "desktop_content_position": "bottom-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "scheme-1",
         "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
         "show_text_below": false
       }
     },
@@ -39,7 +39,7 @@
         "heading_XqMeQA": {
           "type": "heading",
           "settings": {
-            "heading": "NATALE 2025",
+            "heading": "NATALE 2026",
             "heading_size": "h1"
           }
         },
@@ -143,72 +143,72 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/knIndustrie_Christmas_News_2025_page-0018.webp",
+            "image_overlay_opacity": 10,
             "heading": "Natale con KnIndustrie:  scegli la forma che Incanta!",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "Scegli KnIndustrie",
             "link": "shopify://collections/natale-con-knindustrie",
             "button_style_secondary": true,
-            "box_align": "middle-center",
             "show_text_box": true,
+            "box_align": "middle-center",
             "text_alignment": "center",
-            "image_overlay_opacity": 10,
-            "color_scheme": "scheme-4",
-            "text_alignment_mobile": "center"
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-4"
           }
         },
         "slide_VLNeGd": {
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/La-tavola-di-Natale-Bitossi.webp",
+            "image_overlay_opacity": 0,
             "heading": "La Tavola di Natale Bitossi Home, l'Oro che Illumina!",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "Scoprila Subito",
             "link": "shopify://collections/bitossi-home-natale",
             "button_style_secondary": true,
-            "box_align": "middle-center",
             "show_text_box": true,
+            "box_align": "middle-center",
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-4",
-            "text_alignment_mobile": "center"
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-4"
           }
         },
         "slide_zLt6xd": {
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/natale-con-seletti-natle-idee-regalo-2025.webp",
+            "image_overlay_opacity": 0,
             "heading": "Seletti Piatti Acid: per la Tua Tavola di Natale, un'eleganza fuori dagli schemi!",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "Scoprili Subito",
             "link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid",
             "button_style_secondary": true,
-            "box_align": "middle-center",
             "show_text_box": true,
+            "box_align": "middle-center",
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-4",
-            "text_alignment_mobile": "center"
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-4"
           }
         },
         "slide_HX3yWz": {
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/brandani-queen-natale-2025.webp",
+            "image_overlay_opacity": 0,
             "heading": "Brandani Piatti Queen, l'eleganza del Bianco sulla Tavola di Natale",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "Scopili Subito!",
             "link": "shopify://products/brandani-queen-tavola-18-pz",
             "button_style_secondary": true,
-            "box_align": "middle-center",
             "show_text_box": true,
+            "box_align": "middle-center",
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-4",
-            "text_alignment_mobile": "center"
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-4"
           }
         }
       },
@@ -279,11 +279,11 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
+        "button_label": "Etichetta pulsante",
+        "button_link": "",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Etichetta pulsante",
-        "button_link": "",
         "color_scheme": "scheme-934f4db6-65d6-4f16-a648-b72cb007f849",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -338,11 +338,11 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
+        "button_label": "La Tavola di Natale → ",
+        "button_link": "shopify://pages/la-tavola-di-natale",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "La Tavola di Natale → ",
-        "button_link": "shopify://pages/la-tavola-di-natale",
         "color_scheme": "scheme-4",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -475,15 +475,15 @@
       "settings": {
         "image_height": "adapt",
         "desktop_image_width": "medium",
+        "image_layout": "alternate-right",
         "heading_size": "h1",
         "text_style": "body",
         "button_style": "secondary",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "image_layout": "alternate-right",
+        "mobile_content_alignment": "left",
         "section_color_scheme": "scheme-4",
         "row_color_scheme": "scheme-4",
-        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -491,18 +491,18 @@
     "featured_collection_7TyarM": {
       "type": "featured-collection",
       "settings": {
+        "collection": "idee-regalo-natale",
+        "products_to_show": 10,
         "title": "",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "idee-regalo-natale",
-        "products_to_show": 10,
         "columns_desktop": 6,
+        "enable_desktop_slider": true,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "outline",
-        "enable_desktop_slider": true,
         "color_scheme": "",
         "image_ratio": "square",
         "image_shape": "blob",
@@ -537,15 +537,15 @@
       "settings": {
         "image_height": "adapt",
         "desktop_image_width": "medium",
+        "image_layout": "alternate-left",
         "heading_size": "h1",
         "text_style": "body",
         "button_style": "secondary",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
+        "mobile_content_alignment": "left",
         "section_color_scheme": "scheme-4",
         "row_color_scheme": "scheme-4",
-        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -553,18 +553,18 @@
     "featured_collection_pxNL4g": {
       "type": "featured-collection",
       "settings": {
+        "collection": "illuminazione-luci-addobbi-alberi-natale",
+        "products_to_show": 10,
         "title": "",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "illuminazione-luci-addobbi-alberi-natale",
-        "products_to_show": 10,
         "columns_desktop": 6,
+        "enable_desktop_slider": true,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "outline",
-        "enable_desktop_slider": true,
         "color_scheme": "",
         "image_ratio": "square",
         "image_shape": "blob",
