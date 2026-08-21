@@ -242,14 +242,14 @@
         "heading_9kTxfi": {
           "type": "heading",
           "settings": {
-            "heading": "Estate in Casa e in Giardino",
+            "heading": "Arte che dà carattere ai tuoi spazi",
             "heading_size": "h1"
           }
         },
         "text_yCWYLF": {
           "type": "text",
           "settings": {
-            "text": "<p><br/><strong>Cestini in vimini che accompagnano ogni momento della bella stagione.</strong><br/><br/>Dalla tavola all'aperto alle composizioni floreali, dal portafrutta al portapane, questi cesti in vimini naturale uniscono praticità e stile. Perfetti per decorare cucina, terrazza e giardino, valorizzano fiori freschi, frutta di stagione e piccoli oggetti quotidiani con un'eleganza senza tempo.<br/><br/></p>"
+            "text": "<p><br/>Scopri i quadri materici SalvadoriArte: opere contemporanee su tela, ricche di texture, profondità e dettagli preziosi, pensate per trasformare ogni parete in un elemento d’arredo unico.<br/><br/></p>"
           }
         }
       },
@@ -273,20 +273,20 @@
         "image_jyQnUP": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/cesto-vimini-piedistallo-portafrutta-portafiori.gif-1-2.gif"
+            "image": "shopify://shop_images/salvadoriarte-quadro-su-tela-around-block-80x100-cm.jpg"
           }
         },
         "product_eAykWe": {
           "type": "product",
           "settings": {
-            "product": "vanilla-fly-cestino-decorativo-rotondo-in-rattan-naturale-con-bordo-ondulato",
+            "product": "salvadoriarte-quadro-su-tela-around-block-ii-120x80-cm",
             "second_image": true
           }
         },
         "product_YyKAqm": {
           "type": "product",
           "settings": {
-            "product": "bitossi-home-tutti-i-frutti-alzata",
+            "product": "salvadoriarte-quadro-su-tela-horizon-iv-120x80-cm",
             "second_image": false
           }
         }
