@@ -33,7 +33,7 @@
       ],
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<p class=\"updated-date\">\n  Ultimo aggiornamento: {{ article.updated_at | date: \" %B %Y\" }}\n</p>",
+        "custom_liquid": "<p class=\"updated-date\">\nUltimo aggiornamento: Agosto 2026\n</p>\n</p>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
