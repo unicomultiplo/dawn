@@ -1,6 +1,225 @@
+{% doc %}
+  @prompt
+    Create a Designer info block for a collection page.
+    
+    Read the designer from: collection.metafields.custom.designer.value
+    
+    Layout: image on the right, text on the left. Same visual style as the existing product page Designer block (ai_gen_block_29af021).
+    
+    Show:
+    - Small uppercase label "Scopri il designer" above the name
+    - Designer name as h2 (field: nome)
+    - Bio as paragraph (field: bio)
+    - Designer photo on the right (field: foto)
+    - Primary button linking to designer URL (field: url_profilo) — show this button ONLY if url_profilo contains a blog URL (check with contains "/blogs/")
+    - Optional secondary button (configurable in settings: label, link, show/hide toggle)
+    
+    Settings to include (same ranges and defaults as ai_gen_block_29af021):
+    - image_width (%), gap (px), vertical_alignment
+    - section_padding_top, section_padding_bottom, section_padding_horizontal
+    - heading_size, text_size, text_spacing, text_color
+    - image_border_color
+    - button_primary_label, button_primary_bg, button_primary_color
+    - show_secondary_button, button_secondary_label, button_secondary_link, button_secondary_bg, button_secondary_color, button_secondary_border
+    - button_text_size, button_padding_vertical, button_padding_horizontal, button_spacing
+    
+    Responsive: stack vertically on mobile (max-width 749px).
+    Use settings.page_width, settings.media_radius, settings.buttons_radius, settings.media_border_thickness, settings.media_border_opacity, settings.buttons_border_thickness from theme global settings.
+{% enddoc %}
+{% assign ai_gen_id = block.id | replace: '_', '' | downcase %}
+{% assign designer = collection.metafields.custom.designer.value %}
+
+{% style %}
+  .ai-designer-info-{{ ai_gen_id }} {
+    display: block;
+    width: 100%;
+    color: {{ block.settings.text_color }};
+  }
+
+  .ai-designer-info-{{ ai_gen_id }}__inner {
+    width: {{ settings.page_width }}px;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: {{ block.settings.section_padding_top }}px {{ block.settings.section_padding_horizontal }}px {{ block.settings.section_padding_bottom }}px;
+    box-sizing: border-box;
+  }
+
+  .ai-designer-info-{{ ai_gen_id }}__layout {
+    display: flex;
+    align-items: {{ block.settings.vertical_alignment }};
+    gap: {{ block.settings.gap }}px;
+  }
+
+  .ai-designer-info-{{ ai_gen_id }}__content {
+    flex: 1 1 calc(100% - {{ block.settings.image_width }}% - {{ block.settings.gap }}px);
+    min-width: 0;
+  }
+
+  .ai-designer-info-{{ ai_gen_id }}__media {
+    flex: 0 0 {{ block.settings.image_width }}%;
+    max-width: {{ block.settings.image_width }}%;
+    overflow: hidden;
+    border: {{ settings.media_border_thickness }}px solid {{ block.settings.image_border_color }};
+    border-color: color-mix(in srgb, {{ block.settings.image_border_color }} {{ settings.media_border_opacity }}%, transparent);
+    border-radius: {{ settings.media_radius }}px;
+    line-height: 0;
+  }
+
+  .ai-designer-info-{{ ai_gen_id }}__media img,
+  .ai-designer-info-{{ ai_gen_id }}__placeholder svg {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+  }
+
+  .ai-designer-info-{{ ai_gen_id }}__placeholder {
+    background: #f3f3f3;
+  }
+
+  .ai-designer-info-{{ ai_gen_id }}__label {
+    margin: 0 0 10px;
+    font-size: 12px;
+    line-height: 1.3;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+
+  .ai-designer-info-{{ ai_gen_id }}__title {
+    margin: 0 0 {{ block.settings.text_spacing }}px;
+    font-size: {{ block.settings.heading_size }}px;
+    line-height: 1.15;
+  }
+
+  .ai-designer-info-{{ ai_gen_id }}__bio {
+    margin: 0 0 {{ block.settings.text_spacing }}px;
+    font-size: {{ block.settings.text_size }}px;
+    line-height: 1.6;
+  }
+
+  .ai-designer-info-{{ ai_gen_id }}__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: {{ block.settings.button_spacing }}px;
+    align-items: center;
+  }
+
+  .ai-designer-info-{{ ai_gen_id }}__button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 44px;
+    padding: {{ block.settings.button_padding_vertical }}px {{ block.settings.button_padding_horizontal }}px;
+    border-radius: {{ settings.buttons_radius }}px;
+    border: {{ settings.buttons_border_thickness }}px solid;
+    font-size: {{ block.settings.button_text_size }}px;
+    line-height: 1.2;
+    text-decoration: none;
+    text-align: center;
+    transition: opacity .2s ease;
+  }
+
+  .ai-designer-info-{{ ai_gen_id }}__button:hover,
+  .ai-designer-info-{{ ai_gen_id }}__button:focus-visible {
+    opacity: .8;
+  }
+
+  .ai-designer-info-{{ ai_gen_id }}__button--primary {
+    background: {{ block.settings.button_primary_bg }};
+    color: {{ block.settings.button_primary_color }};
+    border-color: {{ block.settings.button_primary_bg }};
+  }
+
+  .ai-designer-info-{{ ai_gen_id }}__button--secondary {
+    background: {{ block.settings.button_secondary_bg }};
+    color: {{ block.settings.button_secondary_color }};
+    border-color: {{ block.settings.button_secondary_border }};
+  }
+
+  @media screen and (max-width: 749px) {
+    .ai-designer-info-{{ ai_gen_id }}__layout {
+      flex-direction: column;
+      align-items: stretch;
+    }
+
+    .ai-designer-info-{{ ai_gen_id }}__content,
+    .ai-designer-info-{{ ai_gen_id }}__media {
+      flex-basis: auto;
+      max-width: 100%;
+      width: 100%;
+    }
+
+    .ai-designer-info-{{ ai_gen_id }}__media {
+      order: 2;
+    }
+  }
+{% endstyle %}
+
+<div class="ai-designer-info-{{ ai_gen_id }}" {{ block.shopify_attributes }}>
+  {% if designer != blank %}
+    <div class="ai-designer-info-{{ ai_gen_id }}__inner">
+      <div class="ai-designer-info-{{ ai_gen_id }}__layout">
+        <div class="ai-designer-info-{{ ai_gen_id }}__content">
+          <p class="ai-designer-info-{{ ai_gen_id }}__label">Scopri il designer</p>
+          {% if designer.nome != blank %}<h2 class="ai-designer-info-{{ ai_gen_id }}__title">{{ designer.nome | escape }}</h2>{% endif %}
+          {% if designer.bio != blank %}<div class="ai-designer-info-{{ ai_gen_id }}__bio">{{ designer.bio }}</div>{% endif %}
+          <div class="ai-designer-info-{{ ai_gen_id }}__actions">
+            {% if designer.url_profilo != blank and designer.url_profilo contains '/blogs/' %}
+              <a class="ai-designer-info-{{ ai_gen_id }}__button ai-designer-info-{{ ai_gen_id }}__button--primary" href="{{ designer.url_profilo }}">{{ block.settings.button_primary_label | escape }}</a>
+            {% endif %}
+            {% if block.settings.show_secondary_button and block.settings.button_secondary_link != blank %}
+              <a class="ai-designer-info-{{ ai_gen_id }}__button ai-designer-info-{{ ai_gen_id }}__button--secondary" href="{{ block.settings.button_secondary_link }}">{{ block.settings.button_secondary_label | escape }}</a>
+            {% endif %}
+          </div>
+        </div>
+        <div class="ai-designer-info-{{ ai_gen_id }}__media">
+          {% if designer.foto != blank %}
+            <img src="{{ designer.foto | image_url: width: 1200 }}" alt="{{ designer.nome | escape }}" loading="lazy" width="{{ designer.foto.width }}" height="{{ designer.foto.height }}">
+          {% else %}
+            <div class="ai-designer-info-{{ ai_gen_id }}__placeholder">{{ 'image' | placeholder_svg_tag }}</div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  {% endif %}
+</div>
+
 {% schema %}
- {
-   "name": "AI_Block",
-   "tag": "shopify-ai-generated-block"
- }
+{
+  "name": "Designer info",
+  "settings": [
+    { "type": "header", "content": "Layout" },
+    { "type": "range", "id": "image_width", "label": "Image width", "min": 25, "max": 60, "step": 5, "unit": "%", "default": 40 },
+    { "type": "range", "id": "gap", "label": "Gap", "min": 10, "max": 100, "step": 5, "unit": "px", "default": 50 },
+    { "type": "select", "id": "vertical_alignment", "label": "Vertical alignment", "options": [{ "value": "flex-start", "label": "Top" }, { "value": "center", "label": "Center" }, { "value": "flex-end", "label": "Bottom" }], "default": "center" },
+    { "type": "range", "id": "section_padding_top", "label": "Top padding", "min": 0, "max": 120, "step": 8, "unit": "px", "default": 48 },
+    { "type": "range", "id": "section_padding_bottom", "label": "Bottom padding", "min": 0, "max": 120, "step": 8, "unit": "px", "default": 48 },
+    { "type": "range", "id": "section_padding_horizontal", "label": "Horizontal padding", "min": 0, "max": 80, "step": 4, "unit": "px", "default": 20 },
+    { "type": "header", "content": "Text" },
+    { "type": "range", "id": "heading_size", "label": "Heading size", "min": 20, "max": 64, "step": 2, "unit": "px", "default": 40 },
+    { "type": "range", "id": "text_size", "label": "Text size", "min": 12, "max": 24, "step": 1, "unit": "px", "default": 16 },
+    { "type": "range", "id": "text_spacing", "label": "Text spacing", "min": 8, "max": 48, "step": 4, "unit": "px", "default": 24 },
+    { "type": "color", "id": "text_color", "label": "Text color", "default": "#121212" },
+    { "type": "color", "id": "image_border_color", "label": "Image border color", "default": "#121212" },
+    { "type": "header", "content": "Buttons" },
+    { "type": "text", "id": "button_primary_label", "label": "Primary label", "default": "Scopri il designer" },
+    { "type": "color", "id": "button_primary_bg", "label": "Primary background", "default": "#121212" },
+    { "type": "color", "id": "button_primary_color", "label": "Primary text", "default": "#ffffff" },
+    { "type": "checkbox", "id": "show_secondary_button", "label": "Show secondary button", "default": false },
+    { "type": "text", "id": "button_secondary_label", "label": "Secondary label", "default": "Scopri di più" },
+    { "type": "url", "id": "button_secondary_link", "label": "Secondary link" },
+    { "type": "color", "id": "button_secondary_bg", "label": "Secondary background", "default": "#ffffff" },
+    { "type": "color", "id": "button_secondary_color", "label": "Secondary text", "default": "#121212" },
+    { "type": "color", "id": "button_secondary_border", "label": "Secondary border", "default": "#121212" },
+    { "type": "range", "id": "button_text_size", "label": "Button text size", "min": 12, "max": 22, "step": 1, "unit": "px", "default": 14 },
+    { "type": "range", "id": "button_padding_vertical", "label": "Vertical padding", "min": 8, "max": 24, "step": 2, "unit": "px", "default": 14 },
+    { "type": "range", "id": "button_padding_horizontal", "label": "Horizontal padding", "min": 12, "max": 48, "step": 2, "unit": "px", "default": 24 },
+    { "type": "range", "id": "button_spacing", "label": "Button spacing", "min": 4, "max": 32, "step": 4, "unit": "px", "default": 12 }
+  ],
+  "presets": [{ "name": "Designer info" }],
+  "tag": null,
+  "class": "designer-info-block"
+}
 {% endschema %}
