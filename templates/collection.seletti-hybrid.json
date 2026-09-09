@@ -76,6 +76,46 @@
         "padding_bottom": 36
       }
     },
+    "blocks_T6xQPy": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_27678b4_PcpXNA": {
+          "type": "ai_gen_block_27678b4",
+          "settings": {
+            "image_width": 25,
+            "gap": 50,
+            "vertical_alignment": "center",
+            "section_padding_top": 24,
+            "section_padding_bottom": 24,
+            "section_padding_horizontal": 20,
+            "heading_size": 40,
+            "text_size": 14,
+            "text_spacing": 24,
+            "text_color": "#121212",
+            "image_border_color": "#121212",
+            "button_primary_label": "Scopri il designer",
+            "button_primary_bg": "#121212",
+            "button_primary_color": "#ffffff",
+            "show_secondary_button": false,
+            "button_secondary_label": "Scopri di più",
+            "button_secondary_link": "",
+            "button_secondary_bg": "#ffffff",
+            "button_secondary_color": "#121212",
+            "button_secondary_border": "#121212",
+            "button_text_size": 14,
+            "button_padding_vertical": 14,
+            "button_padding_horizontal": 24,
+            "button_spacing": 12
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_27678b4_PcpXNA"
+      ],
+      "name": "Designer info collection",
+      "settings": {}
+    },
     "multicolumn_kTpJKY": {
       "type": "multicolumn",
       "blocks": {
@@ -272,6 +312,7 @@
     "banner",
     "rich_text_rEXHHf",
     "product-grid",
+    "blocks_T6xQPy",
     "multicolumn_kTpJKY",
     "multicolumn_MxLddP",
     "multicolumn_38PWQd"
