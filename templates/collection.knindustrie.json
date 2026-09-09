@@ -35,6 +35,7 @@
       "settings": {
         "products_per_page": 36,
         "columns_desktop": 4,
+        "columns_mobile": "2",
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
         "image_ratio": "square",
         "image_shape": "default",
@@ -45,10 +46,49 @@
         "enable_filtering": true,
         "filter_type": "drawer",
         "enable_sorting": true,
-        "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "blocks_9cXdWG": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_27678b4_P8gdC3": {
+          "type": "ai_gen_block_27678b4",
+          "settings": {
+            "image_width": 25,
+            "gap": 50,
+            "vertical_alignment": "center",
+            "section_padding_top": 24,
+            "section_padding_bottom": 24,
+            "section_padding_horizontal": 20,
+            "heading_size": 40,
+            "text_size": 14,
+            "text_spacing": 24,
+            "text_color": "#121212",
+            "image_border_color": "#121212",
+            "button_primary_label": "Scopri il designer",
+            "button_primary_bg": "#121212",
+            "button_primary_color": "#ffffff",
+            "show_secondary_button": false,
+            "button_secondary_label": "Scopri di più",
+            "button_secondary_link": "",
+            "button_secondary_bg": "#ffffff",
+            "button_secondary_color": "#121212",
+            "button_secondary_border": "#121212",
+            "button_text_size": 14,
+            "button_padding_vertical": 14,
+            "button_padding_horizontal": 24,
+            "button_spacing": 12
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_27678b4_P8gdC3"
+      ],
+      "name": "Designer info collection",
+      "settings": {}
     },
     "multicolumn_fKzGUM": {
       "type": "multicolumn",
@@ -119,11 +159,11 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
+        "button_label": "",
+        "button_link": "",
         "columns_desktop": 5,
         "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
         "color_scheme": "scheme-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
@@ -136,6 +176,7 @@
     "custom_liquid_yC8VMV",
     "banner",
     "product-grid",
+    "blocks_9cXdWG",
     "multicolumn_fKzGUM"
   ]
 }
