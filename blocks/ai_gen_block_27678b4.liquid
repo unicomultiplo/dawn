@@ -166,8 +166,8 @@
           {% if designer.nome != blank %}<h2 class="ai-designer-info-{{ ai_gen_id }}__title">{{ designer.nome | escape }}</h2>{% endif %}
           {% if designer.bio != blank %}<div class="ai-designer-info-{{ ai_gen_id }}__bio">{{ designer.bio }}</div>{% endif %}
           <div class="ai-designer-info-{{ ai_gen_id }}__actions">
-            {% if designer.url_profilo != blank and designer.url_profilo contains '/blogs/' %}
-              <a class="ai-designer-info-{{ ai_gen_id }}__button ai-designer-info-{{ ai_gen_id }}__button--primary" href="{{ designer.url_profilo }}">{{ block.settings.button_primary_label | escape }}</a>
+            {% if designer.url_profilo.value != blank and designer.url_profilo.value contains '/blogs/' %}
+              <a class="ai-designer-info-{{ ai_gen_id }}__button ai-designer-info-{{ ai_gen_id }}__button--primary" href="{{ designer.url_profilo.value }}">{{ block.settings.button_primary_label | escape }}</a>
             {% endif %}
             {% if block.settings.show_secondary_button and block.settings.button_secondary_link != blank %}
               <a class="ai-designer-info-{{ ai_gen_id }}__button ai-designer-info-{{ ai_gen_id }}__button--secondary" href="{{ block.settings.button_secondary_link }}">{{ block.settings.button_secondary_label | escape }}</a>
