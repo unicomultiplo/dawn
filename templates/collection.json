@@ -50,7 +50,7 @@
             "gap": 50,
             "vertical_alignment": "center",
             "section_padding_top": 24,
-            "section_padding_bottom": 48,
+            "section_padding_bottom": 24,
             "section_padding_horizontal": 20,
             "heading_size": 40,
             "text_size": 14,
