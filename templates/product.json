@@ -297,7 +297,7 @@
         "ai_gen_block_29af021_JNGwRa": {
           "type": "ai_gen_block_29af021",
           "settings": {
-            "image_width": 40,
+            "image_width": 30,
             "gap": 20,
             "vertical_alignment": "flex-start",
             "section_padding_top": 40,
