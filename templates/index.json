@@ -704,8 +704,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/cosa-regalare-per-una-casa-nuova.webp",
-            "title": "Cosa regalare per una casa nuova",
-            "text": "",
+            "title": "",
+            "text": "<p>Cosa regalare per una casa nuova<strong> →</strong></p>",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-per-una-casa-nuova"
           }
