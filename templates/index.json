@@ -108,7 +108,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Bitosi-home-petalo.webp",
-            "title": "",
+            "title": "<strong>Petalo </strong>è una collezione pensata per l'uso quotidiano",
             "text": "",
             "link_label": "",
             "link": "shopify://collections/bitossi-home-petalo-bitossi-home"
@@ -118,7 +118,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Bitossi-home-insalatiera.webp",
-            "title": "",
+            "title": "<strong>Insalatiera Tavola Scomposta</strong>Colore e fantasia in tavola.",
             "text": "",
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/products/4738-bitossi-home-tavola-scomposta-insalatiera"
@@ -128,7 +128,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Bitossi-home-piatto-ovale.webp",
-            "title": "",
+            "title": "Vassoio ovale \"Fiore Occhio\"",
             "text": "",
             "link_label": "",
             "link": "shopify://collections/bitossi-home-funky-table-tavola-scomposta"
