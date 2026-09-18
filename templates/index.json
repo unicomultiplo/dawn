@@ -139,8 +139,8 @@
           "settings": {
             "title": "La tavola secondo Bitossi Home",
             "text": "<p><br/>Colori, decori e forme da combinare liberamente. Scopri le collezioni di piatti Bitossi Home e crea una tavola personale, elegante e mai scontata.<br/><br/></p><h3></h3><p></p>",
-            "link_label": "Scopri tutti i piatti →",
-            "link": "shopify://collections"
+            "link_label": "Scopri la tavola scomposta",
+            "link": "shopify://collections/bitossi-home-funky-table-tavola-scomposta"
           }
         }
       },
