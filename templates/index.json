@@ -32,6 +32,7 @@
         },
         "slide_YHqDyt": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/tappeto-miho.webp",
             "image_overlay_opacity": 30,
@@ -106,40 +107,40 @@
         "column_XrjaiE": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/piece-of-me-sgabello-seletti.webp",
+            "image": "shopify://shop_images/Bitosi-home-petalo.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/products/seletti-piece-of-me-sgabello-woman-h45-cm"
+            "link": "shopify://collections/bitossi-home-petalo-bitossi-home"
           }
         },
         "column_RUzwg4": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/piece-of-me-sgabello-seletti-2.webp",
+            "image": "shopify://shop_images/Bitossi-home-insalatiera.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/products/seletti-piece-of-me-sgabello-man-h45-cm"
+            "link": "https://www.unicoemultiplo.com/products/4738-bitossi-home-tavola-scomposta-insalatiera"
           }
         },
         "column_XCzETy": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/piece-of-me-sgabello-seletti-3.webp",
+            "image": "shopify://shop_images/Bitossi-home-piatto-ovale.webp",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "https://www.unicoemultiplo.com/products/seletti-piece-of-me-sgabello-woman-h45-cm"
+            "link": "shopify://collections/bitossi-home-funky-table-tavola-scomposta"
           }
         },
         "column_qimwBB": {
           "type": "column",
           "settings": {
-            "title": "Un oggetto che va oltre la funzione.",
-            "text": "<p>Firmata da Uto Balmoral per Seletti, Piece of Me trasforma la forma umana in un arredo sorprendente. Sgabello, tavolino o scultura domestica: un design ironico e provocatorio, creato per arredare, comunicare e lasciare il segno.</p><h3></h3><p></p>",
-            "link_label": "Scopri Him & Her →",
-            "link": "https://www.unicoemultiplo.com/products/seletti-piece-of-me-sgabello-woman-h45-cm"
+            "title": "La tavola secondo Bitossi Home",
+            "text": "<p><br/>Colori, decori e forme da combinare liberamente. Scopri le collezioni di piatti Bitossi Home e crea una tavola personale, elegante e mai scontata.<br/><br/></p><h3></h3><p></p>",
+            "link_label": "Scopri tutti i piatti →",
+            "link": "shopify://collections"
           }
         }
       },
@@ -161,8 +162,8 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
-        "button_label": "",
-        "button_link": "shopify://collections/reggia-knindustrie",
+        "button_label": "Scopri tutti i piatti →",
+        "button_link": "shopify://collections/bitossi-home-piatti",
         "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "primary",
