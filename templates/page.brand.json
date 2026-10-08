@@ -70,6 +70,12 @@
             "collection": "doiy"
           }
         },
+        "featured_collection_KrMQjR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "filotto"
+          }
+        },
         "featured_collection_fJLhKV": {
           "type": "featured_collection",
           "settings": {
@@ -87,12 +93,6 @@
           "settings": {
             "collection": "hoff-interieur"
           }
-        },
-        "featured_collection_8a8jpz": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "ichendorf-catalogo"
-          }
         }
       },
       "block_order": [
@@ -104,10 +104,10 @@
         "featured_collection_CHFcMc",
         "featured_collection_7Xdy6g",
         "featured_collection_UE68y3",
+        "featured_collection_KrMQjR",
         "featured_collection_fJLhKV",
         "featured_collection_3wBXgj",
-        "featured_collection_YnBgfe",
-        "featured_collection_8a8jpz"
+        "featured_collection_YnBgfe"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
@@ -126,6 +126,12 @@
     "collection_list_jnKmig": {
       "type": "collection-list",
       "blocks": {
+        "featured_collection_g9dNW7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ichendorf-catalogo"
+          }
+        },
         "featured_collection_9cMBcT": {
           "type": "featured_collection",
           "settings": {
@@ -191,15 +197,10 @@
           "settings": {
             "collection": "printworks"
           }
-        },
-        "featured_collection_QE7Kmx": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "reisenthel"
-          }
         }
       },
       "block_order": [
+        "featured_collection_g9dNW7",
         "featured_collection_9cMBcT",
         "featured_collection_LFgyKP",
         "featured_collection_WMwQH6",
@@ -210,8 +211,7 @@
         "featured_collection_khi6BE",
         "featured_collection_atbhqM",
         "featured_collection_KCztEd",
-        "featured_collection_mXDYg4",
-        "featured_collection_QE7Kmx"
+        "featured_collection_mXDYg4"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
@@ -230,6 +230,12 @@
     "collection_list_KNA8Tz": {
       "type": "collection-list",
       "blocks": {
+        "featured_collection_7aN6NT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "reisenthel"
+          }
+        },
         "featured_collection_tDFKDH": {
           "type": "featured_collection",
           "settings": {
@@ -286,6 +292,7 @@
         }
       },
       "block_order": [
+        "featured_collection_7aN6NT",
         "featured_collection_tDFKDH",
         "featured_collection_CtXHxP",
         "featured_collection_4nHVpt",
