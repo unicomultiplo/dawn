@@ -41,7 +41,7 @@
         "text_RCUXGa": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Turbo Moka</strong> è la caffettiera Made in Italy pensata per chi<br/>  ama il gusto della moka tradizionale ma desidera una preparazione più rapida<br/>  ed efficiente.<br/></p><p><br/>  La speciale <strong>base alettata ispirata alle turbine</strong> aumenta la<br/>  superficie a contatto con il calore e ne favorisce una distribuzione più<br/>  uniforme. Sui fornelli a gas può ridurre fino al 50% i tempi di preparazione<br/>  e il consumo di gas rispetto a una moka tradizionale.<br/></p><p><br/>  Si utilizza con la stessa semplicità della moka classica ed è disponibile nei<br/>  formati da <strong>1, 3 e 6 tazze</strong>, per adattarsi a diverse abitudini<br/>  di consumo.<br/></p><ul><li>preparazione rapida ed efficiente;</li><li>utilizzo semplice e tradizionale;</li><li>produzione 100% Made in Italy;</li><li>formati da 1, 3 e 6 tazze;</li><li>utilizzabile sull’induzione con il disco adattatore dedicato.</li></ul><p><br/>  Prosegui nella pagina per confrontare i formati e scegliere la<br/>  <strong>Turbo Moka più adatta alle tue esigenze</strong>.<br/></p>",
+            "text": "<p><strong>Turbo Moka</strong> è la caffettiera Made in Italy pensata per chi ama il gusto della moka tradizionale ma desidera una preparazione più rapida ed efficiente.</p><p>La speciale <strong>base alettata ispirata alle turbine</strong> aumenta la superficie a contatto con il calore e ne favorisce una distribuzione più uniforme. Sui fornelli a gas può ridurre fino al 50% i tempi di preparazione e il consumo di gas rispetto a una moka tradizionale.</p><p>Si utilizza con la stessa semplicità della moka classica ed è disponibile nei formati da&nbsp;<strong>1, 2, 3 e 6 tazze, più Turbo Moka Duetto </strong>-&nbsp;per adattarsi a diverse abitudini di consumo.</p><ul><li>preparazione rapida ed efficiente;</li><li>utilizzo semplice e tradizionale;</li><li>produzione 100% Made in Italy;</li><li>1, 2, 3 e 6 tazze, più Turbo Moka Duetto;</li><li>utilizzabile sull’induzione con il disco adattatore dedicato.</li></ul><p>Prosegui nella pagina per confrontare i formati e scegliere la <strong>Turbo Moka più adatta alle tue esigenze</strong>.<br/></p>",
             "text_style": "body"
           }
         },
@@ -84,7 +84,7 @@
           "type": "column",
           "settings": {
             "title": "Come funziona",
-            "text": "<p>Il principio è quello della moka tradizionale: il calore fa salire l’acqua attraverso il caffè macinato.</p><p>La speciale <strong>base alettata</strong> aumenta la superficie a contatto con il calore e ne favorisce una distribuzione più rapida e uniforme. Sui fornelli a gas può ridurre fino al 50% i tempi di preparazione e il consumo di gas rispetto a una moka tradizionale.</p>",
+            "text": "<p>Il principio è quello della moka tradizionale: il calore fa salire l’acqua attraverso il caffè macinato.</p><p>La speciale&nbsp;<strong>base alettata</strong>&nbsp;aumenta la superficie a contatto con il calore e ne favorisce una distribuzione più rapida e uniforme. Sui fornelli a gas può ridurre fino al 50% i tempi di preparazione e il consumo di gas rispetto a una moka tradizionale.</p>",
             "link_label": "",
             "link": ""
           }
@@ -144,7 +144,7 @@
         "caption_qdbQkj": {
           "type": "caption",
           "settings": {
-            "caption": "Turbo Moka è disponibile in 3 formati: 1 tazza – 3 tazze – 6 tazze",
+            "caption": "Turbo Moka è disponibile in 5 formati: 1 tazza - 2 tazze - 3 tazze - 6 tazze - Duetto",
             "text_style": "subtitle",
             "text_size": "large"
           }
