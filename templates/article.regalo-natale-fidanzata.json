@@ -192,7 +192,7 @@
       "settings": {
         "image": "shopify://shop_images/blog-unico-e-multiplo-idee-regalo-natale-per-fidanzata-moglie-amica.webp",
         "height": "small",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "text_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
@@ -261,7 +261,7 @@
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
-        "image_height": "small",
+        "image_height": "adapt",
         "desktop_image_width": "small",
         "image_layout": "alternate-left",
         "heading_size": "h1",
@@ -311,7 +311,7 @@
       "settings": {
         "image": "shopify://shop_images/Fidanzata-o-moglie-che-ama-cucinare.png",
         "height": "small",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
@@ -380,7 +380,7 @@
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
-        "image_height": "small",
+        "image_height": "adapt",
         "desktop_image_width": "small",
         "image_layout": "alternate-left",
         "heading_size": "h1",
@@ -459,7 +459,7 @@
       "settings": {
         "image": "shopify://shop_images/Fidanzata-o-moglie-che-ama-viaggiare.png",
         "height": "small",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "text_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
@@ -516,7 +516,7 @@
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
-        "image_height": "small",
+        "image_height": "adapt",
         "desktop_image_width": "small",
         "image_layout": "alternate-left",
         "heading_size": "h1",
@@ -595,7 +595,7 @@
       "settings": {
         "image": "shopify://shop_images/La-fidanzata-o-moglie-che-ama-leggere.png",
         "height": "small",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "image_behavior": "none",
         "content_layout": "no-overlap",
@@ -652,7 +652,7 @@
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
-        "image_height": "small",
+        "image_height": "adapt",
         "desktop_image_width": "small",
         "image_layout": "alternate-left",
         "heading_size": "h1",
