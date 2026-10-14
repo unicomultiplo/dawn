@@ -201,8 +201,8 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Compatibilità piani cottura",
-            "icon": "none",
-            "row_content": "<p><strong>Turbo Moka può essere utilizzata su diversi piani cottura.</strong></p><p><br/>&nbsp; <strong>Fornelli a gas</strong><br/><br/>&nbsp; Consigliati per ottenere le prestazioni massime dichiarate.<br/></p><p><br/>&nbsp; <strong>Piani elettrici</strong><br/><br/>&nbsp; Turbo Moka può essere utilizzata normalmente.<br/></p><p><br/>&nbsp; <strong>Piani a induzione</strong><br/><br/>Utilizzabile con il <a href=\"https://www.unicoemultiplo.com/products/turbo-moka-disco-adattatore-a-induzione\">disco adattatore Turbo Moka&nbsp;</a><br/></p><p><br/>&nbsp; Utilizzata con il disco adattatore, Turbo Moka mantiene una preparazione<br/>&nbsp; rapida anche sul piano a induzione. I tempi possono variare in base alla<br/>&nbsp; potenza e alle caratteristiche del piano cottura.<br/></p><p><br/>&nbsp; <strong>Prestazioni massime:</strong> la riduzione fino al 50% dei tempi di<br/>&nbsp; preparazione e del consumo di gas è ottimizzata per l’utilizzo sui fornelli<br/>&nbsp; a gas.<br/></p>",
+            "icon": "lightning_bolt",
+            "row_content": "<p>Turbo Moka può essere utilizzata su diversi piani cottura.</p><ul><li><strong>Fornelli a gas:</strong> Consigliati per ottenere le prestazioni massime dichiarate.<br/></li><li><strong>Piani elettrici: </strong>Turbo Moka può essere utilizzata normalmente.<br/></li><li><strong>Piani a induzione: u</strong>tilizzabile con il <a href=\"https://www.unicoemultiplo.com/products/turbo-moka-disco-adattatore-a-induzione\">disco adattatore Turbo Moka.</a><br/></li></ul><p>Utilizzata con il disco adattatore, Turbo Moka mantiene una preparazione rapida anche sul piano a induzione. I tempi possono variare in base alla potenza e alle caratteristiche del piano cottura.<br/></p><ul><li><strong>Prestazioni massime:</strong> la riduzione fino al 50% dei tempi di preparazione e del consumo di gas è ottimizzata per l’utilizzo sui fornelli a gas.</li></ul>",
             "page": "",
             "liquid_content": ""
           }
@@ -211,7 +211,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Manutenzione e pulizia",
-            "icon": "none",
+            "icon": "iron",
             "row_content": "<p>Per mantenere Turbo Moka in condizioni ottimali:</p><ul><li><strong>Lavala a mano con acqua calda</strong></li><li>Non utilizzare la lavastoviglie</li><li>Evita detergenti aggressivi</li><li>Non utilizzare spugne abrasive</li><li><strong>Asciugala completamente</strong> prima di rimontarla</li></ul><p><br/>&nbsp; Una corretta manutenzione aiuta a preservare nel tempo l’aroma del caffè,<br/>&nbsp; i materiali e le prestazioni della caffettiera.<br/></p>",
             "page": "",
             "liquid_content": ""
@@ -221,8 +221,8 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Consigli per l’uso quotidiano",
-            "icon": "none",
-            "row_content": "<p>Per ottenere un buon risultato ogni giorno:</p><p>✓ Usa caffè macinato specifico per moka</p><p>✓ Non pressare eccessivamente il caffè nel filtro</p><p>✓ Utilizza una fiamma o una potenza moderata</p><p>✓ Interrompi il calore appena termina l’erogazione</p><p><br/>  Questi semplici accorgimenti aiutano a ottenere un caffè equilibrato<br/>  e a preservare la caffettiera nel tempo.<br/></p>",
+            "icon": "clipboard",
+            "row_content": "<p>Per ottenere un buon risultato ogni giorno:</p><p>✓ Usa caffè macinato specifico per moka</p><p>✓ Non pressare eccessivamente il caffè nel filtro</p><p>✓ Utilizza una fiamma o una potenza moderata</p><p>✓ Interrompi il calore appena termina l’erogazione</p><p><br/>&nbsp; Questi semplici accorgimenti aiutano a ottenere un caffè equilibrato<br/>&nbsp; e a preservare la caffettiera nel tempo.<br/></p>",
             "page": "",
             "liquid_content": ""
           }
