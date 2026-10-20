@@ -1148,16 +1148,6 @@
     "collapsible_content_PibdL6": {
       "type": "collapsible-content",
       "blocks": {
-        "collapsible_row_tYC4aX": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": "",
-            "liquid_content": ""
-          }
-        },
         "collapsible_row_zWD4xz": {
           "type": "collapsible_row",
           "settings": {
@@ -1190,7 +1180,6 @@
         }
       },
       "block_order": [
-        "collapsible_row_tYC4aX",
         "collapsible_row_zWD4xz",
         "collapsible_row_3tGpj3",
         "collapsible_row_QrPfLd"
@@ -1198,7 +1187,7 @@
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
         "caption": "",
-        "heading": "Contenuto comprimibile",
+        "heading": "&nbsp;Domande frequenti su cosa regalare ai genitori",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
