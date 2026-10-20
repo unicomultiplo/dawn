@@ -1151,9 +1151,9 @@
         "collapsible_row_zWD4xz": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "È meglio fare un regalo unico o due regali separati ai genitori?",
+            "icon": "heart",
+            "row_content": "<p><strong>Dipende dalle loro abitudini. </strong>Un regalo condiviso funziona bene se hanno una passione comune; <strong>due regali diversi sono preferibili quando hanno gusti molto differenti.</strong></p>",
             "page": "",
             "liquid_content": ""
           }
@@ -1161,9 +1161,9 @@
         "collapsible_row_3tGpj3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Cosa regalare ai genitori per Natale con un budget di 50 euro?",
+            "icon": "heart",
+            "row_content": "<p>Si può puntare su un <strong>accessorio </strong>di qualità per la <strong>cucina</strong>, sul <strong>caffè </strong>o su un piccolo <strong>oggetto decorativo</strong>, scegliendo qualcosa che rispecchi i loro gusti.</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -1171,9 +1171,9 @@
         "collapsible_row_QrPfLd": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Cosa regalare ai genitori che hanno già tutto?",
+            "icon": "heart",
+            "row_content": "<p>Meglio un <strong>oggetto originale</strong> legato a <strong>un'abitudine</strong> che amano, oppure qualcosa che renda più piacevole un momento <strong>condiviso</strong>.&nbsp;</p>",
             "page": "",
             "liquid_content": ""
           }
@@ -1193,7 +1193,7 @@
         "layout": "none",
         "container_color_scheme": "",
         "color_scheme": "",
-        "open_first_collapsible_row": false,
+        "open_first_collapsible_row": true,
         "image": "shopify://shop_images/regali-idee-regalo.webp",
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
