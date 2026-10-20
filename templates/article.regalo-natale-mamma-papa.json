@@ -506,28 +506,6 @@
     "multirow_TGNpHm": {
       "type": "multirow",
       "blocks": {
-        "row_97RkUn": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/bitossi-home-guest-piatto-pizza12.webp",
-            "caption": "Bitossi Home",
-            "heading": "Guest - Piatto pizza",
-            "text": "<p><a href=\"/products/bitossi-home-guest-piatto-pizza-mamma-mia\" title=\"Bitossi Home Guest Piatto pizza Mamma Mia\">Il <strong>piatto pizza in ceramica “Guest </strong></a><strong>”</strong>si presenta con linee semplici, perfetto per la mamma che ama presentare la pizza in modo <strong>originale e spiritoso.</strong> Un’idea regalo di Natale elegante e di qualità per la tua mamma.&nbsp;<br/><br/></p>",
-            "button_label": "SCOPRILO",
-            "button_link": "shopify://products/bitossi-home-guest-piatto-pizza-mamma-mia"
-          }
-        },
-        "row_trGkxn": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-moby-dick-tagliere-forma-balena-2.webp",
-            "caption": "KNINDUSTRIE",
-            "heading": "Moby Dick Tagliere a forma di balena&nbsp;",
-            "text": "<p>Un tagliere che porta un pizzico di fantasia in cucina. <strong>Moby Dick di knIndustrie</strong>, con la sua originale forma di balena, trasforma un accessorio quotidiano in un oggetto di design tutto da mostrare.</p><p>Un'idea regalo di Natale per una mamma che ama cucinare e sorprendere anche nella presentazione dei suoi piatti.</p>",
-            "button_label": "SCOPRILO",
-            "button_link": "https://www.unicoemultiplo.com/products/3330-knindustrie-moby-dick-tagliere-forma-balena"
-          }
-        },
         "row_KpiUBC": {
           "type": "row",
           "settings": {
@@ -549,13 +527,35 @@
             "button_label": "SCOPRILE",
             "button_link": "https://www.unicoemultiplo.com/collections/knindustrie-catalogo-prodotti-abct"
           }
+        },
+        "row_97RkUn": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-home-guest-piatto-pizza12.webp",
+            "caption": "Bitossi Home",
+            "heading": "Guest - Piatto pizza",
+            "text": "<p><a href=\"/products/bitossi-home-guest-piatto-pizza-mamma-mia\" title=\"Bitossi Home Guest Piatto pizza Mamma Mia\">Il <strong>piatto pizza in ceramica “Guest </strong></a><strong>”</strong>si presenta con linee semplici, perfetto per la mamma che ama presentare la pizza in modo <strong>originale e spiritoso.</strong> Un’idea regalo di Natale elegante e di qualità per la tua mamma.&nbsp;<br/><br/></p>",
+            "button_label": "SCOPRILO",
+            "button_link": "shopify://products/bitossi-home-guest-piatto-pizza-mamma-mia"
+          }
+        },
+        "row_trGkxn": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-moby-dick-tagliere-forma-balena-2.webp",
+            "caption": "KNINDUSTRIE",
+            "heading": "Moby Dick Tagliere a forma di balena&nbsp;",
+            "text": "<p>Un tagliere che porta un pizzico di fantasia in cucina. <strong>Moby Dick di knIndustrie</strong>, con la sua originale forma di balena, trasforma un accessorio quotidiano in un oggetto di design tutto da mostrare.</p><p>Un'idea regalo di Natale per una mamma che ama cucinare e sorprendere anche nella presentazione dei suoi piatti.</p>",
+            "button_label": "SCOPRILO",
+            "button_link": "https://www.unicoemultiplo.com/products/3330-knindustrie-moby-dick-tagliere-forma-balena"
+          }
         }
       },
       "block_order": [
-        "row_97RkUn",
-        "row_trGkxn",
         "row_KpiUBC",
-        "row_pHqHjt"
+        "row_pHqHjt",
+        "row_97RkUn",
+        "row_trGkxn"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
