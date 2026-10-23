@@ -269,7 +269,7 @@
         "text_KyKrBk": {
           "type": "text",
           "settings": {
-            "text": "<p>Stabilire quanto spendere ti aiuta a organizzare gli acquisti senza rinunciare a un regalo originale e ben pensato.<br/><br/>Parti dal budget complessivo e distribuiscilo tra le persone della tua lista, considerando il tipo di regalo che desideri fare. Non è necessario destinare la stessa cifra a tutti: ciò che conta è scegliere qualcosa di adatto a ciascuno.<br/><br/>Per trovare più facilmente un'idea, puoi esplorare le nostre selezioni di regali per fascia di prezzo.<br/><br/></p>"
+            "text": "<p><strong>Stabilire quanto spendere</strong> ti aiuta a organizzare gli acquisti senza rinunciare a un<strong> regalo originale e ben pensato.</strong> Parti dal budget complessivo e distribuiscilo tra le persone della tua lista, considerando il tipo di regalo che desideri fare. Non è necessario destinare la stessa cifra a tutti: ciò che conta è scegliere<strong> qualcosa di adatto a ciascuno.</strong><br/><br/>Per trovare più facilmente un'idea, puoi <strong>esplorare </strong>le nostre selezioni di <strong>regali per fascia di prezzo.</strong></p>"
           }
         },
         "button_EneT3q": {
@@ -288,7 +288,7 @@
           "settings": {
             "button_label": "Regali sotto i 150 €",
             "button_link": "shopify://collections/idee-regalo-regali-sotto-150-euro",
-            "button_style_secondary": true,
+            "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -311,11 +311,11 @@
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "left",
-        "content_alignment": "left",
+        "content_alignment": "center",
         "color_scheme": "scheme-2e5c87f5-32a3-471b-8a2f-9099229130c1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 24,
+        "padding_bottom": 24
       }
     },
     "image_with_text_et4rKW": {
