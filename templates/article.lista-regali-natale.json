@@ -181,6 +181,7 @@
         "column_JzFpNn",
         "column_QRyCjy"
       ],
+      "custom_css": [],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "<em>Ancora a corto di idee? Ti aiutiamo noi! </em>Scopri i nostri consigli e le proposte selezionate per creare la tua lista di regali",
@@ -253,7 +254,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "rich_text_CW87NL": {
