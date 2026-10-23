@@ -15,7 +15,7 @@
       "settings": {
         "image": "shopify://shop_images/natale-genitori-regalo-66b23dff.png",
         "image_overlay_opacity": 0,
-        "image_height": "small",
+        "image_height": "medium",
         "image_behavior": "none",
         "desktop_content_position": "middle-center",
         "desktop_content_alignment": "center",
@@ -299,7 +299,7 @@
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
-        "image_height": "small",
+        "image_height": "adapt",
         "desktop_image_width": "small",
         "image_layout": "alternate-left",
         "heading_size": "h1",
@@ -406,7 +406,7 @@
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
-        "image_height": "small",
+        "image_height": "adapt",
         "desktop_image_width": "small",
         "image_layout": "alternate-left",
         "heading_size": "h1",
@@ -559,7 +559,7 @@
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
-        "image_height": "small",
+        "image_height": "adapt",
         "desktop_image_width": "small",
         "image_layout": "alternate-left",
         "heading_size": "h1",
@@ -666,7 +666,7 @@
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
-        "image_height": "small",
+        "image_height": "adapt",
         "desktop_image_width": "small",
         "image_layout": "alternate-left",
         "heading_size": "h1",
@@ -773,7 +773,7 @@
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
-        "image_height": "small",
+        "image_height": "adapt",
         "desktop_image_width": "small",
         "image_layout": "alternate-left",
         "heading_size": "h1",
@@ -892,7 +892,7 @@
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
-        "image_height": "small",
+        "image_height": "adapt",
         "desktop_image_width": "small",
         "image_layout": "alternate-left",
         "heading_size": "h1",
@@ -1011,7 +1011,7 @@
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
-        "image_height": "small",
+        "image_height": "adapt",
         "desktop_image_width": "small",
         "image_layout": "alternate-left",
         "heading_size": "h1",
@@ -1118,7 +1118,7 @@
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
-        "image_height": "small",
+        "image_height": "adapt",
         "desktop_image_width": "small",
         "image_layout": "alternate-left",
         "heading_size": "h1",
