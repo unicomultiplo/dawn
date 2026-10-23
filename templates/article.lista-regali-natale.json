@@ -42,15 +42,6 @@
     "multicolumn_WpyCnX": {
       "type": "multicolumn",
       "blocks": {
-        "column_JVQmDw": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Scegliere i regali di Natale può essere piacevole, ma quando la lista si allunga trovare l'idea giusta per tutti non è sempre semplice.<br/><br/><strong>Da dove cominciare?</strong> Il nostro consiglio è preparare una <strong>lista </strong>delle persone a cui vuoi fare un regalo, stabilire un <strong>budget</strong> e<strong> pensare ai loro gusti,</strong> alle passioni e alle piccole abitudini quotidiane.</p><p><br/>In questa guida trovi consigli pratici per organizzare <strong>i regali di Natale, </strong>scegliere con più sicurezza ed evitare acquisti frettolosi. Perché un regalo ben pensato non deve necessariamente essere costoso: deve soprattutto raccontare l'attenzione che hai dedicato a chi lo riceverà.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_9GQxbK": {
           "type": "column",
           "settings": {
@@ -59,11 +50,20 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_JVQmDw": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Scegliere i regali di Natale può essere piacevole, ma quando la lista si allunga trovare l'idea giusta per tutti non è sempre semplice.<br/><br/><strong>Da dove cominciare?</strong> Il nostro consiglio è preparare una <strong>lista </strong>delle persone a cui vuoi fare un regalo, stabilire un <strong>budget</strong> e<strong> pensare ai loro gusti,</strong> alle passioni e alle piccole abitudini quotidiane.</p><p><br/>In questa guida trovi consigli pratici per organizzare <strong>i regali di Natale, </strong>scegliere con più sicurezza ed evitare acquisti frettolosi. Perché un regalo ben pensato non deve necessariamente essere costoso: deve soprattutto raccontare l'attenzione che hai dedicato a chi lo riceverà.</p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "column_JVQmDw",
-        "column_9GQxbK"
+        "column_9GQxbK",
+        "column_JVQmDw"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -83,55 +83,12 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_TmkCnU": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_8JJaCp": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_BEk47P": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<ol><li>Come prima cosa: può anche sembrare scontato ma è ciò che determinerà il successo o meno dei tuoi regali.&nbsp;<strong>Scegli ogni proposta pensando ai gusti e alle necessità della persona che lo riceverà</strong>&nbsp;e dimentica per un attimo i tuoi. Se non conosci così bene questa persona opta per qualcosa di utile con un design non troppo particolare.</li><li><strong>Organizza tutto per tempo</strong>, non ridurti all’ultimo finendo per scegliere cose di cui non sei soddisfatto, magari spendendo anche più del dovuto. Se non hai molto tempo ti consigliamo di acquistare qualcosa online: inizia con lo scegliere i regali che preferisci che puoi aggiungere alla tua lista dei desideri, in modo da controllare se le tue scelte rispettano il budget finale.</li><li>Specialmente per amici e persone più care, è fondamentale che il regalo abbia un reale significato, al di là della cifra spesa per acquistarlo. Quindi&nbsp;<strong>considera prima di tutto il valore emotivo anziché quello economico</strong>&nbsp;nella scelta dei doni, optando per oggetti e idee che sappiano stupire e dimostrare il tuo affetto.</li></ol>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_8JJaCp",
-        "column_BEk47P"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Trova l'Idea Regalo Giusta in 3 Step",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "button_label": "",
-        "button_link": "",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
     "custom_liquid_nf89yJ": {
       "type": "custom-liquid",
+      "custom_css": [],
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<style>\n  #natale-consigli-{{ section.id }} {\n    --tips-accent: #f4cf5f;\n    --tips-ink: var(--color-foreground, 32, 32, 32);\n    max-width: 1200px;\n    margin-inline: auto;\n    padding: clamp(28px, 4vw, 52px) 24px;\n    color: rgb(var(--tips-ink));\n    font-family: inherit;\n  }\n\n  #natale-consigli-{{ section.id }},\n  #natale-consigli-{{ section.id }} * {\n    box-sizing: border-box;\n  }\n\n  #natale-consigli-{{ section.id }} .nc-heading {\n    max-width: 800px;\n    margin: 0 0 28px;\n    font-family: var(--font-heading-family, inherit);\n    font-style: var(--font-heading-style, normal);\n    font-weight: var(--font-heading-weight, 500);\n    font-size: clamp(26px, 3vw, 38px);\n    line-height: 1.2;\n    letter-spacing: -0.02em;\n    text-wrap: balance;\n  }\n\n  #natale-consigli-{{ section.id }} .nc-grid {\n    display: grid;\n    grid-template-columns: minmax(0, 1fr);\n    gap: 20px;\n    margin: 0;\n    padding: 0;\n    list-style: none;\n  }\n\n  #natale-consigli-{{ section.id }} .nc-card {\n    min-width: 0;\n    margin: 0;\n    padding: clamp(24px, 2.5vw, 32px);\n    background: #fff;\n    border: 1px solid rgba(var(--tips-ink), 0.12);\n    border-radius: 6px;\n    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.035);\n  }\n\n  #natale-consigli-{{ section.id }} .nc-number {\n    display: inline-flex;\n    align-items: center;\n    justify-content: center;\n    width: 40px;\n    height: 40px;\n    margin-bottom: 20px;\n    border-radius: 50%;\n    background: #fcf3d7;\n    color: #342d1d;\n    font-size: 15px;\n    font-weight: 600;\n    line-height: 1;\n    font-variant-numeric: tabular-nums;\n  }\n\n  #natale-consigli-{{ section.id }} .nc-title {\n    margin: 0 0 16px;\n    font-family: var(--font-heading-family, inherit);\n    font-style: var(--font-heading-style, normal);\n    font-weight: var(--font-heading-weight, 500);\n    font-size: clamp(21px, 2vw, 24px);\n    line-height: 1.3;\n    letter-spacing: -0.015em;\n    text-wrap: pretty;\n  }\n\n  #natale-consigli-{{ section.id }} .nc-text {\n    margin: 0;\n    font-size: 16px;\n    line-height: 1.75;\n    overflow-wrap: break-word;\n  }\n\n  #natale-consigli-{{ section.id }} .nc-text strong {\n    font-weight: 700;\n  }\n\n  @media screen and (min-width: 1100px) {\n    #natale-consigli-{{ section.id }} .nc-grid {\n      grid-template-columns: repeat(3, minmax(0, 1fr));\n    }\n  }\n\n  @media screen and (min-width: 750px) and (max-width: 1099px) {\n    #natale-consigli-{{ section.id }} .nc-card {\n      display: grid;\n      grid-template-columns: 48px minmax(0, 1fr);\n      column-gap: 24px;\n    }\n\n    #natale-consigli-{{ section.id }} .nc-number {\n      margin-bottom: 0;\n    }\n  }\n\n  @media screen and (max-width: 749px) {\n    #natale-consigli-{{ section.id }} {\n      padding-inline: 20px;\n    }\n\n    #natale-consigli-{{ section.id }} .nc-heading {\n      margin-bottom: 24px;\n    }\n\n    #natale-consigli-{{ section.id }} .nc-grid {\n      gap: 16px;\n    }\n\n    #natale-consigli-{{ section.id }} .nc-card {\n      padding: 24px 22px;\n    }\n\n    #natale-consigli-{{ section.id }} .nc-number {\n      width: 34px;\n      height: 34px;\n      margin-bottom: 16px;\n      font-size: 14px;\n    }\n\n    #natale-consigli-{{ section.id }} .nc-title {\n      margin-bottom: 14px;\n    }\n  }\n</style>\n\n<section\n  id=\"natale-consigli-{{ section.id }}\"\n  aria-labelledby=\"natale-consigli-titolo-{{ section.id }}\"\n>\n  <h2\n    class=\"nc-heading\"\n    id=\"natale-consigli-titolo-{{ section.id }}\"\n  >\n    3 consigli per scegliere i regali di Natale\n  </h2>\n\n  <ol class=\"nc-grid\" role=\"list\">\n    <li class=\"nc-card\">\n      <span class=\"nc-number\" aria-hidden=\"true\">01</span>\n\n      <div class=\"nc-content\">\n        <h3 class=\"nc-title\">\n          Parti dai gusti di chi riceverà il regalo\n        </h3>\n\n        <p class=\"nc-text\">\n          Un regalo riuscito parte sempre dalla\n          <strong>persona che lo riceve</strong>.\n          Pensa alle sue passioni, alle abitudini quotidiane e a ciò\n          che potrebbe renderle la vita più piacevole.\n          Se non conosci bene i suoi gusti, meglio scegliere\n          <strong>qualcosa di utile e versatile</strong>,\n          evitando oggetti troppo particolari.\n        </p>\n      </div>\n    </li>\n\n    <li class=\"nc-card\">\n      <span class=\"nc-number\" aria-hidden=\"true\">02</span>\n\n      <div class=\"nc-content\">\n        <h3 class=\"nc-title\">\n          Organizza la lista e stabilisci un budget\n        </h3>\n\n        <p class=\"nc-text\">\n          <strong>Preparare i regali in anticipo</strong>\n          ti aiuta a scegliere con calma e a tenere sotto controllo\n          le spese. Scrivi i nomi delle persone a cui vuoi fare\n          un dono, <strong>assegna un budget a ciascuna</strong>\n          e annota qualche possibile idea. Una lista semplice\n          ti permetterà di confrontare le alternative ed evitare\n          acquisti dell'ultimo minuto.\n        </p>\n      </div>\n    </li>\n\n    <li class=\"nc-card\">\n      <span class=\"nc-number\" aria-hidden=\"true\">03</span>\n\n      <div class=\"nc-content\">\n        <h3 class=\"nc-title\">\n          Dai valore al pensiero, non soltanto al prezzo\n        </h3>\n\n        <p class=\"nc-text\">\n          <strong>Non serve spendere molto</strong>\n          per sorprendere qualcuno. Un oggetto scelto con attenzione,\n          magari legato a una passione o a un ricordo condiviso,\n          può avere un significato speciale.\n          Il regalo migliore è quello che dimostra\n          <strong>quanto conosci la persona</strong>\n          a cui è destinato.\n        </p>\n      </div>\n    </li>\n  </ol>\n</section>",
+        "custom_liquid": "<style>\n  #consigli-natale-{{ section.id }} {\n    max-width: 1200px;\n    margin: 0 auto;\n    padding: 36px 24px;\n    color: rgb(var(--color-foreground, 32, 32, 32));\n  }\n\n  #consigli-natale-{{ section.id }},\n  #consigli-natale-{{ section.id }} * {\n    box-sizing: border-box;\n  }\n\n  #consigli-natale-{{ section.id }} .consigli-heading {\n    margin: 0 0 28px;\n    font-family: var(--font-heading-family, inherit);\n    font-weight: var(--font-heading-weight, 500);\n    font-size: clamp(26px, 3vw, 38px);\n    line-height: 1.2;\n    text-wrap: balance;\n  }\n\n  #consigli-natale-{{ section.id }} .consigli-list {\n    display: grid;\n    grid-template-columns: repeat(3, minmax(0, 1fr));\n    gap: 20px;\n    margin: 0;\n    padding: 0;\n    list-style: none;\n  }\n\n  #consigli-natale-{{ section.id }} .consigli-card {\n    min-width: 0;\n    margin: 0;\n    padding: 28px;\n    background: #fff;\n    border: 1px solid rgba(0, 0, 0, 0.12);\n    border-radius: 6px;\n    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.04);\n  }\n\n  #consigli-natale-{{ section.id }} .consigli-title {\n    margin: 0 0 18px;\n    font-family: var(--font-heading-family, inherit);\n    font-weight: var(--font-heading-weight, 500);\n    font-size: 22px;\n    line-height: 1.35;\n    text-wrap: pretty;\n  }\n\n  #consigli-natale-{{ section.id }} .consigli-title strong {\n    font-weight: 700;\n  }\n\n  #consigli-natale-{{ section.id }} .consigli-text {\n    margin: 0;\n    font-size: 16px;\n    line-height: 1.75;\n    overflow-wrap: break-word;\n  }\n\n  #consigli-natale-{{ section.id }} .consigli-text strong {\n    font-weight: 700;\n  }\n\n  @media screen and (max-width: 1099px) {\n    #consigli-natale-{{ section.id }} .consigli-list {\n      display: flex;\n      gap: 16px;\n      overflow-x: auto;\n      scroll-snap-type: x mandatory;\n      scroll-padding-inline: 4px;\n      padding: 4px 4px 20px;\n      scrollbar-width: thin;\n    }\n\n    #consigli-natale-{{ section.id }} .consigli-card {\n      flex: 0 0 70%;\n      scroll-snap-align: start;\n    }\n  }\n\n  @media screen and (max-width: 749px) {\n    #consigli-natale-{{ section.id }} {\n      padding: 28px 20px;\n    }\n\n    #consigli-natale-{{ section.id }} .consigli-heading {\n      margin-bottom: 24px;\n    }\n\n    #consigli-natale-{{ section.id }} .consigli-card {\n      flex-basis: 88%;\n      padding: 24px 22px;\n    }\n\n    #consigli-natale-{{ section.id }} .consigli-title {\n      font-size: 21px;\n      margin-bottom: 16px;\n    }\n  }\n</style>\n\n<section\n  id=\"consigli-natale-{{ section.id }}\"\n  aria-labelledby=\"consigli-titolo-{{ section.id }}\"\n>\n  <h2\n    class=\"consigli-heading\"\n    id=\"consigli-titolo-{{ section.id }}\"\n  >\n    3 consigli per scegliere i regali di Natale\n  </h2>\n\n  <ol\n    class=\"consigli-list\"\n    role=\"list\"\n    tabindex=\"0\"\n    aria-label=\"Tre consigli per scegliere i regali di Natale\"\n  >\n    <li class=\"consigli-card\">\n      <h3 class=\"consigli-title\">\n        <strong>1.</strong> Parti dai gusti di chi riceverà il regalo\n      </h3>\n\n      <p class=\"consigli-text\">\n        Un regalo riuscito parte sempre dalla\n        <strong>persona che lo riceve</strong>.\n        Pensa alle sue passioni, alle abitudini quotidiane e a ciò\n        che potrebbe renderle la vita più piacevole.\n        Se non conosci bene i suoi gusti, meglio scegliere\n        <strong>qualcosa di utile e versatile</strong>,\n        evitando oggetti troppo particolari.\n      </p>\n    </li>\n\n    <li class=\"consigli-card\">\n      <h3 class=\"consigli-title\">\n        <strong>2.</strong> Organizza la lista e stabilisci un budget\n      </h3>\n\n      <p class=\"consigli-text\">\n        <strong>Preparare i regali in anticipo</strong>\n        ti aiuta a scegliere con calma e a tenere sotto controllo\n        le spese. Scrivi i nomi delle persone a cui vuoi fare un dono,\n        <strong>assegna un budget a ciascuna</strong>\n        e annota qualche possibile idea.\n        Una lista semplice ti permetterà di confrontare le alternative\n        ed evitare acquisti dell'ultimo minuto.\n      </p>\n    </li>\n\n    <li class=\"consigli-card\">\n      <h3 class=\"consigli-title\">\n        <strong>3.</strong> Dai valore al pensiero, non soltanto al prezzo\n      </h3>\n\n      <p class=\"consigli-text\">\n        <strong>Non serve spendere molto</strong>\n        per sorprendere qualcuno.\n        Un oggetto scelto con attenzione, magari legato a una passione\n        o a un ricordo condiviso, può avere un significato speciale.\n        Il regalo migliore è quello che dimostra\n        <strong>quanto conosci la persona</strong>\n        a cui è destinato.\n      </p>\n    </li>\n  </ol>\n</section>",
         "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
         "padding_top": 24,
         "padding_bottom": 20
@@ -1170,7 +1127,6 @@
     "image_banner_WYjwbW",
     "custom_liquid_XW3ggm",
     "multicolumn_WpyCnX",
-    "multicolumn_TmkCnU",
     "custom_liquid_nf89yJ",
     "multicolumn_VhzyPr",
     "multicolumn_pGrbiB",
