@@ -1054,7 +1054,7 @@
           "type": "button",
           "settings": {
             "button_label": "IDEE REGALO PROFUMATE",
-            "button_link": "shopify://collections/complementi-arredo-fragranze-ambiente-con-bastoncini",
+            "button_link": "shopify://collections",
             "button_style_secondary": true
           }
         }
@@ -1077,65 +1077,6 @@
         "mobile_content_alignment": "left",
         "section_color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828",
         "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multirow_Uj6WTc": {
-      "type": "multirow",
-      "blocks": {
-        "row_CqkbKT": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/very-good-studio-heavy-petal-reed-diffusore-di-fragranza_1.webp",
-            "caption": "Very Goods Studio",
-            "heading": "Heavy Petal Reed Diffusore di fragranza",
-            "text": "<p>Ogni pezzo è realizzato nello studio di Amsterdam con ingredienti <strong>vegani, atossici e di provenienza etica:</strong> semplicità, qualità e in un approccio sostenibile. Profumi autentici che portano armonia negli spazi e rispetto per chi li vive.<br/><br/><strong>Ottima idea regalo per questo Natale.</strong></p>",
-            "button_label": "SCOPRILO",
-            "button_link": "https://www.unicoemultiplo.com/collections/very-goods-studio"
-          }
-        },
-        "row_4TNpLe": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/23665_1-768x912.webp",
-            "caption": "Millefiori",
-            "heading": "Moveo Diffusore di Fragranza Portatile",
-            "text": "<p><a href=\"/products/4974-millefiori-moveo-diffusore-di-fragranza-portatile\" title=\"Millefiori Moveo Diffusore di Fragranza Portatile\"><strong>Diffusore di Fragranza Portatile Moveo di Millefiori Milano – Nero</strong>:</a> questo diffusore portatile è la soluzione moderna e stilosa per chi desidera godere delle proprie fragranze preferite in ogni ambiente. <br/></p>",
-            "button_label": "SCOPRILO",
-            "button_link": "shopify://products/4974-millefiori-moveo-diffusore-di-fragranza-portatile"
-          }
-        },
-        "row_8w7dUh": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/millefiori-profumi-768x912.webp",
-            "caption": "Millefiori",
-            "heading": "Natural Diffusore",
-            "text": "<p>Una soluzione che si integra con stile in ogni ambiente regalando una profumazione gradevole.</p><p>La fragranza viene diffusa attraverso i bastoncini che, immersi nel liquido, la assorbono ridandola nell’ambiente.</p><p>Una selezione di fragranze sofisticate e differenti tra loro, per adattarsi al meglio ai nostri spazi: scegli il tuo diffusore in base alla tua personalità o all’ambiente a cui sarà dedicato.</p>",
-            "button_label": "SCOPRILO",
-            "button_link": "shopify://collections/complementi-arredo-fragranze-ambiente-con-bastoncini"
-          }
-        }
-      },
-      "block_order": [
-        "row_CqkbKT",
-        "row_4TNpLe",
-        "row_8w7dUh"
-      ],
-      "name": "t:sections.multirow.presets.name",
-      "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
-        "image_layout": "alternate-left",
-        "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "mobile_content_alignment": "left",
-        "section_color_scheme": "",
-        "row_color_scheme": "",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -1238,7 +1179,6 @@
     "image_with_text_nRTgzR",
     "multirow_wYNF8Q",
     "image_with_text_efjzUn",
-    "multirow_Uj6WTc",
     "image_banner_CKVzFq",
     "main"
   ]
