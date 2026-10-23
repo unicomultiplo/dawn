@@ -1054,7 +1054,7 @@
           "type": "button",
           "settings": {
             "button_label": "IDEE REGALO PROFUMATE",
-            "button_link": "shopify://collections",
+            "button_link": "shopify://collections/complementi-arredo-fragranze-ambiente",
             "button_style_secondary": true
           }
         }
