@@ -193,7 +193,7 @@
         "column_alignment": "center",
         "background_style": "none",
         "color_scheme": "",
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 0
@@ -256,78 +256,66 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_489QHn": {
-      "type": "multicolumn",
+    "rich_text_CW87NL": {
+      "type": "rich-text",
       "blocks": {
-        "column_p9w9Bh": {
-          "type": "column",
+        "heading_hbzdBi": {
+          "type": "heading",
           "settings": {
-            "title": "",
-            "text": "<p>Definisci un budget per ogni persona che vuoi includere nella tua lista e scegli il regalo tra le proposte selezionate per prezzo: potrai tenere sotto controllo la tua spesa totale e avere la certezza di <strong>non dimenticare proprio nessuno!</strong></p>",
-            "link_label": "",
-            "link": ""
+            "heading": "<strong>Come scegliere i regali di Natale in base al budget&nbsp;</strong>",
+            "heading_size": "h2"
           }
         },
-        "column_hRK3Ut": {
-          "type": "column",
+        "text_KyKrBk": {
+          "type": "text",
           "settings": {
-            "title": "SCEGLI TRA LE NOSTRE OPZIONI!",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "text": "<p>Stabilire quanto spendere ti aiuta a organizzare gli acquisti senza rinunciare a un regalo originale e ben pensato.<br/><br/>Parti dal budget complessivo e distribuiscilo tra le persone della tua lista, considerando il tipo di regalo che desideri fare. Non è necessario destinare la stessa cifra a tutti: ciò che conta è scegliere qualcosa di adatto a ciascuno.<br/><br/>Per trovare più facilmente un'idea, puoi esplorare le nostre selezioni di regali per fascia di prezzo.<br/><br/></p>"
           }
         },
-        "column_dweBqF": {
-          "type": "column",
+        "button_EneT3q": {
+          "type": "button",
           "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "SOTTO AI 50€",
-            "link": "shopify://collections/idee-regalo-economiche"
+            "button_label": "Regali sotto i 50 €",
+            "button_link": "shopify://collections/idee-regalo-economiche",
+            "button_style_secondary": false,
+            "button_label_2": "Regali sotto i 100 €",
+            "button_link_2": "shopify://collections/idee-regalo-regali-sotto-100-euro",
+            "button_style_secondary_2": false
           }
         },
-        "column_UCLtjB": {
-          "type": "column",
+        "button_PmNyCJ": {
+          "type": "button",
           "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "SOTTO AI 100€",
-            "link": "shopify://collections/idee-regalo-regali-sotto-100-euro"
-          }
-        },
-        "column_GFjhAb": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "SOTTO AI 150€",
-            "link": "shopify://collections/idee-regalo-regali-sotto-150-euro"
+            "button_label": "Regali sotto i 150 €",
+            "button_link": "shopify://collections/idee-regalo-regali-sotto-150-euro",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "column_p9w9Bh",
-        "column_hRK3Ut",
-        "column_dweBqF",
-        "column_UCLtjB",
-        "column_GFjhAb"
+        "heading_hbzdBi",
+        "text_KyKrBk",
+        "button_EneT3q",
+        "button_PmNyCJ"
       ],
-      "name": "t:sections.multicolumn.presets.name",
+      "custom_css": [
+        ".rich-text__blocks {display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; width: 100%; max-width: none;}",
+        ".rich-text__blocks > * {grid-column: 1 / -1;}",
+        ".rich-text__buttons {display: contents;}",
+        ".rich-text__buttons .button {width: 100%; min-width: 0; margin: 0;}",
+        "@media screen and (max-width: 749px) {.rich-text__blocks {grid-template-columns: minmax(0, 1fr); }}"
+      ],
+      "name": "t:sections.rich-text.presets.name",
       "settings": {
-        "title": "<em>Vorresti fare un regalo senza spendere troppo?</em>",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "button_label": "",
-        "button_link": "",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "none",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "scheme-2e5c87f5-32a3-471b-8a2f-9099229130c1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "image_with_text_et4rKW": {
@@ -1178,7 +1166,7 @@
     "multicolumn_TwPDwK",
     "multicolumn_VhzyPr",
     "multicolumn_pGrbiB",
-    "multicolumn_489QHn",
+    "rich_text_CW87NL",
     "image_with_text_et4rKW",
     "multirow_gaUUHh",
     "featured_collection_DheeNV",
