@@ -587,7 +587,7 @@
         "text_3kG9Rq": {
           "type": "text",
           "settings": {
-            "text": "<p>Per la mamma che adora concedersi una pausa rilassante con una tazza di caffè, tè o tisana, abbiamo selezionato <strong>idee regalo eleganti e di design</strong> pensate per accompagnare ogni suo momento di relax.</p><p>Dalle <strong>tazze artistiche</strong> alle <strong>teiere e accessori raffinati</strong>, ogni dettaglio è scelto per trasformare la routine quotidiana in un piccolo rituale di benessere.<br/><br/>✨ Scopri <strong>la nostra selezione di regali per mamme che amano il caffè e il tè</strong> e trova l’idea perfetta per dirle, ogni giorno, quanto le vuoi bene. 💛</p>",
+            "text": "<h3>La mamma che ama caffè, tè e tisane ☕</h3><p>Per la mamma che ama concedersi una pausa con un buon caffè o una tazza di tè, un regalo può trasformare un'abitudine quotidiana in un piccolo momento speciale.</p><p>Dalle bustine di tè dalle forme originali alle tazze di design, fino a una moka pensata per condividere il piacere del caffè, abbiamo scelto idee regalo che uniscono gusto, originalità e attenzione ai dettagli.</p><p>✨ Scopri la nostra selezione di regali per la mamma e trova un'idea che rispecchi le sue passioni.</p>",
             "text_style": "body"
           }
         },
@@ -657,24 +657,12 @@
             "button_label": "SCOPRILA",
             "button_link": "https://www.unicoemultiplo.com/products/turbo-moka-duetto"
           }
-        },
-        "row_gtPRNU": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/brandani-tazza-the-limoni-set-2-pezzi-new-bone-china.webp",
-            "caption": "Brandani",
-            "heading": "Limoni Tazza The",
-            "text": "<p><span style=\"text-decoration:underline\">Un </span>set di tazze da tè che unisce stile e funzionalità, rendendolo ideale per ogni occasione.</p><p>Ottima idea regalo!<br/><br/><br/><br/></p>",
-            "button_label": "SCOPRILA",
-            "button_link": "https://www.unicoemultiplo.com/products/brandani-limoni-tazza-the-set-2-pz"
-          }
         }
       },
       "block_order": [
         "row_TLaB9L",
         "row_RKJaYG",
-        "row_gQh3m9",
-        "row_gtPRNU"
+        "row_gQh3m9"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
