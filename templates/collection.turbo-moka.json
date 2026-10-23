@@ -414,16 +414,6 @@
             "page": "",
             "liquid_content": ""
           }
-        },
-        "collapsible_row_feWRpz": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Riga comprimibile",
-            "icon": "fire",
-            "row_content": "",
-            "page": "",
-            "liquid_content": ""
-          }
         }
       },
       "block_order": [
@@ -432,8 +422,7 @@
         "collapsible_row_bLiQnF",
         "collapsible_row_Mf6b9Q",
         "collapsible_row_4zeQhW",
-        "collapsible_row_bnkLyf",
-        "collapsible_row_feWRpz"
+        "collapsible_row_bnkLyf"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
