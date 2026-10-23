@@ -184,7 +184,7 @@
       "custom_css": [],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Cerchi qualche idea per i tuoi regali di Natale?&nbsp;",
+        "title": "<em>Ancora a corto di idee?</em> Ti aiutiamo noi! Scopri i nostri consigli e le proposte selezionate per creare la tua lista di regali.&nbsp;",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
