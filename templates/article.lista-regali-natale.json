@@ -46,7 +46,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "",
+            "text": "<p>Scegliere i regali di Natale può essere piacevole, ma quando la lista si allunga trovare l'idea giusta per tutti non è sempre semplice.<br/><br/><strong>Da dove cominciare?</strong> Il nostro consiglio è preparare una <strong>lista </strong>delle persone a cui vuoi fare un regalo, stabilire un <strong>budget</strong> e<strong> pensare ai loro gusti,</strong> alle passioni e alle piccole abitudini quotidiane.</p><p><br/>In questa guida trovi consigli pratici per organizzare <strong>i regali di Natale, </strong>scegliere con più sicurezza ed evitare acquisti frettolosi. Perché un regalo ben pensato non deve necessariamente essere costoso: deve soprattutto raccontare l'attenzione che hai dedicato a chi lo riceverà.</p>",
             "link_label": "",
             "link": ""
           }
@@ -179,7 +179,7 @@
         "background_style": "none",
         "color_scheme": "",
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 0
       }
