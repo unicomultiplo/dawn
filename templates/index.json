@@ -15,16 +15,16 @@
         "slide_wFUX39": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Seletti-tappenini-pets-toiletper.webp",
+            "image": "shopify://shop_images/Bitossi-home-cestino-tutto-frutti.jpg",
             "image_overlay_opacity": 30,
-            "heading": "TOILETPAPER Pets: nuovi tappetini",
+            "heading": "La frutta più bella? Quella che non si mangia!&nbsp;",
             "heading_size": "h1",
-            "subheading": "<strong>Soffici, colorati e irriverenti: i nuovi tappetini Seletti trasformano il bagno con l’inconfondibile stile TOILETPAPER. Scopri tutta la serie e scegli il tuo preferito.</strong>",
-            "button_label": "Scopri i tappetini →",
-            "link": "shopify://collections/seletti-toiletpaper-pets",
+            "subheading": "Ciliegie, limoni e dettagli intrecciati a mano: con Tutti Frutti di Bitossi Home, anche i piccoli accessori diventano protagonisti della tavola.&nbsp;",
+            "button_label": "Scopri la collezione →",
+            "link": "https://www.unicoemultiplo.com/collections/tutti-i-frutti-bitossi-home",
             "button_style_secondary": false,
             "show_text_box": false,
-            "box_align": "top-right",
+            "box_align": "top-left",
             "text_alignment": "left",
             "text_alignment_mobile": "center",
             "color_scheme": "scheme-3"
