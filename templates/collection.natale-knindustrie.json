@@ -23,7 +23,7 @@
       "custom_css": [],
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<div style=\"text-align: center;\">⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐</div>",
+        "custom_liquid": "<div style=\"display: flex; align-items: center; justify-content: center; min-height: 70px; text-align: center;\">\n⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐</div>",
         "color_scheme": "scheme-1464a208-fcdd-4ba9-b1e4-de3cd41e6336",
         "padding_top": 0,
         "padding_bottom": 48
