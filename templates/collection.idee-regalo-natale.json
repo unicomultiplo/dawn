@@ -30,23 +30,6 @@
         "padding_bottom": 52
       }
     },
-    "image_banner_66Ltqt": {
-      "type": "image-banner",
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/UnicoemultioloNatale2026.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "image_behavior": "none",
-        "desktop_content_position": "middle-center",
-        "desktop_content_alignment": "center",
-        "show_text_box": true,
-        "color_scheme": "",
-        "stack_images_on_mobile": true,
-        "mobile_content_alignment": "center",
-        "show_text_below": true
-      }
-    },
     "collection_list_EKQ7V8": {
       "type": "collection-list",
       "blocks": {
@@ -802,7 +785,6 @@
   "order": [
     "custom_liquid_BQHgjD",
     "custom_liquid_YVhqVc",
-    "image_banner_66Ltqt",
     "collection_list_EKQ7V8",
     "product-grid",
     "banner",
