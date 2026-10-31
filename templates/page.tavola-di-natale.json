@@ -605,9 +605,9 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Stile italiano, romanticismo e dettagli luminosi: con Brandani la tavola diventa un luogo ricco di emozioni, sorrisi e armonia. Una scelta ideale per un Natale che profuma di casa.</p>",
+            "text": "<p>Ogni tavola racconta un modo diverso di vivere il Natale. Dall'eleganza della porcellana bianca ai decori più originali, scopri servizi di piatti selezionati per creare atmosfere accoglienti, luminose e ricche di personalità. Perché anche la tavola fa parte della magia delle feste.</p>",
             "link_label": "Scopri la tavola Brandani",
-            "link": "shopify://collections/brandani"
+            "link": ""
           }
         },
         "column_CeeMWi": {
@@ -626,7 +626,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>Brandani</strong> – Calore e Accoglienza",
+        "title": "<strong>Brandani</strong>&nbsp;– Calore e Accoglienza",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
