@@ -626,7 +626,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "<strong>Brandani</strong>&nbsp;– Calore e Accoglienza",
+        "title": "<strong>&nbsp;La Tavola di Natale – Stili da Vivere&nbsp;</strong>",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -658,21 +658,21 @@
         "column_8tYh7h": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/brandani-golden-eye-red-set-piatti-18-pz.jpg",
+            "image": "shopify://shop_images/Apparecchiatura_natalizia_con_luci_calde_e_bacche_rosse.png",
             "title": "",
-            "text": "<p><strong>Golden Eye</strong></p><p>I Colori del Natale <strong>→</strong></p>",
+            "text": "<p><strong>Bon Ton</strong></p><p>L'essenzialità <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/golden-eye-brandani"
+            "link": "shopify://products/bitossi-home-bon-ton-servizio-piatti-18-pezzi-per-6-persone-bone-china"
           }
         },
         "column_3BLDmp": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1024x1024_098fddfb-83c2-4707-9de9-e6676848b06c.jpg",
+            "image": "shopify://shop_images/Apparecchiatura_natalizia_con_luci_calde_e_bacche_rosse-1.png",
             "title": "",
-            "text": "<p><strong>Elfomagia</strong></p><p>Magia in tavola <strong>→</strong></p>",
+            "text": "<p><strong>Bianco & Oro</strong><br/></p><p>La magia pura →<br/><br/></p>",
             "link_label": "",
-            "link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana"
+            "link": "https://www.unicoemultiplo.com/products/bitossi-home-set-6-posti-tavola-natale-senza-tempo-oro-e-bone-china"
           }
         },
         "column_q8jX7r": {
@@ -690,7 +690,7 @@
           "settings": {
             "image": "shopify://shop_images/brandani-logo-500x500.webp",
             "title": "",
-            "text": "<p><strong>Esplora <br/></strong>Tutte le collezioni <strong>→</strong></p>",
+            "text": "<p><strong>Esplora&nbsp;<br/></strong>Tutte le collezioni <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/brandani"
           }
