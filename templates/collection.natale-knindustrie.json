@@ -23,10 +23,10 @@
       "custom_css": [],
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<div style=\"display: flex; align-items: center; justify-content: center; min-height: 70px; text-align: center;\">\n⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐</div>",
+        "custom_liquid": "<div style=\"width:100%; min-height:56px; display:flex; align-items:center; justify-content:space-evenly; gap:8px; box-sizing:border-box; background:#cc0033; color:#f4cf5f; font-size:clamp(18px, 2.4vw, 30px); line-height:1;\">{% for i in (1..25) %}<span aria-hidden=\"true\">★</span>{% endfor %}</div>",
         "color_scheme": "scheme-1464a208-fcdd-4ba9-b1e4-de3cd41e6336",
         "padding_top": 0,
-        "padding_bottom": 48
+        "padding_bottom": 0
       }
     },
     "multicolumn_ReMqxa": {
