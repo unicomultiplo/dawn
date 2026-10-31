@@ -15,7 +15,7 @@
       "settings": {
         "custom_liquid": "<style>.comet-row{width:100%;min-height:56px;display:flex;align-items:center;justify-content:space-evenly;gap:clamp(2px,1vw,8px);box-sizing:border-box;background:#cc0033;overflow:hidden}.comet{position:relative;isolation:isolate;flex:1 1 0;min-width:0;text-align:center;white-space:nowrap;color:#f4cf5f;font-size:clamp(19px,3vw,34px);line-height:1}.comet::after{content:\"\";position:absolute;z-index:-1;width:clamp(12px,2.3vw,28px);height:0.42em;right:52%;top:50%;transform:translateY(-50%) skewX(-28deg);background:linear-gradient(90deg,transparent,rgba(244,207,95,.2),rgba(244,207,95,.9));pointer-events:none}</style><div class=\"comet-row\">{% for i in (1..11) %}<span class=\"comet\" aria-label=\"Stella cometa\" role=\"img\">★</span>{% endfor %}</div>",
         "color_scheme": "scheme-0d71f853-db84-449e-a028-a5d4d20a80a4",
-        "padding_top": 8,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
