@@ -688,11 +688,11 @@
         "column_CYVrPM": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/brandani-logo-500x500.webp",
+            "image": "shopify://shop_images/Tavola-di-natale-2026.png",
             "title": "",
-            "text": "<p><strong>Esplora&nbsp;<br/></strong>Tutte le collezioni <strong>→</strong></p>",
+            "text": "<p><strong>Parisienne&nbsp;<br/></strong>Tutte le collezioni <strong>→</strong></p>",
             "link_label": "",
-            "link": "shopify://collections/brandani"
+            "link": "https://www.unicoemultiplo.com/collections/bitossi-home-parisienne-bitossi-home"
           }
         }
       },
