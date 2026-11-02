@@ -528,6 +528,7 @@
         "text_iaBnRJ",
         "button_8g4YzA"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
@@ -543,6 +544,7 @@
       "blocks": {
         "column_fwpkHy": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Brandani-piatti-natalizi-goldeneye-1.webp",
             "title": "",
@@ -553,6 +555,7 @@
         },
         "column_4TEgGg": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Brandani-piatti-natalizi-goldeneye.webp",
             "title": "",
