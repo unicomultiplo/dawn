@@ -91,7 +91,7 @@
           "settings": {
             "title": "",
             "text": "",
-            "link_label": "Elfomagia",
+            "link_label": "Le Chicche",
             "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-magia-della-tavola-di-natale-firmata-brandani?#shopify-section-template--25592877842697__rich_text_C86R6W"
           }
         },
@@ -115,10 +115,11 @@
         },
         "column_mkhVQi": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "",
             "text": "",
-            "link_label": "Golden Eye",
+            "link_label": "Le Chicche",
             "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/la-magia-della-tavola-di-natale-firmata-brandani?#shopify-section-template--25592877842697__rich_text_HYP9pw"
           }
         },
