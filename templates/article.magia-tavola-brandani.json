@@ -786,7 +786,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Dal 1984, Brandani pone da anni al centro della sua<em>Mission</em>l’<strong>attenzione</strong>e la<strong>cura per la casa</strong>, con un particolare riguardo agli oggetti dedicati alla cucina e alla tavola. Le festività natalizie e di fine anno sono un’importante occasione, non solo per apprezzare la qualità e il design unico di Brandani, ma anche per rinnovare l’oggettistica da tavola, con stoviglie ed accessori di design. Lasciati ispirare dalle collezioni Brandani, pensate per regalare alla tua tavola la magia del Natale con dettagli e ricami che raccontano questi momenti di grande condivisione, di festa e soprattutto amore.</p>",
+            "text": "<p>Il Natale è il momento in cui la tavola diventa protagonista: un luogo dove ritrovarsi, condividere e creare ricordi.</p><p>Con le <strong>collezioni natalizie Brandani 2026</strong>, ogni dettaglio contribuisce a rendere speciale l'atmosfera delle feste. Servizi di piatti in porcellana, decorazioni e accessori per la tavola si distinguono per i colori, i motivi natalizi e i dettagli che accompagnano con eleganza i momenti di convivialità.</p><p>Dalla cena della Vigilia al pranzo di Natale, lasciati ispirare dalle proposte Brandani per creare una tavola accogliente, originale e ricca di personalità, da condividere con le persone che ami.</p>",
             "link_label": "",
             "link": ""
           }
@@ -808,7 +808,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "La magia del Natale sulla tua tavola con le Collezioni Brandani 2026",
+        "title": "Brandani Natale 2026: idee e collezioni per la tavola delle feste&nbsp;",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
