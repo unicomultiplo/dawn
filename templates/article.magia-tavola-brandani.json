@@ -234,24 +234,24 @@
         "heading_JGCmhM": {
           "type": "heading",
           "settings": {
-            "heading": "Elfomagia",
+            "heading": "&nbsp;Le Chicche di Brandani&nbsp;",
             "heading_size": "h1"
           }
         },
         "text_CjMbFB": {
           "type": "text",
           "settings": {
-            "text": "<p>Scegli la magia del Natale con  <a href=\"/products/brandani-tavola-18-pz-elfomagia-in-porcellana\" title=\"Brandani Tavola 18 pz Elfomagia in Porcellana\"><strong>Elfomagia</strong></a><strong>:</strong> una linea di piatti nei toni del verde e del rosso, impreziosita da delicati decori lungo i bordi e motivi centrali che raccontano un Natale caldo e avvolgente, popolato da piccoli elfi e ghirlande natalizie.</p>"
+            "text": "<h3></h3><p>Porta in tavola la dolcezza del Natale con <strong>Le Chicche di Brandani</strong>: un servizio di piatti in porcellana decorato con bastoncini di zucchero, dolcetti e piccoli agrifogli. Un insieme allegro e raffinato, pensato per rendere ancora più speciali i momenti da condividere durante le feste.</p>"
           }
         },
         "button_bUhPUi": {
           "type": "button",
           "settings": {
-            "button_label": "Scopri Elefomagia",
+            "button_label": "Scopri Le Chicche",
             "button_link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana",
             "button_style_secondary": true,
             "button_label_2": "",
-            "button_link_2": "",
+            "button_link_2": "https://www.unicoemultiplo.com/products/brandani-le-chicche-servizio-piatti-natale-18-pezzi-in-porcellana",
             "button_style_secondary_2": false
           }
         }
@@ -277,21 +277,21 @@
         "column_Fqrt9z": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1024x1024_098fddfb-83c2-4707-9de9-e6676848b06c.jpg",
+            "image": "shopify://shop_images/Brandani-piatti-natale-le-chicche.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana"
+            "link": "https://www.unicoemultiplo.com/products/brandani-le-chicche-servizio-piatti-natale-18-pezzi-in-porcellana"
           }
         },
         "column_TzH369": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Brandani-piatti-Elfomagia-1-1-1-1024x1024.jpg",
+            "image": "shopify://shop_images/Brandani-piatti-natale-le-chicche-1.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://products/brandani-tavola-18-pz-elfomagia-in-porcellana"
+            "link": "https://www.unicoemultiplo.com/products/brandani-le-chicche-servizio-piatti-natale-18-pezzi-in-porcellana"
           }
         }
       },
