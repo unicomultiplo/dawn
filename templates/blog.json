@@ -52,9 +52,9 @@
       "settings": {
         "image": "shopify://shop_images/Seletti-hybrid-tavola-di-natale.webp",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "large",
         "image_behavior": "fixed",
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "top-center",
         "desktop_content_alignment": "left",
         "show_text_box": true,
         "color_scheme": "scheme-1",
