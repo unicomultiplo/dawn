@@ -733,13 +733,6 @@
             "heading_size": "h1"
           }
         },
-        "text_tkCJCN": {
-          "type": "text",
-          "settings": {
-            "text": "Natale 2025",
-            "text_style": "body"
-          }
-        },
         "buttons_DhPNKW": {
           "type": "buttons",
           "settings": {
@@ -754,7 +747,6 @@
       },
       "block_order": [
         "heading_m4g8kJ",
-        "text_tkCJCN",
         "buttons_DhPNKW"
       ],
       "settings": {
