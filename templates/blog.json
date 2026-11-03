@@ -50,11 +50,11 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/come-apparecchiare-la-tavola-di-natale_1_b80c12d4-e518-4329-8ccc-426f3b70dcec.webp",
+        "image": "shopify://shop_images/02_tavola_elegante_orizzontale.webp",
         "image_overlay_opacity": 0,
-        "image_height": "adapt",
+        "image_height": "medium",
         "image_behavior": "none",
-        "desktop_content_position": "top-left",
+        "desktop_content_position": "bottom-center",
         "desktop_content_alignment": "left",
         "show_text_box": true,
         "color_scheme": "scheme-1",
@@ -218,6 +218,7 @@
     },
     "featured_blog_JGGm3C": {
       "type": "featured-blog",
+      "disabled": true,
       "custom_css": [
         ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
         "h3.card__heading {font-size: 16px;}",
