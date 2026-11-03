@@ -63,6 +63,30 @@
         "show_text_below": true
       }
     },
+    "featured_blog_KyiK6b": {
+      "type": "featured-blog",
+      "custom_css": [
+        ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
+        "h3.card__heading {font-size: 16px;}",
+        "p.article-card__excerpt {font-size: 12px;}",
+        "h1.title--primary {display: none !important;}",
+        "a#ViewAll-template--22267420573961__featured_blog_bnjUDn {margin-top: 0 !important;}"
+      ],
+      "settings": {
+        "blog": "regalare-per-stupire",
+        "post_limit": 4,
+        "heading": "Regalare per Stupire",
+        "heading_size": "h2",
+        "columns_desktop": 4,
+        "show_view_all": true,
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
     "featured_blog_bnjUDn": {
       "type": "featured-blog",
       "custom_css": [
@@ -190,30 +214,6 @@
         "color_scheme": "scheme-2",
         "padding_top": 24,
         "padding_bottom": 24
-      }
-    },
-    "featured_blog_KyiK6b": {
-      "type": "featured-blog",
-      "custom_css": [
-        ".article-card-wrapper .card,.contains-card--article {background: none !important;}",
-        "h3.card__heading {font-size: 16px;}",
-        "p.article-card__excerpt {font-size: 12px;}",
-        "h1.title--primary {display: none !important;}",
-        "a#ViewAll-template--22267420573961__featured_blog_bnjUDn {margin-top: 0 !important;}"
-      ],
-      "settings": {
-        "blog": "regalare-per-stupire",
-        "post_limit": 4,
-        "heading": "Regalare per Stupire",
-        "heading_size": "h2",
-        "columns_desktop": 4,
-        "show_view_all": true,
-        "show_image": true,
-        "show_date": false,
-        "show_author": false,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 0
       }
     },
     "featured_blog_JGGm3C": {
@@ -565,11 +565,11 @@
   "order": [
     "main",
     "image_banner_dPbXBj",
+    "featured_blog_KyiK6b",
     "featured_blog_bnjUDn",
     "featured_blog_heaLnh",
     "featured_blog_abHrVD",
     "image_with_text_8BeU3P",
-    "featured_blog_KyiK6b",
     "featured_blog_JGGm3C",
     "multicolumn_p68MrB",
     "multicolumn_xYAXka",

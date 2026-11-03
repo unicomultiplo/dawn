@@ -242,19 +242,28 @@
         "heading_9kTxfi": {
           "type": "heading",
           "settings": {
-            "heading": "Arte che dà carattere ai tuoi spazi",
+            "heading": "Turbo Moka Duetto&nbsp;",
             "heading_size": "h1"
+          }
+        },
+        "caption_dUkFjL": {
+          "type": "caption",
+          "settings": {
+            "caption": "Il caffè dà il meglio. In due.",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
           }
         },
         "text_yCWYLF": {
           "type": "text",
           "settings": {
-            "text": "<p><br/>Scopri i quadri materici SalvadoriArte: opere contemporanee su tela, ricche di texture, profondità e dettagli preziosi, pensate per trasformare ogni parete in un elemento d’arredo unico.<br/><br/></p>"
+            "text": "<p>Due beccucci, un invito a condividere il momento del caffè.</p>"
           }
         }
       },
       "block_order": [
         "heading_9kTxfi",
+        "caption_dUkFjL",
         "text_yCWYLF"
       ],
       "name": "t:sections.rich-text.presets.name",
@@ -273,20 +282,20 @@
         "image_jyQnUP": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/salvadoriarte-quadro-su-tela-around-block-80x100-cm-1.jpg"
+            "image": "shopify://shop_images/set-duetto-e-calipso-salvia-ambientato.webp"
           }
         },
         "product_eAykWe": {
           "type": "product",
           "settings": {
-            "product": "salvadoriarte-quadro-su-tela-around-block-ii-120x80-cm",
+            "product": "turbo-moka-duetto",
             "second_image": true
           }
         },
         "product_YyKAqm": {
           "type": "product",
           "settings": {
-            "product": "salvadoriarte-quadro-su-tela-horizon-iv-120x80-cm",
+            "product": "turbo-moka-brandani-set-caffe-duetto-con-2-tazzine-calipso-salvia",
             "second_image": false
           }
         }
