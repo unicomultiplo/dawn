@@ -176,81 +176,6 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_TiCzgy": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_nhgWmj": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/03_tavola_schiaccianoci_orizzontale.webp",
-            "title": "<strong>La tavola di Natale firmata Brandani. </strong>Idee e ispirazioni Brandani per vestire la tavola delle feste →&nbsp;",
-            "text": "",
-            "link_label": "",
-            "link": "/blogs/apparecchiare-con-stile/la-magia-della-tavola-di-natale-firmata-brandani"
-          }
-        },
-        "column_L9PDwT": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/01_regalo_orizzontale.webp",
-            "title": "<strong>Regali di Natale per mamma e papà. </strong>&nbsp;Idee regalo per sorprendere i genitori a Natale. &nbsp;→ &nbsp;",
-            "text": "",
-            "link_label": "",
-            "link": "/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale"
-          }
-        },
-        "column_3WDc7J": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/02_tavola_elegante_orizzontale.webp",
-            "title": "<strong>La tavola di Natale: idee e consigli. </strong>Consigli per creare un look natalizio inconfondibile. &nbsp;→&nbsp;",
-            "text": "",
-            "link_label": "",
-            "link": "/blogs/apparecchiare-con-stile/come-apparecchiare-la-tavola-di-natale"
-          }
-        },
-        "column_7wQjni": {
-          "type": "column",
-          "settings": {
-            "title": "Regalare per stupire",
-            "text": "<p>Idee, storie e ispirazioni per scegliere un regalo che lasci il segno.</p>",
-            "link_label": "Scopri il blog",
-            "link": "shopify://blogs/regalare-per-stupire"
-          }
-        }
-      },
-      "block_order": [
-        "column_nhgWmj",
-        "column_L9PDwT",
-        "column_3WDc7J",
-        "column_7wQjni"
-      ],
-      "custom_css": [
-        ".multicolumn-list__item:last-child {background: #f3f3f3; display: flex; flex-direction: column; justify-content: flex-end;}",
-        ".multicolumn-list__item:last-child .multicolumn-card {background: transparent;}",
-        ".multicolumn-list__item:last-child .multicolumn-card__info a {color: #000; text-decoration: none;}",
-        ".multicolumn-list__item:last-child .multicolumn-card h3 {color: #000; font-weight: bold;}",
-        ".multicolumn-list__item:last-child .multicolumn-card__info {display: flex; flex-direction: column;}",
-        "a {text-decoration: none;}"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Il Natale, tra tavola e regali",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "button_label": "",
-        "button_link": "",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "separator_zH6Qpr": {
       "type": "separator",
       "settings": {
@@ -944,7 +869,6 @@
     "featured_collection_6FgbJX",
     "separator_UazLhC",
     "multicolumn_CUbU6b",
-    "multicolumn_TiCzgy",
     "separator_zH6Qpr",
     "multicolumn_wWHAJb",
     "separator_ERKEr6",
