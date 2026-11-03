@@ -101,6 +101,73 @@
         "line_thickness": 1
       }
     },
+    "multicolumn_9rJCWz": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_XrjaiE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitosi-home-petalo.webp",
+            "title": "<strong>Petalo</strong>, una collezione pensata per l'uso quotidiano →&nbsp;",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-petalo-bitossi-home"
+          }
+        },
+        "column_RUzwg4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-home-insalatiera.webp",
+            "title": "<strong>Insalatiera Tavola Scomposta</strong>, colore e fantasia in tavola →&nbsp;",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/products/4738-bitossi-home-tavola-scomposta-insalatiera"
+          }
+        },
+        "column_XCzETy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-home-piatto-ovale.webp",
+            "title": "<strong>Vassoio ovale Fabula</strong>, Fiore Occhio →&nbsp;",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-funky-table-tavola-scomposta"
+          }
+        },
+        "column_qimwBB": {
+          "type": "column",
+          "settings": {
+            "title": "La tavola secondo Bitossi Home",
+            "text": "<p><br/>Colori, decori e forme da combinare liberamente. Scopri le collezioni di piatti Bitossi Home e crea una tavola personale, elegante e mai scontata.<br/><br/></p><h3></h3><p></p>",
+            "link_label": "Scopri il blog",
+            "link": "shopify://blogs/regalare-per-stupire"
+          }
+        }
+      },
+      "block_order": [
+        "column_XrjaiE",
+        "column_RUzwg4",
+        "column_XCzETy",
+        "column_qimwBB"
+      ],
+      "custom_css": [],
+      "settings": {
+        "title": "Piatti Bitossi Home: la tavola si veste di colore",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "button_label": "Scopri tutti i piatti →",
+        "button_link": "shopify://collections/bitossi-home-piatti",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn_CUbU6b": {
       "type": "multicolumn",
       "blocks": {
@@ -108,9 +175,9 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Brandani-set-piatti-lo-schiaccianoci_e9b8aa7e-a729-457b-b47b-69443b5af18c.webp",
-            "title": "La tavola di Natale firmata Brandani",
-            "text": "<p>Idee e ispirazioni Brandani per vestire la tavola delle feste.</p>",
-            "link_label": "Leggi l’articolo",
+            "title": "<strong>La tavola di Natale firmata Brandani. </strong>Idee e ispirazioni Brandani per vestire la tavola delle feste →&nbsp;",
+            "text": "",
+            "link_label": "",
             "link": "/blogs/apparecchiare-con-stile/la-magia-della-tavola-di-natale-firmata-brandani"
           }
         },
@@ -118,9 +185,9 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/natale-genitori-regalo-66b23dff_be47a940-17bc-4247-86f1-00a48228b5b2.png",
-            "title": "Regali di Natale per mamma e papà",
-            "text": "<p>Idee regalo per sorprendere i genitori a Natale.</p>",
-            "link_label": "Leggi l’articolo",
+            "title": "<strong>Regali di Natale per mamma e papà. </strong>&nbsp;Idee regalo per sorprendere i genitori a Natale. &nbsp;→ &nbsp;",
+            "text": "",
+            "link_label": "",
             "link": "/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale"
           }
         },
@@ -128,9 +195,9 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/come-apparecchiare-la-tavola-di-natale_1_b80c12d4-e518-4329-8ccc-426f3b70dcec.webp",
-            "title": "",
+            "title": "<strong>La tavola di Natale: idee e consigli. </strong>Consigli per creare un look natalizio inconfondibile. &nbsp;→&nbsp;",
             "text": "",
-            "link_label": "La tavola di Natale: idee e consigli  Consigli per creare un look natalizio inconfondibile.",
+            "link_label": "",
             "link": "/blogs/apparecchiare-con-stile/come-apparecchiare-la-tavola-di-natale"
           }
         },
@@ -160,7 +227,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Il Natale 2026, tra tavola e regali!",
+        "title": "Il Natale, tra tavola e regali",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
@@ -868,6 +935,7 @@
     "slideshow_dUd4mz",
     "featured_collection_6FgbJX",
     "separator_UazLhC",
+    "multicolumn_9rJCWz",
     "multicolumn_CUbU6b",
     "separator_zH6Qpr",
     "multicolumn_wWHAJb",
