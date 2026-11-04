@@ -40,216 +40,24 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_WpyCnX": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_JVQmDw": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_9GQxbK": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Per apparecchiare una bella tavola di Natale non servono necessariamente decorazioni elaborate. Bastano una mise en place curata, colori ben abbinati e pochi dettagli scelti con attenzione.</p><p>Scopri come disporre piatti, posate e bicchieri e come creare un'atmosfera accogliente, dalla tavola elegante a quella più originale.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_JVQmDw",
-        "column_9GQxbK"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "Come Apparecchiare la Tavola di Natale 2026? Idee e Consigli per un Look Inconfondibile",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "button_label": "",
-        "button_link": "",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_w4WjcX": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_cGXLXe": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "1. Elegante, shabby chic, moderna o tradizionale: quale mise en place scegliere?",
-            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/come-apparecchiare-la-tavola-di-natale?#shopify-section-template--25594959986953__image_with_text_et4rKW"
-          }
-        },
-        "column_3UpQ7P": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "2. La tavola di Natale secondo il Galateo e le regole di Bon Ton",
-            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/come-apparecchiare-la-tavola-di-natale?#shopify-section-template--25594959986953__image_with_text_PcQeC7"
-          }
-        },
-        "column_NEyjhC": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "3. I mille Colori della Tavola di Natale: idee per l’abbinamento",
-            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/come-apparecchiare-la-tavola-di-natale?#shopify-section-template--25594959986953__image_with_text_789DBP"
-          }
-        },
-        "column_E4fCP7": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "4. Dalla vigilia al giorno di Natale: le regole da seguire",
-            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/come-apparecchiare-la-tavola-di-natale?#shopify-section-template--25594959986953__image_with_text_jEbVKr"
-          }
-        },
-        "column_FL38Rg": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "5. Preparare la Tavola di Natale: foto ed esempi",
-            "link": "https://www.unicoemultiplo.com/blogs/apparecchiare-con-stile/come-apparecchiare-la-tavola-di-natale?#shopify-section-template--25594959986953__multicolumn_4gW44i"
-          }
-        },
-        "column_yqXbfN": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_yQbnJE": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Un Consiglio Extra</strong>&nbsp;",
-            "text": "<p>Scegli uno stile che sposa anche il tuo arredamento, lo stile giusto è quello che rappresenta a pieno la tua casa!</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_cGXLXe",
-        "column_3UpQ7P",
-        "column_NEyjhC",
-        "column_E4fCP7",
-        "column_FL38Rg",
-        "column_yqXbfN",
-        "column_yQbnJE"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "button_label": "",
-        "button_link": "shopify://pages/natale",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_489QHn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_dweBqF": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "PIATTI",
-            "link": "shopify://collections/cucina-e-tavola-piatti"
-          }
-        },
-        "column_UCLtjB": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "POSATE",
-            "link": "shopify://collections/cucina-e-tavola-posate"
-          }
-        },
-        "column_GFjhAb": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "BICCHIERI",
-            "link": "shopify://collections/cucina-e-tavola-bicchieri-e-calici"
-          }
-        },
-        "column_We4V3e": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "TAVOLA NATALE 2026",
-            "link": "shopify://pages/la-tavola-di-natale"
-          }
-        }
-      },
-      "block_order": [
-        "column_dweBqF",
-        "column_UCLtjB",
-        "column_GFjhAb",
-        "column_We4V3e"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "button_label": "",
-        "button_link": "",
-        "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "none",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "custom_liquid_kJTnGb": {
+    "custom_liquid_WAfjjF": {
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "",
+        "custom_liquid": "<div class=\"xm-indice\">\n  <h1 class=\"xm-indice__titolo\">Come Apparecchiare la Tavola di Natale 2026? Idee e Consigli per un Look Inconfondibile</h1>\n  <div class=\"xm-indice__intro\">\n    <p>Per apparecchiare una bella tavola di Natale non servono necessariamente decorazioni elaborate. Bastano una mise en place curata, colori ben abbinati e pochi dettagli scelti con attenzione.</p>\n    <p>Scopri come disporre piatti, posate e bicchieri e come creare un'atmosfera accogliente, dalla tavola elegante a quella più originale.</p>\n  </div>\n  <nav class=\"xm-indice__menu\" aria-label=\"Indice dell'articolo\">\n    <a class=\"xm-indice__voce\" href=\"#shopify-section-template--25594959986953__image_with_text_et4rKW\"><span class=\"xm-indice__num\">1.</span><span class=\"xm-indice__testo\">Elegante, shabby chic, moderna o tradizionale: quale mise en place scegliere?</span><span class=\"xm-indice__freccia\" aria-hidden=\"true\">→</span></a>\n    <a class=\"xm-indice__voce\" href=\"#shopify-section-template--25594959986953__image_with_text_PcQeC7\"><span class=\"xm-indice__num\">2.</span><span class=\"xm-indice__testo\">La tavola di Natale secondo il Galateo e le regole di Bon Ton</span><span class=\"xm-indice__freccia\" aria-hidden=\"true\">→</span></a>\n    <a class=\"xm-indice__voce\" href=\"#shopify-section-template--25594959986953__image_with_text_789DBP\"><span class=\"xm-indice__num\">3.</span><span class=\"xm-indice__testo\">I mille Colori della Tavola di Natale: idee per l’abbinamento</span><span class=\"xm-indice__freccia\" aria-hidden=\"true\">→</span></a>\n    <a class=\"xm-indice__voce\" href=\"#shopify-section-template--25594959986953__image_with_text_jEbVKr\"><span class=\"xm-indice__num\">4.</span><span class=\"xm-indice__testo\">Dalla vigilia al giorno di Natale: le regole da seguire</span><span class=\"xm-indice__freccia\" aria-hidden=\"true\">→</span></a>\n    <a class=\"xm-indice__voce\" href=\"#shopify-section-template--25594959986953__multicolumn_4gW44i\"><span class=\"xm-indice__num\">5.</span><span class=\"xm-indice__testo\">Preparare la Tavola di Natale: foto ed esempi</span><span class=\"xm-indice__freccia\" aria-hidden=\"true\">→</span></a>\n  </nav>\n</div>\n<style>\n  html { scroll-behavior: smooth; }\n  #shopify-section-template--25594959986953__image_with_text_et4rKW,\n  #shopify-section-template--25594959986953__image_with_text_PcQeC7,\n  #shopify-section-template--25594959986953__image_with_text_789DBP,\n  #shopify-section-template--25594959986953__image_with_text_jEbVKr,\n  #shopify-section-template--25594959986953__multicolumn_4gW44i { scroll-margin-top: 96px; }\n  .xm-indice { max-width: var(--page-width, 1400px); margin: 0 auto; padding: 12px 20px 32px; color: rgb(var(--color-foreground)); }\n  .xm-indice__titolo { margin: 0 0 14px; }\n  .xm-indice__intro p { margin: 0 0 10px; }\n  .xm-indice__menu { margin: 22px 0 0; border-top: 1px solid rgba(var(--color-foreground), .12); }\n  .xm-indice__voce { display: flex; align-items: baseline; gap: 14px; padding: 13px 4px; border-bottom: 1px solid rgba(var(--color-foreground), .12); color: rgb(var(--color-foreground)); text-decoration: none; }\n  .xm-indice__voce:hover .xm-indice__testo { text-decoration: underline; text-underline-offset: 3px; }\n  .xm-indice__num { flex: 0 0 auto; font-size: .85em; opacity: .55; min-width: 1.6em; }\n  .xm-indice__testo { flex: 1 1 auto; }\n  .xm-indice__freccia { flex: 0 0 auto; transition: transform .2s ease; }\n  .xm-indice__voce:hover .xm-indice__freccia { transform: translateX(4px); }\n  @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } .xm-indice__freccia { transition: none; } }\n</style>",
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_zX7mKG": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div class=\"xm-consiglio\">\n  <p><strong>Un Consiglio Extra</strong><br>Scegli uno stile che sposa anche il tuo arredamento, lo stile giusto è quello che rappresenta a pieno la tua casa!</p>\n  <div class=\"xm-consiglio__quicklinks\">\n    <a href=\"/collections/cucina-e-tavola-piatti\">PIATTI</a>\n    <a href=\"/collections/cucina-e-tavola-posate\">POSATE</a>\n    <a href=\"/collections/cucina-e-tavola-bicchieri-e-calici\">BICCHIERI</a>\n    <a href=\"/pages/la-tavola-di-natale\">TAVOLA NATALE 2026</a>\n  </div>\n</div>\n<style>\n  .xm-consiglio { max-width: var(--page-width, 1400px); margin: 0 auto; padding: 4px 20px 32px; color: rgb(var(--color-foreground)); }\n  .xm-consiglio p { margin: 0; background: rgba(var(--color-foreground), .04); border-radius: 6px; padding: 16px 20px; font-size: .95em; }\n  .xm-consiglio__quicklinks { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 16px; }\n  .xm-consiglio__quicklinks a { display: inline-block; padding: 10px 16px; border: 1px solid rgba(var(--color-foreground), .25); border-radius: 6px; color: rgb(var(--color-foreground)); text-decoration: none; font-size: .9em; letter-spacing: .02em; transition: background-color .2s ease; }\n  .xm-consiglio__quicklinks a:hover { background: rgba(var(--color-foreground), .06); }\n</style>",
+        "color_scheme": "",
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "image_with_text_et4rKW": {
@@ -1032,13 +840,11 @@
   "order": [
     "image_banner_PAqJha",
     "custom_liquid_wPkWVU",
-    "multicolumn_WpyCnX",
-    "multicolumn_w4WjcX",
-    "multicolumn_489QHn",
-    "custom_liquid_kJTnGb",
+    "custom_liquid_WAfjjF",
     "image_with_text_et4rKW",
     "multirow_gaUUHh",
     "multicolumn_VhzyPr",
+    "custom_liquid_zX7mKG",
     "image_with_text_PcQeC7",
     "multirow_TGNpHm",
     "image_with_text_789DBP",
