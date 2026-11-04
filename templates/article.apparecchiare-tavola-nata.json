@@ -144,7 +144,7 @@
         "column_yQbnJE": {
           "type": "column",
           "settings": {
-            "title": "<strong>Un Consiglio Extra</strong> ",
+            "title": "<strong>Un Consiglio Extra</strong>&nbsp;",
             "text": "<p>Scegli uno stile che sposa anche il tuo arredamento, lo stile giusto è quello che rappresenta a pieno la tua casa!</p>",
             "link_label": "",
             "link": ""
@@ -168,7 +168,7 @@
         "image_ratio": "adapt",
         "button_label": "",
         "button_link": "shopify://pages/natale",
-        "columns_desktop": 1,
+        "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "none",
         "color_scheme": "scheme-1",
@@ -236,7 +236,7 @@
         "column_alignment": "left",
         "background_style": "none",
         "color_scheme": "scheme-1",
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 0
