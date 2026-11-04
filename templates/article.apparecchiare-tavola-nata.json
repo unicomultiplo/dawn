@@ -178,6 +178,16 @@
         "padding_bottom": 0
       }
     },
+    "custom_liquid_kJTnGb": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "multicolumn_489QHn": {
       "type": "multicolumn",
       "blocks": {
@@ -1024,6 +1034,7 @@
     "custom_liquid_wPkWVU",
     "multicolumn_WpyCnX",
     "multicolumn_w4WjcX",
+    "custom_liquid_kJTnGb",
     "multicolumn_489QHn",
     "image_with_text_et4rKW",
     "multirow_gaUUHh",
