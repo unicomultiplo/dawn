@@ -15,7 +15,7 @@
       "settings": {
         "image": "shopify://shop_images/come-apparecchiare-la-tavola-di-natale_1.webp",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "image_behavior": "none",
         "desktop_content_position": "middle-center",
         "desktop_content_alignment": "center",
