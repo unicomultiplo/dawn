@@ -111,7 +111,7 @@
             "title": "<strong>La tavola di Natale firmata Brandani. </strong>Idee e ispirazioni Brandani per vestire la tavola delle feste →&nbsp;",
             "text": "",
             "link_label": "",
-            "link": "/blogs/apparecchiare-con-stile/la-magia-della-tavola-di-natale-firmata-brandani"
+            "link": "/blogs/apparecchiare-con-stile/la-magia-della-tavola-di-natale-firmata-brandani?utm_source=homepage&utm_medium=banner&utm_campaign=articoli-natale&utm_content=tavola-brandani"
           }
         },
         "column_pkBNeY": {
@@ -121,7 +121,7 @@
             "title": "<strong>Regali di Natale per mamma e papà. </strong>&nbsp;Idee regalo per sorprendere i genitori a Natale. &nbsp;→ &nbsp;",
             "text": "",
             "link_label": "",
-            "link": "/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale"
+            "link": "/blogs/regalare-per-stupire/cosa-regalare-ai-genitori-per-natale?utm_source=homepage&utm_medium=banner&utm_campaign=articoli-natale&utm_content=regalo-genitori"
           }
         },
         "column_M3aERX": {
@@ -131,7 +131,7 @@
             "title": "<strong>La tavola di Natale: idee e consigli. </strong>Consigli per creare un look natalizio inconfondibile. &nbsp;→&nbsp;",
             "text": "",
             "link_label": "",
-            "link": "/blogs/apparecchiare-con-stile/come-apparecchiare-la-tavola-di-natale"
+            "link": "/blogs/apparecchiare-con-stile/come-apparecchiare-la-tavola-di-natale?utm_source=homepage&utm_medium=banner&utm_campaign=articoli-natale&utm_content=tavola-consigli"
           }
         },
         "column_XkYfGh": {
@@ -140,7 +140,7 @@
             "title": "Regalare per stupire",
             "text": "<p>Idee, storie e ispirazioni per scegliere un regalo che lasci il segno.</p>",
             "link_label": "Scopri il blog",
-            "link": "shopify://blogs/regalare-per-stupire"
+            "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire?utm_source=homepage&utm_medium=banner&utm_campaign=articoli-natale&utm_content=blog-regalare-per-stupire"
           }
         }
       },
@@ -172,7 +172,7 @@
         "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 0,
+        "padding_top": 20,
         "padding_bottom": 0
       }
     },
@@ -689,6 +689,26 @@
     "multicolumn_ftmdQK": {
       "type": "multicolumn",
       "blocks": {
+        "column_EKqnYe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/regali-per-colleghi-idee-originali-per-ogni-occasione-e-budget_24a8b10d-1d71-4659-847d-34992e4b7235.webp",
+            "title": "",
+            "text": "<p>Regali per colleghi: idee originali per ogni occasione e budget<strong> →</strong></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_NJdaY8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/cosa-chiedere-a-natale-idee-per-una-wishlist.jpg",
+            "title": "",
+            "text": "<p>Cosa chiedere a Natale? Idee per una wishlist che ti somiglia<strong> →</strong></p>",
+            "link_label": "",
+            "link": "shopify://blogs/regalare-per-stupire/cosa-regalare-per-una-casa-nuova"
+          }
+        },
         "column_JyzPxx": {
           "type": "column",
           "settings": {
@@ -718,34 +738,14 @@
             "link_label": "",
             "link": "https://www.unicoemultiplo.com/blogs/regalare-per-stupire/cosa-regalare-per-una-casa-nuova"
           }
-        },
-        "column_bYmCt9": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Seletti-piatti-diesel.png",
-            "title": "",
-            "text": "<p>Seletti, per allestire la tua Tavola Scenografica <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://blogs/apparecchiare-con-stile/piatti-seletti-collezioni-tavola"
-          }
-        },
-        "column_cJAYUe": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/knindustrie-abct-padella-wok-diametro-32-cm-bianca-1.jpg",
-            "title": "",
-            "text": "<p>Padelle antiaderenti, guida all'acquisto <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://pages/padelle-antiaderenti-guida-completa"
-          }
         }
       },
       "block_order": [
+        "column_EKqnYe",
+        "column_NJdaY8",
         "column_JyzPxx",
         "column_B9rnKn",
-        "column_d79q6b",
-        "column_bYmCt9",
-        "column_cJAYUe"
+        "column_d79q6b"
       ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
