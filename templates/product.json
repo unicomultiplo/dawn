@@ -291,6 +291,41 @@
         "padding_bottom": 28
       }
     },
+    "179381807897478496": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_423e128_8VnW6B": {
+          "type": "ai_gen_block_423e128",
+          "disabled": true,
+          "settings": {
+            "desktop_width_percent": 100,
+            "image": "shopify://shop_images/Bitossi-la-tavola-di-natale.webp",
+            "overlay_opacity": 80,
+            "eyebrow": "Il Natale prende forma",
+            "heading": "Un Natale da vivere insieme",
+            "copy": "<p>Idee, ispirazioni e dettagli speciali per i tuoi regali e la tavola delle feste.</p>",
+            "gift_label": "Idee regalo",
+            "gift_url": "shopify://collections/idee-regalo-natale",
+            "christmas_label": "Natale 26",
+            "christmas_url": "",
+            "table_label": "La tavola di Natale",
+            "table_url": "",
+            "fallback_color": "#242833",
+            "text_color": "#FFFFFF",
+            "accent_color": "#F4CF5F",
+            "button_color": "#242833",
+            "button_text_color": "#FFFFFF",
+            "button_hover_color": "#7A342D",
+            "button_hover_text_color": "#FFFFFF"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_423e128_8VnW6B"
+      ],
+      "settings": {}
+    },
     "17854038226507317e": {
       "type": "_blocks",
       "blocks": {
@@ -337,6 +372,7 @@
     "collapsible_content_rDxxtT",
     "custom_liquid_BRp6Nd",
     "related-products",
+    "179381807897478496",
     "17854038226507317e"
   ]
 }
