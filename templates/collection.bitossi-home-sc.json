@@ -96,6 +96,16 @@
         "column_Qn6Wff": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/variante-natalizia-bitossi-home-con-blocchi-verde-abete-rosa-cipria-e-bordeaux.png",
+            "title": "",
+            "text": "<p><strong>Idee Regalo&nbsp;</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-natale"
+          }
+        },
+        "column_pVKxEc": {
+          "type": "column",
+          "settings": {
             "image": "shopify://shop_images/Bitossi-Home-peperoncino.webp",
             "title": "",
             "text": "<p><strong>Accessori Tavola&nbsp;</strong></p>",
@@ -127,6 +137,7 @@
       "block_order": [
         "column_Brktnb",
         "column_Qn6Wff",
+        "column_pVKxEc",
         "column_4anpg9",
         "column_aF6BFy"
       ],
@@ -140,7 +151,7 @@
         "image_ratio": "square",
         "button_label": "",
         "button_link": "",
-        "columns_desktop": 4,
+        "columns_desktop": 5,
         "column_alignment": "center",
         "background_style": "none",
         "color_scheme": "scheme-2",

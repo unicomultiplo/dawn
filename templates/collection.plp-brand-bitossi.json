@@ -69,7 +69,7 @@
         "buttons_R3WWHb": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Scopri L'Orto Bitossi Home",
+            "button_label_1": "Scopri il Natale Bitossi Home",
             "button_link_1": "shopify://collections/lorto-bitossi-home",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -84,12 +84,12 @@
       "settings": {
         "image": "shopify://shop_images/Bitossi-la-tavola-di-natale.webp",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "image_behavior": "fixed",
         "desktop_content_position": "middle-center",
         "desktop_content_alignment": "center",
         "show_text_box": false,
-        "color_scheme": "scheme-2e5c87f5-32a3-471b-8a2f-9099229130c1",
+        "color_scheme": "scheme-1",
         "stack_images_on_mobile": false,
         "mobile_content_alignment": "center",
         "show_text_below": false
@@ -101,9 +101,9 @@
         "column_PjDh4N": {
           "type": "column",
           "settings": {
-            "title": "<strong>Bitossi Home L'Orto</strong>",
-            "text": "<p><strong>Pomodori, cavoli, carciofi e foglie diventano protagonisti</strong> di una tavola ironica, creativa e sorprendentemente elegante. La collezione Orto di Bitossi Home porta in casa il fascino autentico dei mercati italiani e lo trasforma in piatti, ciotole e dettagli decorativi dal carattere vivace. <strong>Colori intensi, forme botaniche</strong> e lavorazioni ricche di personalità danno vita a mise en place fresche e conviviali, perfette per la bella stagione e per chi ama apparecchiare con stile senza prendersi troppo sul serio.</p>",
-            "link_label": "👉 Scopri la collezione Orto Bitossi Home",
+            "title": "La tavola di Natale Bitossi 2026",
+            "text": "<p>Colori da accostare, dettagli da scegliere, una tavola che parla di te. Scopri le idee Bitossi Home per dare alle feste un carattere tutto tuo.</p>",
+            "link_label": "Scopri la tavola di Natale",
             "link": "shopify://collections/lorto-bitossi-home"
           }
         },
@@ -144,8 +144,8 @@
         "buttons_RTxctK": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "L'orto Bitossi Home",
-            "button_link_1": "shopify://collections/lorto-bitossi-home",
+            "button_label_1": "La tavola di Natale 2026",
+            "button_link_1": "shopify://collections/bitossi-home-piatti",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -158,15 +158,15 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/bitossi-home-l-orto-limone2_1.webp",
-        "image_2": "shopify://shop_images/bitossi-home-tutti-l-orto-fragola-1_1.webp",
+        "image": "shopify://shop_images/dettaglio-natalizio-dei-piatti-bon-ton-e-i-senza-tempo-oro.png",
+        "image_2": "shopify://shop_images/servizio-bitossi-dipinto-porpora-con-piatto-da-servire-rotondo-coordinato.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "image_behavior": "none",
         "desktop_content_position": "middle-center",
         "desktop_content_alignment": "center",
         "show_text_box": false,
-        "color_scheme": "scheme-2e5c87f5-32a3-471b-8a2f-9099229130c1",
+        "color_scheme": "scheme-1",
         "stack_images_on_mobile": false,
         "mobile_content_alignment": "center",
         "show_text_below": false
