@@ -104,7 +104,7 @@
             "title": "La tavola di Natale Bitossi 2026",
             "text": "<p>Colori da accostare, dettagli da scegliere, una tavola che parla di te. Scopri le idee Bitossi Home per dare alle feste un carattere tutto tuo.</p>",
             "link_label": "Scopri la tavola di Natale",
-            "link": "shopify://collections/bitossi-home-smerlo-bitossi-home"
+            "link": "shopify://collections/bitossi-home-piatti"
           }
         },
         "column_f8NyNW": {
@@ -170,35 +170,6 @@
         "stack_images_on_mobile": false,
         "mobile_content_alignment": "center",
         "show_text_below": false
-      }
-    },
-    "featured_collection_EihEex": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "collection": "bitossi-home-i-piattini-bitossi-home",
-        "products_to_show": 10,
-        "title": "Bitossi Home: novità e proposte del momento",
-        "heading_size": "h0",
-        "description": "",
-        "show_description": false,
-        "description_style": "subtitle",
-        "columns_desktop": 6,
-        "enable_desktop_slider": true,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "color_scheme": "scheme-2",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "multicolumn_gaht3W": {
@@ -949,7 +920,6 @@
     "image_banner_dc8VCJ",
     "multicolumn_c7Bg4Y",
     "image_banner_NgePmi",
-    "featured_collection_EihEex",
     "multicolumn_gaht3W",
     "collection_list_DFkntc",
     "collection_list_LxpCcQ",
