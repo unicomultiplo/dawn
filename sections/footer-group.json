@@ -11,6 +11,41 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "blocks_JwrUBb": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_423e128_n7QtJz": {
+          "type": "ai_gen_block_423e128",
+          "settings": {
+            "desktop_width_percent": 100,
+            "image": "shopify://shop_images/01_regalo_orizzontale.webp",
+            "overlay_opacity": 75,
+            "eyebrow": "Il Natale prende forma",
+            "heading": "Un Natale da vivere insieme",
+            "copy": "<p>Idee, ispirazioni e dettagli speciali per i tuoi regali e la tavola delle feste.</p>",
+            "gift_label": "Idee Regalo",
+            "gift_url": "shopify://collections/idee-regalo-natale",
+            "christmas_label": "Natale 26",
+            "christmas_url": "shopify://pages/natale",
+            "table_label": "La tavola di Natale",
+            "table_url": "shopify://pages/la-tavola-di-natale",
+            "fallback_color": "#CC0033",
+            "text_color": "#FFFFFF",
+            "accent_color": "#000000",
+            "button_color": "#000000",
+            "button_text_color": "#FFFFFF",
+            "button_hover_color": "#CC0033",
+            "button_hover_text_color": "#FFFFFF"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_423e128_n7QtJz"
+      ],
+      "name": "Hero Natale",
+      "settings": {}
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -67,6 +102,7 @@
     }
   },
   "order": [
+    "blocks_JwrUBb",
     "footer"
   ]
 }

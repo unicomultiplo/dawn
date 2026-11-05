@@ -291,6 +291,7 @@
         "collapsible_row_fp7dmd",
         "collapsible_row_pNH6bt"
       ],
+      "disabled": true,
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
         "caption": "",
@@ -458,6 +459,77 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
+    },
+    "multicolumn_63kXAE": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_cUtMBw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi_-logo-250.jpg",
+            "title": "",
+            "text": "<p><strong>Esplora il brand</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home"
+          }
+        },
+        "column_eR9zMP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-home-torchon-posate.png",
+            "title": "",
+            "text": "<p><strong>Accessori Tavola </strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/posate-bitossi-home"
+          }
+        },
+        "column_Qbznrc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/la-tavola-scomposta-bitossi-home.jpg",
+            "title": "",
+            "text": "<p><strong>La Tavola Scomposta</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/bitossi-home?#shopify-section-template--24628389380361__collection_list_DFkntc"
+          }
+        },
+        "column_yTpCRj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-home-piatti-petalo-2.webp",
+            "title": "",
+            "text": "<p><strong>I Senza Tempo</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/bitossi-home?#shopify-section-template--24628389380361__collection_list_kdtLc8"
+          }
+        }
+      },
+      "block_order": [
+        "column_cUtMBw",
+        "column_eR9zMP",
+        "column_Qbznrc",
+        "column_yTpCRj"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
     }
   },
   "order": [
@@ -469,6 +541,7 @@
     "blocks_jtqRpi",
     "collapsible_content_CTUeTb",
     "multicolumn_MxLddP",
-    "multicolumn_LMBJcc"
+    "multicolumn_LMBJcc",
+    "multicolumn_63kXAE"
   ]
 }
