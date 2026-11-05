@@ -31,6 +31,16 @@
             "link": "shopify://collections/seletti"
           }
         },
+        "column_VkXjaD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Love-in-Bloom-Seletti_196422cc-27a4-45b1-8a92-bd393047e649.webp",
+            "title": "",
+            "text": "<p><strong>Love in Bloom</strong></p><p>Romanticismo Pop <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/love-in-bloom-seletti"
+          }
+        },
         "column_XJqBn9": {
           "type": "column",
           "settings": {
@@ -69,16 +79,6 @@
             "text": "<p><strong>Liberty Mirrors </strong></p><p>Riflessi fuori dal comune <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/specchi-seletti"
-          }
-        },
-        "column_VkXjaD": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Love-in-Bloom-Seletti_196422cc-27a4-45b1-8a92-bd393047e649.webp",
-            "title": "",
-            "text": "<p><strong>Love in Bloom</strong></p><p>Romanticismo Pop <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/love-in-bloom-seletti"
           }
         },
         "column_KRk64y": {
@@ -124,11 +124,11 @@
       },
       "block_order": [
         "column_tPBKRt",
+        "column_VkXjaD",
         "column_XJqBn9",
         "column_NTb3HH",
         "column_k8bKVg",
         "column_zBx8yP",
-        "column_VkXjaD",
         "column_KRk64y",
         "column_6xmWNg",
         "column_YLLPbC",
