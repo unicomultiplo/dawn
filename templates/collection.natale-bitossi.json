@@ -18,6 +18,98 @@
         "color_scheme": "scheme-1"
       }
     },
+    "multicolumn_L8zYcG": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_nGVJnM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi_-logo-250.jpg",
+            "title": "",
+            "text": "<p><strong>Esplora<br/></strong>Tutte le collezioni →</p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home"
+          }
+        },
+        "column_P8Ymwf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/variante-natalizia-bitossi-home-con-blocchi-verde-abete-rosa-cipria-e-bordeaux.png",
+            "title": "",
+            "text": "<p><strong>Idee Regalo</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-natale"
+          }
+        },
+        "column_M4PNxw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-Home-peperoncino.webp",
+            "title": "",
+            "text": "<p><strong>Accessori Tavola&nbsp;<br/></strong>Simboli da portata<strong> </strong>→</p>",
+            "link_label": "",
+            "link": "shopify://collections/posate-bitossi-home"
+          }
+        },
+        "column_Nei6dD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-home-la-tavola-ciao-mondo_bde3f73b-7853-4014-8809-840da1e97f61.webp",
+            "title": "",
+            "text": "<p><strong>La Tavola Scomposta<br/></strong>Mix & match <strong>→</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/bitossi-home?#shopify-section-template--24628389380361__collection_list_DFkntc"
+          }
+        },
+        "column_TG9PCM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/piatti-bitossi-bianchi-e-oro-dall-alto-su-fondo-avorio.png",
+            "title": "",
+            "text": "<p><strong>I Senza Tempo<br/></strong>Eleganza in tavola→</p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/bitossi-home?#shopify-section-template--24628389380361__collection_list_kdtLc8"
+          }
+        },
+        "column_pVJm3Q": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/tavola-dipinto-con-il-posto-in-alto-a-destra-interamente-porpora.png",
+            "title": "",
+            "text": "<p><strong>Dipinto</strong><br/>Simboli da portata<strong> </strong>→</p>",
+            "link_label": "",
+            "link": "shopify://collections/dipinto-bitossi-home"
+          }
+        }
+      },
+      "block_order": [
+        "column_nGVJnM",
+        "column_P8Ymwf",
+        "column_M4PNxw",
+        "column_Nei6dD",
+        "column_TG9PCM",
+        "column_pVJm3Q"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "none",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "multicolumn_ReMqxa": {
       "type": "multicolumn",
       "blocks": {
@@ -26,7 +118,7 @@
           "settings": {
             "image": "shopify://shop_images/Bitossi_-logo-250.jpg",
             "title": "",
-            "text": "<p><strong>Esplora <br/></strong>Tutte le collezioni <strong>→</strong></p>",
+            "text": "<p><strong>Esplora&nbsp;<br/></strong>Tutte le collezioni <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/bitossi-home"
           }
@@ -46,7 +138,7 @@
           "settings": {
             "image": "shopify://shop_images/bitossi-home-la-tavola-scomposta-piattini.webp",
             "title": "",
-            "text": "<p><strong>La Tavola Scomposta<br/></strong>Mix & match <strong>→</strong></p>",
+            "text": "<p><strong>La Tavola Scomposta<br/></strong></p>",
             "link_label": "",
             "link": "shopify://collections/bitossi-home-funky-table-tavola-scomposta"
           }
@@ -90,6 +182,7 @@
         "column_GXKYMF",
         "column_zBx8yP"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -690,91 +783,11 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
-    },
-    "multicolumn_L8zYcG": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_nGVJnM": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Bitossi_-logo-250.jpg",
-            "title": "",
-            "text": "<p><strong>Esplora il brand</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/bitossi-home"
-          }
-        },
-        "column_P8Ymwf": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/variante-natalizia-bitossi-home-con-blocchi-verde-abete-rosa-cipria-e-bordeaux.png",
-            "title": "",
-            "text": "<p><strong>Idee Regalo</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/bitossi-home-natale"
-          }
-        },
-        "column_M4PNxw": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Bitossi-Home-peperoncino.webp",
-            "title": "",
-            "text": "<p><strong>Accessori Tavola&nbsp;</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/posate-bitossi-home"
-          }
-        },
-        "column_Nei6dD": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/bitossi-home-la-tavola-ciao-mondo_bde3f73b-7853-4014-8809-840da1e97f61.webp",
-            "title": "",
-            "text": "<p><strong>La Tavola Scomposta</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/bitossi-home?#shopify-section-template--24628389380361__collection_list_DFkntc"
-          }
-        },
-        "column_TG9PCM": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/piatti-bitossi-bianchi-e-oro-dall-alto-su-fondo-avorio.png",
-            "title": "",
-            "text": "<p><strong>I Senza Tempo</strong></p>",
-            "link_label": "",
-            "link": "https://www.unicoemultiplo.com/collections/bitossi-home?#shopify-section-template--24628389380361__collection_list_kdtLc8"
-          }
-        }
-      },
-      "block_order": [
-        "column_nGVJnM",
-        "column_P8Ymwf",
-        "column_M4PNxw",
-        "column_Nei6dD",
-        "column_TG9PCM"
-      ],
-      "custom_css": [
-        "a {color: black; text-decoration: none;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "square",
-        "button_label": "",
-        "button_link": "",
-        "columns_desktop": 5,
-        "column_alignment": "center",
-        "background_style": "none",
-        "color_scheme": "scheme-2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
     }
   },
   "order": [
     "banner",
+    "multicolumn_L8zYcG",
     "multicolumn_ReMqxa",
     "product-grid",
     "multicolumn_w3YReB",
@@ -786,7 +799,6 @@
     "multicolumn_xAgMMd",
     "dual_images_PgFJyJ",
     "multicolumn_tim83c",
-    "collection_list_iWB7qW",
-    "multicolumn_L8zYcG"
+    "collection_list_iWB7qW"
   ]
 }
