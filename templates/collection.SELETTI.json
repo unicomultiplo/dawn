@@ -168,13 +168,96 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
+    },
+    "multicolumn_L4NCrq": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_pbYYEP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-logo.jpg",
+            "title": "",
+            "text": "<p><strong>Esplora il Brand</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti"
+          }
+        },
+        "column_Dbq3Nb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/superforniture-seletti-new-2025.webp",
+            "title": "",
+            "text": "<p><strong> NEW!  SUPERfurniture</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/superfurniture-seletti"
+          }
+        },
+        "column_nTydDe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-corno-kintsugi.webp",
+            "title": "",
+            "text": "<p><strong>OBJECTS - Idee Regalo</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_qftGfx"
+          }
+        },
+        "column_GNYAFY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-2_d7b0c753-d33f-4f96-95b0-762e82ef3a61.webp",
+            "title": "",
+            "text": "<p><strong>TABLEWARE - Arte della Tavola</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_pekHrY"
+          }
+        },
+        "column_r3MmCk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-my-moon-lamp-lampada-seduta-indoor-outdoor.jpg",
+            "title": "",
+            "text": "<p><strong>LIGHTING - Oggetti Luce</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_ky7KpY"
+          }
+        }
+      },
+      "block_order": [
+        "column_pbYYEP",
+        "column_Dbq3Nb",
+        "column_nTydDe",
+        "column_GNYAFY",
+        "column_r3MmCk"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
     }
   },
   "order": [
     "custom_liquid_3dEadf",
-    "banner",
     "product-grid",
+    "banner",
     "blocks_VWXYUB",
-    "multicolumn_kTpJKY"
+    "multicolumn_kTpJKY",
+    "multicolumn_L4NCrq"
   ]
 }
