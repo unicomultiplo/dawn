@@ -200,7 +200,6 @@
         "column_Ej4CCk",
         "column_UJ8fax"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Idee regalo e collezioni Seletti per il Natale",
@@ -337,7 +336,6 @@
         "column_gfxHib",
         "column_eYnXjJ"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -463,7 +461,6 @@
         "column_fGMJpc",
         "column_PGetmF"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -600,7 +597,6 @@
         "column_ExJ4ph",
         "column_KUHCxg"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Tavola e decorazioni di Natale con lo stile Seletti",
@@ -621,21 +617,21 @@
     },
     "dual_images_PgFJyJ": {
       "type": "dual-images",
-      "disabled": true,
       "custom_css": [
         ".image-text {color: #000 !important;}"
       ],
       "settings": {
         "section_height": 1000,
         "image_padding": 14,
+        "left_image": "shopify://shop_images/Seletti-hybrid-tavola-di-natale.webp",
         "left_link": "shopify://collections/seletti-hybrid-piatti",
-        "left_text": "Piatti Hybrid",
+        "left_text": "Seletti - Piatti Hybrid",
         "right_top_image": "shopify://shop_images/Natale-con-Seletti.webp",
         "right_top_link": "shopify://collections/seletti-catalogo-prodotti-seletti-kintsugi-piatti",
-        "right_top_text": "Piatti Kintsugi",
-        "right_bottom_image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-2.webp",
+        "right_top_text": "Seletti - Piatti Kintsugi",
+        "right_bottom_image": "shopify://shop_images/tovaglietta-acid-seletti-colazione-classic-on-acid.webp",
         "right_bottom_link": "shopify://collections/seletti-diesel-living-seletti-classics-on-acid",
-        "right_bottom_text": "Piatti Classics on Acid",
+        "right_bottom_text": "Seletti - Classics on Acid",
         "margin_top": 32
       }
     },
@@ -665,7 +661,6 @@
         "column_Pjyd9t",
         "column_yQhiCE"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -682,13 +677,6 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 0
-      }
-    },
-    "separator_VpT3fx": {
-      "type": "separator",
-      "name": "Separator Line",
-      "settings": {
-        "line_thickness": 1
       }
     },
     "slideshow_HNxCmk": {
@@ -846,7 +834,6 @@
     "multicolumn_xAgMMd",
     "dual_images_PgFJyJ",
     "multicolumn_tim83c",
-    "separator_VpT3fx",
     "slideshow_HNxCmk",
     "collection_list_iWB7qW"
   ]
