@@ -82,10 +82,10 @@
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<div class=\"um-fascia-rossa\" aria-hidden=\"true\"></div>\n\n<style>\n  .um-fascia-rossa {\n    display: block;\n    width: 100%;\n    height: 40px;\n    background: #cc0033;\n  }\n</style>",
+        "custom_liquid": "<div style=\"display:block!important; width:100%; height:40px; min-height:40px; background:#cc0033!important;\" aria-hidden=\"true\">&nbsp;</div>",
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     }
   },
