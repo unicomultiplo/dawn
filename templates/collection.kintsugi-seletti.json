@@ -259,6 +259,88 @@
         "column_dHGQgR",
         "column_YmwtR8"
       ],
+      "disabled": true,
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "multicolumn_hTCqfH": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_WmaaJn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-logo.jpg",
+            "title": "",
+            "text": "<p><strong>Esplora il Brand</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/seletti"
+          }
+        },
+        "column_REKBcF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/seletti-natale-christmas-gift-idee-regalo.webp",
+            "title": "",
+            "text": "<p><strong>OBJECTS - Idee Regalo</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_qftGfx"
+          }
+        },
+        "column_X7BrxJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seletti-hybrid-tavola-di-natale.webp",
+            "title": "",
+            "text": "<p><strong>TABLEWARE - Arte della Tavola</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_pekHrY"
+          }
+        },
+        "column_QkrGEV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bic-lamp-seletti-new2026_1.webp",
+            "title": "",
+            "text": "<p><strong>LIGHTING - Oggetti Luce</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/seletti?#shopify-section-template--24714007544073__collection_list_ky7KpY"
+          }
+        },
+        "column_ErRxry": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/superforniture-seletti-new-2025.webp",
+            "title": "",
+            "text": "<p><strong>&nbsp;NEW! &nbsp;SUPERfurniture</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/superfurniture-seletti"
+          }
+        }
+      },
+      "block_order": [
+        "column_WmaaJn",
+        "column_REKBcF",
+        "column_X7BrxJ",
+        "column_QkrGEV",
+        "column_ErRxry"
+      ],
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -397,6 +479,7 @@
     "blocks_BcxJz3",
     "collapsible_content_rJLeUk",
     "multicolumn_kTpJKY",
+    "multicolumn_hTCqfH",
     "multicolumn_MxLddP",
     "multicolumn_38PWQd"
   ]
