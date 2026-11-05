@@ -9,29 +9,18 @@
  */
 {
   "sections": {
-    "custom_liquid_aRbbbn": {
-      "type": "custom-liquid",
-      "name": "t:sections.custom-liquid.presets.name",
-      "settings": {
-        "custom_liquid": "<style>.comet-row{width:100%;min-height:56px;display:flex;align-items:center;justify-content:space-evenly;gap:clamp(2px,1vw,8px);box-sizing:border-box;background:#cc0033;overflow:hidden}.comet{position:relative;isolation:isolate;flex:1 1 0;min-width:0;text-align:center;white-space:nowrap;color:#f4cf5f;font-size:clamp(19px,3vw,34px);line-height:1}.comet::after{content:\"\";position:absolute;z-index:-1;width:clamp(12px,2.3vw,28px);height:0.42em;right:52%;top:50%;transform:translateY(-50%) skewX(-28deg);background:linear-gradient(90deg,transparent,rgba(244,207,95,.2),rgba(244,207,95,.9));pointer-events:none}</style><div class=\"comet-row\">{% for i in (1..11) %}<span class=\"comet\" aria-label=\"Stella cometa\" role=\"img\">★</span>{% endfor %}</div>",
-        "color_scheme": "scheme-0d71f853-db84-449e-a028-a5d4d20a80a4",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "custom_liquid_BQHgjD": {
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
         "custom_liquid": "<section class=\"page-width\">\n<div class=\"animate--slide-in scroll-trigger isolate\">\n<h2 class=\"h1\">{{ collection.title }}</h2>\n</div>\n    <p class=\"collection-intro_natale__lead\">\n     <strong>Le idee regalo di Natale </strong>di Unico & Multiplo raccolgono oggetti per casa, cucina, tavola e lifestyle scelti per chi cerca <strong>regali originali, utili e di design.</strong>\n    </p>\n\n    <h5 class=\"collection-intro-lei__trust\" aria-label=\"Servizi disponibili\">\n      <span>✔️ Confezione regalo disponibile. </span>\n      <span>✔️ Spedizione gratuita da 79€.</span>\n      ✔️<a href=\"https://g.page/r/CYBkzXkdeUbGEBA\"> Ritiro gratuito in negozio.</a></span>✔️\n      <a href=\"https://wa.me/390733810100\">Assistenza WhatsApp</a>\n    </h5> \n   </div>\n  </div>\n</section>",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-2e5c87f5-32a3-471b-8a2f-9099229130c1",
         "padding_top": 0,
         "padding_bottom": 0
       }
     },
     "custom_liquid_YVhqVc": {
       "type": "custom-liquid",
-      "disabled": true,
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
         "custom_liquid": "<div class=\"page-width\" aria-label=\"Link rapidi Natale\">\n  <nav class=\"xmas-quick-links\">\n    <a href=\"https://www.unicoemultiplo.com/collections/seletti-natale\" class=\"button button--primary button--small\">Natale con Seletti</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/bitossi-home-natale\" class=\"button button--primary button--small\">Natale con Bitossi</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/natale-con-knindustrie\" class=\"button button--primary button--small\">Natale con KnIndustrie</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-economiche\" class=\"button button--primary button--small\">Idee regalo sotto 50€</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-sotto-100-euro\" class=\"button button--primary button--small\">Idee regalo sotto 100€</a>\n    <a href=\"https://www.unicoemultiplo.com/collections/idee-regalo-regali-sotto-150-euro\" class=\"button button--primary button--small\">Idee regalo sotto 150€</a>\n  </nav>\n</div>\n\n<style>\n  .xmas-quick-links {\n    display:flex;\n    flex-wrap:wrap;\n    gap:.5rem;\n    margin:.5rem 0 1rem;\n  }\n  /* Optional: bottoni a tutta larghezza su mobile */\n  @media (max-width: 749px) {\n    .xmas-quick-links a {\n      width: 100%;\n      justify-content: center;\n    }\n  }\n</style>",
@@ -116,6 +105,7 @@
         "featured_collection_xzQkRj",
         "featured_collection_HaHLHm"
       ],
+      "disabled": true,
       "name": "t:sections.collection-list.presets.name",
       "settings": {
         "title": "Scegli il regalo per budget, destinatario o brand.",
@@ -793,7 +783,6 @@
     }
   },
   "order": [
-    "custom_liquid_aRbbbn",
     "custom_liquid_BQHgjD",
     "custom_liquid_YVhqVc",
     "collection_list_EKQ7V8",
