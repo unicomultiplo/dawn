@@ -96,9 +96,9 @@
         "column_Qn6Wff": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/bitossi-home-torchon-posate.png",
+            "image": "shopify://shop_images/Bitossi-Home-peperoncino.webp",
             "title": "",
-            "text": "<p><strong>Accessori Tavola </strong></p>",
+            "text": "<p><strong>Accessori Tavola&nbsp;</strong></p>",
             "link_label": "",
             "link": "shopify://collections/posate-bitossi-home"
           }
@@ -106,7 +106,7 @@
         "column_4anpg9": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/la-tavola-scomposta-bitossi-home.jpg",
+            "image": "shopify://shop_images/bitossi-home-la-tavola-ciao-mondo_bde3f73b-7853-4014-8809-840da1e97f61.webp",
             "title": "",
             "text": "<p><strong>La Tavola Scomposta</strong></p>",
             "link_label": "",
@@ -116,7 +116,7 @@
         "column_aF6BFy": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bitossi-home-piatti-petalo-2.webp",
+            "image": "shopify://shop_images/piatti-bitossi-bianchi-e-oro-dall-alto-su-fondo-avorio.png",
             "title": "",
             "text": "<p><strong>I Senza Tempo</strong></p>",
             "link_label": "",
