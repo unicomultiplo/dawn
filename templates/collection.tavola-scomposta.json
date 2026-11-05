@@ -376,6 +376,87 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
+    },
+    "multicolumn_LMBJcc": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_pLgJrt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi_-logo-250.jpg",
+            "title": "",
+            "text": "<p><strong>Esplora il brand</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home"
+          }
+        },
+        "column_aE7zMr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/variante-natalizia-bitossi-home-con-blocchi-verde-abete-rosa-cipria-e-bordeaux.png",
+            "title": "",
+            "text": "<p><strong>Idee Regalo</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-natale"
+          }
+        },
+        "column_MgwtVV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bitossi-Home-peperoncino.webp",
+            "title": "",
+            "text": "<p><strong>Accessori Tavola&nbsp;</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/posate-bitossi-home"
+          }
+        },
+        "column_J9wAKe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-home-la-tavola-ciao-mondo_bde3f73b-7853-4014-8809-840da1e97f61.webp",
+            "title": "",
+            "text": "<p><strong>La Tavola Scomposta</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/bitossi-home?#shopify-section-template--24628389380361__collection_list_DFkntc"
+          }
+        },
+        "column_dBmYiQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/piatti-bitossi-bianchi-e-oro-dall-alto-su-fondo-avorio.png",
+            "title": "",
+            "text": "<p><strong>I Senza Tempo</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/bitossi-home?#shopify-section-template--24628389380361__collection_list_kdtLc8"
+          }
+        }
+      },
+      "block_order": [
+        "column_pLgJrt",
+        "column_aE7zMr",
+        "column_MgwtVV",
+        "column_J9wAKe",
+        "column_dBmYiQ"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
     }
   },
   "order": [
@@ -386,6 +467,7 @@
     "multicolumn_K84U3F",
     "blocks_jtqRpi",
     "collapsible_content_CTUeTb",
-    "multicolumn_MxLddP"
+    "multicolumn_MxLddP",
+    "multicolumn_LMBJcc"
   ]
 }
