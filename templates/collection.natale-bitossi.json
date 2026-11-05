@@ -15,17 +15,7 @@
       "settings": {
         "show_collection_description": false,
         "show_collection_image": false,
-        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828"
-      }
-    },
-    "custom_liquid_3qweLk": {
-      "type": "custom-liquid",
-      "name": "t:sections.custom-liquid.presets.name",
-      "settings": {
-        "custom_liquid": "<style>.comet-row{width:100%;min-height:56px;display:flex;align-items:center;justify-content:space-evenly;gap:clamp(2px,1vw,8px);box-sizing:border-box;background:#cc0033;overflow:hidden}.comet{position:relative;isolation:isolate;flex:1 1 0;min-width:0;text-align:center;white-space:nowrap;color:#f4cf5f;font-size:clamp(19px,3vw,34px);line-height:1}.comet::after{content:\"\";position:absolute;z-index:-1;width:clamp(12px,2.3vw,28px);height:0.42em;right:52%;top:50%;transform:translateY(-50%) skewX(-28deg);background:linear-gradient(90deg,transparent,rgba(244,207,95,.2),rgba(244,207,95,.9));pointer-events:none}</style><div class=\"comet-row\">{% for i in (1..11) %}<span class=\"comet\" aria-label=\"Stella cometa\" role=\"img\">★</span>{% endfor %}</div>",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 52
+        "color_scheme": "scheme-1"
       }
     },
     "multicolumn_ReMqxa": {
@@ -166,7 +156,6 @@
         "column_Ej4CCk",
         "column_UJ8fax"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Idee e collezioni Bitossi Home per un Natale creativo",
@@ -292,7 +281,6 @@
         "column_gfxHib",
         "column_eYnXjJ"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -418,7 +406,6 @@
         "column_fGMJpc",
         "column_PGetmF"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -555,7 +542,6 @@
         "column_ExJ4ph",
         "column_KUHCxg"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Tavola e offerte Bitossi Home per il Natale",
@@ -576,20 +562,19 @@
     },
     "dual_images_PgFJyJ": {
       "type": "dual-images",
-      "disabled": true,
       "custom_css": [
-        ".image-text {color: #000 !important;}"
+        ".image-text {color: #fff !important;}"
       ],
       "settings": {
-        "section_height": 1000,
-        "image_padding": 10,
-        "left_image": "shopify://shop_images/bitossi-home-la-tavola-tutti-i-frutti.webp",
-        "left_link": "shopify://collections/tutti-i-frutti-bitossi-home",
-        "left_text": "Tutti i Frutti",
+        "section_height": 660,
+        "image_padding": 15,
+        "left_image": "shopify://shop_images/natale-festivo-cucina-c2c5c75e.png",
+        "left_link": "shopify://collections/dipinto-bitossi-home",
+        "left_text": "Dipinto",
         "right_top_image": "shopify://shop_images/botanica-natale-bitossi-home.webp",
         "right_top_link": "shopify://collections/bitossi-home-botanica",
         "right_top_text": "Piatti Botanica",
-        "right_bottom_image": "shopify://shop_images/tavola_scomposta-natale-bitossi.webp",
+        "right_bottom_image": "shopify://shop_images/418467604_759065612926425_5644960031070479392_n.jpg",
         "right_bottom_link": "shopify://collections/bitossi-home-funky-table-tavola-scomposta",
         "right_bottom_text": "La Tavola Scomposta",
         "margin_top": 32
@@ -600,7 +585,6 @@
       "blocks": {
         "column_Pjyd9t": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "title": "<strong>Tavola di Natale Bitossi Home tra colore e creatività</strong>",
             "text": "<p>Con Bitossi Home la tavola non segue regole.<br/><strong>Piatti illustrati, bordi irregolari, decori fuori dal comune</strong>: ogni elemento è pensato per essere combinato, sovrapposto, reinterpretato. <br/>Bitossi Home è per chi ama <strong>mescolare piatti diversi</strong>, giocare con <strong>colori accesi</strong>, cambiare disposizione ogni volta. Ci sono <strong>piatti illustrati</strong>, con bordi mossi o finiture opache, da accostare senza paura.<br/><strong>Bicchieri in vetro colorato</strong>, che portano luce e movimento sulla tavola.<br/><strong>Posate dorate o smaltate</strong>, che bastano da sole a rendere speciale anche il piatto più semplice.<br/>E poi <strong>alzate, candelabri, oggetti decorativi</strong>: tutto contribuisce a costruire un’atmosfera viva, personale. </p><p><em>La tavola delle feste non dev’essere perfetta: dev’essere tua. E con Bitossi, lo è sempre.</em></p>",
@@ -707,84 +691,90 @@
         "padding_bottom": 0
       }
     },
-    "slideshow_HNxCmk": {
-      "type": "slideshow",
+    "multicolumn_L8zYcG": {
+      "type": "multicolumn",
       "blocks": {
-        "slide_MmcpKy": {
-          "type": "slide",
+        "column_nGVJnM": {
+          "type": "column",
           "settings": {
-            "image": "shopify://shop_images/l-orto-new-bitossi-home-collection.webp",
-            "image_overlay_opacity": 0,
-            "heading": "L'orto",
-            "heading_size": "h2",
-            "subheading": "La Tavola Vegetale",
-            "button_label": "Scoprila ora!",
-            "link": "shopify://collections/lorto-bitossi-home",
-            "button_style_secondary": true,
-            "show_text_box": true,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "scheme-1"
+            "image": "shopify://shop_images/Bitossi_-logo-250.jpg",
+            "title": "",
+            "text": "<p><strong>Esplora il brand</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home"
           }
         },
-        "slide_QHjxww": {
-          "type": "slide",
+        "column_P8Ymwf": {
+          "type": "column",
           "settings": {
-            "image": "shopify://shop_images/natale-bitossi-il_frutto_della-passione_1.webp",
-            "image_overlay_opacity": 0,
-            "heading": "il Frutto della Passione",
-            "heading_size": "h1",
-            "subheading": "La tavola, in chiave Bitossi.",
-            "button_label": "Scoprila Ora!",
-            "link": "shopify://collections/bitossi-home-il-frutto-della-passione-bitossi-home",
-            "button_style_secondary": true,
-            "show_text_box": true,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "scheme-1"
+            "image": "shopify://shop_images/variante-natalizia-bitossi-home-con-blocchi-verde-abete-rosa-cipria-e-bordeaux.png",
+            "title": "",
+            "text": "<p><strong>Idee Regalo</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/bitossi-home-natale"
           }
         },
-        "slide_gw7i8P": {
-          "type": "slide",
+        "column_M4PNxw": {
+          "type": "column",
           "settings": {
-            "image": "shopify://shop_images/torchon-bitossi-home-novita-posate.webp",
-            "image_overlay_opacity": 0,
-            "heading": "Posate Torchon",
-            "heading_size": "h2",
-            "subheading": "Il dettaglio che fa la differenza!",
-            "button_label": "Scopri tutta la Collezione",
-            "link": "shopify://collections/torchon-bitossi-home",
-            "button_style_secondary": true,
-            "show_text_box": true,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "scheme-1"
+            "image": "shopify://shop_images/Bitossi-Home-peperoncino.webp",
+            "title": "",
+            "text": "<p><strong>Accessori Tavola&nbsp;</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/posate-bitossi-home"
+          }
+        },
+        "column_Nei6dD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bitossi-home-la-tavola-ciao-mondo_bde3f73b-7853-4014-8809-840da1e97f61.webp",
+            "title": "",
+            "text": "<p><strong>La Tavola Scomposta</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/bitossi-home?#shopify-section-template--24628389380361__collection_list_DFkntc"
+          }
+        },
+        "column_TG9PCM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/piatti-bitossi-bianchi-e-oro-dall-alto-su-fondo-avorio.png",
+            "title": "",
+            "text": "<p><strong>I Senza Tempo</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/bitossi-home?#shopify-section-template--24628389380361__collection_list_kdtLc8"
           }
         }
       },
       "block_order": [
-        "slide_MmcpKy",
-        "slide_QHjxww",
-        "slide_gw7i8P"
+        "column_nGVJnM",
+        "column_P8Ymwf",
+        "column_M4PNxw",
+        "column_Nei6dD",
+        "column_TG9PCM"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
       ],
       "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "numbers",
-        "auto_rotate": true,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": true,
-        "accessibility_info": ""
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     }
   },
   "order": [
     "banner",
-    "custom_liquid_3qweLk",
     "multicolumn_ReMqxa",
     "product-grid",
     "multicolumn_w3YReB",
@@ -797,6 +787,6 @@
     "dual_images_PgFJyJ",
     "multicolumn_tim83c",
     "collection_list_iWB7qW",
-    "slideshow_HNxCmk"
+    "multicolumn_L8zYcG"
   ]
 }
