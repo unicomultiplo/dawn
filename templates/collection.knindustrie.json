@@ -30,16 +30,6 @@
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2"
       }
     },
-    "custom_liquid_gBVak9": {
-      "type": "custom-liquid",
-      "name": "t:sections.custom-liquid.presets.name",
-      "settings": {
-        "custom_liquid": "<style>.comet-row{width:100%;min-height:56px;display:flex;align-items:center;justify-content:space-evenly;gap:clamp(2px,1vw,8px);box-sizing:border-box;background:#cc0033;overflow:hidden}.comet{position:relative;isolation:isolate;flex:1 1 0;min-width:0;text-align:center;white-space:nowrap;color:#f4cf5f;font-size:clamp(19px,3vw,34px);line-height:1}.comet::after{content:\"\";position:absolute;z-index:-1;width:clamp(12px,2.3vw,28px);height:0.42em;right:52%;top:50%;transform:translateY(-50%) skewX(-28deg);background:linear-gradient(90deg,transparent,rgba(244,207,95,.2),rgba(244,207,95,.9));pointer-events:none}</style><div class=\"comet-row\">{% for i in (1..11) %}<span class=\"comet\" aria-label=\"Stella cometa\" role=\"img\">★</span>{% endfor %}</div>",
-        "color_scheme": "scheme-1464a208-fcdd-4ba9-b1e4-de3cd41e6336",
-        "padding_top": 8,
-        "padding_bottom": 0
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -161,6 +151,7 @@
         "column_LriqGm",
         "column_VGJfMb"
       ],
+      "disabled": true,
       "custom_css": [
         "a {color: black; text-decoration: none;}"
       ],
@@ -180,14 +171,106 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multicolumn_WrKGtg": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_jmmYCx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Knidustrie_1.webp",
+            "title": "",
+            "text": "<p><strong>Esplora <br/></strong>Tutte le collezioni <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie"
+          }
+        },
+        "column_BBHFqb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-bollitori-matteo-thun-collection-buy-now-1_a3cf6773-f677-487c-8794-6d1e4c71511f.webp",
+            "title": "",
+            "text": "<p><strong>Idee regalo</strong><br/>Design che sorprende <strong>→</strong></p>",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/natale-con-knindustrie?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Natale+2025&sort_by=manual"
+          }
+        },
+        "column_wb9fCC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/variante-natalizia-di-idee-regalo-knindustrie.png",
+            "title": "",
+            "text": "<p><strong>Accessori tavola</strong><br/>Dettagli che completano <strong>→</strong><br/></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-accessori-tavola"
+          }
+        },
+        "column_Re8AFn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-totem.webp",
+            "title": "",
+            "text": "<p><strong>Bicchieri&nbsp;</strong><br/>Eleganza cristallina<strong> →</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
+          }
+        },
+        "column_GBmqGQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-kn-white-chistmas-dinner-16_2d94e3e4-cddd-49bf-bc85-9a11ffcef3de.webp",
+            "title": "",
+            "text": "<p><strong>Piatti KnIndustrie</strong><br/>Stile essenziale in tavola<strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-piatti"
+          }
+        },
+        "column_PQkbnE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-brick-lane-set-24-pz-gold-2.jpg",
+            "title": "",
+            "text": "<p><strong>Posate KnIndustrie</strong><br/>Minimalismo impeccabile <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-posate"
+          }
+        }
+      },
+      "block_order": [
+        "column_jmmYCx",
+        "column_BBHFqb",
+        "column_wb9fCC",
+        "column_Re8AFn",
+        "column_GBmqGQ",
+        "column_PQkbnE"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
     }
   },
   "order": [
     "custom_liquid_yC8VMV",
     "banner",
-    "custom_liquid_gBVak9",
     "product-grid",
     "blocks_9cXdWG",
-    "multicolumn_fKzGUM"
+    "multicolumn_fKzGUM",
+    "multicolumn_WrKGtg"
   ]
 }
