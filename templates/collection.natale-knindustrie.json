@@ -15,18 +15,7 @@
       "settings": {
         "show_collection_description": false,
         "show_collection_image": false,
-        "color_scheme": "scheme-0b9374bb-6756-47c5-916e-c23251cf8828"
-      }
-    },
-    "custom_liquid_8yN7tK": {
-      "type": "custom-liquid",
-      "custom_css": [],
-      "name": "t:sections.custom-liquid.presets.name",
-      "settings": {
-        "custom_liquid": "<style>.comet-row{width:100%;min-height:56px;display:flex;align-items:center;justify-content:space-evenly;gap:clamp(2px,1vw,8px);box-sizing:border-box;background:#cc0033;overflow:hidden}.comet{position:relative;isolation:isolate;flex:1 1 0;min-width:0;text-align:center;white-space:nowrap;color:#f4cf5f;font-size:clamp(19px,3vw,34px);line-height:1}.comet::after{content:\"\";position:absolute;z-index:-1;width:clamp(12px,2.3vw,28px);height:0.42em;right:52%;top:50%;transform:translateY(-50%) skewX(-28deg);background:linear-gradient(90deg,transparent,rgba(244,207,95,.2),rgba(244,207,95,.9));pointer-events:none}</style><div class=\"comet-row\">{% for i in (1..11) %}<span class=\"comet\" aria-label=\"Stella cometa\" role=\"img\">★</span>{% endfor %}</div>",
-        "color_scheme": "scheme-1464a208-fcdd-4ba9-b1e4-de3cd41e6336",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "color_scheme": "scheme-1"
       }
     },
     "multicolumn_ReMqxa": {
@@ -45,7 +34,7 @@
         "column_k8bKVg": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Oliera-the-Salad-Family-KnIndustrie-piattino_5037771b-70b6-48f4-bc6b-34b37eb9cdf9.webp",
+            "image": "shopify://shop_images/knindustrie-bollitori-matteo-thun-collection-buy-now-1_a3cf6773-f677-487c-8794-6d1e4c71511f.webp",
             "title": "",
             "text": "<p><strong>Idee regalo</strong><br/>Design che sorprende <strong>→</strong></p>",
             "link_label": "",
@@ -55,7 +44,7 @@
         "column_fRigWa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/k7_beatrice_rossetti-knindustrie-idee-natale.webp",
+            "image": "shopify://shop_images/variante-natalizia-di-idee-regalo-knindustrie.png",
             "title": "",
             "text": "<p><strong>Accessori tavola</strong><br/>Dettagli che completano <strong>→</strong><br/></p>",
             "link_label": "",
@@ -65,9 +54,9 @@
         "column_XJqBn9": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/KnIndustrie-Lime-Line-Moscow-Mule.jpg",
+            "image": "shopify://shop_images/knindustrie-totem.webp",
             "title": "",
-            "text": "<p><strong>Bicchieri </strong><br/>Eleganza cristallina<strong> →</strong></p>",
+            "text": "<p><strong>Bicchieri&nbsp;</strong><br/>Eleganza cristallina<strong> →</strong></p>",
             "link_label": "",
             "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
           }
@@ -75,7 +64,7 @@
         "column_NTb3HH": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/knimndustrie-bitossi-seletti-tavola-2.webp",
+            "image": "shopify://shop_images/knindustrie-kn-white-chistmas-dinner-16_2d94e3e4-cddd-49bf-bc85-9a11ffcef3de.webp",
             "title": "",
             "text": "<p><strong>Piatti KnIndustrie</strong><br/>Stile essenziale in tavola<strong>→</strong></p>",
             "link_label": "",
@@ -177,7 +166,6 @@
         "column_pemYh3",
         "column_UJ8fax"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Idee regalo di Natale KnIndustrie: design per la cucina e la tavola",
@@ -303,7 +291,6 @@
         "column_gfxHib",
         "column_eYnXjJ"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -429,7 +416,6 @@
         "column_fGMJpc",
         "column_PGetmF"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -555,7 +541,6 @@
         "column_ExJ4ph",
         "column_KUHCxg"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "Tavola di Natale KnIndustrie: idee per una mise en place contemporanea",
@@ -618,7 +603,6 @@
         "column_Pjyd9t",
         "column_yQhiCE"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -781,7 +765,6 @@
   },
   "order": [
     "banner",
-    "custom_liquid_8yN7tK",
     "multicolumn_ReMqxa",
     "product-grid",
     "multicolumn_w3YReB",
