@@ -376,6 +376,12 @@
     "collection_list_6B6rPA": {
       "type": "collection-list",
       "blocks": {
+        "featured_collection_9mWAAC": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brandani"
+          }
+        },
         "featured_collection_7AnfGr": {
           "type": "featured_collection",
           "settings": {
@@ -386,12 +392,6 @@
           "type": "featured_collection",
           "settings": {
             "collection": "brandani-schiaccianoci"
-          }
-        },
-        "featured_collection_9mWAAC": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "golden-eye-brandani"
           }
         },
         "featured_collection_q4DNny": {
@@ -408,9 +408,9 @@
         }
       },
       "block_order": [
+        "featured_collection_9mWAAC",
         "featured_collection_7AnfGr",
         "featured_collection_3E9t9j",
-        "featured_collection_9mWAAC",
         "featured_collection_q4DNny",
         "featured_collection_jYKqyn"
       ],
@@ -434,7 +434,7 @@
           "type": "button",
           "settings": {
             "button_label": "TUTTA LA MAGIA DELLA TAVOLA BRANDANI",
-            "button_link": "https://blog.unicoemultiplo.com/apparecchiare-con-stile/emozioni-dautunno-e-magia-del-natale-con-brandani/",
+            "button_link": "shopify://blogs/apparecchiare-con-stile/la-magia-della-tavola-di-natale-firmata-brandani",
             "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
