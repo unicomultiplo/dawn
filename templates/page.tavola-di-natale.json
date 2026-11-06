@@ -115,6 +115,104 @@
         "padding_bottom": 0
       }
     },
+    "slideshow_Ch9ApD": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_DPnVbQ": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Apparecchiatura_natalizia_con_luci_calde_e_bacche_rosse-1.png",
+            "image_overlay_opacity": 0,
+            "heading": "La Tavola di Natale Bitossi Home, l'Oro che Illumina!",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Scoprila Subito",
+            "link": "shopify://collections/bitossi-home-natale",
+            "button_style_secondary": true,
+            "show_text_box": true,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-1"
+          }
+        },
+        "slide_BndKaA": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/781425501_18620934046056974_3341414008057056786_n.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "Seletti Kintsugi: per la Tua Tavola di Natale, un'eleganza inconfondibile!",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Scoprili Subito",
+            "link": "shopify://collections/seletti-catalogo-prodotti-kintsugi",
+            "button_style_secondary": true,
+            "show_text_box": true,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-1"
+          }
+        },
+        "slide_VAF76t": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-kn-white-chistmas-dinner-10_2a338a1b-9c57-49c2-bdf2-324034330892.webp",
+            "image_overlay_opacity": 10,
+            "heading": "Natale con KnIndustrie: &nbsp;scegli la forma che Incanta!",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Scegli KnIndustrie",
+            "link": "shopify://collections/natale-con-knindustrie",
+            "button_style_secondary": true,
+            "show_text_box": true,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-1"
+          }
+        },
+        "slide_BMMUh7": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/brandani-queen-natale-2025.webp",
+            "image_overlay_opacity": 0,
+            "heading": "Brandani Piatti Queen, l'eleganza del Bianco sulla Tavola di Natale",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Scopili Subito!",
+            "link": "shopify://products/brandani-queen-tavola-18-pz",
+            "button_style_secondary": true,
+            "show_text_box": true,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-1"
+          }
+        }
+      },
+      "block_order": [
+        "slide_DPnVbQ",
+        "slide_BndKaA",
+        "slide_VAF76t",
+        "slide_BMMUh7"
+      ],
+      "custom_css": [
+        ".slideshow__controls {border: none;}",
+        ".slideshow__autoplay {display: none;}",
+        "slideshow-component {margin-bottom: 60px;}"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "medium",
+        "slider_visual": "numbers",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": ""
+      }
+    },
     "slideshow_Pmtp74": {
       "type": "slideshow",
       "blocks": {
@@ -197,6 +295,7 @@
         "slide_zA69Px",
         "slide_3XmjnL"
       ],
+      "disabled": true,
       "custom_css": [
         ".slideshow__controls {border: none;}",
         ".slideshow__autoplay {display: none;}",
@@ -265,7 +364,7 @@
           "settings": {
             "image": "shopify://shop_images/Tavola-natale-2025.webp",
             "title": "",
-            "text": "<p><strong>I Piatti </strong><br/>Stile essenziale <strong>→</strong></p>",
+            "text": "<p><strong>I Piatti&nbsp;</strong><br/>Stile essenziale <strong>→</strong></p>",
             "link_label": "",
             "link": "shopify://collections/knindustrie-catalogo-prodotti-piatti"
           }
@@ -332,7 +431,7 @@
         "column_alignment": "center",
         "background_style": "primary",
         "color_scheme": "scheme-1",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 20
@@ -388,7 +487,7 @@
         "column_aFwdYH": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/la-tavola-scomposta-bitossi-home.jpg",
+            "image": "shopify://shop_images/tavola-scomposta-bitossi-home-mix.jpg",
             "title": "",
             "text": "<p><strong>La Tavola Scomposta<br/></strong>Mix & match <strong>→</strong></p>",
             "link_label": "",
@@ -398,7 +497,7 @@
         "column_AhgtAj": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/il-frutto-della-passione-pangea-natale.webp",
+            "image": "shopify://shop_images/Il_Frutto_della_Passione_Bitossi_Home-piatti.png",
             "title": "",
             "text": "<p><strong>Il Frutto della Passione</strong><br/>Simboli da portata<strong> </strong>→</p>",
             "link_label": "",
@@ -408,7 +507,7 @@
         "column_cRXjUd": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/natale-abracadabra-bitossi-home.webp",
+            "image": "shopify://shop_images/Abracadabra-bitossi.png",
             "title": "",
             "text": "<p><strong>Abracadabra</strong><br/>Incantesimo di forme <strong>→</strong></p>",
             "link_label": "",
@@ -418,7 +517,7 @@
         "column_qQ6Hzt": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/fiocco-bitossi-home-natale.webp",
+            "image": "shopify://shop_images/variante-natalizia-bitossi-home-con-blocchi-verde-abete-rosa-cipria-e-bordeaux_a359dc33-e5fd-44fe-a483-cfc4df98a0c4.png",
             "title": "",
             "text": "<p><strong>Le Decorazioni<br/></strong>Dettagli wow! →</p>",
             "link_label": "",
@@ -457,7 +556,7 @@
         "column_alignment": "center",
         "background_style": "primary",
         "color_scheme": "scheme-1",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 20
@@ -513,7 +612,7 @@
         "column_WCQVJQ": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Discover_now_our_Hybrid_collection_by_f21b3c46-c7b9-4678-acf9-839ef4db4b0c.webp",
+            "image": "shopify://shop_images/seletti-piatti-decori-abbinati-tavola-marmo-candele.jpg",
             "title": "",
             "text": "<p><strong>Hybrid</strong></p><p>Mix culturale <strong>→</strong></p>",
             "link_label": "",
@@ -523,7 +622,7 @@
         "column_tQY4Yt": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/seletti-classics-on-acid-candelabro-in-ghisa-dancing-candelabrum-2_d7b0c753-d33f-4f96-95b0-762e82ef3a61.webp",
+            "image": "shopify://shop_images/seletti-classic-on-acid-tazze-porcellana-blu.webp",
             "title": "",
             "text": "<p><strong>Classic on Acid</strong></p><p>Chiave teatrale <strong>→</strong></p>",
             "link_label": "",
@@ -533,7 +632,7 @@
         "column_6WhiKM": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Seletti-Kintsugi.webp",
+            "image": "shopify://shop_images/780520379_18620335573056974_8936174398340113125_n_5a3afc3d-f308-46b7-86c0-5a66a4b54533.jpg",
             "title": "",
             "text": "<p><strong>Kintsugi</strong></p><p>Eleganza dorata <strong>→</strong></p>",
             "link_label": "",
@@ -582,7 +681,7 @@
         "column_alignment": "center",
         "background_style": "primary",
         "color_scheme": "scheme-1",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 20
@@ -707,7 +806,7 @@
         "column_alignment": "center",
         "background_style": "primary",
         "color_scheme": "scheme-1",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 20
@@ -719,6 +818,7 @@
     "multicolumn_AX6KKN",
     "custom_liquid_HRAg3n",
     "multicolumn_GJ4qYK",
+    "slideshow_Ch9ApD",
     "slideshow_Pmtp74",
     "multicolumn_VYUhxf",
     "multicolumn_3qwbGR",
