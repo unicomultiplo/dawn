@@ -293,7 +293,7 @@
         "column_MjbY7d": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/k7_beatrice_rossetti-knindustrie-idee-natale.webp",
+            "image": "shopify://shop_images/variante-natalizia-di-idee-regalo-knindustrie.png",
             "title": "",
             "text": "<p><strong>Accessori tavola</strong><br/>Dettagli che completano <strong>→</strong><br/></p>",
             "link_label": "",
@@ -596,7 +596,7 @@
           "settings": {
             "title": "",
             "text": "<p>Ogni tavola racconta un modo diverso di vivere il Natale. Dall'eleganza della porcellana bianca ai decori più originali, scopri servizi di piatti selezionati per creare atmosfere accoglienti, luminose e ricche di personalità. Perché anche la tavola fa parte della magia delle feste.</p>",
-            "link_label": "Scopri la tavola Brandani",
+            "link_label": "",
             "link": ""
           }
         },
@@ -635,6 +635,16 @@
     "multicolumn_TCkpKH": {
       "type": "multicolumn",
       "blocks": {
+        "column_q8jX7r": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Brandani-set-piatti-lo-schiaccianoci-1.webp",
+            "title": "",
+            "text": "<p><strong>Lo Schiaccianoci</strong></p><p>Atmosfera perfetta <strong>→</strong></p>",
+            "link_label": "",
+            "link": "shopify://collections/brandani-schiaccianoci"
+          }
+        },
         "column_CAUxfk": {
           "type": "column",
           "settings": {
@@ -665,16 +675,6 @@
             "link": "https://www.unicoemultiplo.com/products/bitossi-home-set-6-posti-tavola-natale-senza-tempo-oro-e-bone-china"
           }
         },
-        "column_q8jX7r": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Brandani-set-piatti-lo-schiaccianoci-1.webp",
-            "title": "",
-            "text": "<p><strong>Lo Schiaccianoci</strong></p><p>Atmosfera perfetta <strong>→</strong></p>",
-            "link_label": "",
-            "link": "shopify://collections/brandani-schiaccianoci"
-          }
-        },
         "column_CYVrPM": {
           "type": "column",
           "settings": {
@@ -687,10 +687,10 @@
         }
       },
       "block_order": [
+        "column_q8jX7r",
         "column_CAUxfk",
         "column_8tYh7h",
         "column_3BLDmp",
-        "column_q8jX7r",
         "column_CYVrPM"
       ],
       "custom_css": [
@@ -712,46 +712,6 @@
         "padding_top": 0,
         "padding_bottom": 20
       }
-    },
-    "image_banner_LJ9HcL": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_m4g8kJ": {
-          "type": "heading",
-          "settings": {
-            "heading": "IDEE REGALO",
-            "heading_size": "h1"
-          }
-        },
-        "buttons_DhPNKW": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Scoprile tutte!",
-            "button_link_1": "shopify://collections/idee-regalo-natale",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_m4g8kJ",
-        "buttons_DhPNKW"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/idee-regalo-natale-particolari-originali-2025-2.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "image_behavior": "none",
-        "desktop_content_position": "middle-center",
-        "desktop_content_alignment": "center",
-        "show_text_box": true,
-        "color_scheme": "scheme-eef88823-07c8-4ba9-8e91-b971b0ed9f81",
-        "stack_images_on_mobile": false,
-        "mobile_content_alignment": "center",
-        "show_text_below": true
-      }
     }
   },
   "order": [
@@ -767,7 +727,6 @@
     "multicolumn_zGeeUi",
     "multicolumn_6HVXwC",
     "multicolumn_VrqCpb",
-    "multicolumn_TCkpKH",
-    "image_banner_LJ9HcL"
+    "multicolumn_TCkpKH"
   ]
 }
