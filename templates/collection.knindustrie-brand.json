@@ -143,7 +143,7 @@
             "title": "Idee regalo di Natale",
             "text": "<p>Pensieri da scartare, oggetti da vivere. Il design incontra il piacere di regalare.</p>",
             "link_label": "Scopri le idee regalo KnIndustrie",
-            "link": "shopify://collections/the-storm-collection-knindustrie"
+            "link": ""
           }
         },
         "column_f8NyNW": {
@@ -161,8 +161,8 @@
         "column_f8NyNW"
       ],
       "settings": {
-        "title": "KnIndustrie: novità e proposte del momento",
-        "heading_size": "h0",
+        "title": "Natale con KnIndustrie",
+        "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "square",
         "button_label": "",
@@ -747,6 +747,7 @@
         "text_KayAnn",
         "button_rd4LDW"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -754,6 +755,98 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "multicolumn_8UEBNE": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_fbyrg8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Knidustrie_1.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie"
+          }
+        },
+        "column_GGJmKQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-bollitori-matteo-thun-collection-buy-now-1_a3cf6773-f677-487c-8794-6d1e4c71511f.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https://www.unicoemultiplo.com/collections/natale-con-knindustrie?filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Natale+2025&sort_by=manual"
+          }
+        },
+        "column_qKntFx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/variante-natalizia-di-idee-regalo-knindustrie.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-accessori-tavola"
+          }
+        },
+        "column_qWrVWX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-totem.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-bicchieri"
+          }
+        },
+        "column_ft96CG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-kn-white-chistmas-dinner-16_2d94e3e4-cddd-49bf-bc85-9a11ffcef3de.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-piatti"
+          }
+        },
+        "column_YGTzbc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/knindustrie-brick-lane-set-24-pz-gold-2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/knindustrie-catalogo-prodotti-posate"
+          }
+        }
+      },
+      "block_order": [
+        "column_fbyrg8",
+        "column_GGJmKQ",
+        "column_qKntFx",
+        "column_qWrVWX",
+        "column_ft96CG",
+        "column_YGTzbc"
+      ],
+      "custom_css": [
+        "a {color: black; text-decoration: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "none",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "multicolumn_Q3fPtj": {
@@ -817,6 +910,7 @@
         "column_8nnMib",
         "column_WKAwtd"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -874,6 +968,7 @@
     "collection_list_qbh9yb",
     "collection_list_pekHrY",
     "rich_text_CAR6cd",
+    "multicolumn_8UEBNE",
     "multicolumn_Q3fPtj",
     "product-grid"
   ]
