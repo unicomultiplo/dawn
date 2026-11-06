@@ -747,7 +747,6 @@
         "text_KayAnn",
         "button_rd4LDW"
       ],
-      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -841,7 +840,7 @@
         "button_link": "",
         "columns_desktop": 6,
         "column_alignment": "center",
-        "background_style": "none",
+        "background_style": "primary",
         "color_scheme": "scheme-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
