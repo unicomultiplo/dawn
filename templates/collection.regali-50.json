@@ -609,6 +609,7 @@
         "text_UwXjBM",
         "buttons_iKXmUK"
       ],
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/idee-regalo-per-lacoppia.webp",
