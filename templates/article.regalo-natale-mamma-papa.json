@@ -1059,7 +1059,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/La-mamma-che-ama-caffe-te-tisane_1.webp",
+        "image": "shopify://shop_images/papa-che-ama-caffe-tisane-te.webp",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -1080,12 +1080,12 @@
         "row_UXrq6i": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/knindustrie-moka-forato-cucchiaino-da-caffe.jpg",
-            "caption": "Knindustrie",
-            "heading": "Moka forato - cucchiaino da caffè",
-            "text": "<p>Pensato dallo chef Davide Oldani, Knindustrie ha realizzato questo <a href=\"/products/2294-knindustrie-moka-forato-cucchiaino-da-caffe\" title=\"KnIndustrie Foo'D Finitura Lucida Cucchiaino Moka forato\"><strong>cucchiaino da moka</strong></a><strong> </strong>forato che ti permette di miscelare il caffè senza rovinare la bella cremina che si forma in superficie, lasciando intatto tutto il prezioso sapore del caffè. Il tuo papà apprezzerà!<br/><br/></p>",
+            "image": "shopify://shop_images/turbo-moka-caffettiera-2-tazze_tm2_8b80cf1a-4687-442a-9f21-e86e4ab98189.webp",
+            "caption": "Turbo moka",
+            "heading": "Il piacere del caffè, con una marcia in più&nbsp;",
+            "text": "<p>Per il papà che non rinuncia al piacere di un buon caffè, <strong>Turbo Moka</strong> è un regalo che unisce tradizione, innovazione e design Made in Italy.</p><p>La sua particolare <strong>base alettata, ispirata alle turbine</strong>, favorisce una distribuzione più efficiente del calore e permette di preparare il caffè in meno tempo rispetto a una moka tradizionale.</p><p>Un'idea regalo originale per chi ama il rito del caffè, ma sa apprezzare anche le innovazioni che rendono speciale ogni piccolo gesto quotidiano.</p>",
             "button_label": "SCOPRILO",
-            "button_link": "shopify://products/2294-knindustrie-moka-forato-cucchiaino-da-caffe"
+            "button_link": "https://www.unicoemultiplo.com/products/turbo-moka-caffettiera-2-tazze"
           }
         },
         "row_mMLtyk": {
