@@ -347,7 +347,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/mamma-che-ama-l-arte.jpg",
+        "image": "shopify://shop_images/idee-regaolo-per-la-mamma-che-ama-arte.webp",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
