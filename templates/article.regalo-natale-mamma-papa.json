@@ -488,7 +488,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/La-mamma-che-ama-la-cucina.jpg",
+        "image": "shopify://shop_images/regalo-per-la-mamma-che-ama-cicunare.webp",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -607,7 +607,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/cosa-regalare-alla-mamma-che-ama-le-tisane_-15.webp",
+        "image": "shopify://shop_images/regalo-per-la-mamma-che-ama-te-caffe.webp",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -714,7 +714,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/il-papa-che-ama-il-vino_1.webp",
+        "image": "shopify://shop_images/idee-regalo-per-il-papa-che_ama-il-vino.webp",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
