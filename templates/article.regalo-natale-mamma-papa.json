@@ -240,7 +240,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/La-mamma-che-ama-i-fiori.jpg",
+        "image": "shopify://shop_images/idee-regaolo-per-la-mamma.webp",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "text_first",
