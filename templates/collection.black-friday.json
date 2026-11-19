@@ -157,6 +157,37 @@
         "padding_bottom": 52
       }
     },
+    "rich_text_eX6kUe": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Hkm3rX": {
+          "type": "heading",
+          "settings": {
+            "heading": "&nbsp;<strong>Le nostre occasioni speciali</strong>&nbsp;",
+            "heading_size": "h1"
+          }
+        },
+        "text_rxjat7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Una selezione di oggetti di design, complementi d'arredo e servizi di piatti a condizioni speciali. L'occasione giusta per scegliere qualcosa che desideravi da tempo o anticipare un regalo di Natale.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Hkm3rX",
+        "text_rxjat7"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "custom_css": [
@@ -320,6 +351,7 @@
     "image_banner_zTNDDh",
     "rich_text_UYpJGE",
     "custom_liquid_6dmeeM",
+    "rich_text_eX6kUe",
     "product-grid",
     "image_banner_c7zgTA",
     "multicolumn_87rNGP"
