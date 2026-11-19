@@ -76,22 +76,85 @@
         "column_H4Rxdm",
         "column_3TjcKy"
       ],
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "title": "Fai shopping, fai festa!",
         "heading_size": "h2",
         "image_width": "half",
         "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
         "columns_desktop": 6,
         "column_alignment": "center",
         "background_style": "none",
-        "button_label": "",
-        "button_link": "",
         "color_scheme": "scheme-4",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "image_banner_zTNDDh": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Seletti-black-friday.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "rich_text_UYpJGE": {
+      "type": "rich-text",
+      "blocks": {
+        "text_zyGMQr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Scopri la selezione di lampade, oggetti iconici e complementi Seletti in promozione per il Black Friday.</p>"
+          }
+        },
+        "button_zfNj7x": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scopri le offerte Seletti",
+            "button_link": "https://www.unicoemultiplo.com/collections/black-friday?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Seletti&sort_by=title-ascending",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_zyGMQr",
+        "button_zfNj7x"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 20
+      }
+    },
+    "custom_liquid_6dmeeM": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<style>\n  .um-bf-brands {\n    max-width: 1400px;\n    margin: 0 auto;\n    padding: 36px 20px 44px;\n  }\n\n  .um-bf-brands h2 {\n    font-size: clamp(25px, 3vw, 34px);\n    margin: 0 0 26px;\n    line-height: 1.2;\n  }\n\n  .um-bf-grid {\n    display: grid;\n    grid-template-columns: repeat(3, minmax(0, 1fr));\n    gap: 22px;\n  }\n\n  .um-bf-card {\n    display: block;\n    background: #f7f7f7;\n    color: #222;\n    text-decoration: none;\n    padding: 16px;\n    transition: transform .2s ease;\n  }\n\n  .um-bf-card:hover {\n    transform: translateY(-3px);\n  }\n\n  .um-bf-card img {\n    display: block;\n    width: 100%;\n    aspect-ratio: 4 / 3;\n    object-fit: cover;\n    height: auto;\n  }\n\n  .um-bf-card h3 {\n    font-size: 23px;\n    margin: 20px 0 12px;\n    color: #222;\n  }\n\n  .um-bf-card p {\n    font-size: 16px;\n    line-height: 1.55;\n    margin: 0 0 18px;\n    color: #444;\n  }\n\n  .um-bf-link {\n    display: inline-block;\n    font-size: 15px;\n    font-weight: 600;\n    color: #222;\n    border-bottom: 1px solid #222;\n    padding-bottom: 4px;\n  }\n\n  .um-bf-card:hover .um-bf-link {\n    border-bottom-width: 2px;\n  }\n\n  .um-bf-card:focus-visible {\n    outline: 3px solid #333;\n    outline-offset: 3px;\n  }\n\n  @media (max-width: 749px) {\n    .um-bf-brands {\n      padding: 25px 16px 34px;\n    }\n\n    .um-bf-grid {\n      grid-template-columns: 1fr;\n      gap: 22px;\n    }\n\n    .um-bf-card h3 {\n      font-size: 21px;\n    }\n  }\n</style>\n\n<section class=\"um-bf-brands\">\n  <h2>Scopri le offerte per brand</h2>\n\n  <div class=\"um-bf-grid\">\n\n    <!-- KNINDUSTRIE -->\n    <a class=\"um-bf-card\"\n       href=\"/collections/knindustrie\">\n      <img\n        src=\"https://cdn.shopify.com/s/files/1/0839/3808/3081/files/knindustrie-black-friday.jpg?v=1795083558\"\n        alt=\"knIndustrie - Black Friday Unico & Multiplo\"\n        loading=\"lazy\"\n        width=\"800\"\n        height=\"600\">\n\n      <h3>knIndustrie</h3>\n      <p>\n        Design contemporaneo e funzionalità\n        si incontrano in oggetti pensati per\n        la cucina e la tavola. Scopri la\n        collezione con il 15% di sconto\n        per il Black Friday.\n      </p>\n      <span class=\"um-bf-link\">\n        Scopri le offerte &rarr;\n      </span>\n    </a>\n\n    <!-- BITOSSI HOME -->\n    <a class=\"um-bf-card\"\n       href=\"/collections/bitossi-home\">\n      <img\n        src=\"https://cdn.shopify.com/s/files/1/0839/3808/3081/files/Bitossi-black-friday.jpg?v=1795083736\"\n        alt=\"Bitossi Home - Black Friday Unico & Multiplo\"\n        loading=\"lazy\"\n        width=\"800\"\n        height=\"600\">\n\n      <h3>Bitossi Home</h3>\n      <p>\n        Colori, creatività e dettagli fuori\n        dal comune: Bitossi Home trasforma\n        la tavola e la casa in espressioni\n        di stile. Scopri la collezione con\n        il 15% di sconto per il Black Friday.\n      </p>\n      <span class=\"um-bf-link\">\n        Scopri le offerte &rarr;\n      </span>\n    </a>\n\n    <!-- BRANDANI -->\n    <a class=\"um-bf-card\"\n       href=\"/collections/brandani\">\n      <img\n        src=\"https://cdn.shopify.com/s/files/1/0839/3808/3081/files/Brandani-black-friday.jpg?v=1795083797\"\n        alt=\"Brandani - Black Friday Unico & Multiplo\"\n        loading=\"lazy\"\n        width=\"800\"\n        height=\"600\">\n\n      <h3>Brandani</h3>\n      <p>\n        Stile, eleganza e praticità si\n        incontrano in accessori per la\n        tavola, la cucina e la casa.\n        Scopri le proposte Brandani con\n        il 15% di sconto per il Black Friday.\n      </p>\n      <span class=\"um-bf-link\">\n        Scopri le offerte &rarr;\n      </span>\n    </a>\n\n  </div>\n</section>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "product-grid": {
@@ -102,6 +165,7 @@
       "settings": {
         "products_per_page": 36,
         "columns_desktop": 4,
+        "columns_mobile": "2",
         "color_scheme": "scheme-4046f9b6-371a-43a3-b466-a7fa9d2d47d2",
         "image_ratio": "square",
         "image_shape": "default",
@@ -112,7 +176,6 @@
         "enable_filtering": true,
         "filter_type": "drawer",
         "enable_sorting": true,
-        "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -147,13 +210,13 @@
         "image": "shopify://shop_images/idee-regalo-natale-particolari-originali-2025-2.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-4",
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "scheme-4",
         "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
         "show_text_below": true
       }
     },
@@ -238,11 +301,11 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
+        "button_label": "VEDI TUTTE →",
+        "button_link": "shopify://collections/idee-regalo-natale",
         "columns_desktop": 6,
         "column_alignment": "left",
         "background_style": "none",
-        "button_label": "VEDI TUTTE →",
-        "button_link": "shopify://collections/idee-regalo-natale",
         "color_scheme": "scheme-4",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
@@ -254,6 +317,9 @@
   "order": [
     "banner",
     "multicolumn_HaGdWa",
+    "image_banner_zTNDDh",
+    "rich_text_UYpJGE",
+    "custom_liquid_6dmeeM",
     "product-grid",
     "image_banner_c7zgTA",
     "multicolumn_87rNGP"
