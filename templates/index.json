@@ -65,6 +65,49 @@
         "accessibility_info": "Le nostre offerte"
       }
     },
+    "rich_text_6hi9nr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hQ3hab": {
+          "type": "heading",
+          "settings": {
+            "heading": "&nbsp;BLACK FRIDAY 2026&nbsp;",
+            "heading_size": "h1"
+          }
+        },
+        "text_xe7Yt4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Il design che ami, a condizioni speciali. Scopri le offerte Seletti e il 15% sui prodotti aderenti di Bitossi Home, Brandani e knIndustrie.</p>"
+          }
+        },
+        "button_PBJiU3": {
+          "type": "button",
+          "settings": {
+            "button_label": "Scopri il Black Friday",
+            "button_link": "shopify://collections/black-friday",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_hQ3hab",
+        "text_xe7Yt4",
+        "button_PBJiU3"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
     "featured_collection_6FgbJX": {
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
@@ -875,6 +918,7 @@
   },
   "order": [
     "slideshow_dUd4mz",
+    "rich_text_6hi9nr",
     "featured_collection_6FgbJX",
     "separator_UazLhC",
     "multicolumn_CUbU6b",
