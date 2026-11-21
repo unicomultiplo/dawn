@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_EimyCf": {
+          "type": "announcement",
+          "settings": {
+            "text": "BLACK FRIDAY 2026 | Il design che ami, a prezzi speciali →",
+            "link": "https://www.unicoemultiplo.com/collections/black-friday"
+          }
+        },
         "announcement_fjGnw4": {
           "type": "announcement",
           "settings": {
@@ -37,6 +44,7 @@
         }
       },
       "block_order": [
+        "announcement_EimyCf",
         "announcement_fjGnw4",
         "announcement_aPLqRk",
         "announcement_HJUy4B"
