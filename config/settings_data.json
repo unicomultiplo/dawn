@@ -581,7 +581,8 @@
       "a,a:link,a:visited,a * {text-decoration-color: rgb(var(--color-link));}",
       ".collection .media--transparent {background-color: var(--product-background-color);}",
       ".collection .media--transparent img {mix-blend-mode: multiply;}",
-      ".collection .card__content,.collection .card__information {padding-left: 0px;}"
+      ".collection .card__content,.collection .card__information {padding-left: 0px;}",
+      "#HeaderMenu-black-friday,#HeaderDrawer-black-friday {color: #fff !important; background-color: #000 !important;}"
     ]
   }
 }
